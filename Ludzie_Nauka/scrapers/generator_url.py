@@ -99,12 +99,8 @@ if __name__ == "__main__":
     institutions = load_json("instytucje.json")
     disciplines = load_json("dyscypliny.json")
 
-    # Take only the first ones for testing
-    institutions = institutions[:1]
-    disciplines = disciplines[:1]
-
-    print(f"Testing with institutions: {institutions}")
-    print(f"Testing with disciplines: {disciplines}")
+    print(f"Loaded {len(institutions)} institutions")
+    print(f"Loaded {len(disciplines)} disciplines")
 
     degree_codes = None
 
@@ -112,17 +108,13 @@ if __name__ == "__main__":
         institutions=institutions,
         disciplines=disciplines,
         degree_codes=degree_codes,
-        max_pages=5,  # also reduce pages for testing
+        max_pages=100,
     )
 
-    output_path = Path(__file__).parent / "generated_urls_test.json"
+    output_path = Path(__file__).parent / "generated_urls.json"
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(urls, f, ensure_ascii=False, indent=2)
 
     print(f"Generated {len(urls)} URLs")
     print(f"Saved to: {output_path}")
-
-    print("\nURLs:")
-    for item in urls:
-        print(item["url"])
