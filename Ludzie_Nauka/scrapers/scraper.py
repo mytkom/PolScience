@@ -17,36 +17,15 @@ from db_utils import get_connection
 
 
 BASE_URL = "https://ludzie.nauka.gov.pl"
+SCRAPER_VERSION = "search_scraper_v3"
 
 
-def random_sleep(a: float = 1.2, b: float = 2.4) -> None:
+# =========================
+# Helpers
+# =========================
+
+def random_sleep(a: float = 1.0, b: float = 2.0) -> None:
     time.sleep(random.uniform(a, b))
-
-
-def fetch_html_selenium(url: str, headless: bool = True, wait_seconds: int = 25) -> str:
-    options = Options()
-    if headless:
-        options.add_argument("--headless=new")
-
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--window-size=1400,1600")
-    options.add_argument("--lang=pl-PL")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-
-    driver = webdriver.Chrome(options=options)
-
-    try:
-        driver.get(url)
-
-        WebDriverWait(driver, wait_seconds).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "a.item-search-link[href*='/ln/profiles/']"))
-        )
-
-        random_sleep(2.0, 3.5)
-        return driver.page_source
-    finally:
-        driver.quit()
 
 
 def clean_text(text: str | None) -> str | None:
@@ -66,6 +45,40 @@ def extract_profile_parts(href: str) -> tuple[str | None, str | None]:
 
     return last, None
 
+
+# =========================
+# Selenium
+# =========================
+
+def fetch_html_selenium(url: str, headless: bool = True, wait_seconds: int = 25) -> str:
+    options = Options()
+    if headless:
+        options.add_argument("--headless=new")
+
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("--window-size=1400,1600")
+    options.add_argument("--lang=pl-PL")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+
+    driver = webdriver.Chrome(options=options)
+
+    try:
+        driver.get(url)
+
+        WebDriverWait(driver, wait_seconds).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+
+        random_sleep(2.0, 3.0)
+        return driver.page_source
+    finally:
+        driver.quit()
+
+
+# =========================
+# Parsing
+# =========================
 
 def parse_search_page(html: str) -> list[dict[str, Any]]:
     soup = BeautifulSoup(html, "html.parser")
@@ -107,6 +120,49 @@ def parse_search_page(html: str) -> list[dict[str, Any]]:
 
     return results
 
+
+# =========================
+# DB Progress helpers
+# =========================
+
+def scalar(conn, query: str, params: tuple = ()) -> int:
+    cur = conn.execute(query, params)
+    row = cur.fetchone()
+    return row[0] if row and row[0] is not None else 0
+
+
+def get_global_progress(conn) -> dict[str, int]:
+    return {
+        "total": scalar(conn, "SELECT COUNT(*) FROM search_pages"),
+        "pending": scalar(conn, "SELECT COUNT(*) FROM search_pages WHERE status = 'pending'"),
+        "running": scalar(conn, "SELECT COUNT(*) FROM search_pages WHERE status = 'running'"),
+        "done": scalar(conn, "SELECT COUNT(*) FROM search_pages WHERE status = 'done'"),
+        "failed": scalar(conn, "SELECT COUNT(*) FROM search_pages WHERE status = 'failed'"),
+        "skipped": scalar(conn, "SELECT COUNT(*) FROM search_pages WHERE status = 'skipped'"),
+        "profiles_total": scalar(conn, "SELECT COUNT(*) FROM profiles"),
+    }
+
+
+def print_global_progress(conn) -> None:
+    p = get_global_progress(conn)
+    processed = p["done"] + p["skipped"]
+    pct = (processed / p["total"] * 100) if p["total"] else 0
+
+    print("\n" + "=" * 90)
+    print("GLOBAL PROGRESS")
+    print("=" * 90)
+    print(
+        f"Search pages: total={p['total']} | done={p['done']} | skipped={p['skipped']} | "
+        f"failed={p['failed']} | pending={p['pending']} | running={p['running']}"
+    )
+    print(f"Processed: {processed}/{p['total']} ({pct:.2f}%)")
+    print(f"Profiles discovered so far: {p['profiles_total']}")
+    print("=" * 90 + "\n")
+
+
+# =========================
+# DB search_pages
+# =========================
 
 def get_next_pending_search_page(conn) -> dict[str, Any] | None:
     cur = conn.execute(
@@ -165,7 +221,46 @@ def mark_search_page_failed(conn, page_id: int, error_message: str) -> None:
     conn.commit()
 
 
-def upsert_discovered_profile(conn, profile: dict[str, Any], source_search_page_id: int) -> None:
+def skip_later_pages_for_combination(
+    conn,
+    institution: str | None,
+    discipline: str | None,
+    degree_code: str | None,
+    current_page_number: int,
+) -> int:
+    cur = conn.execute(
+        """
+        UPDATE search_pages
+        SET status = 'skipped',
+            updated_at = CURRENT_TIMESTAMP,
+            last_error = 'Skipped because an earlier page for the same combination had zero results'
+        WHERE institution = ?
+          AND COALESCE(discipline, '') = COALESCE(?, '')
+          AND COALESCE(degree_code, '') = COALESCE(?, '')
+          AND page_number > ?
+          AND status IN ('pending', 'failed')
+        """,
+        (institution, discipline, degree_code, current_page_number),
+    )
+    conn.commit()
+    return cur.rowcount
+
+
+# =========================
+# DB profiles
+# =========================
+
+def profile_exists(conn, profile_id: str) -> bool:
+    cur = conn.execute(
+        "SELECT 1 FROM profiles WHERE profile_id = ? LIMIT 1",
+        (profile_id,),
+    )
+    return cur.fetchone() is not None
+
+
+def upsert_discovered_profile(conn, profile: dict[str, Any], source_search_page_id: int) -> str:
+    existed_before = profile_exists(conn, profile["profile_id"])
+
     conn.execute(
         """
         INSERT INTO profiles (
@@ -194,43 +289,138 @@ def upsert_discovered_profile(conn, profile: dict[str, Any], source_search_page_
         ),
     )
 
+    return "updated" if existed_before else "inserted"
 
-def main() -> None:
+
+# =========================
+# Core processing
+# =========================
+
+def process_one_search_page(conn, page: dict[str, Any], headless: bool = True) -> None:
+    page_id = page["id"]
+    url = page["url"]
+    institution = page["institution"]
+    discipline = page["discipline"]
+    degree_code = page["degree_code"]
+    page_number = page["page_number"]
+
+    print("-" * 90)
+    print(f"[START] search_page_id={page_id}")
+    print(f"page_number      : {page_number}")
+    print(f"institution      : {institution}")
+    print(f"discipline       : {discipline}")
+    print(f"degree_code      : {degree_code}")
+    print(f"url              : {url}")
+    print("-" * 90)
+
+    mark_search_page_running(conn, page_id)
+
+    t0 = time.time()
+    html = fetch_html_selenium(url, headless=headless)
+    scrape_seconds = time.time() - t0
+
+    print(f"[FETCHED] HTML downloaded in {scrape_seconds:.2f}s")
+
+    profiles = parse_search_page(html)
+    valid_profiles = [p for p in profiles if p.get("profile_id")]
+
+    print(f"[PARSE] Raw profile cards found   : {len(profiles)}")
+    print(f"[PARSE] Valid profiles with ID    : {len(valid_profiles)}")
+
+    inserted_count = 0
+    updated_count = 0
+
+    for idx, profile in enumerate(valid_profiles, start=1):
+        action = upsert_discovered_profile(conn, profile, source_search_page_id=page_id)
+
+        if action == "inserted":
+            inserted_count += 1
+        else:
+            updated_count += 1
+
+        print(
+            f"    [{idx}/{len(valid_profiles)}] {action.upper():8} "
+            f"profile_id={profile['profile_id']} | {profile.get('full_name')}"
+        )
+
+    conn.commit()
+    mark_search_page_done(conn, page_id, len(valid_profiles))
+
+    print(f"[DB] inserted={inserted_count} | updated={updated_count}")
+    print(f"[DONE] search_page_id={page_id} marked as done")
+
+    if len(valid_profiles) == 0:
+        skipped_count = skip_later_pages_for_combination(
+            conn=conn,
+            institution=institution,
+            discipline=discipline,
+            degree_code=degree_code,
+            current_page_number=page_number,
+        )
+        print(
+            f"[SKIP-CHAIN] Empty page detected on page {page_number}. "
+            f"Skipped {skipped_count} later pages for same combination."
+        )
+
+    print("-" * 90)
+
+
+# =========================
+# Main
+# =========================
+
+def main(max_pages_per_run: int = 20, headless: bool = False) -> None:
     conn = get_connection()
 
+    processed = 0
+    started_at = time.time()
+
     try:
-        page = get_next_pending_search_page(conn)
-        if not page:
-            print("No pending search_pages to scrape.")
-            return
+        print_global_progress(conn)
 
-        page_id = page["id"]
-        url = page["url"]
+        while processed < max_pages_per_run:
+            page = get_next_pending_search_page(conn)
+            if not page:
+                print("No pending search_pages left.")
+                break
 
-        print(f"Scraping search page id={page_id}")
-        print(url)
+            try:
+                process_one_search_page(conn, page, headless=headless)
+                processed += 1
 
-        mark_search_page_running(conn, page_id)
+                elapsed = time.time() - started_at
+                avg = elapsed / processed if processed else 0
 
-        html = fetch_html_selenium(url, headless=False)
-        profiles = parse_search_page(html)
+                print(
+                    f"[RUN PROGRESS] processed_this_run={processed}/{max_pages_per_run} | "
+                    f"elapsed={elapsed/60:.2f} min | avg_per_page={avg:.2f}s"
+                )
 
-        for profile in profiles:
-            if not profile.get("profile_id"):
-                continue
-            upsert_discovered_profile(conn, profile, source_search_page_id=page_id)
+                print_global_progress(conn)
 
-        conn.commit()
-        mark_search_page_done(conn, page_id, len(profiles))
+                random_sleep(1.0, 2.0)
 
-        print(f"Found {len(profiles)} profiles on page {page_id}")
+            except Exception as e:
+                mark_search_page_failed(conn, page["id"], str(e))
+                print(f"[FAILED] search_page_id={page['id']} | error={e}")
 
-    except Exception as e:
-        try:
-            if "page_id" in locals():
-                mark_search_page_failed(conn, page_id, str(e))
-        finally:
-            raise
+        total_elapsed = time.time() - started_at
+        print("\n" + "#" * 90)
+        print("RUN FINISHED")
+        print("#" * 90)
+        print(f"Processed search pages this run: {processed}")
+        print(f"Elapsed time: {total_elapsed/60:.2f} minutes")
+        if processed:
+            print(f"Average per page: {total_elapsed/processed:.2f} seconds")
+        print("#" * 90)
+        print_global_progress(conn)
+
+    except KeyboardInterrupt:
+        print("\n" + "!" * 90)
+        print("STOPPED BY USER (Ctrl+C)")
+        print("You can safely restart later.")
+        print("!" * 90)
+
     finally:
         conn.close()
 
