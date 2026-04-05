@@ -426,4 +426,4 @@ def main(max_pages_per_run: int = 20, headless: bool = False) -> None:
 
 
 if __name__ == "__main__":
-    main()
+    main(max_pages_per_run=10_000_000, headless=True)
