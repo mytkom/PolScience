@@ -21,13 +21,56 @@ from db_utils import ensure_dir, get_connection, json_dumps
 BASE_URL = "https://ludzie.nauka.gov.pl"
 RAW_HTML_DIR = "data/raw_html"
 RAW_JSON_DIR = "data/raw_json"
-SCRAPER_VERSION = "profile_scraper_test_v1"
+SCRAPER_VERSION = "profile_scraper_v2"
 
 
-def random_sleep(a: float = 1.2, b: float = 2.4) -> None:
+# =========================================================
+# Generic helpers
+# =========================================================
+def random_sleep(a: float = 1.0, b: float = 2.0) -> None:
     time.sleep(random.uniform(a, b))
 
 
+def clean_text(text: Optional[str]) -> Optional[str]:
+    if text is None:
+        return None
+    text = re.sub(r"\s+", " ", text).strip()
+    return text or None
+
+
+def get_text(node: Optional[Tag]) -> Optional[str]:
+    if node is None:
+        return None
+    return clean_text(node.get_text(" ", strip=True))
+
+
+def absolute_url(href: Optional[str]) -> Optional[str]:
+    if not href:
+        return None
+    return urljoin(BASE_URL, href)
+
+
+def extract_profile_parts_from_url(url_or_href: str) -> dict[str, Optional[str]]:
+    last = url_or_href.rstrip("/").split("/")[-1]
+    last = unquote(last)
+
+    if "." in last:
+        slug, profile_id = last.rsplit(".", 1)
+    else:
+        slug, profile_id = last, None
+
+    return {"slug": slug, "profile_id": profile_id}
+
+
+def safe_db_value(value: Any) -> Any:
+    if isinstance(value, (list, dict)):
+        return json_dumps(value)
+    return value
+
+
+# =========================================================
+# Selenium
+# =========================================================
 def fetch_html_selenium(url: str, headless: bool = True, wait_seconds: int = 25) -> str:
     options = Options()
     if headless:
@@ -50,45 +93,17 @@ def fetch_html_selenium(url: str, headless: bool = True, wait_seconds: int = 25)
 
         for y in [400, 1200, 2200, 3200, 4600]:
             driver.execute_script(f"window.scrollTo(0, {y});")
-            time.sleep(0.6)
+            time.sleep(0.5)
 
-        time.sleep(2)
+        time.sleep(1.5)
         return driver.page_source
     finally:
         driver.quit()
 
 
-def clean_text(text: Optional[str]) -> Optional[str]:
-    if text is None:
-        return None
-    text = re.sub(r"\s+", " ", text).strip()
-    return text or None
-
-
-def get_text(node: Optional[Tag]) -> Optional[str]:
-    if node is None:
-        return None
-    return clean_text(node.get_text(" ", strip=True))
-
-
-def extract_profile_parts_from_url(url_or_href: str) -> dict[str, Optional[str]]:
-    last = url_or_href.rstrip("/").split("/")[-1]
-    last = unquote(last)
-
-    if "." in last:
-        slug, profile_id = last.rsplit(".", 1)
-    else:
-        slug, profile_id = last, None
-
-    return {"slug": slug, "profile_id": profile_id}
-
-
-def absolute_url(href: Optional[str]) -> Optional[str]:
-    if not href:
-        return None
-    return urljoin(BASE_URL, href)
-
-
+# =========================================================
+# Parsing helpers
+# =========================================================
 def find_section_by_heading(soup: BeautifulSoup, heading: str) -> Optional[Tag]:
     for h4 in soup.select("h4.font-semibold"):
         if get_text(h4) == heading:
@@ -107,6 +122,9 @@ def extract_source_text(container: Tag) -> list[str]:
     return list(dict.fromkeys(sources))
 
 
+# =========================================================
+# Parse sections
+# =========================================================
 def parse_basic_identity(soup: BeautifulSoup, profile_url: str) -> dict[str, Any]:
     parts = extract_profile_parts_from_url(profile_url)
 
@@ -296,6 +314,9 @@ def parse_publications(soup: BeautifulSoup) -> list[dict[str, Any]]:
     cards = section.select("div.rounded.shadow-card.flex.flex-col.gap-4")
     for idx, card in enumerate(cards):
         title_link = card.select_one("a[href*='/publications/']")
+        title = get_text(title_link)
+        title_url = absolute_url(title_link.get("href")) if title_link else None
+
         year_span = card.find("span", string=re.compile(r"^\d{4}$"))
         doi_link = card.select_one("a[href*='doi.org']")
         source_container = card.select_one("ln-publication-source")
@@ -303,23 +324,24 @@ def parse_publications(soup: BeautifulSoup) -> list[dict[str, Any]]:
         authors = None
         publication_type = None
 
-        for div in card.select("div"):
-            txt = get_text(div)
-            if txt and ("Artykuł" in txt or "Książka" in txt):
-                publication_type = txt
-                break
+        inline_groups = card.select("div.inline-flex.gap-2.items-center")
+        for grp in inline_groups:
+            txt = get_text(grp)
+            if not txt:
+                continue
 
-        for div in card.select("div"):
-            txt = get_text(div)
-            if txt and txt != publication_type and "Chełmiński" in txt:
-                authors = txt
-                break
+            if ("Artykuł" in txt or "Książka" in txt):
+                publication_type = txt
+            elif title and txt != title and not re.fullmatch(r"\d{4}", txt):
+                if "doi" not in txt.lower() and "Źródło danych" not in txt:
+                    if authors is None and "," in txt:
+                        authors = txt
 
         results.append(
             {
                 "row_order": idx,
-                "title": get_text(title_link),
-                "title_url": absolute_url(title_link.get("href")) if title_link else None,
+                "title": title,
+                "title_url": title_url,
                 "authors": authors,
                 "publication_type": publication_type,
                 "year": get_text(year_span),
@@ -451,6 +473,50 @@ def parse_all_profile_data(html: str, profile_url: str) -> dict[str, Any]:
     data["coworkers"] = parse_coworkers(soup)
 
     return data
+
+
+# =========================================================
+# DB helpers
+# =========================================================
+def scalar(conn, query: str, params: tuple = ()) -> int:
+    cur = conn.execute(query, params)
+    row = cur.fetchone()
+    return row[0] if row and row[0] is not None else 0
+
+
+def get_global_profile_progress(conn) -> dict[str, int]:
+    return {
+        "total": scalar(conn, "SELECT COUNT(*) FROM profiles"),
+        "discovered": scalar(conn, "SELECT COUNT(*) FROM profiles WHERE scrape_status = 'discovered'"),
+        "running": scalar(conn, "SELECT COUNT(*) FROM profiles WHERE scrape_status = 'running'"),
+        "scraped": scalar(conn, "SELECT COUNT(*) FROM profiles WHERE scrape_status = 'scraped'"),
+        "failed": scalar(conn, "SELECT COUNT(*) FROM profiles WHERE scrape_status = 'failed'"),
+        "employment_history": scalar(conn, "SELECT COUNT(*) FROM employment_history"),
+        "degrees_titles": scalar(conn, "SELECT COUNT(*) FROM degrees_titles"),
+        "memberships": scalar(conn, "SELECT COUNT(*) FROM memberships"),
+        "publications": scalar(conn, "SELECT COUNT(*) FROM publications"),
+        "research_work": scalar(conn, "SELECT COUNT(*) FROM research_work"),
+    }
+
+
+def print_global_profile_progress(conn) -> None:
+    p = get_global_profile_progress(conn)
+    processed = p["scraped"]
+    pct = (processed / p["total"] * 100) if p["total"] else 0
+
+    print("\n" + "=" * 90)
+    print("GLOBAL PROFILE PROGRESS")
+    print("=" * 90)
+    print(
+        f"Profiles: total={p['total']} | scraped={p['scraped']} | failed={p['failed']} | "
+        f"discovered={p['discovered']} | running={p['running']}"
+    )
+    print(f"Processed: {processed}/{p['total']} ({pct:.2f}%)")
+    print(
+        f"Rows: employment={p['employment_history']} | degrees={p['degrees_titles']} | "
+        f"memberships={p['memberships']} | publications={p['publications']} | research={p['research_work']}"
+    )
+    print("=" * 90 + "\n")
 
 
 def get_next_profile_to_scrape(conn) -> dict[str, Any] | None:
@@ -618,29 +684,36 @@ def replace_profile_summary(conn, profile_id: str, data: dict[str, Any]) -> None
     )
 
 
-def replace_child_table(conn, table_name: str, profile_id: str, rows: list[dict[str, Any]], columns: list[str]) -> None:
+def replace_child_table(conn, table_name: str, profile_id: str, rows: list[dict[str, Any]], columns: list[str]) -> int:
     conn.execute(f"DELETE FROM {table_name} WHERE profile_id = ?", (profile_id,))
 
     if not rows:
         conn.commit()
-        return
+        return 0
 
     placeholders = ", ".join(["?"] * (1 + len(columns)))
     columns_sql = ", ".join(["profile_id"] + columns)
 
+    inserted = 0
     for row in rows:
-        values = [profile_id] + [row.get(col) for col in columns]
+        values = [profile_id]
+        for col in columns:
+            values.append(safe_db_value(row.get(col)))
+
         conn.execute(
             f"INSERT INTO {table_name} ({columns_sql}) VALUES ({placeholders})",
             values,
         )
+        inserted += 1
 
     conn.commit()
+    return inserted
 
 
-def replace_research_work(conn, profile_id: str, research_work: dict[str, list[dict[str, Any]]]) -> None:
+def replace_research_work(conn, profile_id: str, research_work: dict[str, list[dict[str, Any]]]) -> int:
     conn.execute("DELETE FROM research_work WHERE profile_id = ?", (profile_id,))
 
+    inserted = 0
     for category, rows in research_work.items():
         for row in rows:
             conn.execute(
@@ -666,8 +739,10 @@ def replace_research_work(conn, profile_id: str, research_work: dict[str, list[d
                     row.get("source"),
                 ),
             )
+            inserted += 1
 
     conn.commit()
+    return inserted
 
 
 def save_raw_files(profile_id: str, html: str, parsed_data: dict[str, Any]) -> tuple[str, str]:
@@ -683,90 +758,180 @@ def save_raw_files(profile_id: str, html: str, parsed_data: dict[str, Any]) -> t
     return str(html_path), str(json_path)
 
 
-def main() -> None:
-    conn = get_connection()
+# =========================================================
+# Core processing
+# =========================================================
+def process_one_profile(conn, profile: dict[str, Any], headless: bool = True) -> None:
+    profile_id = profile["profile_id"]
+    profile_url = profile["profile_url"]
+    old_name = profile.get("full_name")
+
+    print("-" * 90)
+    print(f"[START] profile_id     : {profile_id}")
+    print(f"[START] old_name       : {old_name}")
+    print(f"[START] url            : {profile_url}")
+    print("-" * 90)
+
+    mark_profile_running(conn, profile_id)
+    run_id = start_scrape_run(conn, profile_id, profile_url)
 
     try:
-        profile = get_next_profile_to_scrape(conn)
-        if not profile:
-            print("No profile pending scrape.")
-            return
+        t0 = time.time()
+        html = fetch_html_selenium(profile_url, headless=headless)
+        fetch_seconds = time.time() - t0
+        print(f"[FETCHED] HTML downloaded in {fetch_seconds:.2f}s")
 
-        profile_id = profile["profile_id"]
-        profile_url = profile["profile_url"]
+        t1 = time.time()
+        parsed = parse_all_profile_data(html, profile_url)
+        parse_seconds = time.time() - t1
+        print(f"[PARSED] profile parsed in {parse_seconds:.2f}s")
 
-        print(f"Scraping profile_id={profile_id}")
-        print(profile_url)
+        print(
+            f"[IDENTITY] full_name={parsed.get('full_name')} | "
+            f"orcid={parsed.get('orcid')} | slug={parsed.get('slug')}"
+        )
 
-        mark_profile_running(conn, profile_id)
-        run_id = start_scrape_run(conn, profile_id, profile_url)
+        print(
+            f"[COUNTS] employment={len(parsed.get('employment_history', []))} | "
+            f"degrees={len(parsed.get('degrees_and_titles', []))} | "
+            f"memberships={len(parsed.get('memberships', []))} | "
+            f"publications={len(parsed.get('publications_preview', []))} | "
+            f"research(author={len(parsed.get('research_work', {}).get('author', []))}, "
+            f"promoter={len(parsed.get('research_work', {}).get('promoter', []))}, "
+            f"reviewer={len(parsed.get('research_work', {}).get('reviewer', []))})"
+        )
 
-        try:
-            html = fetch_html_selenium(profile_url, headless=False)
-            parsed = parse_all_profile_data(html, profile_url)
+        raw_html_path, raw_json_path = save_raw_files(profile_id, html, parsed)
+        print(f"[FILES] raw_html={raw_html_path}")
+        print(f"[FILES] raw_json={raw_json_path}")
 
-            raw_html_path, raw_json_path = save_raw_files(profile_id, html, parsed)
+        replace_profile_summary(conn, profile_id, parsed)
 
-            replace_profile_summary(conn, profile_id, parsed)
+        employment_count = replace_child_table(
+            conn,
+            "employment_history",
+            profile_id,
+            parsed.get("employment_history", []),
+            ["row_order", "period", "duration", "institution", "institution_url", "source_json"],
+        )
 
-            replace_child_table(
-                conn,
-                "employment_history",
-                profile_id,
-                parsed.get("employment_history", []),
-                ["row_order", "period", "duration", "institution", "institution_url", "source_json"],
-            )
+        degrees_count = replace_child_table(
+            conn,
+            "degrees_titles",
+            profile_id,
+            parsed.get("degrees_and_titles", []),
+            ["row_order", "year", "degree_or_title", "details_json", "linked_entities_json", "source_json"],
+        )
 
-            replace_child_table(
-                conn,
-                "degrees_titles",
-                profile_id,
-                parsed.get("degrees_and_titles", []),
-                ["row_order", "year", "degree_or_title", "details_json", "linked_entities_json", "source_json"],
-            )
+        memberships_count = replace_child_table(
+            conn,
+            "memberships",
+            profile_id,
+            parsed.get("memberships", []),
+            ["row_order", "role", "membership_name", "membership_url", "period", "organization_path", "source_json"],
+        )
 
-            replace_child_table(
-                conn,
-                "memberships",
-                profile_id,
-                parsed.get("memberships", []),
-                ["row_order", "role", "membership_name", "membership_url", "period", "organization_path", "source_json"],
-            )
+        publications_count = replace_child_table(
+            conn,
+            "publications",
+            profile_id,
+            parsed.get("publications_preview", []),
+            ["row_order", "title", "title_url", "authors", "publication_type", "year", "doi", "doi_url", "source"],
+        )
 
-            replace_child_table(
-                conn,
-                "publications",
-                profile_id,
-                parsed.get("publications_preview", []),
-                ["row_order", "title", "title_url", "authors", "publication_type", "year", "doi", "doi_url", "source"],
-            )
+        research_count = replace_research_work(conn, profile_id, parsed.get("research_work", {}))
 
-            replace_research_work(conn, profile_id, parsed.get("research_work", {}))
+        print(
+            f"[DB] employment={employment_count} | degrees={degrees_count} | "
+            f"memberships={memberships_count} | publications={publications_count} | research={research_count}"
+        )
 
-            mark_profile_done(
-                conn=conn,
-                profile_id=profile_id,
-                full_name=parsed.get("full_name"),
-                breadcrumb_name=parsed.get("breadcrumb_name"),
-                slug=parsed.get("slug"),
-                profile_url=parsed.get("profile_url"),
-                orcid=parsed.get("orcid"),
-                orcid_url=parsed.get("orcid_url"),
-                raw_html_path=raw_html_path,
-                raw_json_path=raw_json_path,
-            )
+        mark_profile_done(
+            conn=conn,
+            profile_id=profile_id,
+            full_name=parsed.get("full_name"),
+            breadcrumb_name=parsed.get("breadcrumb_name"),
+            slug=parsed.get("slug"),
+            profile_url=parsed.get("profile_url"),
+            orcid=parsed.get("orcid"),
+            orcid_url=parsed.get("orcid_url"),
+            raw_html_path=raw_html_path,
+            raw_json_path=raw_json_path,
+        )
 
-            finish_scrape_run_success(conn, run_id)
-            print("Profile scraped successfully.")
+        finish_scrape_run_success(conn, run_id)
+        print(f"[DONE] profile_id={profile_id} marked as scraped")
 
-        except Exception as e:
-            mark_profile_failed(conn, profile_id)
-            finish_scrape_run_failure(conn, run_id, str(e))
-            raise
+    except Exception as e:
+        mark_profile_failed(conn, profile_id)
+        finish_scrape_run_failure(conn, run_id, str(e))
+        print(f"[FAILED] profile_id={profile_id} | error={e}")
+        raise
+
+    print("-" * 90)
+
+
+# =========================================================
+# Main
+# =========================================================
+def main(max_profiles_per_run: int | None = 10, headless: bool = False) -> None:
+    conn = get_connection()
+
+    processed = 0
+    started_at = time.time()
+
+    try:
+        print_global_profile_progress(conn)
+
+        while True:
+            if max_profiles_per_run is not None and processed >= max_profiles_per_run:
+                break
+
+            profile = get_next_profile_to_scrape(conn)
+            if not profile:
+                print("No profile pending scrape.")
+                break
+
+            try:
+                process_one_profile(conn, profile, headless=headless)
+                processed += 1
+
+                elapsed = time.time() - started_at
+                avg = elapsed / processed if processed else 0
+
+                print(
+                    f"[RUN PROGRESS] processed_this_run={processed}"
+                    + (f"/{max_profiles_per_run}" if max_profiles_per_run is not None else "")
+                    + f" | elapsed={elapsed/60:.2f} min | avg_per_profile={avg:.2f}s"
+                )
+
+                print_global_profile_progress(conn)
+                random_sleep(1.0, 2.0)
+
+            except Exception:
+                # error already logged in process_one_profile
+                random_sleep(0.8, 1.4)
+
+        total_elapsed = time.time() - started_at
+        print("\n" + "#" * 90)
+        print("RUN FINISHED")
+        print("#" * 90)
+        print(f"Processed profiles this run: {processed}")
+        print(f"Elapsed time: {total_elapsed/60:.2f} minutes")
+        if processed:
+            print(f"Average per profile: {total_elapsed/processed:.2f} seconds")
+        print("#" * 90)
+        print_global_profile_progress(conn)
+
+    except KeyboardInterrupt:
+        print("\n" + "!" * 90)
+        print("STOPPED BY USER (Ctrl+C)")
+        print("You can safely restart later.")
+        print("!" * 90)
 
     finally:
         conn.close()
 
 
 if __name__ == "__main__":
-    main()
+    main(max_profiles_per_run=100000, headless=False)

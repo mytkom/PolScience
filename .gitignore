@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Databases
+*.sqlite3
+*.db
+
+# Generated files
+generated_urls.json
+generated_urls_test.json
+progress_scraping.txt
+*.log
+
+# Scraped/raw data
+data/
+*.html
+*.jsonl
+
+# Large JSON outputs / dumps
+raw_json/
+raw_html/
+
+# Selenium / temp
+*.tmp
+*.bak
