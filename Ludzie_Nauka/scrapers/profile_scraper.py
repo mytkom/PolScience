@@ -874,7 +874,7 @@ def process_one_profile(conn, profile: dict[str, Any], headless: bool = True) ->
 # =========================================================
 # Main
 # =========================================================
-def main(max_profiles_per_run: int | None = 10, headless: bool = False) -> None:
+def main(max_profiles_per_run: int | None = 10, headless: bool = True) -> None:
     conn = get_connection()
 
     processed = 0
@@ -934,4 +934,4 @@ def main(max_profiles_per_run: int | None = 10, headless: bool = False) -> None:
 
 
 if __name__ == "__main__":
-    main(max_profiles_per_run=100000, headless=False)
+    main(max_profiles_per_run=100000, headless=True )
