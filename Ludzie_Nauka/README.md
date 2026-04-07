@@ -90,9 +90,15 @@ Stores execution history for profile scraping attempts.
 
 ## How to use the DB
 
-Open the database:
+If you downloaded the shared database, for example ludzie_nauka_shared_final.zip, unzip it and run
 
-Once you download it 
+
+```bash
+sqlite3 ludzie_nauka_shared_final.sqlite3
+
+```
+If you did the setup by yourself, with python init_db.py, and did the scraping yourself, run
 
 ```bash
 sqlite3 ludzie_nauka.sqlite3
+```
