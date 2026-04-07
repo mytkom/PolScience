@@ -8,7 +8,7 @@ This project scrapes academic profiles from the Polish science portal **ludzie.n
 
 ## Setup
 
-Initialize the database first:
+Initialize the database first: ( unless you downloaded the final version already)
 
 ```bash
 python3 init_db.py
