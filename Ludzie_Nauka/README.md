@@ -1,9 +1,18 @@
 URL of interest : https://ludzie.nauka.gov.pl/ln/
+
 Advanced research explained : https://ludzie.nauka.gov.pl/wp/pomoc/jak-korzystac-z-wyszukiwarki/
 
 # Ludzie Nauka Scraper
 
 This project scrapes academic profiles from the Polish science portal **ludzie.nauka.gov.pl** and stores the results in a structured **SQLite** database.
+
+## Setup
+
+Initialize the database first:
+
+```bash
+python3 init_db.py
+```
 
 ## Workflow
 
@@ -58,7 +67,7 @@ Key fields:
 Stores one row per discovered person.
 
 Key fields:
-- `profile_id`
+- `profile_id` ( that one is imposed by the website, we don't choose it !)
 - `full_name`
 - `profile_url`
 - `scrape_status` (`discovered`, `running`, `scraped`, `failed`)
@@ -82,6 +91,8 @@ Stores execution history for profile scraping attempts.
 ## How to use the DB
 
 Open the database:
+
+Once you download it 
 
 ```bash
 sqlite3 ludzie_nauka.sqlite3
