@@ -1,0 +1,539 @@
+from __future__ import annotations
+
+import sqlite3
+import time
+from pathlib import Path
+from typing import Any, Optional
+
+from ludzie_nauki.radon import flatten_radon_institution
+
+SCHEMA_PATH = Path(__file__).resolve().parent.parent / "schema.sql"
+
+
+def connect(db_path: str | Path) -> sqlite3.Connection:
+    path = Path(db_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(str(path), isolation_level=None)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA foreign_keys = ON")
+    conn.execute("PRAGMA journal_mode = WAL")
+    return conn
+
+
+def init_schema(conn: sqlite3.Connection) -> None:
+    sql = SCHEMA_PATH.read_text(encoding="utf-8")
+    conn.executescript(sql)
+
+
+def enqueue_radon_task(conn: sqlite3.Connection, institution_id: str, ludzie_name: str) -> None:
+    """Queue a Ludzie institution UUID for deferred Radon portal-search (deduped by id)."""
+    iid = str(institution_id).strip()
+    if not iid:
+        return
+    name = (ludzie_name or "unknown").strip() or "unknown"
+    conn.execute(
+        """
+        INSERT INTO radon_institution_queue (institution_id, ludzie_name, enqueued_at)
+        VALUES (?, ?, ?)
+        ON CONFLICT(institution_id) DO NOTHING
+        """,
+        (iid, name, time.time()),
+    )
+
+
+def radon_queue_delete(conn: sqlite3.Connection, institution_id: str) -> None:
+    conn.execute("DELETE FROM radon_institution_queue WHERE institution_id = ?", (str(institution_id).strip(),))
+
+
+def radon_queue_count(conn: sqlite3.Connection) -> int:
+    row = conn.execute("SELECT COUNT(*) AS c FROM radon_institution_queue").fetchone()
+    return int(row["c"]) if row else 0
+
+
+def list_institution_ids(conn: sqlite3.Connection) -> list[str]:
+    rows = conn.execute("SELECT id FROM institutions ORDER BY id").fetchall()
+    return [str(r[0]) for r in rows if r[0] is not None and str(r[0]).strip()]
+
+
+def upsert_scientific_domain(
+    conn: sqlite3.Connection,
+    code: str,
+    *,
+    label_en: Optional[str] = None,
+    label_pl: Optional[str] = None,
+    parent_code: Optional[str] = None,
+) -> None:
+    if not code:
+        return
+    conn.execute(
+        """
+        INSERT INTO scientific_domains (code, label_en, label_pl, parent_code)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(code) DO UPDATE SET
+          label_en = COALESCE(excluded.label_en, scientific_domains.label_en),
+          label_pl = COALESCE(excluded.label_pl, scientific_domains.label_pl),
+          parent_code = COALESCE(excluded.parent_code, scientific_domains.parent_code)
+        """,
+        (code, label_en, label_pl, parent_code),
+    )
+
+
+def ensure_domain(conn: sqlite3.Connection, code: str | None, label: str | None = None) -> None:
+    """Legacy: treat single label as Polish (search dictionaries are PL)."""
+    if not code:
+        return
+    upsert_scientific_domain(conn, code, label_pl=label or code)
+
+
+def ensure_degree_title(conn: sqlite3.Connection, code: str | None, label: str | None = None) -> None:
+    if not code:
+        return
+    conn.execute(
+        """
+        INSERT INTO degree_titles (code, label)
+        VALUES (?, COALESCE(?, ?))
+        ON CONFLICT(code) DO UPDATE SET label = excluded.label
+        """,
+        (code, label, code),
+    )
+
+
+def upsert_profile(
+    conn: sqlite3.Connection,
+    profile_id: str,
+    *,
+    given_name: str | None = None,
+    surname: str | None = None,
+    prefix: str | None = None,
+    second_name: str | None = None,
+    calculated_edu_level: str | None = None,
+    about_me_pl: str | None = None,
+    about_me_en: str | None = None,
+    orcid: str | None = None,
+    degree_code: str | None = None,
+    domain_code: str | None = None,
+    is_stub: int = 0,
+) -> None:
+    ensure_domain(conn, domain_code)
+    ensure_degree_title(conn, degree_code)
+    conn.execute(
+        """
+        INSERT INTO profiles (
+            id, given_name, surname, prefix, second_name, calculated_edu_level,
+            about_me_pl, about_me_en, orcid, degree_code, domain_code, is_stub
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+          given_name = excluded.given_name,
+          surname = excluded.surname,
+          prefix = excluded.prefix,
+          second_name = excluded.second_name,
+          calculated_edu_level = excluded.calculated_edu_level,
+          about_me_pl = COALESCE(excluded.about_me_pl, profiles.about_me_pl),
+          about_me_en = COALESCE(excluded.about_me_en, profiles.about_me_en),
+          orcid = COALESCE(excluded.orcid, profiles.orcid),
+          degree_code = COALESCE(excluded.degree_code, profiles.degree_code),
+          domain_code = COALESCE(excluded.domain_code, profiles.domain_code),
+          is_stub = CASE WHEN excluded.is_stub = 0 THEN 0 ELSE profiles.is_stub END
+        """,
+        (
+            profile_id,
+            given_name,
+            surname,
+            prefix,
+            second_name,
+            calculated_edu_level,
+            about_me_pl,
+            about_me_en,
+            orcid,
+            degree_code,
+            domain_code,
+            is_stub,
+        ),
+    )
+
+
+def profile_exists(conn: sqlite3.Connection, profile_id: str) -> bool:
+    pid = str(profile_id).strip()
+    if not pid:
+        return False
+    row = conn.execute("SELECT 1 AS x FROM profiles WHERE id = ? LIMIT 1", (pid,)).fetchone()
+    return row is not None
+
+
+def get_keyword_id(conn: sqlite3.Connection, term: str, language_code: str = "") -> int:
+    t = term.strip()
+    if not t:
+        raise ValueError("empty keyword")
+    lc = (language_code or "").strip()
+    row = conn.execute(
+        "SELECT id FROM keywords WHERE term = ? AND language_code = ? LIMIT 1",
+        (t, lc),
+    ).fetchone()
+    if row:
+        return int(row[0])
+    cur = conn.execute("INSERT INTO keywords (term, language_code) VALUES (?, ?)", (t, lc))
+    return int(cur.lastrowid)
+
+
+def replace_profile_summary_keywords(
+    conn: sqlite3.Connection, profile_id: str, items: list[tuple[str, int]]
+) -> None:
+    conn.execute("DELETE FROM profile_keywords WHERE profile_id = ? AND source = 'summary'", (profile_id,))
+    for term, count in items:
+        if not term or not term.strip():
+            continue
+        kid = get_keyword_id(conn, term.strip(), "")
+        conn.execute(
+            """
+            INSERT INTO profile_keywords (profile_id, keyword_id, source, count)
+            VALUES (?, ?, 'summary', ?)
+            """,
+            (profile_id, kid, max(1, int(count))),
+        )
+
+
+def bump_extracted_keyword(
+    conn: sqlite3.Connection, profile_id: str, term: str, language_code: str = "", delta: int = 1
+) -> None:
+    t = term.strip()
+    if not t:
+        return
+    kid = get_keyword_id(conn, t, language_code)
+    conn.execute(
+        """
+        INSERT INTO profile_keywords (profile_id, keyword_id, source, count)
+        VALUES (?, ?, 'extracted', ?)
+        ON CONFLICT(profile_id, keyword_id, source) DO UPDATE SET
+          count = profile_keywords.count + excluded.count
+        """,
+        (profile_id, kid, max(1, delta)),
+    )
+
+
+def delete_child_rows_for_profile(conn: sqlite3.Connection, profile_id: str) -> None:
+    conn.execute("DELETE FROM profile_institutions WHERE profile_id = ?", (profile_id,))
+    conn.execute("DELETE FROM profile_domain_disciplines WHERE profile_id = ?", (profile_id,))
+    conn.execute("DELETE FROM profile_specialties WHERE profile_id = ?", (profile_id,))
+    conn.execute("DELETE FROM profile_memberships WHERE profile_id = ?", (profile_id,))
+    conn.execute("DELETE FROM profile_functions WHERE profile_id = ?", (profile_id,))
+
+
+def insert_organization(conn: sqlite3.Connection, org_id: str, name: str) -> None:
+    conn.execute(
+        """
+        INSERT INTO organizations (id, name) VALUES (?, ?)
+        ON CONFLICT(id) DO UPDATE SET name = excluded.name
+        """,
+        (org_id, name),
+    )
+
+
+def upsert_institution_from_radon_payload(
+    conn: sqlite3.Connection,
+    payload: Optional[dict[str, Any]],
+    *,
+    ludzie_id: str,
+    ludzie_name: str,
+) -> str:
+    """Upsert institutions row; Radon JSON optional. PK = Polon / ludzie institution UUID."""
+    ludzie_id = str(ludzie_id).strip()
+    ludzie_name = (ludzie_name or "unknown").strip() or "unknown"
+    if isinstance(payload, dict) and (payload.get("id") or (payload.get("object") or {}).get("institutionUuid")):
+        f = flatten_radon_institution(payload)
+        iid = str(f["id"] or ludzie_id)
+        f["id"] = iid
+        f.setdefault("name", ludzie_name)
+    else:
+        iid = ludzie_id
+        f = {
+            "id": iid,
+            "name": ludzie_name,
+            "object_type": None,
+            "country": None,
+            "voivodeship": None,
+            "city": None,
+            "street": None,
+            "postal_cd": None,
+            "regon": None,
+            "nip": None,
+            "www": None,
+            "email": None,
+            "phone": None,
+            "status": None,
+            "status_code": None,
+            "polon_object_id": None,
+            "institution_uid": None,
+            "manager_name": None,
+            "manager_surname": None,
+            "i_kind_name": None,
+            "u_type_name": None,
+            "data_source": None,
+            "radon_raw_json": None,
+        }
+    conn.execute(
+        """
+        INSERT INTO institutions (
+            id, name, object_type, country, voivodeship, city, street, postal_cd,
+            regon, nip, www, email, phone, status, status_code,
+            polon_object_id, institution_uid, manager_name, manager_surname,
+            i_kind_name, u_type_name, data_source, radon_raw_json
+        )
+        VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+        ON CONFLICT(id) DO UPDATE SET
+          name = COALESCE(excluded.name, institutions.name),
+          object_type = COALESCE(excluded.object_type, institutions.object_type),
+          country = COALESCE(excluded.country, institutions.country),
+          voivodeship = COALESCE(excluded.voivodeship, institutions.voivodeship),
+          city = COALESCE(excluded.city, institutions.city),
+          street = COALESCE(excluded.street, institutions.street),
+          postal_cd = COALESCE(excluded.postal_cd, institutions.postal_cd),
+          regon = COALESCE(excluded.regon, institutions.regon),
+          nip = COALESCE(excluded.nip, institutions.nip),
+          www = COALESCE(excluded.www, institutions.www),
+          email = COALESCE(excluded.email, institutions.email),
+          phone = COALESCE(excluded.phone, institutions.phone),
+          status = COALESCE(excluded.status, institutions.status),
+          status_code = COALESCE(excluded.status_code, institutions.status_code),
+          polon_object_id = COALESCE(excluded.polon_object_id, institutions.polon_object_id),
+          institution_uid = COALESCE(excluded.institution_uid, institutions.institution_uid),
+          manager_name = COALESCE(excluded.manager_name, institutions.manager_name),
+          manager_surname = COALESCE(excluded.manager_surname, institutions.manager_surname),
+          i_kind_name = COALESCE(excluded.i_kind_name, institutions.i_kind_name),
+          u_type_name = COALESCE(excluded.u_type_name, institutions.u_type_name),
+          data_source = COALESCE(excluded.data_source, institutions.data_source),
+          radon_raw_json = COALESCE(excluded.radon_raw_json, institutions.radon_raw_json)
+        """,
+        (
+            str(f["id"]),
+            f["name"] or ludzie_name,
+            f["object_type"],
+            f["country"],
+            f["voivodeship"],
+            f["city"],
+            f["street"],
+            f["postal_cd"],
+            f["regon"],
+            f["nip"],
+            f["www"],
+            f["email"],
+            f["phone"],
+            f["status"],
+            f["status_code"],
+            f["polon_object_id"],
+            f["institution_uid"],
+            f["manager_name"],
+            f["manager_surname"],
+            f["i_kind_name"],
+            f["u_type_name"],
+            f["data_source"],
+            f["radon_raw_json"],
+        ),
+    )
+    return str(f["id"])
+
+
+def insert_profile_employment(
+    conn: sqlite3.Connection,
+    profile_id: str,
+    employment: dict[str, Any],
+    institution_id: str,
+) -> None:
+    eid = employment.get("employmentId")
+    if not eid:
+        return
+    inst = employment.get("institution") or {}
+    add = employment.get("additionalInformation")
+    conn.execute(
+        """
+        INSERT INTO profile_institutions (
+            employment_id, profile_id, institution_id,
+            start_date, end_date, status_employment,
+            internet_link, additional_information, employment_source,
+            ludzie_institution_name, ludzie_institution_initial_name, gremium_id
+        )
+        VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+        ON CONFLICT(employment_id) DO UPDATE SET
+          profile_id = excluded.profile_id,
+          institution_id = excluded.institution_id,
+          start_date = excluded.start_date,
+          end_date = excluded.end_date,
+          status_employment = excluded.status_employment,
+          internet_link = excluded.internet_link,
+          additional_information = excluded.additional_information,
+          employment_source = excluded.employment_source,
+          ludzie_institution_name = excluded.ludzie_institution_name,
+          ludzie_institution_initial_name = excluded.ludzie_institution_initial_name,
+          gremium_id = excluded.gremium_id
+        """,
+        (
+            str(eid),
+            profile_id,
+            str(institution_id),
+            employment.get("startDate"),
+            employment.get("endDate"),
+            employment.get("statusEmployment"),
+            employment.get("internetLink"),
+            str(add) if add is not None else None,
+            employment.get("employmentSource"),
+            inst.get("name"),
+            inst.get("initialName"),
+            inst.get("gremiumId"),
+        ),
+    )
+
+
+def profile_has_current_employment_at(
+    conn: sqlite3.Connection, profile_id: str, institution_id: str
+) -> bool:
+    row = conn.execute(
+        """
+        SELECT 1 FROM profile_institutions
+        WHERE profile_id = ? AND institution_id = ? AND COALESCE(status_employment,'') = 'CURRENT'
+        LIMIT 1
+        """,
+        (profile_id, institution_id),
+    ).fetchone()
+    return row is not None
+
+
+def seed_dictionaries(conn: sqlite3.Connection, dictionaries: dict[str, Any]) -> None:
+    if not dictionaries:
+        return
+    for d in dictionaries.get("degreeTitles") or []:
+        if isinstance(d, dict) and d.get("code"):
+            ensure_degree_title(conn, d["code"], d.get("label"))
+    for entry in dictionaries.get("domains") or []:
+        dom = entry.get("domain") or {}
+        dcode, dlabel = dom.get("code"), dom.get("label")
+        if dcode:
+            ensure_domain(conn, dcode, dlabel)
+        for disc in entry.get("disciplines") or []:
+            cc = disc.get("code")
+            ll = disc.get("label")
+            if cc:
+                upsert_scientific_domain(conn, cc, label_pl=ll or cc, parent_code=dcode)
+
+
+def upsert_publication_minimal(
+    conn: sqlite3.Connection,
+    pub_id: str,
+    *,
+    title: str | None,
+    abstract: str | None = None,
+    year: int | None,
+    doi: str | None,
+    journal_name: str | None,
+    pages: str | None,
+    publication_type: str | None,
+    url: str | None,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO publications (id, title, abstract, year, doi, journal_name, pages, publication_type, url, detail_fetched)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 0)
+        ON CONFLICT(id) DO UPDATE SET
+          title = COALESCE(excluded.title, publications.title),
+          abstract = COALESCE(excluded.abstract, publications.abstract),
+          year = COALESCE(excluded.year, publications.year),
+          doi = COALESCE(excluded.doi, publications.doi),
+          journal_name = COALESCE(excluded.journal_name, publications.journal_name),
+          pages = COALESCE(excluded.pages, publications.pages),
+          publication_type = COALESCE(excluded.publication_type, publications.publication_type),
+          url = COALESCE(excluded.url, publications.url)
+        """,
+        (pub_id, title, abstract, year, doi, journal_name, pages, publication_type, url),
+    )
+
+
+def set_publication_detail_fetched(conn: sqlite3.Connection, pub_id: str, fetched: bool = True) -> None:
+    conn.execute(
+        "UPDATE publications SET detail_fetched = ? WHERE id = ?",
+        (1 if fetched else 0, pub_id),
+    )
+
+
+def publication_detail_fetched(conn: sqlite3.Connection, pub_id: str) -> bool:
+    row = conn.execute("SELECT detail_fetched FROM publications WHERE id = ?", (pub_id,)).fetchone()
+    return bool(row and row[0] == 1)
+
+
+def clear_publication_extracted_terms(conn: sqlite3.Connection, pub_id: str) -> None:
+    conn.execute("DELETE FROM publication_extracted_terms WHERE publication_id = ?", (pub_id,))
+
+
+def add_publication_extracted_term(
+    conn: sqlite3.Connection, pub_id: str, term: str, language_code: str = ""
+) -> None:
+    t = term.strip()
+    if not t:
+        return
+    lc = (language_code or "").strip()
+    conn.execute(
+        """
+        INSERT OR IGNORE INTO publication_extracted_terms (publication_id, term, language_code)
+        VALUES (?, ?, ?)
+        """,
+        (pub_id, t, lc),
+    )
+
+
+def list_publication_extracted_terms(conn: sqlite3.Connection, pub_id: str) -> list[tuple[str, str]]:
+    return [
+        (str(r[0]), str(r[1]))
+        for r in conn.execute(
+            """
+            SELECT term, language_code FROM publication_extracted_terms
+            WHERE publication_id = ? ORDER BY language_code, term
+            """,
+            (pub_id,),
+        ).fetchall()
+    ]
+
+
+def insert_authorship(conn: sqlite3.Connection, profile_id: str, publication_id: str) -> None:
+    conn.execute(
+        """
+        INSERT OR IGNORE INTO authorship (profile_id, publication_id)
+        VALUES (?, ?)
+        """,
+        (profile_id, publication_id),
+    )
+
+
+def profile_ids_for_pass2(
+    conn: sqlite3.Connection,
+    *,
+    domain_codes: Optional[list[str]] = None,
+    discipline_codes: Optional[list[str]] = None,
+) -> list[str]:
+    dom = [str(x).strip() for x in (domain_codes or []) if x and str(x).strip()]
+    dis = [str(x).strip() for x in (discipline_codes or []) if x and str(x).strip()]
+    if dis and not dom:
+        raise ValueError("discipline filter requires at least one domain")
+    if not dom:
+        rows = conn.execute("SELECT id FROM profiles WHERE is_stub = 0").fetchall()
+        return [str(r["id"]) for r in rows]
+
+    placeholders_d = ",".join(["?"] * len(dom))
+    if not dis:
+        sql = f"""
+            SELECT DISTINCT p.id FROM profiles p
+            LEFT JOIN profile_domain_disciplines pdd ON pdd.profile_id = p.id
+            WHERE p.is_stub = 0
+              AND (
+                p.domain_code IN ({placeholders_d})
+                OR pdd.domain_code IN ({placeholders_d})
+              )
+        """
+        return [str(r["id"]) for r in conn.execute(sql, tuple(dom + dom)).fetchall()]
+
+    placeholders_s = ",".join(["?"] * len(dis))
+    sql = f"""
+        SELECT DISTINCT p.id FROM profiles p
+        INNER JOIN profile_domain_disciplines pdd ON pdd.profile_id = p.id
+        WHERE p.is_stub = 0
+          AND pdd.domain_code IN ({placeholders_d})
+          AND pdd.discipline_code IN ({placeholders_s})
+    """
+    return [str(r["id"]) for r in conn.execute(sql, tuple(dom + dis)).fetchall()]

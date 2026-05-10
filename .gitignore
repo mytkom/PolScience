@@ -46,3 +46,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Ludzie Nauki scraper ignores
+.venv
+__pycache__
+*.sqlite*
