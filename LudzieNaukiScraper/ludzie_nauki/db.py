@@ -184,12 +184,15 @@ def replace_profile_summary_keywords(
         if not term or not term.strip():
             continue
         kid = get_keyword_id(conn, term.strip(), "")
+        c = max(1, int(count))
         conn.execute(
             """
             INSERT INTO profile_keywords (profile_id, keyword_id, source, count)
             VALUES (?, ?, 'summary', ?)
+            ON CONFLICT(profile_id, keyword_id, source) DO UPDATE SET
+              count = profile_keywords.count + excluded.count
             """,
-            (profile_id, kid, max(1, int(count))),
+            (profile_id, kid, c),
         )
 
 
