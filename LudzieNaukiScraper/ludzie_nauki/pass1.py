@@ -385,8 +385,8 @@ def run_pass1_single_profile(
 ) -> int:
     """Enrich one profile without scientistSearchData crawl (quick smoke test)."""
     pid = str(profile_id).strip()
-    if db.profile_exists(conn, pid):
-        LOG.info("skip pass1 enrichment: %s already in DB", pid)
+    if db.profile_exists(conn, pid) and not db.profile_is_stub(conn, pid):
+        LOG.info("skip pass1 enrichment: %s already fully enriched in DB", pid)
         return 0
     dom, dis = _normalized_domain_discipline_lists(search_domains, search_disciplines)
     if dis and not dom:
@@ -553,7 +553,7 @@ def run_pass1(
                     pid = str(pid)
                     if pid in seen:
                         continue
-                    if db.profile_exists(conn, pid):
+                    if db.profile_exists(conn, pid) and not db.profile_is_stub(conn, pid):
                         seen.add(pid)
                         continue
                     if max_profiles is not None and enriched + len(batch) >= max_profiles:

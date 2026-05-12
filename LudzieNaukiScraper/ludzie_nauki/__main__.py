@@ -9,6 +9,7 @@ from ludzie_nauki import db
 from ludzie_nauki.http_client import HttpClient, RadonClient
 from ludzie_nauki.pass1 import run_pass1, run_pass1_single_profile
 from ludzie_nauki.pass2 import run_pass2
+from ludzie_nauki.pass3 import run_pass3
 from ludzie_nauki.radon_queue import drain_radon_queue
 
 
@@ -29,6 +30,11 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--db", required=True, help="SQLite database path")
     p.add_argument("--pass1-only", action="store_true", help="Run Pass 1 only (search + profile enrichment)")
     p.add_argument("--pass2-only", action="store_true", help="Run Pass 2 only (publications + authorship)")
+    p.add_argument(
+        "--pass3-only",
+        action="store_true",
+        help="Run Pass 3 only: enrich each is_stub=1 profile then ingest its publications; repeat rounds until none left",
+    )
     p.add_argument("--page-size", type=int, default=1000, help="scientistSearchData page size (default 1000)")
     p.add_argument("--pub-page-size", type=int, default=500, help="publications list page size (default 500)")
     p.add_argument(
@@ -128,6 +134,13 @@ def main(argv: list[str] | None = None) -> int:
         metavar="N",
         help="With --radon-drain: process at most N queue rows then stop",
     )
+    p.add_argument(
+        "--pass3-max-rounds",
+        type=int,
+        default=None,
+        metavar="N",
+        help="With --pass3-only: abort after N rounds if stubs remain (default: unlimited)",
+    )
     p.add_argument("--verbose", action="store_true")
     ns = p.parse_args(argv)
     _setup_logging(ns.verbose)
@@ -193,15 +206,22 @@ def main(argv: list[str] | None = None) -> int:
             max_retries=ns.max_retries,
         )
     try:
-        do_p1 = not ns.pass2_only
-        do_p2 = not ns.pass1_only
-        if ns.pass1_only and ns.pass2_only:
-            logging.error("choose at most one of --pass1-only / --pass2-only")
+        only_sum = int(ns.pass1_only) + int(ns.pass2_only) + int(ns.pass3_only)
+        if only_sum > 1:
+            logging.error("choose at most one of --pass1-only / --pass2-only / --pass3-only")
             return 2
+
+        single = (ns.single_profile or "").strip()
+        if ns.pass3_only and single:
+            logging.error("--pass3-only processes all stubs; omit --single-profile")
+            return 2
+
+        do_pass3 = ns.pass3_only
+        do_p1 = (not ns.pass2_only) and not do_pass3
+        do_p2 = (not ns.pass1_only) and not do_pass3
         if radon_defer and ns.pass2_only:
             logging.warning("Radon deferral ignored with --pass2-only (no Pass 1 employments)")
 
-        single = (ns.single_profile or "").strip()
         if single and ns.max_profiles is not None:
             logging.warning("--max-profiles ignored when --single-profile is set")
         if single and (
@@ -212,6 +232,21 @@ def main(argv: list[str] | None = None) -> int:
                 "for Pass 1 with --single-profile (no search crawl)"
             )
 
+        if do_pass3:
+            stats = run_pass3(
+                conn,
+                client,
+                radon_client=radon,
+                radon_defer=radon_defer,
+                pub_page_size=ns.pub_page_size,
+                max_rounds=ns.pass3_max_rounds,
+            )
+            logging.info(
+                "Pass 3 rounds=%s pass1_returns=%s pass2_profiles=%s",
+                stats["rounds"],
+                stats["profiles_enriched"],
+                stats["profiles_pub_pass"],
+            )
         if do_p1:
             if single:
                 n = run_pass1_single_profile(
