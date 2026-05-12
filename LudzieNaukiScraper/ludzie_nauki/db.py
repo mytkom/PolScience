@@ -161,6 +161,27 @@ def profile_exists(conn: sqlite3.Connection, profile_id: str) -> bool:
     return row is not None
 
 
+def profile_is_stub(conn: sqlite3.Connection, profile_id: str) -> bool:
+    pid = str(profile_id).strip()
+    if not pid:
+        return False
+    row = conn.execute("SELECT is_stub FROM profiles WHERE id = ? LIMIT 1", (pid,)).fetchone()
+    if row is None:
+        return False
+    v = row["is_stub"]
+    return int(v or 0) == 1
+
+
+def list_stub_profile_ids(conn: sqlite3.Connection) -> list[str]:
+    rows = conn.execute("SELECT id FROM profiles WHERE is_stub = 1 ORDER BY id").fetchall()
+    out: list[str] = []
+    for r in rows:
+        pid = str(r["id"]).strip()
+        if pid:
+            out.append(pid)
+    return out
+
+
 def get_keyword_id(conn: sqlite3.Connection, term: str, language_code: str = "") -> int:
     t = term.strip()
     if not t:
