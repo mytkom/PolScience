@@ -276,16 +276,7 @@ def _apply_enrichment(
             sid = sp.get("specialtyId")
             if not sid:
                 continue
-            conn.execute(
-                """
-                INSERT INTO specialties (id, label_pl, label_en)
-                VALUES (?, ?, ?)
-                ON CONFLICT(id) DO UPDATE SET
-                  label_pl = COALESCE(excluded.label_pl, specialties.label_pl),
-                  label_en = COALESCE(excluded.label_en, specialties.label_en)
-                """,
-                (sid, sp.get("labelPl"), sp.get("labelEn")),
-            )
+            canon = db.resolve_specialty_id_for_profile(conn, str(sid), sp.get("labelPl"), sp.get("labelEn"))
             conn.execute(
                 """
                 INSERT INTO profile_specialties (profile_id, specialty_id, sort_order)
@@ -293,7 +284,7 @@ def _apply_enrichment(
                 ON CONFLICT(profile_id, specialty_id) DO UPDATE SET
                   sort_order = excluded.sort_order
                 """,
-                (profile_id, sid, int(sp.get("order") or 0)),
+                (profile_id, canon, int(sp.get("order") or 0)),
             )
 
     kws = _normalize_keywords_summary(bundle.get("keywords_raw"))

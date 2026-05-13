@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any, Optional
 
 from ludzie_nauki.radon import flatten_radon_institution
+from ludzie_nauki.specialty_labels import specialty_sig_en, specialty_sig_pl
 
 SCHEMA_PATH = Path(__file__).resolve().parent.parent / "schema.sql"
 
@@ -180,6 +181,102 @@ def list_stub_profile_ids(conn: sqlite3.Connection) -> list[str]:
         if pid:
             out.append(pid)
     return out
+
+
+def merge_specialty_labels_into(
+    conn: sqlite3.Connection,
+    specialty_id: str,
+    label_pl: Optional[str],
+    label_en: Optional[str],
+) -> None:
+    """Prefer longest non-empty label strings when merging onto canonical specialty row."""
+    row = conn.execute(
+        "SELECT label_pl, label_en FROM specialties WHERE id = ?", (specialty_id,)
+    ).fetchone()
+
+    def pick(cur: Optional[str], new: Optional[str]) -> Optional[str]:
+        nc = (new or "").strip()
+        cc = (cur or "").strip()
+        if not nc:
+            return cur if cc else None
+        if not cc:
+            return nc
+        return nc if len(nc) >= len(cc) else cc
+
+    if row is None:
+        lp = (label_pl or "").strip() or None
+        le = (label_en or "").strip() or None
+        conn.execute(
+            "INSERT INTO specialties (id, label_pl, label_en) VALUES (?, ?, ?)",
+            (specialty_id, lp, le),
+        )
+        return
+
+    lp = pick(row["label_pl"], label_pl)
+    le = pick(row["label_en"], label_en)
+    conn.execute(
+        "UPDATE specialties SET label_pl = ?, label_en = ? WHERE id = ?",
+        (lp, le, specialty_id),
+    )
+
+
+def resolve_specialty_id_for_profile(
+    conn: sqlite3.Connection,
+    ludzie_specialty_id: str,
+    label_pl: Optional[str],
+    label_en: Optional[str],
+) -> str:
+    """Map Ludzie specialtyId to canonical specialties.id (sig PL or sig EN match); upsert alias when needed."""
+    sid = str(ludzie_specialty_id).strip()
+    if not sid:
+        raise ValueError("empty ludzie specialty id")
+
+    row = conn.execute(
+        "SELECT canonical_specialty_id FROM specialty_aliases WHERE ludzie_specialty_id = ?",
+        (sid,),
+    ).fetchone()
+    if row:
+        canon = str(row["canonical_specialty_id"])
+        merge_specialty_labels_into(conn, canon, label_pl, label_en)
+        return canon
+
+    sig_pl = specialty_sig_pl(label_pl)
+    sig_en = specialty_sig_en(label_en)
+
+    bucket: set[str] = set()
+    for r in conn.execute("SELECT id, label_pl, label_en FROM specialties").fetchall():
+        oid = str(r["id"])
+        sp = specialty_sig_pl(r["label_pl"])
+        se = specialty_sig_en(r["label_en"])
+        if sig_pl and sp == sig_pl:
+            bucket.add(oid)
+        if sig_en and se == sig_en:
+            bucket.add(oid)
+
+    if bucket:
+        canon = min(bucket)
+        if canon != sid:
+            conn.execute(
+                """
+                INSERT OR IGNORE INTO specialty_aliases (ludzie_specialty_id, canonical_specialty_id)
+                VALUES (?, ?)
+                """,
+                (sid, canon),
+            )
+        merge_specialty_labels_into(conn, canon, label_pl, label_en)
+        return canon
+
+    conn.execute(
+        """
+        INSERT INTO specialties (id, label_pl, label_en)
+        VALUES (?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+          label_pl = COALESCE(excluded.label_pl, specialties.label_pl),
+          label_en = COALESCE(excluded.label_en, specialties.label_en)
+        """,
+        (sid, label_pl, label_en),
+    )
+    return sid
 
 
 def get_keyword_id(conn: sqlite3.Connection, term: str, language_code: str = "") -> int:
