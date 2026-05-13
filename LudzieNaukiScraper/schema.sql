@@ -47,6 +47,13 @@ CREATE TABLE IF NOT EXISTS profile_specialties (
     PRIMARY KEY (profile_id, specialty_id)
 );
 
+CREATE TABLE IF NOT EXISTS specialty_aliases (
+    ludzie_specialty_id TEXT PRIMARY KEY,
+    canonical_specialty_id TEXT NOT NULL REFERENCES specialties (id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_specialty_aliases_canonical ON specialty_aliases (canonical_specialty_id);
+
 CREATE TABLE IF NOT EXISTS publications (
     id TEXT PRIMARY KEY,
     title TEXT,
