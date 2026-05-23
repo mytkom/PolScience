@@ -141,8 +141,7 @@ CREATE TABLE IF NOT EXISTS institutions (
     i_kind_name TEXT,
     u_type_name TEXT,
     data_source TEXT,
-    radon_raw_json TEXT,
-    student_count INTEGER
+    radon_raw_json TEXT
 );
 
 CREATE TABLE IF NOT EXISTS profile_institutions (
