@@ -1,6 +1,4 @@
-"""Graph utilities for building publication-centric network views from SQLite."""
-
-from .publication_graph import (
+from .graph import (
 	GraphEdge,
 	GraphNode,
 	PublicationGraph,
