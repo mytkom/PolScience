@@ -1,3 +1,7 @@
 .venv
 __pycache__
 *.sqlite*
+*.zip
+data/cache/
+data/graphs/
+
