@@ -1,6 +1,7 @@
 .venv
 __pycache__
 *.sqlite*
+data/retrieval_artifacts/
 **/build
 **/dist
 **/*.egg-info
