@@ -15,6 +15,11 @@ retrieval = [
     "sentence-transformers>=3.0",
     "scipy>=1.14",
 ]
+api = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "jinja2>=3.1",
+]
 
 [tool.uv.workspace]
 members = [

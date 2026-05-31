@@ -7,14 +7,18 @@ query_experts: BM25 recall → filter → bi-encoder + PPR on pool → fuse_scor
 from __future__ import annotations
 
 import json
+import logging
 import sqlite3
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
+import numpy as np
+
 from src.retrieval.bm25_index import (
     BM25_FILENAME,
+    Bm25Index,
     build_bm25_index,
     load_bm25_index,
     save_bm25_index,
@@ -49,6 +53,26 @@ from src.retrieval.ppr import ppr_scores_for_candidates, seeds_from_bm25_hits
 
 MANIFEST_FILENAME = "build_manifest.json"
 DEFAULT_ARTIFACTS_DIR = Path("data/retrieval_artifacts")
+_API_LOG = logging.getLogger("polscience.api")
+
+_mode_cache: dict[tuple[str, str], "_ModeArtifacts"] = {}
+_shared_cache: dict[str, "_SharedArtifacts"] = {}
+
+
+@dataclass(slots=True)
+class _ModeArtifacts:
+    meta_map: dict[str, dict]
+    bm25: Bm25Index
+    vectors: np.ndarray
+    emb_meta: dict
+    nonempty_profile_ids: frozenset[str]
+
+
+@dataclass(slots=True)
+class _SharedArtifacts:
+    profile_ids: list[str]
+    id_to_idx: dict[str, int]
+    adjacency: object
 
 
 @dataclass(slots=True)
@@ -268,6 +292,75 @@ def _load_meta_map(documents: list[ScientistDocument]) -> dict[str, dict]:
     return {doc.profile_id: doc.meta for doc in documents}
 
 
+def _nonempty_profile_ids(documents: list[ScientistDocument]) -> frozenset[str]:
+    return frozenset(
+        doc.profile_id for doc in documents if (doc.text or "").strip()
+    )
+
+
+def _load_shared_artifacts(artifacts_dir: Path) -> _SharedArtifacts:
+    root = str(artifacts_dir.resolve())
+    cached = _shared_cache.get(root)
+    if cached is not None:
+        return cached
+    profile_ids = load_profile_id_index(artifacts_dir / PROFILE_INDEX_FILENAME)
+    shared = _SharedArtifacts(
+        profile_ids=profile_ids,
+        id_to_idx=profile_id_to_index(profile_ids),
+        adjacency=load_coauth_graph(artifacts_dir),
+    )
+    _shared_cache[root] = shared
+    return shared
+
+
+def _load_mode_artifacts(artifacts_dir: Path, search_mode: SearchMode) -> _ModeArtifacts:
+    root = str(artifacts_dir.resolve())
+    cache_key = (root, search_mode.value)
+    cached = _mode_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
+    mode_dir = resolve_mode_dir(artifacts_dir, search_mode)
+    corpus_path = mode_dir / CORPUS_FILENAME
+    if not corpus_path.is_file():
+        raise FileNotFoundError(
+            f"No index for search mode {search_mode.value!r} at {corpus_path}. "
+            f"Run build-index (modes: all or {search_mode.value})."
+        )
+
+    documents = load_corpus_jsonl(corpus_path)
+    vectors, emb_meta = load_embeddings(mode_dir)
+    mode_art = _ModeArtifacts(
+        meta_map=_load_meta_map(documents),
+        bm25=load_bm25_index(mode_dir / BM25_FILENAME),
+        vectors=vectors,
+        emb_meta=emb_meta,
+        nonempty_profile_ids=_nonempty_profile_ids(documents),
+    )
+    _mode_cache[cache_key] = mode_art
+    return mode_art
+
+
+def preload_search_indexes(artifacts_dir: Path) -> None:
+    """Load BM25 + embedding matrices for publications and profile modes into memory."""
+    artifacts_dir = artifacts_dir.resolve()
+    _API_LOG.info("Preloading search indexes (publications + profile)...")
+    _load_shared_artifacts(artifacts_dir)
+    for mode in (SearchMode.PUBLICATIONS, SearchMode.PROFILE):
+        try:
+            _load_mode_artifacts(artifacts_dir, mode)
+            _API_LOG.info("Search index ready: mode=%s", mode.value)
+        except FileNotFoundError as exc:
+            _API_LOG.warning("Skipping index preload for mode %s: %s", mode.value, exc)
+    _API_LOG.info("Search index preload complete.")
+
+
+def clear_search_index_cache() -> None:
+    """Drop in-memory indexes (tests or artifact rebuild)."""
+    _mode_cache.clear()
+    _shared_cache.clear()
+
+
 def query_experts(
     artifacts_dir: Path,
     query: str,
@@ -285,29 +378,24 @@ def query_experts(
     model_name: str | None = None,
 ) -> list[QueryResult]:
     artifacts_dir = artifacts_dir.resolve()
-    mode_dir = resolve_mode_dir(artifacts_dir, search_mode)
-    corpus_path = mode_dir / CORPUS_FILENAME
-    if not corpus_path.is_file():
-        raise FileNotFoundError(
-            f"No index for search mode {search_mode.value!r} at {corpus_path}. "
-            f"Run build-index (modes: all or {search_mode.value})."
-        )
+    mode_art = _load_mode_artifacts(artifacts_dir, search_mode)
+    shared = _load_shared_artifacts(artifacts_dir)
+    meta_map = mode_art.meta_map
+    bm25 = mode_art.bm25
+    vectors = mode_art.vectors
+    emb_meta = mode_art.emb_meta
+    profile_ids = shared.profile_ids
+    id_to_idx = shared.id_to_idx
+    adjacency = shared.adjacency
 
-    documents = load_corpus_jsonl(corpus_path)
-    profile_ids = load_profile_id_index(artifacts_dir / PROFILE_INDEX_FILENAME)
-    id_to_idx = profile_id_to_index(profile_ids)
-    meta_map = _load_meta_map(documents)
-
-    bm25 = load_bm25_index(mode_dir / BM25_FILENAME)
-    vectors, emb_meta = load_embeddings(mode_dir)
-    adjacency = load_coauth_graph(artifacts_dir)
-
-    # Stage 1: lexical recall — wide pool for rerankers
+    # Stage 1: lexical recall — wide pool (includes zero BM25); skip profiles with empty indexed text
     bm25_hits = bm25.search(query, top_k=recall_k)
     bm25_scores = {pid: score for pid, score in bm25_hits}
 
     candidate_ids: list[str] = []
     for pid, _ in bm25_hits:
+        if pid not in mode_art.nonempty_profile_ids:
+            continue
         meta = meta_map.get(pid, {})
         if _passes_filters(meta, min_pubs=min_pubs, domain_code=domain_code, min_year=min_year):
             candidate_ids.append(pid)
@@ -348,15 +436,15 @@ def query_experts(
     )
 
     results: list[QueryResult] = []
-    for rank, (pid, final, parts) in enumerate(fused[:top_k], start=1):
+    for rank, (pid, final, _parts) in enumerate(fused[:top_k], start=1):
         results.append(
             QueryResult(
                 profile_id=pid,
                 rank=rank,
                 final=final,
-                bm25=parts["bm25"],
-                cosine=parts["cosine"],
-                ppr=parts["ppr"],
+                bm25=bm25_scores.get(pid, 0.0),
+                cosine=embed_scores.get(pid, 0.0),
+                ppr=ppr_scores.get(pid, 0.0),
                 search_mode=search_mode.value,
             )
         )

@@ -184,6 +184,5 @@ class TestRetrievalFusion(unittest.TestCase):
     def test_tokenize_lowercases(self) -> None:
         self.assertEqual(tokenize("Quantum-Computing 101"), ["quantum", "computing", "101"])
 
-
 if __name__ == "__main__":
     unittest.main()

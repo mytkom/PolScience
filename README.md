@@ -7,7 +7,7 @@ Expert discovery and publication graph tooling over the [Ludzie Nauki](https://l
 Install dependencies (creates `.venv`):
 
 ```bash
-uv sync --extra retrieval
+uv sync --extra retrieval --extra api
 ```
 
 Run commands with **`uv run`** so the project venv is used automatically. Alternatively, activate the venv once:
@@ -57,6 +57,27 @@ uv run python scripts/query_experts.py query \
 ```
 
 Artifacts are written to `data/retrieval_artifacts/` (gitignored).
+
+## Web API and UI
+
+After `build-index`, start the server:
+
+```bash
+export POLSCIENCE_DB_PATH=data/LudzieNaukiDumpDB/new_prof_search.sqlite
+export POLSCIENCE_ARTIFACTS_DIR=data/retrieval_artifacts
+uv run uvicorn src.api.app:app --reload --host 0.0.0.0 --port 8000
+```
+
+Open [http://127.0.0.1:8000](http://127.0.0.1:8000) — search in **publications** or **profile** mode, view results with name and profile link, and **Download CSV**.
+
+At startup (when artifacts exist), the API loads the embedding model once and keeps **both** publications and profile indexes (BM25 + embedding matrices + co-auth graph) in memory, so switching search mode stays fast. Optional: `POLSCIENCE_EAGER_LOAD=1` also runs a tiny probe query per mode (slower boot, warms fusion paths).
+
+| Endpoint | Description |
+|----------|-------------|
+| `GET /` | Web UI |
+| `GET /api/health` | DB and artifacts status |
+| `GET /api/search?q=...&mode=profile` | JSON results |
+| `GET /api/search/export.csv?...` | CSV download |
 
 ## Data
 

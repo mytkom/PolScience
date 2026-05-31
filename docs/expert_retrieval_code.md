@@ -113,6 +113,8 @@ BM25 is the **wide funnel**: everything later only sees scientists BM25 surfaced
 
 **Job:** `sentence-transformers` encodes each scientist’s `text` into a unit vector; at query time encodes the query once.
 
+- `get_embedding_model()` caches one `SentenceTransformer` per model name (build + query share it).
+- API startup calls `preload_embedding_model()` and `preload_search_indexes()` (both modes) so the first search and mode switches avoid disk reload.
 - Vectors stored as `embeddings.f32.npy` (row `i` = `profile_id_index[i]`).
 - Cosine similarity = dot product (embeddings are L2-normalized).
 - Scores computed **only for BM25 candidates** (not full 150k dot products at query time if pool ≪ corpus).
@@ -259,11 +261,27 @@ uv run python scripts/query_experts.py query --search-mode profile --query "..."
 | Different fusion formula | `fusion.py` |
 | Different graph (citations, same institution) | `coauth_graph.py` SQL + rebuild |
 | Fine-tuned embeddings | `embeddings.py` model name + rebuild |
-| HTTP API | Thin wrapper around `query_experts` |
+| HTTP API | [`src/api/`](../src/api/) (implemented) |
 
 ---
 
-## 7. Tests
+## 7. HTTP API (`src/api/`)
+
+| Module | Role |
+|--------|------|
+| [`app.py`](../src/api/app.py) | FastAPI routes, lifespan, serves `static/` UI |
+| [`config.py`](../src/api/config.py) | `POLSCIENCE_DB_PATH`, `POLSCIENCE_ARTIFACTS_DIR`, `POLSCIENCE_EAGER_LOAD` |
+| [`search_service.py`](../src/api/search_service.py) | Calls `query_experts`, enriches with `enrichment.py`, CSV export |
+| [`enrichment.py`](../src/api/enrichment.py) | Name from SQLite; Ludzie profile URL slug; email `""` |
+| [`profile_urls.py`](../src/api/profile_urls.py) | `ln/profiles/{given}.{surname_no_spaces}.{id}` |
+| [`schemas.py`](../src/api/schemas.py) | Pydantic `SearchResponse`, `ExpertResult` |
+
+Flow: `GET /api/search` → `run_search()` → `query_experts()` + `load_profile_displays()` → JSON.  
+UI: `GET /` loads [`static/index.html`](../src/api/static/index.html); CSV via `GET /api/search/export.csv`.
+
+---
+
+## 8. Tests
 
 [`tests/test_retrieval_fusion.py`](../tests/test_retrieval_fusion.py) — in-memory SQLite:
 
@@ -274,9 +292,11 @@ uv run python scripts/query_experts.py query --search-mode profile --query "..."
 
 No GPU / no full DB in CI.
 
+[`tests/test_api.py`](../tests/test_api.py) — mocks `query_experts`, uses in-memory `profiles` for enrichment.
+
 ---
 
-## 8. Related code (outside `src/retrieval/`)
+## 9. Related code (outside `src/retrieval/`)
 
 | File | Role |
 |------|------|

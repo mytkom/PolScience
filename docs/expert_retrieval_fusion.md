@@ -183,6 +183,18 @@ python scripts/query_experts.py query \
 
 Filters: `--min-pubs N`, `--domain-code CODE`, `--min-year YYYY`.
 
+### Web API and UI
+
+```bash
+uv sync --extra retrieval --extra api
+export POLSCIENCE_DB_PATH=data/LudzieNaukiDumpDB/new_prof_search.sqlite
+export POLSCIENCE_ARTIFACTS_DIR=data/retrieval_artifacts
+uv run uvicorn src.api.app:app --reload --host 0.0.0.0 --port 8000
+```
+
+Browser: [http://127.0.0.1:8000](http://127.0.0.1:8000) — same search modes, table with name / profile URL / scores, CSV export.  
+Implementation details: [expert_retrieval_code.md](expert_retrieval_code.md) § HTTP API.
+
 ---
 
 ## 9. Default hyperparameters
@@ -238,6 +250,8 @@ Filters: `--min-pubs N`, `--domain-code CODE`, `--min-year YYYY`.
 | Fusion        | `src/retrieval/fusion.py`       |
 | Pipeline      | `src/retrieval/pipeline.py`     |
 | CLI           | `scripts/query_experts.py`      |
+| HTTP API      | `src/api/app.py`                |
+| Web UI        | `src/api/static/`               |
 
 
 ---
@@ -247,6 +261,6 @@ Filters: `--min-pubs N`, `--domain-code CODE`, `--min-year YYYY`.
 - Abstract enrichment (OpenAlex) → extend corpus text.
 - Cross-encoder rerank on top-50.
 - Learning-to-rank on `[bm25, cosine, ppr, pub_count, recency]`.
-- FastAPI search endpoint.
+- Email enrichment from Ludzie Nauki API.
 - JEPA training after abstract coverage is sufficient (see [jepa.md](jepa.md)).
 

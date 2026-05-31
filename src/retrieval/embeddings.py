@@ -3,21 +3,62 @@
 from __future__ import annotations
 
 import json
+import logging
+import threading
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 import numpy as np
 
 from src.retrieval.logging_config import get_build_logger
 
+if TYPE_CHECKING:
+    from sentence_transformers import SentenceTransformer
+
 DEFAULT_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 EMBEDDINGS_FILENAME = "embeddings.f32.npy"
 EMBEDDINGS_META_FILENAME = "embeddings_meta.json"
 
+_MODEL_CACHE: dict[str, SentenceTransformer] = {}
+_MODEL_LOCK = threading.Lock()
+_API_LOG = logging.getLogger("polscience.api")
 
-def _load_model(model_name: str):
+
+def get_embedding_model(model_name: str) -> SentenceTransformer:
+    """Return a cached SentenceTransformer instance (loads once per model_name)."""
+    with _MODEL_LOCK:
+        cached = _MODEL_CACHE.get(model_name)
+        if cached is not None:
+            return cached
+    # Load outside lock so other threads are not blocked for the full download/init.
     from sentence_transformers import SentenceTransformer
 
-    return SentenceTransformer(model_name)
+    model = SentenceTransformer(model_name)
+    with _MODEL_LOCK:
+        existing = _MODEL_CACHE.get(model_name)
+        if existing is not None:
+            return existing
+        _MODEL_CACHE[model_name] = model
+        return model
+
+
+def preload_embedding_model(model_name: str) -> None:
+    """Load model weights into memory (call once at API startup)."""
+    _API_LOG.info("Loading embedding model into memory: %s", model_name)
+    get_embedding_model(model_name)
+    _API_LOG.info("Embedding model ready: %s", model_name)
+
+
+def resolve_model_name_from_artifacts(artifacts_dir: Path) -> str:
+    """Read model name from embeddings_meta.json (publications, then profile)."""
+    for sub in ("publications", "profile", ""):
+        meta_path = artifacts_dir / sub / EMBEDDINGS_META_FILENAME if sub else artifacts_dir / EMBEDDINGS_META_FILENAME
+        if meta_path.is_file():
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            name = str(meta.get("model_name") or "").strip()
+            if name:
+                return name
+    return DEFAULT_MODEL
 
 
 def build_embeddings(
@@ -31,14 +72,8 @@ def build_embeddings(
     empty = sum(1 for t in texts if not (t or "").strip())
     if empty:
         logger.warning("%d / %d corpus texts are empty before encoding", empty, len(texts))
-    logger.info("Loading sentence-transformers model: %s", model_name)
-    model = _load_model(model_name)
-    logger.info(
-        "Encoding %d texts (batch_size=%d, progress_bar=%s)...",
-        len(texts),
-        batch_size,
-        show_progress,
-    )
+    logger.info("Encoding %d texts with model %s (batch_size=%d)...", len(texts), model_name, batch_size)
+    model = get_embedding_model(model_name)
     vectors = model.encode(
         texts,
         batch_size=batch_size,
@@ -69,8 +104,8 @@ def load_embeddings(artifacts_dir: Path) -> tuple[np.ndarray, dict]:
 
 
 def encode_query(query: str, *, model_name: str | None = None) -> np.ndarray:
-    meta_model = model_name or DEFAULT_MODEL
-    model = _load_model(meta_model)
+    name = model_name or DEFAULT_MODEL
+    model = get_embedding_model(name)
     vector = model.encode(
         [query],
         convert_to_numpy=True,

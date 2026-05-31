@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Expert Search — PolScience</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Expert search</h1>
+      <p class="subtitle">Keywords + semantic similarity + co-author community (Ludzie Nauki)</p>
+    </header>
+
+    <main>
+      <form id="search-form">
+        <label for="query">Topic query</label>
+        <textarea
+          id="query"
+          name="q"
+          rows="3"
+          placeholder="e.g. quantum error correction or nauki biologiczne"
+          required
+        ></textarea>
+
+        <fieldset class="mode-fieldset">
+          <legend>Search mode</legend>
+          <label>
+            <input type="radio" name="mode" value="publications" checked />
+            Publications — paper titles + keywords (specific topics)
+          </label>
+          <label>
+            <input type="radio" name="mode" value="profile" />
+            Profile — keywords, specialties, domains, institutions (broad fields)
+          </label>
+        </fieldset>
+
+        <label for="top">Max results</label>
+        <input type="number" id="top" name="top" value="1000" min="1" max="5000" />
+
+        <fieldset class="weights-fieldset">
+          <legend>Fusion weights</legend>
+          <p class="weights-hint">Relative importance of each signal in <strong>Final</strong> (normalized to sum to 100%).</p>
+          <div class="weights-grid">
+            <label for="w_bm25">Keywords</label>
+            <input
+              type="number"
+              id="w_bm25"
+              name="w_bm25"
+              value="0.25"
+              min="0"
+              max="1"
+              step="0.05"
+            />
+            <label for="w_embed">Semantic</label>
+            <input
+              type="number"
+              id="w_embed"
+              name="w_embed"
+              value="0.55"
+              min="0"
+              max="1"
+              step="0.05"
+            />
+            <label for="w_ppr">Community</label>
+            <input
+              type="number"
+              id="w_ppr"
+              name="w_ppr"
+              value="0.20"
+              min="0"
+              max="1"
+              step="0.05"
+            />
+          </div>
+        </fieldset>
+
+        <div class="actions">
+          <button type="submit" id="search-btn">Search</button>
+          <button type="button" id="csv-btn" disabled>Download CSV</button>
+        </div>
+      </form>
+
+      <p id="status" class="status" aria-live="polite"></p>
+
+      <div id="results-wrap" class="results-wrap hidden">
+        <p id="meta" class="meta"></p>
+        <details class="score-legend">
+          <summary>What do the scores mean?</summary>
+          <ul>
+            <li>
+              <strong>Keywords</strong> — lexical match between your query and each scientist’s indexed text
+              (publication titles/keywords or profile fields, depending on mode).
+            </li>
+            <li>
+              <strong>Semantic</strong> — embedding similarity: how close the scientist’s text is to the query in
+              meaning, not just shared words.
+            </li>
+            <li>
+              <strong>Community</strong> — co-author network score for this query: we seed the graph with the top
+              keyword matches, then spread rank along co-authorship links (more shared papers = stronger ties).
+              High values mean the person is well connected to others who already match the topic.
+            </li>
+          </ul>
+          <p class="score-note">
+            <strong>Keywords</strong>, <strong>Semantic</strong>, and <strong>Community</strong> are raw scores
+            (BM25, cosine similarity, graph PageRank). Profiles with no indexed text are excluded. Zero keyword
+            score is allowed in the pool. <strong>Final</strong> uses min–max normalized signals over that pool and
+            your fusion weights.
+          </p>
+        </details>
+        <div class="table-scroll">
+          <table id="results-table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Profile</th>
+                <th>Final</th>
+                <th title="Lexical keyword overlap (BM25)">Keywords</th>
+                <th title="Embedding cosine similarity">Semantic</th>
+                <th title="Personalized PageRank on co-authorship graph">Community</th>
+                <th>ID</th>
+              </tr>
+            </thead>
+            <tbody id="results-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
