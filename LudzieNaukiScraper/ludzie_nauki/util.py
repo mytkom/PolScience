@@ -150,6 +150,62 @@ def main_title(detail: dict[str, Any]) -> Optional[str]:
     return entries[0][0]
 
 
+def _is_block_english(block: dict[str, Any]) -> bool:
+    lc = (block.get("languageCode") or "").strip().lower()
+    if lc in ("eng", "en"):
+        return True
+    ln = (block.get("languageName") or block.get("languageLabel") or "").strip().lower()
+    return "angiel" in ln
+
+
+def _is_block_polish(block: dict[str, Any]) -> bool:
+    lc = (block.get("languageCode") or "").strip().lower()
+    if lc in ("pol", "pl"):
+        return True
+    ln = (block.get("languageName") or block.get("languageLabel") or "").strip().lower()
+    return ln == "polski"
+
+
+def main_localized_value(
+    blocks: list[Any] | None,
+    *,
+    value_key: str = "value",
+) -> Optional[str]:
+    """Pick one localized string: English first, else Polish, else first non-empty."""
+    if not blocks or not isinstance(blocks, list):
+        return None
+    entries: list[tuple[str, dict[str, Any]]] = []
+    for block in blocks:
+        if not isinstance(block, dict):
+            if isinstance(block, str) and block.strip():
+                entries.append((block.strip(), {}))
+            continue
+        val = block.get(value_key)
+        if val is None or not str(val).strip():
+            continue
+        entries.append((str(val).strip(), block))
+    if not entries:
+        return None
+    for text, block in entries:
+        if _is_block_english(block):
+            return text
+    for text, block in entries:
+        if _is_block_polish(block):
+            return text
+    return entries[0][0]
+
+
+def project_author_display_name(author: dict[str, Any]) -> str:
+    parts = [
+        author.get("prefix"),
+        author.get("firstName") or author.get("name"),
+        author.get("secondName"),
+        author.get("surname"),
+    ]
+    out = " ".join(str(p).strip() for p in parts if p)
+    return out or (author.get("profileId") or "unknown")
+
+
 def main_abstract(detail: dict[str, Any]) -> Optional[str]:
     """Pick one abstract from abstractDocuments: English first, else Polish, else first non-empty."""
     raw = detail.get("abstractDocuments")
