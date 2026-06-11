@@ -41,7 +41,7 @@ def _iter_publication_kw_blocks(detail: dict[str, Any]):
                 yield str(kw).strip(), (block.get("languageCode") or block.get("language") or "").strip()
 
 
-def _fetch_all_authors(client: HttpClient, owner_id: str, pub_id: str, page_size: int = 40) -> list[dict[str, Any]]:
+def _fetch_all_authors(client: HttpClient, owner_id: str, pub_id: str, page_size: int = 30) -> list[dict[str, Any]]:
     page = 0
     authors: list[dict[str, Any]] = []
     while True:
