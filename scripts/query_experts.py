@@ -76,6 +76,14 @@ def _cmd_query(args: argparse.Namespace) -> int:
         min_pubs=args.min_pubs,
         domain_code=args.domain_code,
         min_year=args.min_year,
+        min_pubs_since=args.min_pubs_since,
+        since_year=args.since_year,
+        min_polon_projects=args.min_polon_projects,
+        projects_since_year=args.projects_since_year,
+        institution_ids=args.institution_id,
+        institution_names=args.institution_name,
+        require_mgr_plus=args.min_degree_mgr,
+        db_path=args.db,
         model_name=args.model,
     )
     if args.output:
@@ -176,9 +184,48 @@ def main(argv: list[str] | None = None) -> int:
     query_p.add_argument("--w-ppr", type=float, default=0.20, help="Fusion weight for PPR")
     query_p.add_argument("--gate-bm25", action="store_true", help="Multiply final by (eps + norm_bm25)")
     query_p.add_argument("--ppr-alpha", type=float, default=0.85, help="PPR restart probability")
-    query_p.add_argument("--min-pubs", type=int, help="Filter: minimum publication count")
+    query_p.add_argument("--min-pubs", type=int, help="Filter: minimum total publication count")
     query_p.add_argument("--domain-code", help="Filter: profiles.domain_code")
     query_p.add_argument("--min-year", type=int, help="Filter: latest publication year >= value")
+    query_p.add_argument(
+        "--min-pubs-since",
+        type=int,
+        help="Filter: minimum publication count since --since-year (requires both)",
+    )
+    query_p.add_argument("--since-year", type=int, help="Filter: publication year threshold (with --min-pubs-since)")
+    query_p.add_argument(
+        "--min-polon-projects",
+        type=int,
+        help="Filter: minimum POLON projects since --projects-since-year (requires both)",
+    )
+    query_p.add_argument(
+        "--projects-since-year",
+        type=int,
+        help="Filter: POLON project start year threshold (with --min-polon-projects)",
+    )
+    query_p.add_argument(
+        "--institution-id",
+        action="append",
+        default=None,
+        help="Filter: current affiliation at institution UUID (repeatable)",
+    )
+    query_p.add_argument(
+        "--institution-name",
+        action="append",
+        default=None,
+        help="Filter: current affiliation at institution name substring (repeatable)",
+    )
+    query_p.add_argument(
+        "--min-degree-mgr",
+        action="store_true",
+        help="Filter: require Master's level or above (MGR+)",
+    )
+    query_p.add_argument(
+        "--db",
+        type=Path,
+        default=DEFAULT_DB,
+        help="SQLite database (required for institution filter)",
+    )
     query_p.add_argument("--model", help="Override embedding model at query time")
     query_p.set_defaults(func=_cmd_query)
 

@@ -25,6 +25,32 @@ _STATIC_DIR = Path(__file__).resolve().parent / "static"
 _TEMPLATES = Jinja2Templates(directory=str(_STATIC_DIR))
 
 
+def _parse_institution_values(values: list[str] | None) -> list[str] | None:
+    if not values:
+        return None
+    tokens: list[str] = []
+    for raw in values:
+        for part in str(raw).split(","):
+            token = part.strip()
+            if token:
+                tokens.append(token)
+    return tokens or None
+
+
+def _validate_paired_int_params(
+    first: int | None,
+    second: int | None,
+    *,
+    first_name: str,
+    second_name: str,
+) -> None:
+    if (first is None) != (second is None):
+        raise HTTPException(
+            status_code=400,
+            detail=f"Both {first_name} and {second_name} are required together.",
+        )
+
+
 def _parse_search_params(
     q: str,
     mode: str,
@@ -39,6 +65,13 @@ def _parse_search_params(
     min_pubs: int | None,
     domain_code: str | None,
     min_year: int | None,
+    min_pubs_since: int | None,
+    since_year: int | None,
+    min_polon_projects: int | None,
+    projects_since_year: int | None,
+    institution_id: list[str] | None,
+    institution_name: list[str] | None,
+    min_degree_mgr: bool,
 ) -> SearchParams:
     query = (q or "").strip()
     if not query:
@@ -47,6 +80,13 @@ def _parse_search_params(
         search_mode = SearchMode.parse(mode)
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
+    _validate_paired_int_params(min_pubs_since, since_year, first_name="min_pubs_since", second_name="since_year")
+    _validate_paired_int_params(
+        min_polon_projects,
+        projects_since_year,
+        first_name="min_polon_projects",
+        second_name="projects_since_year",
+    )
     return SearchParams(
         query=query,
         mode=search_mode,
@@ -61,6 +101,13 @@ def _parse_search_params(
         min_pubs=min_pubs,
         domain_code=domain_code,
         min_year=min_year,
+        min_pubs_since=min_pubs_since,
+        since_year=since_year,
+        min_polon_projects=min_polon_projects,
+        projects_since_year=projects_since_year,
+        institution_ids=_parse_institution_values(institution_id),
+        institution_names=_parse_institution_values(institution_name),
+        require_mgr_plus=min_degree_mgr,
     )
 
 
@@ -146,6 +193,8 @@ def _execute_search(request: Request, params: SearchParams) -> SearchResponse:
         return run_search(settings, params)
     except FileNotFoundError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
 
 
 @app.get("/api/search", response_model=SearchResponse)
@@ -164,6 +213,13 @@ async def api_search(
     min_pubs: int | None = None,
     domain_code: str | None = None,
     min_year: int | None = None,
+    min_pubs_since: int | None = None,
+    since_year: int | None = None,
+    min_polon_projects: int | None = None,
+    projects_since_year: int | None = None,
+    institution_id: Annotated[list[str] | None, Query()] = None,
+    institution_name: Annotated[list[str] | None, Query()] = None,
+    min_degree_mgr: bool = False,
 ) -> SearchResponse:
     params = _parse_search_params(
         q,
@@ -179,6 +235,13 @@ async def api_search(
         min_pubs,
         domain_code,
         min_year,
+        min_pubs_since,
+        since_year,
+        min_polon_projects,
+        projects_since_year,
+        institution_id,
+        institution_name,
+        min_degree_mgr,
     )
     return _execute_search(request, params)
 
@@ -199,6 +262,13 @@ async def api_search_export_csv(
     min_pubs: int | None = None,
     domain_code: str | None = None,
     min_year: int | None = None,
+    min_pubs_since: int | None = None,
+    since_year: int | None = None,
+    min_polon_projects: int | None = None,
+    projects_since_year: int | None = None,
+    institution_id: Annotated[list[str] | None, Query()] = None,
+    institution_name: Annotated[list[str] | None, Query()] = None,
+    min_degree_mgr: bool = False,
 ) -> PlainTextResponse:
     params = _parse_search_params(
         q,
@@ -214,6 +284,13 @@ async def api_search_export_csv(
         min_pubs,
         domain_code,
         min_year,
+        min_pubs_since,
+        since_year,
+        min_polon_projects,
+        projects_since_year,
+        institution_id,
+        institution_name,
+        min_degree_mgr,
     )
     response = _execute_search(request, params)
     csv_body = search_response_to_csv(response)

@@ -16,7 +16,8 @@ from fastapi.testclient import TestClient  # noqa: E402
 from src.api.app import app  # noqa: E402
 from src.api.config import ApiSettings  # noqa: E402
 from src.api.schemas import FusionWeightsApplied  # noqa: E402
-from src.api.search_service import CSV_COLUMNS, search_response_to_csv  # noqa: E402
+from src.api.search_service import CSV_COLUMNS, csv_columns_for_response, search_response_to_csv  # noqa: E402
+from src.api.schemas import FilterColumnsApplied  # noqa: E402
 from src.retrieval.pipeline import QueryResult  # noqa: E402
 
 
@@ -114,8 +115,63 @@ class TestApi(unittest.TestCase):
         self.assertTrue(body.startswith(b"\xef\xbb\xbf"))
         self.assertIn("Żochowski".encode("utf-8"), body)
 
+    def test_csv_columns_include_filter_fields(self) -> None:
+        from src.api.schemas import ExpertResult, SearchResponse
+
+        response = SearchResponse(
+            query="test",
+            search_mode="profile",
+            count=1,
+            weights=FusionWeightsApplied(keywords=0.25, semantic=0.55, community=0.2),
+            filter_columns=FilterColumnsApplied(
+                pubs_since_year=2020,
+                projects_since_year=2021,
+                institutions=True,
+                degree=True,
+            ),
+            results=[
+                ExpertResult(
+                    rank=1,
+                    profile_id="alice",
+                    name="Anna",
+                    email="",
+                    profile_url="https://example.test/p",
+                    final=0.9,
+                    bm25=0.8,
+                    cosine=0.7,
+                    ppr=0.6,
+                    pubs_since_year=3,
+                    projects_since_year=1,
+                    institutions="Uni A, Uni B",
+                    degree="doktor",
+                ),
+            ],
+        )
+        columns = csv_columns_for_response(response)
+        self.assertEqual(
+            columns,
+            [
+                *CSV_COLUMNS,
+                "pubs_since_2020",
+                "projects_since_2021",
+                "institutions",
+                "degree",
+            ],
+        )
+        body = search_response_to_csv(response).decode("utf-8-sig")
+        self.assertIn("pubs_since_2020", body.splitlines()[0])
+        self.assertIn("Uni A, Uni B", body)
+        self.assertIn("doktor", body)
+
     def test_search_requires_query(self) -> None:
         response = self.client.get("/api/search", params={"q": "  "})
+        self.assertEqual(response.status_code, 400)
+
+    def test_search_rejects_partial_pubs_since_filter(self) -> None:
+        response = self.client.get(
+            "/api/search",
+            params={"q": "biology", "min_pubs_since": 2},
+        )
         self.assertEqual(response.status_code, 400)
 
     @patch("src.api.search_service.query_experts")
@@ -165,6 +221,16 @@ class TestApi(unittest.TestCase):
         )
         self.assertEqual(payload["results"][0]["email"], "")
         mock_query.assert_called_once()
+
+    @patch("src.api.search_service.resolve_institution_filter_ids")
+    def test_search_rejects_unknown_institution_name(self, mock_resolve: unittest.mock.MagicMock) -> None:
+        mock_resolve.return_value = ([], {"Unknown Uni": []})
+        response = self.client.get(
+            "/api/search",
+            params={"q": "biology", "institution_name": "Unknown Uni"},
+        )
+        self.assertEqual(response.status_code, 400)
+        self.assertIn("No institutions matched", response.json()["detail"])
 
     @patch("src.api.search_service.query_experts")
     def test_search_export_csv(self, mock_query: unittest.mock.MagicMock) -> None:

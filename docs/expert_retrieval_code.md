@@ -90,7 +90,7 @@ profiles (is_stub=0)
   → ScientistDocument(profile_id, text, meta)
 ```
 
-- **`meta`** holds `pub_count`, `max_year`, `domain_code` for CLI filters (`--min-pubs`, `--domain-code`, `--min-year`).
+- **`meta`** holds `pub_count`, `max_year`, `domain_code`, `degree_code`, `pubs_by_year`, `polon_projects_by_year` for structural filters ([`filters.py`](../src/retrieval/filters.py)).
 - Text is capped (`MAX_TEXT_CHARS`, `MAX_TITLES`) so indexes stay bounded.
 - Optional tables are skipped safely if missing (`_table_exists`).
 
@@ -274,6 +274,7 @@ uv run python scripts/query_experts.py query --search-mode profile --query "..."
 | [`search_service.py`](../src/api/search_service.py) | Calls `query_experts`, enriches with `enrichment.py`, CSV export |
 | [`enrichment.py`](../src/api/enrichment.py) | Name from SQLite; Ludzie profile URL slug; email `""` |
 | [`profile_urls.py`](../src/api/profile_urls.py) | `ln/profiles/{given}.{surname_no_spaces}.{id}` |
+| [`filters.py`](../src/retrieval/filters.py) | Structural filters: pubs/projects since year, MGR+, institution CURRENT |
 | [`schemas.py`](../src/api/schemas.py) | Pydantic `SearchResponse`, `ExpertResult` |
 
 Flow: `GET /api/search` → `run_search()` → `query_experts()` + `load_profile_displays()` → JSON.  
@@ -289,6 +290,8 @@ UI: `GET /` loads [`static/index.html`](../src/api/static/index.html); CSV via `
 - BM25 ordering smoke test
 - PPR boosts neighbor of seed
 - Fusion weight behavior
+
+[`tests/test_filters.py`](../tests/test_filters.py) — degree rank, count-since-year, institution SQL.
 
 No GPU / no full DB in CI.
 

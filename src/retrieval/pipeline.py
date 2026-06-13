@@ -46,6 +46,12 @@ from src.retrieval.embeddings import (
     load_embeddings,
     save_embeddings,
 )
+from src.retrieval.filters import (
+    count_since_year,
+    load_profiles_at_institutions,
+    passes_structural_filters,
+    resolve_institution_filter_ids,
+)
 from src.retrieval.fusion import FusionWeights, fuse_scores
 from src.retrieval.logging_config import get_build_logger, log_step
 from src.retrieval.modes import SearchMode
@@ -84,25 +90,37 @@ class QueryResult:
     cosine: float
     ppr: float
     search_mode: str
+    pubs_since_year: int | None = None
+    projects_since_year: int | None = None
 
 
 def _passes_filters(
     meta: dict,
+    profile_id: str,
     *,
     min_pubs: int | None,
     domain_code: str | None,
     min_year: int | None,
+    min_pubs_since: int | None,
+    since_year: int | None,
+    min_polon_projects: int | None,
+    projects_since_year: int | None,
+    require_mgr_plus: bool,
+    institution_eligible: frozenset[str] | None,
 ) -> bool:
-    if min_pubs is not None and int(meta.get("pub_count") or 0) < min_pubs:
-        return False
-    if domain_code is not None:
-        if str(meta.get("domain_code") or "") != domain_code:
-            return False
-    if min_year is not None:
-        max_year = meta.get("max_year")
-        if max_year is None or int(max_year) < min_year:
-            return False
-    return True
+    return passes_structural_filters(
+        meta,
+        min_pubs=min_pubs,
+        domain_code=domain_code,
+        min_year=min_year,
+        min_pubs_since=min_pubs_since,
+        since_year=since_year,
+        min_polon_projects=min_polon_projects,
+        projects_since_year=projects_since_year,
+        require_mgr_plus=require_mgr_plus,
+        institution_eligible=institution_eligible,
+        profile_id=profile_id,
+    )
 
 
 def _corpus_stats(documents: list[ScientistDocument]) -> dict[str, float | int]:
@@ -375,6 +393,14 @@ def query_experts(
     min_pubs: int | None = None,
     domain_code: str | None = None,
     min_year: int | None = None,
+    min_pubs_since: int | None = None,
+    since_year: int | None = None,
+    min_polon_projects: int | None = None,
+    projects_since_year: int | None = None,
+    institution_ids: list[str] | None = None,
+    institution_names: list[str] | None = None,
+    require_mgr_plus: bool = False,
+    db_path: Path | None = None,
     model_name: str | None = None,
 ) -> list[QueryResult]:
     artifacts_dir = artifacts_dir.resolve()
@@ -388,6 +414,20 @@ def query_experts(
     id_to_idx = shared.id_to_idx
     adjacency = shared.adjacency
 
+    institution_eligible: frozenset[str] | None = None
+    resolved_institution_ids: list[str] | None = None
+    if institution_ids or institution_names:
+        if db_path is None:
+            raise ValueError("db_path is required when institution filter is set")
+        resolved_institution_ids, _ = resolve_institution_filter_ids(
+            db_path,
+            institution_ids=institution_ids,
+            institution_names=institution_names,
+        )
+        if not resolved_institution_ids:
+            return []
+        institution_eligible = load_profiles_at_institutions(db_path, resolved_institution_ids)
+
     # Stage 1: lexical recall — wide pool (includes zero BM25); skip profiles with empty indexed text
     bm25_hits = bm25.search(query, top_k=recall_k)
     bm25_scores = {pid: score for pid, score in bm25_hits}
@@ -397,7 +437,19 @@ def query_experts(
         if pid not in mode_art.nonempty_profile_ids:
             continue
         meta = meta_map.get(pid, {})
-        if _passes_filters(meta, min_pubs=min_pubs, domain_code=domain_code, min_year=min_year):
+        if _passes_filters(
+            meta,
+            pid,
+            min_pubs=min_pubs,
+            domain_code=domain_code,
+            min_year=min_year,
+            min_pubs_since=min_pubs_since,
+            since_year=since_year,
+            min_polon_projects=min_polon_projects,
+            projects_since_year=projects_since_year,
+            require_mgr_plus=require_mgr_plus,
+            institution_eligible=institution_eligible,
+        ):
             candidate_ids.append(pid)
 
     if not candidate_ids:
@@ -435,8 +487,22 @@ def query_experts(
         gate_bm25=gate_bm25,
     )
 
+    show_pubs_since = min_pubs_since is not None and since_year is not None
+    show_projects_since = min_polon_projects is not None and projects_since_year is not None
+
     results: list[QueryResult] = []
     for rank, (pid, final, _parts) in enumerate(fused[:top_k], start=1):
+        meta = meta_map.get(pid, {})
+        pubs_count = (
+            count_since_year(meta.get("pubs_by_year"), since_year)
+            if show_pubs_since and since_year is not None
+            else None
+        )
+        projects_count = (
+            count_since_year(meta.get("polon_projects_by_year"), projects_since_year)
+            if show_projects_since and projects_since_year is not None
+            else None
+        )
         results.append(
             QueryResult(
                 profile_id=pid,
@@ -446,6 +512,8 @@ def query_experts(
                 cosine=embed_scores.get(pid, 0.0),
                 ppr=ppr_scores.get(pid, 0.0),
                 search_mode=search_mode.value,
+                pubs_since_year=pubs_count,
+                projects_since_year=projects_count,
             )
         )
     return results

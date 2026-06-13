@@ -68,7 +68,9 @@ export POLSCIENCE_ARTIFACTS_DIR=data/retrieval_artifacts
 uv run uvicorn src.api.app:app --reload --host 0.0.0.0 --port 8000
 ```
 
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000) — search in **publications** or **profile** mode, view results with name and profile link, and **Download CSV**.
+After changing filter metadata or upgrading from an older index, rerun **`build-index`** so `corpus.jsonl` includes `pubs_by_year`, `polon_projects_by_year`, and `degree_code`.
+
+Open [http://127.0.0.1:8000](http://127.0.0.1:8000) — search in **publications** or **profile** mode, optional **Advanced filters**, CSV export.
 
 At startup (when artifacts exist), the API loads the embedding model once and keeps **both** publications and profile indexes (BM25 + embedding matrices + co-auth graph) in memory, so switching search mode stays fast. Optional: `POLSCIENCE_EAGER_LOAD=1` also runs a tiny probe query per mode (slower boot, warms fusion paths).
 
@@ -76,7 +78,7 @@ At startup (when artifacts exist), the API loads the embedding model once and ke
 |----------|-------------|
 | `GET /` | Web UI |
 | `GET /api/health` | DB and artifacts status |
-| `GET /api/search?q=...&mode=profile` | JSON results |
+| `GET /api/search?q=...&mode=profile` | JSON results (optional filters: `min_pubs_since`, `since_year`, `min_polon_projects`, `projects_since_year`, `institution_id`, `min_degree_mgr`) |
 | `GET /api/search/export.csv?...` | CSV download |
 
 ## Data

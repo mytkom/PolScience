@@ -75,6 +75,42 @@
           </div>
         </fieldset>
 
+        <details class="filters-fieldset">
+          <summary>Advanced filters</summary>
+          <p class="weights-hint">Optional structural filters applied after keyword recall.</p>
+          <div class="filters-grid">
+            <label for="min_pubs_since">Min publications since year</label>
+            <div class="filter-pair">
+              <input type="number" id="min_pubs_since" name="min_pubs_since" min="0" placeholder="n" />
+              <input type="number" id="since_year" name="since_year" min="1900" max="2100" placeholder="year" />
+            </div>
+            <label for="min_polon_projects">Min POLON projects since year</label>
+            <div class="filter-pair">
+              <input type="number" id="min_polon_projects" name="min_polon_projects" min="0" placeholder="p" />
+              <input type="number" id="projects_since_year" name="projects_since_year" min="1900" max="2100" placeholder="year" />
+            </div>
+            <label for="institution_ids">Institution IDs (current)</label>
+            <input
+              type="text"
+              id="institution_ids"
+              name="institution_ids"
+              placeholder="Comma-separated Ludzie/RADON UUIDs"
+            />
+            <label for="institution_names">Institution names (current)</label>
+            <input
+              type="text"
+              id="institution_names"
+              name="institution_names"
+              placeholder="Comma-separated names (substring match)"
+            />
+            <label for="min_degree_mgr">Degree</label>
+            <label class="checkbox-label">
+              <input type="checkbox" id="min_degree_mgr" name="min_degree_mgr" />
+              Master’s level and above (MGR+)
+            </label>
+          </div>
+        </details>
+
         <div class="actions">
           <button type="submit" id="search-btn">Search</button>
           <button type="button" id="csv-btn" disabled>Download CSV</button>
@@ -112,7 +148,7 @@
         <div class="table-scroll">
           <table id="results-table">
             <thead>
-              <tr>
+              <tr id="results-header">
                 <th>Rank</th>
                 <th>Name</th>
                 <th>Email</th>

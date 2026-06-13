@@ -181,7 +181,18 @@ python scripts/query_experts.py query \
   --gate-bm25
 ```
 
-Filters: `--min-pubs N`, `--domain-code CODE`, `--min-year YYYY`.
+Filters (legacy): `--min-pubs N`, `--domain-code CODE`, `--min-year YYYY` (latest pub year, not count since year).
+
+Structural filters (require **`build-index`** after upgrade so `corpus.jsonl` meta includes `pubs_by_year`, `polon_projects_by_year`, `degree_code`):
+
+| Filter | CLI / API params |
+|--------|------------------|
+| ≥ n publications since year d | `--min-pubs-since N --since-year YYYY` / `min_pubs_since`, `since_year` |
+| ≥ p POLON projects since pd | `--min-polon-projects P --projects-since-year YYYY` / `min_polon_projects`, `projects_since_year` |
+| Current affiliation at listed universities | `--institution-id UUID` (repeat) / `institution_id` |
+| Master’s and above (MGR+) | `--min-degree-mgr` / `min_degree_mgr=true` |
+
+**Notes:** POLON projects = `project_source='POLON'` only (BWNP archive excluded). MGR+ is a proxy; no explicit PhD-student flag in the dump. Institution filter uses `status_employment='CURRENT'`.
 
 ### Web API and UI
 

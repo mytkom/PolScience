@@ -6,7 +6,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 if __name__ == "__main__":
     # Example usage
-    url = "https://cernbox.cern.ch/remote.php/dav/public-files/0Gz2lpbnKDKTzKS/LudzieNaukiComplete.zip"
+    url = "https://cernbox.cern.ch/remote.php/dav/public-files/4doF24sc6KMmT4M/13_06_PolScienceDB.zip"
     save_path = REPO_ROOT / "data" / "LudzieNaukiDumpDB.zip"
     extract_path = REPO_ROOT / "data" / "LudzieNaukiDumpDB"
 

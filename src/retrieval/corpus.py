@@ -126,8 +126,11 @@ def _assemble_profile_text(
 class _ProfileBundle:
     profile_ids: list[str]
     domain_codes: dict[str, str | None]
+    degree_codes_by_profile: dict[str, str | None]
     titles_by_profile: dict[str, list[str]]
     pub_stats: dict[str, dict[str, Any]]
+    pubs_by_year_by_profile: dict[str, dict[int, int]]
+    polon_projects_by_year_by_profile: dict[str, dict[int, int]]
     keywords_by_profile: dict[str, list[tuple[str, int]]]
     domains_by_profile: dict[str, list[str]]
     specialties_by_profile: dict[str, list[str]]
@@ -219,6 +222,57 @@ def _load_profile_bundle(conn: sqlite3.Connection) -> _ProfileBundle | None:
             pid = str(row["profile_id"])
             if pid in domain_codes:
                 pub_stats[pid]["max_year"] = row["max_year"]
+
+    pubs_by_year_by_profile: dict[str, dict[int, int]] = defaultdict(dict)
+    with log_step(logger, "SQL: publication counts by year"):
+        pub_year_rows = 0
+        for row in conn.execute(
+            """
+            SELECT a.profile_id, p.year, COUNT(DISTINCT p.id) AS cnt
+            FROM authorship a
+            JOIN publications p ON p.id = a.publication_id
+            WHERE p.year IS NOT NULL
+            GROUP BY a.profile_id, p.year
+            """
+        ):
+            pub_year_rows += 1
+            pid = str(row["profile_id"])
+            if pid in domain_codes:
+                pubs_by_year_by_profile[pid][int(row["year"])] = int(row["cnt"])
+        logger.info(
+            "Publication years: %d profile-year rows → %d profiles",
+            pub_year_rows,
+            len(pubs_by_year_by_profile),
+        )
+
+    polon_projects_by_year_by_profile: dict[str, dict[int, int]] = defaultdict(dict)
+    if _table_exists(conn, "profile_projects") and _table_exists(conn, "projects"):
+        with log_step(logger, "SQL: POLON project counts by start year"):
+            project_rows = 0
+            for row in conn.execute(
+                """
+                SELECT pp.profile_id,
+                       CAST(substr(p.start_date, 1, 4) AS INTEGER) AS y,
+                       COUNT(DISTINCT p.id) AS cnt
+                FROM profile_projects pp
+                JOIN projects p ON p.id = pp.project_id
+                WHERE p.project_source = 'POLON'
+                  AND p.start_date IS NOT NULL
+                  AND length(p.start_date) >= 4
+                GROUP BY pp.profile_id, y
+                """
+            ):
+                project_rows += 1
+                pid = str(row["profile_id"])
+                if pid in domain_codes:
+                    polon_projects_by_year_by_profile[pid][int(row["y"])] = int(row["cnt"])
+            logger.info(
+                "POLON projects: %d profile-year rows → %d profiles",
+                project_rows,
+                len(polon_projects_by_year_by_profile),
+            )
+    else:
+        logger.debug("Skipping profile_projects (table missing)")
 
     keywords_by_profile: dict[str, list[tuple[str, int]]] = defaultdict(list)
     with log_step(logger, "SQL: profile keywords"):
@@ -358,8 +412,11 @@ def _load_profile_bundle(conn: sqlite3.Connection) -> _ProfileBundle | None:
     return _ProfileBundle(
         profile_ids=profile_ids,
         domain_codes=domain_codes,
+        degree_codes_by_profile=degree_codes_by_profile,
         titles_by_profile=titles_by_profile,
         pub_stats=pub_stats,
+        pubs_by_year_by_profile=dict(pubs_by_year_by_profile),
+        polon_projects_by_year_by_profile=dict(polon_projects_by_year_by_profile),
         keywords_by_profile=keywords_by_profile,
         domains_by_profile=domains_by_profile,
         specialties_by_profile=specialties_by_profile,
@@ -407,6 +464,11 @@ def build_scientist_corpus(
                         "pub_count": stats["pub_count"],
                         "max_year": stats["max_year"],
                         "domain_code": bundle.domain_codes.get(pid),
+                        "degree_code": bundle.degree_codes_by_profile.get(pid),
+                        "pubs_by_year": bundle.pubs_by_year_by_profile.get(pid, {}),
+                        "polon_projects_by_year": bundle.polon_projects_by_year_by_profile.get(
+                            pid, {}
+                        ),
                         "search_mode": mode.value,
                     },
                     search_mode=mode.value,
