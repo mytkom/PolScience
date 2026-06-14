@@ -390,6 +390,7 @@ def query_experts(
     weights: FusionWeights | None = None,
     gate_bm25: bool = False,
     ppr_alpha: float = 0.85,
+    disable_ppr: bool = False,
     min_pubs: int | None = None,
     domain_code: str | None = None,
     min_year: int | None = None,
@@ -467,15 +468,18 @@ def query_experts(
     )
 
     # Stage 3: graph — PPR from top BM25 seeds, scores for pool nodes only
-    seeds = seeds_from_bm25_hits(bm25_hits, id_to_idx, seed_k=seed_k)
-    candidate_indices = [id_to_idx[pid] for pid in candidate_ids if pid in id_to_idx]
-    ppr_raw = ppr_scores_for_candidates(
-        adjacency,
-        seeds,
-        candidate_indices,
-        alpha=ppr_alpha,
-    )
-    ppr_scores = {profile_ids[idx]: score for idx, score in ppr_raw.items()}
+    if disable_ppr:
+        ppr_scores = dict.fromkeys(candidate_ids, 0.0)
+    else:
+        seeds = seeds_from_bm25_hits(bm25_hits, id_to_idx, seed_k=seed_k)
+        candidate_indices = [id_to_idx[pid] for pid in candidate_ids if pid in id_to_idx]
+        ppr_raw = ppr_scores_for_candidates(
+            adjacency,
+            seeds,
+            candidate_indices,
+            alpha=ppr_alpha,
+        )
+        ppr_scores = {profile_ids[idx]: score for idx, score in ppr_raw.items()}
 
     # Stage 4: min-max normalize each signal over pool, weighted sum, sort
     fused = fuse_scores(

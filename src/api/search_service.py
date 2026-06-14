@@ -31,6 +31,7 @@ class SearchParams:
     w_ppr: float = 0.20
     gate_bm25: bool = False
     ppr_alpha: float = 0.85
+    disable_ppr: bool = False
     min_pubs: int | None = None
     domain_code: str | None = None
     min_year: int | None = None
@@ -83,7 +84,7 @@ def run_search(settings: ApiSettings, params: SearchParams) -> SearchResponse:
     fusion = FusionWeights(
         bm25=params.w_bm25,
         embed=params.w_embed,
-        ppr=params.w_ppr,
+        ppr=0.0 if params.disable_ppr else params.w_ppr,
     )
     weights = fusion.normalized()
     _validate_institution_name_resolution(settings, params)
@@ -98,6 +99,7 @@ def run_search(settings: ApiSettings, params: SearchParams) -> SearchResponse:
         weights=fusion,
         gate_bm25=params.gate_bm25,
         ppr_alpha=params.ppr_alpha,
+        disable_ppr=params.disable_ppr,
         min_pubs=params.min_pubs,
         domain_code=params.domain_code,
         min_year=params.min_year,

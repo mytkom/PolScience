@@ -233,6 +233,17 @@ class TestApi(unittest.TestCase):
         self.assertIn("No institutions matched", response.json()["detail"])
 
     @patch("src.api.search_service.query_experts")
+    def test_search_disable_ppr(self, mock_query: unittest.mock.MagicMock) -> None:
+        mock_query.return_value = []
+        response = self.client.get(
+            "/api/search",
+            params={"q": "biology", "disable_ppr": "true", "w_ppr": 0.5},
+        )
+        self.assertEqual(response.status_code, 200)
+        mock_query.assert_called_once()
+        self.assertTrue(mock_query.call_args.kwargs["disable_ppr"])
+
+    @patch("src.api.search_service.query_experts")
     def test_search_export_csv(self, mock_query: unittest.mock.MagicMock) -> None:
         mock_query.return_value = [
             QueryResult(

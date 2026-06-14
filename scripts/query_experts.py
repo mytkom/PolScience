@@ -73,6 +73,7 @@ def _cmd_query(args: argparse.Namespace) -> int:
         weights=weights,
         gate_bm25=args.gate_bm25,
         ppr_alpha=args.ppr_alpha,
+        disable_ppr=args.no_ppr,
         min_pubs=args.min_pubs,
         domain_code=args.domain_code,
         min_year=args.min_year,
@@ -182,6 +183,7 @@ def main(argv: list[str] | None = None) -> int:
     query_p.add_argument("--w-bm25", type=float, default=0.25, help="Fusion weight for BM25")
     query_p.add_argument("--w-embed", type=float, default=0.55, help="Fusion weight for embeddings")
     query_p.add_argument("--w-ppr", type=float, default=0.20, help="Fusion weight for PPR")
+    query_p.add_argument("--no-ppr", action="store_true", help="Skip co-authorship PPR (Keywords + Semantic only)")
     query_p.add_argument("--gate-bm25", action="store_true", help="Multiply final by (eps + norm_bm25)")
     query_p.add_argument("--ppr-alpha", type=float, default=0.85, help="PPR restart probability")
     query_p.add_argument("--min-pubs", type=int, help="Filter: minimum total publication count")

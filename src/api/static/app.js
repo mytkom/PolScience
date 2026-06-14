@@ -6,8 +6,19 @@ const resultsHeader = document.getElementById("results-header");
 const metaEl = document.getElementById("meta");
 const csvBtn = document.getElementById("csv-btn");
 const searchBtn = document.getElementById("search-btn");
+const disablePprInput = document.getElementById("disable_ppr");
+const wPprInput = document.getElementById("w_ppr");
 
 let lastSearchParams = null;
+
+function syncPprControls() {
+  const disabled = disablePprInput.checked;
+  wPprInput.disabled = disabled;
+  wPprInput.classList.toggle("disabled-input", disabled);
+}
+
+disablePprInput.addEventListener("change", syncPprControls);
+syncPprControls();
 
 function parseWeight(value, fallback) {
   const n = Number.parseFloat(value);
@@ -44,6 +55,7 @@ function getFormParams() {
   const institution_ids = parseCommaSeparated((data.get("institution_ids") || "").toString());
   const institution_names = parseCommaSeparated((data.get("institution_names") || "").toString());
   const min_degree_mgr = data.get("min_degree_mgr") === "on";
+  const disable_ppr = data.get("disable_ppr") === "on";
   return {
     q,
     mode,
@@ -51,6 +63,7 @@ function getFormParams() {
     w_bm25,
     w_embed,
     w_ppr,
+    disable_ppr,
     min_pubs_since,
     since_year,
     min_polon_projects,
@@ -81,6 +94,7 @@ function buildQueryString(params) {
     qs.append("institution_name", name);
   }
   if (params.min_degree_mgr) qs.set("min_degree_mgr", "true");
+  if (params.disable_ppr) qs.set("disable_ppr", "true");
   return qs.toString();
 }
 
@@ -225,7 +239,9 @@ form.addEventListener("submit", async (event) => {
     return;
   }
   const weightSum =
-    Number(params.w_bm25) + Number(params.w_embed) + Number(params.w_ppr);
+    Number(params.w_bm25) +
+    Number(params.w_embed) +
+    (params.disable_ppr ? 0 : Number(params.w_ppr));
   if (weightSum <= 0) {
     setStatus("Set at least one fusion weight above zero.", true);
     return;
