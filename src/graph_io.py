@@ -437,6 +437,23 @@ def assign_communities(G: nx.Graph) -> nx.Graph:
     return G
 
 
+def assign_metrics(G: nx.Graph) -> nx.Graph:
+    """Add degree, centrality, clustering, and pagerank as node attributes."""
+    G_und = G.to_undirected() if isinstance(G, nx.DiGraph) else G
+    degree = dict(G_und.degree())
+    betweenness = nx.betweenness_centrality(G_und, weight="weight")
+    closeness = nx.closeness_centrality(G_und)
+    clustering = nx.clustering(G_und, weight="weight")
+    pagerank = nx.pagerank(G_und, weight="weight")
+    for node in G.nodes:
+        G.nodes[node]["degree"] = degree.get(node, 0)
+        G.nodes[node]["betweenness_centrality"] = round(betweenness.get(node, 0.0), 6)
+        G.nodes[node]["closeness_centrality"] = round(closeness.get(node, 0.0), 6)
+        G.nodes[node]["clustering_coefficient"] = round(clustering.get(node, 0.0), 6)
+        G.nodes[node]["pagerank"] = round(pagerank.get(node, 0.0), 6)
+    return G
+
+
 def to_gephi(G: nx.Graph, path: str | Path) -> None:
     """Export a networkx graph to GEXF format for Gephi.  Call to_networkx() first."""
     nx.write_gexf(G, str(path))

@@ -24,7 +24,7 @@ from data_loader import (
     load_researcher_graph,
     load_specialty_graph,
 )
-from graph_io import assign_communities, plot_matplotlib, to_gephi, to_networkx
+from graph_io import assign_communities, assign_metrics, plot_matplotlib, to_gephi, to_networkx
 
 
 # ── caching ───────────────────────────────────────────────────────────────────
@@ -131,7 +131,7 @@ def generate(
         conn=_conn(), domain_code=domain, min_shared_pubs=2,
     )
     if rg.nodes:
-        G_r = assign_communities(to_networkx(rg))
+        G_r = assign_metrics(assign_communities(to_networkx(rg)))
         _save_gephi_only(G_r, f"researcher_{domain_label}", out_dir)
     else:
         print("  (empty — skipped)")
@@ -145,7 +145,7 @@ def generate(
         conn=_conn(), min_shared_pubs=5,
     )
     if ig.nodes:
-        G_i_full = assign_communities(to_networkx(ig))
+        G_i_full = assign_metrics(assign_communities(to_networkx(ig)))
         _save_gephi_only(G_i_full, "institution_full", out_dir)
         G_i = _trim(G_i_full, top_n)
         print(f"  trimmed    to {len(G_i)} nodes")
@@ -162,7 +162,7 @@ def generate(
         conn=_conn(), min_shared_researchers=5, min_pct=5.0,
     )
     if sg.nodes:
-        G_s_full = assign_communities(to_networkx(sg, directed=True))
+        G_s_full = assign_metrics(assign_communities(to_networkx(sg, directed=True)))
         _save_gephi_only(G_s_full, "specialty_full", out_dir)
         G_s = _trim(G_s_full, top_n, by="degree")
         print(f"  trimmed    to {len(G_s)} nodes (top {top_n} by degree)")
