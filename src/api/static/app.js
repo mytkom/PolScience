@@ -6,19 +6,8 @@ const resultsHeader = document.getElementById("results-header");
 const metaEl = document.getElementById("meta");
 const csvBtn = document.getElementById("csv-btn");
 const searchBtn = document.getElementById("search-btn");
-const disablePprInput = document.getElementById("disable_ppr");
-const wPprInput = document.getElementById("w_ppr");
 
 let lastSearchParams = null;
-
-function syncPprControls() {
-  const disabled = disablePprInput.checked;
-  wPprInput.disabled = disabled;
-  wPprInput.classList.toggle("disabled-input", disabled);
-}
-
-disablePprInput.addEventListener("change", syncPprControls);
-syncPprControls();
 
 function parseWeight(value, fallback) {
   const n = Number.parseFloat(value);
@@ -121,7 +110,15 @@ function formatScore(value) {
   return Number(value).toFixed(4);
 }
 
-function buildTableHeaders(filterColumns) {
+function communityColumnTitle(payload) {
+  if (payload.static_network_fusion) {
+    return "Static co-auth PageRank (Community weight)";
+  }
+  return "Personalized PageRank on co-authorship graph";
+}
+
+function buildTableHeaders(payload) {
+  const filterColumns = payload.filter_columns;
   const headers = [
     { label: "Rank", className: "num" },
     { label: "Name" },
@@ -130,8 +127,14 @@ function buildTableHeaders(filterColumns) {
     { label: "Final", className: "num" },
     { label: "Keywords", className: "num", title: "Lexical keyword overlap (BM25)" },
     { label: "Semantic", className: "num", title: "Embedding cosine similarity" },
-    { label: "Community", className: "num", title: "Personalized PageRank on co-authorship graph" },
   ];
+  if (payload.show_community_column) {
+    headers.push({
+      label: "Community",
+      className: "num",
+      title: communityColumnTitle(payload),
+    });
+  }
   if (filterColumns) {
     if (filterColumns.pubs_since_year != null) {
       headers.push({
@@ -152,13 +155,27 @@ function buildTableHeaders(filterColumns) {
       headers.push({ label: "Degree" });
     }
   }
+  if (payload.graph_metrics) {
+    headers.push(
+      { label: "Co-auth degree", className: "num", title: "Number of distinct co-authors in the indexed co-authorship graph" },
+      { label: "Network rank", className: "num", title: "Global PageRank on the search co-auth graph (query-independent)" },
+      { label: "Cluster", title: "Modularity community hub label from offline graph exports (GEXF), when available" }
+    );
+    if (filterColumns && filterColumns.institutions) {
+      headers.push({
+        label: "Inst. network rank",
+        className: "num",
+        title: "Institution PageRank from GEXF for matched filter institutions",
+      });
+    }
+  }
   headers.push({ label: "ID" });
   return headers;
 }
 
-function renderTableHeader(filterColumns) {
+function renderTableHeader(payload) {
   resultsHeader.innerHTML = "";
-  for (const header of buildTableHeaders(filterColumns)) {
+  for (const header of buildTableHeaders(payload)) {
     const th = document.createElement("th");
     th.textContent = header.label;
     if (header.className) th.className = header.className;
@@ -168,7 +185,7 @@ function renderTableHeader(filterColumns) {
 }
 
 function renderResults(payload) {
-  renderTableHeader(payload.filter_columns);
+  renderTableHeader(payload);
   resultsBody.innerHTML = "";
   for (const row of payload.results) {
     const tr = document.createElement("tr");
@@ -183,8 +200,10 @@ function renderResults(payload) {
       `<td class="num">${formatScore(row.final)}</td>`,
       `<td class="num">${formatScore(row.bm25)}</td>`,
       `<td class="num">${formatScore(row.cosine)}</td>`,
-      `<td class="num">${formatScore(row.ppr)}</td>`,
     ];
+    if (payload.show_community_column) {
+      cells.push(`<td class="num">${formatScore(row.ppr)}</td>`);
+    }
     const fc = payload.filter_columns;
     if (fc) {
       if (fc.pubs_since_year != null) {
@@ -204,6 +223,18 @@ function renderResults(payload) {
         cells.push(`<td>${escapeHtml(row.degree || "")}</td>`);
       }
     }
+    if (payload.graph_metrics) {
+      cells.push(
+        `<td class="num">${row.coauth_degree == null ? "" : escapeHtml(String(row.coauth_degree))}</td>`,
+        `<td class="num">${row.network_pagerank == null ? "" : formatScore(row.network_pagerank)}</td>`,
+        `<td>${escapeHtml(row.cluster_name || "")}</td>`
+      );
+      if (fc && fc.institutions) {
+        cells.push(
+          `<td class="num">${row.institution_network_pagerank == null ? "" : formatScore(row.institution_network_pagerank)}</td>`
+        );
+      }
+    }
     cells.push(`<td><code>${escapeHtml(row.profile_id)}</code></td>`);
     tr.innerHTML = cells.join("");
     resultsBody.appendChild(tr);
@@ -212,7 +243,10 @@ function renderResults(payload) {
   const weightLine = w
     ? `Weights: ${formatPercent(w.keywords)} Keywords · ${formatPercent(w.semantic)} Semantic · ${formatPercent(w.community)} Community`
     : "";
-  metaEl.textContent = `Mode: ${payload.search_mode} · ${payload.count} results for “${payload.query}”${weightLine ? ` · ${weightLine}` : ""}`;
+  const staticLine = payload.static_network_fusion
+    ? " · Community weight uses static co-auth PageRank (query PPR disabled)"
+    : "";
+  metaEl.textContent = `Mode: ${payload.search_mode} · ${payload.count} results for “${payload.query}”${weightLine ? ` · ${weightLine}` : ""}${staticLine}`;
   resultsWrap.classList.remove("hidden");
 }
 
@@ -239,9 +273,7 @@ form.addEventListener("submit", async (event) => {
     return;
   }
   const weightSum =
-    Number(params.w_bm25) +
-    Number(params.w_embed) +
-    (params.disable_ppr ? 0 : Number(params.w_ppr));
+    Number(params.w_bm25) + Number(params.w_embed) + Number(params.w_ppr);
   if (weightSum <= 0) {
     setStatus("Set at least one fusion weight above zero.", true);
     return;

@@ -2,7 +2,7 @@
 
 **Status:** Active retrieval path for polling scientists by topic query.
 
-**Related:** [expert_retrieval_code.md](expert_retrieval_code.md) (how the Python code works) · [jepa.md](jepa.md) (deferred until abstracts exist) · [assess_jepa_feasibility.py](../data/assess_jepa_feasibility.py) (data quality gate)
+**Related:** [expert_retrieval_code.md](expert_retrieval_code.md) (how the Python code works) · [graph_metrics_search.md](graph_metrics_search.md) (precomputed GEXF metrics) · [jepa.md](jepa.md) (deferred until abstracts exist) · [assess_jepa_feasibility.py](../data/assess_jepa_feasibility.py) (data quality gate)
 
 ---
 

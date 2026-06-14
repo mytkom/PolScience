@@ -16,6 +16,7 @@ from src.api.config import ApiSettings, load_settings
 from src.api.schemas import HealthResponse, SearchResponse
 from src.api.search_service import SearchParams, run_search, search_response_to_csv
 from src.retrieval.embeddings import preload_embedding_model, resolve_model_name_from_artifacts
+from src.retrieval.gexf_metrics import preload_graph_metrics
 from src.retrieval.logging_config import configure_build_logging
 from src.retrieval.modes import SearchMode
 from src.retrieval.pipeline import preload_search_indexes
@@ -131,11 +132,13 @@ async def lifespan(app: FastAPI):
     configure_build_logging(logging.INFO)
     settings = load_settings()
     app.state.settings = settings
-    db_ok, artifacts_ok = settings.validate_paths()
+    db_ok, artifacts_ok, graphs_ok = settings.validate_paths()
     if not db_ok:
         LOG.error("Database not found: %s", settings.db_path)
     if not artifacts_ok:
         LOG.error("Artifacts directory not found: %s", settings.artifacts_dir)
+    if not graphs_ok:
+        LOG.warning("Graph metrics directory missing or empty: %s", settings.graphs_dir)
     if artifacts_ok:
         model_name = resolve_model_name_from_artifacts(settings.artifacts_dir)
         app.state.embedding_model_name = model_name
@@ -143,6 +146,10 @@ async def lifespan(app: FastAPI):
         preload_search_indexes(settings.artifacts_dir)
     else:
         app.state.embedding_model_name = None
+    preload_graph_metrics(
+        settings.graphs_dir,
+        settings.artifacts_dir if artifacts_ok else None,
+    )
     if settings.eager_load and db_ok and artifacts_ok:
         LOG.info("POLSCIENCE_EAGER_LOAD: running probe queries for both modes...")
         _warmup_query_paths(settings)
@@ -171,19 +178,21 @@ async def index(request: Request) -> HTMLResponse:
 @app.get("/api/health", response_model=HealthResponse)
 async def health(request: Request) -> HealthResponse:
     settings: ApiSettings = request.app.state.settings
-    db_ok, artifacts_ok = settings.validate_paths()
+    db_ok, artifacts_ok, graphs_ok = settings.validate_paths()
     return HealthResponse(
         ok=db_ok and artifacts_ok,
         db=db_ok,
         artifacts=artifacts_ok,
+        graphs=graphs_ok,
         db_path=str(settings.db_path),
         artifacts_dir=str(settings.artifacts_dir),
+        graphs_dir=str(settings.graphs_dir),
     )
 
 
 def _execute_search(request: Request, params: SearchParams) -> SearchResponse:
     settings: ApiSettings = request.app.state.settings
-    db_ok, artifacts_ok = settings.validate_paths()
+    db_ok, artifacts_ok, _graphs_ok = settings.validate_paths()
     if not db_ok:
         raise HTTPException(status_code=503, detail=f"Database not found: {settings.db_path}")
     if not artifacts_ok:

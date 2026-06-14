@@ -9,6 +9,7 @@ from pathlib import Path
 _REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_DB = _REPO_ROOT / "data" / "LudzieNaukiDumpDB" / "new_prof_search.sqlite"
 DEFAULT_ARTIFACTS = _REPO_ROOT / "data" / "retrieval_artifacts"
+DEFAULT_GRAPHS = _REPO_ROOT / "data" / "graphs"
 MAX_TOP_K = 5000
 
 
@@ -16,15 +17,20 @@ MAX_TOP_K = 5000
 class ApiSettings:
     db_path: Path
     artifacts_dir: Path
+    graphs_dir: Path
     eager_load: bool
 
-    def validate_paths(self) -> tuple[bool, bool]:
-        return self.db_path.is_file(), self.artifacts_dir.is_dir()
+    def validate_paths(self) -> tuple[bool, bool, bool]:
+        db_ok = self.db_path.is_file()
+        artifacts_ok = self.artifacts_dir.is_dir()
+        graphs_ok = self.graphs_dir.is_dir() and any(self.graphs_dir.glob("*.gexf"))
+        return db_ok, artifacts_ok, graphs_ok
 
 
 def load_settings() -> ApiSettings:
     db_raw = os.environ.get("POLSCIENCE_DB_PATH", str(DEFAULT_DB))
     artifacts_raw = os.environ.get("POLSCIENCE_ARTIFACTS_DIR", str(DEFAULT_ARTIFACTS))
+    graphs_raw = os.environ.get("POLSCIENCE_GRAPHS_DIR", str(DEFAULT_GRAPHS))
     eager = os.environ.get("POLSCIENCE_EAGER_LOAD", "").strip().lower() in (
         "1",
         "true",
@@ -33,5 +39,6 @@ def load_settings() -> ApiSettings:
     return ApiSettings(
         db_path=Path(db_raw).expanduser().resolve(),
         artifacts_dir=Path(artifacts_raw).expanduser().resolve(),
+        graphs_dir=Path(graphs_raw).expanduser().resolve(),
         eager_load=eager,
     )

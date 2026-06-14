@@ -420,11 +420,20 @@ def plot_matplotlib(
     return fig
 
 
-def assign_communities(G: nx.Graph) -> nx.Graph:
+def _detect_communities(G_und: nx.Graph, *, fast: bool) -> list[set]:
+    if fast:
+        try:
+            return list(nx.community.louvain_communities(G_und, weight="weight", seed=42))
+        except Exception:
+            return list(nx.community.label_propagation_communities(G_und))
+    return list(nx.community.greedy_modularity_communities(G_und))
+
+
+def assign_communities(G: nx.Graph, *, fast: bool = False) -> nx.Graph:
     """Add 'community' (int) and 'community_name' (hub node label) to every node."""
     G_und = G.to_undirected() if isinstance(G, nx.DiGraph) else G
     try:
-        communities = nx.community.greedy_modularity_communities(G_und)
+        communities = _detect_communities(G_und, fast=fast)
         for i, comm in enumerate(communities):
             hub = max(comm, key=lambda n: G_und.degree(n))
             hub_label = str(G_und.nodes[hub].get("label", hub))
@@ -437,20 +446,29 @@ def assign_communities(G: nx.Graph) -> nx.Graph:
     return G
 
 
-def assign_metrics(G: nx.Graph) -> nx.Graph:
+def assign_metrics(G: nx.Graph, *, fast: bool = False) -> nx.Graph:
     """Add degree, centrality, clustering, and pagerank as node attributes."""
     G_und = G.to_undirected() if isinstance(G, nx.DiGraph) else G
     degree = dict(G_und.degree())
-    betweenness = nx.betweenness_centrality(G_und, weight="weight")
-    closeness = nx.closeness_centrality(G_und)
-    clustering = nx.clustering(G_und, weight="weight")
     pagerank = nx.pagerank(G_und, weight="weight")
+    betweenness: dict | None = None
+    closeness: dict | None = None
+    clustering: dict | None = None
+    if not fast:
+        betweenness = nx.betweenness_centrality(G_und, weight="weight")
+        closeness = nx.closeness_centrality(G_und)
+        clustering = nx.clustering(G_und, weight="weight")
     for node in G.nodes:
         G.nodes[node]["degree"] = degree.get(node, 0)
-        G.nodes[node]["betweenness_centrality"] = round(betweenness.get(node, 0.0), 6)
-        G.nodes[node]["closeness_centrality"] = round(closeness.get(node, 0.0), 6)
-        G.nodes[node]["clustering_coefficient"] = round(clustering.get(node, 0.0), 6)
         G.nodes[node]["pagerank"] = round(pagerank.get(node, 0.0), 6)
+        if betweenness is not None:
+            G.nodes[node]["betweenness_centrality"] = round(betweenness.get(node, 0.0), 6)
+        if closeness is not None:
+            G.nodes[node]["closeness_centrality"] = round(closeness.get(node, 0.0), 6)
+        if clustering is not None:
+            G.nodes[node]["clustering_coefficient"] = float(
+                round(clustering.get(node, 0.0), 6)
+            )
     return G
 
 

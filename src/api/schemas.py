@@ -19,6 +19,10 @@ class ExpertResult(BaseModel):
     projects_since_year: int | None = None
     institutions: str | None = None
     degree: str | None = None
+    coauth_degree: int | None = None
+    network_pagerank: float | None = None
+    cluster_name: str | None = None
+    institution_network_pagerank: float | None = None
 
 
 class FilterColumnsApplied(BaseModel):
@@ -44,6 +48,9 @@ class SearchResponse(BaseModel):
     count: int
     weights: FusionWeightsApplied
     filter_columns: FilterColumnsApplied | None = None
+    graph_metrics: bool = False
+    static_network_fusion: bool = False
+    show_community_column: bool = True
     results: list[ExpertResult] = Field(default_factory=list)
 
 
@@ -51,5 +58,7 @@ class HealthResponse(BaseModel):
     ok: bool
     db: bool
     artifacts: bool
+    graphs: bool
     db_path: str
     artifacts_dir: str
+    graphs_dir: str

@@ -7,6 +7,7 @@ Usage (from project root):
     uv run python src/generate_graphs.py --top 300          # cap nodes per graph
     uv run python src/generate_graphs.py --no-cache         # force fresh DB queries
     uv run python src/generate_graphs.py --cache-dir data/cache
+    uv run python src/generate_graphs.py --domain all --researcher-only --fast
 """
 from __future__ import annotations
 
@@ -33,7 +34,7 @@ def _cache_path(cache_dir: Path, key: str) -> Path:
     return cache_dir / f"{key}.pkl"
 
 
-def _load_cached(cache_dir: Path, key: str) -> Graph | None:
+def _load_cached(cache_dir: Path, key: str) -> Graph | nx.Graph | None:
     p = _cache_path(cache_dir, key)
     if p.exists():
         print(f"  cache hit  {p.name}")
@@ -42,7 +43,7 @@ def _load_cached(cache_dir: Path, key: str) -> Graph | None:
     return None
 
 
-def _save_cached(cache_dir: Path, key: str, graph: Graph) -> None:
+def _save_cached(cache_dir: Path, key: str, graph: Graph | nx.Graph) -> None:
     cache_dir.mkdir(parents=True, exist_ok=True)
     with _cache_path(cache_dir, key).open("wb") as f:
         pickle.dump(graph, f)
@@ -66,6 +67,36 @@ def _load_graph(
     print(f"  loaded     {len(graph.nodes)} nodes, {len(graph.edges)} edges in {time.perf_counter() - t0:.1f}s")
     _save_cached(cache_dir, key, graph)
     return graph
+
+
+def _prepare_export_graph(
+    cache_dir: Path,
+    use_cache: bool,
+    key: str,
+    raw: Graph,
+    *,
+    fast: bool,
+    directed: bool = False,
+) -> nx.Graph:
+    """Convert to NetworkX and attach communities + metrics, with optional cache."""
+    nx_key = f"{key}_nx_{'fast' if fast else 'full'}"
+    if use_cache:
+        cached = _load_cached(cache_dir, nx_key)
+        if cached is not None:
+            return cached
+
+    t0 = time.perf_counter()
+    G = to_networkx(raw, directed=directed)
+    G = assign_communities(G, fast=fast)
+    G = assign_metrics(G, fast=fast)
+    elapsed = time.perf_counter() - t0
+    mode = "fast" if fast else "full"
+    print(
+        f"  metrics    {mode} mode on {len(G)} nodes, "
+        f"{G.number_of_edges()} edges in {elapsed:.1f}s"
+    )
+    _save_cached(cache_dir, nx_key, G)
+    return G
 
 
 # ── rendering ─────────────────────────────────────────────────────────────────
@@ -110,6 +141,9 @@ def generate(
     use_cache: bool,
     domain: str | None,
     top_n: int,
+    *,
+    researcher_only: bool = False,
+    fast: bool = False,
 ) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     domain_label = domain or "all_domains"
@@ -131,10 +165,22 @@ def generate(
         conn=_conn(), domain_code=domain, min_shared_pubs=2,
     )
     if rg_full.nodes:
-        G_r = assign_metrics(assign_communities(to_networkx(rg_full)))
+        G_r = _prepare_export_graph(
+            cache_dir,
+            use_cache,
+            key=f"researcher_{domain_label}_msp2",
+            raw=rg_full,
+            fast=fast,
+        )
         _save_gephi_only(G_r, f"researcher_{domain_label}", out_dir)
     else:
         print("  (empty — skipped)")
+
+    if researcher_only:
+        if conn is not None:
+            conn.close()
+        print(f"\nDone. Outputs in {out_dir.resolve()}")
+        return
 
     # ── institution graph ─────────────────────────────────────────────────────
     print("\n[2/3] Institution collaboration graph")
@@ -151,7 +197,13 @@ def generate(
         conn=_conn(), min_shared_pubs=5,
     )
     if ig_full.nodes:
-        G_i_full = assign_metrics(assign_communities(to_networkx(ig_full)))
+        G_i_full = _prepare_export_graph(
+            cache_dir,
+            use_cache,
+            key="institution_msp1",
+            raw=ig_full,
+            fast=fast,
+        )
         _save_gephi_only(G_i_full, "institution_full", out_dir)
     if ig.nodes:
         G_i = _trim(to_networkx(ig), top_n)
@@ -175,7 +227,14 @@ def generate(
         conn=_conn(), min_shared_researchers=5, min_pct=5.0,
     )
     if sg_full.nodes:
-        G_s_full = assign_metrics(assign_communities(to_networkx(sg_full, directed=True)))
+        G_s_full = _prepare_export_graph(
+            cache_dir,
+            use_cache,
+            key="specialty_msp1_pct0",
+            raw=sg_full,
+            fast=fast,
+            directed=True,
+        )
         _save_gephi_only(G_s_full, "specialty_full", out_dir)
     if sg.nodes:
         G_s = _trim(to_networkx(sg, directed=True), top_n, by="degree")
@@ -203,6 +262,17 @@ def _parse_args() -> argparse.Namespace:
                         "pass '' or 'all' for no filter")
     p.add_argument("--top", type=int, default=60,
                    help="max nodes per graph — keeps top N by degree (default: 60)")
+    p.add_argument(
+        "--researcher-only",
+        action="store_true",
+        help="export only the researcher GEXF (skip institution/specialty graphs and SVGs)",
+    )
+    p.add_argument(
+        "--fast",
+        action="store_true",
+        help="search-oriented metrics: degree + pagerank + Louvain communities; "
+             "skip betweenness/closeness/clustering (much faster on all-domains graphs)",
+    )
     return p.parse_args()
 
 
@@ -216,4 +286,6 @@ if __name__ == "__main__":
         use_cache=not args.no_cache,
         domain=domain,
         top_n=args.top,
+        researcher_only=args.researcher_only,
+        fast=args.fast,
     )

@@ -75,7 +75,7 @@
           </div>
           <label class="checkbox-label">
             <input type="checkbox" id="disable_ppr" name="disable_ppr" />
-            Disable Community (skip co-authorship PPR)
+            Disable query PPR (use static co-auth PageRank from GEXF when graphs are loaded)
           </label>
         </fieldset>
 
@@ -137,16 +137,26 @@
               meaning, not just shared words.
             </li>
             <li>
-              <strong>Community</strong> — co-author network score for this query: we seed the graph with the top
-              keyword matches, then spread rank along co-authorship links (more shared papers = stronger ties).
-              High values mean the person is well connected to others who already match the topic.
+              <strong>Community</strong> — co-author network score used in <strong>Final</strong>: by default,
+              personalized PageRank seeded from top keyword matches. If query PPR is disabled and precomputed GEXF
+              graphs are loaded, the Community weight uses static co-auth PageRank instead.
+            </li>
+            <li>
+              <strong>Co-auth degree</strong>, <strong>Network rank</strong>, <strong>Cluster</strong> —
+              background network context, not query scores. <strong>Co-auth degree</strong> counts how many
+              distinct co-authors the profile has in the search index’s co-authorship graph (any shared
+              publication). <strong>Network rank</strong> is global PageRank on that same graph: how
+              well connected the profile is in the overall network, regardless of your keywords.
+              <strong>Cluster</strong> names the modularity community the profile was assigned to in
+              offline graph exports (when GEXF is loaded). These columns do not affect <strong>Final</strong>
+              while query PPR is enabled; only the <strong>Community</strong> score enters fusion.
             </li>
           </ul>
           <p class="score-note">
             <strong>Keywords</strong>, <strong>Semantic</strong>, and <strong>Community</strong> are raw scores
-            (BM25, cosine similarity, graph PageRank). Profiles with no indexed text are excluded. Zero keyword
-            score is allowed in the pool. <strong>Final</strong> uses min–max normalized signals over that pool and
-            your fusion weights.
+            used in fusion (BM25, cosine similarity, PPR or static PageRank). Profiles with no indexed text are
+            excluded. Zero keyword score is allowed in the pool. <strong>Final</strong> uses min–max normalized
+            signals over that pool and your fusion weights.
           </p>
         </details>
         <div class="table-scroll">

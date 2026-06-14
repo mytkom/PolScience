@@ -31,7 +31,8 @@ Then use `python` / `pip` instead of `uv run` below.
 Topic → ranked list of scientists for polling, using **BM25 + bi-encoder + PPR fusion**.
 
 See **[docs/expert_retrieval_fusion.md](docs/expert_retrieval_fusion.md)** for architecture, defaults, and tuning.  
-See **[docs/expert_retrieval_code.md](docs/expert_retrieval_code.md)** for a code walkthrough (modules, query flow, artifacts).
+See **[docs/expert_retrieval_code.md](docs/expert_retrieval_code.md)** for a code walkthrough (modules, query flow, artifacts).  
+See **[docs/graph_metrics_search.md](docs/graph_metrics_search.md)** for precomputed GEXF network metrics in search.
 
 ```bash
 # Build indexes for both search modes (once per DB refresh)
@@ -65,6 +66,7 @@ After `build-index`, start the server:
 ```bash
 export POLSCIENCE_DB_PATH=data/LudzieNaukiDumpDB/new_prof_search.sqlite
 export POLSCIENCE_ARTIFACTS_DIR=data/retrieval_artifacts
+export POLSCIENCE_GRAPHS_DIR=data/graphs
 uv run uvicorn src.api.app:app --reload --host 0.0.0.0 --port 8000
 ```
 
@@ -91,6 +93,7 @@ uv run python data/assess_jepa_feasibility.py
 ## Other docs
 
 - [Expert retrieval fusion](docs/expert_retrieval_fusion.md) — BM25 + embeddings + PPR
+- [Graph metrics in search](docs/graph_metrics_search.md) — precomputed GEXF enrichment
 - [JEPA design](docs/jepa.md) — deferred until abstracts are available
 
 ## Tests

@@ -18,6 +18,7 @@ from src.api.config import ApiSettings  # noqa: E402
 from src.api.schemas import FusionWeightsApplied  # noqa: E402
 from src.api.search_service import CSV_COLUMNS, csv_columns_for_response, search_response_to_csv  # noqa: E402
 from src.api.schemas import FilterColumnsApplied  # noqa: E402
+from src.retrieval.gexf_metrics import GraphMetricsStore, ResearcherGraphMetrics, clear_graph_metrics_cache  # noqa: E402
 from src.retrieval.pipeline import QueryResult  # noqa: E402
 
 
@@ -52,11 +53,14 @@ class TestApi(unittest.TestCase):
         root = Path(self._tmpdir.name)
         self.db_path = root / "test.sqlite"
         self.artifacts_dir = root / "artifacts"
+        self.graphs_dir = root / "graphs"
         self.artifacts_dir.mkdir()
+        self.graphs_dir.mkdir()
         _make_db(self.db_path)
         self.settings = ApiSettings(
             db_path=self.db_path,
             artifacts_dir=self.artifacts_dir,
+            graphs_dir=self.graphs_dir,
             eager_load=False,
         )
         self.preload_model_patcher = patch(
@@ -67,14 +71,22 @@ class TestApi(unittest.TestCase):
             "src.api.app.preload_search_indexes",
             autospec=True,
         )
+        self.preload_graphs_patcher = patch(
+            "src.api.app.preload_graph_metrics",
+            autospec=True,
+        )
         self.preload_model_patcher.start()
         self.preload_indexes_patcher.start()
+        self.preload_graphs_patcher.start()
+        clear_graph_metrics_cache()
         self.client = TestClient(app)
         app.state.settings = self.settings
 
     def tearDown(self) -> None:
         self.preload_model_patcher.stop()
         self.preload_indexes_patcher.stop()
+        self.preload_graphs_patcher.stop()
+        clear_graph_metrics_cache()
         self._tmpdir.cleanup()
 
     def test_health_reports_paths(self) -> None:
@@ -83,6 +95,8 @@ class TestApi(unittest.TestCase):
         payload = response.json()
         self.assertTrue(payload["db"])
         self.assertTrue(payload["artifacts"])
+        self.assertFalse(payload["graphs"])
+        self.assertIn("graphs_dir", payload)
 
     def test_csv_export_utf8_bom_for_polish_names(self) -> None:
         from src.api.schemas import ExpertResult, SearchResponse
@@ -162,6 +176,37 @@ class TestApi(unittest.TestCase):
         self.assertIn("pubs_since_2020", body.splitlines()[0])
         self.assertIn("Uni A, Uni B", body)
         self.assertIn("doktor", body)
+
+    def test_csv_columns_include_graph_metrics(self) -> None:
+        from src.api.schemas import ExpertResult, SearchResponse
+
+        response = SearchResponse(
+            query="test",
+            search_mode="profile",
+            count=1,
+            weights=FusionWeightsApplied(keywords=0.25, semantic=0.55, community=0.2),
+            graph_metrics=True,
+            results=[
+                ExpertResult(
+                    rank=1,
+                    profile_id="alice",
+                    name="Anna",
+                    email="",
+                    profile_url="https://example.test/p",
+                    final=0.9,
+                    bm25=0.8,
+                    cosine=0.7,
+                    ppr=0.6,
+                    coauth_degree=4,
+                    network_pagerank=0.042,
+                    cluster_name="Hub",
+                ),
+            ],
+        )
+        columns = csv_columns_for_response(response)
+        self.assertIn("coauth_degree", columns)
+        self.assertIn("network_pagerank", columns)
+        self.assertIn("cluster_name", columns)
 
     def test_search_requires_query(self) -> None:
         response = self.client.get("/api/search", params={"q": "  "})
@@ -243,6 +288,92 @@ class TestApi(unittest.TestCase):
         mock_query.assert_called_once()
         self.assertTrue(mock_query.call_args.kwargs["disable_ppr"])
 
+    @patch("src.api.search_service.get_graph_metrics_store")
+    @patch("src.api.search_service.query_experts")
+    def test_search_graph_metrics_enriched(
+        self,
+        mock_query: unittest.mock.MagicMock,
+        mock_store: unittest.mock.MagicMock,
+    ) -> None:
+        mock_store.return_value = GraphMetricsStore(
+            researchers={
+                "alice": ResearcherGraphMetrics(
+                    coauth_degree=5,
+                    network_pagerank=0.042,
+                    cluster_name="Hub Person",
+                ),
+            },
+            institutions={},
+        )
+        mock_query.return_value = [
+            QueryResult(
+                profile_id="alice",
+                rank=1,
+                final=0.9,
+                bm25=0.8,
+                cosine=0.7,
+                ppr=0.6,
+                search_mode="profile",
+            ),
+        ]
+        response = self.client.get(
+            "/api/search",
+            params={"q": "biology", "mode": "profile", "top": 10},
+        )
+        self.assertEqual(response.status_code, 200)
+        payload = response.json()
+        self.assertTrue(payload["graph_metrics"])
+        self.assertFalse(payload["static_network_fusion"])
+        self.assertTrue(payload["show_community_column"])
+        self.assertEqual(payload["results"][0]["coauth_degree"], 5)
+        self.assertAlmostEqual(payload["results"][0]["network_pagerank"], 0.042)
+        self.assertEqual(payload["results"][0]["cluster_name"], "Hub Person")
+
+    @patch("src.api.search_service.get_graph_metrics_store")
+    @patch("src.api.search_service.query_experts")
+    def test_static_network_fusion_flag(
+        self,
+        mock_query: unittest.mock.MagicMock,
+        mock_store: unittest.mock.MagicMock,
+    ) -> None:
+        store = GraphMetricsStore(
+            researchers={
+                "alice": ResearcherGraphMetrics(
+                    coauth_degree=1,
+                    network_pagerank=0.05,
+                ),
+            },
+            institutions={},
+        )
+        mock_store.return_value = store
+        mock_query.return_value = [
+            QueryResult(
+                profile_id="alice",
+                rank=1,
+                final=0.9,
+                bm25=0.8,
+                cosine=0.7,
+                ppr=0.05,
+                search_mode="profile",
+            ),
+        ]
+        response = self.client.get(
+            "/api/search",
+            params={
+                "q": "biology",
+                "disable_ppr": "true",
+                "w_ppr": 0.2,
+                "w_bm25": 0.4,
+                "w_embed": 0.4,
+            },
+        )
+        self.assertEqual(response.status_code, 200)
+        payload = response.json()
+        self.assertTrue(payload["static_network_fusion"])
+        self.assertFalse(payload["show_community_column"])
+        self.assertGreater(payload["weights"]["community"], 0.0)
+        self.assertIs(mock_query.call_args.kwargs["graph_metrics_store"], store)
+
     @patch("src.api.search_service.query_experts")
     def test_search_export_csv(self, mock_query: unittest.mock.MagicMock) -> None:
         mock_query.return_value = [
@@ -268,7 +399,31 @@ class TestApi(unittest.TestCase):
         text = raw.decode("utf-8-sig")
         lines = text.strip().splitlines()
         self.assertEqual(lines[0], ",".join(CSV_COLUMNS))
+        self.assertIn("community", lines[0])
         self.assertIn("bob", lines[1])
+
+    @patch("src.api.search_service.query_experts")
+    def test_search_export_csv_omits_community_when_ppr_disabled(
+        self, mock_query: unittest.mock.MagicMock
+    ) -> None:
+        mock_query.return_value = [
+            QueryResult(
+                profile_id="bob",
+                rank=1,
+                final=1.0,
+                bm25=1.0,
+                cosine=1.0,
+                ppr=0.42,
+                search_mode="publications",
+            ),
+        ]
+        response = self.client.get(
+            "/api/search/export.csv",
+            params={"q": "test", "mode": "publications", "disable_ppr": "true"},
+        )
+        self.assertEqual(response.status_code, 200)
+        header = response.content.decode("utf-8-sig").splitlines()[0]
+        self.assertNotIn("community", header)
 
     def test_index_html(self) -> None:
         response = self.client.get("/")

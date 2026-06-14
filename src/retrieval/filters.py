@@ -201,6 +201,38 @@ def load_current_institution_names(
     return {pid: ", ".join(names) for pid, names in names_by_profile.items()}
 
 
+def load_profile_current_institution_ids(
+    db_path: Path,
+    profile_ids: list[str],
+) -> dict[str, list[str]]:
+    """CURRENT institution IDs per profile."""
+    unique_ids = list(dict.fromkeys(profile_ids))
+    if not unique_ids:
+        return {}
+    placeholders = ",".join(["?"] * len(unique_ids))
+    sql = f"""
+        SELECT profile_id, institution_id
+        FROM profile_institutions
+        WHERE status_employment = 'CURRENT'
+          AND profile_id IN ({placeholders})
+    """
+    conn = sqlite3.connect(f"file:{db_path.resolve()}?mode=ro", uri=True)
+    try:
+        rows = conn.execute(sql, unique_ids).fetchall()
+    finally:
+        conn.close()
+    out: dict[str, list[str]] = {}
+    for profile_id, institution_id in rows:
+        pid = str(profile_id)
+        iid = str(institution_id).strip()
+        if not iid:
+            continue
+        bucket = out.setdefault(pid, [])
+        if iid not in bucket:
+            bucket.append(iid)
+    return out
+
+
 def load_degree_labels(db_path: Path, profile_ids: list[str]) -> dict[str, str]:
     unique_ids = list(dict.fromkeys(profile_ids))
     if not unique_ids:

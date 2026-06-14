@@ -24,6 +24,8 @@ from graph_io import (
     _prepare_plot_data,
     _rescale,
     _truncate,
+    assign_communities,
+    assign_metrics,
     plot_matplotlib,
     to_gephi,
     to_networkx,
@@ -259,6 +261,36 @@ class TestPlotMatplotlib:
         fig = plot_matplotlib(small_nx, title="My Graph")
         assert fig.axes[0].get_title() == "My Graph"
         plt.close(fig)
+
+
+# ── assign_metrics / assign_communities ───────────────────────────────────────
+
+class TestAssignMetrics:
+    def test_full_mode_adds_all_metric_attributes(self, small_nx):
+        G = assign_metrics(small_nx.copy())
+        for node in G.nodes:
+            assert "degree" in G.nodes[node]
+            assert "pagerank" in G.nodes[node]
+            assert "betweenness_centrality" in G.nodes[node]
+            assert "closeness_centrality" in G.nodes[node]
+            assert "clustering_coefficient" in G.nodes[node]
+
+    def test_fast_mode_skips_expensive_centralities(self, small_nx):
+        G = assign_metrics(small_nx.copy(), fast=True)
+        for node in G.nodes:
+            assert "degree" in G.nodes[node]
+            assert "pagerank" in G.nodes[node]
+            assert "betweenness_centrality" not in G.nodes[node]
+            assert "closeness_centrality" not in G.nodes[node]
+            assert "clustering_coefficient" not in G.nodes[node]
+
+
+class TestAssignCommunities:
+    def test_assigns_community_labels(self, small_nx):
+        G = assign_communities(small_nx.copy(), fast=True)
+        for node in G.nodes:
+            assert "community" in G.nodes[node]
+            assert "community_name" in G.nodes[node]
 
 
 # ── to_gephi ──────────────────────────────────────────────────────────────────

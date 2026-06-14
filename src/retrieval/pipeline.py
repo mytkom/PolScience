@@ -52,6 +52,7 @@ from src.retrieval.filters import (
     passes_structural_filters,
     resolve_institution_filter_ids,
 )
+from src.retrieval.gexf_metrics import GraphMetricsStore
 from src.retrieval.fusion import FusionWeights, fuse_scores
 from src.retrieval.logging_config import get_build_logger, log_step
 from src.retrieval.modes import SearchMode
@@ -275,10 +276,13 @@ def build_artifacts(
             "Export co-authorship graph",
             n_profiles=len(profile_ids),
         ):
-            export_coauth_edges(conn, profile_ids, artifacts_dir)
+            adjacency = export_coauth_edges(conn, profile_ids, artifacts_dir)
         coauth_path = artifacts_dir / "coauth_edges.npz"
         if coauth_path.is_file():
             logger.info("Co-auth graph file: %.2f MB", _mb(coauth_path))
+            from src.retrieval.profile_graph_metrics import export_profile_graph_metrics
+
+            export_profile_graph_metrics(adjacency, profile_ids, artifacts_dir)
     finally:
         conn.close()
 
@@ -391,6 +395,7 @@ def query_experts(
     gate_bm25: bool = False,
     ppr_alpha: float = 0.85,
     disable_ppr: bool = False,
+    graph_metrics_store: GraphMetricsStore | None = None,
     min_pubs: int | None = None,
     domain_code: str | None = None,
     min_year: int | None = None,
@@ -467,9 +472,15 @@ def query_experts(
         candidate_ids,
     )
 
-    # Stage 3: graph — PPR from top BM25 seeds, scores for pool nodes only
+    # Stage 3: graph — PPR from top BM25 seeds, or static PageRank when PPR disabled
     if disable_ppr:
-        ppr_scores = dict.fromkeys(candidate_ids, 0.0)
+        if graph_metrics_store and graph_metrics_store.has_researcher_metrics:
+            ppr_scores = {
+                pid: graph_metrics_store.researcher_pagerank(pid) or 0.0
+                for pid in candidate_ids
+            }
+        else:
+            ppr_scores = dict.fromkeys(candidate_ids, 0.0)
     else:
         seeds = seeds_from_bm25_hits(bm25_hits, id_to_idx, seed_k=seed_k)
         candidate_indices = [id_to_idx[pid] for pid in candidate_ids if pid in id_to_idx]
