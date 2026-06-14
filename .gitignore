@@ -5,3 +5,7 @@ data/retrieval_artifacts/
 **/build
 **/dist
 **/*.egg-info
+*.zip
+data/cache/
+data/graphs/
+results
