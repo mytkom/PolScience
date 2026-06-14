@@ -124,30 +124,37 @@ def generate(
 
     # ── researcher graph ──────────────────────────────────────────────────────
     print("\n[1/3] Researcher co-authorship graph")
-    rg = _load_graph(
+    rg_full = _load_graph(
         cache_dir, use_cache,
         key=f"researcher_{domain_label}_msp2",
         loader=load_researcher_graph,
         conn=_conn(), domain_code=domain, min_shared_pubs=2,
     )
-    if rg.nodes:
-        G_r = assign_metrics(assign_communities(to_networkx(rg)))
+    if rg_full.nodes:
+        G_r = assign_metrics(assign_communities(to_networkx(rg_full)))
         _save_gephi_only(G_r, f"researcher_{domain_label}", out_dir)
     else:
         print("  (empty — skipped)")
 
     # ── institution graph ─────────────────────────────────────────────────────
     print("\n[2/3] Institution collaboration graph")
+    ig_full = _load_graph(
+        cache_dir, use_cache,
+        key="institution_msp1",
+        loader=load_institution_graph,
+        conn=_conn(), min_shared_pubs=1,
+    )
     ig = _load_graph(
         cache_dir, use_cache,
         key="institution_msp5",
         loader=load_institution_graph,
         conn=_conn(), min_shared_pubs=5,
     )
-    if ig.nodes:
-        G_i_full = assign_metrics(assign_communities(to_networkx(ig)))
+    if ig_full.nodes:
+        G_i_full = assign_metrics(assign_communities(to_networkx(ig_full)))
         _save_gephi_only(G_i_full, "institution_full", out_dir)
-        G_i = _trim(G_i_full, top_n)
+    if ig.nodes:
+        G_i = _trim(to_networkx(ig), top_n)
         print(f"  trimmed    to {len(G_i)} nodes")
         _save(G_i, "institution", out_dir,
               f"Institution Collaboration — Jaccard % (top {len(G_i)}, min 5 shared pubs)",
@@ -155,16 +162,23 @@ def generate(
 
     # ── specialty graph ───────────────────────────────────────────────────────
     print("\n[3/3] Specialty co-occurrence graph (directed)")
+    sg_full = _load_graph(
+        cache_dir, use_cache,
+        key="specialty_msp1_pct0",
+        loader=load_specialty_graph,
+        conn=_conn(), min_shared_researchers=1, min_pct=0.0,
+    )
     sg = _load_graph(
         cache_dir, use_cache,
         key="specialty_ms5_pct5",
         loader=load_specialty_graph,
         conn=_conn(), min_shared_researchers=5, min_pct=5.0,
     )
-    if sg.nodes:
-        G_s_full = assign_metrics(assign_communities(to_networkx(sg, directed=True)))
+    if sg_full.nodes:
+        G_s_full = assign_metrics(assign_communities(to_networkx(sg_full, directed=True)))
         _save_gephi_only(G_s_full, "specialty_full", out_dir)
-        G_s = _trim(G_s_full, top_n, by="degree")
+    if sg.nodes:
+        G_s = _trim(to_networkx(sg, directed=True), top_n, by="degree")
         print(f"  trimmed    to {len(G_s)} nodes (top {top_n} by degree)")
         _save(G_s, "specialty", out_dir,
               f"Specialty Co-occurrence — directed (top {len(G_s)}, ≥5 shared, ≥5%)")

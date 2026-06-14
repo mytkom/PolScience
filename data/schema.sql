@@ -141,7 +141,8 @@ CREATE TABLE IF NOT EXISTS institutions (
     i_kind_name TEXT,
     u_type_name TEXT,
     data_source TEXT,
-    radon_raw_json TEXT
+    radon_raw_json TEXT,
+    student_count INTEGER
 );
 
 CREATE TABLE IF NOT EXISTS profile_institutions (
@@ -176,3 +177,101 @@ CREATE TABLE IF NOT EXISTS publication_extracted_terms (
     language_code TEXT NOT NULL DEFAULT '',
     PRIMARY KEY (publication_id, term, language_code)
 );
+
+CREATE TABLE IF NOT EXISTS projects (
+    id TEXT PRIMARY KEY,
+    project_number TEXT,
+    title TEXT,
+    classification TEXT,
+    start_date TEXT,
+    end_date TEXT,
+    funds REAL,
+    project_source TEXT,
+    edition TEXT,
+    abstract TEXT,
+    link_radon TEXT,
+    entity_showing_uuid TEXT,
+    entity_showing_name TEXT,
+    detail_fetched INTEGER NOT NULL DEFAULT 0 CHECK (detail_fetched IN (0, 1))
+);
+
+CREATE TABLE IF NOT EXISTS project_keywords (
+    project_id TEXT NOT NULL REFERENCES projects (id) ON DELETE CASCADE,
+    keyword TEXT NOT NULL,
+    PRIMARY KEY (project_id, keyword)
+);
+
+CREATE TABLE IF NOT EXISTS project_financing_institutions (
+    project_id TEXT NOT NULL REFERENCES projects (id) ON DELETE CASCADE,
+    name TEXT NOT NULL,
+    PRIMARY KEY (project_id, name)
+);
+
+CREATE TABLE IF NOT EXISTS project_implementing_institutions (
+    project_id TEXT NOT NULL REFERENCES projects (id) ON DELETE CASCADE,
+    institution_id TEXT REFERENCES institutions (id),
+    name TEXT NOT NULL,
+    is_leader INTEGER NOT NULL DEFAULT 0 CHECK (is_leader IN (0, 1)),
+    PRIMARY KEY (project_id, name)
+);
+
+CREATE TABLE IF NOT EXISTS profile_projects (
+    profile_id TEXT NOT NULL REFERENCES profiles (id) ON DELETE CASCADE,
+    project_id TEXT NOT NULL REFERENCES projects (id) ON DELETE CASCADE,
+    roles TEXT,
+    PRIMARY KEY (profile_id, project_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_profile_projects_profile ON profile_projects (profile_id);
+CREATE INDEX IF NOT EXISTS idx_profile_projects_project ON profile_projects (project_id);
+
+CREATE TABLE IF NOT EXISTS patents (
+    id TEXT PRIMARY KEY,
+    type_code TEXT,
+    type_label TEXT,
+    title TEXT,
+    abstract TEXT,
+    calculated_language_code TEXT,
+    patent_source TEXT,
+    detail_fetched INTEGER NOT NULL DEFAULT 0 CHECK (detail_fetched IN (0, 1))
+);
+
+CREATE TABLE IF NOT EXISTS patent_rights (
+    id TEXT PRIMARY KEY,
+    patent_id TEXT NOT NULL REFERENCES patents (id) ON DELETE CASCADE,
+    application_date TEXT,
+    application_number TEXT,
+    publication_date TEXT,
+    publication_number TEXT,
+    granting_institution_code TEXT,
+    granting_institution_name TEXT,
+    granting_institution_country TEXT,
+    protection_region_code TEXT,
+    protection_region_name TEXT,
+    priority_region TEXT,
+    priority_number TEXT,
+    link_radon TEXT,
+    link_uprp TEXT,
+    link_espacenet TEXT,
+    entity_showing_id TEXT,
+    entity_showing_name TEXT
+);
+
+CREATE INDEX IF NOT EXISTS idx_patent_rights_patent ON patent_rights (patent_id);
+
+CREATE TABLE IF NOT EXISTS profile_patents (
+    profile_id TEXT NOT NULL REFERENCES profiles (id) ON DELETE CASCADE,
+    patent_id TEXT NOT NULL REFERENCES patents (id) ON DELETE CASCADE,
+    PRIMARY KEY (profile_id, patent_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_profile_patents_profile ON profile_patents (profile_id);
+CREATE INDEX IF NOT EXISTS idx_profile_patents_patent ON profile_patents (patent_id);
+
+CREATE TABLE IF NOT EXISTS patent_right_authorship (
+    profile_id TEXT NOT NULL REFERENCES profiles (id) ON DELETE CASCADE,
+    patent_right_id TEXT NOT NULL REFERENCES patent_rights (id) ON DELETE CASCADE,
+    PRIMARY KEY (profile_id, patent_right_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_patent_right_authorship_right ON patent_right_authorship (patent_right_id);
