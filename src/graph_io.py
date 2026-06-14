@@ -420,6 +420,23 @@ def plot_matplotlib(
     return fig
 
 
+def assign_communities(G: nx.Graph) -> nx.Graph:
+    """Add 'community' (int) and 'community_name' (hub node label) to every node."""
+    G_und = G.to_undirected() if isinstance(G, nx.DiGraph) else G
+    try:
+        communities = nx.community.greedy_modularity_communities(G_und)
+        for i, comm in enumerate(communities):
+            hub = max(comm, key=lambda n: G_und.degree(n))
+            hub_label = str(G_und.nodes[hub].get("label", hub))
+            for node in comm:
+                if node in G.nodes:
+                    G.nodes[node]["community"] = i
+                    G.nodes[node]["community_name"] = hub_label
+    except Exception:
+        pass
+    return G
+
+
 def to_gephi(G: nx.Graph, path: str | Path) -> None:
     """Export a networkx graph to GEXF format for Gephi.  Call to_networkx() first."""
     nx.write_gexf(G, str(path))
