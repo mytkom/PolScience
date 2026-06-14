@@ -18,6 +18,11 @@ env/
 # Databases
 *.sqlite3
 *.db
+Ludzie_Nauka/scrapers/ludzie_nauka.sqlite3
+
+Ludzie_Nauka/scrapers/ludzie_nauka.sqlite3-wal
+Ludzie_Nauka/scrapers/ludzie_nauka.sqlite3-shm
+Ludzie_Nauka/scrapers/ludzie_nauka_shared_final.zip
 
 # Generated files
 generated_urls.json
