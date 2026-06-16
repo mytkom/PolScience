@@ -18,7 +18,7 @@ from src.api.config import ApiSettings  # noqa: E402
 from src.api.schemas import FusionWeightsApplied  # noqa: E402
 from src.api.search_service import CSV_COLUMNS, csv_columns_for_response, search_response_to_csv  # noqa: E402
 from src.api.schemas import FilterColumnsApplied  # noqa: E402
-from src.retrieval.gexf_metrics import GraphMetricsStore, ResearcherGraphMetrics, clear_graph_metrics_cache  # noqa: E402
+from src.retrieval.graph_metrics import GraphMetricsStore, ResearcherGraphMetrics, clear_graph_metrics_cache  # noqa: E402
 from src.retrieval.pipeline import QueryResult  # noqa: E402
 
 

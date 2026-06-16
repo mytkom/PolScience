@@ -117,24 +117,8 @@ function communityColumnTitle(payload) {
   return "Personalized PageRank on co-authorship graph";
 }
 
-function buildTableHeaders(payload) {
+function appendFilterAndGraphHeaders(headers, payload) {
   const filterColumns = payload.filter_columns;
-  const headers = [
-    { label: "Rank", className: "num" },
-    { label: "Name" },
-    { label: "Email" },
-    { label: "Profile" },
-    { label: "Final", className: "num" },
-    { label: "Keywords", className: "num", title: "Lexical keyword overlap (BM25)" },
-    { label: "Semantic", className: "num", title: "Embedding cosine similarity" },
-  ];
-  if (payload.show_community_column) {
-    headers.push({
-      label: "Community",
-      className: "num",
-      title: communityColumnTitle(payload),
-    });
-  }
   if (filterColumns) {
     if (filterColumns.pubs_since_year != null) {
       headers.push({
@@ -169,6 +153,60 @@ function buildTableHeaders(payload) {
       });
     }
   }
+}
+
+function appendFilterAndGraphCells(cells, payload, row) {
+  const fc = payload.filter_columns;
+  if (fc) {
+    if (fc.pubs_since_year != null) {
+      cells.push(
+        `<td class="num">${row.pubs_since_year == null ? "" : escapeHtml(String(row.pubs_since_year))}</td>`
+      );
+    }
+    if (fc.projects_since_year != null) {
+      cells.push(
+        `<td class="num">${row.projects_since_year == null ? "" : escapeHtml(String(row.projects_since_year))}</td>`
+      );
+    }
+    if (fc.institutions) {
+      cells.push(`<td>${escapeHtml(row.institutions || "")}</td>`);
+    }
+    if (fc.degree) {
+      cells.push(`<td>${escapeHtml(row.degree || "")}</td>`);
+    }
+  }
+  if (payload.graph_metrics) {
+    cells.push(
+      `<td class="num">${row.coauth_degree == null ? "" : escapeHtml(String(row.coauth_degree))}</td>`,
+      `<td class="num">${row.network_pagerank == null ? "" : formatScore(row.network_pagerank)}</td>`,
+      `<td>${escapeHtml(row.cluster_name || "")}</td>`
+    );
+    if (fc && fc.institutions) {
+      cells.push(
+        `<td class="num">${row.institution_network_pagerank == null ? "" : formatScore(row.institution_network_pagerank)}</td>`
+      );
+    }
+  }
+}
+
+function buildTableHeaders(payload) {
+  const headers = [
+    { label: "Rank", className: "num" },
+    { label: "Name" },
+    { label: "Email" },
+    { label: "Profile" },
+    { label: "Final", className: "num" },
+    { label: "Keywords", className: "num", title: "Lexical keyword overlap (BM25)" },
+    { label: "Semantic", className: "num", title: "Embedding cosine similarity" },
+  ];
+  if (payload.show_community_column) {
+    headers.push({
+      label: "Community",
+      className: "num",
+      title: communityColumnTitle(payload),
+    });
+  }
+  appendFilterAndGraphHeaders(headers, payload);
   headers.push({ label: "ID" });
   return headers;
 }
@@ -204,37 +242,7 @@ function renderResults(payload) {
     if (payload.show_community_column) {
       cells.push(`<td class="num">${formatScore(row.ppr)}</td>`);
     }
-    const fc = payload.filter_columns;
-    if (fc) {
-      if (fc.pubs_since_year != null) {
-        cells.push(
-          `<td class="num">${row.pubs_since_year == null ? "" : escapeHtml(String(row.pubs_since_year))}</td>`
-        );
-      }
-      if (fc.projects_since_year != null) {
-        cells.push(
-          `<td class="num">${row.projects_since_year == null ? "" : escapeHtml(String(row.projects_since_year))}</td>`
-        );
-      }
-      if (fc.institutions) {
-        cells.push(`<td>${escapeHtml(row.institutions || "")}</td>`);
-      }
-      if (fc.degree) {
-        cells.push(`<td>${escapeHtml(row.degree || "")}</td>`);
-      }
-    }
-    if (payload.graph_metrics) {
-      cells.push(
-        `<td class="num">${row.coauth_degree == null ? "" : escapeHtml(String(row.coauth_degree))}</td>`,
-        `<td class="num">${row.network_pagerank == null ? "" : formatScore(row.network_pagerank)}</td>`,
-        `<td>${escapeHtml(row.cluster_name || "")}</td>`
-      );
-      if (fc && fc.institutions) {
-        cells.push(
-          `<td class="num">${row.institution_network_pagerank == null ? "" : formatScore(row.institution_network_pagerank)}</td>`
-        );
-      }
-    }
+    appendFilterAndGraphCells(cells, payload, row);
     cells.push(`<td><code>${escapeHtml(row.profile_id)}</code></td>`);
     tr.innerHTML = cells.join("");
     resultsBody.appendChild(tr);

@@ -1,9 +1,20 @@
-"""Run fusion search and merge profile display fields."""
+"""Run fusion search and merge profile display fields.
+
+Orchestrates a single search request for the API:
+
+1. Call ``query_experts`` (BM25 + semantic + PPR/static PR fusion).
+2. Load human-readable fields from SQLite (name, URL, filter column values).
+3. Attach graph metrics from the startup ``GraphMetricsStore``.
+4. Build ``SearchResponse`` JSON or CSV via ``_result_column_specs``.
+
+See ``docs/web_api.md`` for the HTTP contract.
+"""
 
 from __future__ import annotations
 
 import csv
 import io
+from collections.abc import Callable
 from dataclasses import dataclass
 
 from src.api.config import ApiSettings, MAX_TOP_K
@@ -16,7 +27,7 @@ from src.retrieval.filters import (
     resolve_institution_filter_ids,
 )
 from src.retrieval.fusion import FusionWeights
-from src.retrieval.gexf_metrics import (
+from src.retrieval.graph_metrics import (
     get_graph_metrics_store,
     max_institution_pagerank_for_profile,
 )
@@ -239,71 +250,90 @@ GRAPH_CSV_COLUMNS = [
 ]
 
 
-def csv_columns_for_response(response: SearchResponse) -> list[str]:
-    columns = list(BASE_CSV_COLUMNS)
+@dataclass(frozen=True, slots=True)
+class _ResultColumnSpec:
+    name: str
+    value: Callable[[ExpertResult], str | int | None]
+
+
+def _score_csv(value: float) -> str:
+    return f"{value:.6f}"
+
+
+def _result_column_specs(response: SearchResponse) -> list[_ResultColumnSpec]:
+    specs: list[_ResultColumnSpec] = [
+        _ResultColumnSpec("rank", lambda item: item.rank),
+        _ResultColumnSpec("profile_id", lambda item: item.profile_id),
+        _ResultColumnSpec("name", lambda item: item.name),
+        _ResultColumnSpec("email", lambda item: item.email or ""),
+        _ResultColumnSpec("profile_url", lambda item: item.profile_url or ""),
+        _ResultColumnSpec("final", lambda item: _score_csv(item.final)),
+        _ResultColumnSpec("keywords", lambda item: _score_csv(item.bm25)),
+        _ResultColumnSpec("semantic", lambda item: _score_csv(item.cosine)),
+    ]
     if response.show_community_column:
-        columns.append(COMMUNITY_CSV_COLUMN)
+        specs.append(_ResultColumnSpec(COMMUNITY_CSV_COLUMN, lambda item: _score_csv(item.ppr)))
     fc = response.filter_columns
     if fc:
         if fc.pubs_since_year is not None:
-            columns.append(f"pubs_since_{fc.pubs_since_year}")
+            year = fc.pubs_since_year
+            specs.append(
+                _ResultColumnSpec(
+                    f"pubs_since_{year}",
+                    lambda item, y=year: "" if item.pubs_since_year is None else item.pubs_since_year,
+                )
+            )
         if fc.projects_since_year is not None:
-            columns.append(f"projects_since_{fc.projects_since_year}")
+            year = fc.projects_since_year
+            specs.append(
+                _ResultColumnSpec(
+                    f"projects_since_{year}",
+                    lambda item, y=year: "" if item.projects_since_year is None else item.projects_since_year,
+                )
+            )
         if fc.institutions:
-            columns.append("institutions")
+            specs.append(_ResultColumnSpec("institutions", lambda item: item.institutions or ""))
         if fc.degree:
-            columns.append("degree")
+            specs.append(_ResultColumnSpec("degree", lambda item: item.degree or ""))
     if response.graph_metrics:
-        columns.extend(GRAPH_CSV_COLUMNS)
+        specs.extend(
+            [
+                _ResultColumnSpec(
+                    "coauth_degree",
+                    lambda item: "" if item.coauth_degree is None else item.coauth_degree,
+                ),
+                _ResultColumnSpec(
+                    "network_pagerank",
+                    lambda item: "" if item.network_pagerank is None else _score_csv(item.network_pagerank),
+                ),
+                _ResultColumnSpec("cluster_name", lambda item: item.cluster_name or ""),
+            ]
+        )
         if fc and fc.institutions:
-            columns.append("institution_network_pagerank")
-    return columns
+            specs.append(
+                _ResultColumnSpec(
+                    "institution_network_pagerank",
+                    lambda item: (
+                        ""
+                        if item.institution_network_pagerank is None
+                        else _score_csv(item.institution_network_pagerank)
+                    ),
+                )
+            )
+    return specs
+
+
+def csv_columns_for_response(response: SearchResponse) -> list[str]:
+    return [spec.name for spec in _result_column_specs(response)]
 
 
 def search_response_to_csv(response: SearchResponse) -> bytes:
     """UTF-8 CSV with BOM so Excel on Windows opens Polish diacritics correctly."""
-    columns = csv_columns_for_response(response)
-    fc = response.filter_columns
+    specs = _result_column_specs(response)
+    columns = [spec.name for spec in specs]
     buffer = io.StringIO()
     writer = csv.DictWriter(buffer, fieldnames=columns, extrasaction="ignore")
     writer.writeheader()
     for item in response.results:
-        row = {
-            "rank": item.rank,
-            "profile_id": item.profile_id,
-            "name": item.name,
-            "email": item.email,
-            "profile_url": item.profile_url,
-            "final": f"{item.final:.6f}",
-            "keywords": f"{item.bm25:.6f}",
-            "semantic": f"{item.cosine:.6f}",
-        }
-        if response.show_community_column:
-            row[COMMUNITY_CSV_COLUMN] = f"{item.ppr:.6f}"
-        if fc:
-            if fc.pubs_since_year is not None:
-                row[f"pubs_since_{fc.pubs_since_year}"] = (
-                    "" if item.pubs_since_year is None else item.pubs_since_year
-                )
-            if fc.projects_since_year is not None:
-                row[f"projects_since_{fc.projects_since_year}"] = (
-                    "" if item.projects_since_year is None else item.projects_since_year
-                )
-            if fc.institutions:
-                row["institutions"] = item.institutions or ""
-            if fc.degree:
-                row["degree"] = item.degree or ""
-        if response.graph_metrics:
-            row["coauth_degree"] = "" if item.coauth_degree is None else item.coauth_degree
-            row["network_pagerank"] = (
-                "" if item.network_pagerank is None else f"{item.network_pagerank:.6f}"
-            )
-            row["cluster_name"] = item.cluster_name or ""
-            if fc and fc.institutions:
-                row["institution_network_pagerank"] = (
-                    ""
-                    if item.institution_network_pagerank is None
-                    else f"{item.institution_network_pagerank:.6f}"
-                )
-        writer.writerow(row)
+        writer.writerow({spec.name: spec.value(item) for spec in specs})
     return buffer.getvalue().encode("utf-8-sig")

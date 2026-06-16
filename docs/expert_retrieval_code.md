@@ -174,9 +174,10 @@ For each `SearchMode`:
 
 Then **once** (shared):
 
-4. `profile_id_index.json` from reference mode (usually `publications`)
+4. Reuse the **reference-mode corpus** from the mode loop (usually `publications`) for `profile_id_index.json` — no second SQLite corpus load
 5. `export_coauth_edges` → `coauth_edges.npz`
-6. `build_manifest.json` with timings and counts
+6. `export_profile_graph_metrics` → `profile_graph_metrics.npz` + meta JSON (degree + global PageRank on search graph)
+7. `build_manifest.json` with timings and counts
 
 **`query_experts(artifacts_dir, query, search_mode=...)`**
 
@@ -201,7 +202,32 @@ sequenceDiagram
 
 ---
 
-### 3.8 `logging_config.py`
+### 3.9 `graph_metrics.py` — network enrichment (GEXF + build-index)
+
+**Single module** for all precomputed network metrics used at API startup. Replaces the former split between `gexf_metrics.py` and `profile_graph_metrics.py`.
+
+**Two data sources merged at startup** (`preload_graph_metrics`):
+
+| Source | When built | Provides |
+|--------|------------|----------|
+| `profile_graph_metrics.npz` | `build-index` on `coauth_edges.npz` | **Co-auth degree**, **global PageRank** on the *search* graph (full indexed corpus) |
+| `researcher_*.gexf`, `institution_full.gexf` | `generate_graphs.py` | **Cluster** labels (`community_name`), optional centrality fields, institution PageRank |
+
+**Merge rule** (`merge_researcher_metrics`): build-index wins for `coauth_degree` and `network_pagerank`; GEXF overlays `cluster_id`, `cluster_name`, and centrality fields when present.
+
+Key types:
+
+- `ResearcherGraphMetrics` / `InstitutionGraphMetrics` — per-node metrics dataclasses
+- `GraphMetricsStore` — in-memory lookup tables for researchers and institutions
+- `get_graph_metrics_store()` — returns the cache populated at API startup (or `None`)
+
+GEXF parsing uses a lenient XML path (`_parse_gexf_node_attributes`) because some exports declare `clustering_coefficient` as integer but store floats — NetworkX `read_gexf` rejects those files.
+
+See [graph_metrics_search.md](graph_metrics_search.md) for UI column naming and fusion behaviour when PPR is disabled.
+
+---
+
+### 3.10 `logging_config.py`
 
 Build-only logging to stderr (`polscience.retrieval.build`):
 
@@ -221,6 +247,8 @@ data/retrieval_artifacts/
 ├── profile_id_index.json      # ["id1", "id2", ...] row order for graph + embeddings
 ├── coauth_edges.npz
 ├── coauth_graph_meta.json
+├── profile_graph_metrics.npz  # degree + PageRank aligned to profile_id_index
+├── profile_graph_metrics_meta.json
 ├── publications/
 │   ├── corpus.jsonl
 │   ├── bm25_index.pkl
@@ -267,18 +295,21 @@ uv run python scripts/query_experts.py query --search-mode profile --query "..."
 
 ## 7. HTTP API (`src/api/`)
 
+Full endpoint reference, query parameters, and UI behaviour: **[web_api.md](web_api.md)**.
+
 | Module | Role |
 |--------|------|
-| [`app.py`](../src/api/app.py) | FastAPI routes, lifespan, serves `static/` UI |
-| [`config.py`](../src/api/config.py) | `POLSCIENCE_DB_PATH`, `POLSCIENCE_ARTIFACTS_DIR`, `POLSCIENCE_EAGER_LOAD` |
-| [`search_service.py`](../src/api/search_service.py) | Calls `query_experts`, enriches with `enrichment.py`, CSV export |
+| [`app.py`](../src/api/app.py) | FastAPI routes, `get_search_params()` dependency (shared by JSON + CSV), lifespan preload |
+| [`config.py`](../src/api/config.py) | `POLSCIENCE_DB_PATH`, `POLSCIENCE_ARTIFACTS_DIR`, `POLSCIENCE_GRAPHS_DIR`, `POLSCIENCE_EAGER_LOAD` |
+| [`search_service.py`](../src/api/search_service.py) | `run_search()` → `query_experts` + DB enrichment; `_result_column_specs()` for CSV |
 | [`enrichment.py`](../src/api/enrichment.py) | Name from SQLite; Ludzie profile URL slug; email `""` |
 | [`profile_urls.py`](../src/api/profile_urls.py) | `ln/profiles/{given}.{surname_no_spaces}.{id}` |
 | [`filters.py`](../src/retrieval/filters.py) | Structural filters: pubs/projects since year, MGR+, institution CURRENT |
-| [`schemas.py`](../src/api/schemas.py) | Pydantic `SearchResponse`, `ExpertResult` |
+| [`schemas.py`](../src/api/schemas.py) | Pydantic `SearchResponse`, `ExpertResult`, `FilterColumnsApplied` |
+| [`static/app.js`](../src/api/static/app.js) | Form validation, dynamic table headers, CSV download |
 
-Flow: `GET /api/search` → `run_search()` → `query_experts()` + `load_profile_displays()` → JSON.  
-UI: `GET /` loads [`static/index.html`](../src/api/static/index.html); CSV via `GET /api/search/export.csv`.
+Flow: `GET /api/search` → `Depends(get_search_params)` → `run_search()` → `query_experts()` + `load_profile_displays()` → JSON.  
+CSV: same params via `GET /api/search/export.csv` → `search_response_to_csv()`.
 
 ---
 

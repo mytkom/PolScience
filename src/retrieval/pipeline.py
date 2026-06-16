@@ -52,7 +52,7 @@ from src.retrieval.filters import (
     passes_structural_filters,
     resolve_institution_filter_ids,
 )
-from src.retrieval.gexf_metrics import GraphMetricsStore
+from src.retrieval.graph_metrics import GraphMetricsStore
 from src.retrieval.fusion import FusionWeights, fuse_scores
 from src.retrieval.logging_config import get_build_logger, log_step
 from src.retrieval.modes import SearchMode
@@ -147,7 +147,7 @@ def _build_mode_indexes(
     show_progress: bool,
     mode_index: int,
     mode_total: int,
-) -> int:
+) -> tuple[int, list]:
     """One search mode: writes corpus.jsonl, bm25_index.pkl, embeddings under <mode>/."""
     logger = get_build_logger()
     mode_dir = mode_artifact_dir(artifacts_dir, mode)
@@ -206,7 +206,7 @@ def _build_mode_indexes(
     with log_step(logger, f"[{mode.value}] Save embeddings", dir=mode_dir):
         save_embeddings(vectors, mode_dir, model_name=model_name)
 
-    return len(documents)
+    return len(documents), documents
 
 
 def _mb(path: Path) -> float:
@@ -244,10 +244,16 @@ def build_artifacts(
     conn = sqlite3.connect(str(db_path))
     profile_ids: list[str] = []
     try:
+        reference_mode = (
+            SearchMode.PUBLICATIONS
+            if SearchMode.PUBLICATIONS in modes
+            else modes[0]
+        )
+        reference_documents: list | None = None
         counts: dict[str, int] = {}
         mode_total = len(modes)
         for idx, mode in enumerate(modes, start=1):
-            counts[mode.value] = _build_mode_indexes(
+            count, documents = _build_mode_indexes(
                 conn,
                 artifacts_dir,
                 mode,
@@ -257,16 +263,17 @@ def build_artifacts(
                 mode_index=idx,
                 mode_total=mode_total,
             )
+            counts[mode.value] = count
+            if mode == reference_mode:
+                reference_documents = documents
 
-        reference_mode = (
-            SearchMode.PUBLICATIONS
-            if SearchMode.PUBLICATIONS in modes
-            else modes[0]
-        )
         logger.info("━━━ Shared artifacts ━━━")
-        with log_step(logger, "Reload reference corpus for profile index", mode=reference_mode.value):
-            documents = build_scientist_corpus(conn, mode=reference_mode)
-        profile_ids = profile_id_index(documents)
+        if reference_documents is not None:
+            profile_ids = profile_id_index(reference_documents)
+        else:
+            with log_step(logger, "Load reference corpus for profile index", mode=reference_mode.value):
+                documents = build_scientist_corpus(conn, mode=reference_mode)
+            profile_ids = profile_id_index(documents)
         index_path = artifacts_dir / PROFILE_INDEX_FILENAME
         with log_step(logger, "Write profile_id_index", path=index_path, n=len(profile_ids)):
             save_profile_id_index(profile_ids, index_path)
@@ -280,7 +287,7 @@ def build_artifacts(
         coauth_path = artifacts_dir / "coauth_edges.npz"
         if coauth_path.is_file():
             logger.info("Co-auth graph file: %.2f MB", _mb(coauth_path))
-            from src.retrieval.profile_graph_metrics import export_profile_graph_metrics
+            from src.retrieval.graph_metrics import export_profile_graph_metrics
 
             export_profile_graph_metrics(adjacency, profile_ids, artifacts_dir)
     finally:

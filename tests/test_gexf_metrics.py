@@ -11,7 +11,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from src.retrieval.gexf_metrics import (  # noqa: E402
+from src.retrieval.graph_metrics import (  # noqa: E402
     GraphMetricsStore,
     InstitutionGraphMetrics,
     ResearcherGraphMetrics,
@@ -83,7 +83,7 @@ class TestGexfMetrics(unittest.TestCase):
             root = Path(tmp)
             _write_researcher_gexf(root / "researcher_test.gexf")
             store = preload_graph_metrics(root)
-            from src.retrieval.gexf_metrics import get_graph_metrics_store
+            from src.retrieval.graph_metrics import get_graph_metrics_store
 
             self.assertIs(get_graph_metrics_store(), store)
 

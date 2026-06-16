@@ -13,8 +13,8 @@ if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
 from src.retrieval.corpus import save_profile_id_index  # noqa: E402
-from src.retrieval.gexf_metrics import ResearcherGraphMetrics  # noqa: E402
-from src.retrieval.profile_graph_metrics import (  # noqa: E402
+from src.retrieval.graph_metrics import ResearcherGraphMetrics  # noqa: E402
+from src.retrieval.graph_metrics import (  # noqa: E402
     PROFILE_METRICS_FILENAME,
     compute_coauth_degrees,
     compute_global_pagerank,

@@ -1,4 +1,17 @@
-"""FastAPI application: expert search API and web UI."""
+"""FastAPI application: expert search API and web UI.
+
+Routes:
+  GET /                      — web UI (static/index.html)
+  GET /api/health            — DB / artifacts / graphs readiness
+  GET /api/search            — JSON search results
+  GET /api/search/export.csv — CSV download (same query params as /api/search)
+
+Query parameters are parsed once in ``get_search_params()`` and injected via
+FastAPI ``Depends`` into both search routes.
+
+Startup (``lifespan``): preload embedding model, both mode indexes, and graph metrics.
+See ``docs/web_api.md``.
+"""
 
 from __future__ import annotations
 
@@ -7,7 +20,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Annotated
 
-from fastapi import FastAPI, HTTPException, Query, Request
+from fastapi import Depends, FastAPI, HTTPException, Query, Request
 from fastapi.responses import HTMLResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
@@ -16,7 +29,7 @@ from src.api.config import ApiSettings, load_settings
 from src.api.schemas import HealthResponse, SearchResponse
 from src.api.search_service import SearchParams, run_search, search_response_to_csv
 from src.retrieval.embeddings import preload_embedding_model, resolve_model_name_from_artifacts
-from src.retrieval.gexf_metrics import preload_graph_metrics
+from src.retrieval.graph_metrics import preload_graph_metrics
 from src.retrieval.logging_config import configure_build_logging
 from src.retrieval.modes import SearchMode
 from src.retrieval.pipeline import preload_search_indexes
@@ -52,28 +65,28 @@ def _validate_paired_int_params(
         )
 
 
-def _parse_search_params(
-    q: str,
-    mode: str,
-    top: int,
-    recall_k: int,
-    seed_k: int,
-    w_bm25: float,
-    w_embed: float,
-    w_ppr: float,
-    gate_bm25: bool,
-    ppr_alpha: float,
-    disable_ppr: bool,
-    min_pubs: int | None,
-    domain_code: str | None,
-    min_year: int | None,
-    min_pubs_since: int | None,
-    since_year: int | None,
-    min_polon_projects: int | None,
-    projects_since_year: int | None,
-    institution_id: list[str] | None,
-    institution_name: list[str] | None,
-    min_degree_mgr: bool,
+def get_search_params(
+    q: Annotated[str, Query(description="Topic query")],
+    mode: Annotated[str, Query(description="publications or profile")] = "publications",
+    top: Annotated[int, Query(ge=1, le=5000)] = 1000,
+    recall_k: Annotated[int, Query(ge=1, le=50000)] = 5000,
+    seed_k: Annotated[int, Query(ge=1, le=5000)] = 200,
+    w_bm25: Annotated[float, Query(ge=0)] = 0.25,
+    w_embed: Annotated[float, Query(ge=0)] = 0.55,
+    w_ppr: Annotated[float, Query(ge=0)] = 0.20,
+    gate_bm25: bool = False,
+    ppr_alpha: Annotated[float, Query(gt=0, lt=1)] = 0.85,
+    disable_ppr: bool = False,
+    min_pubs: int | None = None,
+    domain_code: str | None = None,
+    min_year: int | None = None,
+    min_pubs_since: int | None = None,
+    since_year: int | None = None,
+    min_polon_projects: int | None = None,
+    projects_since_year: int | None = None,
+    institution_id: Annotated[list[str] | None, Query()] = None,
+    institution_name: Annotated[list[str] | None, Query()] = None,
+    min_degree_mgr: bool = False,
 ) -> SearchParams:
     query = (q or "").strip()
     if not query:
@@ -211,106 +224,19 @@ def _execute_search(request: Request, params: SearchParams) -> SearchResponse:
 @app.get("/api/search", response_model=SearchResponse)
 async def api_search(
     request: Request,
-    q: Annotated[str, Query(description="Topic query")],
-    mode: Annotated[str, Query(description="publications or profile")] = "publications",
-    top: Annotated[int, Query(ge=1, le=5000)] = 1000,
-    recall_k: Annotated[int, Query(ge=1, le=50000)] = 5000,
-    seed_k: Annotated[int, Query(ge=1, le=5000)] = 200,
-    w_bm25: Annotated[float, Query(ge=0)] = 0.25,
-    w_embed: Annotated[float, Query(ge=0)] = 0.55,
-    w_ppr: Annotated[float, Query(ge=0)] = 0.20,
-    gate_bm25: bool = False,
-    ppr_alpha: Annotated[float, Query(gt=0, lt=1)] = 0.85,
-    disable_ppr: bool = False,
-    min_pubs: int | None = None,
-    domain_code: str | None = None,
-    min_year: int | None = None,
-    min_pubs_since: int | None = None,
-    since_year: int | None = None,
-    min_polon_projects: int | None = None,
-    projects_since_year: int | None = None,
-    institution_id: Annotated[list[str] | None, Query()] = None,
-    institution_name: Annotated[list[str] | None, Query()] = None,
-    min_degree_mgr: bool = False,
+    params: Annotated[SearchParams, Depends(get_search_params)],
 ) -> SearchResponse:
-    params = _parse_search_params(
-        q,
-        mode,
-        top,
-        recall_k,
-        seed_k,
-        w_bm25,
-        w_embed,
-        w_ppr,
-        gate_bm25,
-        ppr_alpha,
-        disable_ppr,
-        min_pubs,
-        domain_code,
-        min_year,
-        min_pubs_since,
-        since_year,
-        min_polon_projects,
-        projects_since_year,
-        institution_id,
-        institution_name,
-        min_degree_mgr,
-    )
     return _execute_search(request, params)
 
 
 @app.get("/api/search/export.csv")
 async def api_search_export_csv(
     request: Request,
-    q: Annotated[str, Query()],
-    mode: str = "publications",
-    top: Annotated[int, Query(ge=1, le=5000)] = 1000,
-    recall_k: Annotated[int, Query(ge=1, le=50000)] = 5000,
-    seed_k: Annotated[int, Query(ge=1, le=5000)] = 200,
-    w_bm25: Annotated[float, Query(ge=0)] = 0.25,
-    w_embed: Annotated[float, Query(ge=0)] = 0.55,
-    w_ppr: Annotated[float, Query(ge=0)] = 0.20,
-    gate_bm25: bool = False,
-    ppr_alpha: Annotated[float, Query(gt=0, lt=1)] = 0.85,
-    disable_ppr: bool = False,
-    min_pubs: int | None = None,
-    domain_code: str | None = None,
-    min_year: int | None = None,
-    min_pubs_since: int | None = None,
-    since_year: int | None = None,
-    min_polon_projects: int | None = None,
-    projects_since_year: int | None = None,
-    institution_id: Annotated[list[str] | None, Query()] = None,
-    institution_name: Annotated[list[str] | None, Query()] = None,
-    min_degree_mgr: bool = False,
+    params: Annotated[SearchParams, Depends(get_search_params)],
 ) -> PlainTextResponse:
-    params = _parse_search_params(
-        q,
-        mode,
-        top,
-        recall_k,
-        seed_k,
-        w_bm25,
-        w_embed,
-        w_ppr,
-        gate_bm25,
-        ppr_alpha,
-        disable_ppr,
-        min_pubs,
-        domain_code,
-        min_year,
-        min_pubs_since,
-        since_year,
-        min_polon_projects,
-        projects_since_year,
-        institution_id,
-        institution_name,
-        min_degree_mgr,
-    )
     response = _execute_search(request, params)
     csv_body = search_response_to_csv(response)
-    safe_mode = SearchMode.parse(mode).value
-    filename = f"experts_{safe_mode}.csv"
+    filename = f"experts_{params.mode.value}.csv"
     return PlainTextResponse(
         content=csv_body,
         media_type="text/csv; charset=utf-8",

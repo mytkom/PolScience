@@ -2,6 +2,17 @@
 
 Expert discovery and publication graph tooling over the [Ludzie Nauki](https://ludzie.nauka.gov.pl/) research dump.
 
+## Documentation
+
+**Start here:** **[docs/README.md](docs/README.md)** — onboarding map, repo layout, end-to-end data flow.
+
+| Doc | What it covers |
+|-----|----------------|
+| [docs/expert_retrieval_fusion.md](docs/expert_retrieval_fusion.md) | Algorithm, defaults, CLI tuning |
+| [docs/expert_retrieval_code.md](docs/expert_retrieval_code.md) | Python modules, build/query pipeline |
+| [docs/web_api.md](docs/web_api.md) | HTTP API, query params, JSON/CSV, UI |
+| [docs/graph_metrics_search.md](docs/graph_metrics_search.md) | GEXF + build-index graph metrics |
+
 ## Setup
 
 Install dependencies (creates `.venv`):
@@ -32,7 +43,8 @@ Topic → ranked list of scientists for polling, using **BM25 + bi-encoder + PPR
 
 See **[docs/expert_retrieval_fusion.md](docs/expert_retrieval_fusion.md)** for architecture, defaults, and tuning.  
 See **[docs/expert_retrieval_code.md](docs/expert_retrieval_code.md)** for a code walkthrough (modules, query flow, artifacts).  
-See **[docs/graph_metrics_search.md](docs/graph_metrics_search.md)** for precomputed GEXF network metrics in search.
+See **[docs/web_api.md](docs/web_api.md)** for the HTTP API and web UI.  
+See **[docs/graph_metrics_search.md](docs/graph_metrics_search.md)** for precomputed network metrics in search.
 
 ```bash
 # Build indexes for both search modes (once per DB refresh)
@@ -83,6 +95,8 @@ At startup (when artifacts exist), the API loads the embedding model once and ke
 | `GET /api/search?q=...&mode=profile` | JSON results (optional filters: `min_pubs_since`, `since_year`, `min_polon_projects`, `projects_since_year`, `institution_id`, `min_degree_mgr`) |
 | `GET /api/search/export.csv?...` | CSV download |
 
+Full API reference: [docs/web_api.md](docs/web_api.md).
+
 ## Data
 
 ```bash
@@ -92,12 +106,15 @@ uv run python data/assess_jepa_feasibility.py
 
 ## Other docs
 
+- [Documentation index](docs/README.md) — start here for developers
 - [Expert retrieval fusion](docs/expert_retrieval_fusion.md) — BM25 + embeddings + PPR
-- [Graph metrics in search](docs/graph_metrics_search.md) — precomputed GEXF enrichment
+- [Expert retrieval code](docs/expert_retrieval_code.md) — module walkthrough
+- [Web API and UI](docs/web_api.md) — endpoints, params, response schema
+- [Graph metrics in search](docs/graph_metrics_search.md) — GEXF + build-index enrichment
 - [JEPA design](docs/jepa.md) — deferred until abstracts are available
 
 ## Tests
 
 ```bash
-uv run python -m unittest discover -s tests -v
+uv run pytest
 ```
