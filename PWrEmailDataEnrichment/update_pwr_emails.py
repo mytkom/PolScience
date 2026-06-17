@@ -91,7 +91,7 @@ def fetch_profiles(
                 AND (
                     lower(i.name) LIKE '%politechnika wroclawska%'
                     OR lower(i.name) LIKE '%politechnika wrocławska%'
-                )
+                ) AND pi.status_employment = "CURRENT"
           )
         """
     ).fetchall()
