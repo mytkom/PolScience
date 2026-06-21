@@ -1,0 +1,205 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA",
+  "slug": "mariusz.michalczyk",
+  "profile_id": "FLzLIhDOgMA",
+  "full_name": "dr inż. Mariusz Michalczyk",
+  "orcid": "0000-0002-6495-6963",
+  "orcid_url": "https://orcid.org/0000-0002-6495-6963",
+  "breadcrumb_name": "Mariusz Michalczyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia obliczeniowa",
+    "chemia teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ability of strained C atoms to act as an electron donor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/publications/9840c028-d095-4ffd-94e6-172b16466bc0",
+      "authors": "M. Michalczyk , W. Zierkiewicz, S. Scheiner",
+      "publication_type": "Artykuł , Chemical Science",
+      "year": "2025",
+      "doi": "10.1039/d5sc01632k",
+      "doi_url": "https://www.doi.org/10.1039/d5sc01632k",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Ability of the spectroscopic properties of the P=Se bond of a base to assess noncovalent bond strength",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/publications/afe51dae-5c3b-4bd7-bfd7-27516331927c",
+      "authors": "M. Michalczyk , W. Zierkiewicz, S. Scheiner",
+      "publication_type": "Artykuł , Journal of Physical Chemistry A",
+      "year": "2025",
+      "doi": "10.1021/acs.jpca.4c08283",
+      "doi_url": "https://www.doi.org/10.1021/acs.jpca.4c08283",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Arrangement of σ-holes at halogen atom in halonium cation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/publications/83ccc5fc-3ba4-46d0-b517-e6f712ca31d6",
+      "authors": "M. Michalczyk , W. Zierkiewicz",
+      "publication_type": "Artykuł , Physical Chemistry Chemical Physics",
+      "year": "2025",
+      "doi": "10.1039/d5cp00703h",
+      "doi_url": "https://www.doi.org/10.1039/d5cp00703h",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Oddziaływania niekowalencyjne w wybranych kompleksach donorów dziury typu σ lub π",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.michalczyk.FLzLIhDOgMA/research-work/320d63a9-52cb-40a0-8f21-c364e6937148",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=304010"
+    }
+  ],
+  "tag_cloud": [
+    "pimd",
+    "oddziaływania niekowalencyjne",
+    "dziura sigma",
+    "nbo",
+    "dft",
+    "modelowanie molekularne",
+    "mep",
+    "dziura pi",
+    "struktura krystalograficzna",
+    "cpmd"
+  ],
+  "coworkers": []
+}

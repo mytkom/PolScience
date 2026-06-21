@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P",
+  "slug": "piotr.pluta",
+  "profile_id": "9Lmaq7hni6P",
+  "full_name": "dr inż. Piotr Adrian Pluta",
+  "orcid": "0000-0003-3465-7580",
+  "orcid_url": "https://orcid.org/0000-0003-3465-7580",
+  "breadcrumb_name": "Piotr Pluta",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "inżynieria biomedyczna",
+    "informatyka w medycynie",
+    "informatyka medyczna",
+    "informatyka i programowanie komputerowe",
+    "informatyka",
+    "biocybernetyka i inżynieria biomedyczna",
+    "inżynieria oprogramowania",
+    "obrazowanie biomedyczne",
+    "programowanie obiektowe",
+    "programowanie równoległe akceleratorów GPU",
+    "przetwarzanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Opolski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A New Statistical Reconstruction Method with Rebinning as a Technique for Reducing the Dose in CT Scanners Utilizing a Flying Focal Spot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/publications/75401579-6b44-4a6c-b295-710792733c8c",
+      "authors": "P. Pluta , R. Cierniak, M. Waligóra",
+      "publication_type": "Artykuł , Computer Methods and Programs in Biomedicine",
+      "year": "2025",
+      "doi": "10.1016/j.cmpb.2025.108903",
+      "doi_url": "https://www.doi.org/10.1016/j.cmpb.2025.108903",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Positioning the Reconstruction Plane for a Statistical Iterative Reconstruction Algorithm with Rebinning in CT Scanners with a Flying Focal Spot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/publications/eb25b167-5373-49ce-b064-2d8004fd1df2",
+      "authors": "P. Pluta , K. Nieszporek, J. Sosnowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-81596-6_30",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-81596-6_30",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A New Approach to Statistical Iterative Reconstruction Algorithm for a CT Scanner with Flying Focal Spot Using a Rebinning Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/publications/884eb7fa-c7d1-48f5-a03d-8bb24887d6db",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-23480-4_24",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-23480-4_24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analityczne statystyczne podejście do problemu rekonstrukcji obrazu z projekcji w zastosowaniu do wieloogniskowych spiralnych tomografów komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pluta.9Lmaq7hni6P/research-work/c955b3e0-f978-48b6-b024-1c79b1e0c1ef",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=316200"
+    }
+  ],
+  "tag_cloud": [
+    "reconstruction methods",
+    "iterative reconstruction algorithm",
+    "flying focal spot",
+    "computed tomography",
+    "image reconstruction from projections",
+    "x-ray computed tomography",
+    "statistical reconstruction algorithm",
+    "statistical iterative reconstruction algorithm",
+    "statistical method",
+    "data model"
+  ],
+  "coworkers": []
+}

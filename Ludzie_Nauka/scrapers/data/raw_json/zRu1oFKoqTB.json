@@ -1,0 +1,271 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB",
+  "slug": "zenon.szypcio",
+  "profile_id": "zRu1oFKoqTB",
+  "full_name": "dr hab. inż. Zenon Szypcio",
+  "orcid": "0000-0002-1351-6239",
+  "orcid_url": "https://orcid.org/0000-0002-1351-6239",
+  "breadcrumb_name": "Zenon Szypcio",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "geotechnika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Wyższa Szkoła Agrobiznesu w Łomży Aktualna nazwa: Międzynarodowa Akademia Nauk Stosowanych w Łomży",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c7212d0-2c9e-4105-8dd7-c9a54c862bc2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Budownictwa Wodnego i Inżynierii Środowiska"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1976",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1970",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/gremiums/58bcfec9-04fe-48f5-877e-74dab68fc138",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Dilatant Failure States for Drained Triaxial Compression of Some Geomaterials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/publications/fd68cb01-a4da-4699-b051-b7de4875eb9d",
+      "authors": "Z. Szypcio , S. Zenon, K. Dołżyk-Szypcio, ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18225181",
+      "doi_url": "https://www.doi.org/10.3390/ma18225181",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "How particle shape affects the critical state, triggering of instability and dilatancy of granular materials – results from a DEM study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/publications/11bf8b58-54ea-47f2-8068-1bae9f6eba1c",
+      "authors": "Z. Szypcio , K. Dołżyk-Szypcio, H. Nguyen, ... (+2)",
+      "publication_type": "Artykuł , Geotechnique",
+      "year": "2025",
+      "doi": "10.1680/jgeot.21.d.016",
+      "doi_url": "https://www.doi.org/10.1680/jgeot.21.d.016",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Stress‒dilatancy behaviour of calcareous sand",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/publications/fcf66194-6976-4813-8273-775355c32da8",
+      "authors": null,
+      "publication_type": "Artykuł , E3S Web of Conferences",
+      "year": "2024",
+      "doi": "10.1051/e3sconf/202454405004",
+      "doi_url": "https://www.doi.org/10.1051/e3sconf/202454405004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/934e1f7b-835a-4442-8fd4-9bdf247d94a0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ technologii wykonania zawieszonej kolumny GEC na jej nośność i osiadanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/e16d760f-e4b7-449b-a499-dcc003934be4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model stanów efektywnych plastycznego płynięcia ośrodków rozdrobnionych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/b0e5ba3f-70c7-4539-897f-7adc83bfd0bc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie wysadzinowości gruntów, mieszanek spoiw popiołowo-cementowych do ich stabilizacji i ulepszania oraz kompozytów gruntowo-spoiwowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/7defcf0d-1456-4c10-8178-4f38fbe46a9c",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Interakcyjny, śledzący model obliczeniowy budynków głęboko posadowionych wraz z sąsiednią zabudową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/aff3e375-2b8c-4232-8e86-d0721eacc2d9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Identyfikacja modułu sztywności podłoża gruntowego obciążonego udarowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zenon.szypcio.zRu1oFKoqTB/research-work/37f11eec-5c57-4ba6-8d85-3d6b4fe2c15b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17632"
+    }
+  ],
+  "tag_cloud": [
+    "frictional state concept",
+    "osiadanie fundamentu",
+    "sand",
+    "grunt piaszczysty",
+    "sandy soil",
+    "stress–dilatancy",
+    "critical state",
+    "strength",
+    "nośność graniczna",
+    "foundation"
+  ],
+  "coworkers": []
+}

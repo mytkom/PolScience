@@ -1,0 +1,280 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan",
+  "slug": "joanna.bladowska",
+  "profile_id": "izq4cw0oBan",
+  "full_name": "prof. dr hab. Joanna Bladowska",
+  "orcid": "0000-0003-0597-8457",
+  "orcid_url": "https://orcid.org/0000-0003-0597-8457",
+  "breadcrumb_name": "Joanna Bladowska",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "radiologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski Kształcenia Podyplomowego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8879a500-9969-4662-bddf-9c6019a72586"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczne we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Atypical lead pathway leading to vocal cord paralysis and tracheostomy following pacemaker implantation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/publications/b7c4d339-b1fb-4074-85a2-cef0ec198434",
+      "authors": "D. Jagielski, J. Jacków-Nowicka [...] J. Bladowska , ... (+3)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14134395",
+      "doi_url": "https://www.doi.org/10.3390/jcm14134395",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Combined use of diffusion- and perfusion-weighted magnetic resonance imaging in the differential diagnosis of sellar tumors: A single-centre experience.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/publications/1d4b59e2-6e63-44ef-a92b-6f19eb4d3314",
+      "authors": "J. Bladowska , A. Korbecki, M. Łukasiewicz, ... (+8)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14207168",
+      "doi_url": "https://www.doi.org/10.3390/jcm14207168",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Efficacy of microvascular decompression in the treatment of trigeminal neuralgia: a retrospective Single-Center study of 28 cases",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/publications/88162935-611e-4f40-b777-cb10568acb6c",
+      "authors": "J. Bladowska , B. Czapiga, A. Krzemińska, ... (+1)",
+      "publication_type": "Artykuł , Neurosurgical Review",
+      "year": "2025",
+      "doi": "10.1007/s10143-025-03772-y",
+      "doi_url": "https://www.doi.org/10.1007/s10143-025-03772-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ocena wczesnych zmian w mózgowiu u bezobjawowych pacjentów zakażonych wirusem HIV-1 oraz HCV za pomocą zaawansowanych technik rezonansu magnetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/4a3cc542-faf3-4738-ac6b-c4cc14f8aed0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wartość badania rezonansu magnetycznego w obrazowaniu stanów po resekcji guzów przysadki mózgowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/4c0494ea-01ef-4bdc-a678-019761f31e9f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena wartości badania perfuzji rezonansu magnetycznego w diagnostyce obrazowej guzów siodła tureckiego i okolicy okołosiodłowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/4597415e-d6f8-489a-a479-a19c02234ac7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wartość badania rezonansu magnetycznego w obrazowaniu przysadki u dzieci z zaburzeniami wzrostu lub dojrzewania płciowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/7cf97750-8163-4b33-9833-9207b7214a29",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza strategii terapeutycznych stosowanych w leczeniu operacyjnym nowotwrów kręgosłupa ze szczególnym uwzględnieniem przedoperacyjnej embolizacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/66c1ba67-316a-45ee-b98f-6e8eab931a07",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/b2cd64ef-c9aa-4213-a347-454aa46e4019",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena aktualnych kryteriów radiologicznych w badaniu rezonansu magnetycznego u pacjentów z chorobą Ménière’a",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/ccb64fcf-46fb-400a-bf5e-26b83fd537a7",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Anatomia i topografia kanału żuchwy na podstawie analizy tomografii wolumetrycznej w aspekcie zabiegów z zakresu chirurgii stomatologicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bladowska.izq4cw0oBan/research-work/305495f8-8d09-4f81-a635-e2b19fcaf68c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=202906"
+    }
+  ],
+  "tag_cloud": [
+    "traumatic brain injury and cerebral microbleeds and hemorrhages",
+    "chronic kidney disease",
+    "end-stage renal disease",
+    "oral hygiene",
+    "periodontitis",
+    "periodontal status",
+    "oral health",
+    "hemodialysis",
+    "móżdżkowe",
+    "zapalenie wsierdzia"
+  ],
+  "coworkers": []
+}

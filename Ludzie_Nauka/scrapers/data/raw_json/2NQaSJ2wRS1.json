@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1",
+  "slug": "marcin.luckner",
+  "profile_id": "2NQaSJ2wRS1",
+  "full_name": "dr hab. inż. Marcin Jerzy Luckner",
+  "orcid": "0000-0001-7015-2956",
+  "orcid_url": "https://orcid.org/0000-0001-7015-2956",
+  "breadcrumb_name": "Marcin Luckner",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "rozpoznawanie wzorców"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka stosowana",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of Augmentation of UAV Collected Data on Deep Learning Based Facade Segmentation Task",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/publications/4192ee0c-4bd2-480d-9dff-7ef0eba5b722",
+      "authors": "P. Balak, A. Łysak [...] M. Luckner , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.64",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.64",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Radiomic Medical Data Transformation for Radiologists Support",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/publications/f507336d-64b7-4a28-8851-b4f93118deb8",
+      "authors": "M. Luckner , P. Gelar, A. Kaczmarek, ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.112",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.112",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Air quality and transport behaviour: sensors, field, and survey data from Warsaw, Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/publications/0975363f-b64a-480c-9a0b-329477ec2d9e",
+      "authors": "M. Grzenda, A. Hassani [...] M. Luckner , ... (+21)",
+      "publication_type": "Artykuł , Scientific data",
+      "year": "2024",
+      "doi": "10.1038/s41597-024-04111-4",
+      "doi_url": "https://www.doi.org/10.1038/s41597-024-04111-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/research-work/648e8810-9ab4-4c80-bdb3-c004589e839e",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Problem eliminacji nieprzystających obiektów w zadaniu rozpoznawania wzorca",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.luckner.2NQaSJ2wRS1/research-work/83cfddfd-8dc5-4ee8-8f7d-bccc8ae8cb88",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=230597"
+    }
+  ],
+  "tag_cloud": [
+    "lokalizacja wewnątrz budynkowa",
+    "web-spam",
+    "transport publiczny",
+    "big data",
+    "fingerprinting",
+    "bezpieczeństwo",
+    "public transport",
+    "system deployment and maintenance",
+    "security",
+    "indoor localisation system"
+  ],
+  "coworkers": []
+}

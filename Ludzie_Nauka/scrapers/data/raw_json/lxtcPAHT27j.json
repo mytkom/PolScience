@@ -1,0 +1,255 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j",
+  "slug": "agnieszka.hensoldt",
+  "profile_id": "lxtcPAHT27j",
+  "full_name": "dr hab. Agnieszka Hensoldt",
+  "orcid": "0000-0002-6661-537X",
+  "orcid_url": "https://orcid.org/0000-0002-6661-537X",
+  "breadcrumb_name": "Agnieszka Hensoldt",
+  "current_employment_summary": [
+    "Politechnika Wrocławska",
+    "Uniwersytet Opolski"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk humanistycznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "filozofia społeczna",
+    "filozofia polityki",
+    "filozofia języka",
+    "filozofia współczesna",
+    "filozofia amerykańska"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk humanistycznych / filozofia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski; Wydział Nauk Społecznych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f2c063a7-81eb-4914-8493-b63694995efa"
+        },
+        {
+          "label": "Uniwersytet Wrocławski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / filozofia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Uniwersytet Opolski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "filozofia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Uczelnia Biznesu i Nauk Stosowanych „Varsovia” >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aad4ac1c-4de1-456f-a31d-1c29dc994385"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "finanse i bankowość",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5d6c2944-921b-45cb-afa3-d2518eeabac7"
+        },
+        {
+          "label": "Uczelnia Biznesu i Nauk Stosowanych „Varsovia” >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aad4ac1c-4de1-456f-a31d-1c29dc994385"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Erozja pojęcia prawdy w amerykańskim życiu społeczno-politycznym: jej filozoficzne korzenie oraz współczesne epistemiczne i moralne konsekwencje",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/publications/e511a946-5e5b-4276-a74f-152e812f22c5",
+      "authors": null,
+      "publication_type": "Artykuł , Horyzonty Polityki",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Feministyczne sojusze w trosce o lepszą przyszłość dla wszystkich",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/publications/fe5fd149-2c84-41ca-8e2c-adfd40cdcfe8",
+      "authors": null,
+      "publication_type": "Artykuł , Teoria Polityki",
+      "year": "2024",
+      "doi": "10.4467/25440845tp.24.016.20712",
+      "doi_url": "https://www.doi.org/10.4467/25440845tp.24.016.20712",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Feminizm i pragmatyzm: przeszłość i wskazówki na przyszłość",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/publications/8343b799-3c31-4169-b431-055c81c6325b",
+      "authors": null,
+      "publication_type": "Artykuł , Avant",
+      "year": "2020",
+      "doi": "10.26913/avant.2020.03.02",
+      "doi_url": "https://www.doi.org/10.26913/avant.2020.03.02",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoria i praktyka w myśli amerykańskich pragmatystów. O społecznej odpowiedzialności filozofii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/research-work/103ef24c-1873-4efa-a4dd-bb4a3dd0ad0d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Idee Peircowskiego pragmatyzmu i ich renesans w XX-wiecznej filozofii języka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/research-work/f214c711-613c-4e8c-9267-87f933731384",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Facts, Norms, Ideals. Idealization and Self-regulation in Human Interactions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.hensoldt.lxtcPAHT27j/research-work/9cc29c0e-8eeb-4206-9d19-c478b52784f9",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=129700"
+    }
+  ],
+  "tag_cloud": [
+    "pragmatyzm",
+    "eco-feminism",
+    "degrowth",
+    "caroline bartlett crane",
+    "pragmatism",
+    "feminism",
+    "environmental values",
+    "feminizm",
+    "education",
+    "społeczeństwo"
+  ],
+  "coworkers": []
+}

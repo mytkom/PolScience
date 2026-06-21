@@ -1,0 +1,237 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU",
+  "slug": "andrzej.kazberuk",
+  "profile_id": "X8xfKlFeAIU",
+  "full_name": "dr hab. inż. Andrzej Kazberuk",
+  "orcid": "0000-0003-4179-0312",
+  "orcid_url": "https://orcid.org/0000-0003-4179-0312",
+  "breadcrumb_name": "Andrzej Kazberuk",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika konstrukcji",
+    "mechanika ciała stałego",
+    "metody numeryczne w mechanice"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/085cc979-bf70-48d1-a099-6b85284bd3f4"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "POLITECHN.B-CKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/gremiums/7f63476b-a0d5-49fa-bc6a-f12073b5ab90",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Recycled Carbon Fibers from Wind Turbine Blades: Advancing the Mechanical Performance of Concrete",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/publications/079ce502-39ca-40bc-a7b6-cfdf58733e5e",
+      "authors": "A. Kazberuk , J. Krassowska",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 1,
+      "title": "Slip Bands at the Tips of Narrow Slot in Brazilian Notched Disk – Plane Deformation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/publications/4ceacb15-41f8-451d-9f89-fc3ed7aa4cdd",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2024",
+      "doi": "10.2478/ama-2024-0079",
+      "doi_url": "https://www.doi.org/10.2478/ama-2024-0079",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Stress State of an Orthotropic Plate at the Holes with Sharp and Rounded Tips",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/publications/ae474fb9-0da4-4da2-aa0e-78d8c6003af6",
+      "authors": "A. Kazberuk , M. Savruk, V. Kravets, ... (+1)",
+      "publication_type": "Artykuł , Materials Science",
+      "year": "2023",
+      "doi": "10.1007/s11003-023-00720-3",
+      "doi_url": "https://www.doi.org/10.1007/s11003-023-00720-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dwuwymiarowe zagadnienia mechaniki pękania ciał z karbami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work/ed1ae68b-e1ba-4d5e-bfad-e187f73378f4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy generacji metody elementów skończonych w dwuwymiarowych obszarach wielospójnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work/2b3c88bd-ba8c-4b2c-b718-96bd130057f6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena odporności na pękanie konstrukcji z fibrobetonu w złożonych stanach naprężeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work/1f40c16a-be20-4bf9-a785-8de80249bc74",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Weryfikacja niezawodnościowego modelu efektu skali na przykładzie zginania obrotowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work/e952c507-b19f-4e45-9d86-92db1ac598a7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Numeryczne modelowanie procesu nagrzewania tarciowego w układzie tribologicznym nakładka-tarcza z wykorzystaniem metody elementów skończonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kazberuk.X8xfKlFeAIU/research-work/49024e13-6b2d-4a1b-a74c-21fb6944c4a8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19129"
+    }
+  ],
+  "tag_cloud": [
+    "brazilian test",
+    "współczynnik intensywności naprężeń",
+    "cement composite",
+    "singular integral equations",
+    "stress intensity factor",
+    "cod",
+    "cracked brazilian disc",
+    "deformation criterion",
+    "dugdale model",
+    "notch"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,263 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h",
+  "slug": "jan.maciejewski",
+  "profile_id": "gr8EGUeCy0h",
+  "full_name": "dr hab. inż. Jan Andrzej Maciejewski",
+  "orcid": "0000-0001-5361-9606",
+  "orcid_url": "https://orcid.org/0000-0001-5361-9606",
+  "breadcrumb_name": "Jan Maciejewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika gruntów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/gremiums/cc968d72-7d92-4cac-9834-1e83aa202935",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Mechaniczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Mechaniczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Visual tracking of plate compactor trajectories and soil compaction through metamaterial-inspired approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/publications/bdb82938-f635-4ec4-bf8a-e3444bd5ddc2",
+      "authors": "A. Kwaśniewski, S. Bąk [...] J. Maciejewski , ... (+4)",
+      "publication_type": "Artykuł , Continuum Mechanics and Thermodynamics",
+      "year": "2025",
+      "doi": "10.1007/s00161-025-01374-z",
+      "doi_url": "https://www.doi.org/10.1007/s00161-025-01374-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wear of MoS2 layer in a ball-on-disk test: experiments and finite element modeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/publications/8970496b-797b-4e76-aa43-d964cd71e2c2",
+      "authors": "M. Białas, J. Maciejewski , S. Kucharski",
+      "publication_type": "Artykuł , Continuum Mechanics and Thermodynamics",
+      "year": "2024",
+      "doi": "10.1007/s00161-023-01276-y",
+      "doi_url": "https://www.doi.org/10.1007/s00161-023-01276-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hydraulic Systems in Heavy Construction Equipment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/publications/5924fb4c-7683-4df8-a1e5-8215344c3666",
+      "authors": "P. Ciężkowski, J. Maciejewski , A. Zawadzki",
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza oddziaływania narzędzi maszyn roboczych na spoiste ośrodki gruntowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/research-work/2734d00f-3a8e-40e0-944b-447f426e2ed3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza stanów pokrytycznych w procesach urabiania gruntów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/research-work/d6c40708-b9da-4509-bc8b-adafc381e7a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.maciejewski.gr8EGUeCy0h/research-work/fe7dc148-4624-4ab6-9fc1-ab0fb7433ec1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=28776"
+    }
+  ],
+  "tag_cloud": [
+    "wear",
+    "kruszarka stożkowa",
+    "układ hydrauliczny",
+    "koparka",
+    "excavator",
+    "maszyna budowlana",
+    "finite element modelling",
+    "proces skrawania",
+    "nośność graniczna",
+    "hydraulic system"
+  ],
+  "coworkers": []
+}

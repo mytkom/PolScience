@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4",
+  "slug": "jerzy.kalenik",
+  "profile_id": "cTkMI3AVqM4",
+  "full_name": "dr inż. Jerzy Kalenik",
+  "orcid": "0000-0001-6345-7057",
+  "orcid_url": "https://orcid.org/0000-0001-6345-7057",
+  "breadcrumb_name": "Jerzy Kalenik",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologia elektronowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1979",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact of Particular Stages of the Manufacturing Process on the Reliability of Flexible Printed Circuits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/publications/bdfa5357-8da5-4f52-9509-fd906644fd1e",
+      "authors": "J. Kalenik , M. Kościelski, A. Kiernich, ... (+2)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25010140",
+      "doi_url": "https://www.doi.org/10.3390/s25010140",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "False Piezoresistive Effect Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/publications/e54ef0f7-fcd3-4b81-83fe-2c919ed772ea",
+      "authors": "J. Kalenik , W. Steplewski, J. Borecki, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152075",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152075",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Impact of Particular Stages of the Manufacturing Process on the Reliability of Flexible Printed Circuits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/publications/c2d275fa-7715-4d54-80df-39b90dc5c315",
+      "authors": "A. Kiernich, J. Kalenik , W. Stęplewski, ... (+2)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s25010140;10.20944/preprints202412.0980.v1",
+      "doi_url": "https://www.doi.org/10.3390/s25010140;10.20944/preprints202412.0980.v1",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ obróbki cieplnej na właściwości elektryczne cienkich warstw CdxHg1-xTe (0.13",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kalenik.cTkMI3AVqM4/research-work/08bdddf0-abe8-4fc5-be0a-88ebe3e06c07",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59788"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

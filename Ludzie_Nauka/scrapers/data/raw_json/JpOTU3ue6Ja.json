@@ -1,0 +1,193 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja",
+  "slug": "adam.marchewka",
+  "profile_id": "JpOTU3ue6Ja",
+  "full_name": "dr inż. Adam Marchewka",
+  "orcid": "0000-0002-0651-3208",
+  "orcid_url": "https://orcid.org/0000-0002-0651-3208",
+  "breadcrumb_name": "Adam Marchewka",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informatyka",
+    "kodowanie i przetwarzanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Ciechanowie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych im. Ignacego Mościckiego w Ciechanowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9e04afdc-5fef-43e3-a5d0-6050e5afbe7f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "ATR Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/gremiums/cf401882-1086-4daf-85cf-868eafe19877",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Real-time prediction of early concrete compressive strength using AI and hydration monitoring",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/publications/2b985bef-e401-4475-8aee-cb1af474ea55",
+      "authors": "A. Marchewka , P. Ziółkowski, S. Galán, ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-97060-w",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-97060-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Expert system-based application for fatal ventricular arrhythmia risk level estimation based on QT-Interval prolongation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/publications/a6a14828-b1fb-411c-87a6-27ff26cf6c05",
+      "authors": "S. García Galán, J. Ángel Cabrera, A. Marchewka , ... (+9)",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2024",
+      "doi": "10.1016/j.eswa.2024.124381",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2024.124381",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multi-objective optimization of virtual machine migration among cloud data centers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/publications/9d0d1304-b78c-491b-8ff8-341fbd673a5c",
+      "authors": "A. Marchewka , F. Maldonado Carrascosa, D. Seddiki, ... (+3)",
+      "publication_type": "Artykuł , Soft Computing",
+      "year": "2024",
+      "doi": "10.1007/s00500-024-09950-2",
+      "doi_url": "https://www.doi.org/10.1007/s00500-024-09950-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kompresja sekwencji obrazu z wykorzystaniem analizy ruchu w procesie segmentacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.marchewka.JpOTU3ue6Ja/research-work/c508d298-ef69-400d-a920-56274793e5f6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=217448"
+    }
+  ],
+  "tag_cloud": [
+    "cluster head",
+    "power consumption",
+    "wireless sensor network",
+    "drones",
+    "optimization",
+    "parameter space",
+    "umiędzynarodowienie",
+    "structural health monitoring",
+    "acceleration of genome sequencing",
+    "energy consumption"
+  ],
+  "coworkers": []
+}

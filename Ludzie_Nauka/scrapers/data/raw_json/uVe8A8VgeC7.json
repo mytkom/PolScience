@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7",
+  "slug": "marcin.czajkowski",
+  "profile_id": "uVe8A8VgeC7",
+  "full_name": "dr inż. Marcin Czajkowski",
+  "orcid": "0000-0002-3967-1819",
+  "orcid_url": "https://orcid.org/0000-0002-3967-1819",
+  "breadcrumb_name": "Marcin Czajkowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d450e547-a588-4c5e-b354-d9a68e3705ba"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancing multi-omics data classification with relative expression analysis and decision trees",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/publications/9533afdf-1543-48d2-a39d-ad6cf6ce7f29",
+      "authors": "M. Czajkowski , K. Jurczuk, M. Kretowski",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2025",
+      "doi": "10.1016/j.jocs.2024.102460",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2024.102460",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing transparency of omics data analysis with the Evolutionary Multi-Test Tree and Relative Expression",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/publications/a78b2e2a-4a8b-46f4-8e73-13c04bc493ee",
+      "authors": "M. Czajkowski , K. Jurczuk, M. Kretowski",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.eswa.2025.127131",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.127131",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The impact of exercise on skeletal muscle proteome of prediabetic subjects analyzed with data independent mass spectrometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/publications/9c5def6c-2cbe-45db-b36e-694d6611c7d0",
+      "authors": "L. Szczerbinski, M. Czajkowski , A. Citko-Rojewska, ... (+6)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-13942-z",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-13942-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy ewolucyjne w globalnej indukcji drzew modelowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.czajkowski.uVe8A8VgeC7/research-work/734f8ec9-8a2b-4f5d-90e8-863706ffe5f0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=263517"
+    }
+  ],
+  "tag_cloud": [
+    "big data mining",
+    "parallel computing",
+    "graphics processing unit (gpu)",
+    "evolutionary algorithms",
+    "decision trees",
+    "cuda",
+    "big data",
+    "evolutionary data mining",
+    "regression tree",
+    "data mining"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109",
+  "slug": "piotr.wawrzyniak",
+  "profile_id": "mJU3CmqK109",
+  "full_name": "mgr inż. Piotr Wawrzyniak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Wawrzyniak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Graph realization of sets of integers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/publications/9d861872-0bef-4fa0-b769-93824a9dad87",
+      "authors": "P. Wawrzyniak , P. Formanowicz",
+      "publication_type": "Artykuł , Journal of Mathematical Chemistry",
+      "year": "2024",
+      "doi": "10.1007/s10910-024-01642-4",
+      "doi_url": "https://www.doi.org/10.1007/s10910-024-01642-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Labeled Graphs in Life Sciences - Two Important Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/publications/7e7fa095-fae4-410b-a350-2bf74009f073",
+      "authors": "P. Wawrzyniak , M. Kasprzak, P. Formanowicz",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-030-76787-7_10",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-76787-7_10",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Znajdowanie ścieżki Hamiltona w grafach geometrycznych z ograniczeniem odległości",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.wawrzyniak.mJU3CmqK109/publications/d4e6c996-69ab-43ce-9ae3-c51c01ec5237",
+      "authors": "P. Wawrzyniak , P. Formanowicz",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

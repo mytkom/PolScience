@@ -1,0 +1,196 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn",
+  "slug": "marcin.noga",
+  "profile_id": "80HjF7yUPWn",
+  "full_name": "dr hab. Marcin Stanisław Noga",
+  "orcid": "0000-0002-3738-2220",
+  "orcid_url": "https://orcid.org/0000-0002-3738-2220",
+  "breadcrumb_name": "Marcin Noga",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "silniki spalinowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Marcin Noga"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "1D simulation of the impact of direct water injection on a small SI engine performance and emissions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/publications/3ed9332b-1f8a-473a-b97d-ba30083c509b",
+      "authors": "M. Noga , K. Kuchmacz",
+      "publication_type": "Artykuł , Combustion Engines",
+      "year": "2025",
+      "doi": "10.19206/ce-200067",
+      "doi_url": "https://www.doi.org/10.19206/ce-200067",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Conversion of an internal combustion engine to supply of hydrogen or other gaseous fuels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/publications/2bec180e-a6eb-4e16-a1fb-90e43c2306c7",
+      "authors": "M. Brzeżański, M. Mareczek, M. Noga",
+      "publication_type": "Artykuł , Combustion Engines",
+      "year": "2025",
+      "doi": "10.19206/ce-207877",
+      "doi_url": "https://www.doi.org/10.19206/ce-207877",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Development of an LDR-Integrated PDLC film for automatic glare reduction in vehicles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/publications/7b4ecceb-2d42-45bd-b55a-68d3c7d1511f",
+      "authors": "R. Nugroho, M. Noga , N. Fauzi",
+      "publication_type": "Artykuł , Journal of Automotive and Mechanical Applied Technology",
+      "year": "2025",
+      "doi": "10.21831/jamat.v2i1.1343",
+      "doi_url": "https://www.doi.org/10.21831/jamat.v2i1.1343",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Koncepcja dwustopniowego rozprężania gazów w tłokowym silniku spalinowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/research-work/272857ab-06be-4638-9953-d35dfd02d944",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ zastosowania dwuwtryskiwaczowego układu zasilania na parametry robocze silnika spalinowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/research-work/7cca88c1-0865-41d3-96e5-0338fbded027",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/research-work/0d1891b4-bf24-4228-8e4f-b329e21e73b7",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania i wdrożenie alternatywnego układu napędowego w sporcie samochodowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.noga.80HjF7yUPWn/research-work/ae29de4e-698d-4dd9-846c-d5c58c606543",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208426"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

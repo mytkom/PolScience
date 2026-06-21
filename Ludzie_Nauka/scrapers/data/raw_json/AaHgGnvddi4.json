@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4",
+  "slug": "marzena.majzner",
+  "profile_id": "AaHgGnvddi4",
+  "full_name": "dr inż. Marzena Renata Majzner",
+  "orcid": "0000-0003-4638-5383",
+  "orcid_url": "https://orcid.org/0000-0003-4638-5383",
+  "breadcrumb_name": "Marzena Majzner",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "technologia ropy naftowej",
+    "trybochemia",
+    "trybologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wpływ składu i ilości rozpuszczalnika na efektywność rafinacji frakcji olejowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/publications/b804fcb1-f208-46ed-8183-95853e08e6f9",
+      "authors": "M. Majzner , S. Wilkanowicz, A. Lorek, ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wpływ warunków na wydajność transestryfikacji w układzie jednofazowym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/publications/dd09e082-ffb6-468c-8203-d1447075012a",
+      "authors": "M. Majzner , S. Wilkanowicz, A. Lorek, ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Kształcenie na kierunku technologia chemiczna w kontekście sytuacji absolwenta",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/publications/d3caa7ca-615b-4975-a8dd-26ef93fdde04",
+      "authors": "M. Majzner , M. Petzel",
+      "publication_type": "Artykuł , Przemysł Chemiczny",
+      "year": "2017",
+      "doi": "10.15199/62.2017.4.21",
+      "doi_url": "https://www.doi.org/10.15199/62.2017.4.21",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Studium właściwości przeciwzużyciowych i tribochemicznych przemian kwasów karboksylowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.majzner.AaHgGnvddi4/research-work/96860078-015b-481f-92aa-bd8f53663ceb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=112534"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

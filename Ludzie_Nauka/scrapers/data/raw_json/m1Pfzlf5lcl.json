@@ -1,0 +1,232 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl",
+  "slug": "paweł.rzążewski",
+  "profile_id": "m1Pfzlf5lcl",
+  "full_name": "dr hab. inż. Paweł Rzążewski",
+  "orcid": "0000-0001-7696-3848",
+  "orcid_url": "https://orcid.org/0000-0001-7696-3848",
+  "breadcrumb_name": "Paweł Rzążewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Uniwersytet Warszawski"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "algorytmika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 2 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski; Wydział Matematyki, Informatyki i Mechaniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/04d8f337-6a41-4c73-b0ee-a3f1a9293995"
+        },
+        {
+          "label": "Uniwersytet Warszawski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A polynomial bound on the number of minimal separators and potential maximal cliques in P6-free graphs of bounded clique number",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/publications/e9b06de1-18f3-4d58-9d4e-e2e6b284852c",
+      "authors": "P. Rzążewski , M. Pilipczuk",
+      "publication_type": "Artykuł , Discrete Mathematics and Theoretical Computer Science",
+      "year": "2025",
+      "doi": "10.46298/dmtcs.12438",
+      "doi_url": "https://www.doi.org/10.46298/dmtcs.12438",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An 11/6-Approximation Algorithm for Vertex Cover on String Graphs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/publications/b2d3ae22-d397-46d2-a116-f50dbb6a980d",
+      "authors": "P. Rzążewski , E. Bonnet",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.4230/lipics.socg.2025.24",
+      "doi_url": "https://www.doi.org/10.4230/lipics.socg.2025.24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Excluding a Clique or a Biclique in Graphs of Bounded Induced Matching Treewidth",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/publications/88d3a083-fcaf-4613-9203-5eb159fe1164",
+      "authors": "B. Walczak, P. Rzążewski , T. Abrishami, ... (+4)",
+      "publication_type": "Artykuł , SIAM Journal on Discrete Mathematics",
+      "year": "2025",
+      "doi": "10.1137/24m1659960",
+      "doi_url": "https://www.doi.org/10.1137/24m1659960",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Cykl pięciu publikacji powiązanych tematycznie: Program optymalności w problemach homomorfizmu grafów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/research-work/454bc62b-f095-4191-93fe-4501e2ec4b42",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy dokładne dla grafowych problemów przydziału częstotliwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rz%C4%85%C5%BCewski.m1Pfzlf5lcl/research-work/f42f9ef4-5b16-44ab-b69c-35f86fc91301",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270814"
+    }
+  ],
+  "tag_cloud": [
+    "parameterized complexity",
+    "zbiór niezależny",
+    "złożoność",
+    "independent set",
+    "feedback vertex set",
+    "seth",
+    "złożoność obliczeniowa",
+    "fine-grained complexity",
+    "string graphs",
+    "graph homomorphism"
+  ],
+  "coworkers": []
+}

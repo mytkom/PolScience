@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD",
+  "slug": "hubert.baniecki",
+  "profile_id": "wROhOHpViaD",
+  "full_name": "mgr inż. Hubert Baniecki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Hubert Baniecki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria i analiza danych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "inżynieria i analiza danych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Birds look like cars: adversarial analysis of intrinsically interpretable deep learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/publications/4b5dfc45-a1da-42c7-8196-091fe6419e4e",
+      "authors": "H. Baniecki , P. Biecek",
+      "publication_type": "Artykuł , Machine Learning",
+      "year": "2025",
+      "doi": "10.1007/s10994-025-06896-w",
+      "doi_url": "https://www.doi.org/10.1007/s10994-025-06896-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Efficient and Accurate Explanation Estimation with Distribution Compression",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/publications/d899538a-c0da-4016-ae50-d42028350a0b",
+      "authors": "H. Baniecki , G. Casalicchio, B. Bischl, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Explaining and visualizing black-box models through counterfactual paths",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.baniecki.wROhOHpViaD/publications/97eabf06-2c8c-449d-a9b4-ba0293fc2f06",
+      "authors": "B. Pfeifer, M. Krzyziński, H. Baniecki , ... (+2)",
+      "publication_type": "Artykuł , Pattern Analysis and Applications",
+      "year": "2025",
+      "doi": "10.1007/s10044-025-01532-8",
+      "doi_url": "https://www.doi.org/10.1007/s10044-025-01532-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

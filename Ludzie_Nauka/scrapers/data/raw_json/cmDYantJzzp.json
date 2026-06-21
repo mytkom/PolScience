@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp",
+  "slug": "łukasz.felkowski",
+  "profile_id": "cmDYantJzzp",
+  "full_name": "dr inż. Łukasz Felkowski",
+  "orcid": "0000-0002-0196-910X",
+  "orcid_url": "https://orcid.org/0000-0002-0196-910X",
+  "breadcrumb_name": "Łukasz Felkowski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "energetyka cieplna i ochrona środowiska",
+    "energetyka przemysłowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria środowiska, górnictwo i energetyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An application of FBGs sensors to measuring the strains of industrial boiler hanger rods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/publications/55aa9c82-901f-404e-869a-f2a612385e7b",
+      "authors": "M. Palacz, B. Bąk, Ł. Felkowski , ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-33090-8",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-33090-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of gas boiler failure and successful modification of its design",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/publications/68513d92-76c0-42a4-a68a-d0e1eac148b5",
+      "authors": "Ł. Felkowski , P. Duda",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18184860",
+      "doi_url": "https://www.doi.org/10.3390/en18184860",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Angular analysis of $B^{0} \\to K^{*0}e^{+}e^{-}$ decays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/publications/7d35e069-3934-4618-91f8-8d54d7fee557",
+      "authors": "J. Bhom, P. Duda [...] Ł. Felkowski , ... (+1399)",
+      "publication_type": "Artykuł , Journal of High Energy Physics",
+      "year": "2025",
+      "doi": "10.1007/jhep06(2025)140",
+      "doi_url": "https://www.doi.org/10.1007/jhep06(2025)140",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody oceny stanu cieplno - wytrzymałościowego elementów kotła energetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.felkowski.cmDYantJzzp/research-work/87e5c8c8-d9d7-4c1b-96b6-4a083d4145b2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=303971"
+    }
+  ],
+  "tag_cloud": [
+    "heavy quark production",
+    "isospin: symmetry",
+    "b physics",
+    "p p: scattering",
+    "p p: colliding beams",
+    "hadron-hadron scattering",
+    "branching fraction",
+    "particle and resonance production",
+    "flavour physics",
+    "qcd"
+  ],
+  "coworkers": []
+}

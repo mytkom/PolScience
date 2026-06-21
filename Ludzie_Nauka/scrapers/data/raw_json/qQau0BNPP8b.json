@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b",
+  "slug": "dawid.kalandyk",
+  "profile_id": "qQau0BNPP8b",
+  "full_name": "dr inż. Dawid Łukasz Kalandyk",
+  "orcid": "0000-0002-7317-5499",
+  "orcid_url": "https://orcid.org/0000-0002-7317-5499",
+  "breadcrumb_name": "Dawid Kalandyk",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Calculating G-code for CNC machine using the Mamdani fuzzy logic inference system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/publications/4bb5c5d7-d230-4675-b687-1cfda3a2cde2",
+      "authors": "D. Kalandyk , D. Mazur, B. Kwiatkowski",
+      "publication_type": "Artykuł , Archives of Control Sciences",
+      "year": "2024",
+      "doi": "10.24425/acs.2024.149669",
+      "doi_url": "https://www.doi.org/10.24425/acs.2024.149669",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Temporal signed gestures segmentation in an image sequence using deep reinforcement learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/publications/b069bf00-2dbc-4dc1-8ab3-eddf8e10f177",
+      "authors": "D. Kalandyk , T. Kapuściński",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2024.107879",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2024.107879",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of Mamdani Fuzzy Logic Inference System to Optimise CNC Machine Motion Dynamics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/publications/c3411f2a-ec33-4971-8e48-19a05a250a0d",
+      "authors": "D. Mazur, B. Kwiatkowski, D. Kalandyk",
+      "publication_type": "Artykuł , 2023 IEEE International Conference on Fuzzy Systems (FUZZ)",
+      "year": "2023",
+      "doi": "10.1109/fuzz52849.2023.10309802",
+      "doi_url": "https://www.doi.org/10.1109/fuzz52849.2023.10309802",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Aplikacje metod sztucznej inteligencji ze szczególnym uwzględnieniem algorytmu uczenia się ze wzmocnieniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kalandyk.qQau0BNPP8b/research-work/8af22338-9ab3-494c-be7e-db847a20f5b8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0",
+  "slug": "katarzyna.umiejewska",
+  "profile_id": "k8UMt6UrsG0",
+  "full_name": "dr Katarzyna Beata Umiejewska",
+  "orcid": "0000-0001-8461-1092",
+  "orcid_url": "https://orcid.org/0000-0001-8461-1092",
+  "breadcrumb_name": "Katarzyna Umiejewska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "oczyszczanie ścieków",
+    "przeróbka osadów",
+    "ścieki przemysłowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Politechnika Warszawska, Wydział Inżynierii Środowiska"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wykorzystanie ciepła nieoczyszczonych ścieków komunalnych do ogrzewania i przygotowania c.w.u. – studium przypadku. Część 1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/publications/ee97e698-e960-4ef0-a754-6e033ccee229",
+      "authors": "A. Kodura, M. Chludzińska [...] K. Umiejewska , ... (+3)",
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2024",
+      "doi": "10.15199/9.2024.2.1",
+      "doi_url": "https://www.doi.org/10.15199/9.2024.2.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wykorzystanie ciepła nieoczyszczonych ścieków komunalnych do ogrzewania i przygotowania c.w.u. – studium przypadku. Część 2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/publications/f553ef13-2bc5-4831-84f0-90baf55b4639",
+      "authors": "A. Kodura, M. Chludzińska [...] K. Umiejewska , ... (+3)",
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2024",
+      "doi": "10.15199/9.2024.3.1",
+      "doi_url": "https://www.doi.org/10.15199/9.2024.3.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hydrodynamic disintegration of thickened excess sludge and maize silage to intensify methane production: Energy effect and impact on microbial communities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/publications/d121ebf9-6313-4272-a724-abe7c6191b27",
+      "authors": "A. Muszyński, A. Garlicka, K. Umiejewska , ... (+2)",
+      "publication_type": "Artykuł , Bioresource Technology",
+      "year": "2023",
+      "doi": "10.1016/j.biortech.2023.128829",
+      "doi_url": "https://www.doi.org/10.1016/j.biortech.2023.128829",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Racjonalne rozwiązania unieszkodliwiania ścieków powstających na terenach położonych poza zasięgiem kanalizacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/research-work/8dba243b-90b3-4b48-83c2-060fb668f31a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ hydrodynamicznej dezintegracji zagęszczonych osadów nadmiernych na przebieg i efektywność procesu fermentacji metanowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.umiejewska.k8UMt6UrsG0/research-work/6edcb72f-585c-428d-b694-23940ca78fcf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85168"
+    }
+  ],
+  "tag_cloud": [
+    "anaerobic digestion",
+    "odzyskiwanie ciepła ze ścieków",
+    "distillery residue",
+    "hydrodynamic disintegration",
+    "ciepło odpadowe",
+    "co-digestion",
+    "waste-activated sludge",
+    "specific methane production",
+    "ścieki komunalne",
+    "dolne źródło ciepła"
+  ],
+  "coworkers": []
+}

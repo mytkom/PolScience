@@ -1,0 +1,241 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki",
+  "slug": "jacek.rak",
+  "profile_id": "9yuDW2hygki",
+  "full_name": "dr hab. inż. Jacek Rak",
+  "orcid": "0000-0001-7276-6097",
+  "orcid_url": "https://orcid.org/0000-0001-7276-6097",
+  "breadcrumb_name": "Jacek Rak",
+  "current_employment_summary": [
+    "Akademia Nauk Stosowanych w Elblągu",
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teleinformatyka",
+    "niezawodność sieci",
+    "sieci komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Elblągu Aktualna nazwa: Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Akademia Nauk Stosowanych w Elblągu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Nauk Stosowanych w Elblągu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Design of Weather-Resilient Satellite-Terrestrial ICT Networks for Power Grid Communications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/publications/44a11047-5140-4df0-bade-d7ffd76a012f",
+      "authors": "J. Rak , A. Volkova, J. Schmidhuber, ... (+1)",
+      "publication_type": "Artykuł , IEEE Transactions on Network and Service Management",
+      "year": "2025",
+      "doi": "10.1109/tnsm.2025.3608855",
+      "doi_url": "https://www.doi.org/10.1109/tnsm.2025.3608855",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "From design to recovery: Insights on resilient networks from RNDM 2023",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/publications/d7822126-34c5-4b0f-b39b-cadb06cc9efc",
+      "authors": "J. Rak , D. Ergenc, N. Bülbül, ... (+2)",
+      "publication_type": "Artykuł , Optical Switching and Networking",
+      "year": "2025",
+      "doi": "10.1016/j.osn.2025.100800",
+      "doi_url": "https://www.doi.org/10.1016/j.osn.2025.100800",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Toward 6G Optical Fronthaul: A Survey on Enabling Technologies and Research Perspectives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/publications/51688286-f516-4e5e-a89f-d90057b64e07",
+      "authors": "A. Fayad, T. Cinkler, J. Rak",
+      "publication_type": "Artykuł , IEEE Communications Surveys & Tutorials",
+      "year": "2025",
+      "doi": "10.1109/comst.2024.3408090;10.48550/arxiv.2406.00308",
+      "doi_url": "https://www.doi.org/10.1109/comst.2024.3408090;10.48550/arxiv.2406.00308",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Mechanizmy niezawodnej komunikacji w sieciach teleinformatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work/9489cf3b-b4b6-4d97-96a8-26353d3f5453",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod transformacji grafu topologii sieci teleinformatycznej w wyznaczaniu niezawodnych tras transmisji ukierunkowane na redukcję czasu obliczeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work/fd4b0480-cd7b-434f-ae34-797567d86fe3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Adaptacyjne zarządzanie ruchem w sieciach IP i sieciach optycznych sterowanych programowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work/4649a379-8f47-4c59-906b-e45dab4479e2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "AI-assisted dimensioning methods for Network Slicing in Next Generation Mobile Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work/fe33a4d0-9854-480c-817f-268aa59df6ed",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Application relocation in an Edge-enabled 5G-system",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.rak.9yuDW2hygki/research-work/5ebe41ed-4b3c-42c5-891a-3b42011d281c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=219052"
+    }
+  ],
+  "tag_cloud": [
+    "wireless mesh networks",
+    "qoe",
+    "shared protection",
+    "serwery mec, sieci dostępowe, wlan, moduł współpracy z mec",
+    "resilience",
+    "attacks against nodes",
+    "communication systems",
+    "mission-critical networks",
+    "marine technology",
+    "road traffic management"
+  ],
+  "coworkers": []
+}

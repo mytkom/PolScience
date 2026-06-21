@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0",
+  "slug": "maciej.szymkowski",
+  "profile_id": "Pu0zRX4mZo0",
+  "full_name": "dr inż. Maciej Szymkowski",
+  "orcid": "0000-0002-5778-9976",
+  "orcid_url": "https://orcid.org/0000-0002-5778-9976",
+  "breadcrumb_name": "Maciej Szymkowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2026",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        },
+        {
+          "label": "Akademia Łomżyńska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        },
+        {
+          "label": "Akademia Łomżyńska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "$J/\\psi$-hadron correlations at midrapidity in pp collisions at $\\sqrt{s}=13$ TeV",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/publications/bc8c8b18-fe8d-4140-a2fe-3dc9cb488b5a",
+      "authors": "P. Chakraborty, S. Acharya [...] M. Szymkowski , ... (+1347)",
+      "publication_type": "Artykuł , Journal of High Energy Physics",
+      "year": "2025",
+      "doi": "10.1007/jhep07(2025)023",
+      "doi_url": "https://www.doi.org/10.1007/jhep07(2025)023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "First Measurement of A = 4 Hypernuclei and Antihypernuclei at the LHC",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/publications/9025baa3-2241-4e11-bcbf-2bfb93953d63",
+      "authors": "M. Kowalski, P. Chakraborty [...] M. Szymkowski , ... (+1611)",
+      "publication_type": "Artykuł , Physical Review Letters",
+      "year": "2025",
+      "doi": "10.1103/physrevlett.134.162301",
+      "doi_url": "https://www.doi.org/10.1103/physrevlett.134.162301",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "First measurement of $D_{s1}(1^{+})(2536)^{+}$ and $D^{*}_{s2}(2^{+})(2573)^{+}$ production in proton-proton collisions at $\\sqrt{s}$=13 TeV at the LHC",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/publications/393fc232-71d7-4185-844f-84961ea221f9",
+      "authors": "M. Kowalski, P. Chakraborty [...] M. Szymkowski , ... (+1602)",
+      "publication_type": "Artykuł , Physical Review D",
+      "year": "2025",
+      "doi": "10.1103/physrevd.111.112005",
+      "doi_url": "https://www.doi.org/10.1103/physrevd.111.112005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Uczenie maszynowe oraz sztuczna inteligencja w trimodalnym systemie biometrycznym bazującym na odcisku palca, jego układzie żył i geometrii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szymkowski.Pu0zRX4mZo0/research-work/1cc7e9cb-2f9a-4617-bf8e-f347bdba7a29",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=306740"
+    }
+  ],
+  "tag_cloud": [
+    "experimental results",
+    "transverse momentum",
+    "p p: colliding beams",
+    "heavy ion: scattering",
+    "hadron-hadron scattering",
+    "biometrics",
+    "alice",
+    "correlation",
+    "k-means",
+    "machine learning"
+  ],
+  "coworkers": []
+}

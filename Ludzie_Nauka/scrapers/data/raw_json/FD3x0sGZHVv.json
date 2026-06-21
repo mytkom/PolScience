@@ -1,0 +1,212 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv",
+  "slug": "ryszard.klempous",
+  "profile_id": "FD3x0sGZHVv",
+  "full_name": "dr hab. inż. Ryszard Zbigniew Klempous",
+  "orcid": "0000-0003-4889-0930",
+  "orcid_url": "https://orcid.org/0000-0003-4889-0930",
+  "breadcrumb_name": "Ryszard Klempous",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza numeryczna",
+    "bazy danych",
+    "symulacja systemów",
+    "technika optymalizacji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "49 lat",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1980",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1971",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimal solving of a scheduling problem using quantum annealing metaheuristics on the D-Wave Quantum Solver",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/publications/6305e9d8-d9de-418b-9e90-36eb06870fd2",
+      "authors": "W. Bożejko, R. Klempous , C. Smutnicki, ... (+4)",
+      "publication_type": "Artykuł , IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": "2025",
+      "doi": "10.1109/tsmc.2024.3458873",
+      "doi_url": "https://www.doi.org/10.1109/tsmc.2024.3458873",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A review of the weaponization of IoT: Security threats and countermeasures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/publications/a469aa8c-60e7-4443-95bd-17ce0bd110c4",
+      "authors": "M. Kulbacki, M. Kulbacki [...] R. Klempous , ... (+8)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/saci60582.2024.10619778",
+      "doi_url": "https://www.doi.org/10.1109/saci60582.2024.10619778",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Accentuated innovations in cognitive info-communication",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/publications/2fa59be4-5d31-476e-a407-3d1884e920db",
+      "authors": "R. Klempous , J. Nikodem, B. Péter Zoltán",
+      "publication_type": "Książka pod redakcją",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-10956-0",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-10956-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wieloaspektowe podejście do zagadnień modelowania, symulacji i optymalizacji procesów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/research-work/c01d5fb3-6404-48be-a722-c6aa9cf8e038",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modele i algorytmy detekcji znaczników w problemach analizy ruchu obiektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.klempous.FD3x0sGZHVv/research-work/bde88291-3d81-4c11-aa85-eb36d61b084a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=75318"
+    }
+  ],
+  "tag_cloud": [
+    "neural networks",
+    "przetwarzanie obrazów",
+    "szkolenie oparte na wirtualnych umiejętnościach",
+    "rzeczywistość wirtualna",
+    "system sieciowy",
+    "network system",
+    "technologie innowacyjne",
+    "virtual reality",
+    "lokalizacja 3d",
+    "optymalizacja dyskretna"
+  ],
+  "coworkers": []
+}

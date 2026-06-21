@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m",
+  "slug": "artur.tomaszewski",
+  "profile_id": "pRllR5dxt8m",
+  "full_name": "dr hab. inż. Artur Jerzy Tomaszewski",
+  "orcid": "0000-0003-2210-4225",
+  "orcid_url": "https://orcid.org/0000-0003-2210-4225",
+  "breadcrumb_name": "Artur Tomaszewski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "projektowanie i zarządzanie sieciami"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "30 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/publications/fc2a2d7b-5c07-48cb-80e6-ea66d2fda72a",
+      "authors": "A. Tomaszewski , M. Wojnar, W. Ciężobka, ... (+9)",
+      "publication_type": "Artykuł , IEEE Journal on Selected Areas in Communications",
+      "year": "2025",
+      "doi": "10.1109/jsac.2025.3584555",
+      "doi_url": "https://www.doi.org/10.1109/jsac.2025.3584555",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Probabilistic Optimisation Approach to the Equitable Controller Location Problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/publications/51978858-96d3-4520-8818-17a66d072bfc",
+      "authors": "A. Tomaszewski , E. Ballasheni, D. Nace, ... (+1)",
+      "publication_type": "Artykuł , IEEE Transactions on Network and Service Management",
+      "year": "2024",
+      "doi": "10.1109/tnsm.2024.3500095",
+      "doi_url": "https://www.doi.org/10.1109/tnsm.2024.3500095",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Min–max optimization of node‐targeted attacks in service networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/publications/142bed09-c881-4497-8070-e1e20b7b6143",
+      "authors": "M. Pióro, B. Fortz, A. Tomaszewski , ... (+1)",
+      "publication_type": "Artykuł , Networks",
+      "year": "2024",
+      "doi": "10.1002/net.22191",
+      "doi_url": "https://www.doi.org/10.1002/net.22191",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/research-work/572112cb-ad4c-470e-b2d1-28021e0fbcce",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza i projektowanie elastycznie zabezpieczonych sieci teletransmisyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.tomaszewski.pRllR5dxt8m/research-work/46a51d16-21bc-4b6f-8d98-9624974bfdba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=15431"
+    }
+  ],
+  "tag_cloud": [
+    "mcs",
+    "multicast",
+    "integer programming",
+    "mixed-integer programming",
+    "wireless sensor networks",
+    "iot",
+    "transmission scheduling",
+    "resilience",
+    "aggregation",
+    "node attacks"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX",
+  "slug": "marzena.banaszek",
+  "profile_id": "rRMbQNHV7mX",
+  "full_name": "dr inż. Marzena Banaszek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marzena Banaszek",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "maszyny przepływowe",
+    "mechanika płynów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "organizacja i zarządzanie przemysłem",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Laboratorium Mechaniki Płynów",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/publications/9f937f7d-bf6a-429c-9cf1-82a6d627c00f",
+      "authors": "M. Banaszek , K. Tesch",
+      "publication_type": "Książka , Wydawnictwo Fundacja Promocji Przemysłu Okrętowego i Gospodarki Morskiej",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczna i eksperymentalna analiza przepływu przez stopień modelowej turbiny wodnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.banaszek.rRMbQNHV7mX/research-work/c8730db3-4ad5-4312-90d8-beee9264dd09",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=110891"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

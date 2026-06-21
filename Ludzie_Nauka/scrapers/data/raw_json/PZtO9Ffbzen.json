@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen",
+  "slug": "artur.handke",
+  "profile_id": "PZtO9Ffbzen",
+  "full_name": "dr inż. Artur Handke",
+  "orcid": "0000-0002-6727-2751",
+  "orcid_url": "https://orcid.org/0000-0002-6727-2751",
+  "breadcrumb_name": "Artur Handke",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania symulacyjne",
+    "projektowanie CAD",
+    "mechatronika",
+    "teoria manipulatorów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/896622d0-61fc-4897-b152-98aaff2cba3c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Synthesis of human-bike kinematic structures for direct kinematic analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/publications/fff46bd3-9456-4c69-8f7f-41ea1c980581",
+      "authors": "K. Bałchanowski, A. Handke",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.21495/91-8-289",
+      "doi_url": "https://www.doi.org/10.21495/91-8-289",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Modelowanie numeryczne zjawisk kontaktowych podczas chwytania i manipulowania przedmiotem przez chwytak wielopalcowy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/publications/b8a27c81-d6f7-45fd-b54c-6a12db03adaf",
+      "authors": "S. Wudarczyk, A. Handke",
+      "publication_type": "Artykuł , Modelowanie Inżynierskie",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Eliminacja nadmiernych połączeń obrotowych w chwytaku wielopalczastego manipulatora typu ręka człowieka",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/publications/3acefbf9-4b86-421f-b600-5179ed255cfc",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda doboru struktury mechanicznej i sensorycznej chwytaka typu ręka człowieka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.handke.PZtO9Ffbzen/research-work/591814db-024b-4cf1-8b65-5dfe703bbfba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=225183"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h",
+  "slug": "zbigniew.jaworski",
+  "profile_id": "NXVPiu1vZ1h",
+  "full_name": "dr inż. Zbigniew Bernard Jaworski",
+  "orcid": "0000-0001-7935-6429",
+  "orcid_url": "https://orcid.org/0000-0001-7935-6429",
+  "breadcrumb_name": "Zbigniew Jaworski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria komputerowa",
+    "mikroelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient transient simulation of efuse",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/publications/0c8e5223-98a1-46aa-88ea-bb85b5aa2f6e",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153636",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153636",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Highly Linear 4-bit Flash ADC Implemented in 22 nm FD-SOI Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/publications/e01b1d09-6b46-4bd5-ae04-ca5f6e091daa",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2019",
+      "doi": "10.23919/mixdes.2019.8787023",
+      "doi_url": "https://www.doi.org/10.23919/mixdes.2019.8787023",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "High Resolution Latched Comparator Implemented in 22 nm FD-SOI Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/publications/a2355e56-6d03-4a00-b00c-3b461be051ac",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.23919/mixdes.2018.8436803",
+      "doi_url": "https://www.doi.org/10.23919/mixdes.2018.8436803",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda testowania analogowych układów scalonych o budowie modularnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.jaworski.NXVPiu1vZ1h/research-work/f6f7caad-1127-4c0e-a09e-dba2fe828019",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85931"
+    }
+  ],
+  "tag_cloud": [
+    "czujniki",
+    "fd-soi technology",
+    "integrated circuits",
+    "sensors",
+    "sztuczna inteligencja",
+    "radar",
+    "technologie ultra-cienkiego tlenku",
+    "mikroelektroniczne układy scalone",
+    "premia na horyzoncie",
+    "autonomous vehicle"
+  ],
+  "coworkers": []
+}

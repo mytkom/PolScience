@@ -1,0 +1,258 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3",
+  "slug": "andrzej.bęben",
+  "profile_id": "EQJlrHOz5B3",
+  "full_name": "dr hab. inż. Andrzej Paweł Bęben",
+  "orcid": "0000-0003-3751-6230",
+  "orcid_url": "https://orcid.org/0000-0003-3751-6230",
+  "breadcrumb_name": "Andrzej Bęben",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci telekomunikacyjne",
+    "multimedia",
+    "systemy telekomunikacyjne i teleinformatyczne",
+    "metody sterowania ruchem w sieciach teleinformatycznych",
+    "technika ATM"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wojskowy Instytut Łączności im. prof. dr. hab. Janusza Groszkowskiego Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8b84d4c-2a67-4325-8ab6-3c9307f04a08",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metoda orkiestracji wirtualnych zapór sieciowych w sieciach operatorskich",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/publications/3050877e-c83b-460e-9181-52dc771b478d",
+      "authors": "B. Kopeć-Persiński, A. Bęben",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.122",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.122",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "New Approach for Virtual Firewalls Orchestration in Edge-Cloud Continuum Infrastructure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/publications/4255517f-8203-46d3-aa13-058f29fba5be",
+      "authors": "B. Kopeć-Persiński, A. Bęben",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "POPRAWA DOKŁADNOŚCI OKREŚLENIA GŁĘBOKOŚCI AKWENU ZA POMOCĄ ECHOSONDY INTERFEROMETRYCZNEJ",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/publications/eeb79dd6-b137-4cf5-8e74-4ad89de435c3",
+      "authors": "R. Bryś, P. Grall [...] A. Bęben , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.1",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie ruchem w sieciach ICN/CAN",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work/8aa276a2-0050-4cfa-9e79-c65bf82fe6dd",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Jakość przekazu ruchu w bezprzewodowej sieci ATM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work/14c376c8-c030-4fd5-8739-00d1e462c7d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Quality Assessment of Video Services in the Long Term",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work/63565459-81e5-4b83-b3f1-02a96d001474",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Optimization of Energy Efficiency in Fog Computing with Latency Constraints",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work/c81b8dab-ac56-4771-88c8-a13c3d34960d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Efficient communication algorithms in shared channels with adversary",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%99ben.EQJlrHOz5B3/research-work/85de6a59-7856-465f-b00d-d523bbb53e8d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=105141"
+    }
+  ],
+  "tag_cloud": [
+    "adaptive video streaming",
+    "mec",
+    "ble mesh",
+    "ict",
+    "openness",
+    "development trends",
+    "symec",
+    "directions of changes",
+    "characteristics",
+    "adaptation algorithms"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,205 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS",
+  "slug": "jacek.dybała",
+  "profile_id": "hnVKjHgJYJS",
+  "full_name": "dr hab. Jacek Dybała",
+  "orcid": "0000-0002-0721-1105",
+  "orcid_url": "https://orcid.org/0000-0002-0721-1105",
+  "breadcrumb_name": "Jacek Dybała",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Samochodów i Maszyn Roboczych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e74805aa-4122-4ac6-97ea-9ba3f8d014bb"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Samochodów i Maszyn Roboczych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e74805aa-4122-4ac6-97ea-9ba3f8d014bb"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/gremiums/cc968d72-7d92-4cac-9834-1e83aa202935",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Mechaniczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Mechaniczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "OffRoadSynth Open Dataset for Semantic Segmentation using Synthetic-Data-Based Weight Initialization for Autonomous UGV in Off-Road Environments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/publications/6a8ecb12-b9fe-47da-9a9a-a351b6241f80",
+      "authors": "K. Małek, J. Dybała , A. Kordecki, ... (+2)",
+      "publication_type": "Artykuł , Journal of Intelligent & Robotic Systems",
+      "year": "2024",
+      "doi": "10.1007/s10846-024-02114-2",
+      "doi_url": "https://www.doi.org/10.1007/s10846-024-02114-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Suitable law-based location selection of high-power electric vehicles charging stations on the TEN-T core network for sustainability: a case of Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/publications/8e18c7c0-611d-4443-8c90-ee64d8e7942f",
+      "authors": "J. Dybała , M. Mazur, M. Mazur, ... (+1)",
+      "publication_type": "Artykuł , Archives of Transport",
+      "year": "2024",
+      "doi": "10.61089/aot2024.1mrj1x75",
+      "doi_url": "https://www.doi.org/10.61089/aot2024.1mrj1x75",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Concept of Virtual Reality Training of Facility Management Employees Using Eye Tracking",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/publications/dc6eba50-22be-48ab-8167-d19e9734d5e0",
+      "authors": "J. Dybała , A. Kordecki",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13105868",
+      "doi_url": "https://www.doi.org/10.3390/app13105868",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykrywanie wczesnych faz uszkodzeń metodami sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/research-work/2cc32bf3-5aca-4668-8dc2-70d4ee277ef7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykrywanie uszkodzeń w przekładni zębatej na podstawie analizy sygnału wibroakustycznego z wykorzystaniem modeli symulacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/research-work/00db1898-53e1-4f34-b7f7-0cd3e7b4c19f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zintegrowane wskaźniki stanu dynamicznego maszyn wirnikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/research-work/7b5e851a-7638-4c76-aea9-6fc5f36b49e9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Propagacja fal sprężystych z uwzględnieniem kompensacji wpływu temperatury",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.dyba%C5%82a.hnVKjHgJYJS/research-work/110fbf09-3afe-47e0-bf1d-05234338f35e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=90687"
+    }
+  ],
+  "tag_cloud": [
+    "sieci neuronowe",
+    "signal decomposition",
+    "magnetic barkhausen noise",
+    "virtual reality",
+    "magnetic diagnostics",
+    "virtual training",
+    "vibration signal",
+    "signal processing",
+    "neural networks",
+    "samochód"
+  ],
+  "coworkers": []
+}

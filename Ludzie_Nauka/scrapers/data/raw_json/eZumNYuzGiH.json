@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH",
+  "slug": "piotr.hadaj",
+  "profile_id": "eZumNYuzGiH",
+  "full_name": "mgr inż. Piotr Hadaj",
+  "orcid": "0000-0003-0446-9431",
+  "orcid_url": "https://orcid.org/0000-0003-0446-9431",
+  "breadcrumb_name": "Piotr Hadaj",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im. I. Łukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im. I. Łukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessing Reliability and Energy Security Through PLANS and EA-PSM Software Simulations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/publications/133d142d-cbb4-4709-9184-80f36baa56e3",
+      "authors": "P. Hadaj , D. Strzałka",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18092227",
+      "doi_url": "https://www.doi.org/10.3390/en18092227",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Power grid failure simulations using PLANSand NetworkXcombined with Monte Carlo algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/publications/3fe669d1-d832-45db-a372-98368147823b",
+      "authors": null,
+      "publication_type": "Artykuł , Advances in IT and Electrical Engineering",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The use of PLANS and NetworkX in modeling power grid system failures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.hadaj.eZumNYuzGiH/publications/5bb6818a-45fa-4796-a4ac-c7b8b47ce25d",
+      "authors": "P. Hadaj , P. Dymora, S. Dominik, ... (+2)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-22268-z",
+      "doi_url": "https://www.doi.org/10.1038/s41598-022-22268-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=293106"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

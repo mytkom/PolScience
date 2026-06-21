@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH",
+  "slug": "jolanta.gintowt",
+  "profile_id": "3ZuMUlsSrqH",
+  "full_name": "dr inż. Jolanta Maria Gintowt",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jolanta Gintowt",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Certyfikacja budynków energooszczędnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/publications/32341276-168a-4ad1-9086-c3847f1c1c95",
+      "authors": "M. Furtak, M. Fedorczak-Cisak [...] J. Gintowt , ... (+2)",
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 1,
+      "title": "Thermal and vibration comfort analysis of a nearly zero-energy building in Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/publications/525dc10a-6652-422f-a72e-33b9bab508ee",
+      "authors": "K. Stypuła, M. Fedorczak-Cisak [...] J. Gintowt , ... (+4)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2018",
+      "doi": "10.3390/su10103774",
+      "doi_url": "https://www.doi.org/10.3390/su10103774",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Collation of qualitative research with quantitive fem research in terms of two dimensional heat flow",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.gintowt.3ZuMUlsSrqH/publications/b52ce556-9a33-40d7-a312-78ec1619002e",
+      "authors": null,
+      "publication_type": "Artykuł , Technical Transactions. Civil Engineering = Czasopismo Techniczne. Budownictwo",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

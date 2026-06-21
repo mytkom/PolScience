@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm",
+  "slug": "martin.tabakow",
+  "profile_id": "XT2OHzLg5Nm",
+  "full_name": "dr inż. Martin Tabakow",
+  "orcid": "0000-0002-7687-9002",
+  "orcid_url": "https://orcid.org/0000-0002-7687-9002",
+  "breadcrumb_name": "Martin Tabakow",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie obrazów",
+    "systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Techniczno-Ekonomiczna w Świdnicy z siedzibą w Świdnicy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2c964a97-2c24-47e9-8b9a-5dbf21b42722",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Deep learning for cancer cell detection: do we need dedicated models?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/publications/887ba27c-4a7a-4839-8d7e-8b6a74e3826e",
+      "authors": "M. Tabakow , U. Markowska-Kaczmar, M. Karol, ... (+1)",
+      "publication_type": "Artykuł , Artificial Intelligence Review",
+      "year": "2024",
+      "doi": "10.1007/s10462-023-10699-7",
+      "doi_url": "https://www.doi.org/10.1007/s10462-023-10699-7",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A novel classification method using the Takagi–Sugeno model and a type-2 fuzzy rule induction approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/publications/034899b6-1f80-4646-bcf5-d8687350e588",
+      "authors": "M. Tabakow , A. Chlopowiec, A. Chłopowiec, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13095279",
+      "doi_url": "https://www.doi.org/10.3390/app13095279",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Counteracting data bias and class imbalance – towards useful and reliable retinal disease recognition system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/publications/52bdbe43-9c30-4925-bbd1-33883c205ba7",
+      "authors": "A. Chłopowiec, K. Karanowski [...] M. Tabakow , ... (+3)",
+      "publication_type": "Artykuł , Diagnostics",
+      "year": "2023",
+      "doi": "10.21203/rs.3.rs-2391402/v1;10.3390/diagnostics13111904",
+      "doi_url": "https://www.doi.org/10.21203/rs.3.rs-2391402/v1;10.3390/diagnostics13111904",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy segmentacji obrazów medycznych z wykorzystaniem rozmytej relacji równoważności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/martin.tabakow.XT2OHzLg5Nm/research-work/dc4bcfd0-6a8d-4a52-a6ce-9cb554f69044",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=123988"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

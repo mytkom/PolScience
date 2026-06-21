@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F",
+  "slug": "maciej.pilch",
+  "profile_id": "2f4L9K5N16F",
+  "full_name": "dr inż. Maciej Franciszek Pilch",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Maciej Pilch",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria chemiczna i procesowa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adhesion of polymers to electrodeposited copper for a new 3D printing technology for metal-polymer hybrid components",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/publications/8ed7e1e5-9557-418e-9abf-ae2c24012171",
+      "authors": "M. Pilch , J. Pawlik, D. Kiesiewicz, ... (+1)",
+      "publication_type": "Artykuł , Chemical and Process Engineering - Inżynieria Chemiczna i Procesowa",
+      "year": "2024",
+      "doi": "10.24425/cpe.2024.149475",
+      "doi_url": "https://www.doi.org/10.24425/cpe.2024.149475",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Chemical engineering aspects in the design and construction of a new type of multimaterial 3D printer using photopolymerization and electrodeposition processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/publications/09932e13-be42-459f-8a68-9d2b3f7a08b2",
+      "authors": "M. Pilch , D. Kiesiewicz, B. Oksiuta, ... (+1)",
+      "publication_type": "Artykuł , Chemical and Process Engineering: New Frontiers",
+      "year": "2024",
+      "doi": "10.24425/cpe.2024.149472",
+      "doi_url": "https://www.doi.org/10.24425/cpe.2024.149472",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Luminescence labeled surfaces mapping system dedicated for use in quality control of 3D prints produced by stereolithography 3D printing (SLA) and laser engraving",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/publications/9fb2a607-4b75-4002-b6b7-0551d1250e12",
+      "authors": "M. Pilch , M. Topa-Skwarczyńska, J. Ortyl, ... (+4)",
+      "publication_type": "Artykuł , Sensors and Actuators, A: Physical",
+      "year": "2024",
+      "doi": "10.1016/j.sna.2023.114828",
+      "doi_url": "https://www.doi.org/10.1016/j.sna.2023.114828",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "„Innowacyjne luminescencyjne systemy sensoryczne do mapowania rozkładu termodynamicznych parametrów stanu na powierzchniach obiektów rzeczywistych”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.pilch.2f4L9K5N16F/research-work/28dc1fe4-2e95-4322-ac43-91aad62a6928",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "testy aerodynamiczne",
+    "pakiet fit for 55",
+    "aerodynamic tests",
+    "polskie warunki klimatyczne",
+    "fotopolimeryzacja",
+    "druk 3d",
+    "wielomateriałowa drukarka 3d",
+    "coating thickness change",
+    "termomodernizacja budowli",
+    "solvent quenching"
+  ],
+  "coworkers": []
+}

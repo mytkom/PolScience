@@ -1,0 +1,149 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr",
+  "slug": "krzysztof.dobaj",
+  "profile_id": "NmeAtP8CgWr",
+  "full_name": "dr inż. Krzysztof Dobaj",
+  "orcid": "0000-0002-7344-3895",
+  "orcid_url": "https://orcid.org/0000-0002-7344-3895",
+  "breadcrumb_name": "Krzysztof Dobaj",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The use of artificial intelligence methods in the analysis of the results of vehicle braking deceleration tests in the diagnostics of the braking system of a motor vehicle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/publications/cba4af9f-ec49-4838-b036-14c3fc136497",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Civil Engineering and Transport",
+      "year": "2022",
+      "doi": "10.24136/tren.2022.003",
+      "doi_url": "https://www.doi.org/10.24136/tren.2022.003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Algorithms for diagnostics of the hydraulic pressure modulators of ABS / ESP systems in stand conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/publications/da807144-55d6-45df-8cd5-05677c421453",
+      "authors": "P. Strzępek, K. Dobaj , A. Gajek",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2018",
+      "doi": "10.1051/matecconf/201818201020",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/201818201020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The estimation of friction coefficient of brake pad- disc during braking process in different operating conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dobaj.NmeAtP8CgWr/publications/c00806ce-1712-45f9-b4f3-3ee0bfc175fd",
+      "authors": "K. Dobaj , W. Szczypiński-Sala",
+      "publication_type": "Artykuł , IOP Conference Series: Materials Science and Engineering",
+      "year": "2018",
+      "doi": "10.1088/1757-899x/421/2/022032",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/421/2/022032",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=278574"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

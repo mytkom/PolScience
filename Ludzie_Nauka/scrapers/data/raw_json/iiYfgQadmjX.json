@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX",
+  "slug": "andrzej.kysiak",
+  "profile_id": "iiYfgQadmjX",
+  "full_name": "dr inż. Andrzej Kysiak",
+  "orcid": "0000-0002-0842-2051",
+  "orcid_url": "https://orcid.org/0000-0002-0842-2051",
+  "breadcrumb_name": "Andrzej Kysiak",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje budowlane"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of Design and Execution Deficiencies in Roof Trusses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/publications/b9e1dcd5-4373-4e3b-a680-ba5becec21d6",
+      "authors": null,
+      "publication_type": "Artykuł , Materiały Budowlane",
+      "year": "2025",
+      "doi": "10.15199/33.2025.11.17",
+      "doi_url": "https://www.doi.org/10.15199/33.2025.11.17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Domy modułowe dla powodzian",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/publications/7f420802-8d91-4463-85ca-1c3090af3b4c",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0047",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0047",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modular Houses as a Form of Sustainable Construction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/publications/562825b8-22ea-4e14-b8b4-b159f84794f4",
+      "authors": "A. Kysiak , B. Szuba",
+      "publication_type": "Artykuł , Budownictwo o zoptymalizowanym potencjale energetycznym",
+      "year": "2023",
+      "doi": "10.17512/bozpe.2023.12.20",
+      "doi_url": "https://www.doi.org/10.17512/bozpe.2023.12.20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Numeryczna analiza pełzania złącz w rurowych konstrukcjach spawanych poddanych działaniu ciśnienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kysiak.iiYfgQadmjX/research-work/3f56f5fa-5d03-4255-9b32-11e6e5ee5666",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=25677"
+    }
+  ],
+  "tag_cloud": [
+    "uszkodzenia posadzek betonowych",
+    "heating cost",
+    "domy modułowe",
+    "small houses",
+    "heat cost allocators",
+    "modular houses",
+    "settling foundations",
+    "central heating",
+    "construction failure",
+    "modelowanie 3d"
+  ],
+  "coworkers": []
+}

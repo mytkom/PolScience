@@ -1,0 +1,264 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y",
+  "slug": "michał.karpuk",
+  "profile_id": "qyNAK8Jeo2y",
+  "full_name": "dr inż. Michał Karpuk",
+  "orcid": "0000-0002-1827-9834",
+  "orcid_url": "https://orcid.org/0000-0002-1827-9834",
+  "breadcrumb_name": "Michał Karpuk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "metody numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "16 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna Republiki Białoruś • Białoruś",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna Republiki Białoruś",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk matematycznych / nauk matematycznych",
+        "Nadanie stopnia",
+        "Rada Instytutu Fizyki im. B.I.Stepanova, ANB • Białoruś",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1984",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Państwowy Uniwersytet w Brześciu • Białoruś",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wrocławska Akademia Biznesu w Naukach Stosowanych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e05ed102-dfb3-43e6-a961-484a5124a4f6"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2015",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka i fizyka",
+        "Nadanie tytułu",
+        "Brzeski Państwowy Instytut Pedagogiczny im. A. Puszkina • Związek Socjalistycznych Republik Radzieckich",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka i fizyka",
+        "Nadanie tytułu",
+        "Państwowy uniwersytet w Brześciu • Białoruś",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wrocławska Akademia Biznesu w Naukach Stosowanych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e05ed102-dfb3-43e6-a961-484a5124a4f6"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 6,
+      "year": "1984",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka i fizyka",
+        "Nadanie tytułu",
+        "Brzeski Państwowy Instytut Pedagogiczny im. A. Puszkina • Białoruś",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of ventilation control methods for energy efficiency and indoor climate stability:a case study of a zoo exhibition room",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/publications/98c26a35-c07e-4702-bbb3-506de3997109",
+      "authors": "S. Szczęśniak, M. Karpuk , J. Walaszczyk",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Liczba stopniodni grzewczych i chłodniczych w Polsce i w Europie na tle obserwowanych i prognozowanych zmian klimatu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/publications/a2c571c7-b3a1-4448-8c43-d028365b7998",
+      "authors": "M. Karpuk , Ł. Stefaniak",
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2025",
+      "doi": "10.15199/9.2025.1.3",
+      "doi_url": "https://www.doi.org/10.15199/9.2025.1.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Obiekty służby zdrowia a wymagania Fit for 55 : jaką mamy szansę na realizację założeń?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.karpuk.qyNAK8Jeo2y/publications/8cb80545-8d88-45b1-b022-87ec56ce1326",
+      "authors": "S. Szczęśniak, M. Karpuk",
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2025",
+      "doi": "10.15199/9.2025.3.5",
+      "doi_url": "https://www.doi.org/10.15199/9.2025.3.5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=112911"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

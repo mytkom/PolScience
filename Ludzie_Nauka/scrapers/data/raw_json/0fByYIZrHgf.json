@@ -1,0 +1,263 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf",
+  "slug": "dawid.cekus",
+  "profile_id": "0fByYIZrHgf",
+  "full_name": "dr hab. inż. Dawid Rajmund Cekus",
+  "orcid": "0000-0002-5551-1153",
+  "orcid_url": "https://orcid.org/0000-0002-5551-1153",
+  "breadcrumb_name": "Dawid Cekus",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne",
+    "drgania i dynamika maszyn",
+    "metoda elementów skończonych",
+    "metaheurystyki optymalizacyjne",
+    "algorytmy optymalizacji",
+    "badania symulacyjne",
+    "automatyka i robotyka",
+    "konstrukcje mechatroniczne",
+    "inżynieria odwrotna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modelling of Shock Phenomena for Predicting Shipping Container Damages in Transport",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/publications/bb3c41d1-a843-4b5b-a1f5-c069c56e40d3",
+      "authors": "D. Cekus , M. Dudek, P. Kwiatoń, ... (+1)",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2025",
+      "doi": "10.17512/jamcm.2025.3.02",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2025.3.02",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On Local Instability of Deep-Profiled Facings in Sandwich Panels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/publications/5f51da2b-f94d-4096-bc95-f23c0e59b98d",
+      "authors": "Z. Pozorski, J. Pozorska [...] D. Cekus , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18225162",
+      "doi_url": "https://www.doi.org/10.3390/ma18225162",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis of cooling a printed 3D mold using a casting and solidification simulation of a CuSn20 bronze bell casting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/publications/4e4e16d1-c32d-4e43-b4a1-42fcd6eb3101",
+      "authors": "A. Pietrzak, Ł. Bernat, D. Cekus , ... (+3)",
+      "publication_type": "Artykuł , Archives of Metallurgy and Materials",
+      "year": "2024",
+      "doi": "10.24425/amm.2024.147823",
+      "doi_url": "https://www.doi.org/10.24425/amm.2024.147823",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie, identyfikacja modeli i badania dynamiki układów mechanicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/550d8c47-3929-4726-a369-b65df9ba4327",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Dynamika żurawia samojezdnego z uwzględnieniem odkształcalności poprzecznej wysięgnika teleskopowego oraz wzdłużnej siłownika zmiany wysięgu a także siłownika zmiany wysięgu a także siłowników podporowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/1112531b-c1b7-4625-b73a-d8562a4e0edf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i badania dynamiki, analiza stateczności oraz optymalizacja cyklu roboczego żurawia samochodowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/c0937da4-ff9a-490f-bb79-4cd3740ac944",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie, analiza i optymalizacja cyklu roboczego manipulatorów o czterech stopniach swobody",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/dbb18541-ea6a-44ec-9407-1cb69524a2d2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/dcacb511-e158-45d5-a7ca-4a6c159df921",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Anallytical Approach to Modelling, Analysis and Dynamics Studies on Parametrically Induced Payload Pendulation in Offshore Lifting Operations",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/0e4c3c86-12c9-48bc-a41f-ce7cdb570cfd",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Szacowanie wybranych własności dynamicznych z uwzględnieniem kontaktu na przykładzie kompozytów włóknistych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.cekus.0fByYIZrHgf/research-work/6558e4c7-58e2-4319-8c60-220f79a487d6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=132359"
+    }
+  ],
+  "tag_cloud": [
+    "simulation",
+    "modeling",
+    "load",
+    "solidworks",
+    "pso",
+    "manipulator",
+    "duty cycle",
+    "wind pressure",
+    "cykl roboczy",
+    "rotary crane"
+  ],
+  "coworkers": []
+}

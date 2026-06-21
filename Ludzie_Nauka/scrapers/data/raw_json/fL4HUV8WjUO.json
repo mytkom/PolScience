@@ -1,0 +1,222 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO",
+  "slug": "jerzy.korczak",
+  "profile_id": "fL4HUV8WjUO",
+  "full_name": "dr hab. Jerzy Andrzej Korczak",
+  "orcid": "0000-0002-0509-331X",
+  "orcid_url": "https://orcid.org/0000-0002-0509-331X",
+  "breadcrumb_name": "Jerzy Korczak",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "logistyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Wyższa Szkoła Administracji i Biznesu im. Eugeniusza Kwiatkowskiego w Gdyni",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/aa3c4635-ddb3-465a-b158-2256e5823248",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki o obronności",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuki Wojennej; Wydział Zarządzania i Dowodzenia",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9f331029-df2a-4c91-ba42-2951f52e10b1"
+        },
+        {
+          "label": "Akademia Sztuki Wojennej >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fea43f3f-0e69-4f13-aaa3-d651e479abf8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki o obronności",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuki Wojennej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fea43f3f-0e69-4f13-aaa3-d651e479abf8"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Oficer dyplomowany",
+      "details_json": [
+        "ogólnokwatermistrzowskie",
+        "Nadanie tytułu",
+        "Akademia Sztabu Generalnego WP",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Determinants of Logistics Customer Service in a Service Enterprise",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/publications/01c83a47-36cc-4f41-97a4-3f7445120cac",
+      "authors": "D. Szatkowska, J. Korczak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Distribution Process in a Manufacturing Company",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/publications/f09cbfbb-b3b0-4622-bea7-f487068316c3",
+      "authors": "J. Jabczyński, J. Korczak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Strategic Analysis of a Transport Company. Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/publications/16b03f19-012d-4f00-a4be-c40bde8fcfb0",
+      "authors": "D. Tkachova, J. Korczak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/research-work/f597355d-96eb-4dcf-abbe-3ce3dd42874e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Logistyka Centrum Szkolenia Obrony Przeciwlotniczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/research-work/ab945f02-ce7f-4289-a270-6155862d13be",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie logistyką miejską a elektromobilność",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.korczak.fL4HUV8WjUO/research-work/003fe898-2f73-4d31-b099-b4919575e99f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=84921"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

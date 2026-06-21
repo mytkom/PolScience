@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj",
+  "slug": "szymon.maćkowiak",
+  "profile_id": "vRRyRi4p8hj",
+  "full_name": "dr inż. Szymon Maćkowiak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Szymon Maćkowiak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Collegium Da Vinci z siedzibą w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/023319de-3ea4-4e9d-b693-ff0c3f2e62fb",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Fizyki Technicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f35ca2b4-6fa5-4d45-807f-2a62f02e8251"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comprehensive representation of the Lennard-Jones equation of state based on molecular dynamics simulation data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/publications/7d36555c-138f-4725-aa64-92d0b7e7e881",
+      "authors": "S. Pieprzyk, A. Brańka [...] S. Maćkowiak , ... (+3)",
+      "publication_type": "Artykuł , Journal of Chemical Physics",
+      "year": "2018",
+      "doi": "10.1063/1.5021560",
+      "doi_url": "https://www.doi.org/10.1063/1.5021560",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A Nosé-Hoover Thermostat Adapted to a Slab Geometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/publications/962d0358-6a5c-45d3-9a34-4b8b1f2b399f",
+      "authors": "S. Pieprzyk, A. Brańka, S. Maćkowiak , ... (+1)",
+      "publication_type": "Artykuł , Computational Methods in Science and Technology",
+      "year": "2017",
+      "doi": "10.12921/cmst.2016.0000060",
+      "doi_url": "https://www.doi.org/10.12921/cmst.2016.0000060",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Non-Equilibrium Phase Behavior of Confined Molecular Films at Low Shear Rates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/publications/b37e34d3-659c-4403-a17b-ade93c9b5a4b",
+      "authors": "S. Maćkowiak , S. Mackowiak, D. Heyes, ... (+3)",
+      "publication_type": "Artykuł , Physica Status Solidi (B): Basic Research",
+      "year": "2017",
+      "doi": "10.1002/pssb.201600862",
+      "doi_url": "https://www.doi.org/10.1002/pssb.201600862",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Własności tribologiczne układów cząsteczek w geometrii szczeliny w warunkach kontrolowanego ciśnienia badane metodą Dynamiki Molekularnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.ma%C4%87kowiak.vRRyRi4p8hj/research-work/73c05389-97d0-4e1f-a47a-9dfe840ba8d4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287931"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

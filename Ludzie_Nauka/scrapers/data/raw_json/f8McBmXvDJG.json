@@ -1,0 +1,205 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG",
+  "slug": "maciej.popenda",
+  "profile_id": "f8McBmXvDJG",
+  "full_name": "dr inż. Maciej Andrzej Popenda",
+  "orcid": "0000-0002-9420-4148",
+  "orcid_url": "https://orcid.org/0000-0002-9420-4148",
+  "breadcrumb_name": "Maciej Popenda",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "technika światłowodowa",
+    "czujniki światłowodowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Refractive Index Sensors Based on Long-Period Grating in a Negative Curvature Hollow-Core Fiber",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/publications/6b7a77f9-15a8-4f5e-90fd-4c3d406e6ab5",
+      "authors": "H. Stawska, M. Popenda",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21051803",
+      "doi_url": "https://www.doi.org/10.3390/s21051803",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Fluorescence Anisotropy Sensor Comprising a Dual Hollow-Core Antiresonant Fiber Polarization Beam Splitter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/publications/113d5714-edb4-4ee0-a3b4-b840aafe2db8",
+      "authors": "H. Stawska, M. Popenda",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2020",
+      "doi": "10.3390/s20113321",
+      "doi_url": "https://www.doi.org/10.3390/s20113321",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A dual hollow core antiresonant optical fiber coupler based on a highly birefringent structure-numerical design and analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/publications/d63926da-491d-4a93-8019-8b4651cc8c87",
+      "authors": "H. Stawska, M. Popenda",
+      "publication_type": "Artykuł , Fibers",
+      "year": "2019",
+      "doi": "10.3390/fib7120109",
+      "doi_url": "https://www.doi.org/10.3390/fib7120109",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Czujniki światłowodowe w zastosowaniu do diagnostyki medycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.popenda.f8McBmXvDJG/research-work/12c4e4bd-341e-40e2-947c-e9f88fbf4f39",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=304041"
+    }
+  ],
+  "tag_cloud": [
+    "spectroscopy",
+    "światłowody o pustym rdzeniu",
+    "światłowody z pustym rdzeniem",
+    "czujniki światłowodowe oparte na światłowodach fotonicznych",
+    "światłowody fotoniczne",
+    "światłowody antyrezonansowe",
+    "mikrosoczewki",
+    "non-linear optics",
+    "laser",
+    "photonic fiber sensors"
+  ],
+  "coworkers": []
+}

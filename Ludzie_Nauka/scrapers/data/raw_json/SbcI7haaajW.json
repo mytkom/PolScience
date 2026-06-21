@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW",
+  "slug": "karol.abratkiewicz",
+  "profile_id": "SbcI7haaajW",
+  "full_name": "dr inż. Karol Abratkiewicz",
+  "orcid": "0000-0002-5694-1294",
+  "orcid_url": "https://orcid.org/0000-0002-5694-1294",
+  "breadcrumb_name": "Karol Abratkiewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Corrections to “Windowed Two-Dimensional Fourier Transform Concentration and Its Application to ISAR Imaging”",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/publications/bc22c41f-313d-4b48-a550-14c42d774fe7",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Transactions on Image Processing",
+      "year": "2025",
+      "doi": "10.1109/tip.2024.3517252",
+      "doi_url": "https://www.doi.org/10.1109/tip.2024.3517252",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/publications/e7a39d30-f0b2-4212-8099-2fdf4a1f1948",
+      "authors": "U. Libal, K. Abratkiewicz , A. Wielgus, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Real-Time CUDA Implementation of High-Order Vertical Synchrosqueezing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/publications/54f377e1-bbb3-4f0c-9a0c-e8d23957f747",
+      "authors": "J. Gambrych, K. Abratkiewicz",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Methods of analysis and synthesis for radar signals using chirp rate estimation in the time-frequency domain”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.abratkiewicz.SbcI7haaajW/research-work/a5c2470f-730a-40c2-bb11-efae2652e63d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "radar remote sensing",
+    "passive coherent location",
+    "short-time fourier transform",
+    "vertical synchrosqueezing",
+    "passive radar",
+    "radar signal processing",
+    "5g",
+    "otfs modulation",
+    "joint radar-communications",
+    "second-order vertical synchrosqueezing"
+  ],
+  "coworkers": []
+}

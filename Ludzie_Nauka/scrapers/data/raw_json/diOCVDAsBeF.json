@@ -1,0 +1,121 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF",
+  "slug": "natalia.szarwińska",
+  "profile_id": "diOCVDAsBeF",
+  "full_name": "mgr inż. Natalia Szarwińska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Natalia Szarwińska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologie kosmiczne i satelitarne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Budget Multi-Camera System for Pose Detection and 3D Reconstruction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.szarwi%C5%84ska.diOCVDAsBeF/publications/fa0cd5e3-961d-49fa-9a9c-c48ceb101a75",
+      "authors": "A. Bujnowski, P. Przystup [...] N. Szarwińska , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/hsi66212.2025.11142448",
+      "doi_url": "https://www.doi.org/10.1109/hsi66212.2025.11142448",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

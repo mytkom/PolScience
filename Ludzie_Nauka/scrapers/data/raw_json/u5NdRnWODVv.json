@@ -1,0 +1,201 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv",
+  "slug": "krzysztof.cabaj",
+  "profile_id": "u5NdRnWODVv",
+  "full_name": "dr hab. Krzysztof Cabaj",
+  "orcid": "0000-0002-5955-5890",
+  "orcid_url": "https://orcid.org/0000-0002-5955-5890",
+  "breadcrumb_name": "Krzysztof Cabaj",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy informacyjne",
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cyber4OT dataset: Network traces for cyber-security vulnerability evaluation in industrial control systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/publications/7266c307-20a5-4fa1-8fc8-298293297793",
+      "authors": "K. Cabaj , S. Plamowski, P. Chaber, ... (+5)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2025.102196",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102196",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "ReWaP: Reversible Watermarking and Paillier Encryption Approach for Privacy-Preserving Smart Meter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/publications/1cfd489e-91fd-4f19-8346-ecda5dc525a6",
+      "authors": "K. Cabaj , F. Kabir, T. Koohpayeh Araghi, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-00635-6_20",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-00635-6_20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Meta-Analysis of State-of-the-Art Automated Fake News Detection Methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/publications/5b2fc1bc-2e6c-4d7f-bceb-7ffd09d2849d",
+      "authors": "W. Mazurczyk, R. Kozik [...] K. Cabaj , ... (+4)",
+      "publication_type": "Artykuł , IEEE Transactions on Computational Social Systems",
+      "year": "2024",
+      "doi": "10.1109/tcss.2023.3296627",
+      "doi_url": "https://www.doi.org/10.1109/tcss.2023.3296627",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza i przeciwdziałanie atakom sieciowym ze szczególnym uwzględnieniem złośliwego oprogramowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/research-work/78217731-211e-497f-bca8-16b7821153dd",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nowe podejście do odkrywania wiedzy w strumieniu danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/research-work/574b2b89-1369-4129-9621-94100a2e6e7b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Rozproszony algorytm analizy cyberbezpieczeństwa w sieci korporacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cabaj.u5NdRnWODVv/research-work/4f7ababf-92f3-404c-a636-fcba3c84e508",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=223911"
+    }
+  ],
+  "tag_cloud": [
+    "graduate cybersecurity education",
+    "gnghe",
+    "malware",
+    "fake news",
+    "network security",
+    "information hiding",
+    "5g",
+    "testowanie bezpieczeństwa",
+    "software-defined networking",
+    "software defined networks"
+  ],
+  "coworkers": []
+}

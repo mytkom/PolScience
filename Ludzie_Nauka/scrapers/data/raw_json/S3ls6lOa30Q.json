@@ -1,0 +1,258 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q",
+  "slug": "izabela.skrzypczak",
+  "profile_id": "S3ls6lOa30Q",
+  "full_name": "dr hab. inż. Izabela Maria Skrzypczak",
+  "orcid": "0000-0003-0978-3040",
+  "orcid_url": "https://orcid.org/0000-0003-0978-3040",
+  "breadcrumb_name": "Izabela Skrzypczak",
+  "current_employment_summary": [
+    "Państwowa Akademia Nauk Stosowanych w Krośnie",
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "budownictwo betonowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Stanisława Pigonia w Krośnie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Krośnie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza; Wydział Budownictwa, Inżynierii Środowiska i Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/acb1fecc-dfdf-447d-acc9-5a128545563b"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        },
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Krośnie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im. I. Lukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Krośnie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa, Geodezja i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/gremiums/79e9c3b9-2a90-45c3-8d55-ae20ab0445fc",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ground‑penetrating radar investigations as an example of anthropogenic prospection in an urban space",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/publications/b7e76e9d-063d-46c6-a4a2-c963f0a3f375",
+      "authors": "R. Lichołai, B. Rajchel, I. Skrzypczak , ... (+2)",
+      "publication_type": "Artykuł , Materiały Budowlane - Science",
+      "year": "2025",
+      "doi": "10.15199/33.2025.12.12",
+      "doi_url": "https://www.doi.org/10.15199/33.2025.12.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Liquidity index of the Lublin loess as a function of cone resistance qc from CPTU test",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/publications/8bcb91c4-ea99-4fbb-80b9-33fa6966659b",
+      "authors": "K. Nepelski, W. Gosk [...] I. Skrzypczak , ... (+3)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-94629-3",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-94629-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Metody kontroli jakości betonu towarowego a niezawodność konstrukcji żelbetowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/publications/3dc0a369-a348-472a-a316-5fce9a9e7857",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/60fe5779-fa8d-47b0-ab41-3df267987cd4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Statystyczna i rozmyta kontrola wytrzymałości betonu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/d95fc5fd-d781-4915-a31f-c9a854f00663",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena niezawodności i bezpieczeństwa konstrukcji budowlanej i jej elementów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/6a1c54a7-5472-471a-b697-4fad1a3be063",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ czynników geotechniczno-konstrukcyjnych na stateczność wybranych osuwisk na terenie fliszu karpackiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/51759b27-3f71-4991-b7e5-700d73f04275",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "The behawior of masonry stiffening walls based on the full-scale research",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/f0a1c189-511e-4b97-bc1c-9493fe4b432b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Metodyka określania właściwości fizyko-mechanicznych drewna w istniejących konstrukcjach na podstawie badań semi-nieniszczących",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.skrzypczak.S3ls6lOa30Q/research-work/cd652d99-23b6-4117-8055-3ecfed0b41dd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=128066"
+    }
+  ],
+  "tag_cloud": [
+    "mapa podatności",
+    "coefficient of variation",
+    "współczynnik filtracji",
+    "statistical-fuzzy method",
+    "artificial intelligence",
+    "sustainability",
+    "material properties",
+    "kąt tarcia wewnętrznego",
+    "environmental monitoring",
+    "dimensional control"
+  ],
+  "coworkers": []
+}

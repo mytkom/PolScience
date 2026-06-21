@@ -1,0 +1,260 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN",
+  "slug": "paweł.idziak",
+  "profile_id": "rN4otwzMnQN",
+  "full_name": "dr hab. inż. Paweł Idziak",
+  "orcid": "0000-0002-1995-4088",
+  "orcid_url": "https://orcid.org/0000-0002-1995-4088",
+  "breadcrumb_name": "Paweł Idziak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne",
+    "układy wykonawcze automatyki",
+    "energetyka odnawialna",
+    "maszyny i napęd elektryczny"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "49 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Akademia im. Jakuba z Paradyża",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bafdd534-9afd-4d8d-9412-30dc2d48ab6b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1985",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1977",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Elektrotechniki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/gremiums/1b289226-8117-4efd-999f-53de0c9fe769",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Elektrycznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/gremiums/11662874-db54-4aa5-a16c-a4767e5d327a",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/gremiums/e711bcb9-8565-4898-a5b7-3ed056b843c9",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Dynamic Wireless Power Transfer System for Supplying a Model Rail Vehicle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/publications/b1fae386-6434-4b51-91d8-1934a5c9e5fb",
+      "authors": "M. Wilgosz, M. Kurzawa, P. Idziak",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.12.2",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.12.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electromagnetic environmental hazards: electric motors powered by power electronic converters vs. the ICNIRP standard guidelines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/publications/facb64a6-b47c-4861-b385-7bc6e5bb15e4",
+      "authors": "R. Wojciechowski, M. Kurzawa, P. Idziak , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.12.3",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.12.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optymalizacja bezszczotkowego silnika prądu stałego do napędów pojazdów elektrycznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/publications/e040d748-8ccb-46da-a2ff-46b9e3055cb1",
+      "authors": "Ł. Knypiński, K. Kasprzak, P. Idziak",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.10.8",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.10.8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wybranych zjawisk sprzężonych zachodzących w maszynach elektrycznych prądu stałego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/research-work/755ae2c8-a469-40f4-9a61-269a069be717",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza zjawisk elektromagnetycznych i elektromechanicznych w bezszczotkowych i komutatorowych silnikach wzbudzanych magnesami trwałymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/research-work/98304322-3ec4-46da-a924-28366c1ca773",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza sił wibracyjnych działających na ściany kadzi tranformatorów wielkich mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/research-work/cbc9bbd1-1d12-4902-aad7-42b1ee263666",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Układy generacji energii elektrycznej wykorzystywane w elektrowniach wodnych małej mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.idziak.rN4otwzMnQN/research-work/547ef9bd-787d-4dd3-9029-d59f54bb6d60",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=37901"
+    }
+  ],
+  "tag_cloud": [
+    "pole elektromagnetyczne niskich częstotliwości",
+    "low frequency electromagnetic field",
+    "dc-dc converter",
+    "składowe symetryczne napięcia",
+    "electromagnetic torque",
+    "osłony magnetyczne",
+    "magic shields",
+    "magnetyczna skuteczność ekranowania",
+    "three-dimensional field model",
+    "finite element analysis"
+  ],
+  "coworkers": []
+}

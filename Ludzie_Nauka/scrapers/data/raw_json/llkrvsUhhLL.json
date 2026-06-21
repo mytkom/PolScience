@@ -1,0 +1,360 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL",
+  "slug": "piotr.lorens",
+  "profile_id": "llkrvsUhhLL",
+  "full_name": "prof. dr hab. inż. arch. Piotr Lorens",
+  "orcid": "0000-0003-4245-1021",
+  "orcid_url": "https://orcid.org/0000-0003-4245-1021",
+  "breadcrumb_name": "Piotr Lorens",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "planowanie przestrzenne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Sopocka Szkoła Wyższa z siedzibą w Sopocie Aktualna nazwa: Sopocka Akademia Nauk Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce4dd171-ea6a-4e21-9982-6181689f7c0e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Inżynierii Gospodarki w Słupsku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/870fc5dc-fa42-4ea3-bb3d-0bf37a5f3a5c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Gdański Uniwersytet Medyczny >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2d5f7a9-7583-4415-a4b9-516367b9efcb"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1994",
+      "degree_or_title": "Inżynier architekt",
+      "details_json": [
+        "atchitektura i urbanistyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Gdański Uniwersytet Medyczny >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2d5f7a9-7583-4415-a4b9-516367b9efcb"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/gremiums/999db877-90b1-4405-a8be-919d07f72c07",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Architektury i Urbanistyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/gremiums/d6af2529-0f67-4ce1-8ad9-808b548bb813",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komitet Przestrzennego Zagospodarowania Kraju",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/gremiums/cfa38057-ad15-4699-a844-4017bf67b94d",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Rada Towarzystw Naukowych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/gremiums/67d5da7a-f1d9-435d-abd4-f98726b86f9d",
+      "period": "2007-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Rethinking Design Priorities: Towards Human Scale and Sustaining Culture in Disadvantage Neighbourhoods – A Case Study from Beirut",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/publications/9b33c242-a844-473d-be98-39493a1c6c8e",
+      "authors": "B. Bou Kalfouni, B. Kalfouni [...] P. Lorens , ... (+1)",
+      "publication_type": "Artykuł , Środowisko Mieszkaniowe/Housing Environment",
+      "year": "2025",
+      "doi": "10.2478/he-2025-0012",
+      "doi_url": "https://www.doi.org/10.2478/he-2025-0012",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluating urban identity of Gdańsk historical inner city and Granary Island urban regeneration from a neighbourhood perspective",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/publications/8dda0720-56b9-4a8b-ab5c-ceea8e2fc72c",
+      "authors": "E. Manahasa, K. Boriçi, P. Lorens , ... (+1)",
+      "publication_type": "Artykuł , Geographia Polonica",
+      "year": "2024",
+      "doi": "10.7163/gpol.0284",
+      "doi_url": "https://www.doi.org/10.7163/gpol.0284",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "MAPPING OF PLANNING INSTRUMENTS IN THE CONTEXT OF THE 15-MINUTE CITY",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/publications/6527e1cb-48b6-4534-a65b-4be46c1fde9a",
+      "authors": "W. Mazurkiewicz, P. Bone, P. Lorens , ... (+2)",
+      "publication_type": "Książka , Urząd Miasta Gdańsk",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rewitalizacja frontów wodnych nadmorskich miast portowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/c2c978a7-98a4-4dbb-9a1f-e5678191ac0f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Port jachtowy jako element przestrzeni publicznej miasta nadmorskiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/922c574e-fdfa-4fce-b17a-d11078701c6c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Współczesne instrumenty kształtowania obrzeżnych struktur miejskich o charakterze kompleksowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/8ad9466b-ab51-4e52-a37e-53136b1c1d46",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Przekształcenia przestrzeni publicznej miasta średniej wielkości w warunkach gospodarki rynkowej w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/137549e3-160b-4723-b94a-fdb8be9d07e0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": ",,Przekształcenia przestrzenne zlikwidowanych zakładów górniczych węgla kamiennego na terenie aglomeracji górnośląskiej’’",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/1fc50330-6ac9-47bd-80d8-8ba34ca0d621",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Znaczenie stadionów piłkarskich i kompozycja ich otoczenia w aglomeracjach Europy Środkowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/78392647-c9f1-44a9-8be5-dc44b321a279",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Ewolucja koncepcji ekspresjonistycznej w niemieckiej i austriackiej architekturze współczesnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lorens.llkrvsUhhLL/research-work/c474054f-1597-48a0-9a8e-3d6cdcfbf03d",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=104874"
+    }
+  ],
+  "tag_cloud": [
+    "urban planning",
+    "miasto współczesne",
+    "planowanie przekształceń",
+    "młode miasto",
+    "planowanie przestrzenne",
+    "gdańsk",
+    "rewitalizacja",
+    "recovered territories",
+    "public area of town",
+    "polish school of conservation"
+  ],
+  "coworkers": []
+}

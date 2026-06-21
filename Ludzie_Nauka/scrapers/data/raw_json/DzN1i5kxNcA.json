@@ -1,0 +1,163 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA",
+  "slug": "krzysztof.halawa",
+  "profile_id": "DzN1i5kxNcA",
+  "full_name": "dr inż. Krzysztof Tadeusz Halawa",
+  "orcid": "0000-0001-6508-0468",
+  "orcid_url": "https://orcid.org/0000-0001-6508-0468",
+  "breadcrumb_name": "Krzysztof Halawa",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieć ortogonalna wielowymiarowa",
+    "modelowanie układów dynamicznych",
+    "obiekty dynamiczne",
+    "sieci neuronowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A systematic review of effective data augmentation in cervical cancer detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/publications/b9bdfc32-d524-45be-bf06-958075388287",
+      "authors": "A. Rusiecki, K. Halawa , B. Wubineh",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153582",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153582",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "SE-DeepLabV3+: cervical cell segmentation and classification using a novel SE-based DeepLabV3+ and ensemble method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/publications/eccdc744-4814-439c-af13-78ea89aab48d",
+      "authors": "B. Wubineh, B. Zewdu Wubineh [...] K. Halawa , ... (+1)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3586764",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3586764",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "SPP-SegNet and SE-DenseNet201: a dual-model approach for cervical cell segmentation and classification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.halawa.DzN1i5kxNcA/publications/0e5c875f-938f-4981-aff7-89b2662e95ff",
+      "authors": "A. Rusiecki, K. Halawa , B. Wubineh",
+      "publication_type": "Artykuł , Cancers",
+      "year": "2025",
+      "doi": "10.3390/cancers17132177",
+      "doi_url": "https://www.doi.org/10.3390/cancers17132177",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=221996"
+    }
+  ],
+  "tag_cloud": [
+    "zarządzanie",
+    "vehicle dimensions estimation",
+    "wymiana danych między pojazdami",
+    "kalibracja",
+    "sumo",
+    "organizing",
+    "omnet ++",
+    "czas reakcji kierowcy",
+    "sygnalizacja świetlna",
+    "omnet++"
+  ],
+  "coworkers": []
+}

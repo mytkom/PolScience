@@ -1,0 +1,196 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst",
+  "slug": "paweł.ksieniewicz",
+  "profile_id": "cGZmBk4Akst",
+  "full_name": "dr hab. inż. Paweł Ksieniewicz",
+  "orcid": "0000-0001-9578-8395",
+  "orcid_url": "https://orcid.org/0000-0001-9578-8395",
+  "breadcrumb_name": "Paweł Ksieniewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Proceedings of the 8th International Students Workshop",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/publications/e2a73933-d181-44a5-b989-f117836a88e9",
+      "authors": "P. Ksieniewicz , W. Kmiecik",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Taking class imbalance into account in open set recognition evaluation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/publications/e16c9ce4-b11d-4aea-89a2-e3b26136b650",
+      "authors": "J. Komorniczak, P. Ksieniewicz",
+      "publication_type": "Artykuł , Neural Computing and Applications",
+      "year": "2025",
+      "doi": "10.1007/s00521-024-10960-2",
+      "doi_url": "https://www.doi.org/10.1007/s00521-024-10960-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Unsupervised concept drift detection based on parallel activations of neural network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/publications/546bee21-e6de-4be8-ab46-dc04cfeaa4ff",
+      "authors": "J. Komorniczak, P. Ksieniewicz",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-82346-6_8",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-82346-6_8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/research-work/39323cd1-e965-4c9c-9a80-38dbc8a3faf0",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Multidimensional data representation and analysis (tytuł pracy badawczej tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.ksieniewicz.cGZmBk4Akst/research-work/ede65eb2-dd7e-429c-ba84-72db67bf61b2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=284591"
+    }
+  ],
+  "tag_cloud": [
+    "nadpróbkowywanie syntetyczne",
+    "przetwarzanie obrazów",
+    "uczenie maszyn",
+    "dryft modelu",
+    "dane niezbalansowane",
+    "klasyfikacja",
+    "detekcja dryftu modelu",
+    "classifier evaluation",
+    "algorytm genetyczny",
+    "dane strumieniowe"
+  ],
+  "coworkers": []
+}

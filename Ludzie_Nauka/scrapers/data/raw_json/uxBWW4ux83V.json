@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V",
+  "slug": "piotr.gramacki",
+  "profile_id": "uxBWW4ux83V",
+  "full_name": "mgr inż. Piotr Łukasz Gramacki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Gramacki",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka stosowana",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "OBSR: Open Benchmark for spatial representations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/publications/918b7f27-11e8-4d6b-867e-7ab5a4cfba07",
+      "authors": "J. Moska, O. Furman [...] P. Gramacki , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3748636.3762783",
+      "doi_url": "https://www.doi.org/10.1145/3748636.3762783",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluation of code LLMs on geospatial code generation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/publications/5afc559a-5dcd-49d9-9d3d-1c265a13f40c",
+      "authors": "P. Gramacki , P. Szymański, B. Martins",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1145/3687123.3698286",
+      "doi_url": "https://www.doi.org/10.1145/3687123.3698286",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Massively multilingual corpus of sentiment datasets and multi-faceted sentiment classification benchmark",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gramacki.uxBWW4ux83V/publications/679ddf4d-2fd6-45de-bc96-0d5b567d11a5",
+      "authors": "L. Augustyniak, S. Woźniak, P. Gramacki , ... (+9)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0",
+  "slug": "mateusz.flont",
+  "profile_id": "5nPadO38Qb0",
+  "full_name": "dr Mateusz Flont",
+  "orcid": "0000-0003-1509-4815",
+  "orcid_url": "https://orcid.org/0000-0003-1509-4815",
+  "breadcrumb_name": "Mateusz Flont",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki o komunikacji społecznej i mediach",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "kulturoznastwo",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Zinology: state of research (Polish perspective)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/publications/8e140bb9-8e35-4226-82a0-99d90c164f0d",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Polska prasa alternatywna (1978-1998). Problemy rozwoju rodzaju prasowego, przemiany jego postaci i funkcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.flont.5nPadO38Qb0/research-work/59beed64-0369-4683-83d6-cd311985b7b8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Academia.edu",
+      "url": "https://jagiellonian.academia.edu/MateuszFlont"
+    },
+    {
+      "label": "Repozytorium Uniwersytetu Jagiellońskiego",
+      "url": "https://ruj.uj.edu.pl/xmlui/discover?query=Mateusz+Flont&submit=Id%C5%BA"
+    },
+    {
+      "label": "Zinelibrary",
+      "url": "https://zinelibrary.pl/"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

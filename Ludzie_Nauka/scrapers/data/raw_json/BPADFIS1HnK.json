@@ -1,0 +1,223 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK",
+  "slug": "mirosław.wołoszyn",
+  "profile_id": "BPADFIS1HnK",
+  "full_name": "dr hab. Mirosław Wołoszyn",
+  "orcid": "0000-0002-2663-2255",
+  "orcid_url": "https://orcid.org/0000-0002-2663-2255",
+  "breadcrumb_name": "Mirosław Wołoszyn",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektrotechnika teoretyczna",
+    "teoria pola elektromagnetycznego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektrotechniki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f9620d4-9201-44d1-bea8-35f65adf06bd"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Neural network for predicting ship magnetic signatures at arbitrary depths and courses: a comparison with the multi-dipole model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/publications/d191b6db-0a8e-4ba9-9f85-01b3cd749e03",
+      "authors": "K. Zielonacki, J. Tarnawski, M. Woloszyn",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-28425-4",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-28425-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Ship Magnetic Signature Classification Using GRU-Based Recurrent Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/publications/ff40c546-b2c8-4d24-a16f-354624e63b97",
+      "authors": "K. Zielonacki, J. Tarnawski, M. Woloszyn",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3557331",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3557331",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Minimization of a ship's magnetic signature under external field conditions using a multi-dipole model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/publications/dd4757ac-442b-4449-b471-092700662f28",
+      "authors": "M. Woloszyn , J. Tarnawski",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-58295-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-58295-1",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Lokalizacja i identyfikacja obiektów ferromagnetycznych z zastosowaniem magnetometrów skalarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/550cc20d-765f-47b1-8fbd-f151ea23ef91",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Lokalizacja i identyfikacja obiektów o właściwościach ferromagnetycznych metodą magnetometryczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/67d1bb11-7622-4f90-b5c2-979c94b106eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Dwustopniowy bezpiecznik z komutacją iskiernikową jako element układu formowania impulsów wielkiej mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/52e5412e-a03d-44a9-a284-d628350bb972",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Elektromagnetyczny system do oceny stanu struktur żelbetowych. Electromagnetic System for Evaluation of Reinforced Concrete Structures.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/54491685-3ba2-4155-bdb8-df3239558727",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja rozkładu przestrzennego wielowiązkowych linii kablowych w celu minimalizacji strat energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/119fe41f-bbd2-480a-a2e9-32eb469d5fce",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza pracy silnika indukcyjnego małej mocy zasilanego napięciem zawierającym subharmoniczne i interharmoniczne z wykorzystaniem modelu polowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.wo%C5%82oszyn.BPADFIS1HnK/research-work/dcd5e2aa-95ee-4fba-9ff5-c6fab54780fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=94530"
+    }
+  ],
+  "tag_cloud": [
+    "localization",
+    "marine vehicles",
+    "magnetic variables measurement",
+    "magnetic signatures",
+    "magnetic fields",
+    "electromagnetic modelling",
+    "model checking",
+    "sea measurements",
+    "magnetic anomaly detection",
+    "procesy komutacyjne"
+  ],
+  "coworkers": []
+}

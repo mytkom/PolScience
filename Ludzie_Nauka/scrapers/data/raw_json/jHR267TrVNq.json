@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq",
+  "slug": "michał.gandor",
+  "profile_id": "jHR267TrVNq",
+  "full_name": "mgr inż. Michał Jerzy Gandor",
+  "orcid": "0000-0002-7028-0525",
+  "orcid_url": "https://orcid.org/0000-0002-7028-0525",
+  "breadcrumb_name": "Michał Gandor",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel RANCOM-RAM-based framework for city assessment based on cost of living",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/publications/411a610e-0ba5-458e-b68e-48959fa98a57",
+      "authors": "A. Shekhovtsov, M. Gandor , R. Pawlak, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.10.046",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.10.046",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A robust framework for sustainable vehicle assessment: Integrating FN-TOPSIS with subjective weighting methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/publications/2fc38f3d-683a-4576-99f7-de602c45f33f",
+      "authors": "M. Gandor , B. Kizielewicz, R. Pawlak, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.10.045",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.10.045",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Alleviating the siphon effect on age of information in D2D-enabled social IoT networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gandor.jHR267TrVNq/publications/c0b1221a-ddfe-412d-9f4d-5e27a44053b0",
+      "authors": "S. Chandra, -. Prateek [...] M. Gandor , ... (+3)",
+      "publication_type": "Artykuł , IEEE Transactions on Consumer Electronics",
+      "year": "2025",
+      "doi": "10.1109/tce.2025.3602504",
+      "doi_url": "https://www.doi.org/10.1109/tce.2025.3602504",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

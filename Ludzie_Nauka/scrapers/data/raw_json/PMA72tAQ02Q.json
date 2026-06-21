@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q",
+  "slug": "monika.rojewska",
+  "profile_id": "PMA72tAQ02Q",
+  "full_name": "dr inż. Monika Rojewska",
+  "orcid": "0000-0002-8814-6711",
+  "orcid_url": "https://orcid.org/0000-0002-8814-6711",
+  "breadcrumb_name": "Monika Rojewska",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5a218395-7880-4d1c-a97c-7db297b065cc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Glycyrrhiza glabra L. Saponins Modulate the Biophysical Properties of Bacterial Model Membranes and Affect Their Interactions with Tobramycin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/publications/68db072e-df4e-4dfd-a391-5ca3b552cf2d",
+      "authors": "A. Grzywaczyk, M. Rojewska , W. Smułek, ... (+5)",
+      "publication_type": "Artykuł , Langmuir",
+      "year": "2025",
+      "doi": "10.1021/acs.langmuir.5c00927",
+      "doi_url": "https://www.doi.org/10.1021/acs.langmuir.5c00927",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of a mucoadhesion testing protocol using a vertical force measurement system for chitosan- and pectin-based lyophilized polymer matrices and enteric-coated capsules",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/publications/329c387f-9ae9-431d-8abc-9c51b0620967",
+      "authors": "M. Zielińska, M. Rojewska , A. Voelkel, ... (+2)",
+      "publication_type": "Artykuł , International Journal of Biological Macromolecules",
+      "year": "2025",
+      "doi": "10.1016/j.ijbiomac.2025.147145",
+      "doi_url": "https://www.doi.org/10.1016/j.ijbiomac.2025.147145",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Interactions of Anti-HIV Pronucleotides with a Model Phospholipid Membrane",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/publications/f7837b9c-15aa-484c-afa0-676106360da4",
+      "authors": "M. Rojewska , J. Romanowska, A. Kraszewski, ... (+2)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie właściwości adsorpcyjnych dwuskładnikowych mieszanin zawierających czwartorzędowe pochodne substancji lizosomotropowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/research-work/3653cc84-e507-4ddf-b5b3-dad16d1bc649",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Właściwości powierzchniowe i morfologia mukoadhezyjnych polimerów i ich mieszanin jako komponentów nośników leku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.rojewska.PMA72tAQ02Q/research-work/cc119751-98f0-400c-a89d-cf919a9e765a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260437"
+    }
+  ],
+  "tag_cloud": [
+    "antimicrobials",
+    "oddziaływanie polimerów z mucyną",
+    "wettability",
+    "swelling",
+    "mucoadhesive polymers",
+    "mucoadhesion strength",
+    "polimery mukoadhezyjne",
+    "sfe",
+    "zwilżalność",
+    "lipidy"
+  ],
+  "coworkers": []
+}

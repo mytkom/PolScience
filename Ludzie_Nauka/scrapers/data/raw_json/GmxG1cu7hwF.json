@@ -1,0 +1,113 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF",
+  "slug": "hubert.hawłas",
+  "profile_id": "GmxG1cu7hwF",
+  "full_name": "mgr inż. Hubert Jan Hawłas",
+  "orcid": "0000-0002-2256-5622",
+  "orcid_url": "https://orcid.org/0000-0002-2256-5622",
+  "breadcrumb_name": "Hubert Hawłas",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Alcohol addiction diagnosis on the basis of the polysomnographic parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/publications/6341b1d8-41ea-4518-838a-7fa919a8acfb",
+      "authors": "K. Lewenstein, H. Hawłas , E. Ślubowska",
+      "publication_type": "Artykuł , Polish Journal of Medical Physics and Engineering",
+      "year": "2020",
+      "doi": "10.2478/pjmpe-2020-0019",
+      "doi_url": "https://www.doi.org/10.2478/pjmpe-2020-0019",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Predictive Algorithm for the Insulin Dose Selection with Continuous Glucose Monitoring System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.haw%C5%82as.GmxG1cu7hwF/publications/8a99e61b-a3d5-4718-b48b-a10835c012ae",
+      "authors": "H. Hawłas , K. Lewenstein",
+      "publication_type": "Artykuł",
+      "year": "2014",
+      "doi": "10.1007/978-3-319-02294-9_97",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-02294-9_97",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

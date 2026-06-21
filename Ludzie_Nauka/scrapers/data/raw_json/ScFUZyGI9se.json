@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se",
+  "slug": "anna.kloska",
+  "profile_id": "ScFUZyGI9se",
+  "full_name": "dr Anna Kloska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Kloska",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki medyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of Weekly and Triweekly Cisplatin Regimens in the Treatment of Head and Neck Cancer: A Systematic Review and Meta-Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/publications/033fdf6d-b353-4398-b290-2f08bec10a39",
+      "authors": "S. Kloska, A. Kloska",
+      "publication_type": "Artykuł , Cancers",
+      "year": "2025",
+      "doi": "10.3390/cancers17091444",
+      "doi_url": "https://www.doi.org/10.3390/cancers17091444",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Predicting preterm birth using machine learning methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/publications/cd279494-6195-4c87-8911-40ed2450f40f",
+      "authors": "S. Kloska, A. Kloska , A. Harmoza, ... (+2)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-89905-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-89905-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessing the diagnostic accuracy of artificial intelligence in post-endovascular aneurysm repair endoleak detection using dual-energy computed tomography angiography",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/publications/2e9ddf1a-fd7f-4916-aea9-b394651849e3",
+      "authors": "E. Nowak, M. Białecki [...] A. Kloska , ... (+3)",
+      "publication_type": "Artykuł , Polish Journal of Radiology",
+      "year": "2024",
+      "doi": "10.5114/pjr/192115",
+      "doi_url": "https://www.doi.org/10.5114/pjr/192115",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Use of Artificial Intelligence Methods for Classification of X-Ray Images of Patients with Lung Diseases",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kloska.ScFUZyGI9se/research-work/81618056-a959-423e-b8da-4ede105f8b0e",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=320918"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

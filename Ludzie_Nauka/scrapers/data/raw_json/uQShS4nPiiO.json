@@ -1,0 +1,242 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO",
+  "slug": "grzegorz.robak",
+  "profile_id": "uQShS4nPiiO",
+  "full_name": "dr hab. inż. Grzegorz Marek Robak",
+  "orcid": "0000-0003-2751-7248",
+  "orcid_url": "https://orcid.org/0000-0003-2751-7248",
+  "breadcrumb_name": "Grzegorz Robak",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika pękania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cf7e175b-dea9-49a3-8290-d5b93900303b"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cf7e175b-dea9-49a3-8290-d5b93900303b"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "POLITECHNIKA OPOLSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Measurement of precision and quality characteristics of lattice structures in metal-based additive manufacturing using computer tomography analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/publications/83ee6554-594d-4ea1-b495-ab0b5db31887",
+      "authors": "K. Moj, R. Owsiński, G. Robak , ... (+3)",
+      "publication_type": "Artykuł , Measurement",
+      "year": "2024",
+      "doi": "10.1016/j.measurement.2024.114582",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2024.114582",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of the numerical homogenization method for cellular structures manufactured by Selective Laser Melting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/publications/b4404492-95c3-4597-862b-676149d3e429",
+      "authors": "K. Moj, G. Robak , R. Owsiński",
+      "publication_type": "Artykuł , Procedia Structural Integrity",
+      "year": "2024",
+      "doi": "10.1016/j.prostr.2024.02.046",
+      "doi_url": "https://www.doi.org/10.1016/j.prostr.2024.02.046",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Determination of cell size/structures and mechanical properties of additively manufactured metallic components using X-ray technique",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/publications/f062badb-be73-4cc5-8537-550c657216a2",
+      "authors": "K. Moj, R. Owsiński, G. Robak , ... (+1)",
+      "publication_type": "Artykuł , Rapid Prototyping Journal",
+      "year": "2023",
+      "doi": "10.1108/rpj-02-2023-0048",
+      "doi_url": "https://www.doi.org/10.1108/rpj-02-2023-0048",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza zmienności wybranych parametrów w funkcji liczby cykli do zniszczenia oraz szacowanie trwałości elementów z karbem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/04091f43-2a9e-4b18-a1c1-d6ab7145c197",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Trwałość materiałów przy zginaniu ze skręcaniem z uwzględnieniem propagacji pęknięć",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/6e338293-8f8b-4353-a499-ccf9a7ccd399",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Trwałość materiałów przy zginaniu ze skręcaniem w zakresie propagacji pęknięć",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/ca461852-627a-4869-b490-720155d506ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod nielokalnych przy wyznaczaniu trwałości zmęczeniowej elementów z karbem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/aaf4ebf8-59c1-499b-992f-2f826e8491ed",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ocena wpływu technologii wytwarzania kompozytów kolagenowych modyfikowanych strukturami węglowymi na ich właściwości użytkowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/62e730a8-6322-4ccc-b8fd-19fcd5d11124",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "OBSERWACJA MECHANIZMU INICJACJI, PROPAGACJI I KUMULACJI USZKODZEŃ ORAZ PROGNOZOWANIE TRWAŁOŚCI ZMĘCZENIOWEJ W ZAKRESIE CYKLICZNYCH OBCIĄŻEŃ WIELOOSIOWYCH.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/6630e655-b738-4325-9ed7-09bc6cba72f7",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza właściwości mechanicznych struktur przestrzennych wytwarzanych w technologiach przyrostowych z proszków stopu 316L",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.robak.uQShS4nPiiO/research-work/3375251b-8314-413d-91b0-5af37947f000",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=201896"
+    }
+  ],
+  "tag_cloud": [
+    "qualitative assessment",
+    "fatigue life calculation",
+    "weight function",
+    "mechanika materiałów",
+    "effective length",
+    "fatigue life",
+    "microstructural length",
+    "stress gradient",
+    "critical plane",
+    "fatigue notch factor"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd",
+  "slug": "andrzej.wojeński",
+  "profile_id": "a28SidSXEVd",
+  "full_name": "dr inż. Andrzej Jerzy Wojeński",
+  "orcid": "0000-0003-1664-5949",
+  "orcid_url": "https://orcid.org/0000-0003-1664-5949",
+  "breadcrumb_name": "Andrzej Wojeński",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektronika",
+    "układy FPGA",
+    "zaawansowane systemy pomiarowo-kontrolne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i inżynieria komputerowa",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reconstruction of tungsten concentration in WEST plasma core with Machine Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/publications/85f45f50-c146-4ade-bf01-f3a4a1f98a03",
+      "authors": "A. Wojeński , A. Jardin, P. Linczuk, ... (+25)",
+      "publication_type": "Artykuł , Plasma Physics and Controlled Fusion",
+      "year": "2025",
+      "doi": "10.1088/1361-6587/ade62a",
+      "doi_url": "https://www.doi.org/10.1088/1361-6587/ade62a",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "X-ray tomographic measurement and modeling for inferring tungsten impurity distribution in WEST plasmas: A review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/publications/19b436d7-d9c8-4d12-8754-78b01d0b3f87",
+      "authors": "A. Wojeński , A. Jardin, D. Mazon, ... (+17)",
+      "publication_type": "Artykuł , Review of Scientific Instruments",
+      "year": "2025",
+      "doi": "10.1063/5.0261113",
+      "doi_url": "https://www.doi.org/10.1063/5.0261113",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Hardware acceleration of complex HEP algorithms with HLS and FPGAs: Methodology and preliminary implementation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/publications/08c9a72f-4ac3-4d96-b8a4-33228ae634dc",
+      "authors": "A. Wojenski , H. Zbroszczyk, M. Kruszewski, ... (+10)",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2024",
+      "doi": "10.1016/j.cpc.2023.108997",
+      "doi_url": "https://www.doi.org/10.1016/j.cpc.2023.108997",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Szybka diagnostyka promieniowania domieszek w plazmie tokamakowej z wykorzystaniem detektora GEM i układów FPGA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.woje%C5%84ski.a28SidSXEVd/research-work/3a5ddb41-e344-4008-a67f-d1791a137125",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=289766"
+    }
+  ],
+  "tag_cloud": [
+    "x-ray detectors",
+    "electron multipliers (gas)",
+    "gem",
+    "hdl",
+    "fpga",
+    "tokamak",
+    "gem detector",
+    "measurement system",
+    "data processing",
+    "modular measurement system"
+  ],
+  "coworkers": []
+}

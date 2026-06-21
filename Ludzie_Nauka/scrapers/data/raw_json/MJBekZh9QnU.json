@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU",
+  "slug": "maria.kukurba",
+  "profile_id": "MJBekZh9QnU",
+  "full_name": "dr Maria Jolanta Kukurba",
+  "orcid": "0000-0003-2298-287X",
+  "orcid_url": "https://orcid.org/0000-0003-2298-287X",
+  "breadcrumb_name": "Maria Kukurba",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "finanse",
+    "rachunkowość"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Zarządzania w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/19bce288-1e6e-47f5-8cf2-7a7f11a37656",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Główna Handlowa w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c7c10a2a-f381-4dc2-8511-53400ceb4a90"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1984",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ekonomika i organizacja obrotu towarowego i usług",
+        "Nadanie tytułu",
+        "Szkoła Główna Planowania i Statystyki w Warszawie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ekonomia",
+        "Nadanie tytułu",
+        "Szkoła Główna Planowania i Statystyki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Crowdfunding : szanse i wyzwania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/publications/de5e5aa5-75a6-44a4-9876-89b183b7df68",
+      "authors": "A. Waszkiewicz, M. Salwin, M. Kukurba , ... (+4)",
+      "publication_type": "Książka , Szkoła Główna Handlowa w Warszawie",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Model biznesowy crowdfundingu w Polsce a zrównoważony rozwój – transfer wartości",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/publications/95b9df4c-1723-4257-b273-8494185316a4",
+      "authors": "A. Waszkiewicz, M. Kukurba , C. Wójcik, ... (+1)",
+      "publication_type": "Artykuł , Optimum. Economic Studies",
+      "year": "2023",
+      "doi": "10.15290/oes.2023.02.112.04",
+      "doi_url": "https://www.doi.org/10.15290/oes.2023.02.112.04",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Model of Value Transfer in Crowdfunding and Sustainable Development of Small and Medium-Sized Enterprises in Poland—Based on Survey Research",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/publications/010d6e0e-d74a-4336-b163-47e2bf36ed65",
+      "authors": "A. Waszkiewicz, M. Kukurba , M. Salwin",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2023",
+      "doi": "10.3390/su151612594",
+      "doi_url": "https://www.doi.org/10.3390/su151612594",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Miejsce i rola rachunkowości zarządczej w systemie zarządzania przedsiębiorstwem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kukurba.MJBekZh9QnU/research-work/a9825459-06e4-46bc-8790-dcb9972edffd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=110861"
+    }
+  ],
+  "tag_cloud": [
+    "akcelerator",
+    "bibliometric analysis",
+    "sektor bankowy",
+    "finansowanie społecznościowe",
+    "accelerator",
+    "pzedsiębiorstwo typu start-up",
+    "małe i średnie przedsiębiorstwa",
+    "literature review",
+    "analiza bibliometryczna",
+    "startup"
+  ],
+  "coworkers": []
+}

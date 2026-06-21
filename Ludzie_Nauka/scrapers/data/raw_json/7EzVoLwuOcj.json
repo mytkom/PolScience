@@ -1,0 +1,200 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj",
+  "slug": "bartosz.wieczorek",
+  "profile_id": "7EzVoLwuOcj",
+  "full_name": "dr hab. inż. Bartosz Wieczorek",
+  "orcid": "0000-0003-0808-298X",
+  "orcid_url": "https://orcid.org/0000-0003-0808-298X",
+  "breadcrumb_name": "Bartosz Wieczorek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria wirtualna projektowania maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Inżynierii Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe698f8e-adcd-44bf-b9a0-77b06ccc5e91"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Determining the Air-Fuel Ratio (AFR) for Gasoline and Gasoline-Ethanol Blends (E5 and E10): Differences in Calculation Methods and Technical and Commercial Simplifications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/publications/4c7bc95a-19a3-4343-998f-eea2158b3b42",
+      "authors": "Ł. Warguła, D. Małozięć [...] B. Wieczorek , ... (+1)",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2026",
+      "doi": "10.17512/jamcm.2026.1.05",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2026.1.05",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental determination of the pressure center shift in a wheelchair anti-rollback module based on contact force and rolling resistance torque",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/publications/51d5217a-c4ae-4e9a-a1b2-6f15d6c36b42",
+      "authors": "B. Wieczorek , Ł. Warguła",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2026",
+      "doi": "10.12913/22998624/214359",
+      "doi_url": "https://www.doi.org/10.12913/22998624/214359",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Anti-slip properties of thermally modified hardwoods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/publications/0e35baab-0e47-4c7f-92d7-aef4a615f416",
+      "authors": "J. Majka, M. Sydor [...] B. Wieczorek , ... (+1)",
+      "publication_type": "Artykuł , European Journal of Wood and Wood Products",
+      "year": "2025",
+      "doi": "10.1007/s00107-024-02152-5",
+      "doi_url": "https://www.doi.org/10.1007/s00107-024-02152-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Studia nad rozwojem środków lokomocji techniki asystującej (na przykładzie innowacyjnych wózków inwalidzkich i ich rodzin)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/research-work/b10b6af2-5b96-4478-8128-29c3b33cc2de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "System wspomagania decyzji podczas projektowania racjonalnego układu urządzeń i instalacji w siłowni okrętowej z wykorzystaniem algorytmu genetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.wieczorek.7EzVoLwuOcj/research-work/eae563f0-e16c-4ada-9600-64ffe93cb1ba",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270573"
+    }
+  ],
+  "tag_cloud": [
+    "manual wheelchair",
+    "simulation study",
+    "steel pipe",
+    "wood chipper",
+    "wheelchair",
+    "small engine",
+    "volumetric output",
+    "motorcycle use",
+    "polymer concrete",
+    "cast iron"
+  ],
+  "coworkers": []
+}

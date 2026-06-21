@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ",
+  "slug": "maciej.sadowski",
+  "profile_id": "9fOzJ8u8chZ",
+  "full_name": "dr inż. Maciej Sadowski",
+  "orcid": "0000-0001-5921-6365",
+  "orcid_url": "https://orcid.org/0000-0001-5921-6365",
+  "breadcrumb_name": "Maciej Sadowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radiokomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ESWSE – Elektroniczny System Wspomagania Skutecznej Ewakuacji",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/publications/6e64189f-f26b-465f-96ea-654306e6257c",
+      "authors": "W. Walendziuk, M. Słowik [...] M. Sadowski , ... (+5)",
+      "publication_type": "Artykuł , Wiadomości Elektrotechniczne",
+      "year": "2024",
+      "doi": "10.15199/74.2024.1.1",
+      "doi_url": "https://www.doi.org/10.15199/74.2024.1.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "ESWSE – Elektroniczny System Wspomagania Skutecznej Ewakuacji – oprogramowanie",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/publications/1019b07c-7043-45be-8875-92189d74cd17",
+      "authors": "M. Słowik, W. Walendziuk [...] M. Sadowski , ... (+5)",
+      "publication_type": "Artykuł , Wiadomości Elektrotechniczne",
+      "year": "2024",
+      "doi": "10.15199/74.2024.2.1",
+      "doi_url": "https://www.doi.org/10.15199/74.2024.2.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Indoor Positioning Based on Bluetooth RSSI Mean Estimator for the Evacuation Supervision System Application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/publications/f1e6f213-9360-472d-bafd-8237429e5231",
+      "authors": "D. Janczak, W. Walendziuk, M. Sadowski , ... (+4)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2024",
+      "doi": "10.1109/access.2024.3389986",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3389986",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zasilanie i szerokopasmowe dopasowanie wielowrotnikowych układów antenowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sadowski.9fOzJ8u8chZ/research-work/8d202f1b-2ac2-4dcd-9ee8-8e960f757ece",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=120074"
+    }
+  ],
+  "tag_cloud": [
+    "smart building",
+    "proximity tracing system",
+    "teutonic order",
+    "niższe seminarium duchowne",
+    "redemptoryści",
+    "localization",
+    "rssi",
+    "first world war",
+    "industry 4.0",
+    "received signal strength intensity"
+  ],
+  "coworkers": []
+}

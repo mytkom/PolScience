@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC",
+  "slug": "kamila.zeńczak-tomera",
+  "profile_id": "6oEKUkhQcbC",
+  "full_name": "dr inż. Kamila Maria Zeńczak-Tomera",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Kamila Zeńczak-Tomera",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Environmentally friendly green O-alkylation reaction for ethenzamide synthesis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/publications/5f7d39ae-3338-4aab-94d8-23e6f6a8ee30",
+      "authors": "D. Kułaga, J. Jaśkowska [...] K. Zeńczak-Tomera , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15031342",
+      "doi_url": "https://www.doi.org/10.3390/app15031342",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Facile synthesis of a cholesterol–doxorubicin conjugate using cholesteryl-4-nitrophenolate as an activated ester and biological property analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.ze%C5%84czak-tomera.6oEKUkhQcbC/publications/4a62f96f-e588-40da-8890-1dff0c2e28f2",
+      "authors": "J. Jaśkowska, K. Zeńczak-Tomera , P. Freitas, ... (+4)",
+      "publication_type": "Artykuł , Organics",
+      "year": "2025",
+      "doi": "10.3390/org6010006",
+      "doi_url": "https://www.doi.org/10.3390/org6010006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=246053"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

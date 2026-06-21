@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX",
+  "slug": "janusz.jakubiak",
+  "profile_id": "NJ5oVPF3vEX",
+  "full_name": "dr inż. Janusz Krzysztof Jakubiak",
+  "orcid": "0000-0002-6710-8820",
+  "orcid_url": "https://orcid.org/0000-0002-6710-8820",
+  "breadcrumb_name": "Janusz Jakubiak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "planowanie ruchu robotów mobilnych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fast detection of idler supports using density histograms in belt conveyor inspection with a mobile robot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/publications/f6921868-6372-41c9-b330-fea8179a94f1",
+      "authors": "J. Jakubiak , J. Delicat",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app142310774",
+      "doi_url": "https://www.doi.org/10.3390/app142310774",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A mobile robot-based system for automatic inspection of belt conveyors in mining industry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/publications/83663f58-5550-4c82-8ba8-68a6841acd18",
+      "authors": "J. Szrek, J. Jakubiak , R. Zimroz",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15010327",
+      "doi_url": "https://www.doi.org/10.3390/en15010327",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Control synthesis for multiple mobile robot systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/publications/55e68a7d-0472-44f5-ad60-4d1ea9a24928",
+      "authors": "E. Roszkowska, J. Jakubiak",
+      "publication_type": "Artykuł , Transactions of the Institute of Measurement and Control",
+      "year": "2021",
+      "doi": "10.1177/01423312211047061",
+      "doi_url": "https://www.doi.org/10.1177/01423312211047061",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Lokalizacja i mapowanie w systemach robotów mobilnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.jakubiak.NJ5oVPF3vEX/research-work/6492f172-6fa2-4e67-93a6-277a34fde096",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=131238"
+    }
+  ],
+  "tag_cloud": [
+    "planowanie ruchu",
+    "architektura oprogramowania układu sterowania",
+    "manipulator mobilny",
+    "sensor głębi",
+    "robot mobilny",
+    "afiniczny układ sterowania",
+    "mobile robot",
+    "sterowanie robotem",
+    "badania użytkowników",
+    "sterowanie optymalne"
+  ],
+  "coworkers": []
+}

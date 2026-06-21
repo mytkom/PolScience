@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT",
+  "slug": "łukasz.kolek",
+  "profile_id": "ABqiVe2PXGT",
+  "full_name": "dr inż. Łukasz Kolek",
+  "orcid": "0000-0002-5720-3496",
+  "orcid_url": "https://orcid.org/0000-0002-5720-3496",
+  "breadcrumb_name": "Łukasz Kolek",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41b42e85-449a-4692-994b-a2b74353f099"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Akademia Górniczo - Hutnicza im. S. Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Thermal Conductivity of Sustainable Earthen Materials Stabilized by Natural and Bio-Based Polymers: An Experimental and Statistical Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/publications/a5782936-d392-4a50-9f5f-af9df2f0aa6c",
+      "authors": "R. Shoukat, Ł. Kolek , M. Cappai, ... (+5)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18123144",
+      "doi_url": "https://www.doi.org/10.3390/en18123144",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Design of Crystal Growth Dimensionality in Synthetic Wax: The Kinetics of Nonisothermal Crystallization Processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/publications/deac6c27-5787-465c-956c-da9aded2b214",
+      "authors": "Ł. Kolek , T. Rozwadowski",
+      "publication_type": "Artykuł , The Journal of Physical Chemistry B",
+      "year": "2023",
+      "doi": "10.1021/acs.jpcb.3c05158",
+      "doi_url": "https://www.doi.org/10.1021/acs.jpcb.3c05158",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Molecular dynamics and kinetics of isothermal cold crystallization with tunable dimensionality in a molecular glass former, 5′-(2,3-difluorophenyl)-2′-ethoxy-4-pentyloxy-2,3-difluorotolane",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/publications/c222d4cf-85fe-45b4-9d17-d04ee63f34c8",
+      "authors": "H. Noda, Y. Yamamura [...] Ł. Kolek , ... (+6)",
+      "publication_type": "Artykuł , Physical Chemistry Chemical Physics",
+      "year": "2023",
+      "doi": "10.1039/d2cp03638j",
+      "doi_url": "https://www.doi.org/10.1039/d2cp03638j",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania dynamiki i przejść fazowych w wybranych ciekłych kryształach z fazą ferroelektryczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kolek.ABqiVe2PXGT/research-work/b7cc4c78-109f-42a0-ad1e-c94bed24c156",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=271317"
+    }
+  ],
+  "tag_cloud": [
+    "transition",
+    "compound",
+    "polymorphism",
+    "superalloys",
+    "nickel",
+    "microstructure",
+    "relaxation",
+    "positron annihilation spectroscopy",
+    "aluminide coatings zirconium positron annihilation spectroscopy tem analysis",
+    "diagram"
+  ],
+  "coworkers": []
+}

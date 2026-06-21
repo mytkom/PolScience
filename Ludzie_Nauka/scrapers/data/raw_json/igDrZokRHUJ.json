@@ -1,0 +1,266 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ",
+  "slug": "przemysław.kazienko",
+  "profile_id": "igDrZokRHUJ",
+  "full_name": "prof. dr hab. inż. Przemysław Ryszard Kazienko",
+  "orcid": "0000-0001-5868-356X",
+  "orcid_url": "https://orcid.org/0000-0001-5868-356X",
+  "breadcrumb_name": "Przemysław Kazienko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "systemy informacji naukowo technicznej",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "AggTruth: contextual hallucination detection using aggregated attention scores in LLMs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/publications/d42238b1-8104-4a18-9e96-9399c361067d",
+      "authors": "P. Matys, J. Eliasz [...] P. Kazienko , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97570-7_18",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97570-7_18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Architectural concepts for integrating fundamental drives and emotions into artificial intelligence",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/publications/968ed46b-e048-4086-b27a-437357ec0b5d",
+      "authors": "T. Ferdinan, W. Mieleszczenko-Kowszewicz [...] P. Kazienko , ... (+1)",
+      "publication_type": "Artykuł , IEEE Intelligent Systems",
+      "year": "2025",
+      "doi": "10.1109/mis.2025.3622004",
+      "doi_url": "https://www.doi.org/10.1109/mis.2025.3622004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exploring real-life psychophysiological states with self-supervised learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/publications/d47af32b-8352-4ffb-92c6-75afbd949c1e",
+      "authors": "D. Kunc, P. Kazienko , S. Saganowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/percomworkshops65533.2025.00140",
+      "doi_url": "https://www.doi.org/10.1109/percomworkshops65533.2025.00140",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Associations: Discovery, Analysis and Applications",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/94487248-00d4-45b8-9707-6c5a909c2422",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Grupowanie dokumentów hipertekstowych na podstawie drzewa maksymalnych przepływów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/cd174df2-58ab-4658-9528-3fe554b799d3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Maximizing the Spread of Influence in Temporal Social Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/55efb118-3764-45cd-829f-c49e2f8f0914",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Classification Methods Based on Multi-label Problem Transformation (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/b022c859-dc3e-43b0-a715-b38d8eb8be3c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "A Method for Group Extraction and Analysis in Multi-layered Social Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/a7bc43a3-7155-4292-b752-d9a3182af8ce",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Towards trustworthy automated data science",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/e351ac9b-28e1-4940-ab04-4f399ea0967b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/440da830-d3da-48cc-8278-8e53e1c418fd",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "In search of the most efficient and memory-saving visualization of high dimensional data",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kazienko.igDrZokRHUJ/research-work/ede9db3a-7f70-427d-baac-a36014fba65b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=93098"
+    }
+  ],
+  "tag_cloud": [
+    "gep",
+    "diffusion",
+    "klasyfikacja",
+    "sieci społeczne",
+    "sieć społeczna",
+    "analiza sieci społecznych",
+    "sieci złożone",
+    "emocje",
+    "ged",
+    "uczenie maszynowe"
+  ],
+  "coworkers": []
+}

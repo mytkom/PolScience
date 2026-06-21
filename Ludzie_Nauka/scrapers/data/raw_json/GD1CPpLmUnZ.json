@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ",
+  "slug": "przemysław.falkowski-gilski",
+  "profile_id": "GD1CPpLmUnZ",
+  "full_name": "dr inż. Przemysław Janusz Falkowski-Gilski",
+  "orcid": "0000-0001-8920-6969",
+  "orcid_url": "https://orcid.org/0000-0001-8920-6969",
+  "breadcrumb_name": "Przemysław Falkowski-Gilski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radiokomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evolutionary Artificial Intelligence. Proceedings of ICEAI 2024",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/publications/e917db1a-416f-4f71-a3c6-6f16eafd31a0",
+      "authors": "P. Falkowski-Gilski , D. Asirvatham, K. Ntalianis",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-5210-5",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-5210-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-Joint Symmetric Optimization Approach for Unmanned Aerial Vehicle Assisted Edge Computing Resources in Internet of Things-Based Smart Cities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/publications/e8fb25ac-f834-4422-b25d-8f570fd83f9f",
+      "authors": "A. Chelladurai, M. Deepak, P. Falkowski-Gilski , ... (+1)",
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2025",
+      "doi": "10.3390/sym17040574",
+      "doi_url": "https://www.doi.org/10.3390/sym17040574",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Smart adaptive learning and optimized feature clustering for enhanced image retrieval",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/publications/b66e1b0c-f6c5-4f11-9f2f-0e7333422f30",
+      "authors": "P. Falkowski-Gilski , P. Umaeswari, S. Patil, ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-10375-6",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-10375-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie i analiza efektywności transmisji w radiofonii cyfrowej DAB+",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.falkowski-gilski.GD1CPpLmUnZ/research-work/2ff86fc3-cb28-4a79-b276-f247ad768808",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=286517"
+    }
+  ],
+  "tag_cloud": [
+    "multimedia",
+    "pomiary jakości",
+    "quality evaluation",
+    "qos (quality of service)",
+    "mobile devices",
+    "quality of service",
+    "iot",
+    "android os",
+    "multimedia content",
+    "transmisja multimediów"
+  ],
+  "coworkers": []
+}

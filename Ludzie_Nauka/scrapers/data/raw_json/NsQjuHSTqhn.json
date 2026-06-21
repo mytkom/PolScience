@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn",
+  "slug": "tomasz.mrozek",
+  "profile_id": "NsQjuHSTqhn",
+  "full_name": "dr inż. Tomasz Mrozek",
+  "orcid": "0000-0002-2821-2908",
+  "orcid_url": "https://orcid.org/0000-0002-2821-2908",
+  "breadcrumb_name": "Tomasz Mrozek",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mobile information and communication system to support building of therapy groups in addiction treatment using a trust mechanism",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/publications/94071cdd-ab14-465e-8875-e884cd7ee70b",
+      "authors": "K. Perlicki, T. Mrozek",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153556",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153556",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Smart Medical Evacuation Support System for the Military",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/publications/d847bc58-7ec5-406c-b2a3-a407d2296aa7",
+      "authors": "J. Krygier, P. Łubkowski [...] T. Mrozek , ... (+4)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24144581",
+      "doi_url": "https://www.doi.org/10.3390/s24144581",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Using ADTS and CNN methods to effectively monitor CD, crosstalk, and OSNR in an optical network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.mrozek.NsQjuHSTqhn/publications/bebb4985-7231-4ecc-8822-ec7197418984",
+      "authors": "T. Mrozek , K. Perlicki",
+      "publication_type": "Artykuł , Opto-Electronics Review",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "information quality",
+    "information quality management",
+    "optical performance monitoring",
+    "osnr",
+    "chromatic dispersion",
+    "asynchronous delay tap sampling",
+    "deep learning",
+    "convolutional neural networks",
+    "traffic light power system",
+    "information quality assessment"
+  ],
+  "coworkers": []
+}

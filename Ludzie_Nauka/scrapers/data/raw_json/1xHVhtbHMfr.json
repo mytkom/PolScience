@@ -1,0 +1,277 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr",
+  "slug": "piotr.bujak",
+  "profile_id": "1xHVhtbHMfr",
+  "full_name": "dr hab. inż. Piotr Andrzej Bujak",
+  "orcid": "0000-0003-2162-961X",
+  "orcid_url": "https://orcid.org/0000-0003-2162-961X",
+  "breadcrumb_name": "Piotr Bujak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia fizyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Śląski w Katowicach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/gremiums/b795cbdb-282d-4ba4-a31d-100dea5b2c51",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Nauki Chemiczne 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Nauki Chemiczne Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hydrophobic and Hydrophilic Ag–In–Zn–S Alloyed Quantum Dots as Efficient Photocatalysts for Controlled RAFT Polymerization of Vinyl Monomers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/publications/cf08158c-68d5-4a5c-86fc-a012e0f5d7bc",
+      "authors": "P. Bujak , M. Penkala, A. Iuliano, ... (+6)",
+      "publication_type": "Artykuł , ChemPhotoChem",
+      "year": "2026",
+      "doi": "10.1002/cptc.202500401",
+      "doi_url": "https://www.doi.org/10.1002/cptc.202500401",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Spectral diffusion of single Ag-In-Zn-S quantum dots elucidates the photoluminescence mechanism",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/publications/08f69003-71c2-41d8-babb-0fee2fdaa91d",
+      "authors": "A. Proń, P. Kowalik [...] P. Bujak , ... (+5)",
+      "publication_type": "Artykuł , Journal of Chemical Physics",
+      "year": "2025",
+      "doi": "10.1063/5.0290296",
+      "doi_url": "https://www.doi.org/10.1063/5.0290296",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Ag–In–Zn–S alloyed nanocrystals as photocatalysts of controlled light-mediated radical polymerization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/publications/d6528e19-c50c-4e75-b7cb-9c206bf4494d",
+      "authors": "P. Kowalik, P. Bujak , M. Penkala, ... (+4)",
+      "publication_type": "Artykuł , Chemical Communications",
+      "year": "2024",
+      "doi": "10.1039/d3cc06088h",
+      "doi_url": "https://www.doi.org/10.1039/d3cc06088h",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowe nanomateriały nieorganiczne i organiczne o kontrolowanych właściwościach elektronowych i luminescencyjnych: otrzymywanie, badania spektroskopowe, strukturalne i elektrochemiczne oraz przykłady zastosowań",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/f4c7559d-e512-4603-bf0b-ffc304f22bbb",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Charakterystyka mikrostrukturalna wybranych kopolimerów akrylowych za pomocą spektroskopii NMR",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/b49d835a-eade-4cd5-a507-daab3db95aff",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wieloskładnikowe nanokryształy nietoksycznych półprzewodników nieorganicznych: otrzymywanie, modyfikacja powierzchni, właściwości spektroskopowe i elektrochemiczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/243c7fad-5471-461d-9e20-de903ac8244a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nanometaliczne katalizatory Au, Ag, Pd, Pt synteza i zastosowania w reakcjach utleniania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/97d3bc5b-895d-49cf-8ca6-54caba1417fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Carbon nanotubes and graphene at the interface and in the 3D-network: physicochemical modifications for functional systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/3442935a-7de5-48ff-933a-ea6b5365de32",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza oraz analiza procesów kinetycznych w pojedynczych koloidalnych kwazi-molekułach budowanych w oparciu o dwie kropki kwantowe sprzężone w bliskim polu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/dafc3966-8864-4f73-b760-c1683bea6b71",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Rekonfigurowalne nanomateriały organiczno – nieorganiczne uzyskane z wykorzystaniem materiałów ciekłokrystalicznych – badania struktury, procesów samoorganizacji i właściwości chiroptycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bujak.1xHVhtbHMfr/research-work/746ebee3-0a91-43f1-84f8-a874a8cf8162",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=212521"
+    }
+  ],
+  "tag_cloud": [
+    "colloids",
+    "nieorganiczne półprzewodniki",
+    "unsymmetrical bisacridines; folic acid; targeted cancer therapy; quantum dots; drug delivery nanosystem; drug release; lysosomal content",
+    "termoelektryczne materiały",
+    "cufes2",
+    "materiał termoelektryczny",
+    "targeted cancer therapy",
+    "cysteine",
+    "organic electronics donor-acceptor copolymers polymer photodetectors near-infrared photodetectors bulk heterojunction organic photodiodes",
+    "nanochemistry"
+  ],
+  "coworkers": []
+}

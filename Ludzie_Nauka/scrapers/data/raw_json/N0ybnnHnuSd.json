@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd",
+  "slug": "witold.hołubowicz",
+  "profile_id": "N0ybnnHnuSd",
+  "full_name": "dr hab. Witold Piotr Hołubowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Witold Hołubowicz",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+    "Uniwersytet im. Adama Mickiewicza w Poznaniu"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teleinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "22 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "15 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1993",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "How to Effectively Collect and Process Network Data for Intrusion Detection?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/publications/4c835011-959d-4102-b5d3-145b49fa6613",
+      "authors": "W. Hołubowicz , M. Komisarek, M. Pawlicki, ... (+2)",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2021",
+      "doi": "10.3390/e23111532",
+      "doi_url": "https://www.doi.org/10.3390/e23111532",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The Proposition and Evaluation of the RoEduNet-SIMARGL2021 Network Intrusion Detection Dataset",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/publications/e34232e1-6863-4e4e-996f-2f5a115af630",
+      "authors": "W. Hołubowicz , M. Mihailescu, M. Carabas, ... (+5)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21134319",
+      "doi_url": "https://www.doi.org/10.3390/s21134319",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Common Representational Model and Ontologies for Effective Law Enforcement Solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/publications/b37f9e41-fb2e-45b8-b72c-3496e4e4cfbf",
+      "authors": "R. Kozik, M. Choraś [...] W. Hołubowicz , ... (+9)",
+      "publication_type": "Artykuł , Vietnam Journal of Computer Science",
+      "year": "2020",
+      "doi": "10.1142/s2196888820020017",
+      "doi_url": "https://www.doi.org/10.1142/s2196888820020017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Pewne aspekty optymalnego doboru sygnałów CPM bez kodowania lub z kodowaniem splotowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work/711516d6-b119-495c-806d-863fe9f2879e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja, własności i ocena jakości kodowanych splotowo sygnałów z ciągłą modulacją fazy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work/af2b6f39-1e42-4c29-8321-55bf5159b25d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wykrywanie źródeł fałszywych wiadomości w sieciach społecznościowych.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work/327f530e-76d8-420c-94be-dd295b7880f8",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda wykrywania botnetów oparta na klasteryzacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work/10a58e8b-b3de-46b2-8558-77edded3ea0f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wykorzystanie technik eksploracji danych do wykrywania działań nieuprawnionych w sieciach sterowanych programowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.ho%C5%82ubowicz.N0ybnnHnuSd/research-work/fb17a557-00ec-4afc-8e9e-fc744488c4f7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=10887"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

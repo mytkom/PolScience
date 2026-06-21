@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP",
+  "slug": "robert.wrembel",
+  "profile_id": "8S0fQkiIePP",
+  "full_name": "dr hab. inż. Robert Andrzej Wrembel",
+  "orcid": "0000-0001-6037-5718",
+  "orcid_url": "https://orcid.org/0000-0001-6037-5718",
+  "breadcrumb_name": "Robert Wrembel",
+  "current_employment_summary": [
+    "Politechnika Poznańska",
+    "Uniwersytet Kazimierza Wielkiego w Bydgoszczy"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy baz danych",
+    "hurtownie danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/aee66fdd-cc30-4ef1-95ea-91a5a6d168d1",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advances in databases and information systems - Selected papers from ADBIS 2023",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/publications/51774ca1-ca9f-478d-be79-8d71d4d37bcc",
+      "authors": "A. Abelló, L. Bellatreche [...] R. Wrembel , ... (+2)",
+      "publication_type": "Artykuł , Information Systems",
+      "year": "2025",
+      "doi": "10.1016/j.is.2024.102509",
+      "doi_url": "https://www.doi.org/10.1016/j.is.2024.102509",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Data Integration for Data Science: Solutions and Still Open Problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/publications/f41d3d4b-508e-4584-9801-91ba0bf3cfb3",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-05727-3_21",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-05727-3_21",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Data Integration in the AI Era: Research Trends and Still Open Issues",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/publications/76ba1625-3a8e-4d1c-9d4c-b80e2a505790",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-02215-8_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-02215-8_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Management of Schema and Data Evolution in Multiversion Data Warehouse",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work/db50ab69-10bc-4d95-9b2f-b8113edaf28b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "The Construction and Maintenance of Materialised Objected-oriented Views in Data Warehousing Systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work/3445edb9-7f5a-4607-91d8-db1fa5e66552",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modele i metody strumieniowych hurtowni danych w systemach detekcji anomalii krytycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work/b6a98469-e425-4ada-8cb7-8eba2c24f7fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Indeksowanie i równoważenie obciążeń w rozproszonych systemach przestrzenno- temporalnych hurtowni danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work/3bf80d3e-04a5-4f8d-ae2e-78321b583e5c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Optymalizacja warstwy dostępu do danych w aplikacjach korzystających z odwzorowań obiektowo relacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.wrembel.8S0fQkiIePP/research-work/b6907429-4f75-461f-afa6-4c734ee5dfc1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=103430"
+    }
+  ],
+  "tag_cloud": [
+    "legal analytics",
+    "fog computing",
+    "data processing pipeline",
+    "data quality",
+    "data integration",
+    "metadata",
+    "big data",
+    "classification algorithms on legal data",
+    "analiza danych przestrzenno-czasowych",
+    "etl process repair"
+  ],
+  "coworkers": []
+}

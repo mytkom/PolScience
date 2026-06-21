@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7",
+  "slug": "iraida.demchenko",
+  "profile_id": "0RRgYakGPI7",
+  "full_name": "dr hab. inż. Iraida Demchenko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Iraida Demchenko",
+  "current_employment_summary": [
+    "Instytut Fizyki Plazmy i Laserowej Mikrosyntezy",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "spektroskopia rentgenowska"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Instytut Fizyki Plazmy i Laserowej Mikrosyntezy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/af3897e6-5183-462d-8b0b-b6a6469b5fda",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "13 lat 2 miesiące",
+      "duration": null,
+      "institution": "Instytut Fizyki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "wydział fizyki",
+        "Nadanie tytułu",
+        "Uniwersytet w Doniecku",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Local structure modification around Si atoms in Si-implanted monocrystalline β-Ga2O3 (100) under heated substrate conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/publications/66896769-6582-4254-8b5b-7d4ba856279a",
+      "authors": "I. Demchenko , Y. Syryanyy, A. Shokri Gheshlaghi, ... (+13)",
+      "publication_type": "Artykuł , Acta Materialia",
+      "year": "2025",
+      "doi": "10.1016/j.actamat.2025.121036",
+      "doi_url": "https://www.doi.org/10.1016/j.actamat.2025.121036",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Terahertz Conductivity of Gadolinium Thin Films Deposited on Sapphire Substrate",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/publications/336520d8-c735-40f8-98c7-f0794798b231",
+      "authors": "C. Steiner, S. Wong [...] I. Demchenko , ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1364/cleo_at.2025.jps100_175",
+      "doi_url": "https://www.doi.org/10.1364/cleo_at.2025.jps100_175",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid Density Functional Theory Study on the Formation Energies of Donor and Acceptor N Impurities in β‐Ga 2 O 3",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/publications/c2ffb0f1-85cb-4d22-a5f1-a40b6a470e51",
+      "authors": "A. Shokri Gheshlaghi, Y. Syryanyy [...] I. Demchenko , ... (+2)",
+      "publication_type": "Artykuł , Physica Status Solidi (B): Basic Research",
+      "year": "2024",
+      "doi": "10.1002/pssb.202400448",
+      "doi_url": "https://www.doi.org/10.1002/pssb.202400448",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Charakteryzacja elektronowych oraz strukturalnych właściwości materiałów o różnym stopniu uporządkowania i wymiarowości badanych dla wybranych pierwiastków oraz orbitali za pomocą spektroskopii promieni X",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/research-work/4e45cb1c-8ff4-4b40-903b-3a3e6b59347c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie absorpcji rentgenowskiej do charakteryzacji niskowymiarowych struktur półprzewodnikowych na bazie Si/Ge/Si",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/research-work/af7328de-549b-4cae-9d34-cc96016b7a15",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Określenie zmian lokalnej struktury w warstwach Ga 1-x Mn x As wokół atomów Mn zachodzących przy wygrzewaniu termicznym w zakresie 250 - 450 °C",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iraida.demchenko.0RRgYakGPI7/research-work/b32a064c-9489-4a59-8b7b-5b6017c81671",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "ferromagnetic resonance",
+    "superconductivity",
+    "dft",
+    "pixe",
+    "xps",
+    "rbs",
+    "si/nb/si",
+    "electron multipliers (gas)",
+    "micropattern gaseous detectors",
+    "laser pulses"
+  ],
+  "coworkers": []
+}

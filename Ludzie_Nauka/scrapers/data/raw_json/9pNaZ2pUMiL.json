@@ -1,0 +1,239 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL",
+  "slug": "michał.nikodem",
+  "profile_id": "9pNaZ2pUMiL",
+  "full_name": "dr hab. inż. Michał Paweł Nikodem",
+  "orcid": "0000-0001-9192-1793",
+  "orcid_url": "https://orcid.org/0000-0001-9192-1793",
+  "breadcrumb_name": "Michał Nikodem",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "optyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat 3 miesiące",
+      "duration": null,
+      "institution": "Wrocławskie Centrum Badań EIT+ Sp. z o.o. Aktualna nazwa: Sieć Badawcza Łukasiewicz - PORT Polski Ośrodek Rozwoju Technologii",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b4a408ef-359b-46df-a6dc-5a0bb5511a72",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Podstawowych Problemów Techniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/883056c9-6fdf-4e67-a36e-0ffa5c16daa7"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/gremiums/53d7c61e-07a1-403d-8d4e-004c9ed7764a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Młodych Naukowców",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/gremiums/752263fa-1aa0-4432-9d23-d65f933333ae",
+      "period": "2013-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Michał Nikodem"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Demonstration of a compact reflective gas sensing probe based on a negative-curvature hollow-core fiber",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/publications/b3e730ce-00f0-43e4-b470-d7a6838a1d01",
+      "authors": "P. Gronowicz, G. Gomółka [...] M. Nikodem , ... (+2)",
+      "publication_type": "Artykuł , Applied Optics",
+      "year": "2025",
+      "doi": "10.1364/ao.560251",
+      "doi_url": "https://www.doi.org/10.1364/ao.560251",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fast response multi-segment anti-resonant hollow-core fiber methane sensor at 1687 nm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/publications/106ae31e-6623-4b7b-ac05-52dc5b1ec0c6",
+      "authors": "G. Gomółka, A. Filipkowski, M. Nikodem , ... (+2)",
+      "publication_type": "Artykuł , Optical Fiber Technology",
+      "year": "2024",
+      "doi": "10.1016/j.yofte.2024.103744",
+      "doi_url": "https://www.doi.org/10.1016/j.yofte.2024.103744",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Gas leak detection by measuring dilution of ambient air with differential optical dispersion spectroscopy of oxygen",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/publications/b8ef2edc-0ecf-44b2-9d54-61776afe8b04",
+      "authors": "G. Gomółka, M. Nikodem",
+      "publication_type": "Artykuł , Optics Express",
+      "year": "2024",
+      "doi": "10.1364/oe.543869",
+      "doi_url": "https://www.doi.org/10.1364/oe.543869",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Laserowa spektroskopia molekularna z wykorzystaniem zjawiska dyspersji w pobliżu linii absorpcyjnych j jej zastosowania do detekcji śladowych stężeń gazów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/research-work/2e404291-411d-447d-bad4-6e58e2a3e651",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Stabilne spektralnie grzebienie częstotliwości optycznych w trzecim oknie telekomunikacyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/research-work/cd79754b-3e99-4400-85fd-a150d47f2c81",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Laserowa spektroskopia gazów z użyciem antyrezonansowych światłowodów z pustym rdzeniem oraz detekcji heterodynowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.nikodem.9pNaZ2pUMiL/research-work/7d8c21bb-a388-4786-95e7-8020a5a42eda",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=226640"
+    }
+  ],
+  "tag_cloud": [
+    "spektroskopia w podczerwieni",
+    "laser gas spectroscopy",
+    "spektroskopia optyczna",
+    "światłowody mikrostrukturalne",
+    "spektroskopia laserowa",
+    "detekcja gazów",
+    "czujniki optyczne",
+    "all-fiber sensors",
+    "methane",
+    "czujniki rozłożone"
+  ],
+  "coworkers": []
+}

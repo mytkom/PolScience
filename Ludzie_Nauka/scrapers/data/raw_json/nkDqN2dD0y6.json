@@ -1,0 +1,260 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6",
+  "slug": "mariusz.rawski",
+  "profile_id": "nkDqN2dD0y6",
+  "full_name": "dr hab. inż. Mariusz Antoni Rawski",
+  "orcid": "0000-0002-7489-0785",
+  "orcid_url": "https://orcid.org/0000-0002-7489-0785",
+  "breadcrumb_name": "Mariusz Rawski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy cyfrowe",
+    "systemy cyfrowe",
+    "kryptografia",
+    "obliczenia rozproszone"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 3 miesiące",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i techniki informacyjne.",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Lightweight Strong PUF for Resource-Constrained Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/publications/bc78b3bd-1eb6-48f3-add9-04778223a64d",
+      "authors": "M. Korona, M. Rawski , R. Giermakowski, ... (+2)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13020351",
+      "doi_url": "https://www.doi.org/10.3390/electronics13020351",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Email Phishing Detection with BLSTM and Word Embeddings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/publications/66339dee-e907-4af3-9e3a-7eb30b38310e",
+      "authors": "M. Rawski , R. Wolert, R. Wolert",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2023",
+      "doi": "10.24425/ijet.2023.146496",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2023.146496",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "IoTrust - a HW/SW framework supporting security core baseline features for IoT",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/publications/bb0eb7a3-62ec-4177-9019-46ffd20037c5",
+      "authors": "M. Korona, B. Zabołotny [...] M. Rawski , ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f6946",
+      "doi_url": "https://www.doi.org/10.15439/2023f6946",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dekompozycyjne metody syntezy w projektowaniu systemów cyfrowych dla heterogenicznych struktur programowalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/research-work/2e4528e9-0097-4cbb-83e7-e22205284c93",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Miary informacyjne w wielopoziomowej syntezie logicznej złożonych układów cyfrowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/research-work/d973a6cd-07d0-49b2-9a00-d70dc144029d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Testowanie urządzeń pamięci masowej Nand Flash w procesie produkcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/research-work/6fcf394c-da9e-4e77-b5a4-6121bc806e15",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Uniwersalna architektura procesora dla systemów nawigacji satelitarnej GNSS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.rawski.nkDqN2dD0y6/research-work/52f57993-a768-4bbf-b8f4-2d7ff409baf6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=90651"
+    }
+  ],
+  "tag_cloud": [
+    "wrot.",
+    "node-red",
+    "security",
+    "fpga",
+    "iot",
+    "soc",
+    "docker",
+    "testbed",
+    "teeh",
+    "cybersecurity"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ",
+  "slug": "monika.lubas",
+  "profile_id": "m7Zi8ZxzbiQ",
+  "full_name": "mgr inż. Monika Maria Lubas",
+  "orcid": "0000-0003-1031-7055",
+  "orcid_url": "https://orcid.org/0000-0003-1031-7055",
+  "breadcrumb_name": "Monika Lubas",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Krośnie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Krośnie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn w specjalności lotnictwo",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Experimental and numerical analysis of contact stresses in a single-lap riveted joint with a blind rivet",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/publications/5c6b0e3b-3a1f-4670-ac35-efc63fe6578f",
+      "authors": null,
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/208869",
+      "doi_url": "https://www.doi.org/10.12913/22998624/208869",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental Interpretation of the Provisions of EN 13796-3 for Fatigue Testing of Cableway Gondolas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/publications/15ba46d3-cfbf-43ce-befe-fe26bbe1f4fe",
+      "authors": "A. Bednarz, Z. Szczerba [...] M. Lubas , ... (+4)",
+      "publication_type": "Artykuł , Applied System Innovation",
+      "year": "2023",
+      "doi": "10.3390/asi6020044",
+      "doi_url": "https://www.doi.org/10.3390/asi6020044",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The visual research of changes in the geometry of a rivet joint for material model effect for simulation riveted joints made of EN AW 5251",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.lubas.m7Zi8ZxzbiQ/publications/e3c831b4-5892-42c6-805c-ab2c48d2237b",
+      "authors": null,
+      "publication_type": "Artykuł , Technologia i Automatyzacja Montażu",
+      "year": "2022",
+      "doi": "10.7862/tiam.2022.4.6",
+      "doi_url": "https://www.doi.org/10.7862/tiam.2022.4.6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

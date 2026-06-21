@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL",
+  "slug": "rafał.nowicki",
+  "profile_id": "RiUfTio9veL",
+  "full_name": "dr inż. Rafał Nowicki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Rafał Nowicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of Post-Processing on S-Phase Formation During Plasma Nitriding of Additively Manufactured Inconel 939",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/publications/450fad5d-90c0-4a35-8dba-e6bd2e633636",
+      "authors": "P. Maj, J. Radziejewska [...] R. Nowicki , ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma19010130",
+      "doi_url": "https://www.doi.org/10.3390/ma19010130",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Microstructural Analysis of Recast Layer Thickness and Microcrack Formation During EDM of Hastelloy C-22 with Different Graphite Electrodes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/publications/a2e35d8d-7a22-483d-8f6a-ebf16f7a0cc1",
+      "authors": "R. Nowicki , R. Świercz",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18235338",
+      "doi_url": "https://www.doi.org/10.3390/ma18235338",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The surface texture properties after electrical discharge machining with negative polarity using graphite electrodes of different grain sizes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/publications/e23a8b34-29af-4e48-bf7b-580d43933529",
+      "authors": "R. Nowicki , R. Świercz",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-33799-6",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-33799-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ wielkości ziarna elektrod grafitowych na wskaźniki technologiczne i stan warstwy wierzchniej po obróbce elektroerozyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.nowicki.RiUfTio9veL/research-work/1d9f1ef9-2f68-4899-8824-79de5b39637d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

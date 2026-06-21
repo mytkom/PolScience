@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX",
+  "slug": "krzysztof.kaczmarski",
+  "profile_id": "k2Z2F5X8gPX",
+  "full_name": "dr inż. Krzysztof Kaczmarski",
+  "orcid": "0000-0002-4023-5344",
+  "orcid_url": "https://orcid.org/0000-0002-4023-5344",
+  "breadcrumb_name": "Krzysztof Kaczmarski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstaw Informatyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/6c713100-70da-4346-9836-92ba3723e52a"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "cudaMMC: GPU-enhanced multiscale Monte Carlo chromatin 3D modelling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/publications/da275f21-8ac8-4c74-a3dd-5902556c099d",
+      "authors": "M. Własnowolski, K. Kaczmarski , D. Plewczyński, ... (+2)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2023",
+      "doi": "10.1093/bioinformatics/btad588",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btad588",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "cudaMMC: GPU-enhanced multiscale Monte Carlo chromatin 3D modelling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/publications/f7672279-8064-4bc2-9fee-2f7ee1a88ce0",
+      "authors": "M. Wlasnowolski, P. Grabowski [...] K. Kaczmarski , ... (+2)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2023",
+      "doi": "10.1093/bioinformatics/btad588;10.1101/2023.06.12.544609",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btad588;10.1101/2023.06.12.544609",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Fast JSON parser using metaprogramming on GPU",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/publications/6bec0266-a004-4e1f-98d6-1b201c2d97fa",
+      "authors": "K. Kaczmarski , J. Narebski, S. Piotrowski, ... (+2)",
+      "publication_type": "Artykuł , 2022 IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA)",
+      "year": "2022",
+      "doi": "10.1109/dsaa54385.2022.10032381",
+      "doi_url": "https://www.doi.org/10.1109/dsaa54385.2022.10032381",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodologie i metamodele dla obiektowych baz danych typu Grid",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/research-work/64574df2-4608-4a0c-921f-87193539f10b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacji zapytań w środowisku heterogenicznym CPU/GPU dla baz danych szeregów czasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kaczmarski.k2Z2F5X8gPX/research-work/be341395-33c2-4940-ba54-855f52d2a712",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=204075"
+    }
+  ],
+  "tag_cloud": [
+    "index structure",
+    "multi-gpu",
+    "radix search tree",
+    "gpu",
+    "cuda",
+    "gpgpu",
+    "słownik",
+    "motion planning",
+    "struktura indeksująca",
+    "parallel processing"
+  ],
+  "coworkers": []
+}

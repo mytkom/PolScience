@@ -1,0 +1,123 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0",
+  "slug": "anna.holk-łebińska",
+  "profile_id": "px7p3EZxsU0",
+  "full_name": "dr Anna Holk-Łebińska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Holk-Łebińska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwórstwo tworzyw sztucznych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie procesu wytłaczania mieszaniny polietylen małej gęstości/polistyren",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.holk-%C5%82ebi%C5%84ska.px7p3EZxsU0/research-work/f411bfb3-5473-4c1f-94b9-49ad997f7330",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86112"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

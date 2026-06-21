@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX",
+  "slug": "inna.ivashchenko",
+  "profile_id": "e7VGHndIshX",
+  "full_name": "dr Inna Ivashchenko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Inna Ivashchenko",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna Ukrainy [Національне агентство з акредитації України] • Ukraina",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Wołyński Uniwersytet Państwowy im. Łesy Ukrainky • Ukraina",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chloride double perovskites doped with $Sb^{3+}/Er^{3+}$ as stable and effective luminescence material in the Vis‐NIR region",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/publications/20ad5939-d287-4587-8544-419ca3a518ec",
+      "authors": "I. Ivashchenko , K. Matras-Postołek, L. Gulay, ... (+10)",
+      "publication_type": "Artykuł , Chemistry - A European Journal",
+      "year": "2025",
+      "doi": "10.1002/chem.202500066",
+      "doi_url": "https://www.doi.org/10.1002/chem.202500066",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fluorescent gold nanoclusters stabilized by lysozyme: Synthesis and deposition kinetics on silica substrates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/publications/104e9383-8af2-48fd-842d-f6b1fee28c31",
+      "authors": "J. Maciejewska-Prończuk, M. Oćwieja [...] I. Ivashchenko , ... (+10)",
+      "publication_type": "Artykuł , Journal of Luminescence",
+      "year": "2025",
+      "doi": "10.1016/j.jlumin.2024.120912",
+      "doi_url": "https://www.doi.org/10.1016/j.jlumin.2024.120912",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "GeS$_{2}$-Ga$_{2}$S$_{3}$ based glass ceramics containing doped with Er$^{3+}$ CsPbBr$_{3}$, CsPbI$_{3}$ perovskite crystals : effect of Er$^{3+}$ doping on their photoluminescent properties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/inna.ivashchenko.e7VGHndIshX/publications/9882d1b0-a87f-460a-8241-81186b582836",
+      "authors": "P. Dąbczyński, I. Ivashchenko , K. Matras-Postołek, ... (+9)",
+      "publication_type": "Artykuł , Materials Research Bulletin",
+      "year": "2025",
+      "doi": "10.1016/j.materresbull.2025.113442",
+      "doi_url": "https://www.doi.org/10.1016/j.materresbull.2025.113442",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "pierwiastki ziem rzadkich",
+    "cross-relaxation process",
+    "pl decay kinetics",
+    "perowskity",
+    "luminescencja",
+    "upkonwersja",
+    "photoluminescence",
+    "chalcogenide glasses",
+    "er",
+    "nanokryształy"
+  ],
+  "coworkers": []
+}

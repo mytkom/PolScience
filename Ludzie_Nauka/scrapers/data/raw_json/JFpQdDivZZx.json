@@ -1,0 +1,329 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx",
+  "slug": "robert.bogdanowicz",
+  "profile_id": "JFpQdDivZZx",
+  "full_name": "prof. dr hab. inż. Robert Bogdanowicz",
+  "orcid": "0000-0002-7543-2620",
+  "orcid_url": "https://orcid.org/0000-0002-7543-2620",
+  "breadcrumb_name": "Robert Bogdanowicz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/gremiums/a7b590be-36b3-46d9-89db-9189da3b8e64",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Zespół Interdyscyplinarny do spraw Współpracy Naukowej z Zagranicą",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/gremiums/c4d1f3ec-a6dd-41a0-808c-1d78eeffaf30",
+      "period": "2015-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Interdyscyplinarny Zespół do spraw Działalności Wspomagającej Współpracę Naukową z Zagranicą",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/gremiums/3d96dd55-02de-4db1-8d12-1ce450ede714",
+      "period": "2011-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimizing boron doping in diamond electrodes for PFOA mineralization: 14C labeling and DFT studies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/publications/aaf2bd35-ac7e-41e7-b34f-96e5d797c762",
+      "authors": "M. Szopinska, A. Olejnik [...] R. Bogdanowicz , ... (+10)",
+      "publication_type": "Artykuł , Journal of Hazardous Materials",
+      "year": "2026",
+      "doi": "10.1016/j.jhazmat.2025.140752",
+      "doi_url": "https://www.doi.org/10.1016/j.jhazmat.2025.140752",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "3D-Printed Boron-Nitrogen Doped Carbon Electrodes for Sustainable Wastewater Treatment via MPECVD",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/publications/5c79c4e6-f71d-44f3-a5fc-f394c7fa876f",
+      "authors": "I. Kaczmarzyk-Knitter, M. Szopinska [...] R. Bogdanowicz , ... (+7)",
+      "publication_type": "Artykuł , Nano-Micro Letters",
+      "year": "2025",
+      "doi": "10.1007/s40820-025-01827-9",
+      "doi_url": "https://www.doi.org/10.1007/s40820-025-01827-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Badania ab initio właściwości elektrooptycznych nanowarstw b-AsxP1−x jako materiałów do nowej generacji fotodetektorów dla pasm telekomunikacyjnych.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/publications/d1af82cd-1057-4096-a891-b6b230be1bcf",
+      "authors": "K. Pyrchla, R. Bogdanowicz",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.51",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.51",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/0cf9cca9-d856-4610-97f5-a93c80ce8977",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Półprzewodnikowe, cienkowarstwowe struktury diamentowe - wytwarzanie oraz właściwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/081e21dd-4824-4016-b063-b8fbd0bfb2de",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Optoelektroniczny system przestrzennego monitoringu procesu syntezy diamentu cienkowarstwowego dla zastosowań opto- i mikroelektronicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/9ad34c57-0728-4eec-a7f4-d6ae95a9c29f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Development of novel optoelectronic sensory structures utilising colour centres in nanodiamonds and their interactions with analytes",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/aac8f8f7-1b86-4881-8ce3-d2a84a0f7d89",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Właściwości strukturalne i elektroniczne heterostruktur Diamentowych - Structural and electronic properties of diamond-composed heterostructures",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/33477190-497c-4437-8ae5-47cbb20d6d56",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Structural, optical and electrochemical performance of black phosphorus and black arsenic-phosphorus nanostructures -Właściwości strukturalne, optyczne i elektrochemiczne nanostruktur czarnego fosforu i czarnego arseno-fosforu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/4fb781f8-31cb-40ab-abea-187e4a704d68",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Jednorazowe sensory papierowe do oznaczania kreatyniny w próbkach biologicznych w miejscu leczenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/e3bad4e0-8f44-494f-b5bb-9762b21ff355",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/9297c920-ef1e-403a-aba5-fb50d5609ec5",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "\"Wybrane właściwości cienkich warstw na bazie mieszanin tlenków miedzi i tytanu do zastosowania w czujnikach wodoru oraz analiza mechanizmów ich odpowiedzi czujnikowej\"",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bogdanowicz.JFpQdDivZZx/research-work/1d82da51-ac8f-4ddf-8344-f54c195d34be",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=3Sm_Zv4AAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-bogdanowicz-90b97342/"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Robert-Bogdanowicz"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=6507116472"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/D-2913-2014"
+    },
+    {
+      "label": "Strona grupy badawczej",
+      "url": "https://www.diamondized.eu/"
+    }
+  ],
+  "tag_cloud": [
+    "lossy-mode resonance (lmr)",
+    "differential pulse voltammetry",
+    "nanodiamonds",
+    "electrochemistry",
+    "boron-doped diamond",
+    "cyclic voltammetry",
+    "optical fiber sensor",
+    "thin film",
+    "optical fibers",
+    "indium tin oxide (ito)"
+  ],
+  "coworkers": []
+}

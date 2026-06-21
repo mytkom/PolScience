@@ -1,0 +1,290 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc",
+  "slug": "adam.gadomski",
+  "profile_id": "xUulxZyAkwc",
+  "full_name": "prof. dr hab. inż. Adam Jan Gadomski",
+  "orcid": "0000-0002-8201-1736",
+  "orcid_url": "https://orcid.org/0000-0002-8201-1736",
+  "breadcrumb_name": "Adam Gadomski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "fizyka statystyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Gospodarki w Bydgoszczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/60b9afe6-5246-491a-85c7-466fcfa8c639",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "fizyka teoretyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / brak danych",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Śląska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/gremiums/68b7e931-a4b5-4e4b-8050-b513d2804521",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Brief Perspective on the Arrow of Time as Addressed in Terms of Simplicity Vs. Complexity Paradigm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/publications/01405ae6-ab2f-4c95-a103-3622e971472b",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Multidisciplinary Research and Analysis",
+      "year": "2025",
+      "doi": "10.47191/ijmra/v8-i12-38",
+      "doi_url": "https://www.doi.org/10.47191/ijmra/v8-i12-38",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Erasure by friction: an over-scales-manifesting estimation of the nanoscale (quantum) coefficient of friction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/publications/c2550092-82be-4aec-bfd3-b640b939d059",
+      "authors": "A. Gadomski , K. Karpiński",
+      "publication_type": "Artykuł , Journal of Physics D: Applied Physics",
+      "year": "2025",
+      "doi": "10.1088/1361-6463/adb0d7",
+      "doi_url": "https://www.doi.org/10.1088/1361-6463/adb0d7",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Matter-Aggregating Systems at a Classical vs. Quantum Interface",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/publications/4d4d6690-20bb-4d56-beb0-7fa07b54e2da",
+      "authors": "A. Gadomski , N. Kruszewska",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2025",
+      "doi": "10.3390/e27030273",
+      "doi_url": "https://www.doi.org/10.3390/e27030273",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kinetyka heterogenicznych przemian fazowych w układach złożonych umiarkowanie zaglomerowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/527a0890-18fe-4ff5-afcf-366844a801db",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody konstruowania modeli dyfuzyjnego formowania agregatów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/510eca1e-a1a8-4baf-a4d8-824304c0fb3c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie komputerowe i analityczne boinspirowanego standardowego układu fizyki powierzchni, w zakresie tarcia i smarowania, na wybranym przykładzie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/213c2e1e-9cb7-48f8-829d-85a14e2fd30a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Computer model of effectively two-dimensional (bio)polymer aggregation in a viscoelastic environment, and its thermodynamic-kinetic characteristics",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/93436cfa-a685-455d-a246-2b78830cc1d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Fenomenologiczny i mezoskopowy opis kinetyki formowania uporządkowanych agregatów cząsteczkowych typu amfifilowego w środowiskach dyspersyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/30c0c0ae-ab78-42d5-8ef7-324fc56f787a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ architektury cyklicznej na właściwości fizyczne polimerów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/f146a4a5-fe39-4018-96f5-c737e840f427",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Evolutionary algorithms as a tool for designing chemical computers",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/3729610c-3e73-436a-aed4-1a3e61a47543",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Anomalous Stochastic Dynamics in the Underdamped Regime",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gadomski.xUulxZyAkwc/research-work/4024d107-733e-4d8b-a9df-cae85d64b144",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=11609"
+    }
+  ],
+  "tag_cloud": [
+    "langmuir thin film",
+    "wtelno",
+    "chondrocytes",
+    "small world networks",
+    "articular cartilage",
+    "biolubrication",
+    "lipids",
+    "hydrogen ion channel",
+    "physiology",
+    "molecular dynamics"
+  ],
+  "coworkers": []
+}

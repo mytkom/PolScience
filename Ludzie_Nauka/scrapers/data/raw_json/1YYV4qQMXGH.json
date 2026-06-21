@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH",
+  "slug": "waldemar.małopolski",
+  "profile_id": "1YYV4qQMXGH",
+  "full_name": "dr inż. Waldemar Paweł Małopolski",
+  "orcid": "0000-0001-6927-3320",
+  "orcid_url": "https://orcid.org/0000-0001-6927-3320",
+  "breadcrumb_name": "Waldemar Małopolski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elastyczne systemy produkcyjne",
+    "sterowanie",
+    "symulacja",
+    "systemy ERP"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact of the deadlock handling method on the energy efficiency of a system of multiple automated guided vehicles in a production environment described as a square topology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/publications/5b1e7061-724c-4ff0-b2cf-16d067a0d449",
+      "authors": "W. Malopolski , W. Małopolski, J. Zając, ... (+2)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18236321",
+      "doi_url": "https://www.doi.org/10.3390/en18236321",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The concept of an autonomous mobile robot for automating transport tasks in high-bay warehouses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/publications/c332cb42-2d47-4d2b-9af0-9f62ed0237a8",
+      "authors": "S. Skoczypiec, W. Malopolski",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/182932",
+      "doi_url": "https://www.doi.org/10.12913/22998624/182932",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "AGVs collision and deadlock handling based on structural online control policy: A case study in a square topology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/publications/8fdf94a8-80c5-4bd6-bcec-074488be15f1",
+      "authors": "W. Malopolski , J. Zając",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2021",
+      "doi": "10.3390/app11146494",
+      "doi_url": "https://www.doi.org/10.3390/app11146494",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Model sterowania elastycznym systemem produkcyjnym zintegrowanego z CIM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/research-work/c70bd852-e8c5-4eff-88b0-58f58744164c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model sterowania elastycznym systemem produkcyjnym zintegrowanego z CIM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.ma%C5%82opolski.1YYV4qQMXGH/research-work/e1843886-c9f5-4e9c-bbad-6c787cf8fc4f",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=84670"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

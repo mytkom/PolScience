@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE",
+  "slug": "piotr.maciąg",
+  "profile_id": "wPuQRD5Y9fE",
+  "full_name": "dr inż. Piotr Stanisław Maciąg",
+  "orcid": "0000-0001-5486-7927",
+  "orcid_url": "https://orcid.org/0000-0001-5486-7927",
+  "breadcrumb_name": "Piotr Maciąg",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of embryotoxic effects of Quinoline Yellow using attention-based Convolutional Neural Network and Machine Learning in zebrafish model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/publications/90ddb83e-e52d-4646-9289-db511cf84823",
+      "authors": "M. Majdan, P. Maciąg , A. Rogalska",
+      "publication_type": "Artykuł , Frontiers in Pharmacology",
+      "year": "2025",
+      "doi": "10.3389/fphar.2025.1606214",
+      "doi_url": "https://www.doi.org/10.3389/fphar.2025.1606214",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Improving Location Recommendations Based on LBSN Data Through Data Preprocessing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/publications/b4d04b7c-c52c-4dc8-a2ff-9ebe63ccdef1",
+      "authors": "R. Bembenik, P. Maciąg , M. Orzoł",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2025",
+      "doi": "10.3390/electronics14040701",
+      "doi_url": "https://www.doi.org/10.3390/electronics14040701",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mining targeted spatio-temporal sequential patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.maci%C4%85g.wPuQRD5Y9fE/publications/b51d39b6-353c-4c41-b57e-ff32238f206e",
+      "authors": null,
+      "publication_type": "Artykuł , GeoInformatica",
+      "year": "2025",
+      "doi": "10.1007/s10707-025-00535-1",
+      "doi_url": "https://www.doi.org/10.1007/s10707-025-00535-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

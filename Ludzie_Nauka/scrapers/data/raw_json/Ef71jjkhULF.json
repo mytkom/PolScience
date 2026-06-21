@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF",
+  "slug": "przemysław.dzięgielewski",
+  "profile_id": "Ef71jjkhULF",
+  "full_name": "dr inż. Przemysław Wojciech Dzięgielewski",
+  "orcid": "0000-0002-7544-3960",
+  "orcid_url": "https://orcid.org/0000-0002-7544-3960",
+  "breadcrumb_name": "Przemysław Dzięgielewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Atomic dynamics and local structural disorder during ultrafast melting of polycrystalline Pd",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/publications/f4de634e-637c-4aee-b3a2-d79790359a45",
+      "authors": "A. Olczak, R. Sobierajski, P. Dziegielewski , ... (+8)",
+      "publication_type": "Artykuł , Scripta Materialia",
+      "year": "2025",
+      "doi": "10.1016/j.scriptamat.2025.116826",
+      "doi_url": "https://www.doi.org/10.1016/j.scriptamat.2025.116826",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Atomic dynamics and local structural disorder during ultrafast melting of polycrystalline Pd",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/publications/64d07aa0-daff-4139-a40b-0464a141ba6d",
+      "authors": "A. Olczak, R. Sobierajski, P. Dziegielewski , ... (+8)",
+      "publication_type": "Artykuł , Scripta Materialia",
+      "year": "2025",
+      "doi": "10.1016/j.scriptamat.2025.116826;10.2139/ssrn.5202424;10.48550/arxiv.2503.13618",
+      "doi_url": "https://www.doi.org/10.1016/j.scriptamat.2025.116826;10.2139/ssrn.5202424;10.48550/arxiv.2503.13618",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Ultrafast Pulsed Laser Annealing of Pd<sub>100-x</sub>Si<sub>x</sub> Thin Films",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/publications/d60c9dce-e932-4d20-9808-448266e7a076",
+      "authors": "O. Liubchenko, I. Jacyna [...] P. Dziegielewski , ... (+12)",
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2025",
+      "doi": "10.12693/aphyspola.148.303",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.148.303",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Szkła metaliczne Zr-Cu w warunkach wysokiego ciśnienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.dzi%C4%99gielewski.Ef71jjkhULF/research-work/3effb71f-53aa-4b9c-ba8f-6473c8591462",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314086"
+    }
+  ],
+  "tag_cloud": [
+    "melting",
+    "extended x-ray absorption fine structure (exafs) metallic glass crystallization high pressure",
+    "molecular dynamics simulation",
+    "x-ray diffraction",
+    "wysokie ciśnienie",
+    "laser processing",
+    "szkła metaliczne",
+    "zr",
+    "metals",
+    "ab intio"
+  ],
+  "coworkers": []
+}

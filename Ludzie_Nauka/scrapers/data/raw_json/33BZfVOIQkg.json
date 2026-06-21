@@ -1,0 +1,275 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg",
+  "slug": "marcin.nyk",
+  "profile_id": "33BZfVOIQkg",
+  "full_name": "prof. dr hab. inż. Marcin Wojciech Nyk",
+  "orcid": "0000-0002-0329-4038",
+  "orcid_url": "https://orcid.org/0000-0002-0329-4038",
+  "breadcrumb_name": "Marcin Nyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "półprzewodniki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria materiałowa"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Inżynierii Materiałowej i Ceramiki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/edacac11-e8f1-441a-8918-d267b69b8381"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/gremiums/3d50f083-269d-4e49-a51e-e9b48c78baf3",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient Quenching of Two-Photon Absorption Induced Photoluminescence in Carbon Nanodots for Fe 3+ Ion Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/publications/2105899f-5db7-41be-acd7-09fb2c029127",
+      "authors": "D. Wawrzyńczyk, A. Siomra [...] M. Nyk , ... (+5)",
+      "publication_type": "Artykuł , ACS Omega",
+      "year": "2025",
+      "doi": "10.1021/acsomega.5c01915",
+      "doi_url": "https://www.doi.org/10.1021/acsomega.5c01915",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Persistent green luminescence in nanoparticles functionalized with SARS-CoV-2 spike proteins: Virus-like particles showing active targeting toward selected cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/publications/0488e9c9-4693-4b2a-894c-25f1b44f0f91",
+      "authors": "P. Kuich, U. Bazylińska [...] M. Nyk , ... (+5)",
+      "publication_type": "Artykuł , ACS Applied Bio Materials",
+      "year": "2025",
+      "doi": "10.1021/acsabm.5c01355",
+      "doi_url": "https://www.doi.org/10.1021/acsabm.5c01355",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Strong enhancement of two-photon absorption and emergence of unusual extinction saturation in silver sulfide quantum dots integrated with gold and silica nanostructures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/publications/3bd8ce7f-5de3-4729-b68e-2bd13a893019",
+      "authors": "M. Gordel-Wójcik, M. Nyk , M. Samoć, ... (+2)",
+      "publication_type": "Artykuł , ACS Applied Materials & Interfaces",
+      "year": "2025",
+      "doi": "10.1021/acsami.5c00984",
+      "doi_url": "https://www.doi.org/10.1021/acsami.5c00984",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/0ddfc1c6-b5fa-4b9e-b5bb-baf8bdfe420e",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i właściwości koloidalnych roztworów nieorganicznych nanocząstek dla zastosowań w fotonice i biofotonice",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/a4a6fbdb-8086-443d-810a-694ea7ac72dd",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Synteza, własności strukturalne i optyczne nanometrycznych azotków galu domieszkowanych jonami ziem rzadkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/c0e88b9d-9fb2-4aa1-b741-45b81b35b4d1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synthesis, characterisation, and functionalization of colloidal semiconductor nanoparticles displaying nonlinear optical activity",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/47775679-e8be-4611-b277-c79c412a1497",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza oraz charakterystyka optyczna nanomateriałów luminescencyjnych o poszerzonych funkcjonalnościach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/4df35330-9b75-40d2-9da1-55faa47fde74",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badania nieliniowych właściwości optycznych polimerów koordynacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/87b5ed91-ea04-43b0-bad6-a96ba624de95",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Semiconductor nanocrystals assemblies templated with liquid crystals as macroscale polarized light emitters",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/ba46eeaa-4a04-49e7-8866-c82333cd0e70",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "The investigation of the influence of the chemical composition of the host material on the probability of thermally induced depopulation processes of the excited levels of the transition metal ions of 3d3 electronic configuration in inorganic oxide materials for applications in luminescence thermometry",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/62be0fc4-a431-43be-8ab3-e0d1bbd5d645",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Luminescence thermometry on selected complex oxide phosphors activated with Pr3+, Tb3+, Ti4+, or Mn4+ ions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nyk.33BZfVOIQkg/research-work/96c3cf07-9646-4278-acd3-e59c4468a304",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200501"
+    }
+  ],
+  "tag_cloud": [
+    "micele",
+    "optyka nieliniowa",
+    "kropki kwantowe",
+    "lasery",
+    "two-photon absorption",
+    "nanomateriały",
+    "bodipy",
+    "optyka",
+    "enkapsulacja",
+    "interakcja plazma-ciecz"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,251 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5",
+  "slug": "andrzej.danel",
+  "profile_id": "3aJ2A8unAX5",
+  "full_name": "dr hab. Andrzej Danel",
+  "orcid": "0000-0001-9790-1224",
+  "orcid_url": "https://orcid.org/0000-0001-9790-1224",
+  "breadcrumb_name": "Andrzej Danel",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "31 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/becb0b4c-82d4-43a3-8673-2e07bf987463",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/gremiums/666c5f71-9c0f-4f5d-9051-dc3ee64a0ed0",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fluorescent sensor based on 1H-pyrazolo[3,4-b]quinoline derivative for detecting $Zn^{2+}$ cations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/publications/123904d7-c0c9-43cb-ba74-119f4b3e4330",
+      "authors": "T. Uchacz, K. Gałczyńska [...] A. Danel , ... (+3)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2024",
+      "doi": "10.3390/molecules29040823",
+      "doi_url": "https://www.doi.org/10.3390/molecules29040823",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Pyrazoloquinoline-based fluorescent sensor for the detection of $Pb^{2+}, Zn^{2+}$ and the realization of an OR-type optical logic gate",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/publications/1ac80949-964f-4870-94fc-fb7f55bbf3e0",
+      "authors": "A. Danel , T. Uchacz, K. Szary, ... (+2)",
+      "publication_type": "Artykuł , Dyes and Pigments",
+      "year": "2024",
+      "doi": "10.1016/j.dyepig.2024.111956",
+      "doi_url": "https://www.doi.org/10.1016/j.dyepig.2024.111956",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multicomponent synthesis of 4-aryl-4,9-dihydro-1H-pyrazolo[3,4-b]quinolines using L-proline as a catalyst : does it really proceed?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/publications/f6145ca7-0a9b-44d0-92d9-eac6c88d3471",
+      "authors": "K. Markiel, E. Porębska [...] A. Danel , ... (+4)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2023",
+      "doi": "10.3390/molecules28227612",
+      "doi_url": "https://www.doi.org/10.3390/molecules28227612",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work/907a90cb-f281-4f0b-a256-41a88f84716a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza pirazolo [3,4-6] chinolin jako luminoforów do urządzeń elektroluminescencyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work/b53299bb-9e23-49ca-90b6-cde9b87bcde0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synteza i właściwości fotofizyczne niektórych układów azaheterocyklicznych jako potencjalnych materiałów do optoelektroniki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work/8374ef06-7a85-4f4f-9fd0-749043cab520",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja właściwości spektralnych pochodnych pirolo[2,3-b]pirazyny poprzez modyfikacje strukturalne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work/0ba8609b-f6dc-434f-8fe6-5a4e7ebef189",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i właściwości fizykochemiczne nowych związków z grupy aza-BODIPY",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.danel.3aJ2A8unAX5/research-work/8b0d09c8-8447-43d1-a6ee-62a670f55fb6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=30027"
+    }
+  ],
+  "tag_cloud": [
+    "1h-pyrazolo[3,4-b]quinoline",
+    "fluorescent dye",
+    "dft calculation",
+    "dft/tddft calculations",
+    "ct fluorescence",
+    "halogen pyrazoloquinoxaline derivatives",
+    "fluorescence spectra",
+    "optical absorption spectra",
+    "intersystem crossing process",
+    "4-b]quinoxalines intersystem crossing charge transfer emission x-ray crystal structures solution-processable oled"
+  ],
+  "coworkers": []
+}

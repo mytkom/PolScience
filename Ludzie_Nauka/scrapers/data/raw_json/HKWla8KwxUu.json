@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu",
+  "slug": "grzegorz.siewruk",
+  "profile_id": "HKWla8KwxUu",
+  "full_name": "dr inż. Grzegorz Siewruk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Grzegorz Siewruk",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "„Orkiestracja narzędzi bezpieczeństwa w sieci operatora telekomunikacyjnego z wykorzystaniem technik uczenia maszynowego oraz metod przetwarzania języka naturalnego”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.siewruk.HKWla8KwxUu/research-work/dfad46ba-6c3d-4cc5-b7a5-692ddc0d64a5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

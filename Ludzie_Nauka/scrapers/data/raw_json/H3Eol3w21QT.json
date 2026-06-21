@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT",
+  "slug": "filip.górski",
+  "profile_id": "H3Eol3w21QT",
+  "full_name": "dr hab. inż. Filip Górski",
+  "orcid": "0000-0001-8548-2544",
+  "orcid_url": "https://orcid.org/0000-0001-8548-2544",
+  "breadcrumb_name": "Filip Górski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/gremiums/a28be589-09a3-4ff9-91e0-f0c9cb0807be",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Mechanicznych i Budowlanych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/gremiums/3d5d2b6d-52b5-4711-8a19-e208c596bf73",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Computer Aided Design of 3D Printable Anatomically Shaped Medical Devices : Methodologies and Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/publications/31255deb-4ace-4881-afd2-491bf604643a",
+      "authors": null,
+      "publication_type": "Książka , Taylor & Francis Group",
+      "year": "2025",
+      "doi": "10.1201/9781003386544",
+      "doi_url": "https://www.doi.org/10.1201/9781003386544",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluating the Suitability of Additive Manufacturing for Fabricating Prosthetic Fingers in Upper Limb Prostheses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/publications/ca5b8d54-e914-48b9-8bdf-0893fe2e8411",
+      "authors": "Y. Denysenko, F. Górski , R. Pacurar, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152111684",
+      "doi_url": "https://www.doi.org/10.3390/app152111684",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Partial maxillofacial reconstruction: design and additive manufacturing of individualized pre - and mid-surgery supplies.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/publications/95aee029-db41-4897-87d9-b0ad37922a9a",
+      "authors": "E. Smolarek, F. Górski , M. Żukowska, ... (+2)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Jednotematyczny cykl publikacji - Budowa otwartych systemów rzeczywistości wirtualnej stosowanych w inżynierii mechanicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/444f71ee-4c15-4327-a570-31df54cb71d4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena wytrzymałości wyrobów kształtowanych przyrostowo uplastycznionym tworzywem sztucznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/0f7c298b-9f35-46e2-8fa8-21ad5b982102",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badanie interakcji dotykowej w rzeczywistości wirtualnej z zastosowaniem robota typu Delta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/c086b04c-1f3e-4bdf-b01a-c8e4bb060e14",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ocena właściwości mechanicznych elementów wytwarzanych technologią druku 3D do zastosowań biomedycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/a2b39f56-b2d2-4666-8633-db3883c433a0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "BADANIA WŁAŚCIWOŚCI MECHANICZNYCH WYBRANYCH MATERIAŁÓW WYTWORZONYCH W TECHNOLOGII FDM ORAZ PRÓBY ICH MODELOWANIA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/6bdbce2f-d8d1-4dda-8b21-3317eb5f0ca9",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Opracowanie metody projektowania, dopasowania i wytworzenia ortez medycznych do sytuacji anatomicznej w trakcie okresu powrotu do zdrowia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.g%C3%B3rski.H3Eol3w21QT/research-work/d76bda0d-8ba3-4308-8af2-04e57977eb86",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=256504"
+    }
+  ],
+  "tag_cloud": [
+    "fused deposition modelling",
+    "mechanical properties",
+    "customization",
+    "additive manufacturing",
+    "3d printing",
+    "virtual reality",
+    "wirtualna rzeczywistość",
+    "industry 4.0",
+    "semantic web",
+    "ortezy"
+  ],
+  "coworkers": []
+}

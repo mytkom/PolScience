@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0",
+  "slug": "paweł.tysiąc",
+  "profile_id": "kUcVoLAEUI0",
+  "full_name": "dr inż. Paweł Tysiąc",
+  "orcid": "0000-0002-5017-4522",
+  "orcid_url": "https://orcid.org/0000-0002-5017-4522",
+  "breadcrumb_name": "Paweł Tysiąc",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "geoinformatyka",
+    "fotogrametria",
+    "teledetekcja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Geodezji Górniczej i Inżynierii Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0dad872c-e305-477a-a710-433df8350fee"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "techniki geodezyjne w inżynierii",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automated Feature Extraction and Classification of Submerged Cultural Heritage Assets in the Puck Lagoon via Multisensor Remote Sensing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/publications/597962c0-f87a-47de-891e-64b1fb850eaf",
+      "authors": "P. Tysiąc , L. Janowski, A. Pydyn, ... (+2)",
+      "publication_type": "Artykuł , Archaeological Prospection",
+      "year": "2025",
+      "doi": "10.1002/arp.70024",
+      "doi_url": "https://www.doi.org/10.1002/arp.70024",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Beach nourishment on low-energy coasts: Purpose and persistence (Puck Lagoon, Poland)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/publications/beb0ca9e-1b93-4190-a27a-540cec8d2ed3",
+      "authors": "P. Sitkiewicz, D. Moskalewicz, P. Tysiąc , ... (+3)",
+      "publication_type": "Artykuł , Estuarine, Coastal and Shelf Science",
+      "year": "2025",
+      "doi": "10.1016/j.ecss.2025.109543",
+      "doi_url": "https://www.doi.org/10.1016/j.ecss.2025.109543",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Development of UAV-based LiDAR and multispectral measurement techniques for monitoring sediment intrusion in coastal wetlands",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/publications/dbf399e0-4187-46a2-8f1c-fd622fe43349",
+      "authors": "P. Tysiąc , D. Moskalewicz, L. Janowski, ... (+1)",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.117459",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.117459",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie techniki skanowania laserowego do analizy okresowych zmian strefy brzegowej w szczególności klifów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.tysi%C4%85c.kUcVoLAEUI0/research-work/90bb07e0-d518-4748-96ee-0c4c62a09566",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=294801"
+    }
+  ],
+  "tag_cloud": [
+    "research",
+    "surveying engineering",
+    "bim",
+    "photogrammetry",
+    "skanowanie laserowe",
+    "geodesy",
+    "relativistic accelerations",
+    "compare point cloud",
+    "soil-steel bridge",
+    "geobia"
+  ],
+  "coworkers": []
+}

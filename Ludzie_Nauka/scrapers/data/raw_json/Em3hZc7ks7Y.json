@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y",
+  "slug": "maciej.walczak",
+  "profile_id": "Em3hZc7ks7Y",
+  "full_name": "dr inż. Maciej Walczak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Maciej Walczak",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Computational Issues in Nonlinear Dynamical Systems: Creating Bifurcation Diagrams of Lyapunov Exponents Using a Novel Adaptive Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/publications/78817b29-6c14-44d6-94e4-d7b358b33e9a",
+      "authors": "M. Walczak , W. Marszałek",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3587410",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3587410",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bifurcation Diagrams of Nonlinear Oscillatory Dynamical Systems: A Brief Review in 1D, 2D and 3D",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/publications/617e09f1-53d3-459a-a925-c3a1b7a5cc14",
+      "authors": "W. Marszałek, M. Walczak",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2024",
+      "doi": "10.3390/e26090770",
+      "doi_url": "https://www.doi.org/10.3390/e26090770",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Identification of 𝐶𝑎2+ oscillations with the 0-1 test for periodic and chaotic time-series: One- and two-parameter bifurcations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/publications/8eb6e487-209e-4493-a666-abe6d08827fc",
+      "authors": "M. Walczak , W. Marszałek, J. Sadecki",
+      "publication_type": "Artykuł , BioSystems",
+      "year": "2022",
+      "doi": "10.1016/j.biosystems.2021.104590",
+      "doi_url": "https://www.doi.org/10.1016/j.biosystems.2021.104590",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie programowania równoległego do analizy nieliniowych układów dynamicznych z identyfikacją chaotycznych i periodycznych szeregów czasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.walczak.Em3hZc7ks7Y/research-work/75d5179e-a30d-4f74-befe-61ac07a1c7ac",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "period-n solutions",
+    "electric arc system",
+    "frequency diagrams",
+    "0–1 test for chaos",
+    "sample entropy",
+    "oscillatory signals",
+    "two-parameter bifurcations",
+    "oscillatory nonlinear systems",
+    "intracellular processing",
+    "two (2d) and three (3d) varying parameters"
+  ],
+  "coworkers": []
+}

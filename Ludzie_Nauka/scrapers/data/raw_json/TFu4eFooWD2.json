@@ -1,0 +1,187 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2",
+  "slug": "szymon.fierek",
+  "profile_id": "TFu4eFooWD2",
+  "full_name": "dr inż. Szymon Piotr Fierek",
+  "orcid": "0000-0003-1076-2722",
+  "orcid_url": "https://orcid.org/0000-0003-1076-2722",
+  "breadcrumb_name": "Szymon Fierek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Inżynierii Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe698f8e-adcd-44bf-b9a0-77b06ccc5e91"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optymalizacja tworzenia tras linii publicznego transportu zbiorowego z użyciem PTV Visum",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/publications/5a154c0c-dbf8-432e-ac25-a9af50d3c7d3",
+      "authors": "S. Fierek , D. Kapica",
+      "publication_type": "Artykuł , Transport Miejski i Regionalny",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Przesunięcie modalne na rzecz zrównoważonych trybów mobilności",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/publications/ab2f5a5f-a5ae-4cae-8d0b-117630c30245",
+      "authors": "J. Rychlewski, S. Fierek",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sources and Use of Bicycle Traffic Data in Research and Urban Mobility Management",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/publications/f2cc38ae-33e7-44ac-a2b2-b1352d400bb8",
+      "authors": "E. Skupień, S. Fierek",
+      "publication_type": "Artykuł , Urban Science",
+      "year": "2025",
+      "doi": "10.3390/urbansci9040127",
+      "doi_url": "https://www.doi.org/10.3390/urbansci9040127",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/research-work/4a12aa58-6406-4788-ad0b-ecd056283749",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Konkurencyjność polskich przewoźników drogowych ładunków na rynku europejskim",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/research-work/0111b4e1-5dc1-49b0-9c74-c139c5668208",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Organizacja terminali intermodalnych w sieci transportowej z zastosowaniem algorytmów genetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.fierek.TFu4eFooWD2/research-work/3a792c24-07b4-466e-85bb-0dfe7edfa78d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=231547"
+    }
+  ],
+  "tag_cloud": [
+    "delimitacja przestrzeni",
+    "macroscopic traffic modelling",
+    "tod index",
+    "visum",
+    "urban transport project appraisal",
+    "balonodrom project",
+    "brygadowanie",
+    "transit oriented development indeks",
+    "optimization",
+    "spatial delimitation"
+  ],
+  "coworkers": []
+}

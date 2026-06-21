@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf",
+  "slug": "artur.milnerowicz",
+  "profile_id": "9aL7twWWuRf",
+  "full_name": "dr hab. Artur Igor Milnerowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Artur Milnerowicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "chirurgia ogólna",
+    "chirurgia naczyniowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki medyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Śląski Uniwersytet Medyczny w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki medyczne / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski Kształcenia Podyplomowego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8879a500-9969-4662-bddf-9c6019a72586"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficacy and safety of percutaneous access via large-bore sheaths (22-26F diameter) in endovascular therapy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/publications/6e322203-e29b-40c9-ab1d-1d357c7d9173",
+      "authors": "B. Rylski, Z. Berkarda [...] A. Milnerowicz , ... (+5)",
+      "publication_type": "Artykuł , Journal of Endovascular Therapy",
+      "year": "2024",
+      "doi": "10.1177/15266028231161490",
+      "doi_url": "https://www.doi.org/10.1177/15266028231161490",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Initial multicenter experience with the new castor arch branched device in Europe: a middle-term results study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/publications/4c57a03e-398f-4c68-a591-28de553c31b7",
+      "authors": "M. Żołnierczuk, P. Rynio [...] A. Milnerowicz , ... (+11)",
+      "publication_type": "Artykuł , Journal of Endovascular Therapy",
+      "year": "2024",
+      "doi": "10.1177/15266028241304307",
+      "doi_url": "https://www.doi.org/10.1177/15266028241304307",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Regional Anesthesia for the Implantation of a Subcutaneous Implantable Cardioverter-Defibrillator Using Pectoserratus Plane Block and Superficial Serratus Anterior Plane Block",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/publications/aec1667e-4534-47c4-9b21-230275339c71",
+      "authors": "M. Szamborski, J. Janc [...] A. Milnerowicz , ... (+3)",
+      "publication_type": "Artykuł , Medical Science Monitor",
+      "year": "2023",
+      "doi": "10.12659/msm.940541",
+      "doi_url": "https://www.doi.org/10.12659/msm.940541",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/research-work/0e3544d7-93ec-4743-9a39-b62a0ad7e83a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Częstość występowania powtórnego zwężenia tętnicy szyjnej wewnętrznej w zależności od metody operacyjnej i czynników ryzyka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.milnerowicz.9aL7twWWuRf/research-work/cb6265b7-ddfb-4235-9b8d-12c27e821859",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=136003"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,263 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx",
+  "slug": "henryk.otwinowski",
+  "profile_id": "8LEDCz9EHzx",
+  "full_name": "prof. dr hab. inż. Henryk Otwinowski",
+  "orcid": "0000-0003-2799-7210",
+  "orcid_url": "https://orcid.org/0000-0003-2799-7210",
+  "breadcrumb_name": "Henryk Otwinowski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przeróbka mechaniczna ciał stałych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "45 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "POLITECHNIKA WROCŁAWSKA, INSTYTUT TECHNIKI CIEPLNEJ I MECHANIKI PŁYNÓW",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1980",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "How Charge Arrangement Affects Heat Transfer in Chamber Furnaces During Steel Heating",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/publications/b7b22183-1592-480c-9e5c-6a86a37ba632",
+      "authors": "J. Boryca, T. Wyleciał [...] H. Otwinowski , ... (+1)",
+      "publication_type": "Artykuł , International Journal of Heat and Technology",
+      "year": "2025",
+      "doi": "10.18280/ijht.430102",
+      "doi_url": "https://www.doi.org/10.18280/ijht.430102",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fuzzy Logic Approach for Modeling of Heating and Scale Formation in Industrial Furnaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/publications/d5be7f39-ea09-411a-a0b0-24e8021c7920",
+      "authors": "J. Krzywański, J. Boryca [...] H. Otwinowski , ... (+4)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17215355",
+      "doi_url": "https://www.doi.org/10.3390/ma17215355",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis of Changes in Electricity Generation from Renewable Energy Sources after Poland’s Accession to Structures of the European Union",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/publications/ad82ce34-99e4-4467-a562-bb20cc8a9ced",
+      "authors": "D. Zbroński, H. Otwinowski , A. Górecka-Zbrońska, ... (+2)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16124794",
+      "doi_url": "https://www.doi.org/10.3390/en16124794",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Entropia informacyjna w modelowaniu procesu rozdrabniania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/5ab0a026-8c69-4148-80eb-01b5aa8db278",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania eksperymentalne spalania tlenowego biomasy agro i leśnej w cyrkulacyjnej warstwie fluidalnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/593bb4d9-c698-4c35-b967-46fd81ef3272",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania procesu fragmentacji paliw stałych podczas spalania tlenowego w cyrkulacyjnej warstwie fluidalnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/c5d1e98c-7a38-452d-8eeb-bad885f01d65",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie i modelowanie procesu klasyfikacji ziaren w przepływowym klasyfikatorze odśrodkowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/c314ec19-d71c-4169-91f0-80f4435ac26d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Synteza i analiza konstrukcji antyrezonansowego młyna wibracyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/d8523c8d-80e6-475f-9da7-185683db90c7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie opadania cząstek w procesie sedymentacji polidyspersyjnej zawiesiny pokoagulacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/950f0f26-eda9-48ed-8094-9f9b035e30c0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie chemicznej pompy ciepła do zwiększenia efektywności energetycznej skojarzonej produkcji etanolu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.otwinowski.8LEDCz9EHzx/research-work/47e4ccfd-1607-44a4-a6c1-8b393abe216f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=38178"
+    }
+  ],
+  "tag_cloud": [
+    "boltzmann equation",
+    "renewable energy sources",
+    "mechanical properties",
+    "thermal properties",
+    "mathematical model",
+    "identification",
+    "математическая модель",
+    "fluidized bed jet mill",
+    "comminution",
+    "twardość materiału"
+  ],
+  "coworkers": []
+}

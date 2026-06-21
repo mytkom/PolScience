@@ -1,0 +1,104 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl",
+  "slug": "kamil.kosacki",
+  "profile_id": "3cr76GBZEDl",
+  "full_name": "mgr inż. Kamil Kosacki",
+  "orcid": "0000-0001-9359-6082",
+  "orcid_url": "https://orcid.org/0000-0001-9359-6082",
+  "breadcrumb_name": "Kamil Kosacki",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Airmanship - koncepcja nowoczesnego szkolenia lotniczego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kosacki.3cr76GBZEDl/publications/6d7bf243-8c55-4497-bd12-976f3cc2143d",
+      "authors": "T. Rogalski, K. Kosacki , P. Kot",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

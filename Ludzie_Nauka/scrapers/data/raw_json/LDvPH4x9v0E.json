@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E",
+  "slug": "katarzyna.borkowska",
+  "profile_id": "LDvPH4x9v0E",
+  "full_name": "dr Katarzyna Marta Borkowska",
+  "orcid": "0000-0002-9367-4674",
+  "orcid_url": "https://orcid.org/0000-0002-9367-4674",
+  "breadcrumb_name": "Katarzyna Borkowska",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "UMK w Toruniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Approximation of BSDE with non Lipschitz coefficient",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/publications/4db813cf-9644-4540-b094-6c1546376453",
+      "authors": "D. Borkowski, K. Jańczak-Borkowska",
+      "publication_type": "Artykuł , Stochastic Analysis and Applications",
+      "year": "2021",
+      "doi": "10.1080/07362994.2021.1889380",
+      "doi_url": "https://www.doi.org/10.1080/07362994.2021.1889380",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Reduction of JPEG Artifacts using BSDEs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/publications/8c9bae82-74bb-4846-bdb5-530e9ddd3ae8",
+      "authors": "K. Borkowska , D. Borkowski, K. Jańczak-Borkowska",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Fractional backward stochastic variational inequalities with non-Lipschitz coefficient",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/publications/baebe18b-339c-4bdf-a1ba-5bb09c416980",
+      "authors": null,
+      "publication_type": "Artykuł , Brazilian Journal of Probability and Statistics",
+      "year": "2019",
+      "doi": "10.1214/18-bjps398",
+      "doi_url": "https://www.doi.org/10.1214/18-bjps398",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Aproksymacja rozwiązań stochastycznych równań różniczkowych wstecz z odbiciem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.borkowska.LDvPH4x9v0E/research-work/8531a92c-c5f2-4c53-88cf-32bc5af8ddfa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=216091"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

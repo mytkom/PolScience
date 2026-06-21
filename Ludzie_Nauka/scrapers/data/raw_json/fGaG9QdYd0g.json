@@ -1,0 +1,286 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g",
+  "slug": "grzegorz.lota",
+  "profile_id": "fGaG9QdYd0g",
+  "full_name": "prof. dr hab. inż. Grzegorz Józef Lota",
+  "orcid": "0000-0002-4329-9423",
+  "orcid_url": "https://orcid.org/0000-0002-4329-9423",
+  "breadcrumb_name": "Grzegorz Lota",
+  "current_employment_summary": [
+    "Politechnika Poznańska",
+    "Sieć Badawcza Łukasiewicz - Instytut Metali Nieżelaznych"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "elektrochemia techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Instytut Metali Nieżelaznych Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Metali Nieżelaznych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e39f2b22-d9fa-4aa7-85df-8fb79baf3799",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5a218395-7880-4d1c-a97c-7db297b065cc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Instytut Metali Nieżelaznych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e39f2b22-d9fa-4aa7-85df-8fb79baf3799"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/gremiums/b2c3e283-51b3-4143-842d-2a2e66779528",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Chemicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/gremiums/eea4cb4b-0831-4b51-8ccc-0827f66373e0",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Bio-waste to high-performance sensors: Thiourea-modified carbonised chitosan as a functional filler for 3D printable electrodes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/publications/333cba80-2b25-491e-8fcf-c58a0149f166",
+      "authors": "A. Tober, G. Siqueira [...] G. Lota , ... (+7)",
+      "publication_type": "Artykuł , Electrochimica Acta",
+      "year": "2026",
+      "doi": "10.1016/j.electacta.2025.148068",
+      "doi_url": "https://www.doi.org/10.1016/j.electacta.2025.148068",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Corrosion prevention in electrochemical capacitors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/publications/defb7164-48ce-4b80-b81a-a75a9b0b91b6",
+      "authors": "J. Wojciechowski, S. Jasiński, G. Lota",
+      "publication_type": "Artykuł , Electrochimica Acta",
+      "year": "2025",
+      "doi": "10.1016/j.electacta.2025.146547",
+      "doi_url": "https://www.doi.org/10.1016/j.electacta.2025.146547",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Formation Processes of Absorbent Glass Mat versus Flooded Lead-Acid Batteries—Differences and Similarities: Practical Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/publications/1bd26e85-6e79-4a59-9327-802e44672b3c",
+      "authors": "S. Walkowiak, M. Baraniak [...] G. Lota , ... (+1)",
+      "publication_type": "Artykuł , Energy Technology",
+      "year": "2025",
+      "doi": "10.1002/ente.202500518",
+      "doi_url": "https://www.doi.org/10.1002/ente.202500518",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja parametrów fizykochemicznych materiałów węglowych dla elektrochemicznych systemów magazynowania i konwersji energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/2a4e4e2f-ed61-4ab8-9b54-cd4d69ed687d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Materiały węglowe jako składniki elektrod kondensatorów elektrochemicznych oraz nośniki cząstek katalitycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/0d89c148-7fbb-4b90-9288-28a2e9125d83",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rola związków krzemoorganicznych w ochronie metali oraz stali przed korozją elektrochemiczą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/74be531c-7ac9-4fd5-ab6f-cea30009b3cf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Synthesis and characterization of carbon cathode materials for secondary lithium-oxygen cells",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/93a91b7d-d489-4f8a-a919-59c481fb0c3e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja elektroosadzania elektrycznych mikrokontaktów miedzianych w wytwarzaniu zintegrowanych wielowarstwowych obwodów elektrycznych (obwodów drukowanych)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/a5c5ed33-cef1-41e7-a14c-36eb7cbccca2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Sustainable and green batteries: Fluorine-free Lithium-ion cells",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.lota.fGaG9QdYd0g/research-work/dd7e2ef8-0df7-4f2e-8cce-fe984bd31bed",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214207"
+    }
+  ],
+  "tag_cloud": [
+    "oxygen reduction reaction",
+    "ozone treatment",
+    "energy storage",
+    "membrane techniques",
+    "corrosion",
+    "electrochemistry",
+    "doping",
+    "adsorption",
+    "ciecze jonowe",
+    "activated carbon"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM",
+  "slug": "arkadiusz.szarek",
+  "profile_id": "9gYGEmuORxM",
+  "full_name": "dr hab. inż. Arkadiusz Szarek",
+  "orcid": "0000-0002-5910-0554",
+  "orcid_url": "https://orcid.org/0000-0002-5910-0554",
+  "breadcrumb_name": "Arkadiusz Szarek",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "biocybernetyka i inżynieria biomedyczna",
+    "biomechanika",
+    "diagnostyka medyczna",
+    "informatyka stosowana",
+    "biomechanika inżynierska",
+    "modelowanie i symulacja",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact of Microstructural Anisotropy on the Low-Cycle Fatigue of S420M Steel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/publications/294368be-bfd7-4ec1-a3f3-d0b850891228",
+      "authors": "S. Mroziński, G. Golański [...] A. Szarek , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18102365",
+      "doi_url": "https://www.doi.org/10.3390/ma18102365",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Impact of Strength Parameters and Material Structure of Bone Plates on Displacement of Bone Fragments in the Injured Area",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/publications/867a5746-4c00-4f83-8c35-257d16dc083e",
+      "authors": "A. Szarek , G. Golański, Z. Bałaga, ... (+2)",
+      "publication_type": "Artykuł , Journal of Functional Biomaterials",
+      "year": "2025",
+      "doi": "10.3390/jfb16020044",
+      "doi_url": "https://www.doi.org/10.3390/jfb16020044",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Mechanical Characterisation of Carbonised Plant Scaffolds as Potential Bone Graft Substitutes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/publications/db439547-bac2-49e5-8f75-164674597f76",
+      "authors": "K. Joszko, G. Dulęba [...] A. Szarek , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152412999",
+      "doi_url": "https://www.doi.org/10.3390/app152412999",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Biomechaniczne i biomateriałowe aspekty aseptycznego obluzowania endoprotez stawu biodrowego człowieka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work/c0d9371e-ffc4-461e-8890-e1ed15956599",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza naprężeń i odkształceń kości udowej po implantacji endoprotezy stawu biodrowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work/8305f716-761a-4068-b9cb-8088a66e0251",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Komplementarne metody do ilościowej oceny wpływu zmienności parametrów modeli mechanicznych na uzyskiwane wyniki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work/695094dc-633f-430d-a029-c60f32b7df19",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Arkadiusz Szarek",
+        "source": "Źródło danych: POL-on , Arkadiusz Szarek"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena zmian wybranych mechanizmów kontroli posturalnej w odpowiedzi na rzeczywiste i wirtualne bodźce prowadzące do wytrącenia z równowagi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work/44252a07-e697-414b-a1ab-699e94420ef2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wybrane zagadnienia modelowania numerycznego i badań eksperymentalnych w projektowaniu stentów biodegradowalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szarek.9gYGEmuORxM/research-work/cc570e49-6b3a-447b-9240-613657c08653",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=136052"
+    }
+  ],
+  "tag_cloud": [
+    "decellularization; skin substitute; mechanical properties",
+    "polietylen",
+    "traffic accident",
+    "microstructure",
+    "modelowanie",
+    "aluminium and magnesium alloys",
+    "layered composites",
+    "wear",
+    "static pressure roller burnishing (sprb)",
+    "madymo"
+  ],
+  "coworkers": []
+}

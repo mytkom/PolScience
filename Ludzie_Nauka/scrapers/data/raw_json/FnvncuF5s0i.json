@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i",
+  "slug": "piotr.gajewski",
+  "profile_id": "FnvncuF5s0i",
+  "full_name": "dr Piotr Mirosław Gajewski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Gajewski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki medyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "analityka medyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Validation of Becton Dickinson Barricor TM tubes for use with Abbott Alinity TM and Siemens Atellica® highly sensitive cardiac troponin I measuring systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/publications/962a32ec-4f06-466e-a81e-ca270e9a0157",
+      "authors": "P. Gajewski , M. Krintus, M. Chudaś, ... (+8)",
+      "publication_type": "Artykuł , Electronic Journal of the International Federation of Clinical Chemistry and Laboratory Medicine",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Oznaczanie sercowej troponiny I - nowoczesne rozwiązania w celu poprawy postępowania diagnostyczno-klinicznego u pacjentów z podejrzeniem ostrego zespołu wieńcowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.gajewski.FnvncuF5s0i/research-work/e9ede3eb-9494-4830-a8f1-b14936768dcc",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=320301"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

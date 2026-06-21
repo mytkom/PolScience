@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC",
+  "slug": "krzysztof.wójcik",
+  "profile_id": "E4XDFdySPdC",
+  "full_name": "dr inż. Krzysztof Edward Wójcik",
+  "orcid": "0000-0002-9623-202X",
+  "orcid_url": "https://orcid.org/0000-0002-9623-202X",
+  "breadcrumb_name": "Krzysztof Wójcik",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "24 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie Aktualna nazwa: Uniwersytet Komisji Edukacji Narodowej w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/0b80a072-b734-4cd9-bf5b-6c8708b7c2f2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Machine learning methods used in the automatic system for teaching human motions—key aspects of CNN, HMM, and minimum distance algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/publications/16441320-598a-4e54-aae5-60200145c74c",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2024",
+      "doi": "10.1109/access.2024.3397612",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3397612",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Methods of automatic interpretation of signals used in control systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/publications/ba0a40d8-78f6-46dc-976a-1f709f8ee3f0",
+      "authors": null,
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/185846",
+      "doi_url": "https://www.doi.org/10.12913/22998624/185846",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Automatyczny system nauki czynności motorycznych człowieka",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/publications/0d94a174-acbe-4925-9144-9bd213a141d6",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Krakowska im. Tadeusza Kościuszki",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy przetwarzania obrazów przeznaczone do sterowania teleskopem astronomicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.w%C3%B3jcik.E4XDFdySPdC/research-work/45336490-e849-426b-8dd6-4dcf672a8214",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=24340"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

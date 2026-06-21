@@ -1,0 +1,269 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM",
+  "slug": "andrzej.biłat",
+  "profile_id": "Ndvzj897hOM",
+  "full_name": "prof. dr hab. Andrzej Paweł Biłat",
+  "orcid": "0000-0003-1884-1361",
+  "orcid_url": "https://orcid.org/0000-0003-1884-1361",
+  "breadcrumb_name": "Andrzej Biłat",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk humanistycznych"
+  ],
+  "specializations": [
+    "formal ontology (ontologia formalna)",
+    "logical semiotics (semiotyka logiczna)",
+    "logika filozoficzna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Przedsiębiorczości i Administracji w Lublinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a029c48a-4b25-4ee7-bae6-8296a405206b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk humanistycznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki humanistyczne / filozofia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie; Wydział Filozofii i Socjologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/01ff2083-eedf-4ae4-b240-4fcb4903fd75"
+        },
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / filozofia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "filozofia chrześcijańska",
+        "Nadanie tytułu",
+        "Katolicki Uniwersytet Lubelski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Filozofia mistycyzmu Bertranda Russella",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/publications/41af8e64-c77e-4ed1-9516-46e69de1e135",
+      "authors": null,
+      "publication_type": "Artykuł , Analiza i Egzystencja",
+      "year": "2025",
+      "doi": "10.18276/aie.2025.72-05",
+      "doi_url": "https://www.doi.org/10.18276/aie.2025.72-05",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Two kinds of empirical truth, and realism about idealized laws",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/publications/dc7d9d22-f1a5-4d76-9eb1-e826487e5375",
+      "authors": null,
+      "publication_type": "Artykuł , Logos i Ethos",
+      "year": "2025",
+      "doi": "10.15633/lie.31201",
+      "doi_url": "https://www.doi.org/10.15633/lie.31201",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The correctness and relevance of the modal ontological argument",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/publications/a16e736d-8988-4f2c-bf7d-b4176794730f",
+      "authors": null,
+      "publication_type": "Artykuł , Synthese",
+      "year": "2021",
+      "doi": "10.1007/s11229-020-02908-5",
+      "doi_url": "https://www.doi.org/10.1007/s11229-020-02908-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ontologiczna interpretacja logiki. U podstaw ontologii logicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/7c374b1a-bd1e-4b1e-8b6b-d21390c62fec",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "O tak zwanej mocnej wersji klasycznego pojęcia prawdy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/633fe136-7bd2-467b-b312-da9e058feeab",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Główne rozróżnienia de re/de dicto we swpółczesnej filozofii języka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/2419bb5d-0f04-4612-b201-cd5f1e3ce83a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Teoria transcendentaliów w świetle ontologii własności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/31f531c4-4ec1-4698-be54-85630dc70600",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/d61541a6-0a68-4879-87d1-ccaf5021c64d",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bi%C5%82at.Ndvzj897hOM/research-work/92fbfb05-811a-4d49-ae7e-a032cae9a86d",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=18826"
+    }
+  ],
+  "tag_cloud": [
+    "dwutorowy model komunikacji",
+    "eksplikacyjna",
+    "ontologia formalna",
+    "ontologia logiczna",
+    "elm",
+    "esencjalny styl komunikowania",
+    "filled time",
+    "ontological notions",
+    "pojęcia ontologiczne",
+    "czas wypełniony"
+  ],
+  "coworkers": []
+}

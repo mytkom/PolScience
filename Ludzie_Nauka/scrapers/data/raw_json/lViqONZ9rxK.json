@@ -1,0 +1,129 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK",
+  "slug": "arkadiusz.hajduga",
+  "profile_id": "lViqONZ9rxK",
+  "full_name": "dr Arkadiusz Hajduga",
+  "orcid": "0000-0003-1579-4440",
+  "orcid_url": "https://orcid.org/0000-0003-1579-4440",
+  "breadcrumb_name": "Arkadiusz Hajduga",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "energooszczędne układy napędowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the strategies for managing extended-range electric vehicle powertrain in the urban driving cycle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/publications/6bb6bab4-c0f8-44db-b350-e3152e8f3790",
+      "authors": "J. Lasocki, A. Kopczyński [...] A. Hajduga , ... (+2)",
+      "publication_type": "Artykuł , Electrical Engineering & Electromechanics",
+      "year": "2022",
+      "doi": "10.20998/2074-272x.2022.1.10",
+      "doi_url": "https://www.doi.org/10.20998/2074-272x.2022.1.10",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Dual Motor Single Shaft Powertrain Concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/publications/d216f93c-f23e-4a96-bc2a-d088b181319d",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1109/mmar.2018.8485871",
+      "doi_url": "https://www.doi.org/10.1109/mmar.2018.8485871",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Torque Distribution Analysis for Dual Motor - Single Shaft Electric Drive",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.hajduga.lViqONZ9rxK/publications/e643b3b7-236d-4b18-bc9b-43477f30b882",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1109/mmar.2018.8486022",
+      "doi_url": "https://www.doi.org/10.1109/mmar.2018.8486022",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=230046"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

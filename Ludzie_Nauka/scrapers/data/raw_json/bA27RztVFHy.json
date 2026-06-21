@@ -1,0 +1,228 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy",
+  "slug": "mariusz.uchroński",
+  "profile_id": "bA27RztVFHy",
+  "full_name": "dr hab. inż. Mariusz Norbert Uchroński",
+  "orcid": "0000-0002-9185-1841",
+  "orcid_url": "https://orcid.org/0000-0002-9185-1841",
+  "breadcrumb_name": "Mariusz Uchroński",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optymalizacja dyskretna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Non-crossing neighborhood searching on quantum computer for a single machine scheduling problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/publications/47904b29-f9ae-4685-8e65-43457d33dc35",
+      "authors": "W. Bożejko, M. Uchroński , M. Wodecki",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2025.11.834",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2025.11.834",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimal solving of a scheduling problem using quantum annealing metaheuristics on the D-Wave Quantum Solver",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/publications/6305e9d8-d9de-418b-9e90-36eb06870fd2",
+      "authors": "W. Bożejko, R. Klempous [...] M. Uchroński , ... (+4)",
+      "publication_type": "Artykuł , IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": "2025",
+      "doi": "10.1109/tsmc.2024.3458873",
+      "doi_url": "https://www.doi.org/10.1109/tsmc.2024.3458873",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Data-driven approach enabling post-operation evaluation of air conditioning performance regarding thermal conditions attained indoors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/publications/b178daf4-df16-49d4-8ccc-b72ce0f4c2cc",
+      "authors": "M. Maciejewska, A. Szczurek, M. Uchroński , ... (+2)",
+      "publication_type": "Artykuł , Journal of Building Engineering",
+      "year": "2024",
+      "doi": "10.1016/j.jobe.2024.108953",
+      "doi_url": "https://www.doi.org/10.1016/j.jobe.2024.108953",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Efektywne metody rozwiązywania problemów optymalizacji dyskretnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/2fda270f-a887-4b6d-9bfb-cba1e50a93d3",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Równoległe i rozproszone algorytmy optymalizacji w elastycznych systemach wytwarzania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/3837c8e3-3078-4ddd-bee6-454b30e55f0d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy szeregowania zadań i rozdziału zasobów w systemach wieloprocesorowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/ebc8345a-027c-4566-abcf-036eb69bc03b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Właściwości i algorytmy dla systemów wytwarzania z maszynami równoległymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/a4cdeae8-af57-4ac2-aa90-d0ecb23311ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/dbfa9d42-007d-4c0b-b06b-3c1909f990a1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Development and verification of new methods for analyzing the structure and operation of complex IT systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.uchro%C5%84ski.bA27RztVFHy/research-work/38d09eb6-3bcf-4985-ba24-0d1d8f62d6ac",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260345"
+    }
+  ],
+  "tag_cloud": [
+    "tabu search",
+    "przeszukiwanie tabu",
+    "własności eliminacyjne",
+    "przestrzeń rozwiązań",
+    "szeregowanie zadań",
+    "metaheurystyka",
+    "fizyka materiałów",
+    "cykliczny problem gniazdowy",
+    "algorytm równoległy",
+    "analiza fouriera"
+  ],
+  "coworkers": []
+}

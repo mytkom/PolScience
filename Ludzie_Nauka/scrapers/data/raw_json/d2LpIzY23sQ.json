@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ",
+  "slug": "magdalena.janda",
+  "profile_id": "d2LpIzY23sQ",
+  "full_name": "mgr inż. Magdalena Janda",
+  "orcid": "0000-0002-4232-667X",
+  "orcid_url": "https://orcid.org/0000-0002-4232-667X",
+  "breadcrumb_name": "Magdalena Janda",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina sztuki"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Historia i rola głównego dworca kolejowego w rozwoju urbanistycznym Rzeszowa",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/publications/3166a897-7c8f-4328-aa81-870f8ccb4fd7",
+      "authors": null,
+      "publication_type": "Artykuł , Wiadomości Konserwatorskie",
+      "year": "2022",
+      "doi": "10.48234/wk71railway",
+      "doi_url": "https://www.doi.org/10.48234/wk71railway",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Problematyka budowy średniowiecznych miast Podkarpacia – ze stanu badań (State of research on the construction of medieval cities in the Podkarpacie region)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/publications/2d6d3ef0-e548-42be-a6c2-6dab2c1dfa54",
+      "authors": "M. Janda , M. Gosztyła",
+      "publication_type": "Artykuł , Wiadomości Konserwatorskie",
+      "year": "2019",
+      "doi": "10.17425/wk57podkarpacie",
+      "doi_url": "https://www.doi.org/10.17425/wk57podkarpacie",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Wooden architecture of sieve farmsteads in Biłgoraj on the example of the farmstead at Nadstawna 32 St.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.janda.d2LpIzY23sQ/publications/591a0032-145e-4e4c-b2e3-b29864e3d2fa",
+      "authors": "M. Gosztyła, M. Janda",
+      "publication_type": "Artykuł , E3S Web of Conferences",
+      "year": "2018",
+      "doi": "10.1051/e3sconf/20184900035",
+      "doi_url": "https://www.doi.org/10.1051/e3sconf/20184900035",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

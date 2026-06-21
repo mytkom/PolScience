@@ -1,0 +1,284 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO",
+  "slug": "paweł.szczepański",
+  "profile_id": "lrRrxaszQqO",
+  "full_name": "prof. dr hab. inż. Paweł Szczepański",
+  "orcid": "0000-0002-2509-8724",
+  "orcid_url": "https://orcid.org/0000-0002-2509-8724",
+  "breadcrumb_name": "Paweł Szczepański",
+  "current_employment_summary": [
+    "Instytut Łączności - Państwowy Instytut Badawczy",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fotonika",
+    "lasery",
+    "optoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "28 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz - Instytut Technologii Materiałów Elektronicznych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5f1a1851-c25b-40a4-9f56-3cfe3e859d44",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Łączności - Państwowy Instytut Badawczy >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Łączności - Państwowy Instytut Badawczy >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1988",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Łączności - Państwowy Instytut Badawczy >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Łączności - Państwowy Instytut Badawczy >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of nonlinear response of anti-parity-time symmetric structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/publications/883c6164-28ed-4842-8810-fcbcb59fb00d",
+      "authors": "A. Mossakowska-Wyszyńska, P. Witoński, P. Szczepański",
+      "publication_type": "Artykuł , Opto-electronics Review",
+      "year": "2025",
+      "doi": "10.24425/opelre.2025.154198",
+      "doi_url": "https://www.doi.org/10.24425/opelre.2025.154198",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Influence of the Kerr Effect on the Properties of Nonlinear PT-Symmetric Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/publications/e43f54f7-ae78-41e2-bb02-0a671a1cb01d",
+      "authors": "P. Szczepański , P. Witoński, A. Mossakowska-Wyszyńska",
+      "publication_type": "Artykuł , Optics Express",
+      "year": "2025",
+      "doi": "10.1364/oe.578645",
+      "doi_url": "https://www.doi.org/10.1364/oe.578645",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Methodology for identification of occupational hazards using their characteristic features in hard coal mining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/publications/baf9c67e-1bce-4e0a-b2e1-13312d6cd01b",
+      "authors": "Z. Burtan, D. Nowak-Senderowska, P. Szczepański",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15137079",
+      "doi_url": "https://www.doi.org/10.3390/app15137079",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rola przestrzennego rozkładu pola w generacji promieniowania w laserze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/a892fad9-cef0-48c2-823c-29df69760a8a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Model generacji promieniowania w laserach posiadających ośrodek aktywny w postaci kryształu fotonicznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/9996a9c0-823c-4203-806a-3246c98cd6b5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie generacji promieniowania w planarnym wielokanałowym laserze sprzężonym fazowo, zbudowanym na bazie dwuwymiarowego kryształu fotonicznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/0104c259-14f9-450a-860d-f2a724649cf2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Proces emisji spontanicznej w kryształach fotonicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/ad1bdc00-beef-46d5-a609-5a932f383367",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie własności optycznych i termicznych diod laserowych dużej mocy pod kątem poprawy niezawodności i optymalizacji przyrządów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/278cce84-2f8d-4d3f-b4e6-f73abd066dd6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Numeryczne modelowanie laserowej generacji intensywnych wiązek jonów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/ebe3a6ee-07c3-461d-b9a0-ccd3c9a54046",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Elementy i struktury optyki zintegrowanej do zastosowań w spektroskopii pola zanikającego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.szczepa%C5%84ski.lrRrxaszQqO/research-work/99529d70-9fd5-419d-a8a8-2dfefc0a6d40",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=10130"
+    }
+  ],
+  "tag_cloud": [
+    "laser planarny",
+    "artiq",
+    "internet",
+    "fpga",
+    "cpcis",
+    "spatial dispersion",
+    "metamaterials",
+    "planar laser",
+    "hyperbolic metamaterials",
+    "hyperbolic metamaterials;"
+  ],
+  "coworkers": []
+}

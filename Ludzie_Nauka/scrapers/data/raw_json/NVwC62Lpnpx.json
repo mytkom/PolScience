@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx",
+  "slug": "dawid.mieloch",
+  "profile_id": "NVwC62Lpnpx",
+  "full_name": "dr hab. inż. Dawid Mieloch",
+  "orcid": "0000-0003-0709-812X",
+  "orcid_url": "https://orcid.org/0000-0003-0709-812X",
+  "breadcrumb_name": "Dawid Mieloch",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "multimedia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On the Selection of Transmitted Views for Decoder-Side Depth Estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/publications/cf6d65e8-25ed-4697-a88b-1fcf1a9c2ba0",
+      "authors": "D. Klóska, A. Dziembowski [...] D. Mieloch , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16010072",
+      "doi_url": "https://www.doi.org/10.3390/app16010072",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "ECPC – versatile multicamera system calibration framework for immersive video applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/publications/480f66a3-5663-417f-90b7-c6cf6907451a",
+      "authors": "B. Szydełko, D. Mieloch , A. Dziembowski, ... (+4)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2024",
+      "doi": "10.1016/j.softx.2024.101669",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2024.101669",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "On Alpha-Expansion-Based Graph-Cut Optimization for Decoder-Side Depth Estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/publications/992d073c-2cb1-4efb-9560-3ce5ea98b258",
+      "authors": "D. Mieloch , D. Klóska, O. Stankiewicz",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14135768",
+      "doi_url": "https://www.doi.org/10.3390/app14135768",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Estymacja, kompresja i wykorzystanie map głębi w wizji wszechogarniającej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/research-work/16d1ca82-0124-45f5-8f88-514fefb625fb",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Dawid Mieloch",
+        "source": "Źródło danych: POL-on , Dawid Mieloch"
+      },
+      {
+        "row_order": 1,
+        "title": "Depth Estimation in Free-Viewpoint Television",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.mieloch.NVwC62Lpnpx/research-work/c6e9d89a-9e34-4ea8-a880-d8289241a488",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=hOJGZ4wAAAAJ"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dawid-mieloch"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=56338324500"
+    },
+    {
+      "label": "Profil na stronie Instytutu Telekomunikacji Multimedialnej",
+      "url": "http://www.multimedia.edu.pl/?page=dmieloch"
+    }
+  ],
+  "tag_cloud": [
+    "system wielokamerowy",
+    "depth estimation",
+    "multicamera system",
+    "decoder-side depth estimation",
+    "immersive video",
+    "view synthesis",
+    "wizja wszechogarniająca",
+    "virtual reality",
+    "multiview stereo",
+    "multicamera system calibration"
+  ],
+  "coworkers": []
+}

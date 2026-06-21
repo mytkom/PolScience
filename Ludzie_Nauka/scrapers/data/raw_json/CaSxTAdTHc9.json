@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9",
+  "slug": "piotr.derugo",
+  "profile_id": "CaSxTAdTHc9",
+  "full_name": "dr inż. Piotr Stanisław Derugo",
+  "orcid": "0000-0001-7030-6118",
+  "orcid_url": "https://orcid.org/0000-0001-7030-6118",
+  "breadcrumb_name": "Piotr Derugo",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sterowanie adaptacyjne",
+    "automatyka napędu elektrycznego",
+    "automatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Łódzka; Wydział Elektrotechniki, Elektroniki, Informatyki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e77302ed-7e53-4b39-8ce6-26dc8869ebf2"
+        },
+        {
+          "label": "Politechnika Łódzka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of higher-order disturbance observer in the control structure of the two-mass system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/publications/e51e1253-b53c-4f2d-9d73-8db90bbce3a7",
+      "authors": "P. Derugo , A. Kahsay, K. Szabat, ... (+4)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Design of disturbance observer-based robust speed control structure for two-mass drive system with the help of birch optimization algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/publications/d8af3203-86cb-4ea7-950a-9e5add4fddd0",
+      "authors": "A. Kahsay, P. Derugo , K. Szabat, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18081914",
+      "doi_url": "https://www.doi.org/10.3390/en18081914",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid NARX Neural Network with Model-Based Feedback for Predictive Torsional Torque Estimation in Electric Drive with Elastic Connection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/publications/33d7b1cc-8237-4dbf-88d6-6782ef0e02b9",
+      "authors": "A. Kahsay, P. Derugo , A. Haftu Kahsay, ... (+2)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18143770",
+      "doi_url": "https://www.doi.org/10.3390/en18143770",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sieci Petriego w regulatorach rozmytych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.derugo.CaSxTAdTHc9/research-work/5269a618-5330-4072-b9f5-69197a919159",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=EbaEOGgAAAAJ&hl=pl&oi=ao"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/piotr-derugo-623829a3/"
+    },
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=277097"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Piotr-Derugo"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=56003707000"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/936983"
+    }
+  ],
+  "tag_cloud": [
+    "zbiory rozmyte typu 2",
+    "układ dwumasowy",
+    "adaptacyjny regulator rozmyty",
+    "sterowanie adaptacyjne",
+    "warstwa tranzycji petriego",
+    "rekurencyjne sieci neuronowe",
+    "sterowanie z modelem wewnętrznym",
+    "anfc",
+    "adaptacyjny regulator neronowo-rozmyty",
+    "funkcje rozmyte typu 2"
+  ],
+  "coworkers": []
+}

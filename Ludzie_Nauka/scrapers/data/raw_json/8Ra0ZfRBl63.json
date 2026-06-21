@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63",
+  "slug": "arkadiusz.warzyński",
+  "profile_id": "8Ra0ZfRBl63",
+  "full_name": "dr inż. Arkadiusz Warzyński",
+  "orcid": "0000-0002-0452-7518",
+  "orcid_url": "https://orcid.org/0000-0002-0452-7518",
+  "breadcrumb_name": "Arkadiusz Warzyński",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Collaborative intrusion detection using weighted ensemble averaging deep neural network for coordinated attack detection in heterogeneous network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/publications/5da14077-c6d3-4f29-ad3d-69ed31cf1835",
+      "authors": "A. Wardana, G. Kołaczek, A. Warzyński , ... (+1)",
+      "publication_type": "Artykuł , International Journal of Information Security",
+      "year": "2024",
+      "doi": "10.1007/s10207-024-00891-3",
+      "doi_url": "https://www.doi.org/10.1007/s10207-024-00891-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Ensemble averaging deep neural network for botnet detection in heterogeneous Internet of Things devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/publications/c62f8c7d-d0d7-405a-9bdc-f71688411c5b",
+      "authors": "A. Wardana, G. Kołaczek, A. Warzyński , ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-54438-6",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-54438-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Krajowe laboratorium sieci i usług PL, 5G: kierunki badań i perspektywy rozwoju techniki 5G/6G",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.warzy%C5%84ski.8Ra0ZfRBl63/publications/d75f3790-fe59-4754-b923-c49a2e9cc8c5",
+      "authors": "A. Bęben, J. Woźniak [...] A. Warzyński , ... (+13)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2024",
+      "doi": "10.15199/59.2024.4.4",
+      "doi_url": "https://www.doi.org/10.15199/59.2024.4.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "control system for managing experiments",
+    "struktura laboratorium",
+    "system wykrywania włamań ids",
+    "access rules",
+    "wykrywanie anomalii",
+    "structure of laboratory",
+    "system zarządzania eksperymentami",
+    "laboratorium sieci i usług 5g",
+    "zasady korzystania",
+    "5g laboratory"
+  ],
+  "coworkers": []
+}

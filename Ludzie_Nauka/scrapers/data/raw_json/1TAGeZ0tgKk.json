@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk",
+  "slug": "agnieszka.sołtysiak",
+  "profile_id": "1TAGeZ0tgKk",
+  "full_name": "dr inż. Agnieszka Sołtysiak",
+  "orcid": "0000-0002-6807-2276",
+  "orcid_url": "https://orcid.org/0000-0002-6807-2276",
+  "breadcrumb_name": "Agnieszka Sołtysiak",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Nadanie tytułu",
+        "UTP Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mathematical Model for Determining the Time of Preventive Replacements in the Agricultural Machinery Service System with Minimal Repair",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/publications/9fe6ee67-153a-43e1-ba93-9fa28d63922e",
+      "authors": "S. Borowski, K. Migawa [...] A. Sołtysiak , ... (+5)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13010640",
+      "doi_url": "https://www.doi.org/10.3390/app13010640",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Regression model in the operation of wind turbines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/publications/6ff60296-0738-4893-8c4a-9da607ece6e3",
+      "authors": "S. Browski, A. Neubauer [...] A. Sołtysiak , ... (+2)",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2021",
+      "doi": "10.1051/matecconf/202135101021",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/202135101021",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Semi-Markov Model of the System of Repairs and Preventive Replacements by Age of City Buses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.so%C5%82tysiak.1TAGeZ0tgKk/publications/8a2a7845-831a-4035-8847-0ceeed741116",
+      "authors": "K. Migawa, S. Borowski [...] A. Sołtysiak , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2021",
+      "doi": "10.3390/app112110411",
+      "doi_url": "https://www.doi.org/10.3390/app112110411",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "microstructure",
+    "risk assessment",
+    "failure rate function",
+    "reliability function",
+    "gotowość",
+    "ryzyko",
+    "funkcja intensywności uszkodzeń",
+    "funkcja niezawodności",
+    "optimization problem",
+    "replacement passengers"
+  ],
+  "coworkers": []
+}

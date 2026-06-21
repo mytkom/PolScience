@@ -1,0 +1,156 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV",
+  "slug": "jakub.paliga",
+  "profile_id": "ldrlpTsD8dV",
+  "full_name": "dr Jakub Paliga",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jakub Paliga",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2018",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Configuration spaces and directed paths on the final precubical set",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/publications/e3805ee4-6554-44a4-9b0f-7a429f128ef4",
+      "authors": "J. Paliga , K. Ziemiański",
+      "publication_type": "Artykuł , FUNDAMENTA MATHEMATICAE",
+      "year": "2022",
+      "doi": "10.4064/fm114-9-2021",
+      "doi_url": "https://www.doi.org/10.4064/fm114-9-2021",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Equivariant Khovanov Homotopy Types",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.paliga.ldrlpTsD8dV/research-work/5306ee40-fe9f-457e-9490-f48dea644a53",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

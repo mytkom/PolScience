@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb",
+  "slug": "włodzimierz.dąbrowski",
+  "profile_id": "aycLAVrN8jb",
+  "full_name": "dr Włodzimierz Piotr Dąbrowski",
+  "orcid": "0000-0002-8060-1580",
+  "orcid_url": "https://orcid.org/0000-0002-8060-1580",
+  "breadcrumb_name": "Włodzimierz Dąbrowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka i inżynieria komputerowa",
+    "bazy danych",
+    "inżynieria oprogramowania",
+    "teoria sterowania",
+    "elektroniczne nauczanie",
+    "elektromechatronika",
+    "elektrotechnologie",
+    "systemy obiektowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Polsko-Japońska Wyższa Szkoła Technik Komputerowych Aktualna nazwa: Polsko-Japońska Akademia Technik Komputerowych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Polsko-Japońska Akademia Technik Komputerowych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Polsko-Japońska Akademia Technik Komputerowych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Aktywizacja studentów kursów e-learningowych na przykładzie kursu inżynierii oprogramowania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/publications/c5c05f31-f994-4ea2-86c6-17fcd76829c3",
+      "authors": null,
+      "publication_type": "Artykuł , EduAkcja. Magazyn edukacji elektronicznej",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Podstawy teorii sterowania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/publications/b0732877-4ea1-4da9-904d-4822680ea133",
+      "authors": "A. Dzieliński, W. Dąbrowski , R. Łopatka, ... (+1)",
+      "publication_type": "Książka , Wydawnictwo Naukowo-Techniczne",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Zintegrowane modelowanie zarządzania inteligentną metropolią w obszarach sterowania ruchem i bezpieczeństwem w ruchu drogowym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/publications/b4e0b253-76ab-4ae0-9da8-0984bd436d8f",
+      "authors": null,
+      "publication_type": "Artykuł , Logistyka: czasopismo dla profesjonalistów",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod interpolacji macierzowej do analizy i syntezy układów sterowania jedno- i dwuwymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.d%C4%85browski.aycLAVrN8jb/research-work/88c1546e-7ac1-4411-a975-4bc28d58b381",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=83472"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

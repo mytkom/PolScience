@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq",
+  "slug": "leszek.sowa",
+  "profile_id": "Iz7yyvU07Hq",
+  "full_name": "dr inż. Leszek Sowa",
+  "orcid": "0000-0001-8278-1856",
+  "orcid_url": "https://orcid.org/0000-0001-8278-1856",
+  "breadcrumb_name": "Leszek Sowa",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika stosowana",
+    "termomechanika materiałów",
+    "modelowanie i symulacja komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Numerical Modeling of the Solidification Process in a Mold-Casting System with a Gaseous Gap",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/publications/9be56942-ace9-4f43-8559-068fe94fa651",
+      "authors": "E. Węgrzyn-Skrzypczak, T. Skrzypczak, L. Sowa",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2025",
+      "doi": "10.17512/jamcm.2025.1.06",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2025.1.06",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical Modeling of Basic Physical Phenomena of the Cast Slab Solidification Process at the Initial Stage of the Continuous Casting Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/publications/111a3da0-0fa4-445a-888f-6555696de085",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.756",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.756",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical Modeling of the Bronze Solidification Process with Consideration of the Influence of an Air Gap Between the Mold and the Casting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/publications/ae2d4741-5dad-49dd-8bac-e7b1dd495079",
+      "authors": "T. Skrzypczak, L. Sowa",
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.743",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.743",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie krzepnięcia stopów metali z uwzględnieniem ruchów fazy ciekłej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.sowa.Iz7yyvU07Hq/research-work/42f85120-803b-4407-b13b-dbdb9318a506",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=83917"
+    }
+  ],
+  "tag_cloud": [
+    "symulacje numeryczne",
+    "casting defect",
+    "finite element method",
+    "molten metal flow",
+    "numerical modelling",
+    "solidification",
+    "numerical simulation",
+    "solidification process",
+    "gantry crane beam",
+    "castings defects"
+  ],
+  "coworkers": []
+}

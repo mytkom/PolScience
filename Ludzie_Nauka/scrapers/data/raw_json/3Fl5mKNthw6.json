@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6",
+  "slug": "aleksander.karolczuk",
+  "profile_id": "3Fl5mKNthw6",
+  "full_name": "prof. dr hab. inż. Aleksander Gracjan Karolczuk",
+  "orcid": "0000-0001-5852-4024",
+  "orcid_url": "https://orcid.org/0000-0001-5852-4024",
+  "breadcrumb_name": "Aleksander Karolczuk",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika ciała stałego",
+    "zmęczenie metali i konstrukcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techczniczne / brak na dyplomie",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Opolska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Error tolerance for effective model parameter estimation in multiaxial fatigue life prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/publications/12555d35-1163-4836-83f4-9f55c00ee55d",
+      "authors": "D. Skibicki, A. Karolczuk",
+      "publication_type": "Artykuł , International Journal of Fatigue",
+      "year": "2025",
+      "doi": "10.1016/j.ijfatigue.2024.108700",
+      "doi_url": "https://www.doi.org/10.1016/j.ijfatigue.2024.108700",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Machine learning insight into the mean stress impact on fatigue life of additively manufactured 18Ni300 maraging steel under various multiaxial stress paths",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/publications/72a29276-88e9-4ba1-9e07-d005f4df3ac1",
+      "authors": "A. Karolczuk , A. Kurek",
+      "publication_type": "Artykuł , International Journal of Fatigue",
+      "year": "2025",
+      "doi": "10.1016/j.ijfatigue.2025.109023",
+      "doi_url": "https://www.doi.org/10.1016/j.ijfatigue.2025.109023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A study on friction induced tribological characteristics of steel 316 L against 100 cr6 alloy under different lubricating conditions with machine learning model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/publications/22e88fd7-4fed-4b48-ab5e-4b53d5bc31bc",
+      "authors": "M. Gupta, G. Vashishtha [...] A. Karolczuk , ... (+6)",
+      "publication_type": "Artykuł , Tribology International",
+      "year": "2024",
+      "doi": "10.1016/j.triboint.2024.109599",
+      "doi_url": "https://www.doi.org/10.1016/j.triboint.2024.109599",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nielokalne metody obliczeń zmęczeniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/fddf92a4-b383-49b0-962f-78771a7fba7d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Płaszczyzny krytyczne w modelach zmęczenia materiałów przy wieloosiowych obciążeniach losowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/4a412c72-8968-4cf5-9caa-1aa98ec0e17e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zjawiska degradacyjne w bimetalu stal-tytan przy obciążeniach cyklicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/46a393b0-4aa2-44b5-8f4d-ae87df6a3357",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie koncepcji najsłabszego ogniwa w obliczeniach trwałości zmęczeniowej stalowych złączy spawanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/64168795-bec9-48b3-a3f3-72d24fd7e6a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/5bf5c96d-ad4c-41b5-9482-bd56a5811d72",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wyznaczanie trwałości materiałów metodą spektralną z uwzględnieniem składowej statycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/762d5c31-27e9-4f1d-b047-5a7d590feb0d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza nierównomierności pracy silnika o zapłonie samoczynnym z wtryskiem wielofazowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.karolczuk.3Fl5mKNthw6/research-work/678dfd57-347b-48db-a75e-cdf4b0095f19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=115079"
+    }
+  ],
+  "tag_cloud": [
+    "szacowanie trwałości zmęczeniowej",
+    "fatigue life",
+    "fatigue strength",
+    "proces gaussowski",
+    "fatigue life prediction",
+    "trwałość zmęczeniowa",
+    "multiaxial fatigue criteria",
+    "multiaxial fatigue",
+    "machine learning",
+    "uncertainty prediction"
+  ],
+  "coworkers": []
+}

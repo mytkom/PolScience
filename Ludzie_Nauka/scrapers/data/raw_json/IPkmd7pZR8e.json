@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e",
+  "slug": "robert.janowski",
+  "profile_id": "IPkmd7pZR8e",
+  "full_name": "dr inż. Robert Janowski",
+  "orcid": "0000-0002-7198-9050",
+  "orcid_url": "https://orcid.org/0000-0002-7198-9050",
+  "breadcrumb_name": "Robert Janowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Warszawska Wyższa Szkoła Informatyki w Warszawie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci telekomunikacyjne",
+    "inżynieria oprogramowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Warszawska Wyższa Szkoła Informatyki w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e49e40ae-52f4-433e-b580-1e15df799750",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Warszawska Wyższa Szkoła Informatyki w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e49e40ae-52f4-433e-b580-1e15df799750"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On providing multi-level security assurance based on Common Criteria for O-RAN mobile network equipment. A test case: O-RAN Distributed Unit",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/publications/380c5244-0807-4077-acfe-711ef959b0ea",
+      "authors": "P. Krawiec, R. Janowski , J. Mongay Batalla, ... (+3)",
+      "publication_type": "Artykuł , Computers and Security",
+      "year": "2025",
+      "doi": "10.1016/j.cose.2024.104271",
+      "doi_url": "https://www.doi.org/10.1016/j.cose.2024.104271",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "How to Circumvent and Beat the Ransomware in Android Operating System—A Case Study of Locker.CB!tr",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/publications/ae8afbcf-5faa-4378-af06-9328e2be07a2",
+      "authors": "J. Mongay Batalla, K. Drabent, R. Janowski",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13112212",
+      "doi_url": "https://www.doi.org/10.3390/electronics13112212",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The analytical framework for optimizing TCP retransmission algorithm based on adjustment of its EWMA parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/publications/525e528c-f22f-4f9b-8f80-35fcbe15a293",
+      "authors": "M. Grabowski, M. Grabowski, R. Janowski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.149538",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.149538",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody wymiarowania zasobów sieci IP z uwzględnieniem algorytmu szeregowania pakietów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.janowski.IPkmd7pZR8e/research-work/579f8f09-ca65-40d2-9b7f-7130382fef9d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=211242"
+    }
+  ],
+  "tag_cloud": [
+    "detekcja tablic rejestracyjnych",
+    "pytesseract",
+    "entropy",
+    "tcp",
+    "alpr",
+    "jacobson",
+    "weighted median",
+    "retransmission timers",
+    "sieci neuronowe",
+    "efficientdet"
+  ],
+  "coworkers": []
+}

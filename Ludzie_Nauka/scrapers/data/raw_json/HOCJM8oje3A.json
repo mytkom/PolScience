@@ -1,0 +1,233 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A",
+  "slug": "robert.suszyński",
+  "profile_id": "HOCJM8oje3A",
+  "full_name": "dr hab. inż. Robert Mariusz Suszyński",
+  "orcid": "0000-0001-7000-7441",
+  "orcid_url": "https://orcid.org/0000-0001-7000-7441",
+  "breadcrumb_name": "Robert Suszyński",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika mikroprocesorowa",
+    "układy elektroniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska; Wydział Automatyki, Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b3f94f20-26a0-4ef4-a387-7766d7c7453f"
+        },
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/gremiums/0c3cac2a-af0e-494e-93c6-b58334773753",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/gremiums/c1ac5ca0-c3a6-46d2-b0a6-af9fdc9bfb72",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Architektura macierzy stosów do przetwarzania równoległego z wykorzystaniem odwrotnej notacji polskiej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/publications/9fef5bea-0815-4eb2-a9a0-eb358a563d97",
+      "authors": "Ł. Gołka, R. Suszyński , P. Poczekajło",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.10.11",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.10.11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Forth Language Extensions for DSP: Configurable FIFO and LIFO Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/publications/205c0158-3f23-428c-9d74-fff24e91c5ff",
+      "authors": "Ł. Gołka, R. Suszyński , P. Poczekajło",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.09.376",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.09.376",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Monitoring the Efficiency of Automatic Screens Based on Computational Analysis of Wastewater Level Variations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/publications/958b52ee-5867-4b81-925d-4f411468f846",
+      "authors": "P. Maciołek, R. Suszyński , A. Hapka, ... (+1)",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.09.443",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.09.443",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przetworniki analogowo-cyfrowe pracujące w trybie prądowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/research-work/fdd6fe37-43cd-4e7c-b215-8cfdbe40432e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie przetworników a/c z modulacją Sigma Delta z zastosowaniem przełączonych transkonduktorów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suszy%C5%84ski.HOCJM8oje3A/research-work/c33e9a80-8ca7-4c4d-a53d-09ef0b710e19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85463"
+    }
+  ],
+  "tag_cloud": [
+    "trackers",
+    "redundancja",
+    "a/d converter",
+    "digital control",
+    "sara",
+    "analog circuits design",
+    "telemetria",
+    "fpaa",
+    "internet rzeczy",
+    "przetwornica buck"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY",
+  "slug": "piotr.bienias",
+  "profile_id": "U3aBEzPvZOY",
+  "full_name": "mgr inż. Piotr Bienias",
+  "orcid": "0000-0001-9520-0539",
+  "orcid_url": "https://orcid.org/0000-0001-9520-0539",
+  "breadcrumb_name": "Piotr Bienias",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Choroby nerwowo-mięśniowe. Kompendium dla praktyka",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/publications/260d2f46-6152-45aa-be8b-05fa924cbb8c",
+      "authors": "A. Kostera-Pruszczyk, A. Potulska-Chromik [...] P. Bienias , ... (+30)",
+      "publication_type": "Książka",
+      "year": "2023",
+      "doi": "10.53271/2022.053",
+      "doi_url": "https://www.doi.org/10.53271/2022.053",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Współczesna Dermatologia. Tom 1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/publications/68157407-5be8-4bd7-9186-a42eff0d9f88",
+      "authors": "L. Rudnicka, M. Olszewska [...] P. Bienias , ... (+95)",
+      "publication_type": "Książka",
+      "year": "2022",
+      "doi": "10.53271/2022.033",
+      "doi_url": "https://www.doi.org/10.53271/2022.033",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application and evaluation of selected machine learning algorithms in anomaly detection module for SOC",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bienias.U3aBEzPvZOY/publications/8f8f5208-058c-402f-ae6e-0f7cd749e7b3",
+      "authors": "P. Bienias , A. Warzyński, G. Kołaczek",
+      "publication_type": "Artykuł",
+      "year": "2020",
+      "doi": "10.1142/9789811223334_0117",
+      "doi_url": "https://www.doi.org/10.1142/9789811223334_0117",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

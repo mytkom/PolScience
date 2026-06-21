@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1",
+  "slug": "michał.gorzym",
+  "profile_id": "HW3uIlQFEI1",
+  "full_name": "mgr inż. Michał Paweł Gorzym",
+  "orcid": "0000-0002-2539-5550",
+  "orcid_url": "https://orcid.org/0000-0002-2539-5550",
+  "breadcrumb_name": "Michał Gorzym",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika pojazdów i maszyn roboczych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Acoustic performance assessment of composite materials in musical instrument construction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/publications/74b06234-5589-407c-b830-590b36241d1f",
+      "authors": "M. Szymiczek, M. Chomiak, M. Gorzym",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/203565",
+      "doi_url": "https://www.doi.org/10.12913/22998624/203565",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Laboratory Tests of Rolling Resistance of Different Tread Profiles for the Wheel of Martian Rover",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/publications/7756604e-86c5-44b6-80c4-a34adb90fa83",
+      "authors": "M. Gorzym , D. Markuszewski",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/186931",
+      "doi_url": "https://www.doi.org/10.12913/22998624/186931",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Concept of a Composite Frame of a Martian Vehicle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gorzym.HW3uIlQFEI1/publications/8819690b-a946-4c9a-8388-0ed8a4476f4e",
+      "authors": "D. Markuszewski, M. Wądołowski, M. Gorzym , ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2021",
+      "doi": "10.12913/22998624/141213",
+      "doi_url": "https://www.doi.org/10.12913/22998624/141213",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

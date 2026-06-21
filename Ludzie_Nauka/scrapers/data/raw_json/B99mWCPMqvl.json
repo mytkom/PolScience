@@ -1,0 +1,95 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl",
+  "slug": "dorota.waśniowska",
+  "profile_id": "B99mWCPMqvl",
+  "full_name": "lek. Dorota Waśniowska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Dorota Waśniowska",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.wa%C5%9Bniowska.B99mWCPMqvl/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

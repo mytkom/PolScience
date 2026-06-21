@@ -1,0 +1,261 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL",
+  "slug": "małgorzata.wolska",
+  "profile_id": "eTA5IkRSlKL",
+  "full_name": "dr hab. inż. Małgorzata Beata Wolska",
+  "orcid": "0000-0003-3627-4778",
+  "orcid_url": "https://orcid.org/0000-0003-3627-4778",
+  "breadcrumb_name": "Małgorzata Wolska",
+  "current_employment_summary": [
+    "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologia wody i ścieków"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 miesiące",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Inżynierii Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ab2cb61d-7ac7-4831-96e0-8434d8883510"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / inżynieria środowiska",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria środowiska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/gremiums/5e18b05d-e76c-4289-b22e-fb7f646af0a5",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A long-term evaluation of the variability in THM content in a large water distribution system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/publications/2af6f48b-b31b-4928-bd29-40a3d1764905",
+      "authors": "M. Wolska, M. Wolska , H. Urbańska-Kozłowska, ... (+1)",
+      "publication_type": "Artykuł , Desalination and Water Treatment",
+      "year": "2025",
+      "doi": "10.1016/j.dwt.2025.101133",
+      "doi_url": "https://www.doi.org/10.1016/j.dwt.2025.101133",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An assessment of coagulation process efficiency as a pre-treatment for reusing filtration backwash in water treatment plants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/publications/316c798a-27b6-4749-8c28-8f6bf1ae033f",
+      "authors": "M. Wolska , H. Urbańska-Kozłowska, A. Solipiwko-Pieścik",
+      "publication_type": "Artykuł , Archives of Civil Engineering",
+      "year": "2025",
+      "doi": "10.24425/ace.2025.153331",
+      "doi_url": "https://www.doi.org/10.24425/ace.2025.153331",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An assessment of contaminations levels of source and tap water in light of the new EU Directive 2020/2184",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/publications/2cc284f9-e173-4878-9237-6b3f8ab8ca6b",
+      "authors": "M. Wolska , H. Urbańska-Kozłowska, A. Solipiwko-Pieścik",
+      "publication_type": "Artykuł , Desalination and Water Treatment",
+      "year": "2025",
+      "doi": "10.1016/j.dwt.2025.101031",
+      "doi_url": "https://www.doi.org/10.1016/j.dwt.2025.101031",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Usuwanie substancji biogennych w technologii oczyszczania wody przeznaczonej do spożycia przez ludzi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/bb68f249-e506-44b8-9e13-1bf9352b8d89",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zmiany wybranych wskaźników jakości wody wodociągowej w systemie jej dystrybucji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/714e9725-c5bb-4a46-83fe-5ac7f20cdcfe",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena możliwości ograniczenia zużycia wody w zakładach oczyszczania wody",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/824deb2d-afe7-4e30-9e97-537732884dab",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ograniczenie zmian jakości wody w rozproszonym systemie dystrybucji miasta Poznania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/23f6e8f5-0150-43d3-9be2-c7ecc93e1e3f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ substancji organicznych na usuwanie związków żelaza podczas oczyszczania wody przeznaczonej do spożycia przez ludzi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/d9e130b3-d687-4d55-ab15-39ffb19d7d81",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wykorzystanie sorpcji i redukcji w procesach oczyszczania roztworów wodnych z jonów chromu (VI)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.wolska.eTA5IkRSlKL/research-work/79a44047-9ecd-4414-87d8-5e4fc704c929",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=121240"
+    }
+  ],
+  "tag_cloud": [
+    "zmiękczanie",
+    "odzysk wody",
+    "dezynfekcja",
+    "substancje organiczne",
+    "oczyszczanie wody",
+    "adsorpcja",
+    "koagulacja",
+    "węgiel aktywny",
+    "fitoliza",
+    "filtracja"
+  ],
+  "coworkers": []
+}

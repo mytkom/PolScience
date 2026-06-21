@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII",
+  "slug": "joanna.porter-sobieraj",
+  "profile_id": "WSkDiKv5mII",
+  "full_name": "dr Joanna Porter-Sobieraj",
+  "orcid": "0000-0002-1411-475X",
+  "orcid_url": "https://orcid.org/0000-0002-1411-475X",
+  "breadcrumb_name": "Joanna Porter-Sobieraj",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "projektowanie systemów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancing the Precision of a User’s Hand When Sliding on Objects in VR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/publications/8c7bcf4b-5a33-46bb-a0cb-5938436d04c5",
+      "authors": "A. Kozłowska, M. Wójcik, J. Porter-Sobieraj , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3728307",
+      "doi_url": "https://www.doi.org/10.1145/3728307",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated 3D-printing path generation for parts with holes using continuous fibre filament",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/publications/8d5d0728-0c8c-46a1-b69d-3aad9423a839",
+      "authors": "J. Porter-Sobieraj , M. Stelmaszek, P. Zdroik",
+      "publication_type": "Artykuł , Virtual and Physical Prototyping",
+      "year": "2024",
+      "doi": "10.1080/17452759.2024.2402871",
+      "doi_url": "https://www.doi.org/10.1080/17452759.2024.2402871",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "FaçAID: A Transformer Model for Neuro-Symbolic Facade Reconstruction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/publications/5e69f3bf-5d47-4d62-b981-74272be36ded",
+      "authors": "A. Plocharski, J. Porter-Sobieraj , J. Swidzinski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1145/3680528.3687657",
+      "doi_url": "https://www.doi.org/10.1145/3680528.3687657",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod odłożonych obliczeń do geometrycznej symulacji obróbki skrawaniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.porter-sobieraj.WSkDiKv5mII/research-work/70ca2df5-0de3-48b0-bfd6-4736bf8a6c60",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=127670"
+    }
+  ],
+  "tag_cloud": [
+    "symulacje komputerowe",
+    "hydrodynamika relatywistyczna",
+    "computer simulations",
+    "nauki ścisłe",
+    "relativistic hydrodynamic",
+    "cuda/gpu",
+    "relatywistyczna hydrodynamika",
+    "high energy nuclear physics",
+    "obliczenia równoległe",
+    "algorytm weno"
+  ],
+  "coworkers": []
+}

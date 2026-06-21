@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH",
+  "slug": "grażyna.ziętek",
+  "profile_id": "Ku3z4SfvCRH",
+  "full_name": "dr inż. Grażyna Zofia Ziętek",
+  "orcid": "0000-0001-7158-4064",
+  "orcid_url": "https://orcid.org/0000-0001-7158-4064",
+  "breadcrumb_name": "Grażyna Ziętek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika stosowana"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "44 lat",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1982",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka stosowana",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Elastic properties of a unidirectional composite reinforced with hexagonal array of fibers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/publications/03927155-1b82-4165-b43e-0a126e9bd1ec",
+      "authors": "G. Ziętek , C. T., W. Mitiuszew, ... (+15)",
+      "publication_type": "Artykuł , ARCHIVES OF MECHANICS",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A constitutive hardening model of coupled plastic deformation and martensitic transformation in steels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/publications/23c20016-a38e-46d2-8687-d50fb65dfec3",
+      "authors": null,
+      "publication_type": "Artykuł , MECHANICS OF MATERIALS",
+      "year": "2016",
+      "doi": "10.1016/j.mechmat.2016.06.004",
+      "doi_url": "https://www.doi.org/10.1016/j.mechmat.2016.06.004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Boundary element analysis of 3D thermomagnetoelectroelastic anisotropic solids",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gra%C5%BCyna.zi%C4%99tek.Ku3z4SfvCRH/publications/0c30ee29-02b7-40be-9591-20e143b1343b",
+      "authors": "G. Ziętek , H. Sulym",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=9424"
+    }
+  ],
+  "tag_cloud": [
+    "folia",
+    "shape memory effect",
+    "plastic deformation",
+    "odkształcenie plastyczne",
+    "martensite transformation",
+    "przemiana martenzytyczna",
+    "metal",
+    "efekt pamięci kształtu",
+    "transformacja martenzytyczna",
+    "magnetowizja"
+  ],
+  "coworkers": []
+}

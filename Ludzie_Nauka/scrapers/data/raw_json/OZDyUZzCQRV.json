@@ -1,0 +1,256 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV",
+  "slug": "marcin.sikorski",
+  "profile_id": "OZDyUZzCQRV",
+  "full_name": "prof. dr hab. Marcin Sikorski",
+  "orcid": "0000-0001-7930-7790",
+  "orcid_url": "https://orcid.org/0000-0001-7930-7790",
+  "breadcrumb_name": "Marcin Sikorski",
+  "current_employment_summary": [
+    "Politechnika Gdańska",
+    "Polsko-Japońska Akademia Technik Komputerowych"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "analiza decyzyjna",
+    "ergonomia",
+    "systemy informatyczne w zarządzaniu",
+    "zarządzanie jakością"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Polsko-Japońska Wyższa Szkoła Technik Komputerowych Aktualna nazwa: Polsko-Japońska Akademia Technik Komputerowych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "45 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Polsko-Japońska Akademia Technik Komputerowych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Akademia Ekonomiczna im. Oskara Langego we Wrocławiu, Wydział Zarządzania i Informatyki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/gremiums/18434a49-e5cd-4a89-9afb-3820a125753e",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Digital Interaction and Machine Intelligence. Proceedings of MIDI’2024 – 12th Machine Intelligence and Digital Interaction – Conference, December 12, 2024, Warsaw, Poland (Hybrid Formula)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/publications/79ff1f0c-0a24-4dc5-bd9f-dc706796ab26",
+      "authors": "C. Biele, J. Kacprzyk [...] M. Sikorski , ... (+4)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2026",
+      "doi": "10.1007/978-3-032-05802-7",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-05802-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Chat GPT Wrote It: What HCI Educators Can Learn from their Students?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/publications/9708b36a-c296-4f71-a8f1-794013bf92f8",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.62036/isd.2024.25",
+      "doi_url": "https://www.doi.org/10.62036/isd.2024.25",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Digital Interaction and Machine Intelligence : proceedings of MIDI’2023 - 11th Machine Intelligence and Digital Interaction - Conference, December 12-14, 2023, Warsaw, Poland (online)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/publications/9e92b9f9-8ba7-4c59-a421-d5b613b3ca11",
+      "authors": "C. Biele, J. Kacprzyk [...] M. Sikorski , ... (+4)",
+      "publication_type": "Książka , Springer Nature Switzerland",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Narodowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie jakością użytkową w przedsięwzięciach informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/5475d340-4aeb-4aa6-8998-4f43f56a4261",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Reliability Evaluation of Man-machine Systems for Industrial Process Control Design",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/57ad5480-27c4-4307-9419-5db33637d4c9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Model zapewnienia jakości użytkowej w projektach informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/cc3a9f60-c777-431b-b138-517a160df9b7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena czynników wpływających na wiarygodność oferentów w internetowych transakcjach detalicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/0bec31aa-79d3-4832-8df6-5c48486eb624",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ocena doświadczeń użytkowników serwisów internetowych na podstawie miar okulograficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/14078d0c-af7c-48b3-b775-acfe79683e33",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie ruchu jako metody interakcji człowiek komputer w systemach informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/7ee5f841-0c1a-4e08-a73b-1524c6513dea",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda oceny ryzyka zawodowego w mikroprzedsiębiorstwach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.sikorski.OZDyUZzCQRV/research-work/117b21d0-8a5a-474a-9e42-15a6f9a83fb0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "war responsibility voluntary trials emperor shōwa higashikuni naruhiko shidehara kijūrō yoshida shigeru",
+    "diamonds",
+    "computational intelligence",
+    "ai",
+    "open access",
+    "machine intelligence",
+    "digital interaction",
+    "interaction design",
+    "user experience.",
+    "engagement"
+  ],
+  "coworkers": []
+}

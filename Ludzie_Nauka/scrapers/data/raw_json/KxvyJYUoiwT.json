@@ -1,0 +1,293 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT",
+  "slug": "włodzimierz.kasprzak",
+  "profile_id": "KxvyJYUoiwT",
+  "full_name": "prof. dr hab. inż. Włodzimierz Kasprzak",
+  "orcid": "0000-0002-4840-8860",
+  "orcid_url": "https://orcid.org/0000-0002-4840-8860",
+  "breadcrumb_name": "Włodzimierz Kasprzak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "rozpoznawanie obrazów",
+    "analiza sygnałów",
+    "inżynieria oprogramowania",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Warszawska Wyższa Szkoła Informatyki w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e49e40ae-52f4-433e-b580-1e15df799750",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Autonomia robotów pola walki i robotów specjalnego przeznaczenia",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/publications/362a1d50-54a2-44c5-9515-c1939bf1d665",
+      "authors": "D. Belter, J. Arabas [...] W. Kasprzak , ... (+17)",
+      "publication_type": "Książka , Sieć Badawcza Łukasiewicz - Instytut Technologii Eksploatacji",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Skeleton-based Human Activity Classification in Sparse Image Sequences",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/publications/b17273da-7312-41b0-81b3-d47118946e78",
+      "authors": "W. Kasprzak , P. Piwowarski",
+      "publication_type": "Artykuł , Journal of Automation, Mobile Robotics and Intelligent Systems",
+      "year": "2024",
+      "doi": "10.14313/jamris/3-2023/18",
+      "doi_url": "https://www.doi.org/10.14313/jamris/3-2023/18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Automatic speaker's age classification in the Common Voice database",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/publications/162d6362-437d-4015-867e-9a02152fb815",
+      "authors": "W. Kasprzak , A. Nowakowski",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f2483",
+      "doi_url": "https://www.doi.org/10.15439/2023f2483",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Adaptive Computation Methods in Digital Image Sequence Analysis (Adaptacyjne metody komputerowej analizy sekwencji obrazów cyfrowych)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/a3c6b3be-dc2a-49f3-a655-ca4ebbe52e93",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model systemu rozpoznawania obiektów 3-wymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/d03a266c-679d-40d0-9912-e6d64fa4b0c6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie gestów w sekwencji obrazów w oparciu o analizę kształtu i ruchu deformowalnych obiektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/e9e19fd8-51ce-4f8f-b7df-3ef2e3b55588",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza tekstur w obrazach cyfrowych i jej zastosowanie do obrazów angiograficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/e9e9728f-977c-4215-9a7f-3bf43f1130c3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/9649aeef-613f-44db-b924-3192eae08aa3",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/2428f633-bb41-4b14-831f-1896e717641e",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Modele matematyczne wybranych komponentów wizyjnych branży motoryzacyjnej i ich badanie w celu rozwoju systemów aktywnego bezpieczeństwa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/w%C5%82odzimierz.kasprzak.KxvyJYUoiwT/research-work/399c7227-424b-498b-a299-272d15b1063e",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85912"
+    }
+  ],
+  "tag_cloud": [
+    "bezpieczeństwo cyberprzestrzeni",
+    "cascade classifier",
+    "cloud robotics",
+    "bss error index",
+    "blood vessel",
+    "speech/speaker recognition",
+    "vision systems",
+    "medical images processing",
+    "object detection",
+    "robot controllers"
+  ],
+  "coworkers": []
+}

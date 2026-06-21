@@ -1,0 +1,207 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl",
+  "slug": "paweł.dymarski",
+  "profile_id": "TkBIuVOhZVl",
+  "full_name": "dr hab. inż. Paweł Dymarski",
+  "orcid": "0000-0002-6033-0461",
+  "orcid_url": "https://orcid.org/0000-0002-6033-0461",
+  "breadcrumb_name": "Paweł Dymarski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "hydromechanika okrętu"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Centrum Techniki Okrętowej S.A. Zakład Badawczo-Rozwojowy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3eb12b62-d496-416f-a200-b6e9cd43e7c8",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Oceanotechniki i Okrętownictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/74299dda-979f-4ad7-a2ce-36dd4e8833ef"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budowa okrętów",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Computational Evaluation of the Limiting Thrust of the Peripheral Thruster Taking into Account the Propeller Blade Yield Stress and the Thrust Breakdown Due to Cavitation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/publications/5e343fa3-773c-4308-9eb3-a7e37fd608cb",
+      "authors": "P. Dymarski , C. Dymarski, M. Kraskowski, ... (+2)",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0025",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0025",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Heave Plates – The Influence of the Plate-Diameter -to-Cylinder-Diameter Ratio, Holes, and Pitch on the Hydrodynamic Coefficients",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/publications/23b49b7e-5052-4337-9542-8746d0eb957b",
+      "authors": "E. Ciba, P. Dymarski , M. Grygorowicz",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0019",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0019",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Response Amplitude Operators of Tlp Floating Wind Turbine - Calculations and Experiments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/publications/eb6b3780-088f-4912-98fd-f585a0036db4",
+      "authors": "E. Ciba, M. Grygorowicz, P. Dymarski , ... (+1)",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2025",
+      "doi": "10.2478/ama-2025-0073",
+      "doi_url": "https://www.doi.org/10.2478/ama-2025-0073",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie dynamiki obiektów oceanotechnicznych i obiektów pływających poddanych obciążeniom hydromechanicznym środowiska morskiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/research-work/705be5a5-f29c-408c-ba1f-294271686775",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie opływu lepkiego płata oraz śruby okrętowej metodą objętości skończonej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/research-work/fa8f4662-6618-4c7b-be9b-6f19bcd2a6a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Application of Smoothed Particle Hydrodynamics method to in- terfacial two-phase flows",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.dymarski.TkBIuVOhZVl/research-work/274eb5f3-f1c0-4d7d-80ac-af6d50ca8201",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=202932"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

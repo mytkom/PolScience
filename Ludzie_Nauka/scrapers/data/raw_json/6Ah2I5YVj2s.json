@@ -1,0 +1,186 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s",
+  "slug": "łukasz.bartczuk",
+  "profile_id": "6Ah2I5YVj2s",
+  "full_name": "dr inż. Łukasz Bartczuk",
+  "orcid": "0000-0003-2549-197X",
+  "orcid_url": "https://orcid.org/0000-0003-2549-197X",
+  "breadcrumb_name": "Łukasz Bartczuk",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody sztucznej inteligencji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat",
+      "duration": null,
+      "institution": "Olsztyńska Wyższa Szkoła Informatyki i Zarządzania im. prof. Tadeusza Kotarbińskiego w Olsztynie Aktualna nazwa: Wyższa Szkoła Informatyki i Zarządzania im. Prof. Tadeusza Kotarbińskiego z siedzibą w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b0e6027-66e8-4ba2-8f04-552b398f1d8c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fuzzy Linguistic LINQ",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/publications/2549b39e-5361-4f0f-9226-42a83216c7b8",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/fuzz62266.2025.11152092",
+      "doi_url": "https://www.doi.org/10.1109/fuzz62266.2025.11152092",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A New Hybrid Particle Swarm Optimization and Evolutionary Algorithm with Self-Adaptation Mechanism",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/publications/744dba4e-c512-4d5c-885d-31f08623a196",
+      "authors": "P. Dziwiński, Ł. Bartczuk",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-42505-9_31",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-42505-9_31",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A New Linguistic Fuzzy PRISM Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/publications/930657ef-6d64-4d6f-badb-845ad2f653ea",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/fuzz52849.2023.10309724",
+      "doi_url": "https://www.doi.org/10.1109/fuzz52849.2023.10309724",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy budowy rozmytych drzew decyzyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.bartczuk.6Ah2I5YVj2s/research-work/c045e09a-306e-4aa9-bd03-623f9ef36825",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=215195"
+    }
+  ],
+  "tag_cloud": [
+    "state transition algorithm",
+    "nonlinear modeling",
+    "rule induction",
+    "non-invasive identification",
+    "particle swarm optimization",
+    "genetic algorithm",
+    "hybrid algorithm",
+    "significant operating point",
+    "fuzzy prism",
+    "interval valued type-2 fuzzy sets"
+  ],
+  "coworkers": []
+}

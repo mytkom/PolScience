@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ",
+  "slug": "leszek.rolka",
+  "profile_id": "YBKfeqYpNIZ",
+  "full_name": "dr hab. inż. Leszek Dariusz Rolka",
+  "orcid": "0000-0003-0083-8893",
+  "orcid_url": "https://orcid.org/0000-0003-0083-8893",
+  "breadcrumb_name": "Leszek Rolka",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "zbiory rozmyte",
+    "zbiory przybliżone",
+    "analiza decyzyjna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "39 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/gremiums/b630b975-5f2e-4062-9660-89bdd5fc9c7f",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Airmanship – the concept of modern aviation training",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/publications/701de359-8a64-4c10-a1d0-a55f37cf97cb",
+      "authors": "T. Rogalski, L. Rolka",
+      "publication_type": "Artykuł , Aircraft Engineering and Aerospace Technology",
+      "year": "2025",
+      "doi": "10.1108/aeat-12-2024-0385",
+      "doi_url": "https://www.doi.org/10.1108/aeat-12-2024-0385",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Modeling and Analysis of Human Control Actions Using Fuzzy Interactive Information Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/publications/975dd34a-b6f7-451b-b42b-25ec654fb128",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155470",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155470",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multi-Criteria Decision-Making by Approximation in the Domain of Linguistic Values",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/publications/7013ab19-33fd-4b63-88ac-0b1c3d06c5e9",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f4728",
+      "doi_url": "https://www.doi.org/10.15439/2023f4728",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozmyto-przybliżone systemy decyzyjne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/research-work/58214538-0a3f-4741-9fa6-96a77342dfb0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody sztucznej inteligencji w ocenie zużycia ściernic",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.rolka.YBKfeqYpNIZ/research-work/a1c4d4ed-97c4-4900-9e46-73b19f87a134",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85877"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

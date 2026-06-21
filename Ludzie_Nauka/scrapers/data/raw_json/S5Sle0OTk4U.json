@@ -1,0 +1,220 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U",
+  "slug": "cyprian.lachowicz",
+  "profile_id": "S5Sle0OTk4U",
+  "full_name": "dr hab. inż. Cyprian Tadeusz Lachowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Cyprian Lachowicz",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika ciała stałego",
+    "metody numeryczne w mechanice",
+    "zmęczenie metali i konstrukcji",
+    "zmęczenie materiałów i konstrukcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "42 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/94358914-1188-4ed9-8dea-cceb1731eed3"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techczniczne / brak na dyplomie",
+        "Nadanie stopnia",
+        "WYŻSZA SZKOŁA INŻYNIERSKA W OPOLU, WYDZIAŁ BUDOWNICTWA",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA INŻYNIERSKA W OPOLU",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A method for identification and calculation of elasto-plastic strain energy at random loads",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/publications/a5949b1f-8316-4f0c-9d33-4cad2a649393",
+      "authors": "C. Lachowicz , R. Owsiński, D. Lachowicz",
+      "publication_type": "Artykuł , Measurement",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.117297",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.117297",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Fatigue and fracture surface characteristics of additively manufactured titanium alloy under various loading configurations and build orientations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/publications/41a72bd9-0b0e-4540-8368-4a3815a29c57",
+      "authors": "R. Owsiński, K. Moj, C. Lachowicz , ... (+4)",
+      "publication_type": "Artykuł , Rapid Prototyping Journal",
+      "year": "2025",
+      "doi": "10.1108/rpj-09-2024-0380",
+      "doi_url": "https://www.doi.org/10.1108/rpj-09-2024-0380",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exploring the impact of phase‑shifted loading conditions on fatigue life of S355J2 mild steel with different machine learning approaches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/publications/b46a2884-229c-4b38-adfe-ccb0dbf7c2a1",
+      "authors": "R. Owsiński, M. Gupta, C. Lachowicz , ... (+3)",
+      "publication_type": "Artykuł , The International Journal of Advanced Manufacturing Technology",
+      "year": "2024",
+      "doi": "10.1007/s00170-024-13389-y",
+      "doi_url": "https://www.doi.org/10.1007/s00170-024-13389-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Energetyczna metoda analizy zmęczenia materiałów, elementów maszyn i konstrukcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/research-work/6d6a0209-222f-4580-883d-4a96e5c5b9d5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody oceny trwałości zmęczeniowej w warunkach losowego rozciągania ze ściskaniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/research-work/c2a58ad7-f6fc-4956-bfad-c30b73252830",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ obciążenia i kształtu próbki na trwałość zmęczeniową przy zginaniu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/research-work/b7c837f3-634b-49df-917e-34272dd24d61",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System mechatroniczny do wyznaczania energetycznych charakterystyk zmęczeniowych materiałów przy zginaniu i skręcaniu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/cyprian.lachowicz.S5Sle0OTk4U/research-work/2663b8e0-e6fa-47a4-977e-4b9c7e0086de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=16499"
+    }
+  ],
+  "tag_cloud": [
+    "constitutive models",
+    "elasto–plastic strain energy",
+    "multiaxial fatigue loading",
+    "block loading",
+    "mean load",
+    "linear friction welding",
+    "energy fatigue model",
+    "stress-strain relationship",
+    "bending and torsion",
+    "fracture"
+  ],
+  "coworkers": []
+}

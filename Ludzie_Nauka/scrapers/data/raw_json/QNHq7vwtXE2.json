@@ -1,0 +1,271 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2",
+  "slug": "marek.gągolewski",
+  "profile_id": "QNHq7vwtXE2",
+  "full_name": "dr hab. inż. Marek Zbigniew Gągolewski",
+  "orcid": "0000-0003-0637-6028",
+  "orcid_url": "https://orcid.org/0000-0003-0637-6028",
+  "breadcrumb_name": "Marek Gągolewski",
+  "current_employment_summary": [
+    "Instytut Badań Systemowych Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teoria agregacji",
+    "analiza danych",
+    "statystyka matematyczna",
+    "systemy wspomagania decyzji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "3 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Clustering with Minimum Spanning Trees: How Good Can It Be?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/publications/b182c097-5a0b-4f85-ba67-e5602264fbfb",
+      "authors": "M. Gągolewski , A. Cena, Ł. Brzozowski, ... (+1)",
+      "publication_type": "Artykuł , Journal of Classification",
+      "year": "2025",
+      "doi": "10.1007/s00357-024-09483-1",
+      "doi_url": "https://www.doi.org/10.1007/s00357-024-09483-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/publications/e200a85d-39e2-41e2-bc72-6ff5b97824dd",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Classification",
+      "year": "2025",
+      "doi": "10.1007/s00357-024-09482-2",
+      "doi_url": "https://www.doi.org/10.1007/s00357-024-09482-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Tractable Approach to Fitting the Choquet Integral for Explainable Prediction and Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/publications/948a515c-afc3-46fb-b87a-32fe2d8ee297",
+      "authors": "G. Beliakov, S. James [...] M. Gągolewski , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/fuzz-ieee60900.2024.10611753",
+      "doi_url": "https://www.doi.org/10.1109/fuzz-ieee60900.2024.10611753",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowe algorytmy agregacji i analizy danych: konstrukcja, własności i zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work/ff61ed0a-aff3-4a97-a980-3bc4c19b9fcb",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane operatory agregacji i ich zastosowanie w modelu formalnym systemu oceny jakości w nauce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work/377933de-3684-410e-b27e-fe615743fa2a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Nowe systemy ratingowe w piłce nożnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work/23a1d34e-9fa9-48fd-8366-57ac5fffb3ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Adaptacyjne algorytmy hierarchicznej analizy skopień oparte na metodach agregacji danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work/1ed2e82f-1183-433b-bfd2-052c868264ae",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "System do oceny podobieństwa kodów źródłowych w językach funkcyjnych oparty na metodach uczenia maszynowego i agregacji danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C4%85golewski.QNHq7vwtXE2/research-work/e1b33ee9-09f4-4009-9c76-88d4a7e2948e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=X9fNPMgAAAAJ&hl=en"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Marek-Gagolewski"
+    },
+    {
+      "label": "WWW",
+      "url": "https://www.gagolewski.com/"
+    }
+  ],
+  "tag_cloud": [
+    "agregacja danych",
+    "citation models",
+    "aggregation",
+    "sugeno integral",
+    "aggregation functions",
+    "centroid",
+    "r",
+    "capacities",
+    "niezmienniczość zw. na przekształcenia ortogonalne",
+    "monotoniczność"
+  ],
+  "coworkers": []
+}

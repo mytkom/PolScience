@@ -1,0 +1,243 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0",
+  "slug": "michał.niemczak",
+  "profile_id": "RnWQ5Kssks0",
+  "full_name": "dr hab. inż. Michał Kazimierz Niemczak",
+  "orcid": "0000-0002-4364-8267",
+  "orcid_url": "https://orcid.org/0000-0002-4364-8267",
+  "breadcrumb_name": "Michał Niemczak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "ciecze jonowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5a218395-7880-4d1c-a97c-7db297b065cc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/gremiums/b2c3e283-51b3-4143-842d-2a2e66779528",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cations impact the biodegradation of iodosulfuron-methyl herbicidal ionic liquids by fungi",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/publications/dc580af8-c705-4ec8-87e7-216238a73740",
+      "authors": "J. Homa, R. Frankowski [...] M. Niemczak , ... (+5)",
+      "publication_type": "Artykuł , Environmental Technology (United Kingdom)",
+      "year": "2025",
+      "doi": "10.1080/09593330.2024.2357696",
+      "doi_url": "https://www.doi.org/10.1080/09593330.2024.2357696",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "From Plant Material to Environmentally Friendly Plant Growth Stimulators: Betaine-Based Ionic Liquids",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/publications/a0b54832-262e-460a-b240-f6c91acb99b5",
+      "authors": "A. Olejniczak, M. Niemczak , D. Gwiazdowska, ... (+4)",
+      "publication_type": "Artykuł , ACS Sustainable Chemistry & Engineering",
+      "year": "2025",
+      "doi": "10.1021/acssuschemeng.5c04882",
+      "doi_url": "https://www.doi.org/10.1021/acssuschemeng.5c04882",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Glycine Betaine-Functionalized Ionic Liquids: Design of Versatile Bioplatform for Incorporating Biologically Active Moieties into Cations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/publications/acb94e30-daaf-4a21-9edd-456420ebe594",
+      "authors": "W. Stachowiak, M. Wysocki [...] M. Niemczak , ... (+1)",
+      "publication_type": "Artykuł , ACS Medicinal Chemistry Letters",
+      "year": "2025",
+      "doi": "10.1021/acsmedchemlett.5c00280",
+      "doi_url": "https://www.doi.org/10.1021/acsmedchemlett.5c00280",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ciecze jonowe III generacji - synteza, właściwości i zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work/622a3aba-de32-4084-9a26-14f70598f928",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i właściwości dwufunkcyjnych herbicydowych cieczy jonowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work/8d2770e5-fa2e-4d79-aa3e-89e98e76d9cf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Bio-derived ionic liquids as precursors for sustainable functional materials",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work/cc541280-3748-41ca-bbde-ea72f59e63a1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Opracowanie formulacji, wdrożenie do produkcji oraz badanie skuteczności wybranych środków biobójczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work/85a5b603-8483-4255-8158-7442d2f6cf14",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Modyfikacje induktorów odporności roślin do formy jonowej w celu zwiększenia ich aktywności biologicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.niemczak.RnWQ5Kssks0/research-work/970737b7-6fe8-4729-8d12-0ed4f1beadc3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=271362"
+    }
+  ],
+  "tag_cloud": [
+    "toxicity",
+    "spectral analysis",
+    "volatility",
+    "biodegradation",
+    "herbicides",
+    "herbicidal ionic liquids",
+    "hils",
+    "plant protection",
+    "ionic liquids",
+    "quaternary ammonium salts"
+  ],
+  "coworkers": []
+}

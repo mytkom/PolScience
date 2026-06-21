@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP",
+  "slug": "katarzyna.szcześniak",
+  "profile_id": "vAu42IqbbNP",
+  "full_name": "dr inż. Katarzyna Barbara Szcześniak",
+  "orcid": "0000-0002-7753-572X",
+  "orcid_url": "https://orcid.org/0000-0002-7753-572X",
+  "breadcrumb_name": "Katarzyna Szcześniak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Fizyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/77fec22f-f1d8-4df9-b027-d9855e96e1b2"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ionic Conductive Hydrogels with Choline Salt for Potential Use in Electrochemical Capacitors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/publications/96a0b709-dd40-4a0b-aec0-31feb4ac61bc",
+      "authors": "J. Malczak, W. Żyła [...] K. Szcześniak , ... (+3)",
+      "publication_type": "Artykuł , Polymers",
+      "year": "2025",
+      "doi": "10.3390/polym17223030",
+      "doi_url": "https://www.doi.org/10.3390/polym17223030",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Star Polymers as a Reducing Agent of Silver Salt and a Carrier for Silver Nanoparticles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/publications/7180805d-7f8e-443f-ac4e-8cb3a7bb896f",
+      "authors": "K. Szcześniak , G. Przesławski, W. Andrzejewska, ... (+6)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18133009",
+      "doi_url": "https://www.doi.org/10.3390/ma18133009",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Strontium coupling with sulphur in mouse bone apatites.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/publications/d7eeddb5-9e6d-45ec-a472-28f070f29226",
+      "authors": "K. Turżańska, M. Gorzelak [...] K. Szcześniak , ... (+14)",
+      "publication_type": "Artykuł , Reviews on Advanced Materials Science",
+      "year": "2025",
+      "doi": "10.1515/rams-2025-0110",
+      "doi_url": "https://www.doi.org/10.1515/rams-2025-0110",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Polimery gwiaździste jako modelowe nanotransportery leków i kwasów nukleinowych: synteza, struktura i dynamika kationowych polimerów gwiaździstych na bazie poli(glikolu etylenowego)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.szcze%C5%9Bniak.vAu42IqbbNP/research-work/07ef0859-9a14-4be6-b610-5421ad38f73b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=271475"
+    }
+  ],
+  "tag_cloud": [
+    "ionogels",
+    "polimeryzacja rodnikowa",
+    "akrylany",
+    "cementy kostne",
+    "poss",
+    "gel polymer electrolytes",
+    "metakrylany",
+    "thiol–ene polymerization",
+    "fotopolimeryzacja",
+    "bone cement"
+  ],
+  "coworkers": []
+}

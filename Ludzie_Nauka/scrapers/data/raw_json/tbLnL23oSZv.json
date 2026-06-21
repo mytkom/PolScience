@@ -1,0 +1,241 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv",
+  "slug": "wojciech.hunek",
+  "profile_id": "tbLnL23oSZv",
+  "full_name": "dr hab. inż. Wojciech Przemysław Hunek",
+  "orcid": "0000-0002-8210-9776",
+  "orcid_url": "https://orcid.org/0000-0002-8210-9776",
+  "breadcrumb_name": "Wojciech Hunek",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "komputerowe systemy sterowania",
+    "teoria sterowania",
+    "teoria systemów",
+    "analiza i synteza odpornych układów wielowymiarowego sterowania predykcyjnego i adaptacynego",
+    "systemy sterowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Elektrotechniki, Automatyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5ac0844c-243e-4d81-9cc1-5697d211a408"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / brak na dyplomie",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "POLITECHNIKA OPOLSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Concept of the Multivariable Inverse Model Control for Grünwald–Letnikov-Derived Systems Respecting the Time Delay d=2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/publications/e3c45550-79a0-4e33-a7c8-3d009e616c8e",
+      "authors": "E. Helińska, P. Majewski, W. Hunek",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/mmar65820.2025.11150895",
+      "doi_url": "https://www.doi.org/10.1109/mmar65820.2025.11150895",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A new set of multivariable predictive control algorithms for time-delayed nonsquare systems of different domains: A minimum-energy examination",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/publications/b7043b09-d48c-4cd8-9838-c7a38eee9dac",
+      "authors": "W. Hunek , T. Feliks",
+      "publication_type": "Artykuł , Applied Energy",
+      "year": "2025",
+      "doi": "10.1016/j.apenergy.2024.125093",
+      "doi_url": "https://www.doi.org/10.1016/j.apenergy.2024.125093",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of feedforward and recurrent neural networks for model-based control systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/publications/44fc3ac7-ef27-441f-8ecc-012ed9944f46",
+      "authors": "M. Krok, W. Hunek , S. Mielczarek, ... (+2)",
+      "publication_type": "Artykuł , Control Theory and Technology",
+      "year": "2025",
+      "doi": "10.1007/s11768-024-00234-6",
+      "doi_url": "https://www.doi.org/10.1007/s11768-024-00234-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przyczynki do ogólnej teorii zer sterowniczych liniowych stacjonarnych układów wielowymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/48ffbd0d-7069-48be-a582-db930fede0dc",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zera sterownicze liniowych ciągłych stacjonarnych układów wielowymiarowych i ich zastosowanie w teorii obwodów i systemów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/9b9be5fa-0bf8-4703-9b6f-f9c62a6179b6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zera sterownicze liniowych stacjonarnych układów wielowymiarowych ułamkowego rzędu zdefiniowanych w dyskretnej przestrzeni stanu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/0c46e94e-301e-4c28-b195-bd38893f5834",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Minimum-energy perfect control for LTI MIMO systems described in the discrete-time state-space framework( praca posiada tytuł tylko w jez.angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/e122c7ad-5e41-4f03-a413-845dd1b8f494",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Bezbiegunowe sterowanie perfekcyjne wielowymiarowymi stacjonarnymi obiektami liniowymi opisanymi w dyskretnej przestrzeni stanu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/b5804ecb-cad3-4914-a8a7-4436b683c3e1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Kooperacyjny układ sterowania turbozespołu elektrowni jądrowej: zastosowanie rozproszonej regulacji predykcyjnej i komunikacji wyzwalanej zdarzeniowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/482179d0-4f2a-4ff7-aa57-2ea14503de93",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i analiza właściwości dyskretnych filtrów wycinających o niezerowych warunkach początkowych i zmiennych w czasie parametrach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.hunek.tbLnL23oSZv/research-work/2e22f2b8-c40a-479b-ac28-e4d6c8db2557",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=122716"
+    }
+  ],
+  "tag_cloud": [
+    "practical application",
+    "geometric approach",
+    "practical implementation",
+    "robustness",
+    "generalized inverses",
+    "mimo",
+    "perfect control",
+    "non-full rank",
+    "moore-penrose inverse",
+    "ekf"
+  ],
+  "coworkers": []
+}

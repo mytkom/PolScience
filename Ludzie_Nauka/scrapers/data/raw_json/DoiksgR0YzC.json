@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC",
+  "slug": "lech.sznitko",
+  "profile_id": "DoiksgR0YzC",
+  "full_name": "dr hab. inż. Lech Sznitko",
+  "orcid": "0000-0002-7013-7999",
+  "orcid_url": "https://orcid.org/0000-0002-7013-7999",
+  "breadcrumb_name": "Lech Sznitko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "materiały dla fotoniki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a55f3530-94a0-4052-a758-25d7dbf1256f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/gremiums/3d50f083-269d-4e49-a51e-e9b48c78baf3",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient optical photoswitching of benzyloxy-substituted TCF-based D-π-A molecules",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/publications/bb3e6a73-1680-4b49-8baa-c01b26e3fe67",
+      "authors": "K. Łupińska, K. Szkaradek [...] L. Sznitko , ... (+5)",
+      "publication_type": "Artykuł , Journal of Materials Chemistry C",
+      "year": "2025",
+      "doi": "10.1039/d5tc02366a",
+      "doi_url": "https://www.doi.org/10.1039/d5tc02366a",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Emission in the biological window from AIE-based carbazole-substituted furan-based compounds for organic light-emitting diodes and random lasers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/publications/4b2d5468-91d6-4c93-9dee-11462a201029",
+      "authors": "K. Sulowska, K. Lupinska [...] L. Sznitko , ... (+10)",
+      "publication_type": "Artykuł , ACS Omega",
+      "year": "2024",
+      "doi": "10.1021/acsomega.4c05484",
+      "doi_url": "https://www.doi.org/10.1021/acsomega.4c05484",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "One- and two-photon lasing from a TCF-based AIE dye",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/publications/3e2a7507-ebec-4e8c-8e0e-d07431edf340",
+      "authors": "K. Łupińska, K. Lupinska [...] L. Sznitko , ... (+7)",
+      "publication_type": "Artykuł , Journal of Materials Chemistry C",
+      "year": "2023",
+      "doi": "10.1039/d2tc04673c",
+      "doi_url": "https://www.doi.org/10.1039/d2tc04673c",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Randomiczna akcja laserowa w wybranych materiałach organicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work/e585e113-0451-4335-af9b-9ac8f14244e6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Polimerowe i ciekłokrystaliczne materiały do holografii i laserowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work/51f8c26b-3bd3-48ca-b007-e3f5e701e0af",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wybrane organiczne ośrodki wzmacniające do uzyskiwania przestrajalnej akcji laserowej typu DFB",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work/e766efc0-0115-49ef-a5a3-1aba914444e5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Synthesis, spectroscopic analysis, and exploration of applications for heterocyclic molecular systems exhibiting photo and chemiluminescence phenomena",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work/d6504f9b-3b3f-4745-b508-63496f60a398",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Application of organic dyes in photonic systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lech.sznitko.DoiksgR0YzC/research-work/c63d9841-fe22-4da3-a64c-35c23763d706",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=244185"
+    }
+  ],
+  "tag_cloud": [
+    "tcf",
+    "donor",
+    "tricyjanofuran",
+    "wzmocniona emisja spontaniczna",
+    "akcja laserowa",
+    "optyka nieliniowa",
+    "emisja",
+    "emisja wymuszona",
+    "agregat",
+    "amyloidy"
+  ],
+  "coworkers": []
+}

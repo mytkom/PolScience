@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR",
+  "slug": "jarosław.misiak",
+  "profile_id": "hWPexikjhYR",
+  "full_name": "dr Jarosław Andrzej Misiak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jarosław Misiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "metrologia",
+    "narzędzia skrawające",
+    "statystyczne sterowanie procesami"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Dynamiczne badania wrzecion obrabiarek",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/publications/63cf8f51-2fba-4971-a04d-33f8231d6279",
+      "authors": "T. Sałaciński, J. Chrzanowski, J. Misiak",
+      "publication_type": "Artykuł , Stal, Metale & Nowe Technologie",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Study of Distortion on the Example of the Rings from Ductile Iron and Cast Steel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/publications/f5944f59-6145-4630-a300-1d4437f02a20",
+      "authors": "K. Łukasik, P. Nawrocki [...] J. Misiak , ... (+2)",
+      "publication_type": "Artykuł , Archives of Foundry Engineering",
+      "year": "2017",
+      "doi": "10.1515/afe-2017-0137",
+      "doi_url": "https://www.doi.org/10.1515/afe-2017-0137",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Inżynieria jakości w technikach wytwarzania – cz. I",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/publications/183d6641-7090-4da4-90aa-272d53fb7c93",
+      "authors": "J. Misiak , T. Sałaciński",
+      "publication_type": "Artykuł , Utrzymanie Ruchu",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kształtowanie powierzchni śrubowych w narzędziach. Modelowanie i symulacja komputerowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.misiak.hWPexikjhYR/research-work/f4dd306f-e965-4a4c-89e9-592da08afac4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=97680"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC",
+  "slug": "jerzy.chrząszcz",
+  "profile_id": "xBvI50jTYbC",
+  "full_name": "dr Jerzy Romuald Chrząszcz",
+  "orcid": "0000-0003-3257-9726",
+  "orcid_url": "https://orcid.org/0000-0003-3257-9726",
+  "breadcrumb_name": "Jerzy Chrząszcz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "grafika komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Politechnika Warszawska, Wydział Elektroniki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Systematic Innovation Partnerships with Artificial Intelligence and Information Technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/publications/ff6d4c2e-aa3b-45fc-be8f-51de782b387e",
+      "authors": "R. Nowak, J. Chrząszcz , S. Brad",
+      "publication_type": "Książka pod redakcją",
+      "year": "2022",
+      "doi": "10.1007/978-3-031-17288-5",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-17288-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Using Off-the-Shelf Graphic Design Software for Validating the Operation of an Image Processing System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/publications/6d3e0911-1342-4520-ab40-c0ed16c92992",
+      "authors": null,
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21155104",
+      "doi_url": "https://www.doi.org/10.3390/s21155104",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Towards Automation of Cause-Effect Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/publications/63801db6-d2dc-40f9-a4d6-0cfe1fba3582",
+      "authors": null,
+      "publication_type": "Artykuł , TRIZ Review: Journal of the International TRIZ Association - MATRIZ",
+      "year": "2020",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Architektura potokowo-równoległa dla celów wizualizacji obiektów wielokątowych w czasie rzeczywistym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.chrz%C4%85szcz.xBvI50jTYbC/research-work/b82bbd98-0fad-429a-b226-7acc741ff74c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=20366"
+    }
+  ],
+  "tag_cloud": [
+    "negation",
+    "logical model",
+    "vulnerability",
+    "ceca",
+    "triz",
+    "cause-effect chains analysis",
+    "fluorescence",
+    "ultraviolet",
+    "root conflict analysis",
+    "key disadvantage"
+  ],
+  "coworkers": []
+}

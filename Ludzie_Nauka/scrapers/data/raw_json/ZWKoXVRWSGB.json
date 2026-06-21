@@ -1,0 +1,167 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB",
+  "slug": "marcin.adamski",
+  "profile_id": "ZWKoXVRWSGB",
+  "full_name": "dr inż. Marcin Adamski",
+  "orcid": "0000-0003-0866-1156",
+  "orcid_url": "https://orcid.org/0000-0003-0866-1156",
+  "breadcrumb_name": "Marcin Adamski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "biometria"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Parallel investigation of oxidative stress and nutritional profile in women with Hashimoto's thyroiditis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/publications/138b5a1d-999a-44d8-9840-4bb433a9ad7e",
+      "authors": "M. Adamski , A. Buczyńska, I. Sidorkiewicz, ... (+6)",
+      "publication_type": "Artykuł , Clinical Nutrition",
+      "year": "2025",
+      "doi": "10.1016/j.clnu.2025.08.017",
+      "doi_url": "https://www.doi.org/10.1016/j.clnu.2025.08.017",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Patient classification and attribute assessment based on machine learning techniques in the qualification process for surgical treatment of adrenal tumours",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/publications/4c942bfd-f1b6-450a-aae1-886c958f07f3",
+      "authors": "M. Adamski , M. Wielogórska-Partyka, K. Siewko, ... (+5)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-61786-w",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-61786-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Elevated serum concentration of adipocyte fatty acid-binding protein correlates with the markers of abdominal obesity independently of thyroid hormones in non-obese women with polycystic ovary syndrome",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/publications/841a3618-fcc2-4b4d-8318-2f747e3951dd",
+      "authors": "A. Łebkowska, M. Adamski , A. Polak, ... (+6)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2023",
+      "doi": "10.3390/jcm12144610",
+      "doi_url": "https://www.doi.org/10.3390/jcm12144610",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie podpisu odręcznego z wykorzystaniem technik Template Matching",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/research-work/01fd366f-687d-4c32-bcc4-ebd2c6e63c01",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System rozpoznawania podpisu odręcznego z wykorzystaniem technik Template Matching",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.adamski.ZWKoXVRWSGB/research-work/17900573-b8a0-426b-98da-a637d1efaaf8",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=226866"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,272 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg",
+  "slug": "tadeusz.chyży",
+  "profile_id": "TsrN6RBK5Mg",
+  "full_name": "dr hab. inż. Tadeusz Chyży",
+  "orcid": "0000-0002-1550-5728",
+  "orcid_url": "https://orcid.org/0000-0002-1550-5728",
+  "breadcrumb_name": "Tadeusz Chyży",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje budowlane i inżynierskie",
+    "metody numeryczne",
+    "statyka i dynamika budowli",
+    "mechanika konstrukcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "40 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Agrobiznesu w Łomży Aktualna nazwa: Międzynarodowa Akademia Nauk Stosowanych w Łomży",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c7212d0-2c9e-4105-8dd7-c9a54c862bc2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Techniki Budowlanej",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a06695e5-49d1-49c4-96b5-ac55298f9288",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Budownictwa i Nauk o Środowisku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/878751d5-a174-42fe-9ce3-3ffc2dbdc8ef"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1985",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/gremiums/58bcfec9-04fe-48f5-877e-74dab68fc138",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the impact of damage and strengthening of a steel spirit tank over its long lifetime",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/publications/d6129414-5db2-43d9-99c1-cef2445eafd6",
+      "authors": "S. Mlonek, M. Mackiewicz, T. Chyży",
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.engfailanal.2025.109546",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2025.109546",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Design and Implementation of Health Monitoring System for an Airport Terminal Building with a Large-Span Truss Steel Structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/publications/867da885-85e8-49a7-beab-a5afeb2129fe",
+      "authors": "J. Cui, X. Wang [...] T. Chyży , ... (+4)",
+      "publication_type": "Artykuł , Buildings",
+      "year": "2025",
+      "doi": "10.3390/buildings15183308",
+      "doi_url": "https://www.doi.org/10.3390/buildings15183308",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Matrix Method of Defect Analysis for Structures with Areas of Considerable Stiffness Differences",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/publications/51b4a32d-a7fb-4056-b181-a9054e9e3750",
+      "authors": "M. Mackiewicz, T. Chyży",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15084484",
+      "doi_url": "https://www.doi.org/10.3390/app15084484",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda analizy budynków mieszkalnych obciążonych nadciśnieniem w strefie wewnętrznego wybuchu gazu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/91c4e754-e212-482f-b26e-e8833ff0ada7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda analizy macierzowej statycznych i dynamicznych modeli budynków tarczowych z uwzględnieniem problemów nieliniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/f757a188-a141-4953-baab-e163b8600080",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Model obliczeniowy lekkiej podłogi warstwowej obciążonej temperaturą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/fe892f34-80a9-4f1d-9fd7-29a75247470d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda analizy macierzowej obszarów wielospójnych w elementach konstrukcji budowlanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/d36b51c0-81ee-4c32-bded-b9f66f556035",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Kompozyt cementowy z częściowym wykorzystaniem naturalnych substytutów i materiałów odpadowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/5518565f-8c54-4084-8587-c2fda0ce6ce6",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "„Dynamiczne oddziaływanie pojazdu szynowego na nawierzchnię kolejową ze szczególnym uwzględnieniem zjawiska efektu progowego”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/0b7a543b-0380-4e6a-abd9-0b1db4f2a6e9",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Prognoza teoretyczna efektów usuwania pionowych deformacji eksploatacyjnych nawierzchni kolejowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.chy%C5%BCy.TsrN6RBK5Mg/research-work/29c7cdfc-ae73-4c8d-b227-5c74fe19d7d9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=10619"
+    }
+  ],
+  "tag_cloud": [
+    "polyurethane adhesive",
+    "pomiary przemieszczeń",
+    "poisson’s ratio",
+    "stress",
+    "lightweight floor system",
+    "thermal action",
+    "aluminium lamellae",
+    "strain gauge techniques",
+    "strain gauges",
+    "deformation"
+  ],
+  "coworkers": []
+}

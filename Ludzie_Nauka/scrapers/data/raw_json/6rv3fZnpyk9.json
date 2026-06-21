@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9",
+  "slug": "krzysztof.krawiec",
+  "profile_id": "6rv3fZnpyk9",
+  "full_name": "prof. dr hab. inż. Krzysztof Krawiec",
+  "orcid": "0000-0001-5439-3231",
+  "orcid_url": "https://orcid.org/0000-0001-5439-3231",
+  "breadcrumb_name": "Krzysztof Krawiec",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy wspomagania decyzji",
+    "obliczenia ewolucyjne",
+    "algorytmy ewolucyjne",
+    "programowanie genetyczne",
+    "rozpoznawanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Komunikacji i Zarządzania w Poznaniu Aktualna nazwa: Wyższa Szkoła Komunikacji i Zarządzania",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b55015fe-e8d1-4004-bbdf-657170cf34d7",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "2015-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Krzysztof Krawiec"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evidence Generation for a Host-Response Biosignature of Respiratory Disease",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/publications/1d7107ca-45db-443b-9471-21356ad2197f",
+      "authors": "K. Dolley, K. Dooley [...] K. Krawiec , ... (+12)",
+      "publication_type": "Artykuł , Viruses",
+      "year": "2025",
+      "doi": "10.3390/v17070943",
+      "doi_url": "https://www.doi.org/10.3390/v17070943",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Learning Semantics-aware Search Operators for Genetic Programming",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/publications/7980530f-ff56-40b1-adc1-1b25b3cd5342",
+      "authors": "P. Wyrwiński, K. Krawiec",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726600",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726600",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Learning Semantics-aware Search Operators for Genetic Programming",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/publications/e5700eaf-41cd-40ba-839d-60129f69fb30",
+      "authors": "P. Wyrwiński, K. Krawiec",
+      "publication_type": "Artykuł , Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726600;10.48550/arxiv.2502.04568",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726600;10.48550/arxiv.2502.04568",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Konstruktywna indukcja cech we wspomaganiu decyzji na podstawie informacji obrazowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/bce49a38-504c-45d1-9ae9-2559238a3611",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Heurystyczne algorytmy odkrywania funkcji oceny w problemach opartych na testach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/e72b2fe6-ad97-4397-b3e7-2253f0c52978",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kompetentne algorytmy dla geometrycznego semantycznego programowania genetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/0ee22b41-1370-4f0e-8c10-fe323bc9fb66",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Kształtowanie koewolucyjne dla uczenia się ze wzmocnieniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/26fb34df-2572-4db1-82e7-f8086000bed3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/e1a52142-1458-4513-98a7-6c166d3ee949",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Adapting Deep Learning Architectures for Drug Discovery",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/ede8c9d2-71d4-4237-bc6e-10b0952e8807",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.krawiec.6rv3fZnpyk9/research-work/531add9f-69fd-4664-94ee-3d1ccdb3bf63",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Zt939gYAAAAJ&hl=en"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/krzysztof-krawiec-4119aa38"
+    },
+    {
+      "label": "WWW",
+      "url": "https://www.cs.put.poznan.pl/kkrawiec/"
+    }
+  ],
+  "tag_cloud": [
+    "obrazowanie medyczne",
+    "modeling",
+    "autoencoders",
+    "program synthesis",
+    "genetic programming",
+    "machine learning",
+    "symbolic regression",
+    "wiarygodna sztuczna inteligencja (ai) sztuczna inteligencja godna zaufania uczenie maszynowe optymalizacja wnioskowanie",
+    "neurosymbolic systems",
+    "graph neural networks"
+  ],
+  "coworkers": []
+}

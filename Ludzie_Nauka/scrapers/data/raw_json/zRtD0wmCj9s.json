@@ -1,0 +1,242 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s",
+  "slug": "andrzej.sikora",
+  "profile_id": "zRtD0wmCj9s",
+  "full_name": "dr hab. inż. Andrzej Sikora",
+  "orcid": "0000-0001-6649-1963",
+  "orcid_url": "https://orcid.org/0000-0001-6649-1963",
+  "breadcrumb_name": "Andrzej Sikora",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "miernictwo elektrotechniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Elektrotechniki Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Elektrotechniki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/10104d5b-8342-476d-a50f-e84ec4c04676",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/10104d5b-8342-476d-a50f-e84ec4c04676"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Elektroniki, Fotoniki i Mikrosystemów",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d5fd4797-90dd-4300-8cd7-aab7fd01f83a"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/gremiums/34acd618-250a-411f-89c7-9333780def01",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Conductive Atomic Force Microscopy—ultralow-current measurement systems for nanoscale imaging of a surface’s electrical properties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/publications/94f923cf-1093-4d71-877b-8460af6009b1",
+      "authors": "A. Sikora , K. Gajewski, D. Badura, ... (+4)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24175649",
+      "doi_url": "https://www.doi.org/10.3390/s24175649",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Educational scanning tunneling microscope – open architecture platform for nanotechnology teaching and nanometrology research",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/publications/9438a35d-a954-4c7d-b4ef-a9add5f8d86f",
+      "authors": "B. Pruchnik, A. Sikora , K. Gajewski, ... (+6)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.06.41",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.06.41",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Fiber optics vibration sensor with selftest functionality",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/publications/3852a219-9d1d-46f7-8cb9-9ba63e42a317",
+      "authors": "A. Sikora , J. Totczyk",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.11.62",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.11.62",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozwój i zastosowanie zaawansowanych technik mikroskopii sił atomowych w diagnostyce materiałów elektrotechnicznych. Zagadnienia wybrane",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work/3da5e477-c9fb-4356-9a4c-87e4e5aab02c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nanomodyfikacja powierzchni za pomocą modularnego mikroskopu tunelowego i sił atomowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work/4727adf3-ab07-4cac-b7d8-ce24ad98b2fa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metalowe sondy do mikroskopii sił atomowych - technologia oraz ich zastosowanie do innowacyjnych badań tribologicznych w mikroskali",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work/779abeca-7a8c-469b-8676-1a2a268de59a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie litografii elektronowej do wytwarzania tranzystora AlGaN/GaN HEMT",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work/d67f3bbb-b5f3-41c8-8950-397428a0c68b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Właściwości i zastosowanie układów mikro- i nanomechanicznych w pomiarach nanosił",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.sikora.zRtD0wmCj9s/research-work/7992bc99-4f79-4c57-908a-554d89ced37f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=112643"
+    }
+  ],
+  "tag_cloud": [
+    "sobel transformation",
+    "stainless steel",
+    "tio2",
+    "colorimetry",
+    "afm",
+    "atomic force microscopy",
+    "precise positioning",
+    "chemical synthesis",
+    "surface roughness",
+    "polski komitet materia ł ów elektrotechnicznych"
+  ],
+  "coworkers": []
+}

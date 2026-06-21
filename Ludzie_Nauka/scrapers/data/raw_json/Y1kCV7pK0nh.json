@@ -1,0 +1,233 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh",
+  "slug": "bartosz.ceran",
+  "profile_id": "Y1kCV7pK0nh",
+  "full_name": "dr hab. inż. Bartosz Ceran",
+  "orcid": "0000-0003-0207-3193",
+  "orcid_url": "https://orcid.org/0000-0003-0207-3193",
+  "breadcrumb_name": "Bartosz Ceran",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk rolniczych"
+  ],
+  "specializations": [
+    "elektroenergetyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria środowiska, górnictwo i energetyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Elektrycznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/gremiums/11662874-db54-4aa5-a16c-a4767e5d327a",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the use of waste gasification in a hybrid generation system to supply an industrial demand and power grid through cable pooling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/publications/c4b8c2f1-04fb-4e1b-a55a-97af6a6b7ab4",
+      "authors": "J. Roman, B. Klojzy-Karczmarczyk [...] B. Ceran , ... (+1)",
+      "publication_type": "Artykuł , Renewable Energy",
+      "year": "2025",
+      "doi": "10.1016/j.renene.2025.122721",
+      "doi_url": "https://www.doi.org/10.1016/j.renene.2025.122721",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dobór mocy układu zgazowarka odpadów–silnik gazowy w hybrydowej instalacji OZE",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/publications/345abdf4-f98d-48dc-8301-3a661e2aa290",
+      "authors": "J. Roman, B. Ceran , R. Wróblewski",
+      "publication_type": "Artykuł , Rynek Energii",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Selecting power and capacity of electrochemical energy storage: Case study of large-scale photovoltaic systems supplying an industrial recipient in Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/publications/e9d371d7-0735-44ea-91da-0a704d02da48",
+      "authors": "A. Mielcarek, J. Roman [...] B. Ceran , ... (+1)",
+      "publication_type": "Artykuł , Journal of Energy Storage",
+      "year": "2025",
+      "doi": "10.1016/j.est.2025.116118",
+      "doi_url": "https://www.doi.org/10.1016/j.est.2025.116118",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu starzenia się wybranych komponentów hybrydowych systemów wytwórczych na ich efektywność energetyczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work/ea60c65f-6a30-4cd4-aa15-e9f895889b5a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ogniwa paliwowe w systemach rozproszonego wytwarzania energii elektrycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work/ec80d33f-f26c-4f80-a164-73830167c5c5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod probabilistycznych w klasyfikacji systemów, elementów konstrukcji i wyposażenia reaktora badawczego MARIA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work/726001b8-a352-4f27-8c43-891df7ec537a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania możliwości produkcji i magazynowania zielonego wodoru w Polsce z wykorzystaniem morskiej energii wiatrowej oraz technologii Power-to-X w odniesieniu do wymagań procesu dekarbonizacji i magazynowania energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work/f5a2108f-1ca3-49e3-a224-030e111706fc",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wdrożenie zaawansowanych systemów sterowania prototypowych, biomasowych instalacji trigeneracyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ceran.Y1kCV7pK0nh/research-work/4b01266a-011d-49f0-9de1-413e048edb0b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=283897"
+    }
+  ],
+  "tag_cloud": [
+    "solar energy",
+    "pem electrolyser",
+    "energy analysis",
+    "hydrogen",
+    "model predictive control",
+    "analiza energetyczna",
+    "elektrolizer pem",
+    "wodór",
+    "młyn węglowy",
+    "module power degradation"
+  ],
+  "coworkers": []
+}

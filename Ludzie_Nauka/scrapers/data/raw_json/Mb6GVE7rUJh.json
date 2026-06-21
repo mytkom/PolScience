@@ -1,0 +1,306 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh",
+  "slug": "andrzej.burghardt",
+  "profile_id": "Mb6GVE7rUJh",
+  "full_name": "prof. dr hab. inż. Andrzej Tomasz Burghardt",
+  "orcid": "0000-0002-7358-4866",
+  "orcid_url": "https://orcid.org/0000-0002-7358-4866",
+  "breadcrumb_name": "Andrzej Burghardt",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika",
+    "robotyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 2 miesiące",
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz - Instytut Technologii Eksploatacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/542e9ecf-03e6-4669-aee8-00ed90e258fb",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 2 miesiące",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Jana Grodka w Sanoku Aktualna nazwa: Uczelnia Państwowa im. Jana Grodka w Sanoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a0434e0e-cd55-409e-9dca-3acce9086e8e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza; Wydział Budowy Maszyn i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/620a9753-683b-477a-a513-94e44e3c28f1"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Akademia Górnicza-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Nadanie tytułu",
+        "Akademia Górnicza-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Budowy Maszyn",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/gremiums/64843c11-5090-4f48-8cb2-14eccfa4d7c2",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/gremiums/b734ba8c-0a2d-4597-ac23-ede62be1b10f",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of Digital Twins in Designing Safety Systems for Robotic Stations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/publications/83bc3441-c183-413d-b1c7-e2cf669d96ff",
+      "authors": "P. Pietruś, K. Kurc [...] A. Burghardt , ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13214179",
+      "doi_url": "https://www.doi.org/10.3390/electronics13214179",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Creating Digital Twins of Robotic Stations Using a Laser Tracker",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/publications/68598e65-1ef4-4ddc-a882-53169389a60b",
+      "authors": "K. Kurc, M. Muszyńska [...] A. Burghardt , ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13214271",
+      "doi_url": "https://www.doi.org/10.3390/electronics13214271",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Measurements of Geometrical Quantities and Selection of Parameters in the Robotic Grinding Process of an Aircraft Engine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/publications/e570b1e3-fafc-4635-b451-6cffaec5a09e",
+      "authors": "P. Pietruś, M. Muszyńska [...] A. Burghardt , ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13204077",
+      "doi_url": "https://www.doi.org/10.3390/electronics13204077",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/4aedfb2d-dcf4-4d2e-990b-23fd4903cbf1",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie i sterowanie formacją robotów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/07a1acf8-5e07-4a7c-b528-c745e8c63a8d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Sterowanie behawioralne mobilnym robotem kołowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/5d4500f0-7fa5-4666-8701-1cbe3f444555",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie mechanizmów elastycznych w manipulatorach do mikroprzemieszczeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/9d8ef8a0-30dc-4f61-86d7-70b190ae05aa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda nawigacji autonomicznego robota terenowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/a215fbda-8fd0-43ea-bc60-ab77501e2dc2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Dobór optymalnego łańcucha kinematycznego oraz jednostek napędowych egzoszkieletu kończyny górnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.burghardt.Mb6GVE7rUJh/research-work/dffad7c9-7826-4e2c-8f10-41ca3452583a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=201146"
+    }
+  ],
+  "tag_cloud": [
+    "neural network",
+    "lagrange equations",
+    "automatic processing",
+    "wheeled robots",
+    "robot",
+    "programming",
+    "prototyping",
+    "mathematical model of dynamics",
+    "robotic deburring",
+    "szkolenia"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,306 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW",
+  "slug": "zbigniew.malara",
+  "profile_id": "SJR6GmZDtRW",
+  "full_name": "prof. dr hab. inż. Zbigniew Malara",
+  "orcid": "0000-0002-4404-4959",
+  "orcid_url": "https://orcid.org/0000-0002-4404-4959",
+  "breadcrumb_name": "Zbigniew Malara",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ekonomia",
+    "organizatoryka",
+    "projektowanie systemów zarządzania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Uczelnia Zawodowa Zagłębia Miedziowego w Lubinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b99aa0be-70c0-4b0d-9938-ad67bf324872",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Menedżerska w Legnicy Aktualna nazwa: Wyższa Szkoła Menedżerska w Legnicy w likwidacji z siedzibą w Legnicy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b9e1cfaa-5008-4a94-bda4-163af56f765c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz – ITECH Instytut Innowacji i Technologii",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/99b73e7f-5723-47b4-bf61-f162e05340bf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki ekonomiczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz – ITECH Instytut Innowacji i Technologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/99b73e7f-5723-47b4-bf61-f162e05340bf"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Instytut Organizacji Przemysłu Maszynowego",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1975",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka i zarządzanie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/gremiums/6e4fecf6-5089-4abd-8486-6811a63d502a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Embracing the fourth industrial revolution: navigating challenges and leveraging opportunities in marketing and management – case study Nokia Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/publications/6377e5ff-6da6-4d3d-9a9f-09168719ec4b",
+      "authors": "Z. Malara , Y. Ziaeian",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2024",
+      "doi": "10.29119/1641-3466.2024.195.24",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2024.195.24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Embracing the fourth industrial revolution: navigating challenges and leveraging opportunities in marketing and management – case study Nokia Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/publications/73fd341e-ebdb-41bd-a93e-18f9c66bcb6d",
+      "authors": "Z. Malara , Y. Ziaeian",
+      "publication_type": "Artykuł , Zeszyty Naukowe. Organizacja i Zarządzanie / Politechnika Śląska",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Applying the malmquist productivity index model to assess the performance of the coffee enterprise in DakLak Vietnam",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/publications/35621481-054b-4fcb-bc5c-a42935984c79",
+      "authors": "P. van Thanh, Z. Malara , D. Thi Ai Nhi, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-981-99-5837-5_13",
+      "doi_url": "https://www.doi.org/10.1007/978-981-99-5837-5_13",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Restrukturyzacja organizacyjna przedsiębiorstwa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/00814124-29aa-4c38-af94-5401ef1cfe4d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metody wielokryteryjnej analizy Bellingera do wyboru asortymentu produkcji w przedsiębiorstwach przemysłowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/a64d7a76-b93e-44be-a7fc-91481acdaafb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modele biznesu w segmencie usług językowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/198a60ff-368d-4390-a4a2-743736df000d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model Marketingowy w globalnych firmach Projektowanie i zarządzanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/cb58f45b-17a2-4bc3-a1e5-86e3da95c9d5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Determinanty organizacyjne oraz ich wpływ na poziom wyniku finansowego szpitali",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/78f5492e-47f2-4f32-addb-eaa7e68df916",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modele strategii zarządzania serwisem internetowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/ed1af554-1359-4a60-b145-8f6e7d873eb4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zawodność rynku w świetle praktyki nieudanych fuzji i przejęć przedsiębiorstw w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/7d7648ff-2667-4993-8e7a-fe921cad73e3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Model potrzeb informacyjnych imigrantów na polskim i niemieckim rynku pracy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.malara.SJR6GmZDtRW/research-work/b1f112f9-700f-488e-a6eb-5e392979dc83",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19621"
+    }
+  ],
+  "tag_cloud": [
+    "ocena",
+    "menedżer",
+    "innowacja",
+    "innowacje",
+    "zarządzanie",
+    "przedsiębiorstwo",
+    "badania",
+    "innowacyjność",
+    "strategia",
+    "przedsiębiorstwo wieku globalizacji"
+  ],
+  "coworkers": []
+}

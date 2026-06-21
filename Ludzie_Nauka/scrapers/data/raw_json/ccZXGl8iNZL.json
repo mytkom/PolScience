@@ -1,0 +1,248 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL",
+  "slug": "przemysław.śliwiński",
+  "profile_id": "ccZXGl8iNZL",
+  "full_name": "dr hab. inż. Przemysław Marcin Śliwiński",
+  "orcid": "0000-0003-3839-1580",
+  "orcid_url": "https://orcid.org/0000-0003-3839-1580",
+  "breadcrumb_name": "Przemysław Śliwiński",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "identyfikacja systemów",
+    "metody stochastyczne w automatyce i przetwarzaniu obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/gremiums/34acd618-250a-411f-89c7-9333780def01",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A dual averaging algorithm for on-line modelling of infinite memory nonlinear systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/publications/889a46ca-e336-4d64-a5d3-cb6745a962b5",
+      "authors": "P. Wachel, S. Łagosz, P. Śliwiński , ... (+1)",
+      "publication_type": "Artykuł , IEEE Transactions on Automatic Control",
+      "year": "2023",
+      "doi": "10.1109/tac.2022.3225506",
+      "doi_url": "https://www.doi.org/10.1109/tac.2022.3225506",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Identification of Wiener–Hammerstein systems by ℓ1–constrained Volterra series",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/publications/41b87943-2436-4927-9a46-c2a1003e6de9",
+      "authors": "P. Śliwiński , P. Wachel, Ł. Szymon",
+      "publication_type": "Artykuł , European Journal of Control",
+      "year": "2021",
+      "doi": "10.1016/j.ejcon.2021.01.002",
+      "doi_url": "https://www.doi.org/10.1016/j.ejcon.2021.01.002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mimicking learning for 1-NN classifiers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/publications/5343d9e9-19a9-443a-9b4f-4fb02c99a45e",
+      "authors": "P. Śliwiński , P. Wachel, R. Jerzy, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1007/978-3-030-77967-2_7",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-77967-2_7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja systemów nieliniowych za pomocą falek Haara",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/9632328c-8265-4589-b6e3-0e6e2c25318e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy identyfikacji systemów nieliniowych za pomocą falek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/08fedac0-44d4-44f2-ba03-431d5c96e3d5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie systemów nieliniowych o nieznanej strukturze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/557f54e2-92d5-40b2-a3c7-aee79b9771fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Automatyczne ustawianie ostrości z wykorzystaniem algorytmów optymalizacji stochastycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/3439ffe6-9de6-41a1-8f33-3c2dafc329e9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie i rozpoznawanie nietypowych zachowań dzieci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/75224aff-b1fe-4426-a74b-2e9771bdfa71",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Local basis function method for identification of nonstationary systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/999a322c-0ce1-4e27-8db4-528c1314e53d",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy komputerowej analizy i przeszukiwania obrazów parazytologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.%C5%9Bliwi%C5%84ski.ccZXGl8iNZL/research-work/dcbfb9fd-6749-4873-9b9f-3fe68c526429",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92195"
+    }
+  ],
+  "tag_cloud": [
+    "paradoks wyboru",
+    "zaburzenia rozwojowe",
+    "teoria systemów",
+    "diamenty",
+    "detekcja uszkodzeń",
+    "systems theory",
+    "rozpoznawanie obiektów",
+    "zmęczenie",
+    "rehabilitacja",
+    "algorytm złotego podziału"
+  ],
+  "coworkers": []
+}

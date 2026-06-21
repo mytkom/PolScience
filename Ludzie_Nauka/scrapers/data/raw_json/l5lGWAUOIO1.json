@@ -1,0 +1,292 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1",
+  "slug": "bogusław.kusz",
+  "profile_id": "l5lGWAUOIO1",
+  "full_name": "prof. dr hab. inż. Bogusław Kusz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Bogusław Kusz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Fizyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96dbb5e4-750c-4f56-bff0-8d9143c48d92"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1982",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/gremiums/a7b590be-36b3-46d9-89db-9189da3b8e64",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Pyrolysis of RDF and Catalytic Decomposition of the Produced Tar in a Char Bed Secondary Reactor as an Efficient Source of Syngas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/publications/89ddd3a8-8dc6-43d1-9e4c-b3bf3df5a7f6",
+      "authors": "B. Kusz , D. Kardaś, Ł. Heda, ... (+1)",
+      "publication_type": "Artykuł , Processes",
+      "year": "2022",
+      "doi": "10.3390/pr10010090",
+      "doi_url": "https://www.doi.org/10.3390/pr10010090",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Kinetic analysis of the reduction of a ternary system of Bi, Sb and Te oxides by hydrogen for BiSbTe3 synthesis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/publications/a3d7cace-42ac-4e7b-a696-1b4e8a83083a",
+      "authors": "B. Trawiński, B. Kusz",
+      "publication_type": "Artykuł , Thermochimica Acta",
+      "year": "2021",
+      "doi": "10.1016/j.tca.2021.178966",
+      "doi_url": "https://www.doi.org/10.1016/j.tca.2021.178966",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Structure and thermoelectric properties of nickel-doped copper selenide synthesised in a hydrogen atmosphere",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/publications/7cbf80a0-7104-4148-94cb-e52cbec29679",
+      "authors": "A. Dubiel, B. Trawiński, B. Kusz , ... (+2)",
+      "publication_type": "Artykuł , Materials Research Bulletin",
+      "year": "2021",
+      "doi": "10.1016/j.materresbull.2020.111042",
+      "doi_url": "https://www.doi.org/10.1016/j.materresbull.2020.111042",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nanostruktury metalicznego bizmutu w redukowanych szkłach bizmutowo-germanianowych i bizmutowo-krzemianowych: wytwarzanie, struktura i transport nośników ładunku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/143b2035-1300-4054-a82f-64782497970a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie wysokotemperaturowych nadprzewodników z grupy Y-Ba-Cu-O metodą tarcia wewnętrznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/a449eec1-c94d-4ad2-ad2b-f3ab54b6e73d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Kinetics and mechanisms of oxides reduction in a process of (Bi,Sb) 2 Te 3 thermoelectric materials synthesis (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/05a9cacf-81f2-4f47-9e37-8e4d253f4cc5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zbadanie właściwości strukturalnych i elektrycznych niestechiometrycznych, domieszkowanych związków typu Sr x (Ti,Fe)O 3-δ",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/e99fc1d5-2366-40b2-9484-a13ccd1ca9fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Właściwości strukturalne i transportowe kompozytów tytanianu strontu z tlenkami przewodzącymi jonowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/2eece79b-7074-4648-b4a5-7d6df10fda6b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Funkcjonalne układy warstwowe stal/ceramika w roli interkonektorów dla elektrochemicznych urządzeń do konwersji energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/af1794c4-c748-40c9-831e-449c79af62b4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/d8520053-2941-4107-9db5-1c1ff8daf943",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Relationship between structural and thermoelectric properties of ternary chalcogenides with close-packed tetrahedra structure",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.kusz.l5lGWAUOIO1/research-work/fd49e5f7-6a86-447d-abec-3353166b544b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=12103"
+    }
+  ],
+  "tag_cloud": [
+    "composites",
+    "odpady komunalne",
+    "odpady przemysłowe",
+    "thermoelectric materials",
+    "carbon nanotubes functionalization",
+    "glass",
+    "cvd method",
+    "bioelectrode",
+    "bismuth antimony telluride",
+    "piroliza"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx",
+  "slug": "zuzanna.krawczyk-borysiak",
+  "profile_id": "qbXfyi8pvsx",
+  "full_name": "dr inż. Zuzanna Noemi Krawczyk-Borysiak",
+  "orcid": "0000-0002-3897-1078",
+  "orcid_url": "https://orcid.org/0000-0002-3897-1078",
+  "breadcrumb_name": "Zuzanna Krawczyk-Borysiak",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Badawczy IDEAS >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Badawczy IDEAS >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluating the efficacy of the Segment Anything Model (SAM) in streamlining dental cyst segmentation within CBCT volumes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/publications/3043dca1-bdbf-469a-b969-ab239c6153fc",
+      "authors": "W. Świątkowski, Z. Krawczyk-Borysiak , W. Nalepa, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.11.40",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.11.40",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Methods of classifying voltage surges using Deep Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/publications/77d1b553-9574-4aa1-818e-a38874ccbbdc",
+      "authors": "Z. Krawczyk-Borysiak , P. Kluge, A. Lasica, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.49",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.49",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Relationship between electrical, mechanical and microstructural properties of CFRPs based on thermoplastic acrylic resin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/publications/222f2570-ee87-4473-9363-c85a72dc2586",
+      "authors": "S. Demski, K. Dydek, Z. Krawczyk-Borysiak , ... (+6)",
+      "publication_type": "Artykuł , Composites Theory and Practice",
+      "year": "2025",
+      "doi": "10.62753/ctp.2025.01.2.2",
+      "doi_url": "https://www.doi.org/10.62753/ctp.2025.01.2.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Automatyczne metody tworzenia trójwymiarowych zindywidualizowanych modeli szkieletów z wykorzystaniem morfingu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zuzanna.krawczyk-borysiak.qbXfyi8pvsx/research-work/7a682bef-117a-417e-83f0-d3eec6b151aa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=297890"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

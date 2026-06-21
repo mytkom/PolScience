@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi",
+  "slug": "łukasz.saganowski",
+  "profile_id": "WsjjjpZAtpi",
+  "full_name": "dr inż. Łukasz Saganowski",
+  "orcid": "0000-0002-7535-5653",
+  "orcid_url": "https://orcid.org/0000-0002-7535-5653",
+  "breadcrumb_name": "Łukasz Saganowski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kodowanie sygnałów",
+    "przetwarzanie sygnałów",
+    "informatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Bydgoska Szkoła Wyższa w Bydgoszczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/353b30e9-139c-4c24-88fc-ad6c53b4f600",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich; Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80f2b7b7-85c7-4ef1-a01c-c4dd2e41058f"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "ATR Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/gremiums/cf401882-1086-4daf-85cf-868eafe19877",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Prediction of Smart Energy Meter Network Traffic Features for Anomaly Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/publications/014b0bd4-2d00-4e9a-9013-28ce47f06509",
+      "authors": "Ł. Saganowski , T. Andrysiak",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-18409-3_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-18409-3_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Prediction of Water Usage for Advanced Metering Infrastructure Network with Intelligent Water Meters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/publications/c815ee10-347d-410e-a8ac-fcefd642802d",
+      "authors": "Ł. Saganowski , T. Andrysiak",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-42519-6_12",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-42519-6_12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "METHOD OF ASSESSING THE EFFICIENCY OF ELECTRICAL POWER CIRCUIT SEPARATION WITH THE POWER LINE COMMUNICATION FOR RAILWAY SIGNS MONITORING",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/publications/53b5df5f-240f-4d32-931e-fdf7432ad6f5",
+      "authors": "P. Kiedrowski, Ł. Saganowski",
+      "publication_type": "Artykuł , Transport and Telecommunication",
+      "year": "2021",
+      "doi": "10.2478/ttj-2021-0031",
+      "doi_url": "https://www.doi.org/10.2478/ttj-2021-0031",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kodowanie obrazów z wykorzystaniem słownika funkcji bazowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.saganowski.WsjjjpZAtpi/research-work/3c6f3b7b-eb96-4ecf-b38b-04c0e6c423f4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=209446"
+    }
+  ],
+  "tag_cloud": [
+    "arfima and holt-winters models",
+    "smart lighting",
+    "led sign",
+    "time series analysis",
+    "plc",
+    "anomaly detection",
+    "signal analysis",
+    "long and short memory dependence",
+    "smart metering",
+    "dictionary learning"
+  ],
+  "coworkers": []
+}

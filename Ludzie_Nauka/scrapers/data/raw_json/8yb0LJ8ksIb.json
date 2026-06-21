@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb",
+  "slug": "marek.michalczuk",
+  "profile_id": "8yb0LJ8ksIb",
+  "full_name": "dr inż. Marek Michalczuk",
+  "orcid": "0000-0003-1239-0387",
+  "orcid_url": "https://orcid.org/0000-0003-1239-0387",
+  "breadcrumb_name": "Marek Michalczuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "napęd elektryczny"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Design of discrete state feedback current control for a drive system with a permanent magnet linear synchronous motor and LC filter in an application for small cargo transportation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/publications/91c1c010-9ff6-4eeb-81f3-0c4852ec9728",
+      "authors": "A. Straś, M. Michalczuk , K. Jackiewicz, ... (+3)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3638595",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3638595",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multithreaded State Controller for Grid-Connected Converter With Imposed Limits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/publications/f6aa5e71-55a1-474f-a2a4-1d6e733699f0",
+      "authors": "M. Michalczuk , B. Ufnalski, A. Gałecki",
+      "publication_type": "Artykuł , IEEE Transactions on Industrial Electronics",
+      "year": "2024",
+      "doi": "10.1109/tie.2023.3279553",
+      "doi_url": "https://www.doi.org/10.1109/tie.2023.3279553",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Stability-assured design of a full state feedback controller for a three-phase grid-connected converter using disk margin analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/publications/8b64a931-a429-4532-b6be-998286154608",
+      "authors": "A. Kaszewski, A. Galecki, M. Michalczuk , ... (+3)",
+      "publication_type": "Artykuł , ISA Transactions",
+      "year": "2023",
+      "doi": "10.1016/j.isatra.2023.06.007",
+      "doi_url": "https://www.doi.org/10.1016/j.isatra.2023.06.007",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie rozmyte przepływem energii w pojeździe elektrycznym wyposażonym w baterię ogniw litowych i superkondensatory",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalczuk.8yb0LJ8ksIb/research-work/98639cce-0527-4ce1-80a2-25da3353b12d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=280034"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

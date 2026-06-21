@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX",
+  "slug": "małgorzata.djas",
+  "profile_id": "0HZffOKSVCX",
+  "full_name": "dr inż. Małgorzata Djas",
+  "orcid": "0000-0001-9014-7134",
+  "orcid_url": "https://orcid.org/0000-0001-9014-7134",
+  "breadcrumb_name": "Małgorzata Djas",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Sieć Badawcza Łukasiewicz - Instytut Mikroelektroniki i Fotoniki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz - Instytut Mikroelektroniki i Fotoniki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e228e3b7-3b6f-414f-9deb-a7b08b90f9e3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "4 lata 3 miesiące",
+      "duration": null,
+      "institution": "Instytut Technologii Materiałów Elektronicznych Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Technologii Materiałów Elektronicznych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5f1a1851-c25b-40a4-9f56-3cfe3e859d44",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Chemicznej i Procesowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aa3c184d-9d61-4612-adf1-901ef5516cda"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "PW",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Instytut Technologii Materiałów Elektronicznych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5f1a1851-c25b-40a4-9f56-3cfe3e859d44"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Use of graphene oxide as an active layer on a tapered fibre for detection of volatile liquid vapours: ammonium hydroxide, trimethyl phosphate, and 1,4-thioxane",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/publications/6b9d8fe5-66f2-43f9-8842-cb18cae7bbfe",
+      "authors": "A. Pakuła, J. Krawczyk [...] M. Djas , ... (+6)",
+      "publication_type": "Artykuł , OPTO-ELECTRONICS REVIEW",
+      "year": "2025",
+      "doi": "10.24425/opelre.2025.154305",
+      "doi_url": "https://www.doi.org/10.24425/opelre.2025.154305",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Compositing graphene oxide with carbon fibers enables improved dynamical thermomechanical behavior of papers produced at a large scale",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/publications/a13c5906-502f-4f0b-8c99-a793d81ddd26",
+      "authors": "M. Djas , K. Kowiorski, M. Heljak, ... (+8)",
+      "publication_type": "Artykuł , Carbon",
+      "year": "2023",
+      "doi": "10.1016/j.carbon.2023.02.009",
+      "doi_url": "https://www.doi.org/10.1016/j.carbon.2023.02.009",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Electronic structure of multi-layered graphene oxide membrane moderately reduced in vacuum",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/publications/6d651727-3a50-4a6f-80c4-f993ec902b50",
+      "authors": "T. Fok, K. Janulewicz [...] M. Djas , ... (+10)",
+      "publication_type": "Artykuł , Journal of Physics and Chemistry of Solids",
+      "year": "2022",
+      "doi": "10.1016/j.jpcs.2022.110623",
+      "doi_url": "https://www.doi.org/10.1016/j.jpcs.2022.110623",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ekstrakcja reaktywna kwasów karboksylowych z zastosowaniem ditlenku węgla w stanie nadkrytycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.djas.0HZffOKSVCX/research-work/54951fe3-6bdf-41fd-8bba-2dc5e4bf55ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287987"
+    }
+  ],
+  "tag_cloud": [
+    "lakiery wodorozcieńczalne",
+    "reactive extraction",
+    "reduced graphene oxide",
+    "tlenek grafenu",
+    "graphene oxide",
+    "ekstrakcja reaktywna",
+    "bezpośrednia eksfoliacja",
+    "ditlenek węgla w stanie nadkrytycznym",
+    "corrosion",
+    "nadkrytyczny dwutlenek węgla"
+  ],
+  "coworkers": []
+}

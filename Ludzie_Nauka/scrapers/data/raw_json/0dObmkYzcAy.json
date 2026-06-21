@@ -1,0 +1,208 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy",
+  "slug": "bartosz.trybus",
+  "profile_id": "0dObmkYzcAy",
+  "full_name": "dr inż. Bartosz Jan Trybus",
+  "orcid": "0000-0002-4588-3973",
+  "orcid_url": "https://orcid.org/0000-0002-4588-3973",
+  "breadcrumb_name": "Bartosz Trybus",
+  "current_employment_summary": [
+    "Państwowa Akademia Nauk Stosowanych w Krośnie",
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria oprogramowania",
+    "systemy czasu rzeczywistego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Stanisława Pigonia w Krośnie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Krośnie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Krośnie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Krośnie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Krośnie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Krośnie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8a2706f6-8163-4308-939d-e9d29bba9654"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A System for Testing and Verifying Prototypes of Models for Vehicle Traffic Control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/publications/d37fba01-3658-4a92-9bd9-e5430eea5385",
+      "authors": "M. Hubacz, A. Paszkiewicz [...] B. Trybus , ... (+3)",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_255/61",
+      "doi_url": "https://www.doi.org/10.14313/par_255/61",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated Production Line Process Validation Using RFID Technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/publications/5606c9d6-ab6d-4712-965d-07e78a5cb2a3",
+      "authors": "B. Pawłowicz, A. Stęchły, B. Trybus , ... (+2)",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_256/67",
+      "doi_url": "https://www.doi.org/10.14313/par_256/67",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "System testowania i walidacji modeli do sterowania ruchem pojazdów",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/publications/290795d6-47eb-4960-9b5f-212be73d64b9",
+      "authors": "A. Paszkiewicz, B. Pawłowicz [...] B. Trybus , ... (+3)",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_255/61",
+      "doi_url": "https://www.doi.org/10.14313/par_255/61",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie kolorowanych sieci Petriego do analizy strukturalnej systemów czasu rzeczywistego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/research-work/e16ba18f-7514-470e-b7ae-80121067a040",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metodyka modelowania, testowania i implementacji oprogramowania sterującego przy użyciu diagramów SysML oraz testów jednostkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.trybus.0dObmkYzcAy/research-work/48a5bcc0-53e4-411c-93bd-adcd69d6de1a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=125957"
+    }
+  ],
+  "tag_cloud": [
+    "traffic management",
+    "control environment",
+    "cpdev",
+    "plc",
+    "rfid",
+    "internet rzeczy",
+    "tekstronika",
+    "inteligentne ubrania",
+    "pn-en 61131-3",
+    "iec 61131-3 standard"
+  ],
+  "coworkers": []
+}

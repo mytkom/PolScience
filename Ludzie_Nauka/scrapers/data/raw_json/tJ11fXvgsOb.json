@@ -1,0 +1,294 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb",
+  "slug": "piotr.woyciechowski",
+  "profile_id": "tJ11fXvgsOb",
+  "full_name": "prof. dr hab. Piotr Paweł Woyciechowski",
+  "orcid": "0000-0002-8127-7559",
+  "orcid_url": "https://orcid.org/0000-0002-8127-7559",
+  "breadcrumb_name": "Piotr Woyciechowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "budownictwo ogólne",
+    "inżynieria produkcji budowlanej",
+    "jakość i trwałość obiektów budowlanych",
+    "konstrukcje budowlane",
+    "obiekty budowlane",
+    "technologia betonu",
+    "karbonatyzacja",
+    "beton"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Radomska Szkoła Wyższa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/103e7288-585f-468d-9fb9-567e0321d382",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f99459a0-12ff-4940-87a5-175328e8e031"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f99459a0-12ff-4940-87a5-175328e8e031"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/gremiums/d6b89419-8a2f-4594-9e23-1002ab454119",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Lądowa i Transport 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Lądowa i Transport Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Zespół II Nauk Inżynieryjno-Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/gremiums/02ddc339-c5e4-45be-90b1-d59eedd321e3",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancing the performance of recycled aggregate concrete through optimized pretreatment methods: a microstructural perspective",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/publications/7d280262-debb-4170-b0d0-a56f5cbadf2a",
+      "authors": "M. Kępniak, F. Chyliński, P. Woyciechowski",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-14834-y",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-14834-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "From waste to function: Ground walnut shells as a reactive additive for heavy metal removal in pervious concrete",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/publications/b4d5d3dc-8ad1-4251-8988-7939c111a841",
+      "authors": "K. Chilmon, M. Kalinowski [...] P. Woyciechowski , ... (+1)",
+      "publication_type": "Artykuł , Construction and Building Materials",
+      "year": "2025",
+      "doi": "10.1016/j.conbuildmat.2025.144035",
+      "doi_url": "https://www.doi.org/10.1016/j.conbuildmat.2025.144035",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Niestandardowe korzyści czyli jak mądrze wykorzystać atuty prefabrykacji",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/publications/2a07b5de-0f5f-4bae-b92a-f6be8c8a992d",
+      "authors": "G. Adamczewski, P. Woyciechowski , S. Spodzieja",
+      "publication_type": "Artykuł , Builder [online]",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/6d7eef9e-6b01-4bcb-b943-eee2f47daa8d",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Model karbonatyzacji betonu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/39489945-c94f-489d-b4b8-be04ce8b2c89",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza zjawisk skurczowych w pierwszej dobie dojrzewania tworzyw cementowych modyfikowanych domieszkami i dodatkami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/d06c54ce-823e-4ae8-9025-8c0e5fbaceb8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ dodatku popiołu lotnego wapiennego na przebieg karbonatyzacji betonu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/802416cc-2fec-4a0e-a661-632857ce0bfd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ziemia ubijana stabilizowana cementem jako konstrukcyjny materiał budowlany w klimacie umiarkowanym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/b9bad6f3-59c5-447b-8047-1e610adbcc62",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "EFEKTYWNOŚĆ ZBROJENIA BETONU OCZYSZCZONYMI WŁÓKNAMI Z RECYKLINGU OPON",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/af592606-f189-459d-9021-728a8bd83297",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie popiołów powstałych ze spalania osadów ściekowych w kompozytach cementowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/7fb58030-062b-4aa8-83db-2647324b9d29",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Podatność na pękanie i odkształcenia skurczowe kompozytów cementowych nowej generacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.woyciechowski.tJ11fXvgsOb/research-work/2913589a-8c66-40e1-82c1-72c06407595b",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85172"
+    }
+  ],
+  "tag_cloud": [
+    "cement",
+    "concrete prefabrication",
+    "prefabrication",
+    "prefabrykacja betonowa",
+    "beton",
+    "concrete",
+    "durability",
+    "trwałość",
+    "precast concrete",
+    "budownictwo prefabrykowane"
+  ],
+  "coworkers": []
+}

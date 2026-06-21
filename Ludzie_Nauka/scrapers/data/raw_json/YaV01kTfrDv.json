@@ -1,0 +1,289 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv",
+  "slug": "piotr.małka",
+  "profile_id": "YaV01kTfrDv",
+  "full_name": "dr hab. inż. Piotr Małka",
+  "orcid": "0000-0002-1377-6460",
+  "orcid_url": "https://orcid.org/0000-0002-1377-6460",
+  "breadcrumb_name": "Piotr Małka",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Wschodnioeuropejska w Przemyślu Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Przemyślu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a615aecb-b546-472b-93d9-813564c4b50d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Inżynierii Mechanicznej i Robotyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/25477aeb-5f8f-4f9f-bb7a-7a9224dbf90a"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "robotyka i mechatronika",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Przemyślu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a615aecb-b546-472b-93d9-813564c4b50d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advanced probabilistic roadmap path planning with adaptive sampling and smoothing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/publications/075132ac-66ba-48a9-a0ad-ad44ccecaef6",
+      "authors": "B. Bonar, P. Małka , T. Buratowski, ... (+1)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14193804",
+      "doi_url": "https://www.doi.org/10.3390/electronics14193804",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Modeling wastewater treatment plants to study energy optimal control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/publications/4d4bc3d4-c11d-4de4-8a6e-4874de6de3bf",
+      "authors": "P. Król, P. Małka , A. Gallina, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18226011",
+      "doi_url": "https://www.doi.org/10.3390/en18226011",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Predictive navigation of mobile robots in dynamic environments: a UKF–APF approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/publications/1cd28705-f88a-49fa-a65a-982c7c33574e",
+      "authors": "B. Bonar, T. Buratowski [...] P. Małka , ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14193810",
+      "doi_url": "https://www.doi.org/10.3390/electronics14193810",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Mechatronika w inteligentnych układach wodociągowo-kanalizacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work/3d1a6d19-56e9-49d9-8549-38a8425907a6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Pozycjonowanie i nadążanie minirobota kołowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work/21096fc6-b34f-49a2-a5f4-f33c1e3d011e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Pozycjonowanie i nadążanie minirobota kołowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work/d5d175dc-f498-40a3-bb28-b60665268ad5",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Adaptacyjne zabezpieczenia mikrosieci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work/66a8ec53-8b53-4c94-afc8-67aaf47a03e6",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza ruchu mobilnego robota z kołami mecanum",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.ma%C5%82ka.YaV01kTfrDv/research-work/88c4f2d5-5c34-40ca-a4c1-d7a9def9c759",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=B1My_G8AAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://pl.linkedin.com/in/piotr-ma%C5%82ka-a60677252"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Piotr-Malka"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=23012580200"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7",
+  "slug": "marcin.korzeniowski",
+  "profile_id": "8I6GVgEzLE7",
+  "full_name": "dr inż. Marcin Korzeniowski",
+  "orcid": "0000-0003-1231-2899",
+  "orcid_url": "https://orcid.org/0000-0003-1231-2899",
+  "breadcrumb_name": "Marcin Korzeniowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania nieniszczące"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Development and implementation of a deep learning algorithm to evaluate the powder distribution process during 3d printing using the lpbf method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/publications/32327b51-fd2d-4101-b9e5-7616e5524ece",
+      "authors": "M. Korzeniowski , A. Malachowska, A. Małachowska, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app142411718",
+      "doi_url": "https://www.doi.org/10.3390/app142411718",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effects of forming techniques on residual stresses in stiffening ribs of sandwich panels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/publications/748c0bb5-c63d-489b-97ec-5a73b63c2fd6",
+      "authors": "M. Korzeniowski , R. Al-Sabur, A. Kubit, ... (+4)",
+      "publication_type": "Artykuł , Discover Applied Sciences",
+      "year": "2024",
+      "doi": "10.1007/s42452-024-05666-y",
+      "doi_url": "https://www.doi.org/10.1007/s42452-024-05666-y",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Fatigue properties of spot joints of metal-plastic composites with DP 800 steel prepared by ultrasound resistance spot welding",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/publications/d3b62205-c8ce-4919-b9d4-0d89cca0916e",
+      "authors": "A. Kubit, M. Korzeniowski , H. Derazkola, ... (+1)",
+      "publication_type": "Artykuł , Thin-Walled Structures",
+      "year": "2024",
+      "doi": "10.1016/j.tws.2024.111992",
+      "doi_url": "https://www.doi.org/10.1016/j.tws.2024.111992",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Monitorowanie metodą ultradźwiękową procesu zgrzewania oporowego punktowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/research-work/d08d9bd1-de85-451d-9978-7717c3be61aa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania metodą ultradźwiękową zgrzewanych doczołowo cienkościennych rur stalowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.korzeniowski.8I6GVgEzLE7/research-work/4b87d684-fe15-4de6-9181-61aaba570384",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214837"
+    }
+  ],
+  "tag_cloud": [
+    "braze joints",
+    "spajanie materiałów kompozytowych",
+    "badania ultradźwiękowe",
+    "kleje strukturalne",
+    "przygotowanie zawiesiny",
+    "przemysł motoryzacyjny",
+    "analiza numeryczna zjawiska",
+    "wspomaganie ultradźwiękowe procesów spajania",
+    "transport zawiesiny",
+    "zgrzewanie rezysteryjne"
+  ],
+  "coworkers": []
+}

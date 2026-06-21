@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02",
+  "slug": "wojciech.giernacki",
+  "profile_id": "1MWMXYBBU02",
+  "full_name": "dr hab. inż. Wojciech Giernacki",
+  "orcid": "0000-0003-1747-4010",
+  "orcid_url": "https://orcid.org/0000-0003-1747-4010",
+  "breadcrumb_name": "Wojciech Giernacki",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/gremiums/e711bcb9-8565-4898-a5b7-3ed056b843c9",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A deep reinforcement learning approach and its application in multi‑USV adversarial game simulation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/publications/a840c44d-1065-45d3-8b0a-034ac3f778c9",
+      "authors": "J. Rao, C. Wang [...] W. Giernacki , ... (+3)",
+      "publication_type": "Artykuł , Applied Intelligence",
+      "year": "2025",
+      "doi": "10.1007/s10489-025-06380-x",
+      "doi_url": "https://www.doi.org/10.1007/s10489-025-06380-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Energy consumption and efficiency degradation predictive analysis in unmanned aerial vehicle batteries using deep neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/publications/e54e0184-4e20-45c9-b4e9-85504afa906f",
+      "authors": "A. Łukaszewicz, L. Al-Haddad [...] W. Giernacki , ... (+4)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/201346",
+      "doi_url": "https://www.doi.org/10.12913/22998624/201346",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "F-ResPoint: a multi-modal fusion object detection algorithm based on frustum culling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/publications/1552ac72-6c57-4d86-a554-5d856d08337b",
+      "authors": "J. Rao, K. Yang [...] W. Giernacki , ... (+5)",
+      "publication_type": "Artykuł , Displays",
+      "year": "2025",
+      "doi": "10.1016/j.displa.2025.103135",
+      "doi_url": "https://www.doi.org/10.1016/j.displa.2025.103135",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane aspekty poprawy jakości sterowania i bezpieczeństwa lotów bezzałogowych statków powietrznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/research-work/345c3bcd-9f64-4109-a358-648a319bec89",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Odporne sterowanie adaptacyjne z ograniczeniem sygnału sterującego oparte na algorytmie CDM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/research-work/fec3f37b-e7e3-4d67-9f8e-1f736b685220",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "System autonomicznego sterowania wielowirnikowym bezzałogowym pojazdem latajacym z zaawansowanymi funkcjami detekcji i unikania kolizji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/research-work/72180cbf-ea76-4421-862b-f9b6aa995d54",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metod uczenia maszynowego i pomiarów hiperspektralnych w diagnostyce uprawy Solanum lycopersicum.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.giernacki.1MWMXYBBU02/research-work/12fce7f5-da75-4811-ad33-015697639ecc",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260231"
+    }
+  ],
+  "tag_cloud": [
+    "uavs",
+    "battery swapping",
+    "artificial intelligence",
+    "quadrotor",
+    "uav",
+    "unmanned aerial vehicle",
+    "fault detection",
+    "optimization",
+    "fdi",
+    "detection system"
+  ],
+  "coworkers": []
+}

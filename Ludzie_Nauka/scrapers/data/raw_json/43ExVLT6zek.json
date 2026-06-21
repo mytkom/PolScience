@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek",
+  "slug": "jacek.szopiński",
+  "profile_id": "43ExVLT6zek",
+  "full_name": "dr Jacek Szopiński",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jacek Szopiński",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "chirurgia ogólna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat",
+      "duration": null,
+      "institution": "Uniwersytet Mikołaja Kopernika w Toruniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki medyczne w zakresie medycyny",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna im. Ludwika Rydygiera w Bydgoszczy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "b.d",
+        "Nadanie tytułu",
+        "b.d.",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Foods for special medical purposes in home enteral nutrition-clinical practice experience. Multicenter study.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/publications/e0f51c74-b535-48a4-af7c-8c68112565e7",
+      "authors": "M. Folwarski, S. Kłęk [...] J. Szopiński , ... (+20)",
+      "publication_type": "Artykuł , Frontiers in Nutrition",
+      "year": "2022",
+      "doi": "10.3389/fnut.2022.906186",
+      "doi_url": "https://www.doi.org/10.3389/fnut.2022.906186",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Organizational issues of home parenteral nutrition during COVID-19 pandemic : results from multicenter, nationwide study [Dokument elektroniczny]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/publications/44bb645d-7e77-432c-ab8d-99eac5b02a68",
+      "authors": "S. Kłęk, S. Kłęk [...] J. Szopiński , ... (+27)",
+      "publication_type": "Artykuł , NUTRITION",
+      "year": "2021",
+      "doi": "10.1016/j.nut.2021.111202",
+      "doi_url": "https://www.doi.org/10.1016/j.nut.2021.111202",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Home enteral nutrition in adults : nationwide multicenter survey [Dokument elektroniczny]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/publications/efbb2a16-b93a-499e-86cc-a97003c5a1be",
+      "authors": "S. Kłęk, A. Zoubek-Wojcik [...] J. Szopiński , ... (+27)",
+      "publication_type": "Artykuł , Nutrients",
+      "year": "2020",
+      "doi": "10.3390/nu12072087",
+      "doi_url": "https://www.doi.org/10.3390/nu12072087",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Porównanie metody Desardy i Lichtensteina naprawy pierwotnych przepuklin pachwiny-badanie randomizowane, wieloośrodkowe, typu podwójnie ślepa próba z wykorzystaniem zaawansowanego oprogramowania internetowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/research-work/1a11cd76-d3d0-41cc-b932-134b12c0f3e0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wyniki leczenia otyłości regulowaną opaską żołądkową w materiale szpitala MSWiA w Bydgoszczy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.szopi%C5%84ski.43ExVLT6zek/research-work/3e841cd1-0b78-4fb0-a58a-2f8b986a3e5f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=249587"
+    }
+  ],
+  "tag_cloud": [
+    "leczenie żywieniowe",
+    "artificial nutrition",
+    "gastrostomia",
+    "przetoka",
+    "żywienie dojelitowe",
+    "żywienie",
+    "fsmp",
+    "nerwy obwodowe - chirurgia",
+    "pandemic",
+    "pandemie"
+  ],
+  "coworkers": []
+}

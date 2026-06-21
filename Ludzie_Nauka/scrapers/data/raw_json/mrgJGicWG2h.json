@@ -1,0 +1,216 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h",
+  "slug": "krzysztof.gręda",
+  "profile_id": "mrgJGicWG2h",
+  "full_name": "dr hab. inż. Krzysztof Edward Gręda",
+  "orcid": "0000-0001-8903-6023",
+  "orcid_url": "https://orcid.org/0000-0001-8903-6023",
+  "breadcrumb_name": "Krzysztof Gręda",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia analityczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a55f3530-94a0-4052-a758-25d7dbf1256f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Elevated-pressure solution cathode glow discharge (SCGD) for more sensitive multi-element analysis by optical emission spectrometry (OES)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/publications/166f60eb-44d4-4de1-ae1c-10a1e7620d70",
+      "authors": "K. Kowalczyk, K. Gręda , P. Pohl",
+      "publication_type": "Artykuł , Talanta",
+      "year": "2025",
+      "doi": "10.1016/j.talanta.2025.128902",
+      "doi_url": "https://www.doi.org/10.1016/j.talanta.2025.128902",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Make a beeline for honey authentication: Na, K, Rb, Mg, Ca-based verification method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/publications/4672d80a-5e51-49dd-a844-75498a40b6f1",
+      "authors": "K. Gręda , A. Leśniewicz, A. Szymczycha-Madeja, ... (+4)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2025.143862",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2025.143862",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Rapid ethanol determination in alcoholic beverages via dilute-and-shoot molecular emission spectrometry with a solution anode glow discharge excitation source",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/publications/f2199fdf-a31c-452b-93e7-e7ec5348d5a4",
+      "authors": "K. Gręda , K. Kowalczyk, M. Zabłocka-Malicka, ... (+1)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2025.145016",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2025.145016",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/research-work/2358e7b6-bb96-418d-8dc2-8f1a8234e337",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Charakterystyka analityczna i spektroskopowa wyładowań jarzeniowych generowanych pod ciśnieniem atmosferycznym jako nowych źródeł wzbudzenia w optycznej spektrometrii emisyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/research-work/28d3b543-d7ba-4bb9-a022-25640a04cdba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Charakterystyka i zastosowanie w analizie pierwiastkowej mikrowyładowań generowanych w kontakcie z cieczą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.gr%C4%99da.mrgJGicWG2h/research-work/667a3891-bc64-4ea7-8db3-ba6d5f695bdd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=267664"
+    }
+  ],
+  "tag_cloud": [
+    "walidacja",
+    "wyładowanie jarzeniowe",
+    "apgd",
+    "analiza żywności",
+    "analiza śladowa",
+    "analiza pierwiastkowa",
+    "optyczna spektrometria emisyjna",
+    "skład pierwiastkowy",
+    "mikroplazma",
+    "wyładowania jarzeniowe"
+  ],
+  "coworkers": []
+}

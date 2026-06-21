@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL",
+  "slug": "michał.batsch",
+  "profile_id": "SMqdNtd1VEL",
+  "full_name": "dr inż. Michał Dominik Batsch",
+  "orcid": "0000-0001-5243-2604",
+  "orcid_url": "https://orcid.org/0000-0001-5243-2604",
+  "breadcrumb_name": "Michał Batsch",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza; Wydział Budowy Maszyn i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/620a9753-683b-477a-a513-94e44e3c28f1"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im.I.Łukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Exploration of Unsupervised Deep Learning-Based Gear Fault Detection for Wind Turbine Gearboxes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/publications/aa5f8e42-841d-4742-9003-f04050247fab",
+      "authors": "B. Kiczek, M. Batsch",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18143630",
+      "doi_url": "https://www.doi.org/10.3390/en18143630",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Spur gear teeth profile optimization through tensor-based kinematics: integrating the Reuleaux method with differential evolution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/publications/52ec802d-5396-40fc-a12c-3c1f4d3e8035",
+      "authors": null,
+      "publication_type": "Artykuł , Meccanica",
+      "year": "2025",
+      "doi": "10.1007/s11012-025-01970-y",
+      "doi_url": "https://www.doi.org/10.1007/s11012-025-01970-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Vision-based control of small educational parallel selective compliance assembly robot arm robot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/publications/61a72d53-d20d-4c05-a4c7-a23d1217ccd6",
+      "authors": "M. Batsch , D. Wydrzyński, Ł. Kochmański, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/204413",
+      "doi_url": "https://www.doi.org/10.12913/22998624/204413",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Projektowanie zespołów maszyn z wykorzystaniem technik wspomaganych komputerowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/research-work/69c65d17-373b-4ba4-9adb-4ea5b10bce79",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza geometrii obszaru styku walcowej przekładni wklęsło-wypukłej Nowikowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.batsch.SMqdNtd1VEL/research-work/05c2502c-6ad1-4525-83f8-a462ed4cb585",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270587"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

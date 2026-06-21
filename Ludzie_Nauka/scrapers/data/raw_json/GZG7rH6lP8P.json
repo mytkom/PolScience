@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P",
+  "slug": "artur.pala",
+  "profile_id": "GZG7rH6lP8P",
+  "full_name": "dr inż. Artur Pala",
+  "orcid": "0000-0001-5135-8107",
+  "orcid_url": "https://orcid.org/0000-0001-5135-8107",
+  "breadcrumb_name": "Artur Pala",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektrotechnika",
+    "informatyka i programowanie komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA OPOLSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Graphics Engine Dedicated to Creating Interactive Visualizations of Planetary Systems, Based on A Parser and A Dedicated Scripting Language",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/publications/a56f482a-9aef-42bf-86b2-692cf10c1d70",
+      "authors": "A. Pala , D. Hoppe",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "High-Resolution And Multidimensional Bifurcation Diagrams in The Form of Point Clouds as A Difficult Computational Problem for Modern Parallel and Massively Parallel Computing Technologies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/publications/18974774-11b7-47fb-af9f-f869248285ec",
+      "authors": "A. Pala , M. Machaczek",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Computing of 3D Bifurcation Diagrams With Nvidia CUDA Technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/publications/94c1c189-7343-4e77-a557-16e5e178ca62",
+      "authors": "A. Pala , M. Machaczek",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2020",
+      "doi": "10.1109/access.2020.3019633",
+      "doi_url": "https://www.doi.org/10.1109/access.2020.3019633",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Równoległe realizacje wybranych algorytmów optymalizacji dynamicznej w technologii masowo równoległej oraz badania ich efektywności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.pala.GZG7rH6lP8P/research-work/3d8dde5e-84ee-496e-a4b7-910a53ad9c9f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=313052"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

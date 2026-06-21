@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM",
+  "slug": "anna.jusza",
+  "profile_id": "Lj8uXNn78IM",
+  "full_name": "dr inż. Anna Maria Jusza",
+  "orcid": "0000-0001-5871-8056",
+  "orcid_url": "https://orcid.org/0000-0001-5871-8056",
+  "breadcrumb_name": "Anna Jusza",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i techniki informacyjne",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Top-Down Approach and Thermal Characterization of Luminescent Hybrid BPA.DA-MMA@Ln2L3 Materials Based on Lanthanide(III) 1H-Pyrazole-3,5-Dicarboxylates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/publications/756c14fc-5d93-4355-ac10-c75dba755603",
+      "authors": "R. Piramidowicz, R. Łyszczek [...] A. Jusza , ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2022",
+      "doi": "10.3390/ma15248826",
+      "doi_url": "https://www.doi.org/10.3390/ma15248826",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "HYPHa project: a low-cost alternative for integrated photonics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/publications/0439ccbf-a23f-4389-92ac-8c5d6ba59198",
+      "authors": "E. Środa, M. Butt [...] A. Jusza , ... (+11)",
+      "publication_type": "Artykuł , Photonics Letters of Poland",
+      "year": "2022",
+      "doi": "10.4302/plp.v14i2.1145",
+      "doi_url": "https://www.doi.org/10.4302/plp.v14i2.1145",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Correction to: Effect of N,N′‑dimethylformamide solvent on structure and thermal properties of lanthanide(III) complexes with flexible biphenyl‑4,4′‑dioxydiacetic acid",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.jusza.Lj8uXNn78IM/publications/42f2d347-bf45-4ea8-a21a-de04249f09b8",
+      "authors": "H. Głuchowska, R. Łyszczek, A. Jusza , ... (+1)",
+      "publication_type": "Artykuł , Journal of Thermal Analysis and Calorimetry",
+      "year": "2021",
+      "doi": "10.1007/s10973-021-11103-8",
+      "doi_url": "https://www.doi.org/10.1007/s10973-021-11103-8",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314060"
+    }
+  ],
+  "tag_cloud": [
+    "photonic sensor",
+    "metoda zol-żel",
+    "photonic integrated circuit",
+    "optically active material",
+    "siox:tioy",
+    "luminescence",
+    "integrated photonics technology",
+    "pmma",
+    "scalony układ fotoniczny",
+    "visible light"
+  ],
+  "coworkers": []
+}

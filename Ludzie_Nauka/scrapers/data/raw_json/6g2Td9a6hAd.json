@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd",
+  "slug": "marek.stembalski",
+  "profile_id": "6g2Td9a6hAd",
+  "full_name": "dr inż. Marek Konrad Stembalski",
+  "orcid": "0000-0002-0801-690X",
+  "orcid_url": "https://orcid.org/0000-0002-0801-690X",
+  "breadcrumb_name": "Marek Stembalski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Technologii Maszyn i Automatyzacji",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Failure analysis of 3D printed FZG spur gears made of AISI316L austenitic steel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/publications/63f8e738-bda7-453e-b6d3-d9f351f34f79",
+      "authors": "M. Stembalski , D. Batory, G. Ziółkowski, ... (+10)",
+      "publication_type": "Artykuł , Wear",
+      "year": "2025",
+      "doi": "10.1016/j.wear.2025.206313",
+      "doi_url": "https://www.doi.org/10.1016/j.wear.2025.206313",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Gear wear mechanisms, monitoring techniques and their potential use in gear predictive maintenance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/publications/126ff094-845c-401e-9640-737be29ec1df",
+      "authors": "M. Stembalski , T. Jankowski, A. Roszkowski, ... (+1)",
+      "publication_type": "Artykuł , Journal of Machine Engineering",
+      "year": "2025",
+      "doi": "10.36897/jme/206045",
+      "doi_url": "https://www.doi.org/10.36897/jme/206045",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Influence of shock absorber construction on production parameters of its prototype solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/publications/70f20396-2519-4efa-a4ea-be3468802c25",
+      "authors": "M. Stembalski , T. Szydlowski, S. Ręczkowski",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312567",
+      "doi_url": "https://www.doi.org/10.3390/app152312567",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i badanie ciernego tłumika drgań w zastosowaniu do robota szklarskiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/research-work/d57db0d0-5a49-42b3-9281-4ad382af530d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania modelowe własności dynamicznych układu wrzecionowego z zastosowaniem aktywnej regulacji sztywności łożysk",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.stembalski.6g2Td9a6hAd/research-work/66e50dda-c2ee-4886-99f9-592b904044d1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248245"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

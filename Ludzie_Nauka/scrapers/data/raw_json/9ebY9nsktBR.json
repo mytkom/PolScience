@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR",
+  "slug": "adam.styk",
+  "profile_id": "9ebY9nsktBR",
+  "full_name": "dr inż. Adam Roman Styk",
+  "orcid": "0000-0001-6181-9560",
+  "orcid_url": "https://orcid.org/0000-0001-6181-9560",
+  "breadcrumb_name": "Adam Styk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fotonika",
+    "inżynieria fotoniczna",
+    "optyczne metody badań i kontroli"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid Measuring System for Dimensional Metrology Tasks on Large-Volume Workpieces and Assessment of Its Uncertainty",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/publications/f1bf78c1-8830-4d16-8c8e-4be30dc539e6",
+      "authors": "A. Gąska, W. Harmatys [...] A. Styk , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16031449",
+      "doi_url": "https://www.doi.org/10.3390/app16031449",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Digital Image Correlation to Assess Residual Strains in WAAM-CMT Manufactured Specimens",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/publications/0ade920c-e861-4815-ab35-b368e5d48dd4",
+      "authors": "P. Połaski, A. Styk , D. Golański, ... (+2)",
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.536",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.536",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Making use of Digital Image Correlation to identify the true character of the applied load",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/publications/96247ea6-e24c-4f62-9941-84771017692c",
+      "authors": "A. Styk , S. Świder, S. Semenov",
+      "publication_type": "Artykuł , Photonics Letters of Poland",
+      "year": "2023",
+      "doi": "10.4302/plp.v15i3.1217",
+      "doi_url": "https://www.doi.org/10.4302/plp.v15i3.1217",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wyznaczenie modulacji intensywności interferogramu z wykorzystaniem metody analizy obrazu prążkowego z przesunięciem fazy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.styk.9ebY9nsktBR/research-work/d914941b-4777-4234-b249-32f9a6954319",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=216298"
+    }
+  ],
+  "tag_cloud": [
+    "3d digital image correlation",
+    "interferometry",
+    "laser measurements",
+    "time averaging",
+    "laser tracker",
+    "modulation evaluation",
+    "interferometric measurement",
+    "error analysis",
+    "full displacement vector measurements",
+    "drone"
+  ],
+  "coworkers": []
+}

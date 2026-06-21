@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9",
+  "slug": "paweł.kozyra",
+  "profile_id": "5KuqK5dgON9",
+  "full_name": "dr Paweł Marcin Kozyra",
+  "orcid": "0000-0002-1224-6361",
+  "orcid_url": "https://orcid.org/0000-0002-1224-6361",
+  "breadcrumb_name": "Paweł Kozyra",
+  "current_employment_summary": [
+    "Politechnika Gdańska",
+    "Politechnika Śląska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Śląska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie Aktualna nazwa: Uniwersytet Komisji Edukacji Narodowej w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/0b80a072-b734-4cd9-bf5b-6c8708b7c2f2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "2 lata 8 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Śląski w Katowicach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Matematyczny Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A simulation approach with heuristic rules for reliability estimation of two-terminal multi-state networks based on minimal cuts and parallel computations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/publications/d9680e78-3c99-40dc-918c-c33927ace98a",
+      "authors": null,
+      "publication_type": "Artykuł , Simulation Modelling Practice and Theory",
+      "year": "2025",
+      "doi": "10.1016/j.simpat.2025.103095",
+      "doi_url": "https://www.doi.org/10.1016/j.simpat.2025.103095",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A new method for multi-state flow networks reliability estimation based on a Monte Carlo simulation and intersections of sets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/publications/fc235d34-bec7-4a07-bab6-ac226e0f338d",
+      "authors": null,
+      "publication_type": "Artykuł , Simulation Modelling Practice and Theory",
+      "year": "2024",
+      "doi": "10.1016/j.simpat.2023.102846",
+      "doi_url": "https://www.doi.org/10.1016/j.simpat.2023.102846",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A parallel algorithm for reliability assessment of multi-state flow networks based on simultaneous finding of all multi-state minimal paths and performing state space decomposition",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/publications/8c9c773f-4e5e-449e-a91f-b9dda0e3402d",
+      "authors": null,
+      "publication_type": "Artykuł , Reliability Engineering and System Safety",
+      "year": "2024",
+      "doi": "10.1016/j.ress.2024.110376",
+      "doi_url": "https://www.doi.org/10.1016/j.ress.2024.110376",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kozyra.5KuqK5dgON9/research-work/f858105e-4f23-45e1-83b5-a9e8b87f43c5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287977"
+    }
+  ],
+  "tag_cloud": [
+    "bernstein polynomials",
+    "linear combination",
+    "b)",
+    "gini mean difference",
+    "sharp bound",
+    "expectation",
+    "variance",
+    "kth record value",
+    "actual (d",
+    "kth record spacing"
+  ],
+  "coworkers": []
+}

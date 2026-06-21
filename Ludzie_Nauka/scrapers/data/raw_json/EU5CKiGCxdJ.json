@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ",
+  "slug": "łukasz.skonieczny",
+  "profile_id": "EU5CKiGCxdJ",
+  "full_name": "dr inż. Łukasz Skonieczny",
+  "orcid": "0000-0002-3517-3652",
+  "orcid_url": "https://orcid.org/0000-0002-3517-3652",
+  "breadcrumb_name": "Łukasz Skonieczny",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Beyond Core Research Management: XML-Based Modeling for Knowledge Management in OMEGA-PSIR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/publications/0c74dcaa-3647-434e-9969-45141f025007",
+      "authors": "Ł. Skonieczny , J. Koperwas, H. Rybinski",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14173473",
+      "doi_url": "https://www.doi.org/10.3390/electronics14173473",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Comparative Study of Short Text Classification with Spiking Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/publications/2f95e557-4b17-4aa5-827d-af795dfb85e9",
+      "authors": "P. Maciąg, P. Maciąg [...] Ł. Skonieczny , ... (+2)",
+      "publication_type": "Artykuł , Annals of Computer Science and Information Systems",
+      "year": "2022",
+      "doi": "10.15439/2022f184",
+      "doi_url": "https://www.doi.org/10.15439/2022f184",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Recommendation Based on Large-Scale Many-Objective Optimization for the Intelligent Internet of Things System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/publications/31274c63-2bda-4d8b-afa8-27878266c200",
+      "authors": "B. Cao, Y. Zhang [...] Ł. Skonieczny , ... (+5)",
+      "publication_type": "Artykuł , IEEE Internet of Things Journal",
+      "year": "2022",
+      "doi": "10.1109/jiot.2021.3104661",
+      "doi_url": "https://www.doi.org/10.1109/jiot.2021.3104661",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odkrywanie częstych grafów z uwzględnianiem niespójności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.skonieczny.EU5CKiGCxdJ/research-work/437ba905-2145-4fb3-86c5-ddd57fe113a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=233387"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,163 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C",
+  "slug": "anna.leśniewska",
+  "profile_id": "rQezimhtQ9C",
+  "full_name": "dr inż. Anna Leśniewska",
+  "orcid": "0000-0003-3463-9622",
+  "orcid_url": "https://orcid.org/0000-0003-3463-9622",
+  "breadcrumb_name": "Anna Leśniewska",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bioinformatyka",
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "SeQuiLa: an elastic, fast and scalable SQL-oriented solution for processing and querying genomic intervals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/publications/a5beaa9d-7081-47f6-ae09-cc9513680fc4",
+      "authors": "M. Wiewiórka, K. Stępień [...] A. Lesniewska , ... (+7)",
+      "publication_type": "Artykuł , BIOINFORMATICS",
+      "year": "2019",
+      "doi": "10.1093/bioinformatics/bty940",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/bty940",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Genes sharing the protein family domain decrease the performance of classification with RNA-seq genomic signatures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/publications/b5ccd3b4-3e86-4af7-8af1-ccc266983ad6",
+      "authors": "A. Lesniewska , M. Okoniewski, A. Szabelska-Beręsewicz, ... (+2)",
+      "publication_type": "Artykuł , Biology Direct",
+      "year": "2018",
+      "doi": "10.1186/s13062-018-0205-x",
+      "doi_url": "https://www.doi.org/10.1186/s13062-018-0205-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Genes sharing the protein family domain decrease the performance of classification with RNA-seq genomic signatures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/publications/5755cd86-4fd4-41c1-bbc7-1a8277977e7c",
+      "authors": "A. Leśniewska , J. Zyprych-Walczak, A. Szabelska-Beręsewicz, ... (+1)",
+      "publication_type": "Artykuł , Biology Direct",
+      "year": "2018",
+      "doi": "10.1186/s13062-018-0205-x;10.3929/ethz-b-000246203",
+      "doi_url": "https://www.doi.org/10.1186/s13062-018-0205-x;10.3929/ethz-b-000246203",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odkrywanie wiedzy z danych pochodzących z sekwencjonowania RNA w celu znajdowania nowych zjawisk transkryptomowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.le%C5%9Bniewska.rQezimhtQ9C/research-work/a1566c81-c2f4-49c0-999c-ccb06aca110c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=237722"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

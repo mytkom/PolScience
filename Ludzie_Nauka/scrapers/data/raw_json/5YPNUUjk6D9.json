@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9",
+  "slug": "tomasz.stefański",
+  "profile_id": "5YPNUUjk6D9",
+  "full_name": "dr hab. Tomasz Paweł Stefański",
+  "orcid": "0000-0002-3952-5731",
+  "orcid_url": "https://orcid.org/0000-0002-3952-5731",
+  "breadcrumb_name": "Tomasz Stefański",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "zintegrowane układy b.w.cz.",
+    "technika mikrofalowa",
+    "elektrodynamika obliczeniowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Ośrodek Badawczo-Rozwojowy Centrum Techniki Morskiej S.A.",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/49ff3708-37a2-4f27-badc-c58c69147791",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Discovery of the exact 3D one-way wave equation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/publications/6f7ba315-55f3-4008-9a7e-efa76c400376",
+      "authors": "T. Stefański , K. Tsakmakidis",
+      "publication_type": "Artykuł , Nature Communications",
+      "year": "2025",
+      "doi": "10.1038/s41467-025-61220-3",
+      "doi_url": "https://www.doi.org/10.1038/s41467-025-61220-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Lifting Deep Image Denoisers to Video with Frame Interpolation Pre-training",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/publications/c959e6a5-a952-479b-a7d4-1eb51cbd2852",
+      "authors": "P. Ostrowski, D. Węsierski, T. Stefański , ... (+2)",
+      "publication_type": "Artykuł , IEEE Transactions on Circuits and Systems for Video Technology",
+      "year": "2025",
+      "doi": "10.1109/tcsvt.2025.3575717",
+      "doi_url": "https://www.doi.org/10.1109/tcsvt.2025.3575717",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Test of System Stability on Quantum Computer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/publications/0e677d88-3b9d-4f8e-9fbd-b04d086761cf",
+      "authors": "M. Kolada, T. Stefański",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/mmar65820.2025.11150962",
+      "doi_url": "https://www.doi.org/10.1109/mmar65820.2025.11150962",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Techniki sprzętowe i algorytmiczne do wspomagania numerycznej analizy zagadnień elektromagnetyzmu metodą różnic skończonych w dziedzinie czasu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/research-work/0c4b384e-9356-4e18-88b8-a439395a0768",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zajwisko przesłuchu w wieloprzewodowych prowadnicach koplanarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.stefa%C5%84ski.5YPNUUjk6D9/research-work/cf45e9b4-5561-4933-85ad-f457bde4cfd1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=204581"
+    }
+  ],
+  "tag_cloud": [
+    "near-field scanning optical microscope",
+    "autoencoders",
+    "photonic materials",
+    "fractional order circuits",
+    "fractional calculus",
+    "maxwell’s equations",
+    "photonics",
+    "riemann-liouville derivative",
+    "fdtd",
+    "elektromagnetyka"
+  ],
+  "coworkers": []
+}

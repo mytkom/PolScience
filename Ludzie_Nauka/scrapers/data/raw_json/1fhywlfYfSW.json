@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW",
+  "slug": "andrzej.werner",
+  "profile_id": "1fhywlfYfSW",
+  "full_name": "dr inż. Andrzej Werner",
+  "orcid": "0000-0002-3768-5395",
+  "orcid_url": "https://orcid.org/0000-0002-3768-5395",
+  "breadcrumb_name": "Andrzej Werner",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "biomechanika",
+    "metrologia",
+    "technologia budowy maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "POLITECHNIKA B-CKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Digitalisation of Painting Path Topography for Numerical Modelling of Low-Relief Surfaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/publications/9bcd8c21-44a7-4a70-a033-617be2ff1b24",
+      "authors": "A. Werner , B. Hościło, P. Mrozek, ... (+1)",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2025",
+      "doi": "10.2478/ama-2025-0050",
+      "doi_url": "https://www.doi.org/10.2478/ama-2025-0050",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Planning the Coordinate Measurements of a Freeform Surface after Milling based on a CAD Model Simulating the Surface after Machining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/publications/defdc633-5d29-4f6b-9b88-1aa91c3f2d27",
+      "authors": "A. Werner , M. Poniatowska",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Method for Enhanced Accuracy in Machining Free-Form Surfaces on CNC Milling Machines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/publications/9f69cd19-fb8f-41cb-a968-fba49ad78cb9",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2022",
+      "doi": "10.2478/ama-2022-0013",
+      "doi_url": "https://www.doi.org/10.2478/ama-2022-0013",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu metod opisu powierzchni przy projektowaniu dopasowanej endoprotezy stawu biodrowego w systemie CAD/CAM na dokładność jej wytworzenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.werner.1fhywlfYfSW/research-work/e16d3734-579b-4972-99ff-2a1a0d7a0508",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85006"
+    }
+  ],
+  "tag_cloud": [
+    "curvilinear profile",
+    "cad model",
+    "free-form surface",
+    "frezowanie",
+    "pomiary współrzędnościowe",
+    "coordinate measurements",
+    "otwór",
+    "powierzchnia swobodna",
+    "frezarka cnc",
+    "hole"
+  ],
+  "coworkers": []
+}

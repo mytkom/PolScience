@@ -1,0 +1,310 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22",
+  "slug": "rafał.scherer",
+  "profile_id": "Sl2Ep9DhG22",
+  "full_name": "prof. dr hab. inż. Rafał Scherer",
+  "orcid": "0000-0001-9592-262X",
+  "orcid_url": "https://orcid.org/0000-0001-9592-262X",
+  "breadcrumb_name": "Rafał Scherer",
+  "current_employment_summary": [
+    "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "logika rozmyta",
+    "rozmyto-neuronowe systemy wnioskujące",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/669fee72-713b-4509-99a3-81f522cb7159",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i inżynieria komputerowa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A comprehensive review of data-driven techniques for air pollution concentration forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/publications/9eb0ca87-1b7f-432c-a86f-5d99b2f08076",
+      "authors": "J. Bernacki, R. Scherer",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25196044",
+      "doi_url": "https://www.doi.org/10.3390/s25196044",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Algorithms and Methods for Individual Source Camera Identification: a Survey",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/publications/20a2b5a5-9dde-4563-b719-901e9aaecdce",
+      "authors": "J. Bernacki, R. Scherer",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25103027",
+      "doi_url": "https://www.doi.org/10.3390/s25103027",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of hybrid systems SARIMA ANFIS for monitoring workforce dynamics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/publications/c64d3db1-a1a0-4cee-b570-595dddf41409",
+      "authors": "J. Nowak, M. Osowski, R. Scherer , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.91",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.91",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modularne systemy rozmytej klasyfikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/ec917374-7302-4e18-b1e1-5272fd9151fe",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Methods of Classification Using Neuro-Fuzzy Systems (Metody klasyfikacji z wykorzystaniem sieci rozmyto-neuronowych)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/57e0060f-e538-4642-9285-01c07b8b307d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Nowe metody przechowywania i wyszukiwania zawartości obrazów w bazie danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/463e03cf-7420-4fdb-8b6f-3c87ab18246a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy komputerowej analizy i przeszukiwania obrazów parazytologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/dcbfb9fd-6749-4873-9b9f-3fe68c526429",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Multimodal Fake News and Disinformation Detection Employing Machine Learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/ef6b2721-83a3-48c9-93da-b16968b1a494",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "IMPROVING CLUSTERING IN WSN PROTOCOLS USING SELECTED MACHINE LEARNING METHODS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/b8e5faca-e29c-46e2-9630-b53bce3f9df7",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie zaawansowanych metod sztucznej inteligencji do klasyfikacji stanu zużycia narzędzia na podstawie danych obrazowych i sygnałowych pozyskanych podczas obróbki płyty wiórowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.scherer.Sl2Ep9DhG22/research-work/d04b6c0e-1875-431e-a229-956f0af8ce31",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111401"
+    }
+  ],
+  "tag_cloud": [
+    "digital forensics",
+    "machine learning",
+    "fast image hash",
+    "solar image description",
+    "security",
+    "solar activity analysis",
+    "convolutional neural networks",
+    "convolutional neural network",
+    "deep learning",
+    "imaging sensor identification"
+  ],
+  "coworkers": []
+}

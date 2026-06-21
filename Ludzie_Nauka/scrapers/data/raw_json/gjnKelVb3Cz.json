@@ -1,0 +1,188 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz",
+  "slug": "jan.monieta",
+  "profile_id": "gjnKelVb3Cz",
+  "full_name": "dr inż. Jan Monieta",
+  "orcid": "0000-0003-2992-5800",
+  "orcid_url": "https://orcid.org/0000-0003-2992-5800",
+  "breadcrumb_name": "Jan Monieta",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "pojazdy szynowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Akademia Techniczno-Rolnicza w Bydgoszczy",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/gremiums/7405a077-0789-4681-9398-725d762ebf9c",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of Machine Learning to Classify the Technical Condition of Marine Engine Injectors Based on Experimental Vibration Displacement Parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/publications/f250e732-3281-4f6c-b5bb-59a6d263d7f3",
+      "authors": "J. Monieta , L. Kasyk",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16196898",
+      "doi_url": "https://www.doi.org/10.3390/en16196898",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Diagnosing Cracks in the Injector Nozzles of Marine Internal Combustion Engines during Operation Using Vibration Symptoms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/publications/1d2dd691-ac76-43ce-9c47-76efa9a683ba",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app13179599",
+      "doi_url": "https://www.doi.org/10.3390/app13179599",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of Image Color Analysis for the Assessment of Injector Nozzle Deposits in Internal Combustion Engines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/publications/4a2d02d2-1e9e-423c-8542-bff01ca2d669",
+      "authors": null,
+      "publication_type": "Artykuł , SAE International Journal of Fuels and Lubricants",
+      "year": "2022",
+      "doi": "10.4271/04-15-02-0010",
+      "doi_url": "https://www.doi.org/10.4271/04-15-02-0010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Diagnostyka kontrolna wtryskiwaczy spalinowych silników okrętowych z wykorzystaniem parametrów procesów roboczych i towarzyszących",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.monieta.gjnKelVb3Cz/research-work/7997f2ef-0998-4bba-a7cb-e2e5bf0bd054",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86153"
+    }
+  ],
+  "tag_cloud": [
+    "engines",
+    "injection apparatus",
+    "diagnostyka",
+    "marine engines",
+    "marine diesel engines",
+    "silniki okrętowe",
+    "diagnostics",
+    "friction force",
+    "adverse events",
+    "functional systems"
+  ],
+  "coworkers": []
+}

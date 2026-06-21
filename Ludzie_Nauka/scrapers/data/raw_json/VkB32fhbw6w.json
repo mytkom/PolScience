@@ -1,0 +1,95 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w",
+  "slug": "elwira.małyszko",
+  "profile_id": "VkB32fhbw6w",
+  "full_name": "mgr Elwira Barbara Małyszko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Elwira Małyszko",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina sztuki"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w/achievement",
+      "aria_disabled": null
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/elwira.ma%C5%82yszko.VkB32fhbw6w/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "historia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet w Białymstoku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

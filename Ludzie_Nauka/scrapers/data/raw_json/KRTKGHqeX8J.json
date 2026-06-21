@@ -1,0 +1,270 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J",
+  "slug": "paweł.zieliński",
+  "profile_id": "KRTKGHqeX8J",
+  "full_name": "prof. dr hab. Paweł Piotr Zieliński",
+  "orcid": "0000-0002-1466-2887",
+  "orcid_url": "https://orcid.org/0000-0002-1466-2887",
+  "breadcrumb_name": "Paweł Zieliński",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania operacyjne",
+    "programowanie matematyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki matematyczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1993",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Approximating the shortest path problem with scenarios",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/publications/10dabda2-ddff-4374-91d7-4c2982c7122d",
+      "authors": "A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Theoretical Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.tcs.2024.114972;10.48550/arxiv.1806.08936",
+      "doi_url": "https://www.doi.org/10.1016/j.tcs.2024.114972;10.48550/arxiv.1806.08936",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Approximating the shortest path problem with scenarios",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/publications/7e62130a-0caf-41d6-acef-66737b436895",
+      "authors": "A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Theoretical Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.tcs.2024.114972",
+      "doi_url": "https://www.doi.org/10.1016/j.tcs.2024.114972",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Computational complexity of the recoverable robust shortest path problem with discrete recourse",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/publications/e5145706-fe0f-492c-b106-f99bd119b7de",
+      "authors": "M. Jackiewicz, A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Discrete Applied Mathematics",
+      "year": "2025",
+      "doi": "10.1016/j.dam.2025.03.004",
+      "doi_url": "https://www.doi.org/10.1016/j.dam.2025.03.004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zagadnienia dyskretnej optymalizacji z nieprecyzyjnie określonymi parametrami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/cec8f5ca-cbb6-4ebb-9fa3-28dc8e31867d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wyznaczanie rozwiązań niezdominowanych w zadaniu programowania liniowego z nieprecyzyjnie określonymi współczynnikami w funkcji celu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/849c7442-e0b9-4eb5-bdd1-97c4dd0ac68a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Recoverable Robust Discrete Optimization Problems under Interval Uncertainty Representation",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/ade5a2af-98a3-4d96-8d10-13148c9b3e5a",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Problemy planowania i szeregowania z niepewnymi parametrami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/0d273c83-402b-4fa8-9847-ba936699ec8d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy dla hiperskojarzeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/50ec6021-1d0e-4120-97f0-ae9b4804b56a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zarządzanie zasobami w systemach rozproszonych organizacyjnie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/73db2ef2-9bab-4df6-9550-1889028a4111",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Uzgadnianie drzew: teoria i zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zieli%C5%84ski.KRTKGHqeX8J/research-work/e1346946-dc77-487d-ba66-7f53dcc4a3b0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85816"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

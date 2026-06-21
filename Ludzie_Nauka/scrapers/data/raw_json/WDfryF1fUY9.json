@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9",
+  "slug": "grzegorz.protaziuk",
+  "profile_id": "WDfryF1fUY9",
+  "full_name": "dr inż. Grzegorz Michał Protaziuk",
+  "orcid": "0000-0002-0640-0879",
+  "orcid_url": "https://orcid.org/0000-0002-0640-0879",
+  "breadcrumb_name": "Grzegorz Protaziuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka, automatyka i robotyka, elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modelling OpenStreetMap Data for Determination of the Fastest Route Under Varying Driving Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/publications/82cfca72-0c72-4eed-ae25-3870aecfc560",
+      "authors": "G. Protaziuk , R. Pątkowski, R. Bembenik",
+      "publication_type": "Artykuł",
+      "year": "2019",
+      "doi": "10.1007/978-3-319-77604-0_5",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-77604-0_5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Intelligent Methods and Big Data in Industrial Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/publications/aeff3e44-58b8-42a3-92d1-aeab5ebaadee",
+      "authors": "M. Kryszkiewicz, H. Rybiński, G. Protaziuk , ... (+2)",
+      "publication_type": null,
+      "year": "2018",
+      "doi": "10.1007/978-3-319-77604-0",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-77604-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Methods for mining co-location patterns with extended spatial objects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/publications/e30cc1b6-428d-4e55-95b7-d908e34ed9b7",
+      "authors": "R. Bembenik, W. Jóźwicki [...] G. Protaziuk , ... (+1)",
+      "publication_type": "Artykuł , International Journal of Applied Mathematics & Computer Science",
+      "year": "2017",
+      "doi": "10.1515/amcs-2017-0047",
+      "doi_url": "https://www.doi.org/10.1515/amcs-2017-0047",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odkrywanie wiedzy w niekompletnych zbiorach danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.protaziuk.WDfryF1fUY9/research-work/c2da0327-234f-4f1f-8eba-8c68a9314623",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200463"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

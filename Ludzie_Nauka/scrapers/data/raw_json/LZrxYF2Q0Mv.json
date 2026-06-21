@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv",
+  "slug": "joanna.balbus",
+  "profile_id": "LZrxYF2Q0Mv",
+  "full_name": "dr Joanna Balbus",
+  "orcid": "0000-0003-2336-1370",
+  "orcid_url": "https://orcid.org/0000-0003-2336-1370",
+  "breadcrumb_name": "Joanna Balbus",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "równania różniczkowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Vaccination strategies based on a mathematical model of epidemics considering the age structure of the population",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/publications/256b52ab-ad76-422b-add7-0e935eb06d2a",
+      "authors": "J. Balbus , K. Kubica, M. Urban, ... (+1)",
+      "publication_type": "Artykuł , WSEAS Transactions on Biology and Biomedicine",
+      "year": "2024",
+      "doi": "10.37394/23208.2024.21.4",
+      "doi_url": "https://www.doi.org/10.37394/23208.2024.21.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A computer study of the risk of cholesterol gallstone associated with obesity and normal weight",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/publications/8d2698dd-c252-4c09-b2d9-91caa0ef75ea",
+      "authors": "K. Kubica, J. Balbus",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2021",
+      "doi": "10.1038/s41598-021-88249-w",
+      "doi_url": "https://www.doi.org/10.1038/s41598-021-88249-w",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A model of gallbladder motility",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/publications/5e5bbb63-b503-49fe-b68d-e743a68a3f69",
+      "authors": "P. Kuropka, K. Kubica [...] J. Balbus , ... (+5)",
+      "publication_type": "Artykuł , Computers in Biology and Medicine",
+      "year": "2018",
+      "doi": "10.1016/j.compbiomed.2017.12.018",
+      "doi_url": "https://www.doi.org/10.1016/j.compbiomed.2017.12.018",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Trwałość w nieautonomicznych układach równań różniczkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/research-work/e369e7b6-63b0-4622-be80-7b1d4fe669bc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Trwałość w układach równań różniczkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.balbus.LZrxYF2Q0Mv/research-work/ffdd8d03-eee3-460e-9db3-4151df88a306",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=240162"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH",
+  "slug": "daniel.gryglewski",
+  "profile_id": "Y6sKYns6QYH",
+  "full_name": "dr Daniel Marcin Gryglewski",
+  "orcid": "0000-0001-6824-9599",
+  "orcid_url": "https://orcid.org/0000-0001-6824-9599",
+  "breadcrumb_name": "Daniel Gryglewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika mikrofalowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Implementacja mechanizmów oszczędzania energii w nadajnikach 5G-studium przypadku",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/publications/27b6aa0a-0ec6-45c7-bc98-a5f46f8a25a1",
+      "authors": "D. Rosołowski, D. Gryglewski , W. Wojtasiak, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.25",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.25",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Reactor for Microwave-Assisted Chemistry [Application Notes]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/publications/56cbf33a-7f43-4718-9edd-a1e27bd9b247",
+      "authors": "P. Korpas, M. Borowska, D. Gryglewski , ... (+4)",
+      "publication_type": "Artykuł , IEEE Microwave Magazine",
+      "year": "2024",
+      "doi": "10.1109/mmm.2024.3408074",
+      "doi_url": "https://www.doi.org/10.1109/mmm.2024.3408074",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Nucleation and growth of zinc-templated mesoporous selenium nanoparticles and potential non-thermal effects during their microwave-assisted synthesis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/publications/7ca83256-7d1a-4cf8-8bba-0c893f86ee1f",
+      "authors": "W. Wojtasiak, M. Borowska [...] D. Gryglewski , ... (+4)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-83124-w",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-83124-w",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Minimalizacja zmian transmitancji mikrofalowych impulsowanych wzmacniaczy mocy klasy A",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.gryglewski.Y6sKYns6QYH/research-work/bb8a5f33-b2d8-4736-828f-c351e88bc830",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=103367"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

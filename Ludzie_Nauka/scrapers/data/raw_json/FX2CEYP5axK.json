@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK",
+  "slug": "aleksandra.gołdyn",
+  "profile_id": "FX2CEYP5axK",
+  "full_name": "dr Aleksandra Monika Gołdyn",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Aleksandra Gołdyn",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina sztuki"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/achievement",
+      "aria_disabled": null
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor sztuki",
+      "details_json": [
+        "dziedzina sztuk plastycznych / sztuki projektowe",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu; Wydział Architektury Wnętrz, Wzornictwa i Scenografii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9f109b8c-3b98-4355-b85f-b03cece5a876"
+        },
+        {
+          "label": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/03efdf96-e26e-4489-82d4-20dbf57e29f8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister sztuki",
+      "details_json": [
+        "wzornictwo",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Identyfikacja/Integracja",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/publications/e7e6e07d-a5c5-4241-80e2-469698bd5f56",
+      "authors": "A. Adamczak, M. Berlińska, A. Gołdyn , ... (+20)",
+      "publication_type": "Książka , Podkarpacki Uniwersytet Narodowy im. Wasyla Stefanyka",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wizerunek wartości - metodyka projektowania systemu identyfikacji wizualnej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.go%C5%82dyn.FX2CEYP5axK/publications/16baf8e4-2b43-401c-a5d8-e8953c220e7e",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=313753"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

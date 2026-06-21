@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9",
+  "slug": "paweł.poczekajło",
+  "profile_id": "PTX52TeWOM9",
+  "full_name": "dr inż. Paweł Poczekajło",
+  "orcid": "0000-0003-4742-7872",
+  "orcid_url": "https://orcid.org/0000-0003-4742-7872",
+  "breadcrumb_name": "Paweł Poczekajło",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2b8ddb36-7216-4e6b-a545-200fb9dd498d"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/gremiums/c1ac5ca0-c3a6-46d2-b0a6-af9fdc9bfb72",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Architektura macierzy stosów do przetwarzania równoległego z wykorzystaniem odwrotnej notacji polskiej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/publications/9fef5bea-0815-4eb2-a9a0-eb358a563d97",
+      "authors": "Ł. Gołka, R. Suszyński, P. Poczekajło",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.10.11",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.10.11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Efficient Approximation of the Arctangent Function for Computing Platforms With Limited Hardware Resources",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/publications/963f0a09-cc79-44fa-a076-076e240a704b",
+      "authors": "E. Deelman, P. Gepner [...] P. Poczekajło , ... (+3)",
+      "publication_type": "Artykuł , IEEE Signal Processing Magazine",
+      "year": "2025",
+      "doi": "10.1109/msp.2025.3636383",
+      "doi_url": "https://www.doi.org/10.1109/msp.2025.3636383",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Error Analysis of Digital Filters Using Fixed Point Arithmetic",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/publications/8d70bc30-6c9d-4156-abe4-36949bd9acc4",
+      "authors": "P. Poczekajło , R. Wirski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153611",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153611",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy realizacji i implementacji liniowych, stacjonarnych filtrów cyfrowych 3D w potokowych strukturach z rotatorami Givensa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.poczekaj%C5%82o.PTX52TeWOM9/research-work/10aba601-d9b2-431a-a2b8-021c5801eada",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=303708"
+    }
+  ],
+  "tag_cloud": [
+    "gra pamięciowa",
+    "hardware computing",
+    "trackers",
+    "laplace filter",
+    "fir filter",
+    "esp8266",
+    "stacja pogodowa",
+    "rotator filter",
+    "orthogonal fir filter",
+    "multioutput filters"
+  ],
+  "coworkers": []
+}

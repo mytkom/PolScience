@@ -1,0 +1,237 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1",
+  "slug": "bogdan.szybiński",
+  "profile_id": "4vJUJE9RgT1",
+  "full_name": "dr hab. inż. Bogdan Artur Szybiński",
+  "orcid": "0000-0002-3628-2236",
+  "orcid_url": "https://orcid.org/0000-0002-3628-2236",
+  "breadcrumb_name": "Bogdan Szybiński",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika techniczna",
+    "metoda elementów skończonych",
+    "podstawy konstrukcji maszyn",
+    "komputerowe wspomaganie projektowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "podstawowe problemy techniki",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Bogdan Szybiński"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of FEM analyses and neural networks approach in multi-stage optimisation of notched steel structures subjected to fatigue loadings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/publications/10ff28a7-6eef-4af6-b8b3-bd196b5d870a",
+      "authors": "P. Romanowicz, B. Szybiński , M. Barski, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152011194",
+      "doi_url": "https://www.doi.org/10.3390/app152011194",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fracture mechanism of adhesive layers in fatigue-loaded steel structures reinforced by the CFRP overlays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/publications/12f9baac-3930-4389-b83c-7c9dc8c0d439",
+      "authors": "P. Romanowicz, M. Wygoda, B. Szybiński",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15073435",
+      "doi_url": "https://www.doi.org/10.3390/app15073435",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessment of digital image correlation effectiveness and quality in determination of surface strains of hybrid steel/composite structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/publications/40ea4e72-f900-4f26-9f15-20a7b2d9afb2",
+      "authors": "M. Wygoda, P. Romanowicz, B. Szybiński",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17143561",
+      "doi_url": "https://www.doi.org/10.3390/ma17143561",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zagadnienia koncentracji naprężeń w płytach i powłokach - modelowanie i optymalizacja",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work/463b9759-6eea-4eea-9c7d-671f3dc4039c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Elementy skończone Trefftza przystosowane do analizy złożonych konstrukcji cienkościennych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work/2e6d9689-6c8e-498c-9011-46b14ccafb27",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work/493b18c4-a76e-40f3-8356-8c27cd3e8cf0",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work/fe7dc148-4624-4ab6-9fc1-ab0fb7433ec1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza obciążeń oraz optymalizacja konstrukcji wybranych śrubowych przekładni planetarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.szybi%C5%84ski.4vJUJE9RgT1/research-work/1141b3a4-f257-4f26-bf4e-da62f7374a75",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=79806"
+    }
+  ],
+  "tag_cloud": [
+    "kompozyt",
+    "ess",
+    "nedm",
+    "nnbar",
+    "essnusb",
+    "metoda elementów skończonych",
+    "finite element method",
+    "konstrukcja cienkościenna",
+    "composite",
+    "neutrons"
+  ],
+  "coworkers": []
+}

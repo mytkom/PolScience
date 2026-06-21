@@ -1,0 +1,237 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g",
+  "slug": "maciej.jaworski",
+  "profile_id": "LiP9xyaIT8g",
+  "full_name": "dr hab. inż. Maciej Jaworski",
+  "orcid": "0000-0001-8506-3534",
+  "orcid_url": "https://orcid.org/0000-0001-8506-3534",
+  "breadcrumb_name": "Maciej Jaworski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "termodynamika",
+    "wymiana ciepła",
+    "odnawialne źródła energii"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / energetyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Energetyki i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7bc2e1c7-1658-40a5-940a-259eb6073ab8"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/gremiums/58a6713e-2d43-4e1e-8d82-e6e06eb35305",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Torque Control of a Highly-Saturated IPMSM Drive Using the Flux Linkage Control Scheme and an Augmented-State-Feedback Controller",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/publications/c5b56f4e-9b26-48a6-a1eb-74b8fc3d0387",
+      "authors": "M. Gierczyński, L. Niewiara [...] M. Jaworski , ... (+4)",
+      "publication_type": "Artykuł , IEEE Transactions on Industrial Electronics",
+      "year": "2025",
+      "doi": "10.1109/tie.2025.3553178",
+      "doi_url": "https://www.doi.org/10.1109/tie.2025.3553178",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Badania właściwości cieplnych kompozytów budowlanych z dodatkiem materiału zmiennofazowego PCM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/publications/0dce1293-b6d0-4f01-9003-7d7f206a9889",
+      "authors": null,
+      "publication_type": "Artykuł , Przemysł Chemiczny",
+      "year": "2024",
+      "doi": "10.15199/62.2024.11.18",
+      "doi_url": "https://www.doi.org/10.15199/62.2024.11.18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modeling of the 4th Generation Toyota Prius Traction Machine as the Reference for Future Designs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/publications/cf5747c3-d1b1-47c5-b85b-d6faca65b0a1",
+      "authors": "M. Gierczyński, R. Jakubowski [...] M. Jaworski , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.20944/preprints202408.1110.v1",
+      "doi_url": "https://www.doi.org/10.20944/preprints202408.1110.v1",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Możliwości poprawy efektywności energetycznej i charakterystyk pracy wybranych układów i urządzeń cieplnych przez zastosowanie materiałów zmiennofazowych PCM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work/fce55f91-7e25-4e00-9662-9208e2d43529",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Transport energii do ośrodka stałego poprzez gigantyczne impulsy laserowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work/8ff9691e-7c9b-44c7-990f-d037dde9576d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work/cca25d15-a3b4-4333-9a64-8298a7355ef3",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie dyfuzji ciepła w strukturach zmiennofazowych metodą oscylacji temperatury",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work/2f610475-e0ba-4efc-b466-301ca93226e7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Coupled thermal electromagnetic numerical modelling of an effective heat dissipation process from an electricmotor (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.jaworski.LiP9xyaIT8g/research-work/e46cb8aa-b235-407d-933f-9545afe4e7d1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86204"
+    }
+  ],
+  "tag_cloud": [
+    "air purification",
+    "filtracja",
+    "corrosion",
+    "phase change materials",
+    "thermal energy storage",
+    "pcm",
+    "functional textiles",
+    "chłodzenie elektroniki",
+    "phase-change materials",
+    "single family buildings"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu",
+  "slug": "ewa.roszkowska",
+  "profile_id": "NOnHT76LPlu",
+  "full_name": "prof. dr hab. Ewa Roszkowska",
+  "orcid": "0000-0003-2249-7217",
+  "orcid_url": "https://orcid.org/0000-0003-2249-7217",
+  "breadcrumb_name": "Ewa Roszkowska",
+  "current_employment_summary": [
+    "Politechnika Białostocka",
+    "Uniwersytet w Białymstoku"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "negocjacje",
+    "analiza decyzyjna",
+    "ekonomia behawioralna",
+    "badania operacyjne",
+    "teoria gier"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Ekonomiczna w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b9ad60af-7ec1-4d0a-88e5-3274ba889fe5",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk społecznych / ekonomia i finanse"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki ekonomiczne / ekonomia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet w Białymstoku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Uniwersytet w Białymstoku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/gremiums/19fd3d68-2244-4ba6-ba77-6940c9531427",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Statystyki i Ekonometrii",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/gremiums/0aa8bba7-285f-49c7-a2b2-a16a0e09367a",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Airline Ranking Using Social Feedback and Adapted Fuzzy Belief TOPSIS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/publications/611b1c7f-86db-42c2-ae21-13b362da2859",
+      "authors": "E. Roszkowska , M. Filipowicz-Chomko",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2025",
+      "doi": "10.3390/e27080879",
+      "doi_url": "https://www.doi.org/10.3390/e27080879",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing Spatial Analysis through Reference Multi-Criteria Methods: A Study Evaluating EU Countries in terms of Sustainable Cities and Communities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/publications/2ccf613d-c25a-475d-a3f7-fcbd2f1f516a",
+      "authors": "D. Górecka, E. Roszkowska",
+      "publication_type": "Artykuł , Networks and Spatial Economics",
+      "year": "2025",
+      "doi": "10.1007/s11067-024-09644-0",
+      "doi_url": "https://www.doi.org/10.1007/s11067-024-09644-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhancing TOPSIS to Evaluate Negotiation Offers with Subjectively Defined Reference Points",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/publications/4aac2352-70d5-4aa4-be0c-50a0a0b646ad",
+      "authors": "E. Roszkowska , T. Wachowicz",
+      "publication_type": "Artykuł , Group Decision and Negotiation",
+      "year": "2025",
+      "doi": "10.1007/s10726-025-09929-w",
+      "doi_url": "https://www.doi.org/10.1007/s10726-025-09929-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/4ad5e15f-2dfb-42c6-92c9-68f2890d91c3",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie procesów decyzyjnych oraz negocjacji za pomocą kompleksów reguł",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/8b49f7a0-bed0-4960-aba5-31e3033f69cf",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Pomiar poziomu innowacyjności w ujęciu regionalnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/e1f31cf3-0cad-48ed-b10f-37ca7347e221",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody wnioskowania rozmytego oraz wielokryterialnego podejmowania decyzji w badaniu ryzyka finansowania przedsiębiorstw",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/479f6a13-453d-4097-96b4-d3b89adb4bbb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Poziom rozwoju społeczno-gospodarczego a innowacyjność regionalna na przykładzie okręgów Litwy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/b6125052-f66a-4da8-914a-c2c123ac99d1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja strategii inwestycyjnych przy udziale uczenia maszynowego i wsparciu technik grafowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/4757a42c-acbd-4e28-a4ca-9ca38b6cdeec",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Stronniczość algorytmiczna w ocenie zdolności kredytowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/09313e51-8432-41e0-8e17-cc65dc7bb7b8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Podejście sieciowe w modelowaniu procesów gospodarczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.roszkowska.NOnHT76LPlu/research-work/f5427789-e6dd-4611-a584-704b24a3138d",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Ewa Roszkowska",
+        "source": "Źródło danych: POL-on , Ewa Roszkowska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=25647"
+    }
+  ],
+  "tag_cloud": [
+    "topsis method",
+    "prenegotiation preparation",
+    "wielokryterialne podejmowanie decyzji",
+    "fuzzy ranking",
+    "preference analysis",
+    "negotiation offer scoring systems",
+    "negotiation support",
+    "preferences",
+    "negotiation",
+    "sustainable development"
+  ],
+  "coworkers": []
+}

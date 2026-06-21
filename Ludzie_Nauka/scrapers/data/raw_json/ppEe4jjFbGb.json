@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb",
+  "slug": "dariusz.kosz",
+  "profile_id": "ppEe4jjFbGb",
+  "full_name": "dr hab. Dariusz Mirosław Kosz",
+  "orcid": "0000-0001-9623-7181",
+  "orcid_url": "https://orcid.org/0000-0001-9623-7181",
+  "breadcrumb_name": "Dariusz Kosz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analiza harmoniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Matematyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0452cf56-f277-4a0a-9d8e-f0ee354e4d6f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Sharp constants in inequalities admitting the Calderón transference principle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/publications/dd0c44d8-1cad-447c-843f-ba24ad4e61c0",
+      "authors": null,
+      "publication_type": "Artykuł , Ergodic Theory and Dynamical Systems",
+      "year": "2024",
+      "doi": "10.1017/etds.2023.59",
+      "doi_url": "https://www.doi.org/10.1017/etds.2023.59",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The maximal function of the devil’s staircase is absolutely continuous",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/publications/6f32ac0e-0f6f-44e3-93f8-73d010242f5d",
+      "authors": "D. Kosz , C. González-Riquelme",
+      "publication_type": "Artykuł , Journal of Geometric Analysis",
+      "year": "2024",
+      "doi": "10.1007/s12220-024-01562-4",
+      "doi_url": "https://www.doi.org/10.1007/s12220-024-01562-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Boundedness properties of maximal operators on Lorentz spaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/publications/1fcdb844-08e8-4e79-a26f-06b73ebf23af",
+      "authors": null,
+      "publication_type": "Artykuł , Annales Fennici Mathematici",
+      "year": "2023",
+      "doi": "10.54330/afm.131758",
+      "doi_url": "https://www.doi.org/10.54330/afm.131758",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/research-work/90ef7ec0-7e34-4b91-b76d-2df0ec47dc1e",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Operatory maksymalne w niedublujących przestrzeniach metryczno-miarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/research-work/b35abc4e-a120-445d-8314-1fa101cf0967",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Aspects of discrete harmonic analysis.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.kosz.ppEe4jjFbGb/research-work/0204918a-bc1d-4b2c-8061-b698e023c3e9",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=298085"
+    }
+  ],
+  "tag_cloud": [
+    "nieskończeniewymiarowy torus",
+    "różniczkowanie całek",
+    "baza różniczkowania",
+    "operatory maksymalne hardy'ego - littlewooda",
+    "niedublujące przestrzenie metryczno-miarowe",
+    "nierówności słabego i mocnego typu",
+    "operator maksymalny",
+    "nierówność restrykcyjnie słabego typu",
+    "nierówność słabego typu",
+    "wahanie funkcji maksymalnej"
+  ],
+  "coworkers": []
+}

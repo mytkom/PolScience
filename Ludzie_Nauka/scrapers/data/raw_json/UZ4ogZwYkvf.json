@@ -1,0 +1,266 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf",
+  "slug": "anna.kubicka-sowińska",
+  "profile_id": "UZ4ogZwYkvf",
+  "full_name": "dr inż. arch. Anna Maria Kubicka-Sowińska",
+  "orcid": "0000-0001-5442-3947",
+  "orcid_url": "https://orcid.org/0000-0001-5442-3947",
+  "breadcrumb_name": "Anna Kubicka-Sowińska",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "Ameryka prekolumbijska",
+    "archeologia Nowego Świata",
+    "historia architektury"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bde6059e-395b-46e7-88ed-a9d14626c93e"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "archeologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2010",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "historia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Archeologii Krajów Śródziemnomorskich",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/gremiums/fdcb735c-8c0d-4b90-ba58-6d6983b1c7d5",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Flemish hide as a constitutive element of field patterns in East-Central Europe in the Middle Ages and the problem of its alternatives- a case study on Bohemia (Czech Republic)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/publications/5d48ff77-1cbd-48ba-9c57-2d1f6458937c",
+      "authors": "M. Legut-Pintal, A. Kubicka-Sowińska , T. Klír, ... (+2)",
+      "publication_type": "Artykuł , Landscape History",
+      "year": "2025",
+      "doi": "10.1080/01433768.2025.2503537",
+      "doi_url": "https://www.doi.org/10.1080/01433768.2025.2503537",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Delineation of buildings at Machu Picchu by Inca builders - is metrological analysis of building outlines possible without the invasive survey?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/publications/9b538a8f-31a3-48bc-98a7-49542169c7bf",
+      "authors": null,
+      "publication_type": "Artykuł , Architectus",
+      "year": "2024",
+      "doi": "10.37190/arc240104",
+      "doi_url": "https://www.doi.org/10.37190/arc240104",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Reconstructing the urban fabric of Nea Paphos by comparison with regularly planned Mediterranean cities, using 3D Procedural Modelling and Spatial Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/publications/0eaf603e-e801-4920-a855-e4885628ef14",
+      "authors": "A. Kubicka-Sowińska , Ł. Miszk, P. Zachar, ... (+4)",
+      "publication_type": "Artykuł , Bulletin of the American Society of Overseas Research",
+      "year": "2024",
+      "doi": "10.1086/730152",
+      "doi_url": "https://www.doi.org/10.1086/730152",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metody cosine quantogram do analizy metrologicznej kompleksu Machu Picchu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kubicka-sowi%C5%84ska.UZ4ogZwYkvf/research-work/80ff77db-93da-4cf7-947f-c234a79c7e6e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=295806"
+    }
+  ],
+  "tag_cloud": [
+    "computer anastylosis",
+    "lower silesia",
+    "parcellation",
+    "modular analysis",
+    "cosine quantogram",
+    "metrology",
+    "nea paphos",
+    "unit of measurement",
+    "jednostki miary",
+    "rural settlement"
+  ],
+  "coworkers": []
+}

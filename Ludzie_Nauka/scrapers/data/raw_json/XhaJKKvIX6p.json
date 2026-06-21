@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p",
+  "slug": "wojciech.lorkiewicz",
+  "profile_id": "XhaJKKvIX6p",
+  "full_name": "dr inż. Wojciech Arkadiusz Lorkiewicz",
+  "orcid": "0000-0002-4624-5180",
+  "orcid_url": "https://orcid.org/0000-0002-4624-5180",
+  "breadcrumb_name": "Wojciech Lorkiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of large language models to data extraction from text with an unknown structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/publications/f3aac114-4594-4f4b-9bb5-2ca181431a79",
+      "authors": "M. Hojda, W. Lorkiewicz",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of machine learning in predicting frailty syndrome in patients with heart failure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/publications/d1e95cbe-6f2a-4bb3-a20d-f973d1888a61",
+      "authors": "R. Szczepanowski, J. Sobecki [...] W. Lorkiewicz , ... (+17)",
+      "publication_type": "Artykuł , Advances in Clinical and Experimental Medicine",
+      "year": "2024",
+      "doi": "10.17219/acem/184040",
+      "doi_url": "https://www.doi.org/10.17219/acem/184040",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of compact large language models to the named entity recognition problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/publications/06190105-f76f-497e-8f4f-7e20ca186738",
+      "authors": "W. Lorkiewicz , M. Hojda, G. Popek",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Uzgadnianie znaczenia symboli języka komunikacji w systemach wieloagentowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.lorkiewicz.XhaJKKvIX6p/research-work/ec106c03-1e96-4398-b8f5-29d5605d7a8b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=247432"
+    }
+  ],
+  "tag_cloud": [
+    "machine learning",
+    "agent kognitywny",
+    "obliczenia kognitywne",
+    "heart failure",
+    "kategorie poziomu podstawowego",
+    "spójnik zdaniotwórczy",
+    "frailty syndrome",
+    "system autonomiczny",
+    "równoważność logiczna",
+    "artificial intelligence"
+  ],
+  "coworkers": []
+}

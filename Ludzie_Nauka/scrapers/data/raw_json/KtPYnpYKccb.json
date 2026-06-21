@@ -1,0 +1,335 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb",
+  "slug": "zbigniew.banaszak",
+  "profile_id": "KtPYnpYKccb",
+  "full_name": "prof. dr hab. inż. Zbigniew Antoni Banaszak",
+  "orcid": "0000-0001-7219-3903",
+  "orcid_url": "https://orcid.org/0000-0001-7219-3903",
+  "breadcrumb_name": "Zbigniew Banaszak",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "logistyka",
+    "systemy komputerowo zintegrowanego zarządzania",
+    "inżynieria wiedzy",
+    "systemy wspomagania decyzji",
+    "dyskretne systemy zdarzeniowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Zielonogórski w Zielonej Górze",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Komunikacji i Zarządzania w Poznaniu Aktualna nazwa: Wyższa Szkoła Komunikacji i Zarządzania",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b55015fe-e8d1-4004-bbdf-657170cf34d7",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1997",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1989",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1977",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / brak w dyplomie",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1973",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Inżynierii Produkcji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/gremiums/0c18aad4-ba6f-4ae8-b365-097cff5b9843",
+      "period": "2015-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/gremiums/0c3cac2a-af0e-494e-93c6-b58334773753",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/gremiums/c1ac5ca0-c3a6-46d2-b0a6-af9fdc9bfb72",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Komitet Inżynierii Produkcji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/gremiums/a5f92021-9b05-4d9a-8cb5-6f3c6abb2c4f",
+      "period": "2007-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Declarative Framework for Production Line Balancing with Disruption-Resilient and Sustainability-Focused Improvements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/publications/2d16496a-7a3b-4128-9b52-e272dc714b50",
+      "authors": "G. Bocewicz, G. Radzki [...] Z. Banaszak , ... (+2)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17156747",
+      "doi_url": "https://www.doi.org/10.3390/su17156747",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessing feasibility in service teams transport scheduling with dedicated and flexible dispatch approaches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/publications/eabcb73d-7516-4b14-902e-aa82037ab18a",
+      "authors": "G. Radzki, G. Bocewicz [...] Z. Banaszak , ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312727",
+      "doi_url": "https://www.doi.org/10.3390/app152312727",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Balancing PaaS offers subject to demands constraint",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/publications/93acb969-9686-47c3-bd7e-76672b24e266",
+      "authors": "E. Szwarc, G. Radzki [...] Z. Banaszak , ... (+1)",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2025.11.839",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2025.11.839",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie programowania z ograniczeniami i logiki rozmytej do budowy zadaniowo zorientowanych systemów interakcyjnego wspomagania inwestycji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/ba67d4a3-0970-4c14-96e7-466408dd6e45",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/2440113a-7350-4da9-9631-d3563b616f84",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie technik programowania CLP do planowania przepływu produkcji w małych i średnich przedsiębiorstwach przemysłu maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/c1ea5295-9a27-423c-8815-532bd5df2f5a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie probabilistycznych metod do oceny losowości liczb otrzymanych z kwantowych generatorów liczb losowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/21a36c4f-a25f-4492-aca2-e516558df27a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/efffadee-6fb0-434a-b5be-50b641df0439",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.banaszak.KtPYnpYKccb/research-work/414fdaf2-8c4b-4dcb-a653-e83e712b0d68",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=37977"
+    }
+  ],
+  "tag_cloud": [
+    "competency framework",
+    "uav routing",
+    "declarative modelling",
+    "unmanned aerial vehicles",
+    "declarative modeling",
+    "scheduling",
+    "vehicle routing problem",
+    "uav fleet mission planning",
+    "uav",
+    "routing"
+  ],
+  "coworkers": []
+}

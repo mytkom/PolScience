@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX",
+  "slug": "szymon.piasecki",
+  "profile_id": "Uia9jDjnrrX",
+  "full_name": "dr inż. Szymon Jan Piasecki",
+  "orcid": "0000-0001-5341-8775",
+  "orcid_url": "https://orcid.org/0000-0001-5341-8775",
+  "breadcrumb_name": "Szymon Piasecki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "energoelektronika",
+    "optymalizacja wielokryterialna",
+    "energetyka rozproszona"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "High Efficiency Dual-Active-Bridge Converter with Triple-Phase-Shift Control for Battery Charger of Electric Vehicles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/publications/656f3567-74a7-4c08-b9c0-a07d03c7f690",
+      "authors": "S. Bachman, S. Kuo [...] S. Piasecki , ... (+9)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17020354",
+      "doi_url": "https://www.doi.org/10.3390/en17020354",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "AC-DC-DC Converter for Small Power Energy Storage Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/publications/d57d64b7-2b64-458e-b01e-a3992c94c3e3",
+      "authors": "S. Piasecki , S. Bachman, M. Jasinski, ... (+3)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16227556",
+      "doi_url": "https://www.doi.org/10.3390/en16227556",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "LV distribution gird stabilisation using Energy Storage System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/publications/8f967219-6259-4bc0-a505-5e0341798300",
+      "authors": "S. Piasecki , M. Jasinski, K. Szaniawski, ... (+6)",
+      "publication_type": "Artykuł , 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG)",
+      "year": "2023",
+      "doi": "10.1109/cpe-powereng58103.2023.10227427",
+      "doi_url": "https://www.doi.org/10.1109/cpe-powereng58103.2023.10227427",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania i rozwój procedur optymalizacji wielokryterialnej sieciowych przekształtników AC-DC dla energetyki odnawialnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.piasecki.Uia9jDjnrrX/research-work/e57256dd-c9d4-4e8e-833c-e24bb3889800",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=275630"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

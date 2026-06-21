@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67",
+  "slug": "tomasz.grajek",
+  "profile_id": "WQ30uoW1J67",
+  "full_name": "dr inż. Tomasz Paweł Grajek",
+  "orcid": "0000-0002-7142-9416",
+  "orcid_url": "https://orcid.org/0000-0002-7142-9416",
+  "breadcrumb_name": "Tomasz Grajek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Temporally Aware Objective Quality Metric for Immersive Video",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/publications/3c5ea2ea-bc9a-4ff9-b5c6-99ce783d7e40",
+      "authors": "J. Stankowski, B. Sojka, T. Grajek , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16010274",
+      "doi_url": "https://www.doi.org/10.3390/app16010274",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Advanced ANN Architecture for the CTU Partitioning in All Intra HEVC",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/publications/d0ecb7ea-d50d-4c08-b5a6-664b5bf6650c",
+      "authors": "J. Kwaśniak, M. Majtka [...] T. Grajek , ... (+2)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25195971",
+      "doi_url": "https://www.doi.org/10.3390/s25195971",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analiza możliwości zrównoleglenia obliczeń w koderze i dekoderze JPEG",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/publications/0c12da41-a0e1-48b1-9ab4-50765ffa2b37",
+      "authors": "J. Stankowski, A. Śliwiński [...] T. Grajek , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.99",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.99",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie zaawansowanych koderów wizyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grajek.WQ30uoW1J67/research-work/d594d0a7-2544-4ff9-b0d1-2254800b6534",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=32667766300"
+    }
+  ],
+  "tag_cloud": [
+    "obiektywny pomiar jakości",
+    "wizja wszechogarniająca",
+    "multiview video plus depth (mvd)",
+    "video quality evaluation",
+    "immersive video",
+    "ocena jakości wizji",
+    "objective quality assessment",
+    "hevc",
+    "mpeg-i",
+    "motion jpeg"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg",
+  "slug": "ludwik.jaksztas",
+  "profile_id": "q1UrJLBv0bg",
+  "full_name": "dr Ludwik Jaksztas",
+  "orcid": "0000-0002-9283-8841",
+  "orcid_url": "https://orcid.org/0000-0002-9283-8841",
+  "breadcrumb_name": "Ludwik Jaksztas",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "układy dynamiczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Matematyki i Nauk Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0454b20a-3765-4c35-bd6c-cfc3fdf2d2f5"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On the directional derivative of the Hausdorff dimension of quadratic polynomial Julia sets at $$-3/4$$",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/publications/d7ac44c0-9707-46d0-acfb-a78e07087a85",
+      "authors": null,
+      "publication_type": "Artykuł , Mathematische Annalen",
+      "year": "2025",
+      "doi": "10.1007/s00208-024-03060-y",
+      "doi_url": "https://www.doi.org/10.1007/s00208-024-03060-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the directional derivative of the Hausdorff dimension of quadratic polynomial Julia sets at -2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/publications/5cf159ca-69ce-441e-b380-edeb27576d02",
+      "authors": null,
+      "publication_type": "Artykuł , Advances in Mathematics",
+      "year": "2023",
+      "doi": "10.1016/j.aim.2023.109297",
+      "doi_url": "https://www.doi.org/10.1016/j.aim.2023.109297",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On the derivative of the Hausdorff dimension of the Julia sets for $z^2+c$, $c in R$ at parabolic parameters with two petals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/publications/04b59cc3-f1a4-4e41-834c-81f9b38ab8c0",
+      "authors": "L. Jaksztas , M. Zinsmeister",
+      "publication_type": "Artykuł , Advances in Mathematics",
+      "year": "2020",
+      "doi": "10.1016/j.aim.2020.106981",
+      "doi_url": "https://www.doi.org/10.1016/j.aim.2020.106981",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "O wymiarze Hausdorffa zbioru Julii dla wielomianów kwadratowych, blisko parametrów parabolicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ludwik.jaksztas.q1UrJLBv0bg/research-work/db5e6648-b2e7-4246-a073-36a3a3b4d9b4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=225688"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

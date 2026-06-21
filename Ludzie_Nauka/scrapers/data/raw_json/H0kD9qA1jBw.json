@@ -1,0 +1,290 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw",
+  "slug": "michał.pióro",
+  "profile_id": "H0kD9qA1jBw",
+  "full_name": "prof. dr hab. inż. Michał Paweł Pióro",
+  "orcid": "0000-0002-9347-9764",
+  "orcid_url": "https://orcid.org/0000-0002-9347-9764",
+  "breadcrumb_name": "Michał Pióro",
+  "current_employment_summary": [
+    "Politechnika Gdańska",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie",
+    "analiza i projektowanie sieci telekomunikacyjnych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "20 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych/telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1979",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1973",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "cybernetyka techniczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1973",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Min–max optimization of node‐targeted attacks in service networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/publications/142bed09-c881-4497-8070-e1e20b7b6143",
+      "authors": "M. Pióro , B. Fortz, A. Tomaszewski, ... (+1)",
+      "publication_type": "Artykuł , Networks",
+      "year": "2024",
+      "doi": "10.1002/net.22191",
+      "doi_url": "https://www.doi.org/10.1002/net.22191",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Scheduling of Industrial Control Traffic for Dynamic RAN Slicing with Distributed Massive MIMO",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/publications/002973df-6d22-4d3f-b4fd-f7053e0353bf",
+      "authors": "E. Fitzgerald, M. Pióro",
+      "publication_type": "Artykuł , Future Internet",
+      "year": "2024",
+      "doi": "10.3390/fi16030071",
+      "doi_url": "https://www.doi.org/10.3390/fi16030071",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Maximizing SDN resilience to node‐targeted attacks through joint optimization of the primary and backup controllers placements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/publications/816e9027-51e5-488f-9d09-4853e2f1a947",
+      "authors": "A. Tomaszewski, M. Mycek, M. Pióro , ... (+1)",
+      "publication_type": "Artykuł , Networks",
+      "year": "2023",
+      "doi": "10.1002/net.22201",
+      "doi_url": "https://www.doi.org/10.1002/net.22201",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Desingn Methods for Nonhierarchical Circuit Switched Networks with Advanced Routing",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/9613f8e9-c68c-4707-867c-9e2b2cdc70e7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Distributed optimization of inter-domain flow in multi-domain networks (tytuł pracy badawczej tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/2ed57031-ed04-41de-a3bc-4db0ae90b551",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja kierowania ruchem w sieciach odpornych na awarie - wielościanowe modele ruchu oraz zagadnienia złożoności obliczeniowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/c36d29f5-af90-455f-b4c5-cadf10e819af",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Projektowanie sieci IP odpornych na awarie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/2c5f8200-bd56-41bc-b4f1-addcf73ea7e6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Nieblokowalne optyczne pola komutacyjne dla ruchu zintegrowanego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/a6541929-a6ae-4afa-b774-31b2309a31f5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody sterowania dla adaptacyjnego strumieniowania wideo bazujące na estymacji prawdopodobieństwa zatrzymania odtwarzania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/e7361907-2883-4f57-b3af-cdda967d0a6f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza wzorca utraty pakietów w łączonych kanałach transmisyjnych za pomocą parateru Burst Ratio",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3ro.H0kD9qA1jBw/research-work/32b57789-d31b-4534-8a4e-67e075fcd1c7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=22170"
+    }
+  ],
+  "tag_cloud": [
+    "multicast",
+    "sdn",
+    "transmission scheduling",
+    "wireless sensor networks",
+    "iot",
+    "mixed-integer programming",
+    "integer programming",
+    "variable link capacity",
+    "resilience",
+    "node attacks"
+  ],
+  "coworkers": []
+}

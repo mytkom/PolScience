@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD",
+  "slug": "grzegorz.blinowski",
+  "profile_id": "YylM1VsPeUD",
+  "full_name": "dr Grzegorz Jan Blinowski",
+  "orcid": "0000-0002-0869-2828",
+  "orcid_url": "https://orcid.org/0000-0002-0869-2828",
+  "breadcrumb_name": "Grzegorz Blinowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "architektura komputerów",
+    "oprogramowanie"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fuzzing trusted execution environments with Rust",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/publications/4186dbda-24a9-494a-9587-aff1c7bd0aef",
+      "authors": "G. Blinowski , M. Szaknis",
+      "publication_type": "Artykuł , Computers and Security",
+      "year": "2025",
+      "doi": "10.1016/j.cose.2024.104196",
+      "doi_url": "https://www.doi.org/10.1016/j.cose.2024.104196",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Performance evaluation of selected ML algorithms in GC and AWS cloud environments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/publications/598e1e7e-8a91-4359-8916-930117ed911d",
+      "authors": "G. Blinowski , M. Bogucki",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155471",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155471",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Fuzzing trusted execution environments with Rust",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/publications/a33a3b65-093c-49bf-a446-a6733493d832",
+      "authors": "G. Blinowski , M. Szaknis",
+      "publication_type": "Artykuł , Computers & Security",
+      "year": "2024",
+      "doi": "10.1016/j.cose.2024.104196;10.2139/ssrn.4878305",
+      "doi_url": "https://www.doi.org/10.1016/j.cose.2024.104196;10.2139/ssrn.4878305",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Model komunikacji i synchronizacji dla rozproszonych systemów komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.blinowski.YylM1VsPeUD/research-work/bcedd652-1c38-4caa-b9b7-ec6bff83bf7a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=103841"
+    }
+  ],
+  "tag_cloud": [
+    "neural networks",
+    "vlc",
+    "visible light communication",
+    "physical layer security",
+    "visible light communication networks",
+    "network security",
+    "benchmarking",
+    "transmission jamming",
+    "steganography",
+    "scalability"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F",
+  "slug": "krzysztof.piekarski",
+  "profile_id": "BwPvkMo377F",
+  "full_name": "dr inż. Krzysztof Piekarski",
+  "orcid": "0000-0002-3159-5698",
+  "orcid_url": "https://orcid.org/0000-0002-3159-5698",
+  "breadcrumb_name": "Krzysztof Piekarski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "matematyka stosowana"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Matematyki i Informatyki Użytkowej w likwidacji z siedzibą w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/085d5b18-eb39-4286-84a0-7158f542203e",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "podstawowe problemy techniki",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Transformaty dla inżynierów. Skrypt dla studentów kierunków automatyka i robotyka, matematyka stosowana, mechatronika, elektrotechnika, informatyka i innych, pokrewnych kierunków",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/publications/c5a4ba66-4f25-4501-9132-412e7576ba14",
+      "authors": "E. Pawłuszewicz, K. Piekarski",
+      "publication_type": "Książka , Politechnika Białostocka",
+      "year": "2024",
+      "doi": "10.24427/978-83-68077-40-7",
+      "doi_url": "https://www.doi.org/10.24427/978-83-68077-40-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dynamic light scattering investigation of single levitated micrometre-sized droplets containing spherical nanoparticles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/publications/172dad6d-d4a1-4e13-9910-c34d7dd9a2c1",
+      "authors": "G. Derkachov, D. Jakubczyk [...] K. Piekarski , ... (+3)",
+      "publication_type": "Artykuł , MEASUREMENT",
+      "year": "2020",
+      "doi": "10.1016/j.measurement.2020.107681",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2020.107681",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja parametryczna z ograniczeniami stanu dla wybranych modeli dynamicznych opisywanych równaniami różniczkowymi cząstkowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.piekarski.BwPvkMo377F/research-work/f247ea13-a14a-4835-8cbe-d0afae22fd23",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=27253"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

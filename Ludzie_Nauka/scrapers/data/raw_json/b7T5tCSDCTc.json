@@ -1,0 +1,147 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc",
+  "slug": "robert.kałaska",
+  "profile_id": "b7T5tCSDCTc",
+  "full_name": "mgr inż. Robert Stanisław Kałaska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Robert Kałaska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "nformatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Polsko-Japońska Akademia Technik Komputerowych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d1eca9c-696f-4908-b65b-8c54eadeb76e"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Performance and Energy Comparison of Selected Web Request Processing Models for Reactive and Imperative Spring Based Implementations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/publications/88460e42-5f86-40ca-bdac-c3dd7a62f1cc",
+      "authors": "R. Kałaska , P. Czarnul",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-02406-0_23",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-02406-0_23",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of cores affinity within the containerized environment based on selected IOT middleware - observations and recommendations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/publications/183c37ab-f3de-4ca6-9fb9-4408dd4441d0",
+      "authors": null,
+      "publication_type": "Artykuł , TASK Quarterly",
+      "year": "2023",
+      "doi": "10.34808/0n9g-zh19",
+      "doi_url": "https://www.doi.org/10.34808/0n9g-zh19",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigation of Performance and Configuration of a Selected IoT System—Middleware Deployment Benchmarking and Recommendations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ka%C5%82aska.b7T5tCSDCTc/publications/0cb162a5-3f17-4a7f-9cc5-2b7816415f61",
+      "authors": "R. Kałaska , P. Czarnul",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2022",
+      "doi": "10.3390/app12105212",
+      "doi_url": "https://www.doi.org/10.3390/app12105212",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

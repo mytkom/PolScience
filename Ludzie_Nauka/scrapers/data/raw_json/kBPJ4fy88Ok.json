@@ -1,0 +1,205 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok",
+  "slug": "nina.wezynfeld",
+  "profile_id": "kBPJ4fy88Ok",
+  "full_name": "dr inż. Nina Ewa Wezynfeld",
+  "orcid": "0000-0002-6206-4195",
+  "orcid_url": "https://orcid.org/0000-0002-6206-4195",
+  "breadcrumb_name": "Nina Wezynfeld",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia koordynacyjna",
+    "genotoksyczność",
+    "biofizyka molekularna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Instytut Biochemii i Biofizyki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8f90fc81-2eaa-4d08-a7e8-633f3477839c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk biologicznych / biofizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Biochemii i Biofizyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8f90fc81-2eaa-4d08-a7e8-633f3477839c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk biologicznych / biofizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Polska Akademia Nauk Archiwum w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f2036f3-e11f-43b0-b504-880976208788"
+        },
+        {
+          "label": "Instytut Biochemii i Biofizyki Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8f90fc81-2eaa-4d08-a7e8-633f3477839c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ni(II) complexes of His2 peptides as multi-responsive electrochemical probes for anion sensing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/publications/4fc6d47b-2388-4186-9247-6b8ab445235e",
+      "authors": "A. Tobolska, P. Ciosek-Skibińska [...] N. Wezynfeld , ... (+4)",
+      "publication_type": "Artykuł , Talanta",
+      "year": "2025",
+      "doi": "10.1016/j.talanta.2025.127799",
+      "doi_url": "https://www.doi.org/10.1016/j.talanta.2025.127799",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Oxidative Activity of Copper Ions in Ternary Systems With N‐Truncated Amyloid Beta Peptides and Low Molecular Weight Substances.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/publications/c454a8ba-3e91-44f7-8c8d-37c5b9000517",
+      "authors": "D. Sudzik, W. Bal, N. Wezynfeld",
+      "publication_type": "Artykuł , Journal of Neurochemistry",
+      "year": "2025",
+      "doi": "10.1111/jnc.70145",
+      "doi_url": "https://www.doi.org/10.1111/jnc.70145",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Quantum dots-based “chemical tongue” for the discrimination of short-length Aβ peptides",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/publications/2f2506cd-7fb7-4dbd-95ac-a968783733a1",
+      "authors": "K. Głowacz, M. Drozd [...] N. Wezynfeld , ... (+2)",
+      "publication_type": "Artykuł , Microchimica Acta",
+      "year": "2024",
+      "doi": "10.1007/s00604-023-06115-0",
+      "doi_url": "https://www.doi.org/10.1007/s00604-023-06115-0",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania białek związanych z układem odpornościowym człowieka jako celów molekularnych metalozależnej hydrolizy wiązania peptydowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/nina.wezynfeld.kBPJ4fy88Ok/research-work/f52f70bf-a126-4a6b-877f-fece344a32f5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=282234"
+    }
+  ],
+  "tag_cloud": [
+    "nickel toxicity",
+    "binding; copper(ii);",
+    "tripeptide;",
+    "choroba alzheimera",
+    "brak",
+    "hydrolysis;",
+    "agregacja",
+    "protein damage",
+    "stres oksydacyjny",
+    "amyloid beta"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,263 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP",
+  "slug": "wiesław.zwierzycki",
+  "profile_id": "fflemUB1RNP",
+  "full_name": "prof. dr hab. inż. Wiesław Piotr Zwierzycki",
+  "orcid": "0000-0002-9950-4799",
+  "orcid_url": "https://orcid.org/0000-0002-9950-4799",
+  "breadcrumb_name": "Wiesław Zwierzycki",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "paliwa i smary",
+    "transport chłodniczy",
+    "trybologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "53 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1978",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1971",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Budowy Maszyn",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/gremiums/64843c11-5090-4f48-8cb2-14eccfa4d7c2",
+      "period": "2015-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Tribological Performance of Bronze Engineering Materials with Environmentally Friendly Lubricants Under Starved Lubrication Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/publications/f25a6b91-bfaa-4370-8fef-69a5d7567de8",
+      "authors": "M. Kowalski, K. Górny [...] W. Zwierzycki , ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18143283",
+      "doi_url": "https://www.doi.org/10.3390/ma18143283",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of Surface Roughness of Refrigeration Compressor Friction Nodes Due to Insufficient Lubrication",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/publications/35b999d4-4a6d-407f-8c7e-fc359b8a8884",
+      "authors": "K. Górny, A. Stachowiak [...] W. Zwierzycki , ... (+1)",
+      "publication_type": "Artykuł , Tribologia",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis of the Waste Generated during the Cutting Process in Onion Topping and Tailing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/publications/18d2051f-4e31-4688-b229-f8d73da8592f",
+      "authors": "T. Kiczek, A. Stachowiak [...] W. Zwierzycki , ... (+7)",
+      "publication_type": "Artykuł , Journal of Research and Applications in Agricultural Engineering",
+      "year": "2024",
+      "doi": "10.53502/jraae-196494",
+      "doi_url": "https://www.doi.org/10.53502/jraae-196494",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zagadnienia apriorycznej oceny trwałości węzłów tarcia ślizgowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/044c597a-5cff-450e-bf72-b7109390d66c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie algorytmu wspomagającego zarządzanie eksploatacją opon radialnych o dużych rozmiarach stosowanych w rolnictwie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/a3d8667e-d3e7-486a-ac86-fdc872803ac9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kształtowanie niezawodności kinematycznych węzłów maszyn podlegających zużywaniu korozyjno-mechanicznemu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/27e60564-85f3-46ec-a7df-4f67a5c05e21",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ dodatków eksploatacyjnych na własności smarne olejów przekładniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/00bf563e-9291-46e0-b89f-201fcf799acc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/38d7dcfb-12a4-4f76-b8c9-947c1f36f64c",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ właściwości napawanych warstw wierzchnich na zużycie w glebowej masie ściernej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/5eb90fd5-efa6-4376-89e1-1bf16e9652c8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rola synergizmu i krótkookresowych zjawisk elektrochemicznych w rozwoju niszczenia erozyjno-kawidacyjnego materiałów metalowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.zwierzycki.fflemUB1RNP/research-work/1cbef204-18ce-457e-b9e4-0e79aebf2ebd",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=37999"
+    }
+  ],
+  "tag_cloud": [
+    "food processing industry",
+    "tarcie",
+    "food storage",
+    "refrigerated vehicle",
+    "przechowywanie żywności",
+    "transport żywności",
+    "nadwozie chłodnicze",
+    "corrosion",
+    "oil/refrigerant mixture",
+    "projektowanie układów"
+  ],
+  "coworkers": []
+}

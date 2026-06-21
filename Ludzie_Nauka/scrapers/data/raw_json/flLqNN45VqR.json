@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR",
+  "slug": "wojciech.trochymiak",
+  "profile_id": "flLqNN45VqR",
+  "full_name": "dr hab. Wojciech Trochymiak",
+  "orcid": "0000-0002-9099-9457",
+  "orcid_url": "https://orcid.org/0000-0002-9099-9457",
+  "breadcrumb_name": "Wojciech Trochymiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "budownictwo mostowe",
+    "konstrukcje mostowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "47 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f99459a0-12ff-4940-87a5-175328e8e031"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the design of a replacement motorway viaduct",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/publications/b6639f27-820e-43d2-aac6-8e84fa593c0a",
+      "authors": "W. Trochymiak , M. Wierzbowski, P. Mossakowski",
+      "publication_type": "Artykuł , Materiały Budowlane",
+      "year": "2025",
+      "doi": "10.15199/33.2025.07.19",
+      "doi_url": "https://www.doi.org/10.15199/33.2025.07.19",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wyniki konkursu Związku Mostowców RP \"Dzieło Mostowe Roku\" 2023",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/publications/35383004-a9a7-4b2d-8c40-2625c0ee3fe3",
+      "authors": null,
+      "publication_type": "Artykuł , Inżynieria i Budownictwo",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The BIM 5D model of the bridge built using the incremental launching method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/publications/2b0fa7ea-0ca4-4852-ae31-af2900e9cd58",
+      "authors": "J. Jaworski, W. Trochymiak , A. Krygier, ... (+2)",
+      "publication_type": "Artykuł , Archives of Civil Engineering",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/research-work/95d78d49-d8f3-4aad-b58a-5e48d30291d0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wyznaczanie modułu sprężystości betonu w procesie budowy sprężonych konstrukcji mostowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/research-work/74b4fe20-d966-4019-b56f-b15ef99eb771",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody nieniszczące w inspekcji geometrii cięgien sprężających betonowych obiektów mostowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.trochymiak.flLqNN45VqR/research-work/2ac8ef6c-c177-4d0a-b483-cdb3a035fde1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52504"
+    }
+  ],
+  "tag_cloud": [
+    "bim 5d model",
+    "road bridge",
+    "budowa mostu",
+    "mosty",
+    "bim",
+    "bridge",
+    "bridge construction",
+    "zmiany sił i naprężeń",
+    "uszkodzenia",
+    "repair works"
+  ],
+  "coworkers": []
+}

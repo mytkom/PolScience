@@ -1,0 +1,277 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47",
+  "slug": "mariusz.głąbowski",
+  "profile_id": "my3dunbgl47",
+  "full_name": "prof. dr hab. inż. Mariusz Głąbowski",
+  "orcid": "0000-0003-2451-2708",
+  "orcid_url": "https://orcid.org/0000-0003-2451-2708",
+  "breadcrumb_name": "Mariusz Głąbowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci telekomunikacyjne i komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Gnieźnie Aktualna nazwa: Akademia Nauk Stosowanych im. Hipolita Cegielskiego w Gnieźnie Uczelnia Państwowa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3b58b562-f989-497c-a844-2a893fb99609",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Agent-Based AI approach to Security in IoT Systems Leveraging GenAI",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/publications/7f14d57a-9cc7-4a9c-8da5-fe8a2a725349",
+      "authors": "N. Petrovic, D. Krstic [...] M. Głąbowski , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.23919/softcom66362.2025.11197348",
+      "doi_url": "https://www.doi.org/10.23919/softcom66362.2025.11197348",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "IoT Device Classification Methodes Based on Network Traffic",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/publications/a206677f-52de-440a-a8dd-4899cea77225",
+      "authors": "P. Kontowicz, M. Głąbowski , M. Fechner, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "SiTies: A Platform for Enhancing IoT System Security in Smart Cities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/publications/7cfadeb0-ae8e-457a-8ea5-685baa209c68",
+      "authors": "M. Głąbowski , M. Weissenberg, M. Sobieraj, ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/percomworkshops65533.2025.00154",
+      "doi_url": "https://www.doi.org/10.1109/percomworkshops65533.2025.00154",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie systemów multi-rate ze strumieniami zgłoszeń BPP",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/76d53a63-17db-4f72-a2ad-9793bb09308a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rezerwacja przepływności w systemach z integracją usług",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/c86b5a62-9fdc-4116-aa30-0f5dc1680e77",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie kolejkowych systemów przelewowych z mechanizmami progowymi i wielousługowymi źródłami ruchu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/744ae4fe-6cfa-44f0-9031-cfc4b4989c8c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie wielousługowych pól komutacyjnych z łączami przelewowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/8afe385b-316f-45a8-9baf-76426df08b5c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie pól komutacyjnych z mechanizmami progowymi i wielousługowymi źródłami ruchu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/ba20e7b2-675e-44ab-93d3-ca5826f66115",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/761d1334-7f73-43f9-a6d1-fc8aea7a6398",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/3d952504-c0d5-47ab-ba30-9b831c0caecf",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.g%C5%82%C4%85bowski.my3dunbgl47/research-work/179b2253-7501-4991-b276-1b10005f2f9a",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=103441"
+    }
+  ],
+  "tag_cloud": [
+    "loss probability",
+    "energy-aware systems",
+    "eunice",
+    "współpraca międzynarodowa",
+    "cyberbezpieczeństwo",
+    "uniwersytety europejskie",
+    "elastic optical networks",
+    "internet rzeczy",
+    "badania naukowe",
+    "limited-availability group"
+  ],
+  "coworkers": []
+}

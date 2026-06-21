@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE",
+  "slug": "marta.oleksy",
+  "profile_id": "ikk2MzhZ0PE",
+  "full_name": "dr inż. Marta Urszula Oleksy",
+  "orcid": "0000-0003-2552-0929",
+  "orcid_url": "https://orcid.org/0000-0003-2552-0929",
+  "breadcrumb_name": "Marta Oleksy",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4921489f-84b0-4d4b-843c-13b7261ccc05"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Numerical analysis of aggregate debonding in asphalt concrete",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/publications/6f56a6c9-ccbb-4615-9ccc-342623439d8a",
+      "authors": "M. Klimczak, M. Oleksy",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18102297",
+      "doi_url": "https://www.doi.org/10.3390/ma18102297",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Higher order numerical homogenization in modeling of asphalt concrete",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/publications/d855ab4f-eea1-4067-abcd-a8fc51fccaba",
+      "authors": "M. Klimczak, M. Oleksy",
+      "publication_type": "Artykuł , Journal of Theoretical and Applied Mechanics",
+      "year": "2024",
+      "doi": "10.15632/jtam-pl/185459",
+      "doi_url": "https://www.doi.org/10.15632/jtam-pl/185459",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "An improved Multiscale FEM for the free vibrations of heterogeneous solids",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/publications/fe122388-0496-4d22-8c9e-c413221e4165",
+      "authors": "M. Nessel, M. Oleksy , W. Cecot, ... (+1)",
+      "publication_type": "Artykuł , Computers and Mathematics with Applications",
+      "year": "2022",
+      "doi": "10.1016/j.camwa.2022.02.002",
+      "doi_url": "https://www.doi.org/10.1016/j.camwa.2022.02.002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie hp-adaptacyjnej metody elementów skończonych do obliczeń dwuskalowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.oleksy.ikk2MzhZ0PE/research-work/e0df1b01-8a3f-4012-9afe-4db13e7db356",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208829"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

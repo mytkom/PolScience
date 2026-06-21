@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI",
+  "slug": "andrzej.stroiński",
+  "profile_id": "cESpviXOKCI",
+  "full_name": "dr inż. Andrzej Stroiński",
+  "orcid": "0000-0002-0759-5663",
+  "orcid_url": "https://orcid.org/0000-0002-0759-5663",
+  "breadcrumb_name": "Andrzej Stroiński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A distributed discovery of communicating resource systems models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/publications/176362a3-f340-437d-bb9f-6fdf2947c885",
+      "authors": "A. Stroiński , J. Brzezinski, D. Dwornikowski",
+      "publication_type": "Artykuł , IEEE Transactions on Services Computing",
+      "year": "2019",
+      "doi": "10.1109/tsc.2016.2609913",
+      "doi_url": "https://www.doi.org/10.1109/tsc.2016.2609913",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Conformance Checking of Communicating Resource Systems with RAs Calculus",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/publications/a37bd027-1efa-4462-948d-b4be8b78ff5a",
+      "authors": "D. Dwornikowski, A. Stroiński , J. Brzezinski",
+      "publication_type": "Artykuł , 2015 IEEE International Conference on Services Computing",
+      "year": "2015",
+      "doi": "10.1109/scc.2015.109",
+      "doi_url": "https://www.doi.org/10.1109/scc.2015.109",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Towards a Process Calculus for Rest: Current State of the Art",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/publications/2cc02cd0-450d-45e3-b6ad-9f162e95e276",
+      "authors": "J. Brzezinski, A. Stroiński , D. Dwornikowski",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2015",
+      "doi": "10.1515/fcds-2015-0015",
+      "doi_url": "https://www.doi.org/10.1515/fcds-2015-0015",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odkrywanie modeli procesów w reprezentacji sieci Petriego dla systemów rozproszonych typu CRS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stroi%C5%84ski.cESpviXOKCI/research-work/a439c7b3-be65-4408-aad0-a6492e3eff28",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=301962"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

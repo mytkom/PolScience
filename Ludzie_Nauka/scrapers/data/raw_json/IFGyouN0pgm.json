@@ -1,0 +1,186 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm",
+  "slug": "piotr.dziadczyk",
+  "profile_id": "IFGyouN0pgm",
+  "full_name": "dr inż. Piotr Dziadczyk",
+  "orcid": "0000-0001-9977-2315",
+  "orcid_url": "https://orcid.org/0000-0001-9977-2315",
+  "breadcrumb_name": "Piotr Dziadczyk",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk rolniczych"
+  ],
+  "specializations": [
+    "genetyka",
+    "genetyka cech ilościowych w hodowli roślin"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Przyrodniczy w Lublinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bc05e3e9-35c4-47a4-be34-d13dd35fd0bf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki rolnicze / ogrodnictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Główna Handlowa w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c7c10a2a-f381-4dc2-8511-53400ceb4a90"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "ogrodnictwo",
+        "Nadanie tytułu",
+        "Akademia Rolnicza w Lublinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "GENE POOL VARIATION OF Fragaria x ananassa (Duch.) AND Fragaria vesca (L.)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/publications/387ac29d-1dfe-4993-a388-3d3f87bd07c6",
+      "authors": "P. Dziadczyk , M. Tyrka",
+      "publication_type": "Artykuł , ACTA SCIENTIARUM POLONORUM HORTORUM CULTUS",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of in vitro culture conditions influencing the initiation of raspberry (Rubus idaeus L cv. Nawojka) cell suspension culture",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/publications/b288b511-8ccb-4691-bf6f-9f28a2d8d2ab",
+      "authors": null,
+      "publication_type": "Artykuł , ANNALES UNIVERSITATIS MARIAE CURIE-SKLODOWSKA. SECTIO C: BIOLOGIA",
+      "year": "2013",
+      "doi": "10.2478/v10067-012-0030-z",
+      "doi_url": "https://www.doi.org/10.2478/v10067-012-0030-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Proliferation and LDH Leakage in Cell Cultures of Animal and Insect Origin Exposed to Insecticide Endosulfan",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/publications/6be166a1-1c58-4317-986d-a8548211ec31",
+      "authors": null,
+      "publication_type": "Artykuł , KAFKAS UNIVERSITESI VETERINER FAKULTESI DERGISI",
+      "year": "2013",
+      "doi": "10.9775/kvfd.2012.7982",
+      "doi_url": "https://www.doi.org/10.9775/kvfd.2012.7982",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Selekcja in vitro i charakterystyka mutantów żyta ozimego Secale cerale L. o zwiększonej zawartości wybranych aminokwasów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.dziadczyk.IFGyouN0pgm/research-work/b5759a10-113e-4f51-9cc6-67e7fdcf0915",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=26283"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

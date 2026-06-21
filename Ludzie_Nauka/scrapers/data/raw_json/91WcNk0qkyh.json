@@ -1,0 +1,188 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh",
+  "slug": "aleksandra.seweryn",
+  "profile_id": "91WcNk0qkyh",
+  "full_name": "dr Aleksandra Anna Seweryn",
+  "orcid": "0000-0001-8590-8250",
+  "orcid_url": "https://orcid.org/0000-0001-8590-8250",
+  "breadcrumb_name": "Aleksandra Seweryn",
+  "current_employment_summary": [
+    "Instytut Fizyki Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 2 miesiące",
+      "duration": null,
+      "institution": "Instytut Fizyki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Instytut Fizyki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7fe045d3-8e37-4760-b8db-075f13a6dce9"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Effect of surface preparation on contact properties to high resistivity Cd1-xMnxTe:In",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/publications/49f70784-b196-468a-82d2-7acb147696f2",
+      "authors": "D. Kochanowska, A. Wardak, A. Seweryn , ... (+12)",
+      "publication_type": "Artykuł , Applied Surface Science",
+      "year": "2026",
+      "doi": "10.1016/j.apsusc.2025.164540",
+      "doi_url": "https://www.doi.org/10.1016/j.apsusc.2025.164540",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The Influence of the Ar/N2 Ratio During Reactive Magnetron Sputtering of TiN Electrodes on the Resistive Switching Behavior of MIM Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/publications/c7c92278-373f-4c68-93ec-a22802702238",
+      "authors": "P. Jeżak, A. Seweryn , R. Mroczyński, ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18173940",
+      "doi_url": "https://www.doi.org/10.3390/ma18173940",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hafnium dioxide obtained by atomic layer deposition possesses the ability to induce the formation of biological apatite",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/publications/83b92b8b-ed17-47a6-b8c6-4a55841b50de",
+      "authors": "A. Seweryn , K. Marycz, B. Witkowski, ... (+6)",
+      "publication_type": "Artykuł , Surfaces and Interfaces",
+      "year": "2024",
+      "doi": "10.1016/j.surfin.2024.105311",
+      "doi_url": "https://www.doi.org/10.1016/j.surfin.2024.105311",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Otrzymywanie i badanie biomimetycznych, cienkich warstw tlenków metali przejściowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.seweryn.91WcNk0qkyh/research-work/12297464-8376-42a0-91f3-2587a312405b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "pro-osteogenic properties",
+    "cytocompatibility",
+    "zirconia-based coatings",
+    "copper oxide",
+    "ald",
+    "implant kostny",
+    "osteoblasts precursors",
+    "pole elektryczne",
+    "xps",
+    "hydrothermal method"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO",
+  "slug": "katarzyna.opalska",
+  "profile_id": "AQqt4CGqqNO",
+  "full_name": "dr inż. Katarzyna Maria Opalska",
+  "orcid": "0000-0001-7775-4722",
+  "orcid_url": "https://orcid.org/0000-0001-7775-4722",
+  "breadcrumb_name": "Katarzyna Opalska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "modelowanie elemrntów",
+    "analiza elementów i układów elektronicznych",
+    "aparatura pomiarowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Parametric approximation of electrical circuit responses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/publications/2e5a32ad-5f83-4750-bf3e-c9a97a7d83c8",
+      "authors": "K. Opalska , L. Opalski",
+      "publication_type": "Artykuł , Photonics Applications in Astronomy, Communications, Industry, and High-Energy Physics Experiments 2018",
+      "year": "2018",
+      "doi": "10.1117/12.2501650",
+      "doi_url": "https://www.doi.org/10.1117/12.2501650",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Bandwidth broadening of the photodetector signal path",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/publications/2564fe54-38be-4e0e-8a45-5cf5fe314e73",
+      "authors": "L. Opalski, K. Opalska",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.1109/mixdes.2016.7529725",
+      "doi_url": "https://www.doi.org/10.1109/mixdes.2016.7529725",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Correction of frequency response of infrared photodetector signal path",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/publications/df993c9b-1649-49d7-a1d7-738b40b0f52e",
+      "authors": null,
+      "publication_type": "Artykuł , SPIE Proceedings",
+      "year": "2016",
+      "doi": "10.1117/12.2249194",
+      "doi_url": "https://www.doi.org/10.1117/12.2249194",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Komputerowo-pomiarowa weryfikacja modelu diody ładunkowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.opalska.AQqt4CGqqNO/research-work/a9590eb1-5cd5-423c-b930-8dc13b7b43ca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85969"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

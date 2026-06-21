@@ -1,0 +1,229 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D",
+  "slug": "grzegorz.bocewicz",
+  "profile_id": "Lfhs7mvhS8D",
+  "full_name": "prof. dr hab. inż. Grzegorz Konstanty Bocewicz",
+  "orcid": "0000-0002-5181-2872",
+  "orcid_url": "https://orcid.org/0000-0002-5181-2872",
+  "breadcrumb_name": "Grzegorz Bocewicz",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Declarative Framework for Production Line Balancing with Disruption-Resilient and Sustainability-Focused Improvements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/publications/2d16496a-7a3b-4128-9b52-e272dc714b50",
+      "authors": "G. Bocewicz , G. Radzki, M. Piechowski, ... (+2)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17156747",
+      "doi_url": "https://www.doi.org/10.3390/su17156747",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessing feasibility in service teams transport scheduling with dedicated and flexible dispatch approaches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/publications/eabcb73d-7516-4b14-902e-aa82037ab18a",
+      "authors": "G. Radzki, G. Bocewicz , J. Rudy, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312727",
+      "doi_url": "https://www.doi.org/10.3390/app152312727",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Balancing PaaS offers subject to demands constraint",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/publications/93acb969-9686-47c3-bd7e-76672b24e266",
+      "authors": "E. Szwarc, G. Radzki, G. Bocewicz , ... (+1)",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2025.11.839",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2025.11.839",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/research-work/1f4a866b-80cb-442a-8ac5-6b5441f06d73",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/research-work/4cca8a0e-2a96-4dce-9f79-c35210134452",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy szeregowania zadań z nieustalonymi terminami gotowości na maszynach dowolnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/research-work/29cb8bdc-15e7-4605-939b-665b74c22bf2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza i modelowanie interakcji człowiek-komputer i człowiek-telefon pod kątem intencji klientów w handlu elektronicznym i telekomunikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bocewicz.Lfhs7mvhS8D/research-work/8cc2170a-ea8c-4256-8fd1-a1c1b93e967b",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=206950"
+    }
+  ],
+  "tag_cloud": [
+    "uav",
+    "uav routing",
+    "declarative modelling",
+    "unmanned aerial vehicles",
+    "declarative modeling",
+    "scheduling",
+    "vehicle routing problem",
+    "uav fleet mission planning",
+    "multimodal process",
+    "cyclic scheduling"
+  ],
+  "coworkers": []
+}

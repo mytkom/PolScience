@@ -1,0 +1,120 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn",
+  "slug": "adam.godziński",
+  "profile_id": "YCjaICrgCsn",
+  "full_name": "mgr inż. Adam Godziński",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Adam Godziński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Pattern Recognition in Games Using Process Mining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.godzi%C5%84ski.YCjaICrgCsn/publications/b09e71e7-7889-4c3f-afaf-9b7779ee60a4",
+      "authors": "W. Piątek, A. Stroiński, A. Godziński",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1109/iseeie55684.2022.00015",
+      "doi_url": "https://www.doi.org/10.1109/iseeie55684.2022.00015",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

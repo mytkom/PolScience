@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx",
+  "slug": "jacek.mazurkiewicz",
+  "profile_id": "6KAad62isnx",
+  "full_name": "dr inż. Jacek Kazimierz Mazurkiewicz",
+  "orcid": "0000-0002-7708-907X",
+  "orcid_url": "https://orcid.org/0000-0002-7708-907X",
+  "breadcrumb_name": "Jacek Mazurkiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 10 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Technologii Teleinformatycznych w Świdnicy Aktualna nazwa: Wyższa Szkoła Techniczno-Ekonomiczna w Świdnicy z siedzibą w Świdnicy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2c964a97-2c24-47e9-8b9a-5dbf21b42722",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Predicting desire paths: agent-based simulation for neighbourhood route planning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/publications/deb47a0b-b6a6-404d-98ed-fd06950f5e02",
+      "authors": "T. Szandała, J. Mazurkiewicz , J. Bossowski",
+      "publication_type": "Artykuł , COMPUTERS ENVIRONMENT AND URBAN SYSTEMS",
+      "year": "2025",
+      "doi": "10.1016/j.compenvurbsys.2025.102251",
+      "doi_url": "https://www.doi.org/10.1016/j.compenvurbsys.2025.102251",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Robołapa - electromyographically controlled prosthetic hand model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/publications/65d6a3e3-6430-4d48-ad20-6c209f131eaa",
+      "authors": "G. Pankowski, B. Mazurkiewicz, J. Mazurkiewicz , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_17",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sofcomputing approach to melody generation based on harmonic analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/publications/708e43f0-623e-4c0f-a0d3-82d7b343f177",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.149516",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.149516",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Pewna metoda implementacji algorytmów uczenia i generowania odpowiedzi w dyskretnej sieci Hopfielda wykorzystująca architektury systoliczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.mazurkiewicz.6KAad62isnx/research-work/244e2ebc-1436-4a57-9d0c-cec44f1fd0a7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=100621"
+    }
+  ],
+  "tag_cloud": [
+    "data mining",
+    "perceptronwielowarstwowy",
+    "card game rules verification",
+    "expert system",
+    "analiza obrazu",
+    "system bezpieczeństwa",
+    "poezja",
+    "poker game",
+    "przetwarzanie języka naturalnego",
+    "rozpoznawanie obiektów"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa",
+  "slug": "janusz.rafałko",
+  "profile_id": "ZWHtnq20qAa",
+  "full_name": "dr inż. Janusz Rafałko",
+  "orcid": "0000-0002-5369-5868",
+  "orcid_url": "https://orcid.org/0000-0002-5369-5868",
+  "breadcrumb_name": "Janusz Rafałko",
+  "current_employment_summary": [
+    "Akademia Łomżyńska",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "przetwarzanie dźwięku i mowy",
+    "informatyka stosowana",
+    "sztuczna inteligencja",
+    "algorytmika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży Aktualna nazwa: Akademia Łomżyńska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "11 lat",
+      "duration": null,
+      "institution": "Uniwersytet w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikcja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        },
+        {
+          "label": "Akademia Łomżyńska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adjusting automatically marked voiced English allophone borders",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/publications/5cc08a61-448e-4e76-903a-eefcdb260e83",
+      "authors": "J. Rafałko , A. Czyzewski",
+      "publication_type": "Artykuł , 2019 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)",
+      "year": "2019",
+      "doi": "10.23919/spa.2019.8936805",
+      "doi_url": "https://www.doi.org/10.23919/spa.2019.8936805",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Algorithm of Allophone Borders Correction in Automatic Segmentation of Acoustic Units",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/publications/586749a9-f579-496f-b27a-5a8cdaf32a69",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.1007/978-3-319-45378-1_41",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-45378-1_41",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Algorithms for automatic selection of allophones to the acoustic units database",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/publications/6190096c-75d8-45fb-9711-99f6095afe54",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-319-59105-6_19",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-59105-6_19",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy automatyzacji tworzenia baz jednostek akustycznych w syntezie mowy polskiej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rafa%C5%82ko.ZWHtnq20qAa/research-work/c5580ecb-7584-449f-8979-365aed29525b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270740"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

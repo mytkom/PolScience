@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY",
+  "slug": "paweł.mazuro",
+  "profile_id": "V2TvukLWoZY",
+  "full_name": "dr inż. Paweł Michał Mazuro",
+  "orcid": "0000-0002-1313-3908",
+  "orcid_url": "https://orcid.org/0000-0002-1313-3908",
+  "breadcrumb_name": "Paweł Mazuro",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Effect of variable geometry turbocharger on the performance of the opposed piston engine – An experimental approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/publications/bef90c11-2cd2-4931-9de5-6b986254c624",
+      "authors": "P. Mazuro , D. Kozak",
+      "publication_type": "Artykuł , Applied Thermal Engineering",
+      "year": "2024",
+      "doi": "10.1016/j.applthermaleng.2023.121602",
+      "doi_url": "https://www.doi.org/10.1016/j.applthermaleng.2023.121602",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical Analysis of Two-Stage Turbine System for Multicylinder Engine under Pulse Flow Conditions with High Pressure-Ratio Turbine Rotor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/publications/07d8d78e-0fda-4222-af6c-a731c82906e5",
+      "authors": "P. Mazuro , D. Kozak",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16020751",
+      "doi_url": "https://www.doi.org/10.3390/en16020751",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental investigation on the performance of the prototype of aircraft Opposed-Piston engine with various values of intake pressure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/publications/b577d035-99fb-4b22-b1c5-ccbb141abcd9",
+      "authors": "P. Mazuro , D. Kozak",
+      "publication_type": "Artykuł , Energy Conversion and Management",
+      "year": "2022",
+      "doi": "10.1016/j.enconman.2022.116075",
+      "doi_url": "https://www.doi.org/10.1016/j.enconman.2022.116075",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Silniki tłokowe o osi cylindrów równoległej do osi wału - teoria i praktyka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.mazuro.V2TvukLWoZY/research-work/39135ebf-9bce-4f83-8b64-6c4c9c5d543c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=202277"
+    }
+  ],
+  "tag_cloud": [
+    "engine pistons",
+    "rotor",
+    "opposed-piston",
+    "cai",
+    "cfd",
+    "hcci",
+    "internal combustion engine",
+    "avl fire",
+    "syngaz",
+    "syngas"
+  ],
+  "coworkers": []
+}

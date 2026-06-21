@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7",
+  "slug": "marcin.nowak",
+  "profile_id": "pN1duK2oVz7",
+  "full_name": "dr inż. Marcin Łukasz Nowak",
+  "orcid": "0000-0001-5005-7820",
+  "orcid_url": "https://orcid.org/0000-0001-5005-7820",
+  "breadcrumb_name": "Marcin Nowak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Inżynierii Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/68b16673-6291-4d00-bba5-42cc14500fb7"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "finanse i rachunkowość",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Bankowa w Poznaniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "zarządzanie",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Bankowa w Poznaniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Integrating Explainable AI (XAI) and NCA-Validated Clustering for an Interpretable Multi-Layered Recruitment Model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/publications/3042357b-1f93-42db-ad07-d9605c2dd14e",
+      "authors": "M. Nowak , M. Pawłowska-Nowak",
+      "publication_type": "Artykuł , AI",
+      "year": "2026",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Spadek zaangażowania organizacyjnego – ciche i bierne odchodzenie",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/publications/38508462-265c-4821-ab8c-5b5dd2c84022",
+      "authors": null,
+      "publication_type": "Książka , Polskie Towarzystwo Ekonomiczne Oddział w Poznaniu",
+      "year": "2026",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An Integrated Structural Equation Modeling and Machine Learning Framework for Measurement Scale Evaluation – Application to Voluntary Turnover Intentions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/publications/9dae3012-0d16-4db5-9e3c-3c4b23380c9a",
+      "authors": "M. Nowak , R. Zajkowski",
+      "publication_type": "Artykuł , AppliedMath",
+      "year": "2025",
+      "doi": "10.20944/preprints202507.0938.v1;10.3390/appliedmath5030105",
+      "doi_url": "https://www.doi.org/10.20944/preprints202507.0938.v1;10.3390/appliedmath5030105",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie prakseologicznych uwarunkowań stosowania metody DEA diagnozowania efektywności w przedsiębiorstwach produkcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowak.pN1duK2oVz7/research-work/4b314540-672d-4aec-8377-f28b7cfffd61",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287232"
+    }
+  ],
+  "tag_cloud": [
+    "grey incidence analysis",
+    "topsis",
+    "voluntary employee turnover",
+    "economic convergence",
+    "grey system theory",
+    "machine learning",
+    "grey systems theory",
+    "regional operational programs",
+    "grey whitenization model",
+    "regional development"
+  ],
+  "coworkers": []
+}

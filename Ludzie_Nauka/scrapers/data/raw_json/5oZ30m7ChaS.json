@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS",
+  "slug": "artur.laskowski",
+  "profile_id": "5oZ30m7ChaS",
+  "full_name": "mgr inż. Artur Laskowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Artur Laskowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Genome-scale de novo assembly using ALGA",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/publications/4ffe8a32-5e3b-4a7d-be7f-c9145100c90b",
+      "authors": "J. Badura, S. Swat, A. Laskowski , ... (+5)",
+      "publication_type": "Artykuł , BIOINFORMATICS",
+      "year": "2021",
+      "doi": "10.1093/bioinformatics/btab005",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btab005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Chessboard and Chess Piece Recognition With the Support of Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/publications/656c3aa6-7aff-48e1-88a6-5a2224d86803",
+      "authors": "A. Laskowski , M. Czyżewski, S. Wąsik",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2020",
+      "doi": "10.2478/fcds-2020-0014",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2020-0014",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Survey on Online Judge Systems and Their Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.laskowski.5oZ30m7ChaS/publications/68ce262b-17e6-4c50-9f26-ecfedd284ed1",
+      "authors": "J. Badura, A. Laskowski , T. Sternal, ... (+2)",
+      "publication_type": "Artykuł , ACM COMPUTING SURVEYS",
+      "year": "2018",
+      "doi": "10.1145/3143560",
+      "doi_url": "https://www.doi.org/10.1145/3143560",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "sequence",
+    "chessboard recognition",
+    "neural networks",
+    "contest",
+    "bruijn graphs",
+    "chess",
+    "crowdsourcing",
+    "evaluation as a service",
+    "chessboard detection",
+    "chess pieces recognition"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO",
+  "slug": "joanna.komorniczak",
+  "profile_id": "8rNrhLmvDpO",
+  "full_name": "dr inż. Joanna Komorniczak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Joanna Komorniczak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2021",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Taking class imbalance into account in open set recognition evaluation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/publications/e16c9ce4-b11d-4aea-89a2-e3b26136b650",
+      "authors": "J. Komorniczak , P. Ksieniewicz",
+      "publication_type": "Artykuł , Neural Computing and Applications",
+      "year": "2025",
+      "doi": "10.1007/s00521-024-10960-2",
+      "doi_url": "https://www.doi.org/10.1007/s00521-024-10960-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Unsupervised concept drift detection based on parallel activations of neural network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/publications/546bee21-e6de-4be8-ab46-dc04cfeaa4ff",
+      "authors": "J. Komorniczak , P. Ksieniewicz",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-82346-6_8",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-82346-6_8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Certainty-based neural network architecture selection framework for TinyML systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/publications/d774b213-398e-48cc-97d1-09ea33b0b4e6",
+      "authors": "J. Komorniczak , T. Puślecki, P. Ksieniewicz, ... (+1)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2024",
+      "doi": "10.1109/access.2024.3482111",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3482111",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Non-stationary data stream processing with metafeature analysis",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.komorniczak.8rNrhLmvDpO/research-work/29051b53-c2c9-452c-995c-e04e0097606d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

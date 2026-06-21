@@ -1,0 +1,200 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L",
+  "slug": "roman.szostek",
+  "profile_id": "BZalIqc990L",
+  "full_name": "dr inż. Roman Szostek",
+  "orcid": "0000-0002-5904-9760",
+  "orcid_url": "https://orcid.org/0000-0002-5904-9760",
+  "breadcrumb_name": "Roman Szostek",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "automatyka",
+    "elektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2cb4e33a-bb7e-4220-9821-896895006f20",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Akademia Górniczo-Hutnicza im. Stanisława Staszica, Wydział Elektrotechniki, Automatyki, Informatyki i Elektroniki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The concept of a mechanical system for measuring the one-way speed of light",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/publications/b81f8378-17ff-4ed8-b087-c3b5ee2668a8",
+      "authors": "K. Szostek, R. Szostek",
+      "publication_type": "Artykuł , Technical Transactions",
+      "year": "2023",
+      "doi": "10.37705/techtrans/e2023003",
+      "doi_url": "https://www.doi.org/10.37705/techtrans/e2023003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Explanation of What Time in Kinematics Is and Dispelling Myths Allegedly Stemming from the Special Theory of Relativity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/publications/b1081217-8333-4d2b-bb27-7324d61d1032",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2022",
+      "doi": "10.3390/app12126272",
+      "doi_url": "https://www.doi.org/10.3390/app12126272",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Existence of a Universal Frame of Reference, in Which it Propagates Light, is Still an Unresolved Problem of Physics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/publications/6f945f3c-b022-491d-b6f8-11a060bdf950",
+      "authors": "R. Szostek , K. Szostek",
+      "publication_type": "Artykuł , Jordan Journal of Physics",
+      "year": "2022",
+      "doi": "10.47011/15.5.3",
+      "doi_url": "https://www.doi.org/10.47011/15.5.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza procesów niemarkowskich i ich aproksymacja wybranymi procesami markowskimi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.szostek.BZalIqc990L/research-work/b46b0433-d243-4b38-ae32-c8aae34cfa74",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Roman-Szostek/publications"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/T-7485-2019"
+    },
+    {
+      "label": "Szczególna Teoria Eteru",
+      "url": "http://www.ste.com.pl"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP",
+  "slug": "janusz.klink",
+  "profile_id": "CMdZ40COLMP",
+  "full_name": "dr inż. Janusz Henryk Klink",
+  "orcid": "0000-0002-1274-1725",
+  "orcid_url": "https://orcid.org/0000-0002-1274-1725",
+  "breadcrumb_name": "Janusz Klink",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyfrowe sieci z integracją usług (ISDN)"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluation of video streaming quality degradation in lossy environment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/publications/31b51091-3fd8-4af8-8fce-af4e47fc497c",
+      "authors": "J. Klink , M. Łuczyński, J. Frnda, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Subjective video quality assessment using Single and Double Stimulus methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/publications/2ea91430-392a-4e48-a021-3c804ecbd0b9",
+      "authors": "J. Klink , M. Łuczyński, S. Brachmański",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155481",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155481",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The use of machine learning in modeling video quality assessment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/publications/7b7226a3-a955-4e59-bda5-7880fcfc8219",
+      "authors": "J. Klink , M. Łuczyński, T. Uhl",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.23919/softcom62040.2024.10722023",
+      "doi_url": "https://www.doi.org/10.23919/softcom62040.2024.10722023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja algorytmu dostępu użytkownika do sieci ISDN",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.klink.CMdZ40COLMP/research-work/92337c97-b111-430a-9531-e56e4df04b88",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=91357"
+    }
+  ],
+  "tag_cloud": [
+    "dostęp do internetu",
+    "sms",
+    "jakość usług",
+    "mpeg-dash",
+    "qoe",
+    "qos",
+    "ocena jakości",
+    "vp9",
+    "service quality",
+    "voip"
+  ],
+  "coworkers": []
+}

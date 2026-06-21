@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb",
+  "slug": "łukasz.karbowiak",
+  "profile_id": "Q9dfZ1oWfbb",
+  "full_name": "dr inż. Łukasz Karbowiak",
+  "orcid": "0000-0003-4389-5548",
+  "orcid_url": "https://orcid.org/0000-0003-4389-5548",
+  "breadcrumb_name": "Łukasz Karbowiak",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Lightweight Algorithm for Synchronized Multimodal Data Acquisition Using Temporal Sample Alignment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/publications/89b99219-a5fc-4701-b24d-0dce9d8b8ab0",
+      "authors": "J. Piątkowski, Ł. Karbowiak , F. Depta",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-07797-7",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-07797-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated Evaluation of Pavement Marking Quality Based on Multi-Sensor Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/publications/32c1566d-d774-4f4f-87be-86a1b605639c",
+      "authors": "J. Kulawik, Ł. Karbowiak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.148",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.148",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design and Deployment of an Edge-Aware MLOps System for Multimodal Sensor Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/publications/0b48d705-c150-4562-86a2-9850dbc3faca",
+      "authors": "Ł. Karbowiak , J. Piątkowski, Ł. Kuczyński",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.5",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "„System wykrywania sytuacji nietypowych w obrębie pojazdów z wykorzystaniem obrazów oraz map głębi, bazujący na uczeniu głębokim”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.karbowiak.Q9dfZ1oWfbb/research-work/8cd769b3-c510-47d3-aef6-d5974cb52e83",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "radar",
+    "cybersecurity",
+    "autonomous car",
+    "edge computing",
+    "lidar-lite v3",
+    "traffic and pedestrian safety",
+    "behavioral analysis",
+    "physical and environmental security",
+    "artificial intelligence",
+    "us-015"
+  ],
+  "coworkers": []
+}

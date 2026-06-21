@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq",
+  "slug": "piotr.pałka",
+  "profile_id": "2jw0OPIzuLq",
+  "full_name": "dr inż. Piotr Pałka",
+  "orcid": "0000-0002-0006-363X",
+  "orcid_url": "https://orcid.org/0000-0002-0006-363X",
+  "breadcrumb_name": "Piotr Pałka",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy wieloagentowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An energy balance climate model for Mars represented by 4002 Goldberg polyhedrals with applications to ground ice re-distribution driven by obliquity cycles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/publications/794f1079-f3f1-4d25-ba69-b366ac8504f7",
+      "authors": "R. Olszewski, P. Pałka , A. Wendland, ... (+3)",
+      "publication_type": "Artykuł , Planetary and Space Science",
+      "year": "2025",
+      "doi": "10.1016/j.pss.2025.106077",
+      "doi_url": "https://www.doi.org/10.1016/j.pss.2025.106077",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "An integrated algorithm for single lead electrocardiogram signal analysis using deep learning with 12-lead data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/publications/ee504271-2291-410d-bc4c-6d7ff95467bd",
+      "authors": "M. Safdar, R. Nowak, P. Pałka , ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-18910-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-18910-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Planning and Scheduling System for Electric Vehicle Charging",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/publications/76655170-9d24-472e-a9c5-d574db13a5c9",
+      "authors": "P. Pałka , P. Palka, T. Sliwinski, ... (+10)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3583929",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3583929",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza zgodności motywacji mechanizmów wieloagentowej platformy wymiany towarowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/research-work/c7cded54-0d9e-4288-b7d5-b206ee8848ca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda oceny wpływu magazynowania energii na operacyjne planowanie pracy elektrociepłowni",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.pa%C5%82ka.2jw0OPIzuLq/research-work/1aa5f69e-254e-4bf9-b9f6-55d38e0e8646",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=224327"
+    }
+  ],
+  "tag_cloud": [
+    "decomposition",
+    "optimal power flow",
+    "data mining",
+    "metadata",
+    "agent-based modeling (abm)",
+    "community-led local development (clld)",
+    "multi-agent systems",
+    "spatiotemporal modeling",
+    "linear optimization",
+    "long-term archiving"
+  ],
+  "coworkers": []
+}

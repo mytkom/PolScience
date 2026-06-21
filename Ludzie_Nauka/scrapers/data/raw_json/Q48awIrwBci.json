@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci",
+  "slug": "piotr.knyziak",
+  "profile_id": "Q48awIrwBci",
+  "full_name": "dr inż. Piotr Knyziak",
+  "orcid": "0000-0003-1037-8659",
+  "orcid_url": "https://orcid.org/0000-0003-1037-8659",
+  "breadcrumb_name": "Piotr Knyziak",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Wyższa Szkoła Handlu i Finansów Międzynarodowych im. Fryderyka Skarbka w likwidacji w Warszawie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje budowlane i inżynierskie",
+    "diagnostyka budowli",
+    "systemy CAD/CAM/CAE",
+    "metody komputerowe w inżynierii",
+    "metody obliczeniowe",
+    "techniki sztucznej inteligencji",
+    "systemy informatyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Handlu i Finansów Międzynarodowych im. Fryderyka Skarbka w Warszawie Aktualna nazwa: Wyższa Szkoła Handlu i Finansów Międzynarodowych im. Fryderyka Skarbka w likwidacji w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f37d6fa1-2697-49d8-b920-bf3da02a586f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "25 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Wyższa Szkoła Handlu i Finansów Międzynarodowych im. Fryderyka Skarbka w likwidacji w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f37d6fa1-2697-49d8-b920-bf3da02a586f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f99459a0-12ff-4940-87a5-175328e8e031"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Failure mechanisms of prefabricated multi-family buildings under gas explosions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/publications/c0451929-11fa-4c4b-b228-086748a110cb",
+      "authors": null,
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.engfailanal.2025.109548",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2025.109548",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Semi-destructive testing methods for examining the structural condition of historic buildings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/publications/52652ab7-dbbe-4ec3-afc4-c1c00231d3cc",
+      "authors": "P. Knyziak , S. Spodzieja, J. Krentowski, ... (+5)",
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.engfailanal.2025.109354",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2025.109354",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Structural assessment of railway viaducts reinforced with steel beams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/publications/18a549a1-c546-496a-801a-258ef6ce164f",
+      "authors": "P. Bilko, S. Sawczyński, P. Knyziak , ... (+1)",
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.engfailanal.2025.109941",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2025.109941",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza stanu technicznego prefabrykowanych budynków mieszkalnych za pomocą sztucznych sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.knyziak.Q48awIrwBci/research-work/5d7f79cf-31e4-4fe0-97aa-f3cf5a47e486",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214622"
+    }
+  ],
+  "tag_cloud": [
+    "xps",
+    "concrete spalling",
+    "budownictwo prefabrykowane",
+    "wielka płyta",
+    "modernizacja",
+    "budownictwo wielkopłytowe",
+    "din 1052:2004-08",
+    "strengthening",
+    "building structures",
+    "degradation"
+  ],
+  "coworkers": []
+}

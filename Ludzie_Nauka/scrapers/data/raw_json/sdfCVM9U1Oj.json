@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj",
+  "slug": "andrzej.pawluczuk",
+  "profile_id": "sdfCVM9U1Oj",
+  "full_name": "mgr inż. Andrzej Pawluczuk",
+  "orcid": "0000-0002-8885-5657",
+  "orcid_url": "https://orcid.org/0000-0002-8885-5657",
+  "breadcrumb_name": "Andrzej Pawluczuk",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The first experimental tests of novel bivalent hybrid ejector-compressor refrigeration system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/publications/78b3e346-a7af-441b-b763-372d7e4d040b",
+      "authors": "J. Gagan, K. Śmierciew, A. Pawluczuk , ... (+3)",
+      "publication_type": "Artykuł , Energy",
+      "year": "2025",
+      "doi": "10.1016/j.energy.2025.134646",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2025.134646",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental assessment of the first industrial implementation of ejector refrigeration system operating with R1233zd(e) driven by ultra-low temperature heat source",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/publications/29272e7c-c114-4ef6-9e09-8df8360afb11",
+      "authors": "J. Gagan, K. Śmierciew [...] A. Pawluczuk , ... (+6)",
+      "publication_type": "Artykuł , International Journal of Refrigeration",
+      "year": "2023",
+      "doi": "10.1016/j.ijrefrig.2023.07.003",
+      "doi_url": "https://www.doi.org/10.1016/j.ijrefrig.2023.07.003",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Flue gas cleaning approach based on jet reactor prototype research",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.pawluczuk.sdfCVM9U1Oj/publications/59210bb2-6cf4-4a78-b6e3-7181d1c43de8",
+      "authors": "J. Gagan, K. Śmierciew [...] A. Pawluczuk , ... (+5)",
+      "publication_type": "Artykuł , Journal of Cleaner Production",
+      "year": "2023",
+      "doi": "10.1016/j.jclepro.2023.138033",
+      "doi_url": "https://www.doi.org/10.1016/j.jclepro.2023.138033",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

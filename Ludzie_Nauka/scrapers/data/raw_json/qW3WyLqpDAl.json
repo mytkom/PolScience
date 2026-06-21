@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl",
+  "slug": "witold.oleszkiewicz",
+  "profile_id": "qW3WyLqpDAl",
+  "full_name": "dr inż. Witold Oleszkiewicz",
+  "orcid": "0000-0002-7234-393X",
+  "orcid_url": "https://orcid.org/0000-0002-7234-393X",
+  "breadcrumb_name": "Witold Oleszkiewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Visual probing : cognitive framework for explaining self-supervised image representations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/publications/05641ca0-9ab2-4b12-bab1-878ba1037b18",
+      "authors": "W. Oleszkiewicz , B. Zieliński, T. Trzciński, ... (+6)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2023",
+      "doi": "10.1109/access.2023.3242982",
+      "doi_url": "https://www.doi.org/10.1109/access.2023.3242982",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Differences between human and machine perception in medical diagnosis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/publications/f7b3ecc2-eaf2-43da-8b27-45e8469e611e",
+      "authors": "W. Oleszkiewicz , T. Makino, S. Jastrzębski, ... (+18)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-10526-z",
+      "doi_url": "https://www.doi.org/10.1038/s41598-022-10526-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Which Visual Features Impact the Performance of Target Task in Self-supervised Learning?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/publications/f08063b1-2ff6-462d-8477-0c531f41b4d0",
+      "authors": "W. Oleszkiewicz , D. Basaj, T. Trzciński, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.1007/978-3-031-08751-6_24",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-08751-6_24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wyjaśnialne uczenie maszynowe z zastosowaniem konceptów zrozumiałych dla człowieka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.oleszkiewicz.qW3WyLqpDAl/research-work/b5ed697c-6114-4e3f-abd9-6904c0627969",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

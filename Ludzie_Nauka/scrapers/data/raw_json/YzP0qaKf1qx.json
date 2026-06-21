@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx",
+  "slug": "jarosław.szwedowicz",
+  "profile_id": "YzP0qaKf1qx",
+  "full_name": "dr hab. inż. Jarosław Szwedowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jarosław Szwedowicz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1985",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reliable predictions of manufacturing and assembly tolerances impact on aero-turbine bladed disc frequency scatters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/publications/75f71e9e-022b-4a3b-a7c4-848d7139e972",
+      "authors": "J. Szwedowicz , A. Doligalski, G. Moneta",
+      "publication_type": "Artykuł , Mechanical Systems and Signal Processing",
+      "year": "2025",
+      "doi": "10.1016/j.ymssp.2025.112481",
+      "doi_url": "https://www.doi.org/10.1016/j.ymssp.2025.112481",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modyfikacja metodyki projektowania łopatek turbin parowych, gazowych oraz turbosprężarek z uwzględnieniem wysokocyklicznego zmęczenia materiału i wpływu kontaktu mechanicznego na drgania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/research-work/cabd5200-546b-4310-9014-5635f383bfb1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza dynamiki manipulatora o podatnych członach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.szwedowicz.YzP0qaKf1qx/research-work/588f3bf9-ae4d-4928-9f83-a131f6e3de19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=305117"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

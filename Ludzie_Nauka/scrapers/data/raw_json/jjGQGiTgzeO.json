@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO",
+  "slug": "robert.sika",
+  "profile_id": "jjGQGiTgzeO",
+  "full_name": "dr inż. Robert Sika",
+  "orcid": "0000-0002-6025-5748",
+  "orcid_url": "https://orcid.org/0000-0002-6025-5748",
+  "breadcrumb_name": "Robert Sika",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie procesów produkcyjnych",
+    "akwizycja danych produkcyjnych",
+    "eksploracja danych",
+    "odlewnictwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Determination of Saturation Conditions of the Aluminum Metal Matrix Composites Reinforced with Al2O3 Sinter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/publications/b0661044-375f-4faf-8c1f-cc8bc0e33018",
+      "authors": "P. Szymański, P. Popielarski [...] R. Sika , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma16186106",
+      "doi_url": "https://www.doi.org/10.3390/ma16186106",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of the Conveyor Line System Using Computer Simulation on the Example of a Modern Warehouse",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/publications/16934a3a-5e68-42ba-a79f-81b2d2870133",
+      "authors": "R. Sika , E. Gawron, M. Rogalewicz",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2023",
+      "doi": "10.12913/22998624/159103",
+      "doi_url": "https://www.doi.org/10.12913/22998624/159103",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparison of Selected ERP Systems Supporting the Production Planning and Control on the Example of Automotive Industry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/publications/d57d0465-7d4d-400a-a4d2-616191e53d6b",
+      "authors": "R. Sika , J. Hajkowski, O. Wojtala",
+      "publication_type": "Artykuł , Management and Production Engineering Review",
+      "year": "2022",
+      "doi": "10.24425/mper.2022.142381",
+      "doi_url": "https://www.doi.org/10.24425/mper.2022.142381",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.sika.jjGQGiTgzeO/research-work/ea30475d-c0fe-4c50-90bc-2f338c8a2e8f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=225662"
+    }
+  ],
+  "tag_cloud": [
+    "high-pressure die-casting",
+    "micromodeling",
+    "micromodel",
+    "aluminum alloys",
+    "aluminum metal matrix composites",
+    "microstructure",
+    "energy balance",
+    "mechanical properties",
+    "database",
+    "castability"
+  ],
+  "coworkers": []
+}

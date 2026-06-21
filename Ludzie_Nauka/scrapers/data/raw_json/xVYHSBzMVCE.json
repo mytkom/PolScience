@@ -1,0 +1,277 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE",
+  "slug": "aleksandra.sas-bojarska",
+  "profile_id": "xVYHSBzMVCE",
+  "full_name": "prof. dr hab. inż. arch. Aleksandra Sas-Bojarska",
+  "orcid": "0000-0001-6558-5888",
+  "orcid_url": "https://orcid.org/0000-0001-6558-5888",
+  "breadcrumb_name": "Aleksandra Sas-Bojarska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "planowanie przestrzenne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "39 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 lat",
+      "duration": null,
+      "institution": "Sopocka Szkoła Wyższa z siedzibą w Sopocie Aktualna nazwa: Sopocka Akademia Nauk Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce4dd171-ea6a-4e21-9982-6181689f7c0e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki inżynieryjno - techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "planowanie przestrzenne i architektura",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/gremiums/999db877-90b1-4405-a8be-919d07f72c07",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Landscape, EIA and decision-making. A case study of the Vistula Spit Canal, Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/publications/da7af790-2e7a-4ad2-85f1-406f7296a73b",
+      "authors": "A. Sas-Bojarska , I. Orzechowska-Szajda, K. Puzdrakiewicz, ... (+1)",
+      "publication_type": "Artykuł , Impact Assessment and Project Appraisal",
+      "year": "2024",
+      "doi": "10.1080/14615517.2023.2273612",
+      "doi_url": "https://www.doi.org/10.1080/14615517.2023.2273612",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The Changing Nature of In‐Between Spaces in the Transformation Process of Cities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/publications/232fe7af-ff5f-41d9-b84a-c7d9f5634810",
+      "authors": "M. Rembeza, A. Sas-Bojarska",
+      "publication_type": "Artykuł , Urban Planning",
+      "year": "2022",
+      "doi": "10.17645/up.v7i1.4444",
+      "doi_url": "https://www.doi.org/10.17645/up.v7i1.4444",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Landscape as a Potential Key Concept in Urban Environmental Planning: The Case of Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/publications/c8c281d2-6813-49ac-93a9-34a022902d11",
+      "authors": null,
+      "publication_type": "Artykuł , Urban Planning",
+      "year": "2021",
+      "doi": "10.17645/up.v6i3.4044",
+      "doi_url": "https://www.doi.org/10.17645/up.v6i3.4044",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przewidywanie zmian krajobrazowych w gospodarowaniu przestrzenią z wykorzystaniem ocen oddziaływania na środowisko na przykładzie transportu drogowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/d248406b-cc2e-4ed1-85b8-7d0b4a76f942",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda \"Oceny oddziaływań na środowisko\" w minimalizowaniu konfliktów na przykładzie Zespołu Energetycznego Żarnowiec",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/5d2e0e09-f6e0-4aa3-917e-50df70d2d160",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zielona infrastruktura miasta a wody opadowe. Potencjał zrównoważonego rozwoju Gdańska",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/d8c918ca-36f0-4764-b322-95ce9e62fbc6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie terapeutycznych właściwości krajobrazu w projektowaniu zielonych przestrzeni publicznych w mieście",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/e5257959-c4a9-4b28-ad18-66b1135ff3a6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Obłędne ogrody. Idea krajobrazu terapeutycznego w kompozycji zespołów szpitali psychiatrycznych XIX i początku XX wieku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/e24003be-23b8-4011-b1a8-975c498f4b16",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Miasto jako krajobraz",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/19a35b1c-015b-41da-9141-053611726559",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wartości humanistyczne jako kod genetyczny miasta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.sas-bojarska.xVYHSBzMVCE/research-work/b07b2e52-af3b-414e-a740-167f0b54d5a9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17235"
+    }
+  ],
+  "tag_cloud": [
+    "combining tools",
+    "capabilities",
+    "mobility",
+    "health-affirming landscape",
+    "eia",
+    "international landscape design workshops",
+    "landscape protection",
+    "prawna ochrona krajobrazu",
+    "eco-neighborhood",
+    "in‐between spaces"
+  ],
+  "coworkers": []
+}

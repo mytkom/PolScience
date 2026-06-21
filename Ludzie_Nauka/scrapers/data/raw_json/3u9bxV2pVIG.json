@@ -1,0 +1,222 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG",
+  "slug": "andrzej.wilk",
+  "profile_id": "3u9bxV2pVIG",
+  "full_name": "dr hab. inż. Andrzej Wilk",
+  "orcid": "0000-0002-5265-6189",
+  "orcid_url": "https://orcid.org/0000-0002-5265-6189",
+  "breadcrumb_name": "Andrzej Wilk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektrotechniki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f9620d4-9201-44d1-bea8-35f65adf06bd"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Elektryczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budowa maszyn i urządzeń elektrycznych",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Multi-Receiver GNSS System Geometry Control Algorithm in Mobile Measurement of Railway Track Axis Position",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/publications/d61e85e3-fbd6-4e2f-947d-7409f6ec6f3f",
+      "authors": "J. Skibicki, A. Wilk , W. Koc, ... (+8)",
+      "publication_type": "Artykuł , Remote Sensing",
+      "year": "2025",
+      "doi": "10.3390/rs17142461",
+      "doi_url": "https://www.doi.org/10.3390/rs17142461",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Empirical Model of a High-Temperature Proton Exchange Membrane Fuel Cell for Diagnostics Based on Test Without Active Gases Procedure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/publications/2edeb193-2208-4707-9032-4313015aba68",
+      "authors": "W. Rosiński, S. Potrykus, A. Wilk",
+      "publication_type": "Artykuł , TASK Quarterly",
+      "year": "2025",
+      "doi": "10.34808/tq2025/29.2/a",
+      "doi_url": "https://www.doi.org/10.34808/tq2025/29.2/a",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Processing and analysis of trolleybus traction data using LINQ technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/publications/ea8424f3-edc2-447c-bc3c-4ccfd9762bcb",
+      "authors": "A. Wilk , M. Bartłomiejczyk, J. Skibicki, ... (+8)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154144",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154144",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/research-work/2d07a41e-f4ae-41a0-b322-cc3c838ae720",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wlaściwości komutacyjne szczotek monolitycznych anizotropowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/research-work/68b61122-b7ce-4b3f-a2dd-c160c0c632f0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Strategia zarządzania energią w wieloźródłowych układach zasilania stosowanych w pojazdach elektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wilk.3u9bxV2pVIG/research-work/63ba099f-0624-4ec6-9ed3-141f7a44a0df",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=26395"
+    }
+  ],
+  "tag_cloud": [
+    "accuracy",
+    "sensor data pre-processing",
+    "gnss measurements",
+    "accuracy analysis",
+    "tram track",
+    "railway track axis",
+    "satellite measurements",
+    "gnss",
+    "signal reception conditions",
+    "electric traction"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,231 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT",
+  "slug": "jolanta.puacz-olszewska",
+  "profile_id": "DZMgmmxmWIT",
+  "full_name": "dr hab. Jolanta Puacz-Olszewska",
+  "orcid": "0000-0002-8034-4502",
+  "orcid_url": "https://orcid.org/0000-0002-8034-4502",
+  "breadcrumb_name": "Jolanta Puacz-Olszewska",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/669fee72-713b-4509-99a3-81f522cb7159",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk społecznych / ekonomia i finanse",
+        "Nadanie stopnia",
+        "Wyższa Szkoła Ubezpieczeń i Finansów - Sofia (Висше училище по застраховане и финанси - Higher School Of Insurance And Finance) • Bułgaria",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki humanistyczne / nauki o polityce",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie; Wydział Politologii i Dziennikarstwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1815695d-3c87-41aa-8c42-d53f8d2bec38"
+        },
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "politologia",
+        "Nadanie tytułu",
+        "AKADEMIA PEDAGOGICZNA IM. KOMISJI EDUKACJI NARODOWEJ W KRAKOWIE",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2003",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "politologia",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA SPOŁECZNO-GOSPODARCZA W TYCZYNIE",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wybory parlamentarne, prezydenckie i samorządowe na Podkarpaciu w latach 1990-2007 : studium przypadku na przykładzie partii politycznej Sojuszu Lewicy Demokratycznej : między polityką a bezpieczeństwem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/publications/b00432ac-a533-4ec5-8224-ae65b1941187",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Militarne i polityczne aspekty rosyjsko-ukraińskiego konfliktu zbrojnego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/publications/58bd14b3-9a1f-4884-a858-37a900244d34",
+      "authors": null,
+      "publication_type": "Artykuł , Annales Universitatis Paedagogicae Cracoviensis, Studia Politologica",
+      "year": "2024",
+      "doi": "10.24917/20813333.33.3",
+      "doi_url": "https://www.doi.org/10.24917/20813333.33.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Bezpieczeństwo finansowe w Rzeczpospolitej Polskiej (2015-2022)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/publications/3ebe10dc-076d-400e-813e-2d6ba23f74fd",
+      "authors": null,
+      "publication_type": "Książka , Българска академия на науките",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sojusz Lewicy Demokratycznej w wyborach na Podkarpaciu (1990-2007)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/research-work/5939bf4a-b5ad-4654-a757-4370b71ee87c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Polityczne, gospodarcze i techniczne aspekty przeobrażeń sektora gazu ziemnego w Polsce po przełomie 1989 roku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.puacz-olszewska.DZMgmmxmWIT/research-work/ef25688f-9c8c-470e-997d-12c1a784c238",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=232114"
+    }
+  ],
+  "tag_cloud": [
+    "threat",
+    "european union",
+    "terrorism",
+    "security",
+    "financial security",
+    "pandemic",
+    "financial system",
+    "enterprise",
+    "republic of poland",
+    "bezpieczeństwo państwa"
+  ],
+  "coworkers": []
+}

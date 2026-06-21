@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk",
+  "slug": "izabela.żółtowska",
+  "profile_id": "GbL3a7Kdsgk",
+  "full_name": "dr inż. Izabela Magdalena Żółtowska",
+  "orcid": "0000-0002-6563-099X",
+  "orcid_url": "https://orcid.org/0000-0002-6563-099X",
+  "breadcrumb_name": "Izabela Żółtowska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania operacyjne",
+    "optymalizacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multi-criteria MILP model for geo-distributed cloud configuration with advanced client preference integration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/publications/7a51d4aa-40b3-4cd9-bd6b-c332369c3d88",
+      "authors": "I. Żółtowska , K. Kozerski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155482",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155482",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Transformer-based placement heuristic for online 2D strip packing problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/publications/e9a2bfbf-99d9-4d1f-8d78-5f4c8ed0ed33",
+      "authors": "M. Kaleta, I. Żółtowska , W. Kołodziejczyk",
+      "publication_type": "Artykuł , Computers and Industrial Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.cie.2025.111464",
+      "doi_url": "https://www.doi.org/10.1016/j.cie.2025.111464",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Zastosowania dowodów wiedzy zerowej do uwierzytelniania obliczeń optymalizacyjnych na lokalnych rynkach energii LEM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/publications/cdbb44c8-f736-4d63-b50c-125d5795f260",
+      "authors": "I. Żółtowska , D. Czerwińska",
+      "publication_type": "Artykuł , Cybersecurity and Law",
+      "year": "2025",
+      "doi": "10.35467/cal/215975",
+      "doi_url": "https://www.doi.org/10.35467/cal/215975",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele optymalizacyjne wspomagania decyzji wytwórców na rynku energii elektrycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/izabela.%C5%BC%C3%B3%C5%82towska.GbL3a7Kdsgk/research-work/bf86879e-0c7e-4cc6-a115-1c32e3f8a210",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=205494"
+    }
+  ],
+  "tag_cloud": [
+    "q-learning",
+    "double auction",
+    "aggregator",
+    "mixed-integer linear programming",
+    "smart grid",
+    "storage control",
+    "neural networks",
+    "energy management",
+    "deep reinforcement learning",
+    "coordinated charging"
+  ],
+  "coworkers": []
+}

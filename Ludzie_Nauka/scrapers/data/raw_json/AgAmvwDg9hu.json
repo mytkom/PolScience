@@ -1,0 +1,219 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu",
+  "slug": "roman.morawski",
+  "profile_id": "AgAmvwDg9hu",
+  "full_name": "prof. dr hab. Roman Zdzisław Morawski",
+  "orcid": "0000-0002-2231-0048",
+  "orcid_url": "https://orcid.org/0000-0002-2231-0048",
+  "breadcrumb_name": "Roman Morawski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk humanistycznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnałów pomiarowych",
+    "metrologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Etyki w Nauce",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/gremiums/28278ea4-ce30-4d88-b572-fafe767983a4",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Metrologii i Aparatury Naukowej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/gremiums/88069048-b142-408b-8351-3823db0515e2",
+      "period": "-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of data-processing procedures for fall detection in impulse-radar-based systems for monitoring human activity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/publications/bbfbace0-0a5f-459c-a1b3-571e34e24998",
+      "authors": "S. Kruszewski, P. Mazurek, R. Morawski",
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2025",
+      "doi": "10.1109/jsen.2025.3583638",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2025.3583638",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Introduction to Numerical Methods with 245 Solved Problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/publications/751dfb3d-8091-4e03-b974-7ca58e9cd320",
+      "authors": "R. Morawski , A. Miękina",
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Teaching measurement science and technology in the times of pervasive AI",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/publications/681f7602-e8fe-4b37-916a-2fa0e1eb8ab5",
+      "authors": null,
+      "publication_type": "Artykuł , Measurement: Sensors",
+      "year": "2025",
+      "doi": "10.1016/j.measen.2024.101315",
+      "doi_url": "https://www.doi.org/10.1016/j.measen.2024.101315",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody odtwarzania sygnałów pomiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/15537516-a4cf-4bd8-b290-91ccf424563f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Bayesowska metoda estymacji stężeń w spektrometrycznej analizie substancji wieloskładnikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/58ce476c-f0dc-4fea-a38c-72bbde2c24cc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie wariacyjnych metod odtwarzania mezurandów do poprawiania dokładności analiz spektrometrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/ebc026e4-82cb-4683-9bb6-913391c571cc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metody interpolacji widma i metoda LIDFT w estymacji parametrów sygnału wieloczęstotliwościowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/16b33c37-3dc4-4c8b-a09e-87b3af8e27ca",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Fourierowskie metody estymacji -widm prążkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/a18d1987-f801-4c8c-889b-1f4937148fdf",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Obrazowanie struktury defektowej materiałów półizolujących z wykorzystaniem niestacjonarnej spektroskopii fotoprądowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/roman.morawski.AgAmvwDg9hu/research-work/680d050c-f100-42db-8491-e7edc80583cc",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59835"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

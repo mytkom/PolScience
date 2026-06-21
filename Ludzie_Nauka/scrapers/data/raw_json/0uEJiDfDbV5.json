@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5",
+  "slug": "natalia.kasian",
+  "profile_id": "0uEJiDfDbV5",
+  "full_name": "dr Natalia Kasian",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Natalia Kasian",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Light-induced control of selective Bragg diffraction of the oblique helicoidal cholesteric",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/publications/db0e8298-f26f-4ff7-b150-acbb807a4ac3",
+      "authors": "I. Gvozdovskyy, H. Bogatyryova, N. Kasian , ... (+2)",
+      "publication_type": "Artykuł , Applied Optics",
+      "year": "2025",
+      "doi": "10.1364/ao.544155",
+      "doi_url": "https://www.doi.org/10.1364/ao.544155",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Advances in multicomponent systems: Liquid crystal/nanoparticles/polymer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/publications/3bf47aeb-d5e8-49b8-9115-7f6e8331de03",
+      "authors": "M. Chychłowski, A. Gridyakina [...] N. Kasian , ... (+2)",
+      "publication_type": "Artykuł , Materials Today Physics",
+      "year": "2023",
+      "doi": "10.1016/j.mtphys.2023.101258",
+      "doi_url": "https://www.doi.org/10.1016/j.mtphys.2023.101258",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Oblique helicoidal state of the twist-bend nematic doped by chiral azo-compound",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.kasian.0uEJiDfDbV5/publications/c5856db0-c76f-4f0a-b0ea-e475f1e9c424",
+      "authors": "V. Chornous, A. Grozav [...] N. Kasian , ... (+4)",
+      "publication_type": "Artykuł , Liquid Crystals",
+      "year": "2023",
+      "doi": "10.1080/02678292.2023.2200267",
+      "doi_url": "https://www.doi.org/10.1080/02678292.2023.2200267",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

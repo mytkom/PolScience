@@ -1,0 +1,145 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq",
+  "slug": "julian.sawicki",
+  "profile_id": "GK5r6QJcNmq",
+  "full_name": "dr inż. Julian Sawicki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Julian Sawicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "podstawy konstrukcji maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Ekologii i Zarządzania w Warszawie Aktualna nazwa: Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1973",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "OPTYMALIZACJA KONSTRUKCJI WĘZŁA PŁASKIEGO DŹWIGARA KRATOWEGO",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/publications/a6665ab2-88e3-4688-bb41-af05f28b48ec",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza trwałości zmęczeniowej stożkowych połączeń wtłaczanych z uwzględnieniem stref odkształceń plastycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.sawicki.GK5r6QJcNmq/research-work/c910f248-166f-4cba-8e3f-d4052d83806d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=221254"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

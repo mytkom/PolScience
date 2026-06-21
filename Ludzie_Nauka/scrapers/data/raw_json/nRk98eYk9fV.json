@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV",
+  "slug": "krzysztof.bartecki",
+  "profile_id": "nRk98eYk9fV",
+  "full_name": "dr hab. inż. Krzysztof Waldemar Bartecki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Krzysztof Bartecki",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optymalizacja",
+    "systemy sterowania",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Elektrotechniki, Automatyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5ac0844c-243e-4d81-9cc1-5697d211a408"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / brak na dyplomie",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA INŻYNIERSKA W OPOLU",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Classical vs. neural network-based PCA approaches for lossy image compression: Similarities and differences",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/publications/f0bbbead-37b5-4413-97ad-ffc021c0662c",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Soft Computing Journal",
+      "year": "2024",
+      "doi": "10.1016/j.asoc.2024.111721",
+      "doi_url": "https://www.doi.org/10.1016/j.asoc.2024.111721",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multidirectional cascade of square MIMO LTI subsystems: Transfer function representation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/publications/7eae7182-af78-41a5-b2fb-759b53e1f814",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of the Franklin Institute",
+      "year": "2024",
+      "doi": "10.1016/j.jfranklin.2024.106888",
+      "doi_url": "https://www.doi.org/10.1016/j.jfranklin.2024.106888",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Predictive maintenance for electrical motors: Current approach and usage of artificial intelligence algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/publications/34bed41c-de74-4bc8-9020-a38c3307d2b2",
+      "authors": "T. Herzog, K. Bartecki",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/mmar62187.2024.10680808",
+      "doi_url": "https://www.doi.org/10.1109/mmar62187.2024.10680808",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelling and Analysis of Linear Hyperbolic Systems of Balance Laws",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work/ebb105be-d271-4daa-bca2-49322870b368",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie algorytmów neuronowych do optymalizacji pracy systemów grzewczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work/77be729c-d5c0-4ae4-aff6-bc2e779c8dbd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Cykl artykułów naukowych związany z projektowaniem systemów cyfrowych opartych o układy reprogramowalne oraz cztery osiągnięcia konstrukcyjne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work/b53ccbde-587e-44f2-afa6-d1428645c60c",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Krzysztof Bartecki",
+        "source": "Źródło danych: POL-on , Krzysztof Bartecki"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie nieustalonego przepływu gazu o zmiennym składzie w rurociągu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work/c9915c40-6d40-4d36-bea9-51ecb87a5263",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie algorytmów regulacji wielowymiarowej w problematyce wydajnej pracy sieci komputerowych z przełączaniem pakietów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bartecki.nRk98eYk9fV/research-work/9c71ad55-d0db-47e4-86cc-3e921910e2cc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=123220"
+    }
+  ],
+  "tag_cloud": [
+    "innovative technological line",
+    "method of lines",
+    "hyperbolic equations",
+    "frequency response",
+    "distributed parameter system",
+    "transfer function",
+    "approximation model",
+    "approximation",
+    "heat exchanger",
+    "steady state"
+  ],
+  "coworkers": []
+}

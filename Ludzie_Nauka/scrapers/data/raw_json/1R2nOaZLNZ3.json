@@ -1,0 +1,300 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3",
+  "slug": "krzysztof.giaro",
+  "profile_id": "1R2nOaZLNZ3",
+  "full_name": "prof. dr hab. inż. Krzysztof Giaro",
+  "orcid": "0000-0001-8741-860X",
+  "orcid_url": "https://orcid.org/0000-0001-8741-860X",
+  "breadcrumb_name": "Krzysztof Giaro",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania operacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Zarządzania im. Prof. Tadeusza Kotarbińskiego z siedzibą w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b0e6027-66e8-4ba2-8f04-552b398f1d8c",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Krzysztof Giaro"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/gremiums/4859c469-7ce8-4ba4-8ac5-3d895ff9e444",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Generalization of Phylogenetic Matching Metrics with Experimental Tests of Practical Advantages",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/publications/1a1176ed-cc1f-46e6-a007-a12cc3c442d6",
+      "authors": "K. Giaro , D. Bogdanowicz",
+      "publication_type": "Artykuł , Journal of Computational Biology",
+      "year": "2023",
+      "doi": "10.1089/cmb.2022.0090",
+      "doi_url": "https://www.doi.org/10.1089/cmb.2022.0090",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A note on polynomial algorithm for cost coloring of bipartite graphs with Δ ≤ 4",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/publications/8589ab90-ae03-4268-ba6c-13d44d77d418",
+      "authors": "M. Kubale, G. Krzysztof, K. Giaro",
+      "publication_type": "Artykuł , Discussiones Mathematicae Graph Theory",
+      "year": "2020",
+      "doi": "10.7151/dmgt.2215",
+      "doi_url": "https://www.doi.org/10.7151/dmgt.2215",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Visual TreeCmp : Comprehensive Comparison of Phylogenetic Trees on the Web",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/publications/9504a646-776f-455f-8444-5d6490f1f3ba",
+      "authors": "K. Giaro , T. Goluch, D. Bogdanowicz",
+      "publication_type": "Artykuł , Methods in Ecology and Evolution",
+      "year": "2020",
+      "doi": "10.1111/2041-210x.13358",
+      "doi_url": "https://www.doi.org/10.1111/2041-210x.13358",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Szeregowanie zadań metodami kolorowania grafów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/5d9dea62-bf04-4ebd-98bc-e6a11cf0c120",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Szeregowanie zadań na procesorach dedykowanych bez obustronnych postojów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/8a3cda1e-3451-4092-9bd4-5842f1387c48",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowania optymalizacji w zagadnieniach dodatnio półokreślonych w protokołach kwantowo informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/db251532-c24b-489b-bed0-2e0bd573fc22",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody optymalizacji dyskretnej w analizie podobieństwa drzew filogenetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/2da04062-6980-4917-a78b-648b7b517eda",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Epigenetic Tracking : ewolucyjno-rozwojowe podejście do generowania struktur trójwymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/638ea4d8-6cab-4d1e-9910-9e3411fddffa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zagadnienia transferu informacji w systemach informatyki kwantowej - cykl publikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/c1802fdd-2812-4a93-9524-c936515c4519",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metod probabilistycznych w kwantowej teorii informacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/7855b955-3b0f-4547-9df1-27f6902a5967",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Studium zdarzeń duplikacji w genomie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.giaro.1R2nOaZLNZ3/research-work/d96b2189-7673-4121-9cbd-2765cc7f4cb1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=82464"
+    }
+  ],
+  "tag_cloud": [
+    "matching cluster metric",
+    "tree metrics",
+    "polynomial algorithm",
+    "np-completeness",
+    "phylogenetic tree comparison",
+    "phylogenetic tree metric",
+    "minimum-weight perfect matching",
+    "bipartite graph",
+    "matching pair metric",
+    "matching pair distance"
+  ],
+  "coworkers": []
+}

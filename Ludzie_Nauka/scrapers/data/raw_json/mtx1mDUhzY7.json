@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7",
+  "slug": "adrianna.kozierkiewicz",
+  "profile_id": "mtx1mDUhzY7",
+  "full_name": "dr hab. inż. Adrianna Magdalena Kozierkiewicz",
+  "orcid": "0000-0001-8445-3979",
+  "orcid_url": "https://orcid.org/0000-0001-8445-3979",
+  "breadcrumb_name": "Adrianna Kozierkiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel approach for tweet similarity in a context-aware fake news detection model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/publications/54521214-d744-4654-b82f-689501d92e51",
+      "authors": "J. Ribeiro Bezerra, A. Kozierkiewicz , M. Pietranik",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3554540",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3554540",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Formal transformation of OWL ontology to a FOKI generic meta-model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/publications/a55b2721-c2d2-43e4-9a0f-7b4358f63994",
+      "authors": "B. Hnatkowska, A. Kozierkiewicz , M. Pietranik",
+      "publication_type": "Artykuł , Computer Science and Information Systems",
+      "year": "2025",
+      "doi": "10.2298/csis240227002h",
+      "doi_url": "https://www.doi.org/10.2298/csis240227002h",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Machine learning techniques to improve the cognitive workload classification using multimodal sensors’ data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/publications/71eb1493-1f8d-4b2f-9b4f-ea1c029348e5",
+      "authors": "P. Zihisire Muke, A. Kozierkiewicz",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3616788",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3616788",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody oceny efektywności procesu integracji informacji i wiedzy pochodzących z różnych źródeł z wykorzystaniem teorii consensusu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/research-work/e84791d2-eb34-4530-82d4-0fcdb3eda0a4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda wyznaczania personalizowanego scenariusza uczenia w systemach e-kształcenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/research-work/aceafada-ab44-4b6a-b2d2-7ca8e9be3c4a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda wyznaczania personalizowanego scenariusza uczenia w systemach E-learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/research-work/e6a36dc3-5046-4b1e-a8b5-f3d3d02bf82a",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Systemy rekomendacji wiedzy z algorytmami inteligencji obliczeniowej we wspomaganiu doboru recenzentów i ekspertów oraz innowacyjności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrianna.kozierkiewicz.mtx1mDUhzY7/research-work/6fe6beeb-e2cf-4ce8-8135-6620816528d6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=234644"
+    }
+  ],
+  "tag_cloud": [
+    "przyrost wiedzy",
+    "bazy danych",
+    "integracja wiedzy",
+    "deep learning",
+    "teoria consensusu",
+    "konflikt wiedzy",
+    "ontologia",
+    "zarządzanie wiedzą",
+    "consensus",
+    "integracja ontologii"
+  ],
+  "coworkers": []
+}

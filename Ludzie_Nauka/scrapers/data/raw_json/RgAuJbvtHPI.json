@@ -1,0 +1,254 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI",
+  "slug": "tomasz.pajchrowski",
+  "profile_id": "RgAuJbvtHPI",
+  "full_name": "dr hab. inż. Tomasz Pajchrowski",
+  "orcid": "0000-0002-0002-7161",
+  "orcid_url": "https://orcid.org/0000-0002-0002-7161",
+  "breadcrumb_name": "Tomasz Pajchrowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka napędu elektrycznego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Stanisława Staszica w Pile Aktualna nazwa: Akademia Nauk Stosowanych im. Stanisława Staszica w Pile",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1aac7c63-437b-484c-8e33-1cb504ece435",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/gremiums/e711bcb9-8565-4898-a5b7-3ed056b843c9",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Precise Determination of the Angular Distribution of the Winding Inductance of a Switched Reluctance Motor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/publications/dcb011a5-9df9-442b-91b4-12d2d8fd847c",
+      "authors": "B. Fabianski, T. Pajchrowski , K. Zawirski",
+      "publication_type": "Artykuł , XXVIII. Symposium Electromagnetic Phenomena in Nonlinear Circuits (EPNC 2024)",
+      "year": "2025",
+      "doi": "10.18690/um.feri.4.2025.8",
+      "doi_url": "https://www.doi.org/10.18690/um.feri.4.2025.8",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of the STFT for Detection of the Rotor Unbalance of a Servo-Drive System with an Elastic Interconnection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/publications/13835a06-b188-449c-b756-e73ce395151b",
+      "authors": "P. Ewert, B. Wicher, T. Pajchrowski",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13020441",
+      "doi_url": "https://www.doi.org/10.3390/electronics13020441",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Electronic system and signal processing in torque-meter interface of switched reluctance motor drive laboratory test bench",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/publications/f6a0bf1d-a426-4476-994c-a894058dec55",
+      "authors": "B. Fabianski, T. Pajchrowski , K. Zawirski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.11.11",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.11.11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie napędem z silnikiem synchronicznym o magnesach trwałych z wykorzystaniem metod inteligencji obliczeniowej w warunkach zmian parametrów mechanicznych układu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work/e1b5077c-4869-4567-8fbf-3ddcffd5d0fb",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Odporne sterowanie serwonapędem z silnikiem synchronicznym o magnesach trwałych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work/d8bf217f-2678-4bb2-8f63-aea68dc21202",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Application of the Multi-Layer Observer for a Two-Mass Drive System",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work/8f591978-8039-4c62-b27b-e3e92b9f7d40",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Sterowanie ze sprzężeniem od wektora stanu napędu z silnikiem PMSM i przekształtnikiem złożonym DC/DC/AC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work/9d539c5d-8d12-4a51-9604-a1c42637d900",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza układów napędowych z silnikami indukcyjnymi odpornych na uszkodzenia czujników pomiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pajchrowski.RgAuJbvtHPI/research-work/6ef25b3c-d2a3-4744-8915-029ad74d81ef",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=215962"
+    }
+  ],
+  "tag_cloud": [
+    "ethernet",
+    "kątowy rozkład indukcyjności",
+    "futek trs705",
+    "stanowisko badawcze",
+    "srm",
+    "pmsm",
+    "stm32",
+    "matlab",
+    "rs485",
+    "freertos"
+  ],
+  "coworkers": []
+}

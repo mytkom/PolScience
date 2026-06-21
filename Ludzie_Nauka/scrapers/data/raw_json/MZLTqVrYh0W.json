@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W",
+  "slug": "marek.bawiec",
+  "profile_id": "MZLTqVrYh0W",
+  "full_name": "dr inż. Marek Arkadiusz Bawiec",
+  "orcid": "0000-0002-6140-7379",
+  "orcid_url": "https://orcid.org/0000-0002-6140-7379",
+  "breadcrumb_name": "Marek Bawiec",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Method for applying channels plan change to minimize message loss during LoRaWAN network reconfiguration - case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/publications/5694e4ec-3eaf-4761-834a-623e89ebc867",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_1",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A pre-registered short-term forecasting study of COVID-19 in Germany and Poland during the second wave",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/publications/8044f27f-110a-41f9-802e-fcfca576e1a5",
+      "authors": "J. Bracher, D. Wolffram [...] M. Bawiec , ... (+81)",
+      "publication_type": "Artykuł , Nature Communications",
+      "year": "2021",
+      "doi": "10.1038/s41467-021-25207-0",
+      "doi_url": "https://www.doi.org/10.1038/s41467-021-25207-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A novel open source tool for ELISA result analysis.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/publications/1a3b7ec0-d06c-4235-aa40-ac1223795cfb",
+      "authors": "G. Banach, B. Grzegorz [...] M. Bawiec , ... (+21)",
+      "publication_type": "Artykuł , Journal of Pharmaceutical and Biomedical Analysis",
+      "year": "2020",
+      "doi": "10.1016/j.jpba.2020.113415",
+      "doi_url": "https://www.doi.org/10.1016/j.jpba.2020.113415",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ujemna rezystancja dynamiczna w układach logicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/research-work/5611a3a9-2a61-403b-b601-77adc26d57bb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ujemna rezystancja dynamiczna w układach logicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.bawiec.MZLTqVrYh0W/research-work/9ce1058f-46a6-4b07-a999-a3b3e8588cc5",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=218001"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,243 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4",
+  "slug": "łukasz.uram",
+  "profile_id": "tQOlbQYGHV4",
+  "full_name": "dr hab. Łukasz Stanisław Uram",
+  "orcid": "0000-0002-7964-0777",
+  "orcid_url": "https://orcid.org/0000-0002-7964-0777",
+  "breadcrumb_name": "Łukasz Uram",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2cb4e33a-bb7e-4220-9821-896895006f20",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki biologiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk biologicznych / biologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie; Wydział Biologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/adf1273a-e7b4-460a-b1c2-07a0f9d0b691"
+        },
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia w zakresie neurobiologia",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński, Wydział Biologii i nauk o Ziemi",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/gremiums/158d2c7b-42d1-4a8e-875b-6010e520ed5b",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Optimal Amount of PAMAM G3 Dendrimer in Polyurethane Matrices Makes Them a Promising Tool for Controlled Drug Release",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/publications/8817c227-dcee-44e4-93b0-0fcf4b2e1dab",
+      "authors": "M. Zaręba, M. Twardowska [...] Ł. Uram , ... (+5)",
+      "publication_type": "Artykuł , Polymers",
+      "year": "2026",
+      "doi": "10.3390/polym18010135",
+      "doi_url": "https://www.doi.org/10.3390/polym18010135",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Expression of angiogenic factors in the mammalian senescent cell sustaining Trichinella spp. muscle larvae.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/publications/23149acc-7c3a-42c0-a45e-ec7dac4a416e",
+      "authors": "E. Sikora, M. Dąbrowska, Ł. Uram , ... (+6)",
+      "publication_type": "Artykuł , Histochemistry and Cell Biology",
+      "year": "2025",
+      "doi": "10.1007/s00418-025-02363-8",
+      "doi_url": "https://www.doi.org/10.1007/s00418-025-02363-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Human Embryonic Kidney HEK293 Cells as a Model to Study SMVT-Independent Transport of Biotin and Biotin-Furnished Nanoparticles in Targeted Therapy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/publications/adf50f10-4667-4934-8956-ee69330a3658",
+      "authors": "M. Twardowska, A. Łyskowski [...] Ł. Uram , ... (+4)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2025",
+      "doi": "10.3390/ijms26041594",
+      "doi_url": "https://www.doi.org/10.3390/ijms26041594",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja właściwości biologicznych dendrymerów poliamidoaminowych generacji trzeciej (PAMAM G3) w celu otrzymania wydajnego i ukierunkowanego nośnika dla stosowanych i perspektywicznych leków przeciwnowotworowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work/8af63cdc-0049-4b88-bc15-0905dd6d6f35",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Podatność na napady drgawkowe u szczura po podaniu wybranych leków immunosupresyjnych. Rola składników formuły farmaceutycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work/bf0dcc41-8684-48af-849c-86e1b471e340",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synteza i analiza aktywności biologicznej zmodyfikowanych dendrymerów poliamidoaminowych generacji trzeciej podstawionych wybranymi związkami z grupy ksantonów, jako potencjalnych czynników w terapii przeciwnowotworowej i przeciwnicieniowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work/1a4aa587-d81e-419f-8f0b-8d0fd21410b5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ dendrymerów PAMAM oraz ich biokoniugatów z biotyną i pirydoksalem na właściwości biologiczne różnych typów komórek in vitro",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work/672d8193-1d45-4d22-bcee-dcd5fca1ce87",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Dendrymery poli(amidoaminowe) jako funkcjonalne systemy dostarczania leków przeciwnowotworowych – charakterystyka fizykochemiczna oraz aktywność biologiczna”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.uram.tQOlbQYGHV4/research-work/fb3b9377-d1c7-4112-b42d-882a11f1f050",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=257543"
+    }
+  ],
+  "tag_cloud": [
+    "human fibroblasts",
+    "chiral biorecognition",
+    "bj normal human fibroblasts",
+    "toxicity",
+    "pamam g3 dendrimer",
+    "cytotoxicity",
+    "nematode caenorhabditis elegans,",
+    "cytisine conjugate",
+    "cox-2/pge2 axis",
+    "biotinylated pamam g3 dendrimer conjugates;"
+  ],
+  "coworkers": []
+}

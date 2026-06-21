@@ -1,0 +1,249 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav",
+  "slug": "dariusz.dereniowski",
+  "profile_id": "9KBiK2l5dav",
+  "full_name": "prof. dr hab. Dariusz Dereniowski",
+  "orcid": "0000-0003-4000-4818",
+  "orcid_url": "https://orcid.org/0000-0003-4000-4818",
+  "breadcrumb_name": "Dariusz Dereniowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "szeregowanie zadań",
+    "teoria algorytmów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/gremiums/4859c469-7ce8-4ba4-8ac5-3d895ff9e444",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Discrete evacuation in graphs with multiple exits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/publications/6ccc87ce-2853-4403-ab21-f2da37cd907d",
+      "authors": "D. Dereniowski , S. Das, Ł. Kuszner, ... (+1)",
+      "publication_type": "Artykuł , Theoretical Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.tcs.2025.115141",
+      "doi_url": "https://www.doi.org/10.1016/j.tcs.2025.115141",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Low-degree spanning trees of 2-edge-connected graphs in linear time",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/publications/c9ff32d8-84f9-4e31-967a-649464f5dfb2",
+      "authors": "D. Dereniowski , J. Dybizbański, P. Karpiński, ... (+2)",
+      "publication_type": "Artykuł , Journal of Combinatorial Optimization",
+      "year": "2025",
+      "doi": "10.1007/s10878-025-01368-2",
+      "doi_url": "https://www.doi.org/10.1007/s10878-025-01368-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Noisy (binary) aearching: simple, fast and correct",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/publications/a9d78cb8-86bd-484d-940b-ed5c7a017ad5",
+      "authors": "D. Dereniowski , A. Łukasiewicz, P. Uznański",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.4230/lipics.stacs.2025.29",
+      "doi_url": "https://www.doi.org/10.4230/lipics.stacs.2025.29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/a1c84c17-7f7f-4dbb-ae04-ec3aa7dc5321",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Modele i metody przeszukiwania struktur grafowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/231e84c7-9a24-4a55-9c3a-41f14d587243",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Równoległe szeregowanie zadań metodą uporządkowanego kolorowania grafów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/d527090f-4dee-480d-89fa-2ef0ae2b3ea4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy przeszukiwania i eksploracji grafów przez grupę mobilnych agentów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/1f30466c-99f4-40ea-a432-fd18804fc41a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Szacowanie kanałowej przepustowości Shannona metodami teoriografowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/f9bf750b-74c1-4b13-8843-c91710b4a0fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zabronione lokalne kolorowe struktury a globalne własności grafów skierowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/fd7a0746-6bfe-44f4-9a9a-28cd41ceb391",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Ekstremalne problemy teorii grafów dotyczące zliczania podgrafów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/a6201f73-892d-49fa-8fff-0ec7a43437b4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Kombinatoryczne algorytmy analizy i projektowania degradomu RNA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.dereniowski.9KBiK2l5dav/research-work/7d89d4bb-af76-487d-8ed4-f3ca7b6ea7b3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=136006"
+    }
+  ],
+  "tag_cloud": [
+    "teoria algorytmów,przeszukiwanie grafów,teoria grafów,złożoność obliczeniowa",
+    "teoria informacji",
+    "binary search",
+    "algorytmiczna teoria grafów",
+    "teoria grafów",
+    "złożoność obliczeniowa",
+    "algorytmy grafowe",
+    "szerokość ścieżkowa",
+    "query complexity",
+    "przeszukiwanie grafów"
+  ],
+  "coworkers": []
+}

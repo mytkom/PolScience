@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je",
+  "slug": "sławomir.szrama",
+  "profile_id": "6xKzMmvO4je",
+  "full_name": "dr inż. Sławomir Szrama",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Sławomir Szrama",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Inżynierii Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe698f8e-adcd-44bf-b9a0-77b06ccc5e91"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advanced Prognostic Health Management of Turbofan Engines: A Comprehensive Machine Learning Framework Using Real Flight Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/publications/6c6a3963-9246-459e-be70-259c6d4e6e12",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Aeronautical and Space Sciences",
+      "year": "2026",
+      "doi": "10.1007/s42405-025-00957-z",
+      "doi_url": "https://www.doi.org/10.1007/s42405-025-00957-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Aircraft propulsion health status prognostics and prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/publications/75ee4809-20a7-46e3-8b6e-54f8a889ce17",
+      "authors": "S. Szrama , G. Szymański, D. Mokrzan",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/202232",
+      "doi_url": "https://www.doi.org/10.12913/22998624/202232",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimizing aircraft engine longevity: A comparative framework for dynamically adaptive predictive maintenance using autoencoders, LSTMs, and gaussian processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/publications/81ec0ae7-99bb-449c-8809-59c18d514849",
+      "authors": null,
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2025",
+      "doi": "10.1016/j.engappai.2025.111199",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2025.111199",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie ryzykiem zagrożeń w systemie utrzymania samolotów wielozadaniowych F-16",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.szrama.6xKzMmvO4je/research-work/762b4aa5-821e-40a3-976a-844436d34f45",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=302163"
+    }
+  ],
+  "tag_cloud": [
+    "engine health status prediction",
+    "komponenty silników lotniczych",
+    "systemy i instalacje napędów z turbiną gazową",
+    "aircraft turbofan engine",
+    "artificial neural network",
+    "prognostic health monitoring",
+    "preventive maintenance",
+    "silnik lotniczy",
+    "risk based maintenance",
+    "turbine engine failure analysis"
+  ],
+  "coworkers": []
+}

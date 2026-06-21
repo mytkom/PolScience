@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo",
+  "slug": "jacek.marciniak",
+  "profile_id": "LfOLsqxUxGo",
+  "full_name": "dr inż. Jacek Bernard Marciniak",
+  "orcid": "0000-0003-3654-5187",
+  "orcid_url": "https://orcid.org/0000-0003-3654-5187",
+  "breadcrumb_name": "Jacek Marciniak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Geodezji i Kartografii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e41eeaf1-4138-44de-8a42-dcdbab415003"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Łódzka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automatic Generation of Guidance for Indoor Navigation at Metro Stations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/publications/67a2b972-ee70-4e75-a609-16ffbc814df5",
+      "authors": "J. Marciniak , B. Wiktorzak",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app142210252",
+      "doi_url": "https://www.doi.org/10.3390/app142210252",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Using a game engine to visualize the Main Building of the Warsaw University of Technology in a mobile application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/publications/c9041776-e4ae-4089-b4fd-81e04ceff158",
+      "authors": "J. Marciniak , H. Janicki",
+      "publication_type": "Artykuł , Polish Cartographical Review",
+      "year": "2020",
+      "doi": "10.2478/pcr-2020-0006",
+      "doi_url": "https://www.doi.org/10.2478/pcr-2020-0006",
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Cartographical Aspects in the Design of Indoor Navigation Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/publications/4612051b-b8e8-4904-85fb-bd1beca97a35",
+      "authors": "D. Gotlib, D. Gotlib, J. Marciniak",
+      "publication_type": "Artykuł , Annual of Navigation",
+      "year": "2012",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie kartograficznych modeli wnętrz budynków do podniesienia jakości procesu nawigacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marciniak.LfOLsqxUxGo/research-work/d85c0f9c-69e5-4e9e-9fff-584a435419b7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=298895"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

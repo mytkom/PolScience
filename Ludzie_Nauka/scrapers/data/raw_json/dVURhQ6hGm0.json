@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0",
+  "slug": "paweł.wachel",
+  "profile_id": "dVURhQ6hGm0",
+  "full_name": "dr hab. inż. Paweł Jan Wachel",
+  "orcid": "0000-0002-7353-2310",
+  "orcid_url": "https://orcid.org/0000-0002-7353-2310",
+  "breadcrumb_name": "Paweł Wachel",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "identyfikacja systemów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/gremiums/34acd618-250a-411f-89c7-9333780def01",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Safety and optimality in learning-based control at low computational cost",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/publications/763f8d85-c948-4189-a471-50b034427105",
+      "authors": "K. Kowalczyk, P. Wachel , D. Baumann, ... (+2)",
+      "publication_type": "Artykuł , IEEE Transactions on Automatic Control",
+      "year": "2025",
+      "doi": "10.1109/tac.2025.3570248",
+      "doi_url": "https://www.doi.org/10.1109/tac.2025.3570248",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Decentralized diffusion-based learning under non-parametric limited prior knowledge",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/publications/1eab3c76-6e1d-4377-b34e-14621a487266",
+      "authors": "P. Wachel , K. Kowalczyk, C. Rojas",
+      "publication_type": "Artykuł , European Journal of Control",
+      "year": "2024",
+      "doi": "10.1016/j.ejcon.2023.100912;10.48550/arxiv.2305.03295",
+      "doi_url": "https://www.doi.org/10.1016/j.ejcon.2023.100912;10.48550/arxiv.2305.03295",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Decentralized diffusion-based learning under non-parametric limited prior knowledge",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/publications/aeb3a435-52fe-4a1c-af1e-4e674ccc5b23",
+      "authors": "P. Wachel , K. Kowalczyk, C. Rojas",
+      "publication_type": "Artykuł , European Journal of Control",
+      "year": "2024",
+      "doi": "10.1016/j.ejcon.2023.100912",
+      "doi_url": "https://www.doi.org/10.1016/j.ejcon.2023.100912",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie i analiz algorytmów agregacyjnego modelowania oraz identyfikacji nieliniowych systemów dynamicznych z wykorzystaniem metod słownikowych i technik estymacji parametryczno-nieparametrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/685cc7e9-e78f-4e34-b096-44b67a9e3df6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Parametryczno-nieparametryczna identyfikacja systemów Wienera",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/3f03d942-e9c6-4e56-8bb1-0a5360699112",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie systemów nieliniowych o nieznanej strukturze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/557f54e2-92d5-40b2-a3c7-aee79b9771fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Automatyczne ustawianie ostrości z wykorzystaniem algorytmów optymalizacji stochastycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/3439ffe6-9de6-41a1-8f33-3c2dafc329e9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza biosygnałów w połączonej dziedzinie czasu i częstotliwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/8f339090-107c-4bc6-9b9d-6deb45d22d11",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Root Cause Analysis in complex multi-loop control systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.wachel.dVURhQ6hGm0/research-work/271ebc8d-1ce3-4411-96d1-d105c7117af3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=212060"
+    }
+  ],
+  "tag_cloud": [
+    "system wienera-hammersteina",
+    "systemy nielioniowe",
+    "ważenie eksponencjalne",
+    "modelowanie statystyczne",
+    "agregacja",
+    "identyfikacja systemów",
+    "system nieliniowy",
+    "detekcja uszkodzeń",
+    "optymalizacja wypukła",
+    "system niestacjonarny"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,322 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP",
+  "slug": "radosław.pytlak",
+  "profile_id": "mqrSHrkuoAP",
+  "full_name": "prof. dr hab. inż. Radosław Leszek Pytlak",
+  "orcid": "0000-0001-6181-804X",
+  "orcid_url": "https://orcid.org/0000-0001-6181-804X",
+  "breadcrumb_name": "Radosław Pytlak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "symulacja i optymalizacja układów dynamicznych",
+    "zarządzanie finansami przedsiębiorstw"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Prywatna Wyższa Szkoła Nauk Społecznych, Komputerowych i Medycznych z siedzibą w Warszawie Aktualna nazwa: Warszawska Uczelnia Medyczna im. Tadeusza Koźluka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/0d921f22-76ea-4e9f-a516-0e94ccc9043b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9d3664e2-2c7a-448a-9fb2-278de61e6136",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / brak",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1980",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/gremiums/11af940d-0298-4cf6-a141-a1d02f86c767",
+      "period": "2016-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Inżynieryjno-Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/gremiums/17490774-f58c-41b1-9380-f78356bc67bc",
+      "period": "2016-2023",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Active Learning for Medical Article Classification with Bag of Words and Bag of Concepts Embeddings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/publications/2370615d-74c4-4de3-9de5-8687839860e0",
+      "authors": "R. Pytlak , P. Cichosz, B. Fajdek, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15147955",
+      "doi_url": "https://www.doi.org/10.3390/app15147955",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Planning a haemodialysis process by minimum time control of hybrid systems with sliding motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/publications/dfad1b83-f09f-452e-a65b-d3a7a3937216",
+      "authors": "R. Pytlak , D. Suski",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.1109/cdc45484.2021.9683710",
+      "doi_url": "https://www.doi.org/10.1109/cdc45484.2021.9683710",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Trajectory sensitivity analysis of hybrid systems with sliding motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/publications/78b74c58-b907-4321-87f1-c18e8b6cedc6",
+      "authors": "D. Suski, R. Pytlak",
+      "publication_type": "Artykuł , Nonlinear Analysis: Hybrid Systems",
+      "year": "2022",
+      "doi": "10.1016/j.nahs.2022.101202",
+      "doi_url": "https://www.doi.org/10.1016/j.nahs.2022.101202",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody numeryczne rozwiązywania zadań sterowania optymalnego z ograniczeniami na stan",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/52c7f83f-d9c7-4e9a-8a8a-bd96b1a4974a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Minimaksowe zadanie sterowania optymalnego z czasem dyskretnym: własności rozwiązań i algorytmy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/e88714f1-b1af-4d44-82de-b45f13ed046b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody rozwiazywania problemu wyboru widoków w kostkach danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/d70662ba-6418-4801-b281-b498eb8d9318",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody rozwiązania zadań optymalizacji dynamicznej opisanej równaniami różniczkowo-algebraicznymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/3451645f-55a1-4af3-b6e0-8d922c758c22",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metody optymalizacji i symulacji komputerowej w analizie procesów sekurytyzacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/5aead06c-17d5-47fb-b38d-076fd59c54ab",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie zaawansowanych systemów blockchain do wzmacniania odporności systemów informatycznych.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/57ca898d-46fb-4a47-97a2-aaf17d043b71",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metodyka wskaźnikowej oceny zrównoważonego zarządzania zasobami w przedsiębiorstwie recyklingowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/bba6a70d-0ef0-4580-b107-3b8b020a39af",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda wyboru zmiennych miejsc składowania w magazynie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.pytlak.mqrSHrkuoAP/research-work/7693db43-4f33-4752-927c-970681b3123d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=47410"
+    }
+  ],
+  "tag_cloud": [
+    "dynamic optimization",
+    "redukcja wymiarowości",
+    "data exploration",
+    "system dynamics",
+    "crime prediction",
+    "prognozowanie przestępczości",
+    "eksploracja danych",
+    "modele matematyczne",
+    "crowdsourcing",
+    "systematyczny przegląd literatury"
+  ],
+  "coworkers": []
+}

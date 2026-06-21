@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi",
+  "slug": "klara.borowa",
+  "profile_id": "VPLJhK3VcEi",
+  "full_name": "dr inż. Klara Maria Borowa",
+  "orcid": "0000-0002-7160-5950",
+  "orcid_url": "https://orcid.org/0000-0002-7160-5950",
+  "breadcrumb_name": "Klara Borowa",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/publications/e9966f9a-6a76-4c34-856e-0b67fc901ede",
+      "authors": "K. Borowa , R. Rebouças de Almeida, M. Wiese",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing Creativity in Software Architecture: Exploring Creative Architecting Limiters and Enablers Through Practitioner Insights",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/publications/0f8126b1-257f-4b8f-a147-b9bb4e688bdd",
+      "authors": "F. Kwiatkowski, F. Kwiatkowski [...] K. Borowa , ... (+2)",
+      "publication_type": "Artykuł , IEEE Software",
+      "year": "2025",
+      "doi": "10.1109/ms.2025.3540158",
+      "doi_url": "https://www.doi.org/10.1109/ms.2025.3540158",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The TechDebt Game - Enabling Discussions about Technical Debt",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/publications/34648393-534f-4acd-9bb0-bd94882d3633",
+      "authors": "K. Borowa , M. Wiese, A. Heinrichs, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/techdebt66644.2025.00010",
+      "doi_url": "https://www.doi.org/10.1109/techdebt66644.2025.00010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Cognitive Biases in Architectural Decision-Making: Impact and Debiasing Strategies",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/klara.borowa.VPLJhK3VcEi/research-work/1adcc625-bc28-4ac8-b51e-a542f82437e4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "architektura oprogramowania",
+    "technical debt communication",
+    "debiasing",
+    "architectural decisions",
+    "software development",
+    "etyka",
+    "cognitive bias",
+    "cog-nitive bias",
+    "technical debt",
+    "software architecture architectural decision-making architectural knowledge"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,145 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9",
+  "slug": "waldemar.regucki",
+  "profile_id": "8ftEhv1W3e9",
+  "full_name": "dr hab. Waldemar Regucki",
+  "orcid": "0000-0002-3327-7917",
+  "orcid_url": "https://orcid.org/0000-0002-3327-7917",
+  "breadcrumb_name": "Waldemar Regucki",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina sztuki"
+  ],
+  "specializations": [
+    "grafika użytkowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9/achievement",
+      "aria_disabled": null
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.regucki.8ftEhv1W3e9/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany sztuki",
+      "details_json": [
+        "dziedzina sztuk plastycznych / sztuki piękne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie; Wydział Grafiki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c5d960f1-1437-4a20-be5f-9599765a3fb9"
+        },
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ae7be1ba-27cb-4376-96c5-e98a2c040730"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina sztuk plastycznych / sztuki projektowe",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ae7be1ba-27cb-4376-96c5-e98a2c040730"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "grafika",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA GRAFICZNA I SZTUKI KSIĄŻKOWEJ",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=109678"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

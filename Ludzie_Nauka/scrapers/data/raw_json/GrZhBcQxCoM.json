@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM",
+  "slug": "paweł.boiński",
+  "profile_id": "GrZhBcQxCoM",
+  "full_name": "dr inż. Paweł Boiński",
+  "orcid": "0000-0003-4914-9394",
+  "orcid_url": "https://orcid.org/0000-0003-4914-9394",
+  "breadcrumb_name": "Paweł Boiński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/eb155ad0-f9cf-4c26-b470-4c6501ea0a66",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Generalized mining of mixed drove co-occurrence patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/publications/39b80f8e-3ddb-4d90-87ff-2a7ab882d7b0",
+      "authors": "W. Andrzejewski, P. Boiński",
+      "publication_type": "Artykuł , Information Sciences",
+      "year": "2026",
+      "doi": "10.1016/j.ins.2026.123148",
+      "doi_url": "https://www.doi.org/10.1016/j.ins.2026.123148",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Co-location pattern mining using approximate Euclidean measure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/publications/6c0677ef-aa72-4abe-9a96-684131ddef88",
+      "authors": "W. Andrzejewski, P. Boiński",
+      "publication_type": "Artykuł , Information Sciences",
+      "year": "2025",
+      "doi": "10.1016/j.ins.2025.122000",
+      "doi_url": "https://www.doi.org/10.1016/j.ins.2025.122000",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Leveraging machine learning techniques for discovering broken lineage links between database objects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/publications/df7a2c45-a2bf-4487-8c65-d5cd89eddef1",
+      "authors": "P. Boiński , W. Andrzejewski, M. Grocholewski, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przetwarzanie zbiorów przestrzennych zapytań eksploracyjnych w środowiskach z ograniczonym rozmiarem pamięci operacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.boi%C5%84ski.GrZhBcQxCoM/research-work/c2c7987b-6a1a-407f-85b2-3c9f2213738b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270537"
+    }
+  ],
+  "tag_cloud": [
+    "customers’ records deduplication",
+    "mdcops",
+    "spatio-temporal data",
+    "bounding box",
+    "co-location",
+    "data mining",
+    "co-location patterns",
+    "sorted neighborhood",
+    "spatial data mining",
+    "moving window size"
+  ],
+  "coworkers": []
+}

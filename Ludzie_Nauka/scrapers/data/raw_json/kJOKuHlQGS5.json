@@ -1,0 +1,239 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5",
+  "slug": "marek.górka",
+  "profile_id": "kJOKuHlQGS5",
+  "full_name": "dr hab. Marek Leszek Górka",
+  "orcid": "0000-0002-6964-1581",
+  "orcid_url": "https://orcid.org/0000-0002-6964-1581",
+  "breadcrumb_name": "Marek Górka",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki o polityce i administracji",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki o polityce",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / nauki o polityce",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Humanistyczna im. Aleksandra Gieysztora w Pułtusku; Wydział Nauk Politycznych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e5b22e77-f995-4722-9f21-f4ece7808d1e"
+        },
+        {
+          "label": "Akademia Humanistyczna im. Aleksandra Gieysztora w Pułtusku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/187760da-93f3-452f-962e-dcbd2218aacc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2005",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "europeistyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Artificial Intelligence in the Public Sphere: Legal and Security Culture in the EU",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/publications/98fac510-97b5-44b2-acd8-690f4e169976",
+      "authors": null,
+      "publication_type": "Artykuł , TEKA Komisji Prawniczej PAN Oddział w Lublinie",
+      "year": "2025",
+      "doi": "10.32084/tkp.9640",
+      "doi_url": "https://www.doi.org/10.32084/tkp.9640",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cyberbezpieczeństwo i perspektywy bezpieczeństwa regionalnego na przykładzie państw Kaukazu Południowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/publications/ee6b56bb-89dc-4773-9e60-adfd290db68c",
+      "authors": null,
+      "publication_type": "Artykuł , SPRAWY MIĘDZYNARODOWE",
+      "year": "2025",
+      "doi": "10.35757/sm.2025.78.2.12",
+      "doi_url": "https://www.doi.org/10.35757/sm.2025.78.2.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Innowacje a cyfryzacja : między teorią a praktyką",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/publications/93cc01e7-1f95-418a-b1aa-5458356b66b7",
+      "authors": "M. Górka , J. Grubicka, P. Niedzielski",
+      "publication_type": "Książka , CeDeWu",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Istota bezpieczeństwa cybernetycznego w polityce państw Grupy Wyszehradzkiej w latach 2013-2017",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/research-work/843fdefb-b042-480c-96b4-ac0e69dc88b5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybory parlamentarne w Polsce w 2007 roku. Uwarunkowania, przebieg i konsekwencje polityczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/research-work/1f943cea-ae63-4a28-a2b4-ac8dd951e6fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Cyberbezpieczeństwo w polityce Niemiec i Polski na tle regulacji Unii Europejskiej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/research-work/4fdb554a-905f-4aea-b96d-85532e5ae28d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Rola obszaru państw inicjatywy 17+1 w rywalizacji USA - ChRL w latach 2012-2020",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C3%B3rka.kJOKuHlQGS5/research-work/8339aa68-ff60-46c1-b100-82053fb893fd",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=237657"
+    }
+  ],
+  "tag_cloud": [
+    "media społecznościowe",
+    "cybersecurity policy",
+    "cybersecurity",
+    "cyberbezpieczeństwo",
+    "polityka bezpieczeństwa",
+    "security policy",
+    "visegrad group",
+    "cyber security policy",
+    "cyber security",
+    "cyber conflict"
+  ],
+  "coworkers": []
+}

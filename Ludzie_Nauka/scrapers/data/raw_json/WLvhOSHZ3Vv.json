@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv",
+  "slug": "przemysław.wróblewski",
+  "profile_id": "WLvhOSHZ3Vv",
+  "full_name": "mgr inż. Przemysław Radosław Wróblewski",
+  "orcid": "0000-0002-6713-9088",
+  "orcid_url": "https://orcid.org/0000-0002-6713-9088",
+  "breadcrumb_name": "Przemysław Wróblewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria biomedyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Image reconstruction using machine-learned pseudoinverse in electrical capacitance tomography",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/publications/6918fa09-9ef6-44a4-9d1f-ac383e38c838",
+      "authors": "D. Wanta, W. Smolik, P. Wróblewski , ... (+2)",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2025",
+      "doi": "10.1016/j.engappai.2024.109888",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2024.109888",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Impedance Analysis of a Two-Layer Air-Core Coil for AC Magnetometry Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/publications/9d60b8e8-7d1b-44c4-a8db-eb73164b5ed5",
+      "authors": "M. Midura, G. Domański [...] P. Wróblewski , ... (+5)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25175339",
+      "doi_url": "https://www.doi.org/10.3390/s25175339",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Machine Learning-Based Image Reconstruction in Wearable CC-EIT of the Thorax: Robustness to Electrode Displacement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.wr%C3%B3blewski.WLvhOSHZ3Vv/publications/1b1d95df-b559-42e6-b43b-a1a5c0afc93e",
+      "authors": "M. Ivanenko, W. Smolik [...] P. Wróblewski , ... (+3)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25216543",
+      "doi_url": "https://www.doi.org/10.3390/s25216543",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "spatio-temporal sampling",
+    "hl7 fhir",
+    "3d clover phantom",
+    "3d star-bar phantom",
+    "informatyzacja ochrony zdrowia",
+    "systemy informatyczne w medycynie",
+    "medical computer systems",
+    "iterative image reconstruction",
+    "openehr",
+    "3d imaging"
+  ],
+  "coworkers": []
+}

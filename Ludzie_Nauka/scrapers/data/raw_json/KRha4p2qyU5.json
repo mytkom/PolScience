@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5",
+  "slug": "natalia.branecka-strzelczyk",
+  "profile_id": "KRha4p2qyU5",
+  "full_name": "mgr inż. Natalia Joanna Branecka-Strzelczyk",
+  "orcid": "0000-0001-8138-199X",
+  "orcid_url": "https://orcid.org/0000-0001-8138-199X",
+  "breadcrumb_name": "Natalia Branecka-Strzelczyk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Abone remodeling model involving two mechanical stimuli originated from shear and normal load conditions within the 3D continuum mechanics framework",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/publications/9d3023fd-a1c8-4f02-aaec-adcdb532792c",
+      "authors": "N. Branecka-Strzelczyk , M. Shanehsazzadeh, G. Ivan, ... (+1)",
+      "publication_type": "Artykuł , Continuum Mechanics and Thermodynamics",
+      "year": "2025",
+      "doi": "10.1007/s00161-024-01347-8",
+      "doi_url": "https://www.doi.org/10.1007/s00161-024-01347-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental methods of living cells mechanical loading: review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/publications/56b195e8-1c01-4d1d-9485-2c6ae36148d1",
+      "authors": "N. Branecka , T. Lekszycki",
+      "publication_type": "Artykuł , Continuum Mechanics and Thermodynamics",
+      "year": "2023",
+      "doi": "10.1007/s00161-022-01099-3",
+      "doi_url": "https://www.doi.org/10.1007/s00161-022-01099-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Bone Remodeling Process Based on Hydrostatic and Deviatoric Strain Mechano-Sensing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/natalia.branecka-strzelczyk.KRha4p2qyU5/publications/ba6fb694-c1b8-48d3-a5cd-4b9c1108495c",
+      "authors": "N. Branecka , M. Yildizdag, A. Ciallella, ... (+2)",
+      "publication_type": "Artykuł , Biomimetics",
+      "year": "2022",
+      "doi": "10.3390/biomimetics7020059",
+      "doi_url": "https://www.doi.org/10.3390/biomimetics7020059",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

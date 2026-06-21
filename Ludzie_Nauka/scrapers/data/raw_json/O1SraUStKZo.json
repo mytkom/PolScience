@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo",
+  "slug": "piotr.kurgan",
+  "profile_id": "O1SraUStKZo",
+  "full_name": "dr inż. Piotr Paweł Kurgan",
+  "orcid": "0000-0001-9183-506X",
+  "orcid_url": "https://orcid.org/0000-0001-9183-506X",
+  "breadcrumb_name": "Piotr Kurgan",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika mikrofalowa",
+    "zintegrowane układy b.w.cz."
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Numerically Efficient Miniaturization-Oriented Optimization of an Ultra-Wideband Spline-Parameterized Antenna",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/publications/6a611ede-e742-4568-8f0b-2c279d015a16",
+      "authors": "A. Bekasiewicz, P. Kurgan , S. Kozieł",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2022",
+      "doi": "10.1109/access.2022.3152736",
+      "doi_url": "https://www.doi.org/10.1109/access.2022.3152736",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Efficient Surrogate Modeling and Design Optimization of Compact Integrated On-Chip Inductors Based on Multi-Fidelity EM Simulation Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/publications/2f9941fd-f481-41f7-9408-bed1610b7d75",
+      "authors": null,
+      "publication_type": "Artykuł , Micromachines",
+      "year": "2021",
+      "doi": "10.3390/mi12111341",
+      "doi_url": "https://www.doi.org/10.3390/mi12111341",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Selection of circuit geometry for miniaturized microwave components based on concurrent optimization of performance and layout area",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/publications/10496e98-b068-4db7-8918-2c966b16b8bd",
+      "authors": "P. Kurgan , S. Kozieł",
+      "publication_type": "Artykuł , AEU - International Journal of Electronics and Communications",
+      "year": "2019",
+      "doi": "10.1016/j.aeue.2019.06.009",
+      "doi_url": "https://www.doi.org/10.1016/j.aeue.2019.06.009",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Szybkie projektowanie zminiaturyzowanych mikrofalowych sprzęgaczy hybrydowych przy użyciu optymalizacji numerycznej, modeli zastępczych i symulacji elektromagnetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurgan.O1SraUStKZo/research-work/6ac7610f-4f66-448e-8bf4-6f651deb1d1e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=283600"
+    }
+  ],
+  "tag_cloud": [
+    "computer-aided design",
+    "surrogate modeling",
+    "spline-based antennas",
+    "design optimization",
+    "space mapping",
+    "surrogate-based optimization",
+    "meta-optimization",
+    "circuit geometry selection",
+    "miniaturization",
+    "coupler"
+  ],
+  "coworkers": []
+}

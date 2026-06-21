@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc",
+  "slug": "paweł.michalski",
+  "profile_id": "B12DEzMyocc",
+  "full_name": "dr inż. Paweł Michalski",
+  "orcid": "0000-0003-3644-7536",
+  "orcid_url": "https://orcid.org/0000-0003-3644-7536",
+  "breadcrumb_name": "Paweł Michalski",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Elektrotechniki, Automatyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5ac0844c-243e-4d81-9cc1-5697d211a408"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA OPOLSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Overview of Image Datasets for Deep Learning Applications in Diagnostics of Power Infrastructure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/publications/1a7c2c4a-a14a-4a1b-8a4b-f356d93f9d78",
+      "authors": "B. Ruszczak, P. Michalski , M. Tomaszewski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23167171",
+      "doi_url": "https://www.doi.org/10.3390/s23167171",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluation of Power Insulator Detection Efficiency with the Use of Limited Training Dataset",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/publications/9c76204e-6708-426d-af51-b9f1bf2555c5",
+      "authors": "M. Tomaszewski, P. Michalski , J. Osuchowski",
+      "publication_type": "Artykuł , Applied Sciences-Basel",
+      "year": "2020",
+      "doi": "10.3390/app10062104",
+      "doi_url": "https://www.doi.org/10.3390/app10062104",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Vision-Based Method Utilizing Deep Convolutional Neural Networks for Fruit Variety Classification in Uncertainty Conditions of Retail Sales",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/publications/26279e44-c9e7-44bf-a712-7bc83e8f062e",
+      "authors": "R. Katarzyna, P. Michalski",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2019",
+      "doi": "10.3390/app9193971",
+      "doi_url": "https://www.doi.org/10.3390/app9193971",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja i rekonstrukcja elementów rurowych w instalacjach przemysłowych na potrzeby inwentaryzacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/research-work/d559e2f0-e12e-48f0-a6ec-5bba860a3761",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Detekcja izolatorów linii elektroenergetycznej z wykorzystaniem metod przetwarzania obrazów cyfrowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.michalski.B12DEzMyocc/research-work/263776e5-26fe-4318-86b0-93afb5781f19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=261686"
+    }
+  ],
+  "tag_cloud": [
+    "machine learning",
+    "object detection",
+    "docelowe warunki operacyjne",
+    "fault diagnosis",
+    "deep learning",
+    "image processing",
+    "atmospheric precipitation",
+    "convolutional neural network",
+    "monitoring",
+    "transmission lines"
+  ],
+  "coworkers": []
+}

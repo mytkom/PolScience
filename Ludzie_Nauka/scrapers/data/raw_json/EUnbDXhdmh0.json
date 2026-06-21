@@ -1,0 +1,296 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0",
+  "slug": "janusz.lewiński",
+  "profile_id": "EUnbDXhdmh0",
+  "full_name": "prof. dr hab. inż. Janusz Zbigniew Lewiński",
+  "orcid": "0000-0002-3407-0395",
+  "orcid_url": "https://orcid.org/0000-0002-3407-0395",
+  "breadcrumb_name": "Janusz Lewiński",
+  "current_employment_summary": [
+    "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia nieorganiczna i materiałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4d604044-b7a4-4356-929b-76bc6e9d539e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "35 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk chemicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Chemii Fizycznej Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d604044-b7a4-4356-929b-76bc6e9d539e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk chemicznych / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1980",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/gremiums/b795cbdb-282d-4ba4-a31d-100dea5b2c51",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Nauki Chemiczne 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Nauki Chemiczne Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Chemii",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/gremiums/36e859ad-42b4-45fd-bd3c-2a21b442ce64",
+      "period": "2020-2024",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A new insight into the fabrication of colloidal isotropic ZnO nanocrystals by an organometallic approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/publications/00d4d6dd-d0ec-482d-80a9-3ab370550a00",
+      "authors": "M. Wolska-Pietkiewicz, A. Wojewódzka [...] J. Lewiński , ... (+3)",
+      "publication_type": "Artykuł , Nanoscale Advances",
+      "year": "2025",
+      "doi": "10.1039/d4na00933a",
+      "doi_url": "https://www.doi.org/10.1039/d4na00933a",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cesium Lead Chloride as an Artificial Solid Electrolyte Interphase for Enhanced Anode Protection in Lithium Metal Batteries",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/publications/a7f5e662-adbe-4478-8137-d6d1f173c5d7",
+      "authors": "J. Juhi, J. [...] J. Lewiński , ... (+5)",
+      "publication_type": "Artykuł , Chemistry of Materials",
+      "year": "2025",
+      "doi": "10.1021/acs.chemmater.5c01666",
+      "doi_url": "https://www.doi.org/10.1021/acs.chemmater.5c01666",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Chemical weathering of molecular single crystals to monoliths of quantum dots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/publications/6ddab993-a71f-4869-bb6b-4423219feb08",
+      "authors": "A. Borkenhagen, K. Sokołowski [...] J. Lewiński , ... (+4)",
+      "publication_type": "Artykuł , Nature Communications",
+      "year": "2025",
+      "doi": "10.1038/s41467-025-65113-3",
+      "doi_url": "https://www.doi.org/10.1038/s41467-025-65113-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie czynników determinujących strukturę i reaktywność glinoorganicznych kompleksów chelatowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/c86ed988-ef98-4298-b1f0-068ffce45f13",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie reakcji acetyloacetonianów glinu z donorami elektronów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/bc163148-0902-453f-a5d4-c6d11f59f97f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synteza oraz charakterystyka alkiloalkoksylowych i alkiloaryloksylowych związków cynku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/5e6dc1a6-2c65-402c-8012-98bcff16346f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Alkilocynkowe pochodne związków fosforoorganicznych: synteza, budowa i transformacje do nanokrystalicznego ZnO",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/5047da2a-3a8c-4d2d-b8a3-38e0e7f9541b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Związki alkilocynkowe w układzie z tlenem molekularnym jako inicjatory wybranych rodnikowych reakcji organicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/ada75cd6-71d6-4c68-9d51-bb15f3623e69",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Development of lead-reduced perovskite photovoltaics",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/9a05a983-81db-43cb-8a99-b69f7f68b3f0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Dynamika konstytucyjna w szkieletach metalo-organicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/66c0fa5c-657d-4d57-b1ea-98b2ff279793",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.lewi%C5%84ski.EUnbDXhdmh0/research-work/919f4913-f7a7-4855-b805-86da113461be",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52985"
+    }
+  ],
+  "tag_cloud": [
+    "metal organic cages",
+    "organometallic precursors;",
+    "tlenek cynku",
+    "ligand",
+    "zinc oxide",
+    "self-assembly",
+    "chemia supramolekularna",
+    "związki alkoksylowe",
+    "dwutlenek węgla",
+    "alkylzinc hydroxides"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,268 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz",
+  "slug": "mariusz.pelc",
+  "profile_id": "4Kjse5k6Taz",
+  "full_name": "dr hab. inż. Mariusz Pelc",
+  "orcid": "0000-0003-2818-1010",
+  "orcid_url": "https://orcid.org/0000-0003-2818-1010",
+  "breadcrumb_name": "Mariusz Pelc",
+  "current_employment_summary": [
+    "Państwowa Akademia Nauk Stosowanych w Nysie",
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "systemy i sieci komputerowe",
+    "systemy sterowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Akademia Nauk Stosowanych w Nysie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5714bcce-ef38-47d5-a3f2-52ada93b82bf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "26 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Elektrotechniki, Automatyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5ac0844c-243e-4d81-9cc1-5697d211a408"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne/ automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Państwowa Akademia Nauk Stosowanych w Nysie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5714bcce-ef38-47d5-a3f2-52ada93b82bf"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        },
+        {
+          "label": "Uniwersytet Opolski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Decoding Emotions from fNIRS: A Survey on Tensor-Based Approaches in Affective Computing and Medical Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/publications/2b4b7d8a-d4f5-408a-ae95-cf5f51bf74e5",
+      "authors": "A. Kawala-Sterniuk, M. Piasecki [...] M. Pelc , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app151910525",
+      "doi_url": "https://www.doi.org/10.3390/app151910525",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Machine Learning-based Filtering system for fNIRS Signals' Analysis Purpose",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/publications/39241a89-d899-4646-9890-93b5426ef1db",
+      "authors": "M. Pelc , A. Kawala-Sterniuk, D. Mikołajewski, ... (+6)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2024.152605",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.152605",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multimodal Machine Learning Analysis of fNIRS Signals Using LSTM and KNN Models for Cognitive States and Brain Activation Patterns Prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/publications/9bfbac6e-183d-46f3-8093-e1ad9b95a1d9",
+      "authors": "A. Luckiewicz, D. Mikołajewski [...] M. Pelc , ... (+7)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rekonfiguracja komputerowych systemów sterowania w oparciu o polityki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/0392ebba-3e4b-4563-ab3d-f7239344d06a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Całkowe obserwatory stanu w komputerowych systemach sterowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/d70cfa1c-925f-4bcc-9de4-b33824d4f928",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Efficiency Evaluation of External Environments Control Using Bio-Signals",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/5dd2601d-5f86-4bb8-b2c6-e9e856fdef0b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy dynamicznej selekcji węzła nadrzędnego w celu wydłużania czasu życia bezprzewodowej sieci sensorowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/8e6bcb15-f163-4f01-a69c-40c178549a0c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Propozycja intergracyjnego, obiektowo-klasowego, klasyfikatora treści pornograficznych z udziałem małoletniego. Dostosowanie do wytycznych Unii Europejskiej w zakresie etyki godnej zaufania sztucznej inteligencji z perspektywy zastosowań w polskim wymiarze sprawiedliwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/93584646-0b4e-48eb-87fd-45c5a1778a87",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "A method for measuring trust and atractiveness of presented faces based on brain activity measurements and machine learning.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.pelc.4Kjse5k6Taz/research-work/5210fda0-a692-4e66-8f97-81e423ba59ce",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108803"
+    }
+  ],
+  "tag_cloud": [
+    "eeg",
+    "functional near-infrared spectroscopy",
+    "image processing",
+    "machine learning",
+    "signal processing",
+    "electroencephalography",
+    "brain-computer interfaces",
+    "brain signals",
+    "near-infrared spectroscopy",
+    "biomedical signals"
+  ],
+  "coworkers": []
+}

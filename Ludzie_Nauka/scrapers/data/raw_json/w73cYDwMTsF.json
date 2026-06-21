@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF",
+  "slug": "mateusz.tykierko",
+  "profile_id": "w73cYDwMTsF",
+  "full_name": "dr inż. Mateusz Tykierko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Mateusz Tykierko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska",
+    "Wyższa Szkoła Kształcenia Zawodowego"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody identyfikacji i adaptacji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Kształcenia Zawodowego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d4efaafb-e46b-4d1c-abd3-6eada733d0c2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Wyższa Szkoła Kształcenia Zawodowego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d4efaafb-e46b-4d1c-abd3-6eada733d0c2"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Wyższa Szkoła Kształcenia Zawodowego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d4efaafb-e46b-4d1c-abd3-6eada733d0c2"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "PLLuM: A Family of Polish Large Language Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/publications/8757e9c6-ed3a-417b-97fd-792655b26441",
+      "authors": "J. Kocoń, M. Piasecki [...] M. Tykierko , ... (+96)",
+      "publication_type": "Artykuł , arXiv",
+      "year": "2025",
+      "doi": "10.48550/arxiv.2511.03823",
+      "doi_url": "https://www.doi.org/10.48550/arxiv.2511.03823",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Auxiliar experimentorum - an innovative approach for creating and deploying scientific applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/publications/2a78f9b9-c71f-48aa-bd8e-aae2c1395b37",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid quantum approximate algorithms for solving flow shop scheduling problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/publications/f48b5d1d-23d6-4385-8709-6fd2b3939569",
+      "authors": "W. Bożejko, R. Idzikowski [...] M. Tykierko , ... (+5)",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykrywanie zmian w układach dynamicznych z chaosem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.tykierko.w73cYDwMTsF/research-work/7873e13b-7909-4d0e-ab7b-402b60abab5a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214021"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

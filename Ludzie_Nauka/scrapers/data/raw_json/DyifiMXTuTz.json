@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz",
+  "slug": "sebastian.bąk",
+  "profile_id": "DyifiMXTuTz",
+  "full_name": "mgr inż. Sebastian Bąk",
+  "orcid": "0000-0002-9901-9873",
+  "orcid_url": "https://orcid.org/0000-0002-9901-9873",
+  "breadcrumb_name": "Sebastian Bąk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation effect of the process parameters in mechanical comminution on ceramic materials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/publications/b1933fef-c93f-4e9d-a2be-c0623b7cd81a",
+      "authors": "P. Ciężkowski, K. Lubikowski [...] S. Bąk , ... (+4)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/195668",
+      "doi_url": "https://www.doi.org/10.12913/22998624/195668",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Visual tracking of plate compactor trajectories and soil compaction through metamaterial-inspired approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/publications/bdb82938-f635-4ec4-bf8a-e3444bd5ddc2",
+      "authors": "A. Kwaśniewski, S. Bąk , P. Ciężkowski, ... (+4)",
+      "publication_type": "Artykuł , Continuum Mechanics and Thermodynamics",
+      "year": "2025",
+      "doi": "10.1007/s00161-025-01374-z",
+      "doi_url": "https://www.doi.org/10.1007/s00161-025-01374-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhancing plate compactor efficiency: A study on frequency effects for different soil types",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.b%C4%85k.DyifiMXTuTz/publications/0bbbd992-abed-4334-a51a-e777870ce60c",
+      "authors": "K. Brzeziński, P. Ciężkowski [...] S. Bąk , ... (+3)",
+      "publication_type": "Artykuł , Transportation Geotechnics",
+      "year": "2024",
+      "doi": "10.1016/j.trgeo.2024.101393",
+      "doi_url": "https://www.doi.org/10.1016/j.trgeo.2024.101393",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "plexiglas",
+    "fluid mechanics laboratory",
+    "security",
+    "geotechnical testing",
+    "meetings and public events",
+    "bezpieczeństwo",
+    "photogrammetry",
+    "przestępczość",
+    "viscosity",
+    "loss coefficient"
+  ],
+  "coworkers": []
+}

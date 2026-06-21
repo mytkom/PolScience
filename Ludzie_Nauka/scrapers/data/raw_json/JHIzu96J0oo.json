@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo",
+  "slug": "robert.szmurło",
+  "profile_id": "JHIzu96J0oo",
+  "full_name": "dr Robert Maciej Szmurło",
+  "orcid": "0000-0001-8041-4438",
+  "orcid_url": "https://orcid.org/0000-0001-8041-4438",
+  "breadcrumb_name": "Robert Szmurło",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "elektrotechnika teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cloze-tests generation for foreign language learning using transformer networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/publications/b2d3c36c-6e98-447a-a703-95eaa8176bd5",
+      "authors": "R. Szmurło , S. Jędrzejewski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.57",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.57",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bi-Level Optimization to Enhance Intensity Modulated Radiation Therapy Planning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/publications/ca48110a-7198-47b0-8606-fe4275e7ea03",
+      "authors": "R. Szmurło , J. Moreno, S. Puertas-Martín, ... (+7)",
+      "publication_type": "Artykuł , Informatica",
+      "year": "2024",
+      "doi": "10.15388/24-infor560",
+      "doi_url": "https://www.doi.org/10.15388/24-infor560",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Relabeling the imperfect labeled data to improve recognition of face images using CNN",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/publications/e77d479b-6e3d-4183-8a53-d42828bb1872",
+      "authors": "R. Szmurło , S. Osowski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.06.05",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.06.05",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie numeryczne funkcji aktywacji w procesie elektrycznej stymulacji mózgu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/research-work/c08b0448-9b8f-47e0-9dde-0cf934498052",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Automatyczne metody tworzenia trójwymiarowych zindywidualizowanych modeli szkieletów z wykorzystaniem morfingu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/research-work/7a682bef-117a-417e-83f0-d3eec6b151aa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Symulacje numeryczne jako narzędzie poszerzające zakres badań odporności elektromagnetycznej za pomocą linii paskowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.szmur%C5%82o.JHIzu96J0oo/research-work/d18cb4ad-5cdb-44e2-a800-5406db729f54",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=204284"
+    }
+  ],
+  "tag_cloud": [
+    "ensemble of predictors",
+    "cad",
+    "recurrent time series prediction",
+    "cnn",
+    "optimal design",
+    "deep learning",
+    "dose distribution",
+    "neural networks",
+    "radiotherapy",
+    "vmat"
+  ],
+  "coworkers": []
+}

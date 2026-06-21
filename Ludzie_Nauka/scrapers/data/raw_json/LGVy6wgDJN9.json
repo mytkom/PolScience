@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9",
+  "slug": "tomasz.łukasiak",
+  "profile_id": "LGVy6wgDJN9",
+  "full_name": "dr Tomasz Mariusz Łukasiak",
+  "orcid": "0000-0002-6732-2894",
+  "orcid_url": "https://orcid.org/0000-0002-6732-2894",
+  "breadcrumb_name": "Tomasz Łukasiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody komputerowe w inżynierii",
+    "teoria konstrukcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Auxetic Properties of the Stiffest Elastic Bodies as a Resultof Topology Optimization and Microstructures RecoveryBased on Homogenization Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/publications/546d4b6a-eed5-40b5-bd1d-bb7a8305db8e",
+      "authors": "S. Czarnecki, T. Łukasiak",
+      "publication_type": "Artykuł , physica status solidi (b)",
+      "year": "2024",
+      "doi": "10.1002/pssb.202300495",
+      "doi_url": "https://www.doi.org/10.1002/pssb.202300495",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Bending‐free lattices as underlying optimal isotropic microstructures of the least‐compliant two‐dimensional elastic bodies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/publications/3353fe9d-6386-4ade-ba88-4147b2549ac7",
+      "authors": "T. Łukasiak , S. Czarnecki",
+      "publication_type": "Artykuł , physica status solidi (b)",
+      "year": "2021",
+      "doi": "10.1002/pssb.202100344",
+      "doi_url": "https://www.doi.org/10.1002/pssb.202100344",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Recovery of the Auxetic Microstructures Appearing in the Least Compliant Continuum Two‐Dimensional Bodies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/publications/c84ac6e6-d5e2-40fd-b027-ff81dede133c",
+      "authors": "S. Czarnecki, T. Łukasiak",
+      "publication_type": "Artykuł , physica status solidi (b)",
+      "year": "2020",
+      "doi": "10.1002/pssb.202070036;10.1002/pssb.201900676",
+      "doi_url": "https://www.doi.org/10.1002/pssb.202070036;10.1002/pssb.201900676",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opis procesu dyskretyzacji w adaptacyjnych metodach określania fizycznych właściwości kompozytów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.%C5%82ukasiak.LGVy6wgDJN9/research-work/c5bd9f74-c8a2-485a-b8f5-a17a95f5f0e4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86090"
+    }
+  ],
+  "tag_cloud": [
+    "freely supported beam",
+    "metoda strut and tie",
+    "grillag",
+    "auxetic materials",
+    "compliance minimization",
+    "free material design",
+    "homogenization",
+    "kratownica",
+    "isotropic composites",
+    "isotropic and cubic composites"
+  ],
+  "coworkers": []
+}

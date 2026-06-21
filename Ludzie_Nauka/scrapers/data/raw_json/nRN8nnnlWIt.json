@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt",
+  "slug": "małgorzata.kucharska",
+  "profile_id": "nRN8nnnlWIt",
+  "full_name": "dr Małgorzata Kucharska",
+  "orcid": "0000-0003-0256-5091",
+  "orcid_url": "https://orcid.org/0000-0003-0256-5091",
+  "breadcrumb_name": "Małgorzata Kucharska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ochrona środowiska",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An Innovative Approach to the IME Process Applied to Stabilized Landfill Leachate",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/publications/bb716af4-a4ed-4a2b-95f3-7b11b43d06e2",
+      "authors": "J. Ładyńska, M. Kucharska , J. Naumczyk",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.20944/preprints202501.1585.v1",
+      "doi_url": "https://www.doi.org/10.20944/preprints202501.1585.v1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "An Innovative Approach to the Internal Microelectrolysis (IME) Process Applied to Stabilized Landfill Leachate",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/publications/a598c086-8226-4d69-98c5-412ace23a9c0",
+      "authors": "J. Ładyńska, M. Kucharska , J. Naumczyk",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15042201",
+      "doi_url": "https://www.doi.org/10.3390/app15042201",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Chemistry for Environmental Engineering. Laboratory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/publications/9782df68-60b5-4a66-ade6-2ca589b85165",
+      "authors": "M. Kucharska , J. Bogacki, A. Piotrowska",
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania nad rozkładem wybranych chlorofenoli za pomocą wysokoefektywnych procesów utleniania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.kucharska.nRN8nnnlWIt/research-work/70916324-fb78-4ddc-a947-ec2282ab48da",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=217096"
+    }
+  ],
+  "tag_cloud": [
+    "internal micro-electrolysis (ime)",
+    "gc-ms",
+    "oxidation processes",
+    "instrumental methods in environmental chemical analysis",
+    "wastewater analysis",
+    "wastewater treatment",
+    "aox",
+    "tannery wastewater",
+    "water analysis",
+    "electrochemical oxidation"
+  ],
+  "coworkers": []
+}

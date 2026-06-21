@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8",
+  "slug": "michał.piórek",
+  "profile_id": "WZ80CLyyge8",
+  "full_name": "dr inż. Michał Piórek",
+  "orcid": "0000-0002-3108-2665",
+  "orcid_url": "https://orcid.org/0000-0002-3108-2665",
+  "breadcrumb_name": "Michał Piórek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy dynamiczne",
+    "układy nieliniowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Eigenmaps - modified PCA-based approach for dimensionality reduction of multivariate time series of geospatial data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/publications/5960ecd6-6c5c-4db9-865e-1f3e224a811b",
+      "authors": "E. Skubalska-Rafajlowicz, A. Krzyżak, M. Piórek",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-84356-3_16",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-84356-3_16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Machine learning-based surrogate models for noise level prediction on urban scale maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/publications/1350fadd-70c5-470f-b9a1-aa721debf675",
+      "authors": "M. Bazan, P. Lewicki, M. Piórek , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A quaternion clustering framework",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/publications/a512dd57-c0a3-4c38-b236-bbca21c88893",
+      "authors": "M. Piórek , B. Jabłoński",
+      "publication_type": "Artykuł , International Journal of Applied Mathematics and Computer Science",
+      "year": "2020",
+      "doi": "10.34768/amcs-2020-0011",
+      "doi_url": "https://www.doi.org/10.34768/amcs-2020-0011",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza chaosu w procesach opisanych modelami kwaternionowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.pi%C3%B3rek.WZ80CLyyge8/research-work/66fccc56-4577-4851-9f70-9b26f342cd19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=282857"
+    }
+  ],
+  "tag_cloud": [
+    "quaternions clustering",
+    "układy dynamiczne",
+    "quaternion time series",
+    "chaos deterministyczny",
+    "non-linear dynamical systems",
+    "modele kwaternionowe",
+    "chaos",
+    "systemy nieliniowe",
+    "nonlinear systems",
+    "quaternion models"
+  ],
+  "coworkers": []
+}

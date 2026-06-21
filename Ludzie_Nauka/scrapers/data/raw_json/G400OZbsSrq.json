@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq",
+  "slug": "łukasz.oskwarek",
+  "profile_id": "G400OZbsSrq",
+  "full_name": "dr Łukasz Stanisław Oskwarek",
+  "orcid": "0000-0003-0644-2240",
+  "orcid_url": "https://orcid.org/0000-0003-0644-2240",
+  "breadcrumb_name": "Łukasz Oskwarek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "metrologia",
+    "miernictwo elektryczne",
+    "przetwarzanie sygnałów pomiarowych",
+    "systemy pomiarowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "18th International Conference on Computational Problems of Electrical Engineering (CPEE 2017) Proceedings of a meeting held",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/publications/ec90c569-3ced-4fd6-8b72-2494fbf877fa",
+      "authors": "Tom pokonferencyjny , 18th International Conference on Computational Problems of Electrical Engineering",
+      "publication_type": null,
+      "year": "2017",
+      "doi": "10.1109/cpee41638.2017",
+      "doi_url": "https://www.doi.org/10.1109/cpee41638.2017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Selection of EEG signal features for ERD/ERS classification using genetic algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/publications/d43ccf51-81d5-49b8-9618-50ea3706d9a5",
+      "authors": "A. Majkowski, D. Zapała [...] Ł. Oskwarek , ... (+4)",
+      "publication_type": "Artykuł , 2017 18th International Conference on Computational Problems of Electrical Engineering (CPEE)",
+      "year": "2017",
+      "doi": "10.1109/cpee.2017.8093082",
+      "doi_url": "https://www.doi.org/10.1109/cpee.2017.8093082",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "An attempt to localize brain electrical activity sources using EEG with limited number of electrodes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/publications/556afd63-2c22-4c2f-a2eb-02e37a9616be",
+      "authors": "Ł. Oskwarek , A. Majkowski, M. Kolodziej, ... (+1)",
+      "publication_type": "Artykuł , Biocybernetics and Biomedical Engineering",
+      "year": "2016",
+      "doi": "10.1016/j.bbe.2016.07.002",
+      "doi_url": "https://www.doi.org/10.1016/j.bbe.2016.07.002",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka doboru parametrów i struktury wielopunktowego systemu pomiarowego do tomografii impedancyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.oskwarek.G400OZbsSrq/research-work/c2f884ed-35d2-4b08-8413-c6ed73e2d3c3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=121288"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

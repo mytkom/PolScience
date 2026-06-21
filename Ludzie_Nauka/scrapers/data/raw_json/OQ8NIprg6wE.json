@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE",
+  "slug": "dawid.myszka",
+  "profile_id": "OQ8NIprg6wE",
+  "full_name": "dr hab. inż. Dawid Myszka",
+  "orcid": "0000-0002-1930-9951",
+  "orcid_url": "https://orcid.org/0000-0002-1930-9951",
+  "breadcrumb_name": "Dawid Myszka",
+  "current_employment_summary": [
+    "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "odlewnictwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Ekologii i Zarządzania w Warszawie Aktualna nazwa: Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "26 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "5 lat 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Mechaniki Precyzyjnej Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Mechaniki Precyzyjnej",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e9b87cbb-3ef2-4d2e-9991-c949b830ac36",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Influence of Initial Microstructure on the Microstructure and Mechanical Properties of Ductile Iron After Nanostructurisation Heat Treatment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/publications/cf963c22-c08f-4137-8635-413652d4ec12",
+      "authors": "A. Wieczorek, P. Skoczylas [...] D. Myszka , ... (+3)",
+      "publication_type": "Artykuł , Nanomaterials",
+      "year": "2025",
+      "doi": "10.3390/nano15221710",
+      "doi_url": "https://www.doi.org/10.3390/nano15221710",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Abrasive Wear Resistance of Ultrafine Ausferritic Ductile Iron Intended for the Manufacture of Gears for Mining Machinery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/publications/e023f7a8-14d9-4a23-875b-d5b53f3b4d39",
+      "authors": "D. Myszka , A. Wieczorek, E. Skołek, ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma16124311",
+      "doi_url": "https://www.doi.org/10.3390/ma16124311",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Highly Accurate Structural Analysis of Austempered Ductile Iron Using EBSD Technique",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/publications/6708d5d7-c442-4755-8326-bafb343f0d48",
+      "authors": "D. Myszka , P. Kejzlar, Z. Andrsova, ... (+3)",
+      "publication_type": "Artykuł , Materials Science Forum",
+      "year": "2023",
+      "doi": "10.4028/p-7xl336",
+      "doi_url": "https://www.doi.org/10.4028/p-7xl336",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Technologiczne aspekty przemiany odkształceniowej w żeliwie sferoidalnym ausferrytycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work/385692d1-fc66-46c5-abf9-febd92e14595",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Struktura i właściwości żeliwa ADI otrzymanego przez bezpośrednie hartowanie izotermiczne w złożu fluidalnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work/2ea86372-4c2c-4999-9ef7-5889415ea1fe",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Development of cast heat enhancers for corrosive PCM-based energy storage system",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work/91a4c518-bb83-4a98-b052-dc79d7d0628e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Kompleksowa ocena żeliwa z grafitem o wielu postaciach oparta na średniej ważonej wartości wskaźnika jego kształtu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work/c61c3f9d-940b-4f3e-9578-0ac0481561f4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wyznaczenie przewodności termicznej w połączeniach wysokoprądowych oraz budowa modelu numerycznego opisującego zależności termiczne styku materiałów stosowanych w tych połączeniach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.myszka.OQ8NIprg6wE/research-work/627cdcf9-4741-4efc-aa9f-614520122b59",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=119551"
+    }
+  ],
+  "tag_cloud": [
+    "wytwarzanie przyrostowe",
+    "diffusional transformation",
+    "model characteristics",
+    "adi",
+    "proszki metaliczne",
+    "intercritically austenitizing ductile iron (iadi)",
+    "high dynamic deformation",
+    "trip phenomenon",
+    "optymalizacja topologiczna",
+    "stopy żelaza"
+  ],
+  "coworkers": []
+}

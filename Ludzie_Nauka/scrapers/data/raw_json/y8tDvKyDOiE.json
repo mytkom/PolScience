@@ -1,0 +1,197 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE",
+  "slug": "marcin.gabryel",
+  "profile_id": "y8tDvKyDOiE",
+  "full_name": "dr inż. Marcin Gabryel",
+  "orcid": "0000-0002-6701-0460",
+  "orcid_url": "https://orcid.org/0000-0002-6701-0460",
+  "breadcrumb_name": "Marcin Gabryel",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inteligencja obliczeniowa",
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat",
+      "duration": null,
+      "institution": "Olsztyńska Wyższa Szkoła Informatyki i Zarządzania im. prof. Tadeusza Kotarbińskiego w Olsztynie Aktualna nazwa: Wyższa Szkoła Informatyki i Zarządzania im. Prof. Tadeusza Kotarbińskiego z siedzibą w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b0e6027-66e8-4ba2-8f04-552b398f1d8c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        },
+        {
+          "label": "Akademia Finansów i Biznesu Vistula >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1cb32064-70d2-4de8-b43f-8e67b8a4286b"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Accelerating User Profiling in E-Commerce Using Conditional GAN Networks for Synthetic Data Generation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/publications/a7618a4d-ed9c-4c32-b6a3-5a8dc0b197f7",
+      "authors": "M. Gabryel , E. Kocic, E. Kocić, ... (+6)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2024",
+      "doi": "10.2478/jaiscr-2024-0017",
+      "doi_url": "https://www.doi.org/10.2478/jaiscr-2024-0017",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Profiling of Webshop Users in Terms of Price Sensitivity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/publications/49725b35-c09e-4431-9676-6195d396b846",
+      "authors": "E. Kocić, M. Gabryel , M. Kocić",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-42505-9_44",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-42505-9_44",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Detecting Anomalies in Advertising Web Traffic with the Use of the Variational Autoencoder",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/publications/d07f8755-6bca-4f65-aff5-850d6a8e8464",
+      "authors": "M. Gabryel , Z. Filutowicz, Z. Patora-Wysocka, ... (+3)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2022",
+      "doi": "10.2478/jaiscr-2022-0017",
+      "doi_url": "https://www.doi.org/10.2478/jaiscr-2022-0017",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ewolucyjne metody projektowania modularnych systemów inteligentnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/research-work/83e61882-f3f6-4086-a7ae-00edfb010c71",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Nowe metody przechowywania i wyszukiwania zawartości obrazów w bazie danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gabryel.y8tDvKyDOiE/research-work/463e03cf-7420-4fdb-8b6f-3c87ab18246a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208107"
+    }
+  ],
+  "tag_cloud": [
+    "neural network",
+    "ad fraud",
+    "imbalanced dataset",
+    "ad fraud detection",
+    "bag-of-words",
+    "object recognition",
+    "data augmentation",
+    "image classification",
+    "anomaly detection",
+    "deep learning"
+  ],
+  "coworkers": []
+}

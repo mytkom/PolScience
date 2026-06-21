@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG",
+  "slug": "marek.nowak",
+  "profile_id": "7uKOwChDMUG",
+  "full_name": "dr hab. inż. Marek Sebastian Nowak",
+  "orcid": "0000-0002-5146-4695",
+  "orcid_url": "https://orcid.org/0000-0002-5146-4695",
+  "breadcrumb_name": "Marek Nowak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "materiały nanokrystaliczne",
+    "energetyka wodorowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata",
+      "duration": null,
+      "institution": "Wyższa Szkoła Edukacji i Terapii w Poznaniu Aktualna nazwa: Wyższa Szkoła Edukacji i Terapii im. prof. Kazimiery Milanowskiej z siedzibą w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d719ed3b-5b56-4940-9eb9-1255fc3bb940",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria materiałowa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/gremiums/4c909531-c2ab-46ca-b74d-fd5f09638a44",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrochemical characterization and corrosion resistance of Cu- and Ag-containing Ti alloys produced by mechanical alloying",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/publications/e94598d7-9387-4e64-bf7c-9954b5472f0e",
+      "authors": "K. Arkusz, K. Pasik, M. Nowak , ... (+5)",
+      "publication_type": "Artykuł , Journal of Alloys and Compounds",
+      "year": "2026",
+      "doi": "10.1016/j.jallcom.2026.186798",
+      "doi_url": "https://www.doi.org/10.1016/j.jallcom.2026.186798",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nanotechnology for biomedical applications: synthesis and properties of Ti-based nanocomposites.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/publications/c08aee59-e7b0-4abb-9812-4c3b121cb968",
+      "authors": "M. Tuliński, M. Jurczyk, M. Nowak , ... (+2)",
+      "publication_type": "Artykuł , Nanomaterials",
+      "year": "2025",
+      "doi": "10.3390/nano15181417",
+      "doi_url": "https://www.doi.org/10.3390/nano15181417",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Chemical stability of high-entropy spinel in a high-pressure pure hydrogen atmosphere",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/publications/26e534fe-b022-446a-82e7-441edf760b2b",
+      "authors": "K. Domaradzki, A. Adamczyk [...] M. Nowak , ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17133309",
+      "doi_url": "https://www.doi.org/10.3390/ma17133309",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nanomateriały funkcjonalne: otrzymywanie, charakterystyka, właściwości: - nanomateriały odwracalnie absorbujące wodór na bazie faz międzymetalicznych otrzymywane metodą mechanicznej syntezy - struktura i właściwości, - stopy NiTi z nanostrukturą wytworzone metodą mechanicznej syntezy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/research-work/e5471234-2b07-4895-a06f-94af5d026183",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nanomateriały funkcjonalne: otrzymywanie, charakterystyka, właściwości - biokompozyty porowate typu Mg-Y",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/research-work/f04ea71b-9194-4994-9ab1-4c470491a8af",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Nanomateriały kompozytowe na bazie magnezu odwracalnie absorbujące wodór wytwarzane metodą mechanicznej syntezy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/research-work/f7ba7125-ce2a-4962-99b0-d3dad55dc9f6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Mechanosynteza, struktura i właściwości kompleksowego wodorku typu Mg2Fe(X)H6 wytwarzanego z proszkowych substratów MgH2 i 316L",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.nowak.7uKOwChDMUG/research-work/35898b78-a142-4c48-b09f-96282a91705a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=115121"
+    }
+  ],
+  "tag_cloud": [
+    "xps",
+    "metal hydrides",
+    "zinc addition",
+    "hydrogen",
+    "mechanical alloying",
+    "ball-milling",
+    "high-entropy oxide",
+    "la-mg-ni alloys",
+    "dft",
+    "hydrides"
+  ],
+  "coworkers": []
+}

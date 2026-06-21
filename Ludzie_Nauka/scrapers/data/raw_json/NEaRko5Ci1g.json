@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g",
+  "slug": "rafał.małecki",
+  "profile_id": "NEaRko5Ci1g",
+  "full_name": "dr hab. Rafał Małecki",
+  "orcid": "0000-0002-7079-6783",
+  "orcid_url": "https://orcid.org/0000-0002-7079-6783",
+  "breadcrumb_name": "Rafał Małecki",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "choroby wewnętrzne",
+    "angiologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski Kształcenia Podyplomowego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8879a500-9969-4662-bddf-9c6019a72586"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki medyczne / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski Kształcenia Podyplomowego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8879a500-9969-4662-bddf-9c6019a72586"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna im. Piastów Śląskich we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Effect of Vitamin D Supplementation on Functional Outcomes in Patients Undergoing Rehabilitation After an Ischemic Stroke: A Prospective, Single-Blind, Randomized, Placebo-Controlled Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/publications/b475427d-cb31-4fc0-a06f-50e686fb68b9",
+      "authors": "W. Borowicz, L. Ptaszkowska, R. Malecki , ... (+1)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14061848",
+      "doi_url": "https://www.doi.org/10.3390/jcm14061848",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The angiography pattern of buerger's disease: challenges and recommendations.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/publications/0f12286d-64c1-4882-a5d1-1119c2f85295",
+      "authors": "B. Fazeli, P. Poredoš [...] R. Malecki , ... (+46)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14144841",
+      "doi_url": "https://www.doi.org/10.3390/jcm14144841",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The predictive role of protease-activated receptor (PAR-1) polymorphisms and activated microplatelets on the severity of atherosclerosis – preliminary studies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/publications/f1e0862e-c143-4789-b243-1ac2835adf92",
+      "authors": "U. Jakobsche-Policht, A. Bronowicka-Szydełko [...] R. Malecki , ... (+18)",
+      "publication_type": "Artykuł , Frontiers in Molecular Biosciences",
+      "year": "2025",
+      "doi": "10.3389/fmolb.2025.1662954",
+      "doi_url": "https://www.doi.org/10.3389/fmolb.2025.1662954",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Mechanizmy zależne od komórek krwi obwodowej w patogenezie zaburzeń ukrwienia kończyn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/research-work/f8e022c9-d510-43aa-a0a6-433147e95d17",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ekspresja receptora wapniowego na powierzchni monocytów krwi obwodowej pacjentów z makroangiopatią cukrzycową i miażdżycą zarostową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/research-work/00ea3d62-82ff-447e-882f-63721d1daed3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ dostępu promieniowego i doświadczenia operatora na wyniki przezskórnej angioplastyki naczyń wieńcowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.ma%C5%82ecki.NEaRko5Ci1g/research-work/99f2a88e-342f-4e44-b5c0-adee6192791e",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=126082"
+    }
+  ],
+  "tag_cloud": [
+    "international prognostic score for essential thrombocythemia",
+    "uveitis",
+    "pregnancy",
+    "anterior ischemic optic neuropathy",
+    "atherosclerosis",
+    "balance model",
+    "buerger's disease",
+    "interferon",
+    "miażdżyca",
+    "essential thrombocythemia"
+  ],
+  "coworkers": []
+}

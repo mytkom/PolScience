@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt",
+  "slug": "marek.wojtyra",
+  "profile_id": "iFOmnMkcmVt",
+  "full_name": "dr hab. inż. Marek Andrzej Wojtyra",
+  "orcid": "0000-0001-7225-7647",
+  "orcid_url": "https://orcid.org/0000-0001-7225-7647",
+  "breadcrumb_name": "Marek Wojtyra",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teoria mechanizmów i robotów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Energetyki i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7bc2e1c7-1658-40a5-940a-259eb6073ab8"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/gremiums/cc968d72-7d92-4cac-9834-1e83aa202935",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Mechaniczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Mechaniczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Predictive inverse kinematics with trajectory scaling for redundant manipulators based on quadratic optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/publications/eaaaf56a-dc59-4979-9039-c485798d26ca",
+      "authors": "Ł. Woliński, M. Wojtyra",
+      "publication_type": "Artykuł , Mechanism and Machine Theory",
+      "year": "2025",
+      "doi": "10.1016/j.mechmachtheory.2025.105988",
+      "doi_url": "https://www.doi.org/10.1016/j.mechmachtheory.2025.105988",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Reaction uniqueness problem in the divide-and-conquer approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/publications/a640aca3-fb00-4bdb-909f-5b1fc05ec263",
+      "authors": "M. Pękal, P. Malczyk, M. Wojtyra , ... (+1)",
+      "publication_type": "Artykuł , Multibody System Dynamics",
+      "year": "2025",
+      "doi": "10.1007/s11044-025-10122-9",
+      "doi_url": "https://www.doi.org/10.1007/s11044-025-10122-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An inverse kinematics solution with trajectory scaling for redundant manipulators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/publications/2b489eec-3673-46ef-97e7-8c78b290b67e",
+      "authors": "Ł. Woliński, M. Wojtyra",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1016/j.mechmachtheory.2023.105493",
+      "doi_url": "https://www.doi.org/10.1016/j.mechmachtheory.2023.105493",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamika układów wieloczłonowych z więzami nadmiarowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/aa25ef16-9b6c-410b-b16e-f02f22bfbc04",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza dynamiczna chodu człowieka z zastosowaniem metody układów wieloczłonowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/ffb2cc39-a905-4b75-b8f7-cdaca670c6fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody planowania trajektorii optymalnych manipulatorów redundantnych pracujących w zmiennym środowisku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/5eff2cba-918a-4e59-9269-b1195d08343c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie jednoznaczności sił reakcji i sił napędowych w modelach wieloczłonowych układów mechanicznych i robotycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/cc733a4e-1455-4bdc-ae3d-d46c5e58a341",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie ruchu robota kołowo-kroczącego w terenie z nierównościami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/658b3681-b886-41af-9bfd-d6457029594d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Układ przeniesienia napędu regulacji tarcz wyważających na wał za pomocą hamowania wiroprądowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/76186ead-21d5-4ded-8681-f7bd941dc4c0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Multiscale numerical modeling and analysis of acoustic emission phenomena",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wojtyra.iFOmnMkcmVt/research-work/5b9baefb-42ec-40fc-a991-5766c2eddb78",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=91068"
+    }
+  ],
+  "tag_cloud": [
+    "new approach",
+    "robot programming",
+    "nonholonomic system",
+    "redundantly constrained system",
+    "uniqueness analysis",
+    "quadratic programming",
+    "lugre model",
+    "więzy nadmiarowe",
+    "normal load",
+    "equations of state"
+  ],
+  "coworkers": []
+}

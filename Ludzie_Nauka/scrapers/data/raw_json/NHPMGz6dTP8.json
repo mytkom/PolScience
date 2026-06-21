@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8",
+  "slug": "katarzyna.tokarska",
+  "profile_id": "NHPMGz6dTP8",
+  "full_name": "dr inż. Katarzyna Tokarska",
+  "orcid": "0000-0002-9003-1884",
+  "orcid_url": "https://orcid.org/0000-0002-9003-1884",
+  "breadcrumb_name": "Katarzyna Tokarska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "mikrobioanalityka",
+    "biotechnologia medyczna",
+    "mikrosystemy w inżynierii komórkowej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/gremiums/b795cbdb-282d-4ba4-a31d-100dea5b2c51",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Nauki Chemiczne 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Nauki Chemiczne Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cartridge for paper-based sensors and its application for explosive materials detection.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/publications/ac00a1a8-b7b2-4e87-8c57-37c3b8ae1318",
+      "authors": "W. Furmanek, K. Tokarska , K. Żukowski, ... (+10)",
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2025",
+      "doi": "10.1109/jsen.2025.3574373",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2025.3574373",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Printer toner-assisted immobilization of antibodies on PET for genuinely-2D, flexible ELISA spot arrays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/publications/ca738e60-3794-4821-8373-dd26c2fe8dad",
+      "authors": "M. Drozd, K. Żukowski [...] K. Tokarska , ... (+5)",
+      "publication_type": "Artykuł , Sensors and Actuators B: Chemical",
+      "year": "2024",
+      "doi": "10.1016/j.snb.2023.135173",
+      "doi_url": "https://www.doi.org/10.1016/j.snb.2023.135173",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Towards Bio-Safe and Easily Redispersible Bare ZnO Quantum Dots Engineered via Organometallic Wet-Chemical Processing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/publications/611fbef0-8709-46b9-a7f0-0410708d6efd",
+      "authors": "J. Lewiński, M. Wolska-Pietkiewicz, K. Tokarska , ... (+4)",
+      "publication_type": "Artykuł , CHEMICAL ENGINEERING JOURNAL",
+      "year": "2023",
+      "doi": "10.1016/j.cej.2022.140497",
+      "doi_url": "https://www.doi.org/10.1016/j.cej.2022.140497",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.tokarska.NHPMGz6dTP8/research-work/509da025-a1e1-4511-ba02-92ef19e9261b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=307041"
+    }
+  ],
+  "tag_cloud": [
+    "printed microfluidics",
+    "nowotwory",
+    "quantum",
+    "photodynamic therapy",
+    "aktywność fotofizyczna",
+    "lab-on-a-chip",
+    "quantitative phase imaging",
+    "nanonośniki fotouczulaczy",
+    "organ-on-chip",
+    "nanocolloid"
+  ],
+  "coworkers": []
+}

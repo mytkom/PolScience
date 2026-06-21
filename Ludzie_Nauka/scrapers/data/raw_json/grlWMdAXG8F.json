@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F",
+  "slug": "arkadiusz.szot",
+  "profile_id": "grlWMdAXG8F",
+  "full_name": "dr inż. Arkadiusz Stanisław Szot",
+  "orcid": "0000-0002-1117-2583",
+  "orcid_url": "https://orcid.org/0000-0002-1117-2583",
+  "breadcrumb_name": "Arkadiusz Szot",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria miejska"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Underground infrastructure of urban areas 4",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/publications/58ec7aae-63c2-4bb0-a476-3fa81d8b9f5c",
+      "authors": "A. Szot , B. Nienartowicz, C. Madryas, ... (+1)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2018",
+      "doi": "10.1201/9780203712573",
+      "doi_url": "https://www.doi.org/10.1201/9780203712573",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Random finite differential method used to estimate pipeline time life on suggested safety level with corrosion effects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/publications/a6ec87ff-7a3c-4409-8259-e8ecafed3637",
+      "authors": "J. Kozubal, A. Szot",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.5593/sgem2016/b32/s13.034",
+      "doi_url": "https://www.doi.org/10.5593/sgem2016/b32/s13.034",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Underground infrastructure of urban areas 3",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/publications/0a46879c-31b7-417e-af04-1bff34e2af11",
+      "authors": "A. Kolonko, T. Abel [...] A. Szot , ... (+8)",
+      "publication_type": "Książka , CRC Press, Tylor & Francis",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nośność rurociągów kanalizacyjnych wzmacnianych polimerowymi wykładzinami ciągłymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.szot.grlWMdAXG8F/research-work/924a2484-8c26-49c2-8cbc-52fb17d6dbf5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111396"
+    }
+  ],
+  "tag_cloud": [
+    "infrastruktura miejska",
+    "urban infrastructure",
+    "bezpieczeństwo",
+    "building object",
+    "wykładzina",
+    "stateczność",
+    "nośność",
+    "obliczenia statyczne",
+    "obiekt budowlany",
+    "kanalizacja"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi",
+  "slug": "robert.adamczyk",
+  "profile_id": "yPf0TU2mDWi",
+  "full_name": "dr inż. Robert Adamczyk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Robert Adamczyk",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "dynamika budowli"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "konstrukcje budowlane i inżynierskie",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska w Koszalinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza numeryczna ustrojów zabezpieczających konstrukcje budowlano-inżynierskie przed skutkami nagłych obciążeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.adamczyk.yPf0TU2mDWi/research-work/729c8236-a157-4126-91b3-5c424db6f903",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=114152"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

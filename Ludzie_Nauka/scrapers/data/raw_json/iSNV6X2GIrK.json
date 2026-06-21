@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK",
+  "slug": "jarosław.rybicki",
+  "profile_id": "iSNV6X2GIrK",
+  "full_name": "prof. dr hab. inż. Jarosław Rybicki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jarosław Rybicki",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "fizyka obliczeniowa",
+    "fizyka teoretyczna",
+    "symulacje komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "43 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Polskie Towarzystwo Symulacji Komputerowej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/gremiums/56fb8b4a-7a85-4def-a18c-afe7d8b88d70",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Novel Method for Realistically Simulating the Deposition of Thin Films from the Gas Phase and its Application to Study the Growth of Thin Gold Film on Crystalline Silicon",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/publications/3e3af580-2423-4c47-a2aa-cd18f2ea82ff",
+      "authors": "S. Winczewski, J. Dziedzic [...] J. Rybicki , ... (+1)",
+      "publication_type": "Artykuł , Journal of Chemical Theory and Computation",
+      "year": "2025",
+      "doi": "10.1021/acs.jctc.5c00319",
+      "doi_url": "https://www.doi.org/10.1021/acs.jctc.5c00319",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "48. Zjazd Fizyków Polskich, Gdańsk, 1-7 września 2023 r. : streszczenia referatów konferencyjnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/publications/4c4a2721-cfdc-4c1d-a154-c99c3637e858",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Gdańska :",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Narodowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Negative Poisson’s ratio from pentagons: A new auxetic structure combining three different auxetic mechanisms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/publications/a0d68fc4-b6bf-4f0b-90e3-517b6950e33e",
+      "authors": "S. Winczewski, J. Rybicki",
+      "publication_type": "Artykuł , Computational Materials Science",
+      "year": "2022",
+      "doi": "10.1016/j.commatsci.2021.110914",
+      "doi_url": "https://www.doi.org/10.1016/j.commatsci.2021.110914",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Transport nośników w przestrzennie niejednorodnych cienkich warstwach dielektrycznych i słabo przewodzących",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/79c1b382-1932-4521-bdf9-b5c761e200e7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Prądy przejściowe w cienkich warstwach dielektrycznych z przestrzennie niejednorodnym rozkładem pułapek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/9af18a0e-78de-483f-ac22-501b7597ff7d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy do lokalizacji dyslokacji w materiałach symulowanych numerycznie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/eff38405-d8d1-4044-aff6-472756a9df5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Właściwości mechaniczne wybranych nanostruktur",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/f0230d89-0b84-43f7-a818-f9c5c8bb1771",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Klasyczno-kwantowe obliczenia nanomechanicznych właściwości metali",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/f21b7f2f-be2f-44b2-9255-9f1f61a760da",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Nanomateriały plazmoniczne do zastosowań w powierzchniowo wzmocnionej spektroskopii Ramana i fotokatalizie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/b00beba0-46ee-4569-8b02-ffa639c12d12",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Defektowanie radiacyjne oraz zmiany absorpcji pod wpływem wysokoenergetycznego promieniowania korpuskularnego krystalicznych materiałów tlenkowych do zastosowań w optoelektronice",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/190a3489-de04-4fb3-bba1-2bc0541fde04",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie metodami Elektronowego Rezonansu Magnetycznego i Stałoprądowej Podatności Magnetycznej układu FeVO 4 -Co 3 V 2 O 8",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.rybicki.iSNV6X2GIrK/research-work/b931ff14-24e4-4a2e-af83-21ca95769d23",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61479"
+    }
+  ],
+  "tag_cloud": [
+    "re-entrant honeycomb",
+    "free volume theory",
+    "metal nanofilms",
+    "molecular dynamics simulations",
+    "atomic structure",
+    "density profile",
+    "auxetic",
+    "concentration changes",
+    "self- diffusion coefficient",
+    "liquid metals"
+  ],
+  "coworkers": []
+}

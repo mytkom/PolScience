@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M",
+  "slug": "tomasz.szczepanik",
+  "profile_id": "xXxRUpCwS0M",
+  "full_name": "mgr inż. Tomasz Szczepanik",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Tomasz Szczepanik",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Machine Learning System for Energy Forecasting with Feature Importance Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/publications/74a3c1eb-0986-43bb-b846-e79e5fe73e87",
+      "authors": "M. Zalsiński, T. Szczepanik , P. Dobosz",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97567-7_3",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97567-7_3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "PV Solar Power Forecasting Using a Subset of Characteristic Features Selected by AI Methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/publications/74d238c0-2370-4a83-9ec1-6f68539ae9e6",
+      "authors": "T. Szczepanik , M. Zalsiński",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-81596-6_17",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-81596-6_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Photovoltaic Energy Prediction: Evaluating Feature Selection Methods for Enhanced Forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.szczepanik.xXxRUpCwS0M/publications/876c4e8c-31b7-4c7d-8f63-1cf057c0e9c2",
+      "authors": "M. Zalsiński, T. Szczepanik , M. Scherer, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.75",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.75",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

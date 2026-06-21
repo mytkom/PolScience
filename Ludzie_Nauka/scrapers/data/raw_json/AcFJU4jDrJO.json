@@ -1,0 +1,139 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO",
+  "slug": "lidia.typańska-czajka",
+  "profile_id": "AcFJU4jDrJO",
+  "full_name": "dr Lidia Typańska-Czajka",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Lidia Typańska-Czajka",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Collegium Da Vinci z siedzibą w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/023319de-3ea4-4e9d-b693-ff0c3f2e62fb",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Krata rozszerzeń logiki relewantnej E",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.typa%C5%84ska-czajka.AcFJU4jDrJO/research-work/5f9f5687-eb35-421a-8871-483daf43a37b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=290386"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

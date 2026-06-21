@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv",
+  "slug": "piotr.kędzia",
+  "profile_id": "lE84loDqeHv",
+  "full_name": "dr inż. Piotr Kędzia",
+  "orcid": "0000-0001-9934-840X",
+  "orcid_url": "https://orcid.org/0000-0001-9934-840X",
+  "breadcrumb_name": "Piotr Kędzia",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody komputerowe w mechanice",
+    "komputerowa mechanika płynów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika komputerowa konstrukcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Buckling behavior of built-up thin-walled I-beams with trapezoidal flanged cores",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/publications/7be499b9-3621-4fc8-a20f-0304b87fae94",
+      "authors": "M. Plust, P. Paczos, P. Kędzia",
+      "publication_type": "Artykuł , Engineering Structures",
+      "year": "2025",
+      "doi": "10.1016/j.engstruct.2025.120004",
+      "doi_url": "https://www.doi.org/10.1016/j.engstruct.2025.120004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Elastic buckling of a two-part beam on Winkler's elastic foundation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/publications/b8696876-65d7-4fa0-b494-0329307e5953",
+      "authors": "K. Magnucki, P. Kędzia , I. Wstawska",
+      "publication_type": "Artykuł , Archive of Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.24425/ame.2025.154736",
+      "doi_url": "https://www.doi.org/10.24425/ame.2025.154736",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Impact of specific geometric parameters of the axle on the modal characteristics of vibration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/publications/ac5a4162-b03e-420d-8a6d-47ce74fc0781",
+      "authors": "P. Kędzia , P. Lau, P. Paczos",
+      "publication_type": "Artykuł , Vibrations in Physical Systems",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Symulacja przepływu ferromagnetycznego płynu nienewtonowskiego w kanałach o wybranych przekrojach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dzia.lE84loDqeHv/research-work/9d372dd5-fcda-4d86-9eb9-ba061b051b06",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=249301"
+    }
+  ],
+  "tag_cloud": [
+    "composite plate",
+    "three-layered beam",
+    "buckling",
+    "stability",
+    "sandwich beam",
+    "elastic foundation",
+    "magnetic field",
+    "nonlinear analysis",
+    "imperfections",
+    "critical loads"
+  ],
+  "coworkers": []
+}

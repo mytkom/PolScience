@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe",
+  "slug": "zbigniew.wrzesiński",
+  "profile_id": "r5ICVRncrVe",
+  "full_name": "dr hab. Zbigniew Antoni Wrzesiński",
+  "orcid": "0000-0003-1560-2971",
+  "orcid_url": "https://orcid.org/0000-0003-1560-2971",
+  "breadcrumb_name": "Zbigniew Wrzesiński",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "termodynamika",
+    "uzbrojenie"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "54 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1978",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Termodynamika",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/publications/4962543b-adcf-4aed-ba50-f2fee91f797c",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Terrmodynamika odnawialnych źródeł energii",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/publications/4078b563-5251-4484-9251-af2ee0f968e0",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Termodynamika półprzewodnikowego złącza p-n w stanie spolaryzowanym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/publications/e830c16c-9a79-4054-aadc-09ede5b8e927",
+      "authors": null,
+      "publication_type": "Artykuł , Przemysł Chemiczny",
+      "year": "2024",
+      "doi": "10.15199/62.2024.12.19",
+      "doi_url": "https://www.doi.org/10.15199/62.2024.12.19",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.wrzesi%C5%84ski.r5ICVRncrVe/research-work/288a214c-2d83-4ba3-b6a6-eaf946e06c7b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52699"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

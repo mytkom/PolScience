@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL",
+  "slug": "piotr.nowak",
+  "profile_id": "XppcRCNiCqL",
+  "full_name": "mgr inż. Piotr Paweł Nowak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Nowak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyczne systemy automatyki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2022",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Standard and RL-controled tabu search algorithms comparison in capacitated vehicle routing problem solving",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/publications/70b93f57-5a07-4fe0-b0f7-0a4810a2a232",
+      "authors": "J. Bronicki, P. Nowak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Metaheuristics, Artificial Intelligence, quantum computing in vehicle routing and Bin Packing Problems optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/publications/35ce381f-869b-40bd-b5b6-6987e9b407fc",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1109/cinti67731.2025.11311786",
+      "doi_url": "https://www.doi.org/10.1109/cinti67731.2025.11311786",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optymalizacja kosztów w transporcie multimodalnym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.nowak.XppcRCNiCqL/publications/e526ca7e-9764-4568-8ce2-ce89052187cd",
+      "authors": "R. Idzikowski, M. Jaroszczuk, P. Nowak , ... (+1)",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

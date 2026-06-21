@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV",
+  "slug": "przemysław.błaśkiewicz",
+  "profile_id": "pUUfdKCuHbV",
+  "full_name": "dr inż. Przemysław Tomasz Błaśkiewicz",
+  "orcid": "0000-0001-5570-5938",
+  "orcid_url": "https://orcid.org/0000-0001-5570-5938",
+  "breadcrumb_name": "Przemysław Błaśkiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kryptografia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Darknet signatures: public ledgers and a threat of illegal betting platforms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/publications/2d809a6f-2fcf-418c-a6c6-6606a2088330",
+      "authors": "M. Kutyłowski, A. Lauks-Dutka, P. Błaśkiewicz",
+      "publication_type": "Artykuł , International Journal of Information Security",
+      "year": "2025",
+      "doi": "10.1007/s10207-025-01017-z",
+      "doi_url": "https://www.doi.org/10.1007/s10207-025-01017-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Advanced electronic signatures and eIDAS - analysis of the concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/publications/599d62fa-6d60-4029-ae45-69e387149fc1",
+      "authors": "M. Kutyłowski, P. Błaśkiewicz",
+      "publication_type": "Artykuł , Computer Standards and Interfaces",
+      "year": "2023",
+      "doi": "10.1016/j.csi.2022.103644",
+      "doi_url": "https://www.doi.org/10.1016/j.csi.2022.103644",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analiza ekosystemu tożsamości cyfrowej w Polsce, stopnia jego wdrożenia i zastosowanie dowodów osobistych z warstwą elektroniczną",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/publications/8fef9df4-348f-494c-a43f-1b834e504e27",
+      "authors": "W. Wodo, P. Błaśkiewicz , D. Rybak, ... (+1)",
+      "publication_type": "Książka",
+      "year": "2023",
+      "doi": "10.37190/wodo-rybak-blaskiewicz-2023",
+      "doi_url": "https://www.doi.org/10.37190/wodo-rybak-blaskiewicz-2023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Mechanizmy bezpieczeństwa dla małych systemów komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.b%C5%82a%C5%9Bkiewicz.pUUfdKCuHbV/research-work/fdfd465b-14b2-461f-a8f5-38a64e09d13e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=255613"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

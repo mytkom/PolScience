@@ -1,0 +1,194 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS",
+  "slug": "krzysztof.kurek",
+  "profile_id": "nIm0AL173gS",
+  "full_name": "dr inż. Krzysztof Jacek Kurek",
+  "orcid": "0000-0003-3495-4542",
+  "orcid_url": "https://orcid.org/0000-0003-3495-4542",
+  "breadcrumb_name": "Krzysztof Kurek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radioelektronika",
+    "radiokomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Narodowy do spraw Współpracy z Komitetem Badań Przestrzeni Kosmicznej (COSPAR)",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/gremiums/cd720b6e-824f-435e-9795-9a2d8c4fde32",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Narodowy do spraw Współpracy z Międzynarodową Federacją Astronautyczną (IAF)",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/gremiums/2fb676ed-c746-47bd-998b-8ee340cfe67a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komitet Badań Kosmicznych i Satelitarnych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/gremiums/00724f0d-9417-42b7-848b-79b9ce4e8cb8",
+      "period": "2007-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Detection of Lunar Regolith Acquired by Excavator Using Radiofrequency (RF) Sensors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/publications/91b81f12-2841-42fb-abef-62fec5733b6d",
+      "authors": "K. Kurek , K. Seweryn, A. Tkacz, ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25030751",
+      "doi_url": "https://www.doi.org/10.3390/s25030751",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Daily Changes in Channel Occupancy in the 868 MHz ISM Band",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/publications/fc7872a2-2c31-4840-9b86-642e3e3b7c0e",
+      "authors": "S. Kozłowski, K. Kurek",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s22249928",
+      "doi_url": "https://www.doi.org/10.3390/s22249928",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Channel Occupancy Measurements in 868 MHz ISM Band in Residential Areas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/publications/3b0e282f-cb36-4fec-af43-206c1906fca8",
+      "authors": "K. Kurek , S. Kozłowski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21237805",
+      "doi_url": "https://www.doi.org/10.3390/s21237805",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza szerokopasmowych właściwości kanału propagacyjnego wewnątrz budynków w systemach łączności bezprzewodowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kurek.nIm0AL173gS/research-work/78b426f8-debf-4914-8c22-51cbeb421341",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111658"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

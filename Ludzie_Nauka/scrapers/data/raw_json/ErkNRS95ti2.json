@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2",
+  "slug": "katarzyna.jekiel",
+  "profile_id": "ErkNRS95ti2",
+  "full_name": "dr Katarzyna Jekiel",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Katarzyna Jekiel",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Uniwersytet Ekonomiczny w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / towaroznawstwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia molekularna",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of Different Detection Methods in Bacteria Survival on Cotton and Polyester Textiles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/publications/36c45c82-9899-41c4-b126-fbbb91ed254c",
+      "authors": "K. Jekiel , J. Syguła-Cholewińska",
+      "publication_type": "Artykuł , Journal of Natural Fibers",
+      "year": "2025",
+      "doi": "10.1080/15440478.2024.2437533",
+      "doi_url": "https://www.doi.org/10.1080/15440478.2024.2437533",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Microbiological contamination monitoring in laundries –modern trends and biological contamination control systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.jekiel.ErkNRS95ti2/publications/0d13b047-a980-4850-9277-bf3190717de8",
+      "authors": "K. Jekiel , J. Syguła-Cholewińska",
+      "publication_type": "Artykuł , Scientific Journal of Gdynia Maritime University",
+      "year": "2025",
+      "doi": "10.26408/135.05",
+      "doi_url": "https://www.doi.org/10.26408/135.05",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

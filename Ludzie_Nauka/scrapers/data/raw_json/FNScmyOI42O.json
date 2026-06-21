@@ -1,0 +1,303 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O",
+  "slug": "krzysztof.cpałka",
+  "profile_id": "FNScmyOI42O",
+  "full_name": "prof. dr hab. inż. Krzysztof Cpałka",
+  "orcid": "0000-0001-9761-118X",
+  "orcid_url": "https://orcid.org/0000-0001-9761-118X",
+  "breadcrumb_name": "Krzysztof Cpałka",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bazy danych",
+    "inżynieria oprogramowania",
+    "logika rozmyta",
+    "rozmyto-neuronowe systemy wnioskujące",
+    "sieci neuronowe",
+    "sztuczna inteligencja",
+    "inteligencja obliczeniowa",
+    "biometria"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Europejska Wyższa Szkoła Informatyczno-Ekonomiczna w Warszawa Aktualna nazwa: Europejska Uczelnia w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f8282d52-9e6b-4cd9-86ef-06bd543460ce",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/669fee72-713b-4509-99a3-81f522cb7159",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An AI-Based Approach to Thermal Bridge Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/publications/ef90b436-cc1a-4421-b1ac-94f8708dc1c7",
+      "authors": "M. Pomada, K. Cpałka , P. Lacki, ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-16811-x",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-16811-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Decomposition analysis of theoretical raman spectra for efficient interpretation of experimental spectra of thin-film functional materials.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/publications/3d269ea3-441f-46d5-a97b-b06ebcf95312",
+      "authors": "M. Laskowska, Ł. Laskowski [...] K. Cpałka , ... (+4)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2025",
+      "doi": "10.3390/ijms262010237",
+      "doi_url": "https://www.doi.org/10.3390/ijms262010237",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An Efficient Approach to Parameter Extraction of Photovoltaic Cell Models Using a New Population-Based Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/publications/37f0c059-ddc6-4810-9ffc-5248e24482e3",
+      "authors": "A. Słowik, K. Cpałka , Y. Xue, ... (+1)",
+      "publication_type": "Artykuł , Applied Energy",
+      "year": "2024",
+      "doi": "10.1016/j.apenergy.2024.123208",
+      "doi_url": "https://www.doi.org/10.1016/j.apenergy.2024.123208",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zagadnienie interpretowalności wiedzy i dokładności działania systemów rozmytych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/c74d4b97-252c-47a9-94de-328a806ac7f7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Elastyczne rozmyto-neuronowe systemy wnioskujące",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/85caad31-a8a6-4b03-b752-b17feab7bc0d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Elastyczne rozmyto-neuronowe systemy wnioskujące",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/b4e41f3b-384c-4b1d-8d6c-ad0e874e3529",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy wydobywania interpretowalnej wiedzy eksperckiej w zagadnieniach modelowania nieliniowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/88964c11-d323-4f07-b278-acda09e91bc5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy weryfikacji tożsamości na podstawie dynamicznych cech podpisu odręcznego z wykorzystaniem wybranych metod inteligencji obliczeniowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/f630e61f-331f-48c0-bcff-778b70a8b5b6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Cykl 13 publikacji zatytułowany: Wielowartościowość, rozmytość i quasi-rozmytość w logikach adaptatywnych oraz strukturach kategoriałnych: metody modelowania i reprezentacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/2660e623-8331-466b-9b71-e9d676898585",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Efektywne zastosowania metamodeli w algorytmach populacyjnych przeznaczonych do rozwiązywania problemów optymalizacji ciągłej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/2e560ea1-c045-4d56-912d-8484c7d1fed1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Poprawa jakości zdjęć pisma ręcznego z wykorzystaniem morfologii adaptacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.cpa%C5%82ka.FNScmyOI42O/research-work/b35fa335-5a5e-44fa-9ab9-1711bf650437",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=q_otjhwAAAAJ"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=35612550800"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/37957364"
+    }
+  ],
+  "tag_cloud": [
+    "pid",
+    "evolutionary algorithms",
+    "operator selection",
+    "dynamic signature",
+    "population-based algorithm",
+    "population-based algorithms",
+    "multi-population algorithm",
+    "fuzzy system",
+    "controller",
+    "fir"
+  ],
+  "coworkers": []
+}

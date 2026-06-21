@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi",
+  "slug": "zbigniew.humienny",
+  "profile_id": "9NH90bxSgFi",
+  "full_name": "dr hab. Zbigniew Bogdan Humienny",
+  "orcid": "0000-0003-3753-1473",
+  "orcid_url": "https://orcid.org/0000-0003-3753-1473",
+  "breadcrumb_name": "Zbigniew Humienny",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metrologia",
+    "tolerowanie geometryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Visualisation of geometrical deviation evaluations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/publications/130dd153-a86c-493e-971f-9953d06256e1",
+      "authors": "M. Berta, Z. Humienny",
+      "publication_type": "Artykuł , Measurement: Sensors",
+      "year": "2025",
+      "doi": "10.1016/j.measen.2024.101657",
+      "doi_url": "https://www.doi.org/10.1016/j.measen.2024.101657",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assesment of the Candidate Suppliers’ Fluency in ISO GPS Standards Essential Principles, Rules and Indications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/publications/78626c24-4177-4a1e-b16e-b1906d9d5ff8",
+      "authors": "Z. Humienny , M. Błaszczyk",
+      "publication_type": "Artykuł , Journal of Machine Engineering",
+      "year": "2023",
+      "doi": "10.36897/jme/168074",
+      "doi_url": "https://www.doi.org/10.36897/jme/168074",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Geometrical Tolerances—Separate, Combined or Simultaneous?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/publications/441d1704-df12-41c6-8c7c-eabca41918c9",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app13106106",
+      "doi_url": "https://www.doi.org/10.3390/app13106106",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Monotematyczny cykl publikacji pt. Modelowanie tolerancji geometrycznych części maszyn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/research-work/0bdfaf97-9488-4edd-9b50-34e62094237f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Koncepcja zapisu cyfrowego i analiza strukturalna wybranych układów łańcuchów wymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/research-work/0116f91d-7c3e-4089-8dad-28729c09eb4d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metoda doboru systemu pomiarowego oraz jego najkorzystniejsza konfiguracja w oparciu o wielokryterialną analizę realizowanego zadania pomiarowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.humienny.9NH90bxSgFi/research-work/bab11bf0-f354-42da-af50-d720bb1d9f0c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=18106"
+    }
+  ],
+  "tag_cloud": [
+    "geometrical tolerancing geometrical product specifications",
+    "gps",
+    "tolerance feature",
+    "iso gps",
+    "geometrical tolerancing",
+    "e-learning",
+    "wymiarowanie",
+    "maximum material requirement",
+    "vocational training",
+    "mmr"
+  ],
+  "coworkers": []
+}

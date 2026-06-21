@@ -1,0 +1,220 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW",
+  "slug": "adam.adamowicz",
+  "profile_id": "Mt4mF5TLGKW",
+  "full_name": "dr hab. inż. Adam Piotr Adamowicz",
+  "orcid": "0000-0002-4475-968X",
+  "orcid_url": "https://orcid.org/0000-0002-4475-968X",
+  "breadcrumb_name": "Adam Adamowicz",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "mechanika pękania",
+    "mechanika ciała stałego",
+    "metody numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/085cc979-bf70-48d1-a099-6b85284bd3f4"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/gremiums/7f63476b-a0d5-49fa-bc6a-f12073b5ab90",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Determination of Thermal Diffusivity Values Based on the Inverse Problem of Heat Conduction – Numerical Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/publications/b94572d0-e243-43f2-8df4-744aef1dca16",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2022",
+      "doi": "10.2478/ama-2022-0048",
+      "doi_url": "https://www.doi.org/10.2478/ama-2022-0048",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Image analysis of flow maldistribution during boiling in parallel minichannels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/publications/1236e765-4399-4cb8-9124-d6a0ed049c90",
+      "authors": "G. Rafałko, H. Grzybowski [...] A. Adamowicz , ... (+3)",
+      "publication_type": "Artykuł , Chemical Engineering and Technology",
+      "year": "2021",
+      "doi": "10.1002/ceat.202100246",
+      "doi_url": "https://www.doi.org/10.1002/ceat.202100246",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Temperature Mode of the Carbon-Carbon Multi-Disc Brake in the View of the Interrelations of Its Operating Characteristics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/publications/00d772dd-1c68-40e3-86cd-58052202f656",
+      "authors": "O. Jewtuszenko, P. Grzes, A. Adamowicz",
+      "publication_type": "Artykuł , Materials",
+      "year": "2020",
+      "doi": "10.3390/ma13081878",
+      "doi_url": "https://www.doi.org/10.3390/ma13081878",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Numeryczne modelowanie procesów cieplnych i mechanicznych zachodzących w elementach ciernych układów hamulcowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/research-work/c77c0a5e-170d-436b-a2d2-a28fb6665592",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie osobliwych pól naprężeń w zagadnieniach mechaniki kruchego pękania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/research-work/cb4bdf77-0222-4929-9b40-0dcadbf3a752",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Impulsowe metody wyznaczania dyfuzyjności cieplnej ciał stałych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/research-work/2541fe63-cb44-4cf6-b299-734ff812b0d0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie rozkładów parametrów powietrza wewnętrznego w pomieszczeniach chłodzonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.adamowicz.Mt4mF5TLGKW/research-work/0c098672-2d84-463f-b425-6b9bcbf92b72",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=231268"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

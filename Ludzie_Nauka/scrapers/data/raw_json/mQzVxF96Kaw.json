@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw",
+  "slug": "adam.gozdowiak",
+  "profile_id": "mQzVxF96Kaw",
+  "full_name": "dr inż. Adam Wojciech Gozdowiak",
+  "orcid": "0000-0001-6055-1064",
+  "orcid_url": "https://orcid.org/0000-0001-6055-1064",
+  "breadcrumb_name": "Adam Gozdowiak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80596988-fc15-4b0d-9a7d-d0a952b3a430"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A synchronization of permanent magnet synchronous generatordedicated for small and medium hydroelectric plants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/publications/29c4e07e-05db-4e16-80e6-b14c69ac3aea",
+      "authors": "A. Gozdowiak , M. Antal",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18082128",
+      "doi_url": "https://www.doi.org/10.3390/en18082128",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Inter-turn short circuits in stator winding of permanent magnet synchronous generator dedicated for small hydroelectric power plants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/publications/e151e42d-e8f8-45b3-9f02-5aff30bec430",
+      "authors": "A. Gozdowiak , M. Antal",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18143799",
+      "doi_url": "https://www.doi.org/10.3390/en18143799",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Coil short-circuit in the stator winding of line-start permanent magnet synchronous motor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/publications/9884a681-dc18-4f56-8190-0c9c3d98b720",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.01.15",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.01.15",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Anormalne stany pracy turbogeneratora w analizie polowo-obwodowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.gozdowiak.mQzVxF96Kaw/research-work/b4411b68-095f-496e-9dce-61462be5cbea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=283003"
+    }
+  ],
+  "tag_cloud": [
+    "parametry elektromagnetyczne",
+    "ssfr test",
+    "właściwości eksploatacyjne",
+    "stabilność",
+    "metoda elementów skończonych",
+    "praca asynchroniczna",
+    "turbogenerator",
+    "silnik asynchroniczny synchronizowany",
+    "hydrogenerator",
+    "silnik synchroniczny wzbudzany magnesami trwałymi"
+  ],
+  "coworkers": []
+}

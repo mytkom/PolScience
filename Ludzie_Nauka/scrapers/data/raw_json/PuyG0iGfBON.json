@@ -1,0 +1,272 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON",
+  "slug": "andrzej.kasprzak",
+  "profile_id": "PuyG0iGfBON",
+  "full_name": "prof. dr hab. inż. Andrzej Kasprzak",
+  "orcid": "0000-0003-3672-5006",
+  "orcid_url": "https://orcid.org/0000-0003-3672-5006",
+  "breadcrumb_name": "Andrzej Kasprzak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci komputerowe",
+    "systemy informatyki",
+    "teleinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "46 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1989",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1979",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1976",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A continual learning system with self domain shift adaptation for fake news detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/publications/6f831582-f0ea-4336-b00b-79b6b7cabc00",
+      "authors": "B. Sebastián, A. Kasprzak , P. Jan, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/dsaa60987.2023.10302539",
+      "doi_url": "https://www.doi.org/10.1109/dsaa60987.2023.10302539",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Long-term traffic forecasting in optical networks using machine learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/publications/9ee2d574-aac5-49c1-847d-d2b4a0ce35da",
+      "authors": "W. Krzysztof, A. Wlodarczyk [...] A. Kasprzak , ... (+3)",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2023",
+      "doi": "10.24425/ijet.2023.147697",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2023.147697",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Predeployment of transponders for dynamic lightpath provisioning in translucent spectrally-spatially flexible optical networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/publications/d743a4e5-1e6f-4e56-8ee4-c8c52641022e",
+      "authors": "K. Walkowiak, M. Klinkowski [...] A. Kasprzak , ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences-Basel",
+      "year": "2020",
+      "doi": "10.3390/app10082802",
+      "doi_url": "https://www.doi.org/10.3390/app10082802",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy równoczesnej optymalizacji przepływów, przepustowości kanałów i struktur topologicznych sieci teleinformatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/0e236dbd-6451-4ba4-9378-4db144d7fab8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy jednoczesnej optymalizacji przepływów, przepustowości kanałów i alokacji serwerów w rozległych sieciach komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/5e0030ef-e616-4237-a91f-8786bd3b62ed",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja rozmieszczenia bram w hierarchicznych sieciach komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/d017a308-e019-466c-8f9a-4869cdd570eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Algorytmy optymalizacji przepływów i przepustowości kanałów w rozległych sieciach komputerowych przy uogólnionym kryterium kosztowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/8c6b1ae0-ffed-4a16-b91e-c35844a8aa33",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/6230f6ba-ac79-4955-ad67-73a684e6fa8f",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie i analiza sieci teleinformatycznych realizowanych z wykorzystaniem komplementarnych koncepcji sieci sterowanych programowo (SDN) i wirtualizacji funkcji sieciowych (NFV)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/9e8d1019-7054-4b1a-ad20-85a74f73a1d5",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Nieblokowalne optyczne pola komutacyjne dla ruchu zintegrowanego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.kasprzak.PuyG0iGfBON/research-work/a6541929-a6ae-4afa-b774-31b2309a31f5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=62887"
+    }
+  ],
+  "tag_cloud": [
+    "database",
+    "optymalizacja",
+    "computer system",
+    "sieć komputerowa",
+    "system eksperymentowania",
+    "algorytm",
+    "computer network",
+    "system komputerowy",
+    "symulowane wyżarzanie",
+    "dryft modelu"
+  ],
+  "coworkers": []
+}

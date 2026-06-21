@@ -1,0 +1,223 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh",
+  "slug": "anna.sikora",
+  "profile_id": "u9XwSR8kgxh",
+  "full_name": "dr inż. arch. Anna Sikora",
+  "orcid": "0000-0002-3646-6924",
+  "orcid_url": "https://orcid.org/0000-0002-3646-6924",
+  "breadcrumb_name": "Anna Sikora",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "urbanistyka",
+    "planowanie przestrzenne",
+    "projektowanie urbanistyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4eeedf72-d592-4ac4-877d-365bcdf4ff8b"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        },
+        {
+          "label": "Uniwersytet Rzeszowski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im. I. Lukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/gremiums/c1cd9766-2566-42ea-be9c-24d434480019",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Projektowanie przestrzeni inkluzywnej: codzienność bez barier",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/publications/07cc7247-552b-40d9-858e-f173734ede76",
+      "authors": "J. Dudek, A. Sikora",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Spatial transitions of areas near highway interchanges of the eastern A4 highway section in Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/publications/f122c947-6936-451b-b51f-437c334bf028",
+      "authors": "A. Sikora , I. Skrzypczak, P. Langer, ... (+1)",
+      "publication_type": "Artykuł , Journal of Transport Geography",
+      "year": "2024",
+      "doi": "10.1016/j.jtrangeo.2024.104005",
+      "doi_url": "https://www.doi.org/10.1016/j.jtrangeo.2024.104005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Functional and Spatial Transformations of Educational Units in the Area of the Carpathian Foothills",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/publications/81291f60-0cf1-47c2-ada9-4402a01c8ab1",
+      "authors": "A. Sikora , R. Blazy, J. Błachut, ... (+12)",
+      "publication_type": "Artykuł , International Journal of Conservation Science",
+      "year": "2023",
+      "doi": "10.36868/ijcs.2023.02.16",
+      "doi_url": "https://www.doi.org/10.36868/ijcs.2023.02.16",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie kamieniołomów dla funkcji wypoczynku i rekreacji ze szczególnym uwzględnieniem Krakowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sikora.u9XwSR8kgxh/research-work/3569bf3d-9444-4b77-980c-472a966ec657",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=209126"
+    }
+  ],
+  "tag_cloud": [
+    "public spaces",
+    "buildability map",
+    "city",
+    "indeksowa metoda statystyczna",
+    "rzeszów",
+    "index statistical method",
+    "zabytek",
+    "mapa podatności",
+    "new territories",
+    "pogórze dynowskie"
+  ],
+  "coworkers": []
+}

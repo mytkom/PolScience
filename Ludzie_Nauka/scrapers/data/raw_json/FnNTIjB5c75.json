@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75",
+  "slug": "marcin.pękal",
+  "profile_id": "FnNTIjB5c75",
+  "full_name": "dr inż. Marcin Pękal",
+  "orcid": "0000-0002-3972-4765",
+  "orcid_url": "https://orcid.org/0000-0002-3972-4765",
+  "breadcrumb_name": "Marcin Pękal",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "robotyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Energetyki i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7bc2e1c7-1658-40a5-940a-259eb6073ab8"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reaction uniqueness problem in the divide-and-conquer approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/publications/a640aca3-fb00-4bdb-909f-5b1fc05ec263",
+      "authors": "M. Pękal , P. Malczyk, M. Wojtyra, ... (+1)",
+      "publication_type": "Artykuł , Multibody System Dynamics",
+      "year": "2025",
+      "doi": "10.1007/s11044-025-10122-9",
+      "doi_url": "https://www.doi.org/10.1007/s11044-025-10122-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Stabilization of two-axis line-of-sight system using active disturbance rejection control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/publications/846d5391-c45b-4357-b175-a487ad280ec3",
+      "authors": "Ł. Rówienicz, P. Malczyk, M. Pękal",
+      "publication_type": "Artykuł , Multibody System Dynamics",
+      "year": "2025",
+      "doi": "10.1007/s11044-025-10110-z",
+      "doi_url": "https://www.doi.org/10.1007/s11044-025-10110-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Divide-and-conquer-based approach for the reaction uniqueness analysis in overconstrained multibody systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/publications/f1f9ab0b-0a42-4316-8d42-d4fa15189c1a",
+      "authors": "M. Pękal , P. Malczyk, M. Wojtyra, ... (+1)",
+      "publication_type": "Artykuł , Multibody System Dynamics",
+      "year": "2024",
+      "doi": "10.1007/s11044-024-10013-5",
+      "doi_url": "https://www.doi.org/10.1007/s11044-024-10013-5",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie jednoznaczności sił reakcji i sił napędowych w modelach wieloczłonowych układów mechanicznych i robotycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.p%C4%99kal.FnNTIjB5c75/research-work/cc733a4e-1455-4bdc-ae3d-d46c5e58a341",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=304293"
+    }
+  ],
+  "tag_cloud": [
+    "direct sum",
+    "constraint reacti",
+    "free-body-diagram method",
+    "nonholonomic system",
+    "uniqueness analysis",
+    "redundantly constrained system",
+    "direct sum nullspace",
+    "nullspace",
+    "nonholonomic constraint",
+    "overconstrained system"
+  ],
+  "coworkers": []
+}

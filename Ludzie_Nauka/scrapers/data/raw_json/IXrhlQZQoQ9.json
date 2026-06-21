@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9",
+  "slug": "robert.paluch",
+  "profile_id": "IXrhlQZQoQ9",
+  "full_name": "dr inż. Robert Michał Paluch",
+  "orcid": "0000-0003-4114-1806",
+  "orcid_url": "https://orcid.org/0000-0003-4114-1806",
+  "breadcrumb_name": "Robert Paluch",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "How random are team sports leagues?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/publications/cbdc1a29-0772-4796-8199-1bd86d834392",
+      "authors": "M. Pawlik, R. Paluch , J. Hołyst, ... (+1)",
+      "publication_type": "Artykuł , Physica A: Statistical Mechanics and its Applications",
+      "year": "2025",
+      "doi": "10.1016/j.physa.2025.130814",
+      "doi_url": "https://www.doi.org/10.1016/j.physa.2025.130814",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Impact of network topology changes on information source localization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/publications/71292b7c-dab4-4cf4-9a71-1a1b578894fa",
+      "authors": "P. Machura, R. Paluch",
+      "publication_type": "Artykuł , Computer Communications",
+      "year": "2024",
+      "doi": "10.1016/j.comcom.2024.107958",
+      "doi_url": "https://www.doi.org/10.1016/j.comcom.2024.107958",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparison of observer based methods for source localisation in complex networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/publications/60f1f918-aee5-4fd6-8d56-9c79711ae46d",
+      "authors": "R. Paluch , Ł. Gajewski, K. Suchecki, ... (+5)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-09031-0",
+      "doi_url": "https://www.doi.org/10.1038/s41598-022-09031-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Reverse engineering of information processing in complex networks using statistical inference (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.paluch.IXrhlQZQoQ9/research-work/5de140e9-0efd-4f49-95d1-114aa37573eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314092"
+    }
+  ],
+  "tag_cloud": [
+    "wnioskowanie statystyczne",
+    "online social networks",
+    "node selection strategies",
+    "multilayer networks",
+    "--",
+    "source localization",
+    "signal detection",
+    "sensors placement",
+    "spreading",
+    "sieci złożone"
+  ],
+  "coworkers": []
+}

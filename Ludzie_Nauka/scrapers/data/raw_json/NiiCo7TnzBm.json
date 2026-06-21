@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm",
+  "slug": "marta.lampasiak",
+  "profile_id": "NiiCo7TnzBm",
+  "full_name": "mgr inż. Marta Lampasiak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marta Lampasiak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimization scheme of the Padé method for fractional order systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/publications/2b2c736f-6721-4576-ab77-98acdca44a2c",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/mmar65820.2025.11150987",
+      "doi_url": "https://www.doi.org/10.1109/mmar65820.2025.11150987",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Rational Chebyshev and Padé approximations for fractional order transfer function (FOTF)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/publications/aba1a1cd-00eb-4a61-92a5-793810fb2abb",
+      "authors": "J. Jagodziński, M. Lampasiak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/mmar65820.2025.11150875",
+      "doi_url": "https://www.doi.org/10.1109/mmar65820.2025.11150875",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Rational approximation of a fractional order operator using generalized Chebyshev polynomials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.lampasiak.NiiCo7TnzBm/publications/495b8f48-c585-4964-a341-d05ae20b1ea0",
+      "authors": "M. Lampasiak , J. Jagodziński",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.12.12",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.12.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

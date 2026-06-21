@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI",
+  "slug": "łukasz.lindstedt",
+  "profile_id": "spe5vLryFTI",
+  "full_name": "dr inż. Łukasz Paweł Lindstedt",
+  "orcid": "0000-0001-9481-4694",
+  "orcid_url": "https://orcid.org/0000-0001-9481-4694",
+  "breadcrumb_name": "Łukasz Lindstedt",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact Loads and Crash Safety of the Cockpit of a Composite Glider",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/publications/55098cd0-c3b0-4a35-bad3-6174ea89df08",
+      "authors": "Ł. Lindstedt , M. Rodzewicz, C. Rzymkowski, ... (+1)",
+      "publication_type": "Artykuł , Fatigue of Aircraft Structures",
+      "year": "2019",
+      "doi": "10.2478/fas-2019-0005",
+      "doi_url": "https://www.doi.org/10.2478/fas-2019-0005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Structural dynamics of a gyrocopter: numerical approach in some emergency cases",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/publications/362dc58d-433a-463d-a9bc-623b9c4214ae",
+      "authors": "A. Dacko, C. Rzymkowski [...] Ł. Lindstedt , ... (+3)",
+      "publication_type": "Artykuł , AIRCRAFT ENGINEERING AND AEROSPACE TECHNOLOGY",
+      "year": "2018",
+      "doi": "10.1108/aeat-11-2016-0217",
+      "doi_url": "https://www.doi.org/10.1108/aeat-11-2016-0217",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical tests of the virtual human model response under dynamic load conditions defined in Federal Aviation Regulation Part 23.562 and 25.562 - preliminary study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/publications/bcc2167b-d505-4fe9-b07a-f864601335af",
+      "authors": "T. Dziewoński, T. Dziewonski, Ł. Lindstedt , ... (+3)",
+      "publication_type": "Artykuł , Archive of Mechanical Engineering",
+      "year": "2016",
+      "doi": "10.1515/meceng-2016-0029",
+      "doi_url": "https://www.doi.org/10.1515/meceng-2016-0029",
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamika kompozytowej kabiny szybowca PW-5 podczas zderzenia z przeszkodą naziemną w aspekcie bezpieczeństwa pilota",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lindstedt.spe5vLryFTI/research-work/6a2b5cbd-42e6-40da-8ead-f80a27bc5d07",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=235381"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

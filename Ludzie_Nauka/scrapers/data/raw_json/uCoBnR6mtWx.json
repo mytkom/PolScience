@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx",
+  "slug": "anna.lauks-dutka",
+  "profile_id": "uCoBnR6mtWx",
+  "full_name": "dr inż. Anna Stanisława Lauks-Dutka",
+  "orcid": "0000-0002-9165-1110",
+  "orcid_url": "https://orcid.org/0000-0002-9165-1110",
+  "breadcrumb_name": "Anna Lauks-Dutka",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstaw Informatyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/6c713100-70da-4346-9836-92ba3723e52a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Darknet signatures: public ledgers and a threat of illegal betting platforms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/publications/2d809a6f-2fcf-418c-a6c6-6606a2088330",
+      "authors": "M. Kutyłowski, A. Lauks-Dutka , P. Błaśkiewicz",
+      "publication_type": "Artykuł , International Journal of Information Security",
+      "year": "2025",
+      "doi": "10.1007/s10207-025-01017-z",
+      "doi_url": "https://www.doi.org/10.1007/s10207-025-01017-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "FIDO2 facing kleptographic threats by-design",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/publications/6e0c9643-1171-4662-a4da-198400674096",
+      "authors": "M. Kutyłowski, A. Lauks-Dutka , P. Kubiak, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app142311371",
+      "doi_url": "https://www.doi.org/10.3390/app142311371",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Darknet signatures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/publications/a8ad32e5-9f84-4670-b133-1898d29fd42d",
+      "authors": "P. Błaśkiewicz, M. Kutyłowski [...] A. Lauks-Dutka , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/dspp58763.2023.10404582",
+      "doi_url": "https://www.doi.org/10.1109/dspp58763.2023.10404582",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Applied Cryptographic Schemes Based on Discrete Logarithm Problem (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.lauks-dutka.uCoBnR6mtWx/research-work/1b6f5d12-7545-4c2d-b8bf-1fd050f3ce09",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=272796"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

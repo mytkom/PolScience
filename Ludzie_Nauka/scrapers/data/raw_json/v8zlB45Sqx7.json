@@ -1,0 +1,156 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7",
+  "slug": "adrian.lewandowski",
+  "profile_id": "v8zlB45Sqx7",
+  "full_name": "dr Adrian Jerzy Lewandowski",
+  "orcid": "0000-0002-3120-5047",
+  "orcid_url": "https://orcid.org/0000-0002-3120-5047",
+  "breadcrumb_name": "Adrian Lewandowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski; Wydział Fizyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9b699ae6-6e42-406f-ab02-2d5c171b6c86"
+        },
+        {
+          "label": "Uniwersytet Warszawski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka teoretyczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Divergences in anomalous dimension matrices of quarks at three loops: explanation and simple solution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/publications/6a8c4fac-1154-4de1-9455-87ae479e8fe9",
+      "authors": null,
+      "publication_type": "Artykuł , Physical Review D",
+      "year": "2021",
+      "doi": "10.1103/physrevd.104.056029",
+      "doi_url": "https://www.doi.org/10.1103/physrevd.104.056029",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Conformal Standard Model, Leptogenesis and Dark Matter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/publications/7a4f391a-e6eb-4cd5-b2cc-d1a23152a8c2",
+      "authors": "H. Nicolai, K. Meissner, A. Lewandowski",
+      "publication_type": "Artykuł , Physical Review D",
+      "year": "2018",
+      "doi": "10.1103/physrevd.97.035024",
+      "doi_url": "https://www.doi.org/10.1103/physrevd.97.035024",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Renormalizacja ogólnej teorii renormalizowanej w regularyzacji naruszającej symetrię cechowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.lewandowski.v8zlB45Sqx7/research-work/c3b00154-7570-4211-b790-c06eb5d04205",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=267496"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,299 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN",
+  "slug": "dorota.kuchta",
+  "profile_id": "zcnWJAYegXN",
+  "full_name": "prof. dr hab. inż. Dorota Kuchta",
+  "orcid": "0000-0002-9747-0759",
+  "orcid_url": "https://orcid.org/0000-0002-9747-0759",
+  "breadcrumb_name": "Dorota Kuchta",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "badania operacyjne",
+    "metody ilościowe",
+    "optymalizacja",
+    "rachunkowość",
+    "zarządzanie projektami",
+    "matematyka stosowana"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "40 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Oficerska Wojsk Lądowych imienia generała Tadeusza Kościuszki Aktualna nazwa: Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f8d0b933-97be-4910-b110-2b76fc6198f6",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Zarządzania i Finansów we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1b9aa760-10bb-42cb-b9cd-dd9f25574922",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz – ITECH Instytut Innowacji i Technologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/99b73e7f-5723-47b4-bf61-f162e05340bf"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Akademia Ekonomiczna im. Oskara Langego we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka stosowana",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/gremiums/6e4fecf6-5089-4abd-8486-6811a63d502a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of risk and uncertainty by internal and external stakeholders in an e-health megaproject",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/publications/085f2083-9bfd-4740-bf80-1c73945c2f5d",
+      "authors": "D. Kuchta , B. Gładysz, K. Frączkowski",
+      "publication_type": "Artykuł , Operations Research and Decisions",
+      "year": "2025",
+      "doi": "10.37190/ord/205455",
+      "doi_url": "https://www.doi.org/10.37190/ord/205455",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Barriers in achieving project value in research and development projects at universities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/publications/e2261342-ab26-4140-bab7-3250be129dd8",
+      "authors": "O. Bezgin, D. Kuchta",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": "10.29119/1641-3466.2025.215.2",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2025.215.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Bridging stakeholder perspectives to improve residential construction quality in growing urban environments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/publications/c8da4db2-7eff-42af-b287-b6b45c7edea8",
+      "authors": "J. Iwko, A. Dobrowolska [...] D. Kuchta , ... (+4)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154726",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154726",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Miękka matematyka w zarządzaniu. Zastosowanie liczb przedziałowych i rozmytych w rachunkowości zarządczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/dfa493fb-0283-4b08-aaa9-847434c43a38",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zadania programowania liniowego z przedziałowymi i rozmytymi współczynnikami w funkcji celu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/1fe5a2e5-c8eb-4e37-8d6d-946ee350ed6d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Doskonalenie kontroli zarządczej w jednostkach administracji publicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/61cb3f78-9eb0-4084-9353-d1f27308cc5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda ODRA szacowania pracochłonności w Scrum",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/b6d7eb31-b5b8-4e7f-8fad-f73176ec7ee2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda harmonogramowania projektów badawczo - rozwojowych w sektorze nauki, oparta na koncepcji adaptacyjnego zarządzania projektami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/e23d73c8-6a92-4a84-8b85-177cb414554f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Hybrydowy model wspomagania decyzji menedżerskich łączący dynamikę systemową i miękką dynamikę systemową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/57a7c179-972f-483b-8b26-cc9945cde75c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Podejście obiektowe w zarządzaniu portfelem projektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/90d56823-3102-4562-b711-cb44b338a7de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Obiektywna a subiektywna ocena efektywności ryzykownych wariantów decyzyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.kuchta.zcnWJAYegXN/research-work/45f9726a-ae56-4893-8b79-4d28b43fdcf2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86292"
+    }
+  ],
+  "tag_cloud": [
+    "interesariusze projektu",
+    "projekt",
+    "podejście zwinne",
+    "project management",
+    "sukces projektu",
+    "zarządzanie projektami",
+    "projekty badawcze",
+    "cel projektu",
+    "zarządzanie projektem",
+    "zarządzanie ryzykiem projektu"
+  ],
+  "coworkers": []
+}

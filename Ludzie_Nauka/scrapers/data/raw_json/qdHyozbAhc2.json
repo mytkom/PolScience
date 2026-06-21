@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2",
+  "slug": "konrad.łyduch",
+  "profile_id": "qdHyozbAhc2",
+  "full_name": "dr inż. Konrad Łyduch",
+  "orcid": "0000-0002-6281-6916",
+  "orcid_url": "https://orcid.org/0000-0002-6281-6916",
+  "breadcrumb_name": "Konrad Łyduch",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Method of Transferring Topology Optimization Results Directly to the CAD System Database",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/publications/fdf6aa42-fa61-47b4-9f3b-4ac129bd9944",
+      "authors": "K. Łyduch , J. Łukaszyk, M. Nowak",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2022",
+      "doi": "10.12913/22998624/144853",
+      "doi_url": "https://www.doi.org/10.12913/22998624/144853",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The frame design of a three-wheeled vehicle for a student competition using topology optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/publications/abb5ce5e-acd8-4859-b8b3-4d37948f0afc",
+      "authors": "S. Szymański, K. Łyduch , M. Nowak",
+      "publication_type": "Artykuł , International Journal on Interactive Design and Manufacturing (IJIDeM)",
+      "year": "2022",
+      "doi": "10.1007/s12008-022-00937-7",
+      "doi_url": "https://www.doi.org/10.1007/s12008-022-00937-7",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Cascade of boosted classifiers and active appearance model for spine elements localization and segmentation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/publications/f39512a8-5c92-4c08-947a-af2e514d0f6a",
+      "authors": "D. Gaweł, M. Nowak, K. Łyduch , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Automatyzacja procesu interpretacji wyników optymalizacji topologicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.%C5%82yduch.qdHyozbAhc2/research-work/af56a641-7d15-4d94-8a4f-2a5370ebef13",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

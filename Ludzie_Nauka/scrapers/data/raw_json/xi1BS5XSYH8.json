@@ -1,0 +1,258 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8",
+  "slug": "piotr.szota",
+  "profile_id": "xi1BS5XSYH8",
+  "full_name": "dr hab. inż. Piotr Szota",
+  "orcid": "0000-0003-2604-6771",
+  "orcid_url": "https://orcid.org/0000-0003-2604-6771",
+  "breadcrumb_name": "Piotr Szota",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "nauki ogólne o materiałach",
+    "walcownictwo",
+    "przeróbka plastyczna",
+    "komputerowa symulacja procesów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / metalurgia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Produkcji i Technologii Materiałów",
+          "href": "https://radon.nauka.gov.pl/dane/profil/53c0c437-1fe1-49b3-9ed1-559817619ca7"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / metalurgia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Produkcji i Technologii Materiałów",
+          "href": "https://radon.nauka.gov.pl/dane/profil/53c0c437-1fe1-49b3-9ed1-559817619ca7"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "metalurgia",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/gremiums/f8c9f5f1-634c-4840-ad81-a82e941ab438",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of Roll Pass Wear in the Railway Rail Rolling Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/publications/2c38b7d9-1bca-4ce1-b49b-93f9ef43bfef",
+      "authors": "P. Szota , S. Mróz, A. Stefanik, ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18225131",
+      "doi_url": "https://www.doi.org/10.3390/ma18225131",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Friction and Wear of Tungsten Carbide Dies in the Dry Drawing of Steel Wire",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/publications/b616f0f7-e5b8-4441-a1f7-3dc97f782118",
+      "authors": "M. Suliga, P. Szota , J. Kulasa, ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18071409",
+      "doi_url": "https://www.doi.org/10.3390/ma18071409",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigation of the Effect of the Shape of Cutting Knives Limiting Burr in High-Strength Multiphase Steel Sheets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/publications/39de1cb1-f4fc-4246-a3a9-2da5de5e81af",
+      "authors": "S. Mróz, A. Stefanik, P. Szota , ... (+4)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18020282",
+      "doi_url": "https://www.doi.org/10.3390/ma18020282",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przewidywanie zużywania się wykrojów podczas walcowania na gorąco wyrobów długich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/06f5cca3-0e43-4890-881d-6a2ca89ed792",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Teoretyczno-doświadczalna analiza procesu walcowania prętów okrągłych z użebrowaniem śrubowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/5ceb84c7-ca71-4b1b-9ee4-842234ef857a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Teoretyczno-doświadczalna analiza procesu walcowania prętów okrągłych z użebrowaniem śrubowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/18196700-b733-4f64-a458-0f2a8798f303",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Techniczno - ekonomiczne aspekty wielożyłowego walcowania prętów żebrowanych z zastosowaniem nowego układu wykrojów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/eccd134e-5d0b-4e7f-94ef-033c318ea32c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu parametrów fizykochemicznych blachy wsadowej ze stopu aluminium serii 3XXX na powstawanie zacięć podczas produkcji puszki za pomocą fizycznej symulacji procesu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/d2c8d2a6-9a68-4309-b619-a04be6486ce2",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Opracowanie wysokowydajnej technologii wytwarzania zaworu silnikowego ze stali chromowo-niklowej przeznaczonego dla samochodów ciężarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/b5cb5ba3-7433-4df0-9ca9-67a60835b16e",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie fizyczne walcowania poprzeczno-klinowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.szota.xi1BS5XSYH8/research-work/c0e830af-aef0-4f7f-9b07-a7effd34d188",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=125999"
+    }
+  ],
+  "tag_cloud": [
+    "roll pass design",
+    "magnesium alloy",
+    "numerical modeling",
+    "modelowanie numeryczne",
+    "fem",
+    "mes",
+    "numerical modelling",
+    "explosive welding",
+    "microstructure",
+    "ribbed bars"
+  ],
+  "coworkers": []
+}

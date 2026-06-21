@@ -1,0 +1,115 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4",
+  "slug": "jakub.grochowski",
+  "profile_id": "ArFCXJKX6S4",
+  "full_name": "mgr inż. Jakub Grochowski",
+  "orcid": "0000-0003-3066-6615",
+  "orcid_url": "https://orcid.org/0000-0003-3066-6615",
+  "breadcrumb_name": "Jakub Grochowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "OBRONA SIECI INFORMACJOCENTRYCZNEJ PRZED ZATRUWANIEM TREŚCI PRZEZ NIEZAUFANYCH WYDAWCÓW Z UŻYCIEM MODELU INFEKCJI W GRAFACH",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/publications/b6858c22-cb92-4ef9-8fb5-8001fc9f5727",
+      "authors": "J. Grochowski , J. Konorski",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2019",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effect of User Mobility upon Trust Building among Autonomous Content Routers in an Information-Centric Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.grochowski.ArFCXJKX6S4/publications/11253d80-49ee-48dd-ae2a-b1cc9e1d76db",
+      "authors": "J. Grochowski , J. Konorski",
+      "publication_type": "Artykuł , Wireless Communications and Mobile Computing",
+      "year": "2018",
+      "doi": "10.1155/2018/8612817",
+      "doi_url": "https://www.doi.org/10.1155/2018/8612817",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

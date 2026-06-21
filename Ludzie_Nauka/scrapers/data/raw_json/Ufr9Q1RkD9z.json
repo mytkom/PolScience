@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z",
+  "slug": "michał.gawełczyk",
+  "profile_id": "Ufr9Q1RkD9z",
+  "full_name": "dr inż. Michał Gawełczyk",
+  "orcid": "0000-0003-2299-140X",
+  "orcid_url": "https://orcid.org/0000-0003-2299-140X",
+  "breadcrumb_name": "Michał Gawełczyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "fizyka kwantowa",
+    "fizyka nanostruktur",
+    "fizyka teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Uniwersytet Mikołaja Kopernika w Toruniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid acousto-optical swing-up state control in a quantum dot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/publications/ce389d2c-0354-4c16-bda3-66865b621297",
+      "authors": "M. Kuniej, P. Machnikowski, M. Gawełczyk",
+      "publication_type": "Artykuł , npj Quantum Information",
+      "year": "2025",
+      "doi": "10.1038/s41534-025-01103-z",
+      "doi_url": "https://www.doi.org/10.1038/s41534-025-01103-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optical and magnetic response by design in gaas quantum dots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/publications/edfef668-bd48-4b7e-954c-71fd91d71f0e",
+      "authors": "M. Gawełczyk , C. Schimpf, A. Garcia, ... (+25)",
+      "publication_type": "Artykuł , PRX Quantum",
+      "year": "2025",
+      "doi": "10.1103/98cp-1k42",
+      "doi_url": "https://www.doi.org/10.1103/98cp-1k42",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Tuning the coherent interaction of an electron qubit and a nuclear magnon",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/publications/066f0870-3cd2-4247-999e-64a2d7b461d4",
+      "authors": "M. Gawełczyk , N. Shofer, L. Zaporski, ... (+9)",
+      "publication_type": "Artykuł , Physical Review X",
+      "year": "2025",
+      "doi": "10.1103/physrevx.15.021004",
+      "doi_url": "https://www.doi.org/10.1103/physrevx.15.021004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamika i dekoherencja spinu w nanostrukturach półprzewodnikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.gawe%C5%82czyk.Ufr9Q1RkD9z/research-work/01d4cbb9-8fdf-4cbb-8051-3f3f9dc5fcc9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=FdlSYjgAAAAJ"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Michal-Gawelczyk"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=54882407900"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/H-3144-2017"
+    }
+  ],
+  "tag_cloud": [
+    "fonony akustyczne",
+    "podwójne kropki kwantowe",
+    "pamięć kwantowa",
+    "kwantowe uklady otwarte",
+    "kropki kwantowe",
+    "dekoherencja spinu",
+    "sprzężenie",
+    "splątanie kwantowe",
+    "inas/inp",
+    "struktury tunelowe"
+  ],
+  "coworkers": []
+}

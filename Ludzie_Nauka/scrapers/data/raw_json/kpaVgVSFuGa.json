@@ -1,0 +1,216 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa",
+  "slug": "norbert.szmolke",
+  "profile_id": "kpaVgVSFuGa",
+  "full_name": "dr hab. inż. Norbert Henryk Szmolke",
+  "orcid": "0000-0001-6003-6775",
+  "orcid_url": "https://orcid.org/0000-0001-6003-6775",
+  "breadcrumb_name": "Norbert Szmolke",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria środowiska",
+    "przepływy wielofazowe",
+    "technika cieplna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cf7e175b-dea9-49a3-8290-d5b93900303b"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / brak na dyplomie",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Inżynierii Chemicznej Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1e509a2-9a9f-4bba-9ab3-4c9c463efa18"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA INŻYNIERSKA W OPOLU",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reduction of Air Condition Energy Consumption by Redundant Energy Gains Modification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/publications/eb7bd3a8-0c23-49d9-b7f9-39417e537e4a",
+      "authors": "M. Masiukiewicz, N. Szmolke , A. Gużda, ... (+2)",
+      "publication_type": "Artykuł , Instal",
+      "year": "2023",
+      "doi": "10.36119/15.2023.12.7",
+      "doi_url": "https://www.doi.org/10.36119/15.2023.12.7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Powietrzne pompy ciepła w audytach energetycznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/publications/49970b82-5cdf-44b4-a408-8521ec28ad98",
+      "authors": "A. Gużda, N. Szmolke",
+      "publication_type": "Artykuł , Budownictwo o zoptymalizowanym potencjale energetycznym",
+      "year": "2018",
+      "doi": "10.17512/bozpe.2018.2.09",
+      "doi_url": "https://www.doi.org/10.17512/bozpe.2018.2.09",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analiza opłacalności zastosowania ogniw fotowoltaicznych w warsztacie naprawy autobusów",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/publications/2c351f49-907a-4ceb-8635-7ff461b08082",
+      "authors": "A. Gużda, N. Szmolke",
+      "publication_type": "Artykuł , Autobusy. Technika, Eksploatacja, Systemy Transportowe",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przepływ w aparacie fluidalnym z pękiem rur",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/research-work/44ab8474-d822-468c-b39c-898178f295b9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody oceny struktury hydraulicznej złoża fluidalnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/research-work/726a44cb-43d8-4713-a071-923990a1587e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ parametrów eksploatacyjnych na efektywność sieci grzewczej osiedla Scharnhauser Park",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/norbert.szmolke.kpaVgVSFuGa/research-work/4fdc0e64-a422-435a-8d44-cbfcc209a11a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=28703"
+    }
+  ],
+  "tag_cloud": [
+    "temperatury obliczeniowe",
+    "proces stochastyczny",
+    "two-phase flow pattern",
+    "visualization",
+    "przepływ dwufazowy gaz - ciało stałe",
+    "design temperatures",
+    "energy performance certificate",
+    "ogniwa fotowoltaiczne",
+    "thermal properties of building partitions",
+    "świadectwo charakterystyki energetycznej budynku"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm",
+  "slug": "przemysław.kornatowski",
+  "profile_id": "vhVZGQYdFRm",
+  "full_name": "dr inż. Przemysław Mariusz Kornatowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Przemysław Kornatowski",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "7 miesięcy",
+      "duration": null,
+      "institution": "IDEAS NCBR SP. Z O.O.",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a431df75-4ed6-4247-92c5-92dff4e14e6a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / informatyka",
+        "Nadanie stopnia",
+        "Ecole polytechnique fédérale de Lausanne EPFL • Szwajcaria",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badawczy IDEAS >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechnics and machine design",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Badawczy IDEAS >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "In situ volcanic ash sampling and aerosol–gas analysis based on UAS technologies (AeroVolc)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/publications/d47dee71-564d-4b72-8c17-95fa0ec43b67",
+      "authors": "S. Thivet, G. Bagheri, P. Kornatowski , ... (+8)",
+      "publication_type": "Artykuł , Atmospheric Measurement Techniques",
+      "year": "2025",
+      "doi": "10.5194/amt-18-2803-2025",
+      "doi_url": "https://www.doi.org/10.5194/amt-18-2803-2025",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Reconfigurable Drone System for Transportation of Parcels With Variable Mass and Size",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/publications/9146769f-ea52-4de2-93b5-c396ae3dc37e",
+      "authors": "P. Kornatowski , F. Schiano, L. Cencetti, ... (+1)",
+      "publication_type": "Artykuł , IEEE Robotics and Automation Letters",
+      "year": "2022",
+      "doi": "10.1109/lra.2022.3208716",
+      "doi_url": "https://www.doi.org/10.1109/lra.2022.3208716",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "DOSTAWY DRONAMI W MIASTACH – NAJWIĘKSZE WYZWANIA",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.kornatowski.vhVZGQYdFRm/publications/3c18e96d-6cf9-4601-a6b9-f7b6f9866ca1",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

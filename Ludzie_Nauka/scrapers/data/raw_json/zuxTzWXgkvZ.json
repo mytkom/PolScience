@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ",
+  "slug": "mariusz.kaleta",
+  "profile_id": "zuxTzWXgkvZ",
+  "full_name": "dr hab. inż. Mariusz Krzysztof Kaleta",
+  "orcid": "0000-0002-2225-8956",
+  "orcid_url": "https://orcid.org/0000-0002-2225-8956",
+  "breadcrumb_name": "Mariusz Kaleta",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania operacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Mixed Integer Programming Approach to the Rechargeable Rover Routing Problem on Mars",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/publications/630c805e-755b-4fb0-a47d-19c28fe6dc86",
+      "authors": "W. Burzyński, M. Kaleta",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2025",
+      "doi": "10.2478/fcds-2025-0012",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2025-0012",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Neural-Driven Constructive Heuristic for 2D Robotic Bin Packing Problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/publications/007ba617-6b7e-4ee4-bbca-d8d8a2a0079c",
+      "authors": "M. Kaleta , T. Śliwiński",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14101956",
+      "doi_url": "https://www.doi.org/10.3390/electronics14101956",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Neural-Driven heuristic for strip packing trained with Black-Box optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/publications/c4c689d3-c834-49c3-8f9f-c4c7397616c6",
+      "authors": "M. Kaleta , T. Śliwiński",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153584",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153584",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele i metody wspomagające projektowanie mechanizmów rynkowych w oparciu o architekturę referencyjną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/research-work/ec06ca51-6e2a-419e-9bc5-e60e7aa4c7f1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane modele i algorytmy optymalizacji na lokalnym rynku energii elektrycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kaleta.zuxTzWXgkvZ/research-work/b644aca4-d63f-4c02-830e-424aef0ae630",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=126143"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

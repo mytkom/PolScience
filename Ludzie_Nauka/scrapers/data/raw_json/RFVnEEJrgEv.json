@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv",
+  "slug": "joanna.badach",
+  "profile_id": "RFVnEEJrgEv",
+  "full_name": "dr inż. arch. Joanna Maria Badach",
+  "orcid": "0000-0003-2580-7727",
+  "orcid_url": "https://orcid.org/0000-0003-2580-7727",
+  "breadcrumb_name": "Joanna Badach",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Spatial aspects of urban air quality management: Estimating the impact of micro-scale urban form on pollution dispersion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/publications/d8552e79-a7d9-40fa-9261-ee166ba5a71b",
+      "authors": "J. Badach , W. Wojnowski, J. Gębicki",
+      "publication_type": "Artykuł , COMPUTERS ENVIRONMENT AND URBAN SYSTEMS",
+      "year": "2023",
+      "doi": "10.1016/j.compenvurbsys.2022.101890",
+      "doi_url": "https://www.doi.org/10.1016/j.compenvurbsys.2022.101890",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Developing the Urban Blue-Green Infrastructure as a Tool for Urban Air Quality Management",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/publications/ac8d7413-e47e-4559-a063-2e7fdc781c07",
+      "authors": "J. Badach , J. Szczepański, W. Bonenberg, ... (+2)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exploring the Institutional and Bottom-Up Actions for Urban Air Quality Improvement: Case Studies in Antwerp and Gdańsk",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.badach.RFVnEEJrgEv/publications/af5e8650-7246-431b-9ae1-5224c0d35c81",
+      "authors": "J. Załęcki, J. Badach , M. Dymnicka, ... (+3)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=313196"
+    }
+  ],
+  "tag_cloud": [
+    "visual indicators",
+    "blue-green infrastructure",
+    "local planning",
+    "urban ventilation",
+    "integrated urban planning",
+    "urban planning",
+    "dispersion modelling",
+    "adaptacja do zmiany klimatu",
+    "ecological indicators",
+    "przewietrzanie miasta"
+  ],
+  "coworkers": []
+}

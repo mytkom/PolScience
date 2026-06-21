@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8",
+  "slug": "monika.muszkieta",
+  "profile_id": "nqhyyzqcSc8",
+  "full_name": "dr Monika Muszkieta",
+  "orcid": "0000-0003-1001-9875",
+  "orcid_url": "https://orcid.org/0000-0003-1001-9875",
+  "breadcrumb_name": "Monika Muszkieta",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Technische Universität Kaiserslautern • Niemcy",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A compressed sensing approach to interpolation of fractional Brownian trajectories for a single particle tracking experiment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/publications/c8016dd7-ca88-4fb6-97c9-59abc07118ae",
+      "authors": "M. Muszkieta , J. Janczura",
+      "publication_type": "Artykuł , Applied Mathematics and Computation",
+      "year": "2023",
+      "doi": "10.1016/j.amc.2023.127900",
+      "doi_url": "https://www.doi.org/10.1016/j.amc.2023.127900",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated image restoration and segmentation using Mumford-Shah-like regularization and topological asymptotic expansion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/publications/07de9d6c-4ccd-4cfb-9fac-e37f5b8fb9a6",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Mathematical Imaging and Vision",
+      "year": "2022",
+      "doi": "10.1007/s10851-022-01088-w",
+      "doi_url": "https://www.doi.org/10.1007/s10851-022-01088-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Classification of random trajectories based on the fractional Lévy stable motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.muszkieta.nqhyyzqcSc8/publications/96c90860-1313-4461-b93c-78111b84165c",
+      "authors": "J. Janczura, K. Burnecki, M. Muszkieta , ... (+2)",
+      "publication_type": "Artykuł , Chaos, Solitons and Fractals",
+      "year": "2022",
+      "doi": "10.1016/j.chaos.2021.111606",
+      "doi_url": "https://www.doi.org/10.1016/j.chaos.2021.111606",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=225509"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

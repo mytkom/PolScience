@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC",
+  "slug": "piotr.kędziora",
+  "profile_id": "POMUWcBa2gC",
+  "full_name": "dr hab. inż. Piotr Zenon Kędziora",
+  "orcid": "0000-0001-6623-7578",
+  "orcid_url": "https://orcid.org/0000-0001-6623-7578",
+  "breadcrumb_name": "Piotr Kędziora",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika kompozytów",
+    "logika rozmyta",
+    "optymalizacja",
+    "podstawy konstrukcji maszyn",
+    "zmęczenia kompozytów",
+    "komputerowe wspomaganie projektowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Piotr Kędziora"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Buckling enhancement of laminated composite structures partially covered by piezoelectric actuators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/publications/ab6fc071-608d-423a-834e-bc2437348b54",
+      "authors": "A. Muc, P. Kędziora , A. Stawiarski",
+      "publication_type": "Artykuł , European Journal of Mechanics. A, Solids",
+      "year": "2019",
+      "doi": "10.1016/j.euromechsol.2018.07.002",
+      "doi_url": "https://www.doi.org/10.1016/j.euromechsol.2018.07.002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Buckling loads for sandwich structures having FRP faces and FGM core",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/publications/8d062a30-486a-47dc-b33f-b5d5598220ea",
+      "authors": "A. Muc, P. Kędziora , M. Chwał",
+      "publication_type": "Artykuł , IOP Conference Series: Materials Science and Engineering",
+      "year": "2019",
+      "doi": "10.1088/1757-899x/544/1/012040",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/544/1/012040",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Eigenvalue problem of confined quantum dots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/publications/3c9d0ef8-97cc-4682-bcd9-87ef74eb8d9b",
+      "authors": "A. Muc, M. Chwał, P. Kędziora",
+      "publication_type": "Artykuł , IOP Conference Series: Materials Science and Engineering",
+      "year": "2019",
+      "doi": "10.1088/1757-899x/544/1/012039",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/544/1/012039",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalne projektowanie struktur kompozytowych z warstwami piezoelektrycznymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/research-work/f4eddab9-67cc-43c8-ac81-df5b73100d7c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Teoria zbiorów rozmytych w zastosowaniu do mechaniki kompozytów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/research-work/276f99e1-2e81-40b0-98a9-00cf85b68de7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/research-work/c32e46f7-fbbe-4981-b38a-080f49f84fd4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.k%C4%99dziora.POMUWcBa2gC/research-work/d05024bd-c6e4-44a9-8886-4c3b4d14bbe1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=112439"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

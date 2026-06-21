@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ",
+  "slug": "łukasz.matuszewski",
+  "profile_id": "WJL04z3MQoJ",
+  "full_name": "dr inż. Łukasz Wojciech Matuszewski",
+  "orcid": "0000-0002-5795-3246",
+  "orcid_url": "https://orcid.org/0000-0002-5795-3246",
+  "breadcrumb_name": "Łukasz Matuszewski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informatyka techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Internet of Plants: Machine Learning System for Bioimpedance-Based Plant Monitoring",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/publications/c0aec667-bfc2-48ac-afb0-32778dedbb47",
+      "authors": "Ł. Matuszewski , J. Nikonowicz, J. Bonczyk, ... (+3)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25247549",
+      "doi_url": "https://www.doi.org/10.3390/s25247549",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Low-Complexity Start–Stop True Random Number Generator for FPGAs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/publications/c05a3d22-49b5-4cf7-b31f-8d8be11600ef",
+      "authors": "Ł. Matuszewski , M. Jessa",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14135642",
+      "doi_url": "https://www.doi.org/10.3390/app14135642",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Computationally Efficient Wideband Spectrum Sensing through Cumulative Distribution Function and Machine Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.matuszewski.WJL04z3MQoJ/publications/40f698bf-7d28-462e-aade-2a2acc70aea0",
+      "authors": "M. Jessa, Ł. Matuszewski , J. Nikonowicz",
+      "publication_type": "Artykuł , Journal of Communications Software and Systems",
+      "year": "2024",
+      "doi": "10.24138/jcomss-2023-0175",
+      "doi_url": "https://www.doi.org/10.24138/jcomss-2023-0175",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=301681"
+    }
+  ],
+  "tag_cloud": [
+    "rubidium oscilator",
+    "device authentication",
+    "true randomness",
+    "radio communication",
+    "random number generator",
+    "pattern matching",
+    "machine learning",
+    "sequence alignment",
+    "high voltage",
+    "unknown signals"
+  ],
+  "coworkers": []
+}

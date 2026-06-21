@@ -1,0 +1,235 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY",
+  "slug": "paweł.bylina",
+  "profile_id": "uhcJRhiMkwY",
+  "full_name": "dr hab. Paweł Kacper Bylina",
+  "orcid": "0000-0003-1311-7905",
+  "orcid_url": "https://orcid.org/0000-0003-1311-7905",
+  "breadcrumb_name": "Paweł Bylina",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "mineralogia",
+    "geochemia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Instytut Ceramiki i Materiałów Budowlanych Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Ceramiki i Materiałów Budowlanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3e8f9ad6-6157-47db-8e90-d9ba6d2e57d6",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Nauk Geologicznych Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9828c4ea-d72c-484a-b325-e04b7f2a8096",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk o ziemi / geologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk o ziemi / geologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Nauk Geologicznych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9828c4ea-d72c-484a-b325-e04b7f2a8096"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "geologia",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/gremiums/d6b89419-8a2f-4594-9e23-1002ab454119",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Lądowa i Transport 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Lądowa i Transport Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fe-nodules from the southern Baltic Sea: morphology, mineralogy and geochemistry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/publications/d7d8c77d-c14d-41d1-b525-8ee1d42c16e8",
+      "authors": "K. Zglinicki, A. Wrzosek [...] P. Bylina , ... (+5)",
+      "publication_type": "Artykuł , Marine Geology",
+      "year": "2025",
+      "doi": "10.1016/j.margeo.2025.107655",
+      "doi_url": "https://www.doi.org/10.1016/j.margeo.2025.107655",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Konkrecje Fe-Mn z polskiego sektora Morza Bałtyckiego - stan wiedzy i potrzeba badań",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/publications/d6ad1f2c-9033-43b7-9da3-237c4354d6a7",
+      "authors": "K. Zglinicki, P. Bylina , L. Łęczyński, ... (+5)",
+      "publication_type": "Artykuł , Przegląd Geologiczny",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Forgotten Nazi Forced Labour Camps: Arbeitslager Riese (Lower Silesia, SE Poland) and the Use of Archival Aerial Photography and Contemporary LiDAR and Ground Truth Data to Identify and Delineate Camp Areas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/publications/86ba81fa-9b72-49b7-bc96-180ee81ac325",
+      "authors": "A. Kamola, S. Różycki, P. Bylina , ... (+3)",
+      "publication_type": "Artykuł , Remote Sensing",
+      "year": "2020",
+      "doi": "10.3390/rs12111802",
+      "doi_url": "https://www.doi.org/10.3390/rs12111802",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Procesy metamorficzne niskiego stopnia permskich skał maficznych z bloku Gorzowa Wielkopolskiego(monoklina przedsudecka, Polska północno-zachodnia):wiek i mechanizm procesu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/research-work/f60b3c39-ae77-4f64-b000-8e2c8fe5e90d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Krystalochemia i geneza krzemianów warstwowych ze stref kontaktowych ppegmatytu z serpentynitem w Wirach (Dolny Śląsk)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/research-work/60d63f38-fef0-46e5-bf16-bd2090470c39",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Petrografia i charakterystyka porowatości wybranych ordowickich i sylurskich mułowców z polskiej części basenu bałtyckiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.bylina.uhcJRhiMkwY/research-work/5a137e25-494a-432a-9191-cab330cc645b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=88874"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

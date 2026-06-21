@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm",
+  "slug": "grzegorz.tora",
+  "profile_id": "6cM8cjZlsnm",
+  "full_name": "dr hab. inż. Grzegorz Józef Tora",
+  "orcid": "0000-0002-2306-319X",
+  "orcid_url": "https://orcid.org/0000-0002-2306-319X",
+  "breadcrumb_name": "Grzegorz Tora",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny robocze",
+    "teoria i konstrukcja maszyn i manipulatorów",
+    "mechanika manipulatorów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "42 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Ekonomiczny w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 9 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Ekonomiczny w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Nauk Stosowanych w Nowym Sączu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ccc24230-94bd-4fab-9b88-dca9652e52c7",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Grzegorz Tora"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy-based kinetostatic modeling of a rotational tristable mechanism using the chained beam constraint model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/publications/befbc4d0-ecc2-4641-8d5d-3f46cc659519",
+      "authors": "V. Nguyen, N. Tran [...] G. Tora , ... (+2)",
+      "publication_type": "Artykuł , Mechanism and Machine Theory",
+      "year": "2025",
+      "doi": "10.1016/j.mechmachtheory.2025.106081",
+      "doi_url": "https://www.doi.org/10.1016/j.mechmachtheory.2025.106081",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of flexible hinge for monolithic mechanisms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/publications/776bb8e0-ac80-48d2-bd82-6d6fc1b92545",
+      "authors": "S. Chwastek, G. Tora , M. Czyrnek",
+      "publication_type": "Artykuł , Mechanics Based Design of Structures and Machines",
+      "year": "2025",
+      "doi": "10.1080/15397734.2025.2487167",
+      "doi_url": "https://www.doi.org/10.1080/15397734.2025.2487167",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigations of a compliant manipulator implementing micro-scale 2D displacements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/publications/212fbe88-3f6b-46da-8d2b-3f39838e0a9d",
+      "authors": "W. Harmatys, S. Chwastek [...] G. Tora , ... (+1)",
+      "publication_type": "Artykuł , Precision Engineering",
+      "year": "2023",
+      "doi": "10.1016/j.precisioneng.2022.09.010",
+      "doi_url": "https://www.doi.org/10.1016/j.precisioneng.2022.09.010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/research-work/ef5167ea-15eb-4a4b-b266-5b64617de778",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza mechanizmów typu platforma o ruchu sferycznym z uwzględnieniem podatności napędów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/research-work/875d78b6-5378-48f6-ab69-4e8be167b017",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Mechatroniczny system wspomagania rehabilitacji kończyn górnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.tora.6cM8cjZlsnm/research-work/f304b8a3-42be-49f6-8a18-ab0179f31d84",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=26110"
+    }
+  ],
+  "tag_cloud": [
+    "vibration of machinery",
+    "active damping",
+    "electric drive control",
+    "sterowanie napędem elektrycznym",
+    "electric drive",
+    "napęd elektryczny",
+    "vibration damping",
+    "tłumienie drgań",
+    "stabilizacja maszyny",
+    "drgania"
+  ],
+  "coworkers": []
+}

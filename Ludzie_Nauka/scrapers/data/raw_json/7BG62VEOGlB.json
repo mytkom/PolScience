@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB",
+  "slug": "łukasz.maślikowski",
+  "profile_id": "7BG62VEOGlB",
+  "full_name": "dr inż. Łukasz Maślikowski",
+  "orcid": "0000-0002-8364-0550",
+  "orcid_url": "https://orcid.org/0000-0002-8364-0550",
+  "breadcrumb_name": "Łukasz Maślikowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radiolokacja",
+    "cyfrowe przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Proceedings of 2025 Signal Processing Symposium (SPSympo 2025)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/publications/3a0c2f68-fdea-4d7f-8e60-5a8cc5e74444",
+      "authors": "M. Bączyk, K. Kulpa [...] Ł. Maślikowski , ... (+3)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Target detection, ISAR imaging and tracking capabilities of apassive radar net utilising barrage jamming signals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/publications/52757112-4964-49ea-8c12-1267612a7438",
+      "authors": "M. Bączyk, K. Kulpa, Ł. Maślikowski , ... (+10)",
+      "publication_type": "Artykuł , IET Radar, Sonar and Navigation",
+      "year": "2024",
+      "doi": "10.1049/rsn2.12641",
+      "doi_url": "https://www.doi.org/10.1049/rsn2.12641",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Long Range Noise Radar Concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/publications/c727e530-2555-4f2e-97dd-a3b533f3b58a",
+      "authors": "Ł. Maślikowski , K. Kulpa",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.23919/irs57608.2023.10172432",
+      "doi_url": "https://www.doi.org/10.23919/irs57608.2023.10172432",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie techniki MIMO w radarze szumowym do jednoczesnej obserwacji obiektów w wybranym sektorze kątowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ma%C5%9Blikowski.7BG62VEOGlB/research-work/cfa30941-75b1-45bb-9539-0f0c51b560a5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=286733"
+    }
+  ],
+  "tag_cloud": [
+    "clean technique",
+    "antenna array calibration",
+    "singular value decomposition",
+    "mimo",
+    "passive radar",
+    "mimo radar",
+    "receiving antennas",
+    "doppler radar",
+    "signal synchronization",
+    "radar detection"
+  ],
+  "coworkers": []
+}

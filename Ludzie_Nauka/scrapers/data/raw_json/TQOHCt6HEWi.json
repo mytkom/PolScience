@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi",
+  "slug": "aneta.górniak",
+  "profile_id": "TQOHCt6HEWi",
+  "full_name": "dr inż. Aneta Aleksandra Górniak",
+  "orcid": "0000-0002-6353-5788",
+  "orcid_url": "https://orcid.org/0000-0002-6353-5788",
+  "breadcrumb_name": "Aneta Górniak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza i przetwarzanie obrazów biomedycznych",
+    "analiza i rozpoznawanie obrazów",
+    "cyfrowe przetwarzanie obrazów",
+    "rozpoznawanie wzorców"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Tissue recognition on microscopic images of histological sections using sequences of Zernike moments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/publications/8c602e40-5929-438c-971f-ceaed1860264",
+      "authors": "A. Górniak , E. Skubalska-Rafajlowicz",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1007/978-3-319-99954-8_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-99954-8_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Object classification using sequences of Zernike moments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/publications/c3a57acf-e6d3-4644-8f1f-725837afd7a4",
+      "authors": "A. Górniak , E. Skubalska-Rafajlowicz",
+      "publication_type": "Artykuł",
+      "year": "2017",
+      "doi": "10.1007/978-3-319-59105-6_9",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-59105-6_9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Automatic Tissue Type Classification in Large-Scale Microscopic Images Using Zernike Moments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/publications/6591a662-7d20-41f2-b51d-d0050cf76013",
+      "authors": "A. Górniak , E. Skubalska-Rafajlowicz",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-030-30604-5_28",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-30604-5_28",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie i dopasowywanie obrazów mikroskopowych w przestrzeni 2D",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.g%C3%B3rniak.TQOHCt6HEWi/research-work/c1779cca-22a8-43a0-883c-010c44ecf1ef",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=318648"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

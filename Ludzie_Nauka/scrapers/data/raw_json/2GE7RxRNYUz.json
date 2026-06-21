@@ -1,0 +1,276 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz",
+  "slug": "małgorzata.szczerska",
+  "profile_id": "2GE7RxRNYUz",
+  "full_name": "prof. dr hab. inż. Małgorzata Szczerska",
+  "orcid": "0000-0003-4628-6158",
+  "orcid_url": "https://orcid.org/0000-0003-4628-6158",
+  "breadcrumb_name": "Małgorzata Szczerska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Biomarker Detection in the Wastewater Phantom",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/publications/f5bfba87-d08e-4aea-94ad-8f653887e214",
+      "authors": "A. Władziński, M. Kosowska [...] M. Szczerska , ... (+5)",
+      "publication_type": "Artykuł , Journal of Biophotonics",
+      "year": "2025",
+      "doi": "10.1002/jbio.202500003",
+      "doi_url": "https://www.doi.org/10.1002/jbio.202500003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Concept study on using fiber-optic sensors with nanocrystalline diamond sheet for tissue monitoring in radiotherapy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/publications/980a2770-788a-462c-a5f8-a47dc6e74f0b",
+      "authors": "M. Kosowska, V. Tuchin, M. Szczerska",
+      "publication_type": "Artykuł , Results in Optics",
+      "year": "2025",
+      "doi": "10.1016/j.rio.2025.100837",
+      "doi_url": "https://www.doi.org/10.1016/j.rio.2025.100837",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Expert system against machine learning approaches as a virtual sensor for ventricular arrhythmia risk level estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/publications/de6bd720-56ec-4246-8a71-c8195fed7d9a",
+      "authors": "M. Szczerska , S. García-Galán, J. Cabrera-Rodriguez, ... (+6)",
+      "publication_type": "Artykuł , Biomedical Signal Processing and Control",
+      "year": "2025",
+      "doi": "10.1016/j.bspc.2024.107255",
+      "doi_url": "https://www.doi.org/10.1016/j.bspc.2024.107255",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/9afe2a74-1982-425a-b086-6bfb32b34842",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Niskokoherencyjne czujniki światłowodowe do badania obiektów biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/ae6fc487-17a0-4d53-9de1-30bd5776eaed",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Niskokoherencyjne, interferometryczne metody pomiaru wybranych wielkości fizycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/57bb31d7-95ed-48e9-84b1-151f9c2d48e1",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Strojenie współczynnika finezji urządzeń optoelektronicznych - Tuning of the finesse coefficient of optoelectronic devices",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/2d5a8fed-3c97-4cbb-a598-3711867b9219",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Czujniki światłowodowe z wybranymi cienkowarstwowymi strukturami tlenkowymi dedykowane do pomiaru współczynnika załamania substancji chemicznych i biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/87c0c3d9-ebdf-4b42-b846-22a7d78d82ed",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowania spektroskopii Ramana do detekcji wybranych substancji w tkankach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/10f41717-0c46-432f-8480-dbfc544b288a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wide angle holography with phase only Spatial Light Modulator (SLM)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/886cf69e-6603-4830-ba5a-a49b31a2b4b3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Opracowanie światłowodu z szklano-ceramicznym rdzeniem domieszkowanym jonami lantanowców",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/033beb31-9045-459a-ba00-8c301abeca86",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Światłowody pokryte warstwami diamentowymi z centrami NV jako platforma do kwantowej magnetometrii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.szczerska.2GE7RxRNYUz/research-work/62a341b1-87f5-441a-abe2-ac88533260aa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=118787"
+    }
+  ],
+  "tag_cloud": [
+    "non-invasive observation",
+    "interferrometric sensor",
+    "temperature sensor",
+    "interferometry",
+    "biophotonics",
+    "fiber-optic sensor",
+    "optical properties",
+    "fiber-optic interferometer",
+    "temperature sensors",
+    "photonic sensor"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,307 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh",
+  "slug": "marek.klonowski",
+  "profile_id": "W78inYTiVoh",
+  "full_name": "prof. dr hab. inż. Marek Dariusz Klonowski",
+  "orcid": "0000-0002-3141-8712",
+  "orcid_url": "https://orcid.org/0000-0002-3141-8712",
+  "breadcrumb_name": "Marek Klonowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstaw Informatyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/6c713100-70da-4346-9836-92ba3723e52a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy efficient adversarial routing in shared channels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/publications/25b0c9db-72d3-4799-935a-67ffcb00ef89",
+      "authors": "M. Klonowski , B. Chlebus, B. Chlebus, ... (+5)",
+      "publication_type": "Artykuł , ACM Transactions on Parallel Computing",
+      "year": "2025",
+      "doi": "10.1145/3730986",
+      "doi_url": "https://www.doi.org/10.1145/3730986",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Extremely compact video representation for efficient near-duplicates detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/publications/2ab1e13f-6dd4-4548-9e0a-430fc6bd8db3",
+      "authors": "K. Fojcik, P. Syga, M. Klonowski",
+      "publication_type": "Artykuł , Pattern Recognition",
+      "year": "2025",
+      "doi": "10.1016/j.patcog.2024.111016",
+      "doi_url": "https://www.doi.org/10.1016/j.patcog.2024.111016",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Defending network IDS against adversarial examples with continual learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/publications/47c61a78-d41e-4c8d-af24-57839c656450",
+      "authors": "J. Kozal, Z. Justyna, M. Klonowski , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/icdmw60847.2023.00017",
+      "doi_url": "https://www.doi.org/10.1109/icdmw60847.2023.00017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Bezpieczeństwo i efektywna komunikacja w rozproszonych systemach o ograniczonych zasobach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/03bde50b-9f7d-4de7-95f0-d8a56071c9d2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/9e953c83-8236-4cf9-a3f4-827646988c93",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Algorytmy zapewniające anonimowość i ich analiza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/9a278000-aba5-4e85-a1d2-f1c2206208aa",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie zaawansowanych metod sztucznej inteligencji do wybranych problemów bezpieczeństwa informacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/7d309bce-f98b-4344-9494-67171791a72b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Protokoły zachowujące prywatność w zawodnych systemach rozproszonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/23390dfc-6a51-413a-a2d8-aa4339c7f493",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Szybkie i energetyczne efektywne protokoły dla radiowych sieci Ad Hoc",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/9b3b986a-7c7f-4806-a654-0fb6c8a81f55",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/53d6e592-a547-458f-9651-cdbbb7b13a69",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowania dualności łańcuchów Markowa w modelach ruiny gracza i symulacji doskonałej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/1193ee9d-6048-4f12-aa8e-ccef56e06104",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Niezawodne trasowanie w niskomocowych sieciach bezprzewodowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.klonowski.W78inYTiVoh/research-work/e7cf1a00-9e3a-4e8c-a143-b4a473e65fce",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=133472"
+    }
+  ],
+  "tag_cloud": [
+    "quantum walks",
+    "multiple access channel",
+    "routing",
+    "ochrona prywatności",
+    "systemy rozproszone",
+    "agregacja danych",
+    "algorithm",
+    "algorytm",
+    "system rozproszony",
+    "xtr system"
+  ],
+  "coworkers": []
+}

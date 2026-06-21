@@ -1,0 +1,270 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL",
+  "slug": "rafał.szabla",
+  "profile_id": "BMbKLLPRNiL",
+  "full_name": "dr hab. inż. Rafał Kazimierz Szabla",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Rafał Szabla",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 3 miesiące",
+      "duration": null,
+      "institution": "Instytut Fizyki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia",
+        "Masarykova univerzita (Masaryk University) • Czechy",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Masarykova univerzita (Masaryk University)",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2012",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Politechnika Wrocławska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Fizyki Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bcec464c-f81e-4ff1-b0f0-2c9581715fe5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chalcogen bonds enable efficient photoreduction of sulfur-containing heterocycles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/publications/f7c664a9-1326-4b2f-af5a-669797a1d60f",
+      "authors": "M. Janicki, R. Szabla",
+      "publication_type": "Artykuł , Angewandte Chemie - International Edition",
+      "year": "2025",
+      "doi": "10.1002/anie.202413498",
+      "doi_url": "https://www.doi.org/10.1002/anie.202413498",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Computational evaluation of the binding of activated ribonucleotides in nonenzymatic RNA template copying",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/publications/05422f41-567e-49ab-862a-96c97b4ead1a",
+      "authors": "B. Lech, B. Ogunnaiya [...] R. Szabla , ... (+1)",
+      "publication_type": "Artykuł , ChemSystemsChem",
+      "year": "2025",
+      "doi": "10.1002/syst.202400086",
+      "doi_url": "https://www.doi.org/10.1002/syst.202400086",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Preferential survival of prebiotic metallopeptides in the presence of ultraviolet light",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/publications/81f6dcfc-8397-4a20-b523-6953646085b2",
+      "authors": "R. Szabla , D. Rossetto, S. Nader, ... (+10)",
+      "publication_type": "Artykuł , Chemical Science",
+      "year": "2025",
+      "doi": "10.1039/d5sc02170g",
+      "doi_url": "https://www.doi.org/10.1039/d5sc02170g",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/research-work/8da42394-3f8e-4d10-ba91-092e3b5f8516",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczne badania wpływu otoczenia na właściwości fotochemiczne i fotofizyczne wybranych związków heterocyklicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/research-work/b4efaf2e-d91b-4d79-bead-32c9f3407ef7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie teoretyczne ścieżek reakcji enzymów katalizujących addycję fumaranu oraz ich pochodnych mutantów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.szabla.BMbKLLPRNiL/research-work/277223c1-8742-4b84-aa42-3ef401028824",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287024"
+    }
+  ],
+  "tag_cloud": [
+    "pochodne oksazoliny",
+    "dynamika molekularna",
+    "pochodzenie życia",
+    "mechanizmy reakcji",
+    "fotochemia",
+    "chemia prebiotyczna",
+    "chemia obliczeniowa",
+    "rna",
+    "mechanistic",
+    "fotofizyka"
+  ],
+  "coworkers": []
+}

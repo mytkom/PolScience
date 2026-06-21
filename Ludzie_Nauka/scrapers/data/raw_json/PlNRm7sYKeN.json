@@ -1,0 +1,219 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN",
+  "slug": "agnieszka.baszczuk",
+  "profile_id": "PlNRm7sYKeN",
+  "full_name": "dr hab. Agnieszka Baszczuk",
+  "orcid": "0000-0001-5476-352X",
+  "orcid_url": "https://orcid.org/0000-0001-5476-352X",
+  "breadcrumb_name": "Agnieszka Baszczuk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizykochemia ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Niskich Temperatur i Badań Strukturalnych im. Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/0f0762c0-9894-4415-abdf-24cbd96b7045",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Niskich Temperatur i Badań Strukturalnych im. Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0f0762c0-9894-4415-abdf-24cbd96b7045"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Niskich Temperatur i Badań Strukturalnych im. Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0f0762c0-9894-4415-abdf-24cbd96b7045"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/gremiums/ae30bbd5-cdd3-46b8-966b-00620de29d12",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Aerosol-assisted low-pressure cold spraying of TiO2 suspension",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/publications/5772ac80-410f-4bf8-bd66-56ecc5d6335f",
+      "authors": "A. Gibas, M. Winnicki, A. Baszczuk , ... (+1)",
+      "publication_type": "Artykuł , Surface and Coatings Technology",
+      "year": "2025",
+      "doi": "10.1016/j.surfcoat.2024.131715",
+      "doi_url": "https://www.doi.org/10.1016/j.surfcoat.2024.131715",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Durability assessment of low-pressure cold-sprayed TiO2 photocatalytic coatings: Photocatalytic and mechanical stability",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/publications/0b850a5f-d0c5-4fcc-9d83-4a66d13b7c5a",
+      "authors": "W. Seremak, M. Jasiorski, A. Baszczuk , ... (+1)",
+      "publication_type": "Artykuł , Surface and Coatings Technology",
+      "year": "2025",
+      "doi": "10.1016/j.surfcoat.2025.131740",
+      "doi_url": "https://www.doi.org/10.1016/j.surfcoat.2025.131740",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Crystallization-driven tuneable lasing of perylene doped into the nematic liquid crystal",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/publications/812732cb-6d62-40e7-9dd0-2aee39bc6a37",
+      "authors": "A. Szukalska, A. Żak [...] A. Baszczuk , ... (+3)",
+      "publication_type": "Artykuł , GIANT",
+      "year": "2024",
+      "doi": "10.1016/j.giant.2024.100279",
+      "doi_url": "https://www.doi.org/10.1016/j.giant.2024.100279",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Synteza i fizykochemiczna natura złożonych tlenków metali o strukturze typu perowskitu i strukturach pokrewnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.baszczuk.PlNRm7sYKeN/research-work/460c23fe-9cee-4a98-9415-0daa2396bf8b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111436"
+    }
+  ],
+  "tag_cloud": [
+    "visible-light-active photocatalyst",
+    "analiza fazowa xrd",
+    "pomiar polaryzacji",
+    "pomiary przewodności elektrycznej",
+    "cu2o reduction",
+    "powłoki miedziane",
+    "yellow tio2",
+    "ascorbic acid as reducer",
+    "test kesternicha",
+    "copper sulphide"
+  ],
+  "coworkers": []
+}

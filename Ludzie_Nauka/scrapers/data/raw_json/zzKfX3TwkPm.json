@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm",
+  "slug": "piotr.lampa",
+  "profile_id": "zzKfX3TwkPm",
+  "full_name": "mgr inż. Piotr Tomasz Lampa",
+  "orcid": "0000-0001-8009-6628",
+  "orcid_url": "https://orcid.org/0000-0001-8009-6628",
+  "breadcrumb_name": "Piotr Lampa",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Amodal instance segmentation for mealworm growth monitoring using synthetic training images",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/publications/c3df1102-3418-442e-8263-86235ad2a81a",
+      "authors": "P. Dolata, P. Majewski, P. Lampa , ... (+2)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3550780",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3550780",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "End-to-end solution for Tenebrio Molitor rearing monitoring with uncertainty estimation and domain shift detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/publications/29c60473-956b-4ba5-b8ec-df65d3c933c4",
+      "authors": "P. Majewski, P. Lampa , R. Burduk, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/cvprw63382.2024.00559",
+      "doi_url": "https://www.doi.org/10.1109/cvprw63382.2024.00559",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Identifying Defects and Varieties of Malting Barley Kernels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.lampa.zzKfX3TwkPm/publications/91feef94-2384-4813-ad2b-f95bb2eab958",
+      "authors": "M. Kozłowski, P. Szczypiński [...] P. Lampa , ... (+4)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.21203/rs.3.rs-4647502/v1;10.1038/s41598-024-73683-3",
+      "doi_url": "https://www.doi.org/10.21203/rs.3.rs-4647502/v1;10.1038/s41598-024-73683-3",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

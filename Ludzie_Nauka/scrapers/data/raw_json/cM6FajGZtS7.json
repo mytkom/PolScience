@@ -1,0 +1,291 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7",
+  "slug": "adam.barylski",
+  "profile_id": "cM6FajGZtS7",
+  "full_name": "prof. dr hab. inż. Adam Barylski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Adam Barylski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "obróbka ścierna i wiórowa",
+    "technologia maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "13 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Elblągu Aktualna nazwa: Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / -",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / -",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Mechaniczny Technologiczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1974",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Inżynierii Powierzchni",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/gremiums/5421c6d0-bbb3-48ac-af23-91934b0e819c",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza zużycia pierścieni prowadzących separatory przedmiotowe docierarki do powierzchni płaskich",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/publications/537e5cbb-9e0f-45e7-8531-d97a4e052667",
+      "authors": null,
+      "publication_type": "Artykuł , Dozór Techniczny",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Badania docierania ceramiki technicznej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/publications/6bcc52af-dd70-4c0e-9395-245b14f5b1c7",
+      "authors": null,
+      "publication_type": "Artykuł , Inżynieria Materiałowa",
+      "year": "2025",
+      "doi": "10.15199/28.2025.3.2",
+      "doi_url": "https://www.doi.org/10.15199/28.2025.3.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Badania docierania jednotarczowego metalowych elementów drobnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/publications/85b62663-14a5-4ca5-9de6-badd0ddec0ad",
+      "authors": null,
+      "publication_type": "Artykuł , Kwartalnik Naukowo-Techniczny \"Obróbka Metalu\"",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Podstawy docierania jednotarczowego powierzchni płaskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/59e78768-165a-4af6-a422-c1e5587d9614",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/1d7d3a3b-1a79-4eb7-b637-817d4e4e693f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza układów kinematycznych docierania powierzchni płaskich w aspekcie równomierności zużycia tarczy docierającej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/04821e7a-1c5a-4d26-834f-c38be48d975d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ warunków docierania na zmiany temperatury elementów układu wykonawczego docierarki jednotarczowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/ea5fb983-e2cc-4bc8-933e-a38d5d127b8f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ parametrów docierania na jakość powierzchni powłok Cr 2 O 3",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/8259fadb-5306-4b9e-8adf-f0ab532fefd5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Systemy oceny stanu dynamicznego łożysk tocznych za pomocą ustalenia poziomu drgań generowanych przez łożyska",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/78bdf379-0ee1-4f93-bb51-9a96b2867a0b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "A. Cykl 10 publikacji naukowych, pt. „Nowa technologia kształtowania części ze stopów metali lekkich metodą hybrydową kucia z przedkuwek odlewanych”, B. Cykl 10 publikacji naukowych, pt. „Nowa technologia kształtowania wsporników ze stopów magnezu w trójsuwakowej prasie kuźniczej”, C. Cykl 3 publikacji naukowych, pt. „Nowe rozwiązania i aspekty technologiczne w procesach kształtowania biomateriałów metalowych”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/546f37a1-375f-4b55-ab7a-4417610b773c",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ warunków hydraulicznych i geometrii samowzbudnej głowicy pulsacyjnej na charakterystykę wytwarzanej strugi wodnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.barylski.cM6FajGZtS7/research-work/9a7d1263-264e-40f5-9185-13348c1914bb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61406"
+    }
+  ],
+  "tag_cloud": [
+    "dawkowanie wymuszone",
+    "kinematyka",
+    "konstrukcja",
+    "inżynieria mechaniczna",
+    "docieranie",
+    "analiza",
+    "technologiczność konstrukcji",
+    "powierzchnie płaskie",
+    "mikroziarna ścierne",
+    "uchwyty modułowe"
+  ],
+  "coworkers": []
+}

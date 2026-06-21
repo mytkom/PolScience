@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ",
+  "slug": "anna.stankiewicz",
+  "profile_id": "6nSgWuUDrsJ",
+  "full_name": "dr inż. Anna Maria Stankiewicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Stankiewicz",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody obliczeniowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4921489f-84b0-4d4b-843c-13b7261ccc05"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Three-dimensional numerical modelling of multi-layered shell structures using two-dimensional plane mesh",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/publications/09433d7c-c932-4ce0-a604-57f1cae2b104",
+      "authors": "J. Jaśkowiec, A. Stankiewicz , P. Pluciński",
+      "publication_type": "Artykuł , Advances in Engineering Software",
+      "year": "2020",
+      "doi": "10.1016/j.advengsoft.2020.102840",
+      "doi_url": "https://www.doi.org/10.1016/j.advengsoft.2020.102840",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Plate and shell structures : selected analytical and finite element solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/publications/58545e41-93f7-480c-a1e2-b723d534191f",
+      "authors": "A. Wosatko, M. Radwańska, A. Stankiewicz , ... (+1)",
+      "publication_type": "Książka , John Wiley & Sons",
+      "year": "2017",
+      "doi": "10.1002/9781118934531",
+      "doi_url": "https://www.doi.org/10.1002/9781118934531",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Three-dimensional modelling of laminated glass bending on two-dimensional in-plane mesh",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/publications/c4c91d0f-be61-4302-8241-6f9c70b4199d",
+      "authors": "A. Stankiewicz , J. Jaśkowiec, P. Pluciński",
+      "publication_type": "Artykuł , Composites. Part B, Engineering",
+      "year": "2017",
+      "doi": "10.1016/j.compositesb.2017.03.008",
+      "doi_url": "https://www.doi.org/10.1016/j.compositesb.2017.03.008",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Numeryczna analiza zjawisk lokalizacji odkształceń w jednofazowym i dwufazowym ośrodku geotechnicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.stankiewicz.6nSgWuUDrsJ/research-work/975f2319-621e-4f33-975b-561de24c9e83",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=203092"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

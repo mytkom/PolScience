@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs",
+  "slug": "sławomir.łapiński",
+  "profile_id": "sDJGtq0LFgs",
+  "full_name": "dr inż. Sławomir Łapiński",
+  "orcid": "0000-0003-0403-7911",
+  "orcid_url": "https://orcid.org/0000-0003-0403-7911",
+  "breadcrumb_name": "Sławomir Łapiński",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "geodezja inżynieryjno-przemysłowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Geodezji i Kartografii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e41eeaf1-4138-44de-8a42-dcdbab415003"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automated Building Monitoring System Based on Reflectorless Measurements: A Case Study of the IMSGeo System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/publications/4d2cda79-a34a-4693-97c9-5b198eaf3c2c",
+      "authors": "M. Kowalska, J. Zaczek-Peplinska, S. Łapiński , ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25175327",
+      "doi_url": "https://www.doi.org/10.3390/s25175327",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The Investigation on the Possibilities of Utilising the Leica MS60 Scanning Total Station in Heritage Investigation - Preliminary Results",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/publications/f956b1c7-dba4-4af3-9277-f78de3e7ce7d",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Modern Technologies for Cultural Heritage Preservation",
+      "year": "2024",
+      "doi": "10.69534/jmtchp/199489",
+      "doi_url": "https://www.doi.org/10.69534/jmtchp/199489",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Increasing the Accuracy of Calculating Angular Values by Linear Measurements by Placing the Equipment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/publications/01b89bb0-b645-4f09-86a2-61d4a7c3f2e6",
+      "authors": "M. Fys, S. Łapiński , A. Brydun, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.3997/2214-4609.2023510020",
+      "doi_url": "https://www.doi.org/10.3997/2214-4609.2023510020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie minimalnych wykrywalnych przemieszczeń w sieci kontrolnej dla różnych definicji obliczeniowego układu odniesienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.%C5%82api%C5%84ski.sDJGtq0LFgs/research-work/1e2c5d0c-385a-484c-a8cb-20c8a3deea1a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=306311"
+    }
+  ],
+  "tag_cloud": [
+    "photogrammetry",
+    "deformation measurements",
+    "quality assessment",
+    "tls",
+    "monitoring",
+    "cultural heritage",
+    "sfm",
+    "reliability analysis",
+    "data integration",
+    "mvs"
+  ],
+  "coworkers": []
+}

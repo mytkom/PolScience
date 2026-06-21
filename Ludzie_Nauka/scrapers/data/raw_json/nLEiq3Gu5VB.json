@@ -1,0 +1,140 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB",
+  "slug": "jan.godlewski",
+  "profile_id": "nLEiq3Gu5VB",
+  "full_name": "dr inż. Jan Godlewski",
+  "orcid": "0000-0002-3498-5720",
+  "orcid_url": "https://orcid.org/0000-0002-3498-5720",
+  "breadcrumb_name": "Jan Godlewski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina sztuki"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB/achievement",
+      "aria_disabled": null
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.godlewski.nLEiq3Gu5VB/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor sztuki",
+      "details_json": [
+        "dziedzina sztuk plastycznych / sztuki projektowe",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie; Wydział Wzornictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/685042af-9d4c-49a1-9bdb-4976bad90504"
+        },
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ae7be1ba-27cb-4376-96c5-e98a2c040730"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "wzornictwo",
+        "Nadanie tytułu",
+        "Akademia Sztuk Pięknych w Warszawie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "architektura wnętrz",
+        "Nadanie tytułu",
+        "Politechnika Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=303811"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

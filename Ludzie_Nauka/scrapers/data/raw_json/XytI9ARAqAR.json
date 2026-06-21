@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR",
+  "slug": "tomasz.czarnecki",
+  "profile_id": "XytI9ARAqAR",
+  "full_name": "dr inż. Tomasz Czarnecki",
+  "orcid": "0000-0002-5594-0353",
+  "orcid_url": "https://orcid.org/0000-0002-5594-0353",
+  "breadcrumb_name": "Tomasz Czarnecki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inteligentny budynek",
+    "systemy multimedialne",
+    "kodowanie obrazu i dźwieku",
+    "rzeczywistość wirtualna",
+    "rzeczywistość rozszerzona",
+    "przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cost-Effective Autonomous Drone Navigation Using Reinforcement Learning: Simulation and Real-World Validation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/publications/cff49caa-bda4-4857-bd91-a0cbd9764508",
+      "authors": "T. Czarnecki , M. Stawowy, A. Kadłubowski",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app15010179",
+      "doi_url": "https://www.doi.org/10.3390/app15010179",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Estimating the Measurement Uncertainty of the Number of Vehicles in a Car Park Using an Indirect Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/publications/43412da7-1cc1-4dfa-9df9-79d309740e26",
+      "authors": "M. Stawowy, T. Czarnecki , K. Perlicki, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13105938",
+      "doi_url": "https://www.doi.org/10.3390/app13105938",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Use of Drone Photo Material to Classify the Purity of Photovoltaic Panels Based on Statistical Classifiers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/publications/41b5a5b0-3d86-4180-8343-242be668d1c6",
+      "authors": "T. Czarnecki , K. Bloch",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s22020483",
+      "doi_url": "https://www.doi.org/10.3390/s22020483",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Filtracja sygnałów wektorowych a dokładność dopasowania metodą korelacyjną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.czarnecki.XytI9ARAqAR/research-work/b7df408f-9491-4002-bfc5-01f327b1c06d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117475"
+    }
+  ],
+  "tag_cloud": [
+    "parkingi mop",
+    "zliczanie pojazdów",
+    "vehiclecounting",
+    "detection",
+    "rest area demand for parking spaces mathematical evidence",
+    "zapotrzebowanie na miejsca",
+    "parking lot measurement",
+    "demand for parking spaces",
+    "mathematical evidence",
+    "image analysis"
+  ],
+  "coworkers": []
+}

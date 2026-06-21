@@ -1,0 +1,231 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo",
+  "slug": "józef.kotus",
+  "profile_id": "rrHkwKKQPbo",
+  "full_name": "dr hab. inż. Józef Kotus",
+  "orcid": "0000-0001-8087-3095",
+  "orcid_url": "https://orcid.org/0000-0001-8087-3095",
+  "breadcrumb_name": "Józef Kotus",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy multimedialne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Informatyki, Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cd1de8c1-f3d2-49a0-9562-a5ef6d0b5e5c"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Acoustic Vector Sensor–Based Speaker Diarization Using Sound Intensity Analysis for Two-Speaker Dialogues",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/publications/817c63c8-c76e-4637-9b17-8ecd474fc55b",
+      "authors": "G. Szwoch, J. Kotus , S. Zaporowski",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312780",
+      "doi_url": "https://www.doi.org/10.3390/app152312780",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Aeroacoustic Effect of Savonius Rotor Segmentation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/publications/146790e8-06ad-4f81-9c0b-08a1dd2883a4",
+      "authors": "S. Sachar, J. Kotus , K. Doerffer, ... (+5)",
+      "publication_type": "Artykuł , Archives of Acoustics",
+      "year": "2025",
+      "doi": "10.24425/aoa.2025.153665",
+      "doi_url": "https://www.doi.org/10.24425/aoa.2025.153665",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "KLASYFIKACJA ZDARZEŃ AKUSTYCZNYCH W SYSTEMIE MONITORINGU BEZPIECZEŃSTWA OPARTA NA UCZENIU MASZYNOWYM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/publications/31ac09ee-a1df-427c-ac01-51ef3d07988a",
+      "authors": "J. Kotus , M. Szczodrak, P. Szczuko, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.104",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.104",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza sygnałów i danych multimedialnych dla celów lokalizacji źródeł akustycznych i wizualizacji rozpływu energii akustycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/research-work/210e4904-055b-43d7-bc59-1799eb3f4881",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena wpływu zagrożeń hałasowych na częstość występowania chorób słuchu z zastosowaniem systemów teleinformatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/research-work/111ff052-5524-4fe6-898e-0d8f0ba53da0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Akustyczna analiza parametrów ruchu drogowego z wykorzystaniem informacji o hałasie oraz uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.kotus.rrHkwKKQPbo/research-work/b881995e-1ffb-4df9-9bae-1413e6a854b8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=213501"
+    }
+  ],
+  "tag_cloud": [
+    "time-scale modification",
+    "mems",
+    "acoustic sensors",
+    "speech intelligibility",
+    "sound intensity",
+    "acoustic vector sensor",
+    "highspeed camera",
+    "acoustic quality",
+    "organ pipe",
+    "acoustic sensing"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,194 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ",
+  "slug": "paweł.pełka",
+  "profile_id": "3g8P5yKAZgQ",
+  "full_name": "dr inż. Paweł Tomasz Pełka",
+  "orcid": "0000-0002-2609-811X",
+  "orcid_url": "https://orcid.org/0000-0002-2609-811X",
+  "breadcrumb_name": "Paweł Pełka",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informatyka techniczna",
+    "uczenie maszynowe",
+    "sztuczna inteligencja",
+    "prognozowanie"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhanced N-BEATS for Mid-Term Electricity Demand Forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/publications/5cf19f2f-0c3f-4077-b253-5022d86f5fb9",
+      "authors": "M. Kasprzyk, P. Pełka , B. Oreshkin, ... (+1)",
+      "publication_type": "Artykuł , APPLIED SOFT COMPUTING",
+      "year": "2025",
+      "doi": "10.1016/j.asoc.2025.113575",
+      "doi_url": "https://www.doi.org/10.1016/j.asoc.2025.113575",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Contextually Enhanced ES-dRNN with Dynamic Attention for Short-Term Load Forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/publications/9e9937e6-6552-491e-b6fe-6043813f7e41",
+      "authors": "S. Smyl, G. Dudek, P. Pełka",
+      "publication_type": "Artykuł , Neural Networks",
+      "year": "2024",
+      "doi": "10.1016/j.neunet.2023.11.017",
+      "doi_url": "https://www.doi.org/10.1016/j.neunet.2023.11.017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "ES-dRNN: A Hybrid Exponential Smoothing and Dilated Recurrent Neural Network Model for Short-Term Load Forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/publications/c615df53-9dea-462e-942c-939daaae786e",
+      "authors": "S. Smyl, G. Dudek, P. Pełka",
+      "publication_type": "Artykuł , IEEE Transactions on Neural Networks and Learning Systems",
+      "year": "2024",
+      "doi": "10.1109/tnnls.2023.3259149",
+      "doi_url": "https://www.doi.org/10.1109/tnnls.2023.3259149",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nieparametryczne metody uczenia maszynowego do średnioterminowego prognozowania obciążeń systemów elektroenergetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pe%C5%82ka.3g8P5yKAZgQ/research-work/55e6e8b7-1e1c-481d-aaac-3235e8c122f0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=312487"
+    }
+  ],
+  "tag_cloud": [
+    "long short-term memory",
+    "hybrid forecasting models",
+    "pattern-based forecasting",
+    "time series forecasting",
+    "medium-term load forecasting",
+    "mid-term load forecasting",
+    "exponential smoothing",
+    "recurrent neural networks",
+    "short-term load forecasting",
+    "patter-based forecasting"
+  ],
+  "coworkers": []
+}

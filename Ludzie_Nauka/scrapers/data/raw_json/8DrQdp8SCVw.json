@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw",
+  "slug": "marek.badura",
+  "profile_id": "8DrQdp8SCVw",
+  "full_name": "dr inż. Marek Badura",
+  "orcid": "0000-0002-3200-0799",
+  "orcid_url": "https://orcid.org/0000-0002-3200-0799",
+  "breadcrumb_name": "Marek Badura",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "ochrona powietrza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Inżynierii Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ab2cb61d-7ac7-4831-96e0-8434d8883510"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria środowiska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wykorzystanie mieszanin gazowo-wodorowych w domowych instalacjach gazowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/publications/dbff24ee-516a-4508-894e-6bc2a50c3e3e",
+      "authors": null,
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2025",
+      "doi": "10.15199/9.2025.11.2",
+      "doi_url": "https://www.doi.org/10.15199/9.2025.11.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Niskobudżetowe czujniki pyłu do pomiarów jakości powietrza wewnętrznego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/publications/9eb0b469-14d2-4f21-8152-6337b0f35f11",
+      "authors": null,
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2024",
+      "doi": "10.15199/9.2024.12.5",
+      "doi_url": "https://www.doi.org/10.15199/9.2024.12.5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Pomiary jakości powietrza na kampusie Politechniki Wrocławskiej za pomocą sieci czujnikowej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/publications/1de6ef06-44af-49ad-9edd-510437c2a85c",
+      "authors": "M. Badura , I. Sówka, P. Szymański, ... (+1)",
+      "publication_type": "Artykuł , Gaz, Woda i Technika Sanitarna",
+      "year": "2023",
+      "doi": "10.15199/17.2023.2.5",
+      "doi_url": "https://www.doi.org/10.15199/17.2023.2.5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Oznaczanie lotnych związków organicznych półprzewodnikowymi czujnikami gazów w obecności interferentów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.badura.8DrQdp8SCVw/research-work/514113e6-663a-4cf8-b893-723d4a4ea2be",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=255755"
+    }
+  ],
+  "tag_cloud": [
+    "gaz ziemny",
+    "gruntowy wymiennik ciepła",
+    "czujniki optyczne",
+    "kalibracja",
+    "pył zawieszony",
+    "kord tekstylny",
+    "smog",
+    "odpady komunalne",
+    "stacja gazowa",
+    "remediacja gleby"
+  ],
+  "coworkers": []
+}

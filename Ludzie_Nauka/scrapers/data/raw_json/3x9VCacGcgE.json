@@ -1,0 +1,277 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE",
+  "slug": "tomasz.popławski",
+  "profile_id": "3x9VCacGcgE",
+  "full_name": "prof. dr hab. inż. Tomasz Popławski",
+  "orcid": "0000-0003-1371-9455",
+  "orcid_url": "https://orcid.org/0000-0003-1371-9455",
+  "breadcrumb_name": "Tomasz Popławski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "elektroenergetyka",
+    "informatyka techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Hotelarstwa i Turystyki z siedzibą w Częstochowie w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1e3eb0bb-6f33-487b-8b97-8a18cb155749",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "elektroenergetyka",
+        "Nadanie stopnia",
+        "Ostravská univerzita v Ostravě (University of Ostrava) • Czechy",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska Wydział Elektryczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/gremiums/782e8159-0bfb-456b-9ace-a662a18ad23b",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy Audit of Road Lighting Installations as a Tool for Improving Efficiency and Visual Safety Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/publications/de729d66-a372-47d7-bc60-27cd8eff14cc",
+      "authors": "M. Kurkowski, T. Popławski , H. Wachta, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18205357",
+      "doi_url": "https://www.doi.org/10.3390/en18205357",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Long-Term Forecast of Peak Power Demand for Poland—Construction and Use of Simplified Forecasting Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/publications/9016fbd9-d7a6-4b4c-b21d-87e8cde5ea53",
+      "authors": null,
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18133472",
+      "doi_url": "https://www.doi.org/10.3390/en18133472",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Budeanu’s Distortion Power Components Based on CPC Theory in Three-Phase Four-Wire Systems Supplied by Symmetrical Nonsinusoidal Voltage Waveforms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/publications/8534bf27-c1e5-4d27-9422-2f4cda4ee23c",
+      "authors": "Z. Sołjan, T. Popławski",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17051043",
+      "doi_url": "https://www.doi.org/10.3390/en17051043",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Methods of Analysis and Forecast of Power Engineering Load Variation in the Conditions of Energy Market Transformations",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/8d6fc844-212b-4157-8e71-defd9c8e297d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Prognozowanie strukturalne przebiegów obciążeń w systemach elektroenergetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/d680d7ea-3a64-480b-81fc-621d75d0d533",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza parametrów pracy opraw oświetleniowych w układach mieszanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/0c5d6561-8436-467a-b5d4-b3347865fd40",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Instalacje fotowoltaiczne z eksperymentalnymi materiałami w kontekście nowej standaryzacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/63f9ae31-2de5-4124-8044-378dbc0cda4d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie związków pomiędzy czynnikami pogodowymi i obciążeniem w Krajowym Systemie Elektroenergetycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/7c4bc9c0-217d-4e33-b209-c22e779bd84d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/6e0b33c0-1dae-4b2a-90fb-024ab83c59c6",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/c2815f17-2973-4236-9271-bcc20a600071",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pop%C5%82awski.3x9VCacGcgE/research-work/67309598-3749-44ad-9c7d-435c25747c73",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=91161"
+    }
+  ],
+  "tag_cloud": [
+    "efektywność energetyczna",
+    "zużycie energii",
+    "energy consumption",
+    "prognozowanie",
+    "led",
+    "forecasting",
+    "light sources",
+    "energy quality",
+    "rynek energii",
+    "źródła światła"
+  ],
+  "coworkers": []
+}

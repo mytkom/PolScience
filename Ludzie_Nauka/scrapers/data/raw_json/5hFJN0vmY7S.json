@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S",
+  "slug": "przemysław.połaski",
+  "profile_id": "5hFJN0vmY7S",
+  "full_name": "dr inż. Przemysław Połaski",
+  "orcid": "0000-0003-2772-7683",
+  "orcid_url": "https://orcid.org/0000-0003-2772-7683",
+  "breadcrumb_name": "Przemysław Połaski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2026",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Digital Image Correlation to Assess Residual Strains in WAAM-CMT Manufactured Specimens",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/publications/0ade920c-e861-4815-ab35-b368e5d48dd4",
+      "authors": "P. Połaski , A. Styk, D. Golański, ... (+2)",
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.536",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.536",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effect of the Electrode Extension on the Geometry of Parts Made of 316LSi Steel by Wire Arc Additive Manufacturing Method (WAAM)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/publications/dc28e0e7-c0ae-40bd-a7ae-4a7b5fb48cba",
+      "authors": "P. Połaski , D. Golański, P. Kołodziejczak, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/186362",
+      "doi_url": "https://www.doi.org/10.12913/22998624/186362",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modeling and measurements of temperature field in the arc welding and hybrid plasma-MAG welding heat source models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/publications/e1eca9ad-4df1-4dab-ab8c-877acb412552",
+      "authors": "D. Golański, D. Rochalski [...] P. Połaski , ... (+2)",
+      "publication_type": "Artykuł , Welding Technology Review",
+      "year": "2024",
+      "doi": "10.26628/simp.wtr.v96.1182.107-116",
+      "doi_url": "https://www.doi.org/10.26628/simp.wtr.v96.1182.107-116",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ warunków technologicznych wytwarzania przyrostowego WAAM-CMT na wybrane właściwości elementów cienkościennych z drutu 316LSi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.po%C5%82aski.5hFJN0vmY7S/research-work/e5ea3628-357a-45f2-acb8-887a6613f091",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

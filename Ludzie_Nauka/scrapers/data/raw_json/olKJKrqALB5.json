@@ -1,0 +1,243 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5",
+  "slug": "jacek.czerniak",
+  "profile_id": "olKJKrqALB5",
+  "full_name": "dr hab. inż. Jacek Czerniak",
+  "orcid": "0000-0001-9848-7192",
+  "orcid_url": "https://orcid.org/0000-0001-9848-7192",
+  "breadcrumb_name": "Jacek Czerniak",
+  "current_employment_summary": [
+    "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "inżynieria oprogramowania",
+    "metody optymalizacji",
+    "skierowane liczby rozmyte"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Kujawsko-Pomorska Szkoła Wyższa w Bydgoszczy Aktualna nazwa: Akademia Kujawsko-Pomorska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/172797e4-f3c0-41a6-a5f9-56e180ce7787",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "19 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/aee66fdd-cc30-4ef1-95ea-91a5a6d168d1",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Politechnika Szczecińska",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Politechnika Szczecińska",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Kultury Społecznej i Medialnej w Toruniu - Akademia Nauk Stosowanych >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aaa74363-79c4-4585-a3f5-1f369070fd0a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Szczecińska w Szczecinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Kujawsko-Pomorska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/172797e4-f3c0-41a6-a5f9-56e180ce7787"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel approach to the vectorial redefinition of Ordered Fuzzy Numbers for improved arithmetic and directional representation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/publications/34e22784-3b8a-44a5-85b1-885b68c61aed",
+      "authors": "H. Zarzycki, A. Żak, J. Czerniak",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15137427",
+      "doi_url": "https://www.doi.org/10.3390/app15137427",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A New Artificial Duroc Pigs Optimization Method Used for the Optimization of Functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/publications/f92bcd7c-6b92-4e1a-b1f1-1e3d57c1a9be",
+      "authors": "J. Czerniak , D. Ewald, M. Paprzycki, ... (+2)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13071372",
+      "doi_url": "https://www.doi.org/10.3390/electronics13071372",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "On IIoT and AI-based optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/publications/86887b50-4a67-4eae-9f46-6ff36ad5b4c7",
+      "authors": "D. Mikołajewski, J. Czerniak , M. Piechowiak, ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2024",
+      "doi": "10.24425/bpasts.2024.149174",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.149174",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowania skierowanych liczb rozmytych w wybranych algorytmach optymalizacji rojowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/research-work/67fc63a6-ce6f-403a-92cb-8fc1b82e6f57",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda dyskretyzacji danych przed ich przetwarzaniem z użyciem zbiorów przybliżonych oparta na algorytmach genetycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/research-work/82a793ac-ef54-496e-9315-453030f6f81c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Model systemu wspomagającego projektowanie efektywnych interfejsów użytkownika w symulatorach medycznych z wykorzystaniem stylu poznawczego człowieka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.czerniak.olKJKrqALB5/research-work/d715e7dc-25bc-439a-bb28-bdd79fd9d562",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

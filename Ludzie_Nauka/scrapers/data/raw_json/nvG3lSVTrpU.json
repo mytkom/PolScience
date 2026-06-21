@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU",
+  "slug": "sebastian.kozłowski",
+  "profile_id": "nvG3lSVTrpU",
+  "full_name": "dr inż. Sebastian Kozłowski",
+  "orcid": "0000-0002-0906-2625",
+  "orcid_url": "https://orcid.org/0000-0002-0906-2625",
+  "breadcrumb_name": "Sebastian Kozłowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy radiowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Reactor for Microwave-Assisted Chemistry [Application Notes]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/publications/56cbf33a-7f43-4718-9edd-a1e27bd9b247",
+      "authors": "P. Korpas, M. Borowska [...] S. Kozłowski , ... (+4)",
+      "publication_type": "Artykuł , IEEE Microwave Magazine",
+      "year": "2024",
+      "doi": "10.1109/mmm.2024.3408074",
+      "doi_url": "https://www.doi.org/10.1109/mmm.2024.3408074",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Model-Based PID Tuning Method for a Reactor for Microwave-Assisted Chemistry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/publications/3978a1bd-a298-4db8-8729-56845b34fafd",
+      "authors": "S. Kozłowski , P. Korpas, W. Wojtasiak, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17184657",
+      "doi_url": "https://www.doi.org/10.3390/en17184657",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Nucleation and growth of zinc-templated mesoporous selenium nanoparticles and potential non-thermal effects during their microwave-assisted synthesis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/publications/7ca83256-7d1a-4cf8-8bba-0c893f86ee1f",
+      "authors": "W. Wojtasiak, M. Borowska [...] S. Kozłowski , ... (+4)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-83124-w",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-83124-w",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza i badanie systemów MIMO wykorzystujących adaptacyjne szyki antenowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.koz%C5%82owski.nvG3lSVTrpU/research-work/701aa932-380c-4f80-aa68-7cd7c268084a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=235271"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9",
+  "slug": "michał.marzęcki",
+  "profile_id": "ng7BPloHkZ9",
+  "full_name": "dr inż. Michał Marek Marzęcki",
+  "orcid": "0000-0002-8526-7622",
+  "orcid_url": "https://orcid.org/0000-0002-8526-7622",
+  "breadcrumb_name": "Michał Marzęcki",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Behavioral Model of the Light Emitting Diode Nonlinearity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/publications/126bc344-ba51-4c11-90e2-b5f1c9c1fb0d",
+      "authors": "J. Bojarczuk, M. Marzęcki , G. Stępniak, ... (+3)",
+      "publication_type": "Artykuł , IEEE Transactions on Communications",
+      "year": "2025",
+      "doi": "10.1109/tcomm.2025.3569749",
+      "doi_url": "https://www.doi.org/10.1109/tcomm.2025.3569749",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Decellularized Liver Matrices for Expanding the Donor Pool—An Evaluation of Existing Protocols and Future Trends",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/publications/3c24cbed-7448-4a55-a9ef-e2280b86495a",
+      "authors": "M. Morawski, M. Krasnodębski [...] M. Marzęcki , ... (+9)",
+      "publication_type": "Artykuł , Biomolecules",
+      "year": "2025",
+      "doi": "10.3390/biom15010098",
+      "doi_url": "https://www.doi.org/10.3390/biom15010098",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Kompensacja nieliniowości dla komunikacji w świetle widzialnym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.marz%C4%99cki.ng7BPloHkZ9/publications/63917901-eef8-4974-9fec-39e7f24a4bdb",
+      "authors": "J. Bojarczuk, M. Marzęcki , G. Stępniak, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.52",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.52",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314067"
+    }
+  ],
+  "tag_cloud": [
+    "resonators",
+    "protocol analysis",
+    "industry 4.0",
+    "fabry-perot",
+    "esp",
+    "internet rzeczy",
+    "fiber optic sensor",
+    "fiber optics sensors",
+    "cybersecurity",
+    "internet of things"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko",
+  "slug": "agnieszka.malanowska",
+  "profile_id": "Znim9EJ18Ko",
+  "full_name": "mgr inż. Agnieszka Halina Malanowska",
+  "orcid": "0000-0001-8876-9647",
+  "orcid_url": "https://orcid.org/0000-0001-8876-9647",
+  "breadcrumb_name": "Agnieszka Malanowska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Afpatoo: Tool to Automate Function Point Analysis Based on UML Class and Sequence Diagrams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/publications/8306d521-7a00-471e-bb3e-f04a19c9ad98",
+      "authors": "A. Malanowska , J. Zabuski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.5220/0012704300003687",
+      "doi_url": "https://www.doi.org/10.5220/0012704300003687",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Digital Watermarking—A Meta-Survey and Techniques for Fake News Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/publications/39e79db2-696d-47e5-b98f-68c643e313f7",
+      "authors": "A. Malanowska , W. Mazurczyk, T. Araghi, ... (+2)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2024",
+      "doi": "10.1109/access.2024.3374201",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3374201",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Trustworthiness and explainability of a watermarking and machine learning-based system for image modification detection to combat disinformation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.malanowska.Znim9EJ18Ko/publications/908680ed-0002-4bba-9232-d73eabc44a74",
+      "authors": "A. Malanowska , W. Mazurczyk, M. Kowalczyk, ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1145/3664476.3670934",
+      "doi_url": "https://www.doi.org/10.1145/3664476.3670934",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "automatic test generation",
+    "sequence diagrams",
+    "testing effort estimation",
+    "testing effort",
+    "uml",
+    "function point analysis",
+    "fpa",
+    "class diagram",
+    "tpa",
+    "staruml"
+  ],
+  "coworkers": []
+}

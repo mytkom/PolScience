@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc",
+  "slug": "henryk.maciejewski",
+  "profile_id": "spfaMpi5AFc",
+  "full_name": "dr hab. inż. Henryk Józef Maciejewski",
+  "orcid": "0000-0002-8405-9987",
+  "orcid_url": "https://orcid.org/0000-0002-8405-9987",
+  "breadcrumb_name": "Henryk Maciejewski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "architektura komputerów",
+    "bioinformatyka",
+    "data mining",
+    "inżynieria niezawodności",
+    "przetwarzanie równoległe",
+    "systemy cyfrowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Machine learning-based surrogate models for noise level prediction on urban scale maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/publications/1350fadd-70c5-470f-b9a1-aa721debf675",
+      "authors": "M. Bazan, P. Lewicki [...] H. Maciejewski , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Beyond overall accuracy: exploring per-class performance reveals robustness and safety gaps in deep models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/publications/0348c23e-b81a-4e87-99c9-6ea3c8be8aa1",
+      "authors": "K. Szyc, T. Walkowiak, H. Maciejewski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/icdmw65004.2024.00115",
+      "doi_url": "https://www.doi.org/10.1109/icdmw65004.2024.00115",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Discriminating feature ratio: introducing metric for uncovering vulnerabilities in deep convolutional neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/publications/30cdbfc6-2025-4323-89fc-884bc581180c",
+      "authors": "T. Szandała, H. Maciejewski",
+      "publication_type": "Artykuł , Knowledge-Based Systems",
+      "year": "2024",
+      "doi": "10.1016/j.knosys.2024.112306",
+      "doi_url": "https://www.doi.org/10.1016/j.knosys.2024.112306",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie predykcyjne w przestrzeniach o wysokiej wymiarowości - metody oparte na apriorycznej wiedzy dziedzinowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/f1d9d853-5172-4b52-9560-8441000da6c0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Data Driven Reliability Prediction Based on Accelerated Life Test Results (Prognozowanie niezawodności na podstawie badań przyspieszonych z doborem modeli w oparciu o dane)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/db002efc-e6eb-49fe-8b26-254e1f741873",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Bezpieczeństwo i wiarygodność uczenia głębokiego w wizji komputerowej w zastosowaniu do klasyfikacji w zbiorze otwartym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/588fb65c-bb21-41d8-a6f7-0a45cc6079ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody służące intepretacji i walidowania reprezentacji generowanych przez głębokie sieci neuronowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/add675da-2f6e-456c-b75d-42466526de7e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Development of universal data representations with application in chemistry.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/0d4f5654-1601-4c53-a75a-38356c13e237",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Obliczeniowe metody analizy i identyfikacji niekodujących obszarów regulatorowych na skalę genomową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/1803232f-5566-4783-bfdf-3e1459dd4412",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Testing for object symmetries in digital images",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.maciejewski.spfaMpi5AFc/research-work/63c0578f-d752-4c54-89c7-ec503c8667c8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86545"
+    }
+  ],
+  "tag_cloud": [
+    "rozpoznawanie obrazów",
+    "glycodendrimers",
+    "klasyfikacja ze zbiorem otwartym",
+    "klasyfikacja tematyczna",
+    "text mining",
+    "fasttext",
+    "bag of words",
+    "local outlier factor",
+    "uczenie maszynowe",
+    "język polski"
+  ],
+  "coworkers": []
+}

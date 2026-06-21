@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc",
+  "slug": "aleksander.furmanek",
+  "profile_id": "JO036h5T2pc",
+  "full_name": "dr inż. arch. Aleksander Filip Furmanek",
+  "orcid": "0000-0002-3337-8435",
+  "orcid_url": "https://orcid.org/0000-0002-3337-8435",
+  "breadcrumb_name": "Aleksander Furmanek",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "etyka zawodowa",
+    "dziedzictwo kulturowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7d5113d8-a607-4d76-83a1-a6efbfd3f32f"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Politechnika Poznańska Wydział Architektury",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact of the Fire Protection Requirements on the Cultural Heritage of the Polish Old Towns-Selected Problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/publications/f616a76d-d6ed-48ab-bfe9-81922d300897",
+      "authors": null,
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17010176",
+      "doi_url": "https://www.doi.org/10.3390/su17010176",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Implementacja oprogramowania geoinformacyjnego QGIS do tworzenia analiz przestrzennych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/publications/cfd8e1cd-4f31-4792-a80f-5333c8a05f98",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.21008/j.2658-2619.2023.12.4",
+      "doi_url": "https://www.doi.org/10.21008/j.2658-2619.2023.12.4",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Selected problems of spatial order and cultural heritage in the aspect of the economic development under the influence of European integration and globalisation on the example of Toruń and its surroundings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/publications/2a082ccf-b763-43ec-8cc9-3833638fa2de",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2023",
+      "doi": "10.29119/1641-3466.2023.173.11",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2023.173.11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odpowiedzialność etyczna architekta w dziedzinie materialnego dziedzictwa kulturowego w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.furmanek.JO036h5T2pc/research-work/c2c0b22f-60d4-4ed2-b0b2-01211c2d8159",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=6flnU7cAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aleksander-furmanek-493780212/"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Aleksander-Furmanek"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/KBB-5044-2024"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

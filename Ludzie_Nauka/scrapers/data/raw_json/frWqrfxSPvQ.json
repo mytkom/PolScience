@@ -1,0 +1,193 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ",
+  "slug": "janusz.granat",
+  "profile_id": "frWqrfxSPvQ",
+  "full_name": "dr inż. Janusz Granat",
+  "orcid": "0000-0003-3130-5555",
+  "orcid_url": "https://orcid.org/0000-0003-3130-5555",
+  "breadcrumb_name": "Janusz Granat",
+  "current_employment_summary": [
+    "Instytut Łączności - Państwowy Instytut Badawczy",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "komputerowe systemy wspomagania decyzji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "28 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1986",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Narodowy do spraw Współpracy z Międzynarodowym Instytutem Stosowanej Analizy Systemowej (IIASA)",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/gremiums/1075eb6a-e4b3-41a3-bfd7-123bd6dd2e2e",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advancing Map-Matching and Route Prediction: Challenges, Methods, and Unified Solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/publications/0de99a40-06e8-40b1-9b11-899c9b32786d",
+      "authors": "T. Waksmundzki, E. Niewiadomska-Szynkiewicz, J. Granat",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14183608",
+      "doi_url": "https://www.doi.org/10.3390/electronics14183608",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Version [2.0] — [pyMCMA: Uniformly distributed Pareto-front representation]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/publications/fbab85a8-0ef0-408b-a291-e364310d184d",
+      "authors": "M. Makowski, J. Granat , A. Shekhovtsov, ... (+2)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2025.102097",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102097",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Efficiency and Fairness Optimization in Energy Management",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/publications/fc92894f-43ae-4916-a965-4fdf15e337ea",
+      "authors": "G. Zalewski, J. Granat , M. Makowski",
+      "publication_type": "Artykuł , Journal of Telecommunications and Information Technology",
+      "year": "2024",
+      "doi": "10.26636/jtit.2024.4.1819",
+      "doi_url": "https://www.doi.org/10.26636/jtit.2024.4.1819",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody interakcji z użytkownikiem w wielokryterialnych systemach wspomagania decyzji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.granat.frWqrfxSPvQ/research-work/8c89b1d7-1c1c-4619-af54-af0e2d8e88ef",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=80464"
+    }
+  ],
+  "tag_cloud": [
+    "power to liquid (ptl)",
+    "multiple-criteria model analysis",
+    "data communication network",
+    "telekomunikacja",
+    "telecommunication network",
+    "sieć telekomunikacyjna",
+    "telecommunications",
+    "sieć teleinformatyczna",
+    "system energetyczny",
+    "knowledge engineering"
+  ],
+  "coworkers": []
+}

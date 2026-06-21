@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO",
+  "slug": "pedrojose.gomezdelhoyo",
+  "profile_id": "f76zjyCZdVO",
+  "full_name": "dr Pedro Jose Gomez Del Hoyo",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Pedro Jose Gomez Del Hoyo",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Universidad de Alcalá • Hiszpania",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Proceedings of 2025 Signal Processing Symposium (SPSympo 2025)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/publications/3a0c2f68-fdea-4d7f-8e60-5a8cc5e74444",
+      "authors": "M. Bączyk, K. Kulpa [...] P. Gomez Del Hoyo , ... (+3)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "5G-based passive radar on a moving platform—Detection and imaging",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/publications/a0b3543d-f9a2-49c5-9fd9-4e46ec047f12",
+      "authors": "R. Maksymiuk, P. Gomez Del Hoyo , K. Abratkiewicz, ... (+2)",
+      "publication_type": "Artykuł , IET Radar, Sonar and Navigation",
+      "year": "2024",
+      "doi": "10.1049/rsn2.12559",
+      "doi_url": "https://www.doi.org/10.1049/rsn2.12559",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Starlink-based passive radar for Earth's surface imaging: first experimental results",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pedrojose.gomezdelhoyo.f76zjyCZdVO/publications/df150fa3-38cb-495a-9bd0-ad6600cbd7aa",
+      "authors": "P. Gomez Del Hoyo , P. Samczyński",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2024",
+      "doi": "10.1109/jstars.2024.3437179",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2024.3437179",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

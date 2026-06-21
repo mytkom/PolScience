@@ -1,0 +1,203 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb",
+  "slug": "adam.narbudowicz",
+  "profile_id": "mmxOtQbEStb",
+  "full_name": "dr hab. inż. Adam Zdzisław Narbudowicz",
+  "orcid": "0000-0001-9471-9937",
+  "orcid_url": "https://orcid.org/0000-0001-9471-9937",
+  "breadcrumb_name": "Adam Narbudowicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Institiúid Teicneolaíochta Átha Cliath (Dublin Institute of Technology) • Irlandia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A dual-band planar antenna for Angle of Arrival estimation in on-body IoT devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/publications/6545ced0-8fff-4f9d-9768-f6f7eecc74c2",
+      "authors": "A. Zandamela, N. Marchetti [...] A. Narbudowicz , ... (+2)",
+      "publication_type": "Artykuł , IEEE Internet of Things Journal",
+      "year": "2025",
+      "doi": "10.1109/jiot.2025.3554738",
+      "doi_url": "https://www.doi.org/10.1109/jiot.2025.3554738",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dual-Band Beam-Steering Antenna for Physical Layer Security in Small IoT Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/publications/2119b179-0116-46a1-b71c-91d5fdf727a4",
+      "authors": "A. Zandamela, N. Marchetti [...] A. Narbudowicz , ... (+1)",
+      "publication_type": "Artykuł , IEEE Open Journal of Antennas and Propagation",
+      "year": "2025",
+      "doi": "10.1109/ojap.2025.3601989",
+      "doi_url": "https://www.doi.org/10.1109/ojap.2025.3601989",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Dual-polarized chipless RFID tag with simultaneous identification and sensing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/publications/f4e79e3a-7695-47ad-bc2a-fef5eddbacf2",
+      "authors": "C. Bui, A. Narbudowicz",
+      "publication_type": "Artykuł , IEEE Transactions on Antennas and Propagation",
+      "year": "2025",
+      "doi": "10.1109/tap.2025.3566221",
+      "doi_url": "https://www.doi.org/10.1109/tap.2025.3566221",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie nowych struktur anten wielowrotnikowych z rekonfigurowalną charakterystyką promieniowania i badania ich wykorzystania w zaawansowanych systemach bezprzewodowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.narbudowicz.mmxOtQbEStb/research-work/94cbc268-bb2b-413d-9098-96913faee7a0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=302803"
+    }
+  ],
+  "tag_cloud": [
+    "ultrawideband",
+    "cubesat",
+    "uhf",
+    "antena uhf",
+    "elektrycznie mała antena",
+    "localization",
+    "uwb",
+    "antena rekonfigurowalna",
+    "circular polarization",
+    "telekomunikacja satelitarna"
+  ],
+  "coworkers": []
+}

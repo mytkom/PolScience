@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2",
+  "slug": "patryk.chaber",
+  "profile_id": "skzwzgsgFf2",
+  "full_name": "dr inż. Patryk Józef Chaber",
+  "orcid": "0000-0003-0257-8255",
+  "orcid_url": "https://orcid.org/0000-0003-0257-8255",
+  "breadcrumb_name": "Patryk Chaber",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cyber4OT dataset: Network traces for cyber-security vulnerability evaluation in industrial control systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/publications/7266c307-20a5-4fa1-8fc8-298293297793",
+      "authors": "K. Cabaj, S. Plamowski, P. Chaber , ... (+5)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2025.102196",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102196",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Industrial Robot Control System with a Predictive Maintenance Module Using IIoT Technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/publications/00e9e055-013f-4f4c-b430-b69d14e6342a",
+      "authors": "A. Wojtulewicz, P. Chaber",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25041154",
+      "doi_url": "https://www.doi.org/10.3390/s25041154",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Robustness Analysis of a Fast Virtual Temperature Sensor Using a Recurrent Neural Network Model Sensitivity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/publications/f8d032c9-f1a8-418b-b40c-49b2dca5759d",
+      "authors": "P. Chaber , B. Chaber",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25237193",
+      "doi_url": "https://www.doi.org/10.3390/s25237193",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Automatyczna generacja kodu algorytmów regulacji predykcyjnej na mikrokontrolery",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.chaber.skzwzgsgFf2/research-work/492ee245-ded3-478c-8f75-30e852964088",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=291539"
+    }
+  ],
+  "tag_cloud": [
+    "field programmable gate array",
+    "automatic code generation",
+    "pid",
+    "embedded systems microcontrollers model predictive control neural networks nonlinear control",
+    "model predictive control",
+    "robust estimator",
+    "control performance assessment",
+    "oil platform dynamic positioning reference system pid",
+    "neural networks · dynamic systemsmodel pruning · model structure optimisation",
+    "matrix of controllers"
+  ],
+  "coworkers": []
+}

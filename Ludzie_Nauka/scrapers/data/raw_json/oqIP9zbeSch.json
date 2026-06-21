@@ -1,0 +1,180 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch",
+  "slug": "tomasz.muszyński",
+  "profile_id": "oqIP9zbeSch",
+  "full_name": "dr hab. Tomasz Muszyński",
+  "orcid": "0000-0001-8896-7838",
+  "orcid_url": "https://orcid.org/0000-0001-8896-7838",
+  "breadcrumb_name": "Tomasz Muszyński",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy i urządzenia energetyki cieplnej_x0009_"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/05fbdcdf-9392-4cfe-9cd0-40d0ef28ff3f"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation of melting process in a PCM-based modular shell-and-coil latent thermal energy storage unit filled with coconut oil using image-processing-based techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/publications/0cdcf064-a4cc-4607-abb2-8fbaa035fe66",
+      "authors": "R. Andrzejczyk, M. Rogowski [...] T. Muszyński , ... (+2)",
+      "publication_type": "Artykuł , International Communications in Heat and Mass Transfer",
+      "year": "2025",
+      "doi": "10.1016/j.icheatmasstransfer.2025.109581",
+      "doi_url": "https://www.doi.org/10.1016/j.icheatmasstransfer.2025.109581",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The laser processing of the stainless-steel surface layer of a heat exchanger membrane in order to enhance its heat transfer coefficient",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/publications/a32a3365-b9fa-49b5-938b-74cc73763c2a",
+      "authors": "E. Kozłowska, M. Szkodo, T. Muszyński , ... (+1)",
+      "publication_type": "Artykuł , Coatings",
+      "year": "2025",
+      "doi": "10.3390/coatings15010072",
+      "doi_url": "https://www.doi.org/10.3390/coatings15010072",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental and numerical investigation on shell and coil storage unit with biodegradable PCM for modular thermal battery applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/publications/54f5ddbe-acac-4253-8bf7-45927fd5591b",
+      "authors": "R. Andrzejczyk, T. Muszyński , T. Muszynski, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Thermal Sciences",
+      "year": "2023",
+      "doi": "10.1016/j.ijthermalsci.2022.108076",
+      "doi_url": "https://www.doi.org/10.1016/j.ijthermalsci.2022.108076",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie konstrukcyjnych i eksploatacyjnych metod zwiększania obciążalności cieplnej z przeznaczeniem dla aparatury procesowej i energetycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/research-work/1e0e6a72-35c4-49b9-bbac-a8a6f0deaeae",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Chłodzenie powierzchni za pomocą modułów mikrostrugowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.muszy%C5%84ski.oqIP9zbeSch/research-work/307c7734-bb26-41b3-a9d7-fa7c85a68d75",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=254183"
+    }
+  ],
+  "tag_cloud": [
+    "microjets",
+    "r134a",
+    "pressure drop",
+    "energy efficiency",
+    "heat exchanger",
+    "heat transfer enhancement",
+    "heat transfer coefficient",
+    "enhancement",
+    "u-bend",
+    "acceleration pressure drop"
+  ],
+  "coworkers": []
+}

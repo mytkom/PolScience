@@ -1,0 +1,113 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu",
+  "slug": "oliwia.tadko",
+  "profile_id": "ns6VYulOTFu",
+  "full_name": "mgr inż. Oliwia Tadko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Oliwia Tadko",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Heart-on-a-chip: a novel microfluidic approach to organ modelling and cellular mechanobiology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/publications/605b8f28-6ca3-4707-99a9-163a6b1874b5",
+      "authors": "D. Kolodziejek, O. Tadko , Z. Iwoń-Szczawińska, ... (+4)",
+      "publication_type": "Artykuł , Sensors and Actuators, A: Physical",
+      "year": "2025",
+      "doi": "10.1016/j.sna.2025.116957",
+      "doi_url": "https://www.doi.org/10.1016/j.sna.2025.116957",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Magnetic polyurethane nanomaterials: A novel approach for in vitro cardiac cell maturation and culture",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/oliwia.tadko.ns6VYulOTFu/publications/f5b9f268-ed3e-4dbf-a4bd-2e9e389e2f78",
+      "authors": "D. Kolodziejek, I. Łopianiak [...] O. Tadko , ... (+3)",
+      "publication_type": "Artykuł , Polymer Testing",
+      "year": "2023",
+      "doi": "10.1016/j.polymertesting.2023.108190",
+      "doi_url": "https://www.doi.org/10.1016/j.polymertesting.2023.108190",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,218 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn",
+  "slug": "michał.bereta",
+  "profile_id": "TNvMg0iIcPn",
+  "full_name": "dr hab. inż. Michał Piotr Bereta",
+  "orcid": "0000-0002-7153-980X",
+  "orcid_url": "https://orcid.org/0000-0002-7153-980X",
+  "breadcrumb_name": "Michał Bereta",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "!-- BRAK NA LIŚCIE ---",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evolutionary approach to the Euclidean Steiner tree problem in n-space",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/publications/55d2585e-3b5c-41f4-bb1b-ffbaf9032358",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15031413",
+      "doi_url": "https://www.doi.org/10.3390/app15031413",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Negative selection algorithm for unsupervised anomaly detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/publications/e8f19ad1-0af9-4c45-8eed-52c6204c89bb",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app142311040",
+      "doi_url": "https://www.doi.org/10.3390/app142311040",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Kohonen Network-Based Adaptation of Non Sequential Data for Use in Convolutional Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/publications/e5f78182-0d40-4605-a25e-c1fef0a096c9",
+      "authors": null,
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21217221",
+      "doi_url": "https://www.doi.org/10.3390/s21217221",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozwój metod inteligencji obliczeniowej w wybranych zadaniach klasyfikacji i optymalizacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work/6c7ac7c6-06f1-4799-af67-fae671f6aef8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Application of Artificial Immune Systems to Classification and Data Analysis (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work/456f0678-256d-4bd5-a7cb-be0b169ff3dd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Skierowane liczby rozmyte w modelowaniu i symulacji finansowych szeregów czasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work/2280b9f1-9422-4f1d-bd15-32ee02343b95",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work/fa9a23b6-ed8f-48c1-b62b-46da5894648a",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Measurement and Analysis of Cognitive Workload on the Basis of Eye-tracking Activity Using Machine Learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.bereta.TNvMg0iIcPn/research-work/ffbabfcf-251d-4702-9fb0-e3a339bc8a2e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=218854"
+    }
+  ],
+  "tag_cloud": [
+    "bezpieczeństwo cyberprzestrzeni",
+    "sztuczna inteligencja i uczenie maszynowe",
+    "inteligencja obliczeniowa",
+    "automatic programming",
+    "computational intelligence",
+    "deep learning",
+    "artificial neural network",
+    "sieć neuronowa sztuczna",
+    "bezpieczeństwo danych",
+    "programowanie automatyczne"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,201 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci",
+  "slug": "wiktor.daszczuk",
+  "profile_id": "SiB4MuBd9Ci",
+  "full_name": "dr hab. Wiktor Bohdan Daszczuk",
+  "orcid": "0000-0001-7532-362X",
+  "orcid_url": "https://orcid.org/0000-0001-7532-362X",
+  "breadcrumb_name": "Wiktor Daszczuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "oprogramowanie podstawowe",
+    "systemy operacyjne",
+    "systemy rozproszone",
+    "weryfikacja systemów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Anonymization in web auctions using Zero-Knowledge Proof in Blockchain technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/publications/c27115c3-2586-4d01-bfed-540cebeae31d",
+      "authors": "M. Broniszewska, W. Daszczuk , D. Czejdo",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153593",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153593",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Adding parallelism to sequential programs – a combined method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/publications/e05e359e-146c-4831-a0db-0ab20281f1b2",
+      "authors": "W. Daszczuk , B. Czejdo, D. Czejdo, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.149523",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.149523",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "An Objectified Entropy-Based Software Metric for Assessing the Maturity of Use Case Diagrams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/publications/246c0b76-fe70-4de9-9b51-1734c1164197",
+      "authors": "S. Niepostyn, W. Daszczuk",
+      "publication_type": "Artykuł , International Conference on Information Systems Development",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie, specyfikacja, weryfikacja i symulacja systemów rozproszonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/research-work/4b3f3ab4-2795-4eb2-99fb-85d7e80474b3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Weryfikacja własności temporalnych w systemach współbieżnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.daszczuk.SiB4MuBd9Ci/research-work/8442501a-357c-44e2-9b75-a9d7d1086da0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117482"
+    }
+  ],
+  "tag_cloud": [
+    "zasilanie urządzeń iot",
+    "projektowanie urządzeń cyfrowych",
+    "czujniki wielkości fizycznych",
+    "internet rzeczy",
+    "distributed systems",
+    "entropy",
+    "pamioęci",
+    "observer agents",
+    "atn stations",
+    "distributed system modeling"
+  ],
+  "coworkers": []
+}

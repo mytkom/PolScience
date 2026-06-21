@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD",
+  "slug": "tadeusz.tomczak",
+  "profile_id": "kQx0qykRYnD",
+  "full_name": "dr hab. inż. Tadeusz Tomczak",
+  "orcid": "0000-0002-7206-4199",
+  "orcid_url": "https://orcid.org/0000-0002-7206-4199",
+  "breadcrumb_name": "Tadeusz Tomczak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy cyfrowe",
+    "systemy liczbowe",
+    "algorytmy multimedialne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Double-Precision Hardware Accelerator for Incompressible Navier-Stokes Equations Solver Based on Discontinuous Galerkin Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/publications/0b85a4b5-7be8-4219-af5a-09ed51ab149e",
+      "authors": "T. Tomczak , M. Księżyk, J. Hanke, ... (+2)",
+      "publication_type": "Artykuł , Advances in Engineering Software",
+      "year": "2023",
+      "doi": "10.1016/j.advengsoft.2022.103393",
+      "doi_url": "https://www.doi.org/10.1016/j.advengsoft.2022.103393",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Parallel accelerator for discontinuous Galerkin method for Navier-Stokes equations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/publications/ffa32c97-6937-45ee-8ec4-428f0325bf3b",
+      "authors": "T. Tomczak , K. Mariusz, M. Maciej, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.1007/978-3-030-92604-5_41",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-92604-5_41",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Data-oriented language implementation of the lattice–Boltzmann method for dense and sparse geometries",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/publications/927dc7af-4416-4834-a796-32a7793984dc",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2021",
+      "doi": "10.3390/app11209495",
+      "doi_url": "https://www.doi.org/10.3390/app11209495",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie metodyki zwiększania szybkości przetwarzania z wykorzystaniem równoległości drobnoziarnistej w obliczeniach o wysokiej wydajności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/research-work/8f962a1d-59ae-4556-af60-f7ccb8f46ba5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Akceleracja sprzętowa działań arytmetycznych w algorytmach oświetlenia globalnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tadeusz.tomczak.kQx0qykRYnD/research-work/aeee2923-a672-4dc9-ad5d-1740d55c5505",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208537"
+    }
+  ],
+  "tag_cloud": [
+    "model discontinuous galerkin",
+    "porowatość",
+    "hierarchiczne siatki",
+    "lbm",
+    "cuda",
+    "gpu",
+    "cfd",
+    "tabela indeksów węzłów płynu",
+    "dekompozycja dziedziny",
+    "obliczenia równoległe"
+  ],
+  "coworkers": []
+}

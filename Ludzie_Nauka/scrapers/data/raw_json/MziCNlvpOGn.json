@@ -1,0 +1,218 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn",
+  "slug": "andrzej.karbowski",
+  "profile_id": "MziCNlvpOGn",
+  "full_name": "dr hab. inż. Andrzej Karbowski",
+  "orcid": "0000-0002-8162-1575",
+  "orcid_url": "https://orcid.org/0000-0002-8162-1575",
+  "breadcrumb_name": "Andrzej Karbowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sterowanie złożonych systemów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "23 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Naukowa i Akademicka Sieć Komputerowa Aktualna nazwa: Naukowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e9fbe95c-25f7-4c52-b4c7-1d0f0fb0ef52",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Amdahl’s and Gustafson-Barsis’s Laws Revisited",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/publications/9f375c02-85ee-49e5-81ce-0b3891ea12dd",
+      "authors": null,
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_258/35",
+      "doi_url": "https://www.doi.org/10.14313/par_258/35",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Generalized Benders Decomposition to solve a nonlinear routing problem with queueing delay goal function",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/publications/a4813aa8-913a-4980-9da6-505890be5a15",
+      "authors": "A. Karbowski , K. Kozerski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155486",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155486",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Parallel and distributed Machine Learning on Augmented Lagrangian Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/publications/ead7a89a-cb65-486a-b29f-00a91fe11c39",
+      "authors": "A. Nwachukwu, A. Karbowski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155472",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155472",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody i algorytmy obliczeniowe do rozwiązywania złożonych zadań syntezy mechanizmów sterowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/research-work/7eb346ee-2414-48f9-906f-ce0e7b462003",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza struktur i mechanizmów sterowania falą powodziową w systemach wielozbiornikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/research-work/4ce4c762-478d-4846-a7b6-60ae98814c61",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metody rozwiązania zadań optymalizacji dynamicznej opisanej równaniami różniczkowo-algebraicznymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.karbowski.MziCNlvpOGn/research-work/3451645f-55a1-4af3-b6e0-8d922c758c22",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59745"
+    }
+  ],
+  "tag_cloud": [
+    "lqr",
+    "hypercholesterolemia;",
+    "branch and cut;",
+    "nonlinear programming",
+    "optimal control",
+    "numerical methods",
+    "hierarchical optimization;",
+    "kalman filter",
+    "risk assessment;",
+    "state constraints"
+  ],
+  "coworkers": []
+}

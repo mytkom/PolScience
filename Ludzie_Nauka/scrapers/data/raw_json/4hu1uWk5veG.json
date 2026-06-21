@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG",
+  "slug": "waldemar.bober",
+  "profile_id": "4hu1uWk5veG",
+  "full_name": "dr hab. inż. Waldemar Bober",
+  "orcid": "0000-0003-0207-206X",
+  "orcid_url": "https://orcid.org/0000-0003-0207-206X",
+  "breadcrumb_name": "Waldemar Bober",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje budowlane"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bde6059e-395b-46e7-88ed-a9d14626c93e"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/gremiums/5dd1851f-8855-444d-bccd-c12059e9fd79",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modeling responsive structures under external forces using an evolutionary algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/publications/3305cc6e-eeb8-4250-88a4-b4cc3fd6944a",
+      "authors": "S. Jankowski, W. Bober",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153432",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153432",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The impact of destructive climatic factors on the mechanical and performance properties of structural materials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/publications/4c1a29b1-e350-49d0-b479-490916d8fbc1",
+      "authors": "P. Widomski, P. Maksymowicz [...] W. Bober , ... (+6)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18132970",
+      "doi_url": "https://www.doi.org/10.3390/ma18132970",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Inside out outside in : budowanie mostów pomiędzy sztuką a humanistyką, wiedzą a technologią",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/publications/f49c6d14-ad63-4ef4-8f13-76f4791bb976",
+      "authors": null,
+      "publication_type": "Książka pod redakcją",
+      "year": "2020",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Architektoniczna wydajność nieregularnych siatek konstrukcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/39a0ea57-f43d-4df8-80fc-3cabbf5050d9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wielowarstwowe struktury przestrzenne jako konstrukcje płaskich przekryć dachowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/26a2575d-b505-46d9-acce-24dfbfee601a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ład przestrzenny w ujęciu Bolesława Szmidta i Buckminstera Fullera",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/23f49849-8ee3-46b7-9a25-c7b50a38775c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Formy strukturalne z komponentów zwrotnie zależnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/95db0638-9af7-410d-b0d8-4c6788b493ca",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zadaszenia membranowe w Polsce - swoboda kształtowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/320afa96-8df2-41cb-bd85-3846cab90f19",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Energia środowiska zabudowanego. Od projektowania parametrów środowiskowych architektury po metabolizm miast",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.bober.4hu1uWk5veG/research-work/0455ca3a-216d-4f93-aefc-0679081b4bc1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=115181"
+    }
+  ],
+  "tag_cloud": [
+    "forma dachu",
+    "obiekt publiczny",
+    "elementy prefabrykowane",
+    "spatial structure",
+    "roof cover",
+    "przekrycie dachowe",
+    "elementy pc",
+    "struktura przestrzenna",
+    "sztywność przestrzenna",
+    "struktura prętowa"
+  ],
+  "coworkers": []
+}

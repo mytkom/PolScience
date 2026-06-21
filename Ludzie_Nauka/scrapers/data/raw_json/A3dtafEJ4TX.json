@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX",
+  "slug": "jakub.lemiesz",
+  "profile_id": "A3dtafEJ4TX",
+  "full_name": "dr inż. Jakub Lemiesz",
+  "orcid": "0000-0001-5208-4531",
+  "orcid_url": "https://orcid.org/0000-0001-5208-4531",
+  "breadcrumb_name": "Jakub Lemiesz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/643db33c-a9a9-4841-a3f3-b128b1e11083"
+        },
+        {
+          "label": "Uniwersytet Wrocławski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient framework for operating on data sketches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/publications/e30c4a62-36b8-4a16-a84c-169a53df772a",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.14778/3594512.3594526",
+      "doi_url": "https://www.doi.org/10.14778/3594512.3594526",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "SUPPNet: Neural network for stellar spectrum normalisation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/publications/22ab1283-505c-4fd7-b69e-bd258cadb728",
+      "authors": "T. Różański, E. Niemczura, J. Lemiesz , ... (+2)",
+      "publication_type": "Artykuł , Astronomy & Astrophysics",
+      "year": "2022",
+      "doi": "10.1051/0004-6361/202141480;10.48550/arxiv.2111.15052",
+      "doi_url": "https://www.doi.org/10.1051/0004-6361/202141480;10.48550/arxiv.2111.15052",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "SUPPNet: neural network for stellar spectrum normalisation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/publications/7a9a582b-60a0-46bf-a393-e5298a45e1c7",
+      "authors": "T. Różański, J. Lemiesz , E. Niemczura, ... (+3)",
+      "publication_type": "Artykuł , Astronomy and Astrophysics",
+      "year": "2022",
+      "doi": "10.1051/0004-6361/202141480",
+      "doi_url": "https://www.doi.org/10.1051/0004-6361/202141480",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Podstawowe algorytmy dla sieci ad hoc",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.lemiesz.A3dtafEJ4TX/research-work/17585dc4-192b-4bd9-8776-0a35a49a3e77",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=225439"
+    }
+  ],
+  "tag_cloud": [
+    "entropia strukturalna",
+    "prywatność",
+    "teoria informacji",
+    "podpis domenowy",
+    "strumień danych",
+    "stars: general",
+    "anonimowość",
+    "systemy reputacji",
+    "methods: numerical",
+    "certyfikat"
+  ],
+  "coworkers": []
+}

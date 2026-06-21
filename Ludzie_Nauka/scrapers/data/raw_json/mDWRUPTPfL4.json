@@ -1,0 +1,187 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4",
+  "slug": "wojciech.stopyra",
+  "profile_id": "mDWRUPTPfL4",
+  "full_name": "dr inż. Wojciech Michał Stopyra",
+  "orcid": "0000-0003-1511-2606",
+  "orcid_url": "https://orcid.org/0000-0003-1511-2606",
+  "breadcrumb_name": "Wojciech Stopyra",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologie przyrostowe",
+    "symulacje termodynamiczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Nanoalloyed Al5254 alloy manufactured by powder bed fusion–laser beam: microstructure and mechanical properties analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/publications/ecc544b3-1a14-47c4-be64-022add54db19",
+      "authors": "W. Stopyra , I. Smolina, E. Grochowska, ... (+4)",
+      "publication_type": "Artykuł , Progress in Additive Manufacturing",
+      "year": "2025",
+      "doi": "10.1007/s40964-024-00940-2",
+      "doi_url": "https://www.doi.org/10.1007/s40964-024-00940-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Static and fatigue properties of rhenium-alloyed Inconel 718 produced by powder bed fusion additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/publications/42f5705d-b190-4799-bf94-be298617f084",
+      "authors": "M. Frankiewicz, M. Karoluk [...] W. Stopyra , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18030692",
+      "doi_url": "https://www.doi.org/10.3390/ma18030692",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Achieving high strength and ductility in Inconel 718: tailoring grain structure through micron-sized carbide additives in PBF-LB/M additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/publications/be957ae3-7f01-4610-a933-c0dbaf743d9a",
+      "authors": "K. Gruber, W. Stopyra , K. Kobiela, ... (+4)",
+      "publication_type": "Artykuł , Virtual and Physical Prototyping",
+      "year": "2024",
+      "doi": "10.1080/17452759.2024.2396064",
+      "doi_url": "https://www.doi.org/10.1080/17452759.2024.2396064",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie, symulacja i weryfikacja procesu przyrostowego wytwarzania stopów aluminium serii 7xxx, pod kątem minimalizacji wad materiałowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.stopyra.mDWRUPTPfL4/research-work/48728a3b-ad88-43c7-b89a-0f95c51b73d3",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=321963"
+    }
+  ],
+  "tag_cloud": [
+    "powder bed fusion - laser beam",
+    "pękanie na gorąco",
+    "defekty",
+    "mikrostruktura",
+    "slm",
+    "technologie przyrostowe",
+    "selektywna laserowa metalurgia",
+    "porowatość",
+    "zużycie paliwa",
+    "aplikacje lotnicze"
+  ],
+  "coworkers": []
+}

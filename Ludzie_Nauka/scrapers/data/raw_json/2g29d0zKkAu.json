@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu",
+  "slug": "michał.denkiewicz",
+  "profile_id": "2g29d0zKkAu",
+  "full_name": "mgr inż. Michał Denkiewicz",
+  "orcid": "0000-0001-8890-9988",
+  "orcid_url": "https://orcid.org/0000-0001-8890-9988",
+  "breadcrumb_name": "Michał Denkiewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka i systemy informacyjne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Highly Variable Expressivity of a CNV Deletion Involving TBX4 in Three Deceased Siblings With Lung Developmental Disorder and Their Mildly Affected Mother and Grandfather",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/publications/88c693ef-9fe1-48cd-9026-7a95a8f830cd",
+      "authors": "P. Szafrański, T. Gambin [...] M. Denkiewicz , ... (+7)",
+      "publication_type": "Artykuł , Clinical Genetics",
+      "year": "2025",
+      "doi": "10.1111/cge.70010",
+      "doi_url": "https://www.doi.org/10.1111/cge.70010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Improved cohesin HiChIP protocol and bioinformatic analysis for robust detection of chromatin loops and stripes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/publications/b7d7d5c5-507e-4bbe-9bbe-7044abaef846",
+      "authors": "K. Jodkowska, Z. Tojek [...] M. Denkiewicz , ... (+5)",
+      "publication_type": "Artykuł , Communications Biology",
+      "year": "2025",
+      "doi": "10.1038/s42003-025-07847-w",
+      "doi_url": "https://www.doi.org/10.1038/s42003-025-07847-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Improved cohesin HiChIP protocol and bioinformatic analysis for robust detection of chromatin loops and stripes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.denkiewicz.2g29d0zKkAu/publications/af15a3f5-700e-4770-9312-d3b03ee7d174",
+      "authors": "K. Jodkowska, Z. Parteka-Tojek [...] M. Denkiewicz , ... (+5)",
+      "publication_type": "Artykuł , Communications Biology",
+      "year": "2024",
+      "doi": "10.1101/2024.05.16.594268;10.1038/s42003-025-07847-w;10.5281/zenodo.11213538;10.5281/zenodo.11213539",
+      "doi_url": "https://www.doi.org/10.1101/2024.05.16.594268;10.1038/s42003-025-07847-w;10.5281/zenodo.11213538;10.5281/zenodo.11213539",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "network analysis",
+    "domeny kontaktowe chromatyny",
+    "chromatin contact domains",
+    "meta-sieć",
+    "interakcje białko-białko",
+    "analiza sieci",
+    "centrality",
+    "interakcje chromatyny",
+    "chromatin interaction",
+    "protein-protein interaction"
+  ],
+  "coworkers": []
+}

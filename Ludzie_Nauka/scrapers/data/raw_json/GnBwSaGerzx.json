@@ -1,0 +1,208 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx",
+  "slug": "ireneusz.marzec",
+  "profile_id": "GnBwSaGerzx",
+  "full_name": "dr hab. inż. Ireneusz Marzec",
+  "orcid": "0000-0003-1482-023X",
+  "orcid_url": "https://orcid.org/0000-0003-1482-023X",
+  "breadcrumb_name": "Ireneusz Marzec",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje betonowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Inżynierii Lądowej i Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4500f023-583d-4425-95d0-7a5c38933cbc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "FEM simulations applied to the failure analysis of RC structure under the influence of municipal sewage pressure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/publications/31e9bbab-a43f-4467-9354-f1e9818a4f30",
+      "authors": "Ł. Skarżyński, I. Marzec",
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2024",
+      "doi": "10.1016/j.engfailanal.2024.108688",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2024.108688",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Three dimensional simulations of FRC beams and panels with explicit definition of fibres-concrete interaction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/publications/9499e935-55f0-4956-af50-b0a796ddbaf5",
+      "authors": "I. Marzec , J. Bobiński, J. Suchorzewski",
+      "publication_type": "Artykuł , Engineering Structures",
+      "year": "2024",
+      "doi": "10.1016/j.engstruct.2024.118856",
+      "doi_url": "https://www.doi.org/10.1016/j.engstruct.2024.118856",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Non-uniqueness of fracture parameter choice in simulations of concrete cracking at mesoscale level",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/publications/ca396b80-ccd9-44ef-b339-7be6241b711d",
+      "authors": "B. Kondys, K. B. [...] I. Marzec , ... (+4)",
+      "publication_type": "Artykuł , Archives of Mechanics",
+      "year": "2023",
+      "doi": "10.24423/aom.4212",
+      "doi_url": "https://www.doi.org/10.24423/aom.4212",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Numeryczne modelowanie elementów żelbetowych i betonowych z zastosowaniem praw materiałowych dla betonu z nielokalnym osłabieniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/research-work/75b6ed09-3cb1-44ef-934e-d78fd868bc08",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie modelu sprężysto-plastycznego betonu z degradacją sztywności i nielokalnym osłabieniem do modelowania elementów betonowych cyklicznie obciążonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/research-work/9ed35415-79dd-49f9-b284-007501f34cca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ prędkości procesu na niestateczne zachowanie materiału w termo-plastyczności przy dużych odkształceniach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.marzec.GnBwSaGerzx/research-work/1c674c63-abb0-43e1-adaf-baab290ff3c0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=217259"
+    }
+  ],
+  "tag_cloud": [
+    "fracture energy",
+    "size effect",
+    "zbiornik żelbetowy, naroże, moment otwierający, lokalizacja odkształceń, mes, model z degradacją sztywności",
+    "reinforced concrete (rc) beams",
+    "concrete",
+    "xfem",
+    "damage mechanics",
+    "non-local theory",
+    "plastyczność",
+    "fem"
+  ],
+  "coworkers": []
+}

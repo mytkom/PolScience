@@ -1,0 +1,183 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX",
+  "slug": "karol.wawrzak",
+  "profile_id": "EAAymPJCmKX",
+  "full_name": "dr inż. Karol Wawrzak",
+  "orcid": "0000-0003-3513-663X",
+  "orcid_url": "https://orcid.org/0000-0003-3513-663X",
+  "breadcrumb_name": "Karol Wawrzak",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "numeryczna mechanika płynów (CFD)"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Approximate Deconvolution and Velocity Estimation Modeling of Decaying Burgers Turbulence",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/publications/7d420b66-1c28-40db-9046-fb6b4c97c236",
+      "authors": "A. Boguslawski, K. Wawrzak , B. Geurts, ... (+1)",
+      "publication_type": "Artykuł , Computers and Mathematics with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.camwa.2025.06.023",
+      "doi_url": "https://www.doi.org/10.1016/j.camwa.2025.06.023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A High-Order LES of a Flow in Complex Geometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/publications/fadb0231-501b-4a70-bdf1-40e674e7dd8f",
+      "authors": "K. Wawrzak , A. Wawrzak, A. Bogusławski, ... (+2)",
+      "publication_type": "Artykuł , Journal of Physics: Conference Series",
+      "year": "2024",
+      "doi": "10.1088/1742-6596/2899/1/012008",
+      "doi_url": "https://www.doi.org/10.1088/1742-6596/2899/1/012008",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hydrogen Jet Flame Control by Global Mode",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/publications/0a382abb-59e9-4e60-b625-b5a35fb3e5d6",
+      "authors": "A. Wawrzak, K. Wawrzak , A. Bogusławski, ... (+4)",
+      "publication_type": "Artykuł , Flow Turbulence and Combustion",
+      "year": "2024",
+      "doi": "10.1007/s10494-023-00466-7",
+      "doi_url": "https://www.doi.org/10.1007/s10494-023-00466-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Numeryczna analiza samowzbudnych struktur koherentnych w strudze kołowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.wawrzak.EAAymPJCmKX/research-work/6fae1312-25a0-428b-afd1-2484fb542892",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=280651"
+    }
+  ],
+  "tag_cloud": [
+    "turbulent lifted flame",
+    "coherent structures",
+    "les simulations",
+    "flame control",
+    "global instability",
+    "large eddy simulation",
+    "free round jet",
+    "lifted flame",
+    "jet bifurcation",
+    "les/dns"
+  ],
+  "coworkers": []
+}

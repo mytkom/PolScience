@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH",
+  "slug": "agnieszka.ozimek",
+  "profile_id": "b1ldrWRVgPH",
+  "full_name": "dr hab. inż. Agnieszka Małgorzata Ozimek",
+  "orcid": "0000-0003-0115-3263",
+  "orcid_url": "https://orcid.org/0000-0003-0115-3263",
+  "breadcrumb_name": "Agnieszka Ozimek",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "projektowanie architektoniczne i urbanistyczne",
+    "teoria architektury i urbanistyki",
+    "architektura krajobrazu"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/gremiums/d80473bf-1e33-4c71-8be8-c03983e127be",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Selecting images from UAV sequences for photogrammetric reconstruction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/publications/aeebb561-05fe-489f-b027-f485eae946b7",
+      "authors": "K. Skabek, P. Łabędź [...] A. Ozimek , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.7148/2025-0653",
+      "doi_url": "https://www.doi.org/10.7148/2025-0653",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Generating viewsheds based on the Digital Surface Model (DSM) and point cloud",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/publications/30808948-13d9-4e10-9924-17bbfbe9fc2d",
+      "authors": "J. Orlof, P. Ozimek [...] A. Ozimek , ... (+2)",
+      "publication_type": "Artykuł , PLoS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0312146",
+      "doi_url": "https://www.doi.org/10.1371/journal.pone.0312146",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Framework for the design of a small transport hub as an interdisciplinary challenge to implement sustainable solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/publications/ba9b5371-b4b0-4dfa-ab5f-df43aba0a547",
+      "authors": "A. Staniewska, I. Sykta, A. Ozimek , ... (+4)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2023",
+      "doi": "10.3390/su151410975",
+      "doi_url": "https://www.doi.org/10.3390/su151410975",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Miara krajobrazu. Obiektywizacja oceny widoków i panoram wspomagana narzędziami komputerowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/research-work/8582adf4-b353-4500-8f0c-1b30c2e6bfc1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Idea organiczności w architekturze - analiza, systematyka oraz perspektywy rozwoju",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.ozimek.b1ldrWRVgPH/research-work/a365c382-d343-4688-bbae-05320d936235",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111913"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

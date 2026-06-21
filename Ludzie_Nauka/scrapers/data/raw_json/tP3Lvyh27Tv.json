@@ -1,0 +1,284 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv",
+  "slug": "janina.kotus",
+  "profile_id": "tP3Lvyh27Tv",
+  "full_name": "prof. dr hab. Janina Maria Kotus",
+  "orcid": "0000-0002-2787-394X",
+  "orcid_url": "https://orcid.org/0000-0002-2787-394X",
+  "breadcrumb_name": "Janina Kotus",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "dynamika holomorficzna",
+    "układy dynamiczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "43 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk matematycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Matematyki i Nauk Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0454b20a-3765-4c35-bd6c-cfc3fdf2d2f5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1979",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Matematyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/gremiums/2c72eced-dade-413f-af69-acf6afc1e42e",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Matematyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/gremiums/fe13bbd6-a907-4407-8e1c-0768ece0dbdb",
+      "period": "-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Non-invariant infinitely connected cycle of Baker domains",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/publications/b2dfbec0-053e-44e7-9a12-8449de2404dd",
+      "authors": "J. Kotus , M. Montes de Oca Balderas",
+      "publication_type": "Artykuł , Analysis and Mathematical Physics",
+      "year": "2025",
+      "doi": "10.1007/s13324-025-01021-5",
+      "doi_url": "https://www.doi.org/10.1007/s13324-025-01021-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Lyapunov exponents for non-ergodic meromorphic functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/publications/e897054d-730d-4317-8de8-c0eef1a6d42c",
+      "authors": "J. Kotus , K. Janina, M. Marco, ... (+1)",
+      "publication_type": "Artykuł , Proceedings of the American Mathematical Society",
+      "year": "2023",
+      "doi": "10.1090/proc/16256",
+      "doi_url": "https://www.doi.org/10.1090/proc/16256",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Meromorphic Dynamics. Abstract Ergodic Theory, Geometry, Graph Directed Markov Systems, and Conformal Measures, Volume 1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/publications/b4e510a8-aa91-4dda-aa92-6c753284ca4a",
+      "authors": "J. Kotus , M. Urbański",
+      "publication_type": "Książka , Cambridge University Press",
+      "year": "2023",
+      "doi": "10.1017/9781009215930",
+      "doi_url": "https://www.doi.org/10.1017/9781009215930",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamika funkcji meromorficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/9fcf9922-2b39-4bd8-a600-c080ee4d7f86",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zbiór Mandelbrota dla funkcji meromorficznych przestępnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/a54396aa-6d4b-413e-bf99-f1074e376e95",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Formalizm termodynamiczny i własności metryczne funkcji meromorficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/b647e2a2-d348-4d0b-97c1-65a103a8ff94",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Własności metryczne zbiorów Julii funkcji meromorficznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/60f69379-31dc-4ebf-a5af-9f8339f3a058",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/637c34b4-a618-44d8-887a-ba8adb144785",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Julia sets in random holomorphic dynamics (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/0f22e587-d3d5-4000-9af2-c81828fa04df",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Julia sets in random holomorphic dynamics",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janina.kotus.tP3Lvyh27Tv/research-work/465c5e76-7e03-4597-ac0a-24e6f0bdf1cb",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=30487"
+    }
+  ],
+  "tag_cloud": [
+    "rigidity of elliptic functions",
+    "wymiar hausdorffa",
+    "miary niezmiennicze",
+    "julia set",
+    "fatou set",
+    "zbiór fatou",
+    "zbiór julii",
+    "graph directed markov systems",
+    "bifurkacje",
+    "składowe bakera"
+  ],
+  "coworkers": []
+}

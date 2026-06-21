@@ -1,0 +1,231 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO",
+  "slug": "jerzy.proficz",
+  "profile_id": "rBrIDLoN8YO",
+  "full_name": "dr hab. inż. Jerzy Proficz",
+  "orcid": "0000-0003-2975-9339",
+  "orcid_url": "https://orcid.org/0000-0003-2975-9339",
+  "breadcrumb_name": "Jerzy Proficz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy operacyjne komputerów dużej mocy obliczeniowej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multi-GPU UNRES for scalable coarse-grained simulations of very large protein systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/publications/4d7623a3-c338-4545-a74b-f113bd8f6454",
+      "authors": "A. Lipska, C. Czaplewski [...] J. Proficz , ... (+5)",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2024",
+      "doi": "10.1016/j.cpc.2024.109112",
+      "doi_url": "https://www.doi.org/10.1016/j.cpc.2024.109112",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-GPU-powered UNRES package for physics-based coarse-grained simulations of structure, dynamics, and thermodynamics of protein systems at biological size- and timescales",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/publications/d7fdca55-7375-4261-800d-1ae861967044",
+      "authors": "C. Czaplewski, P. Czarnul [...] J. Proficz , ... (+9)",
+      "publication_type": "Artykuł , Biophysical Journal",
+      "year": "2024",
+      "doi": "10.1016/j.bpj.2023.11.2566",
+      "doi_url": "https://www.doi.org/10.1016/j.bpj.2023.11.2566",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Dynamic GPU power capping with online performance tracing for energy efficient GPU computing using DEPO tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/publications/bc7a24a1-c9ea-4fcb-8fbe-342258968ff3",
+      "authors": "A. Krzywaniak, P. Czarnul, J. Proficz",
+      "publication_type": "Artykuł , Future Generation Computer Systems",
+      "year": "2023",
+      "doi": "10.1016/j.future.2023.03.041",
+      "doi_url": "https://www.doi.org/10.1016/j.future.2023.03.041",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/research-work/380651d1-2d82-4d76-97e8-16e69fa3d9da",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zarządzanie zasobami obliczeniowymi w klastrowym środowisku przetwarzania strumieni multimedialnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/research-work/24358128-c9e7-4699-b994-24c37863404e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie klasyfikacji funkcjonalnej usług do efektywnego zarządzania zasobami chmurowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/research-work/213cc5e3-5de5-43d8-81b4-1fe6ee408596",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja kosztu działania aplikacji na urządzeniach mobilnych wspomaganych przez chmurę obliczeniową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.proficz.rBrIDLoN8YO/research-work/762c3f37-ddeb-4a8c-b206-32e10ee2100b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248354"
+    }
+  ],
+  "tag_cloud": [
+    "vaccines",
+    "unres",
+    "kubernetes",
+    "apache spark,yarn, big data, green computing, sentinel, tera sort, wordcount, benchmarks, schedulet",
+    "hpc",
+    "mpi",
+    "infiniband",
+    "cuda",
+    "bridge of data",
+    "power capping"
+  ],
+  "coworkers": []
+}

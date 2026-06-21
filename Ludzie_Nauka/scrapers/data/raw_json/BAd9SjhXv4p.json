@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p",
+  "slug": "paweł.krzaczkowski",
+  "profile_id": "BAd9SjhXv4p",
+  "full_name": "mgr inż. Paweł Michał Krzaczkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Paweł Krzaczkowski",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "lotnictwo i kosmonautyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "lotnictwo i kosmonautyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Role of Flight Laboratories in Aviation Education and Teaching Methodology Development: Case Studies from Poland and Georgia",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/publications/7424f97c-ff5e-407d-be53-d22193c099ae",
+      "authors": "A. Pacana, T. Rogalski, P. Krzaczkowski , ... (+1)",
+      "publication_type": "Artykuł , System Safety : Human - Technical Facility - Environment",
+      "year": "2025",
+      "doi": "10.2478/czoto-2025-0039",
+      "doi_url": "https://www.doi.org/10.2478/czoto-2025-0039",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Vision System Measuring the Position of an Aircraft in Relation to the Runway during Landing Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/publications/f47799aa-ade7-47c9-8f62-8cd82cd99e75",
+      "authors": "D. Kordos, P. Rzucidło [...] P. Krzaczkowski , ... (+4)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23031560",
+      "doi_url": "https://www.doi.org/10.3390/s23031560",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "LUWEX: validation of lunar water extraction and purification technologies for in-situ propellant and consumables production",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.krzaczkowski.BAd9SjhXv4p/publications/827a0267-8371-4780-b087-966345d39ae4",
+      "authors": "B. Imhof, M. Brandić Lipińska [...] P. Krzaczkowski , ... (+31)",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

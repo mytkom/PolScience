@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73",
+  "slug": "katarzyna.woźnica",
+  "profile_id": "AiswuQkgc73",
+  "full_name": "dr Katarzyna Anna Woźnica",
+  "orcid": "0000-0003-2400-7592",
+  "orcid_url": "https://orcid.org/0000-0003-2400-7592",
+  "breadcrumb_name": "Katarzyna Woźnica",
+  "current_employment_summary": [
+    "Instytut Badań Systemowych Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2016",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Consolidated learning: a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/publications/88960ef1-feac-48bc-9af1-08fac765a13f",
+      "authors": "K. Woźnica , P. Biecek, M. Grzyb, ... (+1)",
+      "publication_type": "Artykuł , Machine Learning",
+      "year": "2024",
+      "doi": "10.1007/s10994-023-06359-0",
+      "doi_url": "https://www.doi.org/10.1007/s10994-023-06359-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Predicting acute kidney injury onset using a random forest algorithm using electronic medical records of COVID-19 patients: the CRACoV-AKI model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/publications/bf79c366-dbe9-4200-906e-6e09b47fceed",
+      "authors": "K. Krzanowska, K. Niezabitowska, K. Woźnica , ... (+9)",
+      "publication_type": "Artykuł , Polskie Archiwum Medycyny Wewnetrznej",
+      "year": "2024",
+      "doi": "10.20452/pamw.16697",
+      "doi_url": "https://www.doi.org/10.20452/pamw.16697",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The absence of lymph nodes removed (pNx status) impacts survival in patients with lung cancer treated surgically",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/publications/e81e7def-5a13-43c8-9a48-8f9ebf2eee3a",
+      "authors": "G. Gryszko, M. Dziedzic [...] K. Woźnica , ... (+4)",
+      "publication_type": "Artykuł , Surgical Oncology",
+      "year": "2023",
+      "doi": "10.1016/j.suronc.2023.101941",
+      "doi_url": "https://www.doi.org/10.1016/j.suronc.2023.101941",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Towards trustworthy automated data science",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.wo%C5%BAnica.AiswuQkgc73/research-work/e351ac9b-28e1-4940-ab04-4f399ea0967b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "tnm staging",
+    "lymph node resection",
+    "status pnx niedrobnokomórkowy rak płuca resekcja węzłów chłonnych chirurgia klatki piersiowej stopień zaawansowania węzłów chłonnych",
+    "lung cancer survival",
+    "thoracic surgery",
+    "non-small cell lung cancer",
+    "lymph node staging",
+    "surgical treatment",
+    "lymphadenectomy",
+    "lymph node resection; lymph node staging; non-small-cell lung cancer; thoracic surgery; pnx status."
+  ],
+  "coworkers": []
+}

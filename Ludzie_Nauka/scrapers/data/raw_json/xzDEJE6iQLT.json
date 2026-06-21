@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT",
+  "slug": "anna.bochenek",
+  "profile_id": "xzDEJE6iQLT",
+  "full_name": "prof. dr hab. Anna Jadwiga Bochenek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Bochenek",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina sztuki"
+  ],
+  "specializations": [
+    "malarstwo i rysunek"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/achievement",
+      "aria_disabled": null
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor sztuki",
+      "details_json": [
+        "dziedzina sztuki / sztuki plastyczne i konserwacja dzieł sztuki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "sztuki plastyczne / sztuki piękne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu; Wydział Sztuk Pięknych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8db3b263-7ae6-46d3-96a2-b45d6480a677"
+        },
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina sztuk plastycznych / malarstwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1990",
+      "degree_or_title": "Magister sztuki",
+      "details_json": [
+        "malarstwo i wychowanie plastyc",
+        "Nadanie tytułu",
+        "Uniwersytet Mikołaja Kopernika w Toruniu Wydział Sztuk Pięknych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Sztuki Plastyczne i Konserwacja Dzieł Sztuki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/gremiums/d025a7f4-e280-496b-8416-b27450e24b15",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Anatomia obecności",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/publications/c51c5557-c3dc-4427-8aec-f16294ab6cdf",
+      "authors": null,
+      "publication_type": "Książka , Wydawnictwo DA VINCI",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/research-work/25657f8d-fd35-4459-96d6-8b23a7997b3a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Eksperymentalne techniki ekologiczne w malarstwie akwarelowym - kreacja wieloelementowych mozaik malarskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/research-work/ee54c757-4f24-4869-9fb6-f451f1f77119",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zestaw prac malarskich: Wielkie niekąpiące, Lśnienie, Okna",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/research-work/d22a27b3-75d3-45e6-819b-c672cc478244",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Cztery żywioły - film animowany w technologii fulldome",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.bochenek.xzDEJE6iQLT/research-work/0f6abd95-d0ee-446f-94b5-d6d4326192fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=222222"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

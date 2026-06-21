@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR",
+  "slug": "sebastian.chamera",
+  "profile_id": "1XsdGZFcOoR",
+  "full_name": "dr inż. Sebastian Chamera",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Sebastian Chamera",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Semi-active vibration control of horizontal seat suspension by using magneto-rheological damper",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/publications/7f0fb288-94ee-4670-8ddb-e928a3586831",
+      "authors": "S. Pecolt, I. Maciejewski [...] S. Chamera , ... (+1)",
+      "publication_type": "Artykuł , Journal of Theoretical and Applied Mechanics",
+      "year": "2019",
+      "doi": "10.15632/jtam-pl/104593",
+      "doi_url": "https://www.doi.org/10.15632/jtam-pl/104593",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dynamika elektrycznych elementów grzejnych powszechnego użytku",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/publications/dae3f285-9078-4431-873a-c4de66b73d3b",
+      "authors": null,
+      "publication_type": "Artykuł , Ciepłownictwo, Ogrzewnictwo, Wentylacja",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Wyznaczanie podstawowych parametrów wymiany ciepła w stanach przejściowych pracy ogrzewacza wody",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/publications/a359705f-887c-4a2a-a2ce-799fcdf94d8a",
+      "authors": "S. Chamera , M. Łyczko",
+      "publication_type": "Artykuł , Pomiary Automatyka Kontrola",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania skuteczności zastosowania pneumatycznych układów wibroizolacji do redukcji drgań siedzisk w pojazdach ciężarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.chamera.1XsdGZFcOoR/research-work/3513b667-66f8-46c0-a94a-38bfa755d320",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=216224"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

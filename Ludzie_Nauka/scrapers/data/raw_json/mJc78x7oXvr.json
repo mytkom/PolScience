@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr",
+  "slug": "maciej.szary",
+  "profile_id": "mJc78x7oXvr",
+  "full_name": "dr inż. Maciej Jan Szary",
+  "orcid": "0000-0001-7767-5581",
+  "orcid_url": "https://orcid.org/0000-0001-7767-5581",
+  "breadcrumb_name": "Maciej Szary",
+  "current_employment_summary": [
+    "Politechnika Poznańska",
+    "Sieć Badawcza Łukasiewicz - Instytut Mikroelektroniki i Fotoniki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz - Instytut Mikroelektroniki i Fotoniki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e228e3b7-3b6f-414f-9deb-a7b08b90f9e3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "B-Power: Investigating the Upper Limits of Enhanced Surface Reactivity in Doped MoTe2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/publications/b85cf271-e8af-4539-bfd9-f28cfafc7a44",
+      "authors": "P. Radomski, D. Florjan, M. Szary",
+      "publication_type": "Artykuł , Journal of Physical Chemistry C",
+      "year": "2025",
+      "doi": "10.1021/acs.jpcc.5c00072",
+      "doi_url": "https://www.doi.org/10.1021/acs.jpcc.5c00072",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Chalcogen Vacancies as Key Drivers of Distinct Physicochemistry in MoS2, MoSe2, and MoTe2 for Selective Catalysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/publications/55c27a99-f74c-4d44-8e9d-225330680ed3",
+      "authors": "E. Piosik, M. Szary",
+      "publication_type": "Artykuł , Chemistry – A European Journal",
+      "year": "2025",
+      "doi": "10.1002/chem.202500324",
+      "doi_url": "https://www.doi.org/10.1002/chem.202500324",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Dosimetric platform and a genuine Raman protocol for passive estimation of fast-neutron fluence in irradiated SiC and SiC topped with epitaxial graphene",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szary.mJc78x7oXvr/publications/48f8a6a0-18ab-4fb7-bae0-cbd42904b35e",
+      "authors": "J. Jagiełło, A. Dobrowolski [...] M. Szary , ... (+6)",
+      "publication_type": "Artykuł , Results in Physics",
+      "year": "2025",
+      "doi": "10.1016/j.rinp.2025.108332",
+      "doi_url": "https://www.doi.org/10.1016/j.rinp.2025.108332",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "catalysis",
+    "room temperature",
+    "transition metal dichalcogenides",
+    "mos2",
+    "doping",
+    "density functional theory",
+    "surface interactions",
+    "adsorption",
+    "gas monitoring",
+    "mote2"
+  ],
+  "coworkers": []
+}

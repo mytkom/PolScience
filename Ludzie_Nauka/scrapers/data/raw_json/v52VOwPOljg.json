@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg",
+  "slug": "piotr.płotka",
+  "profile_id": "v52VOwPOljg",
+  "full_name": "dr hab. Piotr Płotka",
+  "orcid": "0000-0002-9131-4181",
+  "orcid_url": "https://orcid.org/0000-0002-9131-4181",
+  "breadcrumb_name": "Piotr Płotka",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elementy elektroniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Instytut Technologii Elektronicznej, null",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Design specification management with automated decision-making for reliable optimization of miniaturized microwave components",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/publications/2e59a21e-a41b-4f5b-bb4e-e89d84374c8c",
+      "authors": "S. Kozieł, A. Pietrenko-Dabrowska, P. Płotka",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-04810-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-022-04810-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On Improved-Reliability Design Optimization of High-Frequency Structures Using Local Search Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/publications/b11ff850-e9d9-43f7-86df-61ef4c2b862b",
+      "authors": "S. Kozieł, A. Pietrenko-Dabrowska, P. Płotka , ... (+1)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2022",
+      "doi": "10.1109/access.2022.3202019",
+      "doi_url": "https://www.doi.org/10.1109/access.2022.3202019",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "EM-Driven Multi-Objective Optimization of a Generic Monopole Antenna by Means of a Nested Trust-Region Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/publications/ef0bb838-d6d2-44e4-b8b5-d9ee6a6749c0",
+      "authors": "A. Bekasiewicz, P. Płotka , S. Kozieł, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2021",
+      "doi": "10.3390/app11093958",
+      "doi_url": "https://www.doi.org/10.3390/app11093958",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Tunelowe nanoprzyrządy wykonane przy użyciu epitaksji warstw molekularnych GaAs",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/b32a77a8-3072-49a2-b489-379634f7e711",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda wytwarzania mikroczujników i elektrod elektrochemicznych przez selektywny wzrost polikrystalicznych warstw diamentowych maskowany warstwami dwutlenku krzemu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/3a186fe1-acde-4970-9d77-f521a8c8e8d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Detekcja i wyznaczanie grubości warstw monomolekularnych z rozdzielczością poniżej 1 nm w oparciu o transkonduktancję tranzystora typu ISFET",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/1e60546b-3271-42f7-bc43-20609572dc71",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zastosowania metod fototermicznych, modulowanej absorpcji na swobodnych nośnikach i fotonapięcia powierzchniowego w badaniach materiałów półprzewodnikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/2e95a395-c62f-4c57-8d93-521a317f1916",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane problemy projektowania specjalizowanych bloków funkcjonalnych układów scalonych CMOS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/d638151b-fbf1-400b-9aa8-e692fa505bea",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Projektowanie mikroelektronicznych niskomocowych wizyjnych systemów sensorowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.p%C5%82otka.v52VOwPOljg/research-work/de0eb74a-d297-45e7-9f17-22f033989572",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61296"
+    }
+  ],
+  "tag_cloud": [
+    "nested optimization",
+    "em-driven optimization",
+    "multi-objective optimization",
+    "design specification management",
+    "automated decision-making",
+    "compact components",
+    "adjustable dimensionality",
+    "em-driven design",
+    "microwave circuits",
+    "simulation-based optimization , microwave design , multi-fidelity simulations , model management , gradient-based search"
+  ],
+  "coworkers": []
+}

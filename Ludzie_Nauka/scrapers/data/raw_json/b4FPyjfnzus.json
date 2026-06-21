@@ -1,0 +1,233 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus",
+  "slug": "lesław.gniewek",
+  "profile_id": "b4FPyjfnzus",
+  "full_name": "dr hab. inż. Lesław Gniewek",
+  "orcid": "0000-0003-1096-4252",
+  "orcid_url": "https://orcid.org/0000-0003-1096-4252",
+  "breadcrumb_name": "Lesław Gniewek",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "programowanie sterowników PLC",
+    "sztuczna inteligencja",
+    "sieci Petriego",
+    "teoretyczne podstawy informatyki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        ".",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/gremiums/b630b975-5f2e-4062-9660-89bdd5fc9c7f",
+      "period": "2020-2022",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Extended Sequential Function Chart",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/publications/9d5972bb-1846-4b44-a612-a7e7808e6cd2",
+      "authors": "L. Gniewek , M. Markiewicz",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3567029",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3567029",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Review of hierarchy in Petri Nets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/publications/0be72699-1610-4cb5-9e93-ccfbb6407a20",
+      "authors": "L. Gniewek , M. Markiewicz",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155452",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155452",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Extended Hierarchical Fuzzy Interpreted Petri Net",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/publications/959f1cb5-433c-4905-b9be-2631a353caa2",
+      "authors": "M. Markiewicz, L. Gniewek , D. Warchoł",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21248433",
+      "doi_url": "https://www.doi.org/10.3390/s21248433",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i synteza układów sterowania z wykorzystaniem rozmytej interpretowanej sieci Petriego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work/79b6bdd3-b678-45c4-af7d-15e9880dc573",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rozmyta sieć Petriego - synteza i zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work/b7808761-3f7f-4938-a08e-a723ea97b3a0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Hierarchiczna rozmyta interpretowana sieć Petriego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work/91c797a9-8154-418c-8409-90494e7b0b9b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analysis of Boundedness and Safeness in a Petri Net-Based Specification of Concurrent Control Systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work/f7cb3cc6-34fd-4443-9e29-dfe197b381f6",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie paradygmatu funkcyjnego do formalnej analizy systemów modelowanych w języku Alvis",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/les%C5%82aw.gniewek.b4FPyjfnzus/research-work/5c89bb9f-a67d-447c-bcba-bfd4171db733",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=84353"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

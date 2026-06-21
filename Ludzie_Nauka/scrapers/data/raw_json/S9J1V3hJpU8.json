@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8",
+  "slug": "adam.kawczyński",
+  "profile_id": "S9J1V3hJpU8",
+  "full_name": "prof. dr hab. Adam Stanisław Kawczyński",
+  "orcid": "0000-0001-7840-3799",
+  "orcid_url": "https://orcid.org/0000-0001-7840-3799",
+  "breadcrumb_name": "Adam Kawczyński",
+  "current_employment_summary": [
+    "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
+    "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu",
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu",
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "fizjologia",
+    "fizjologia mięśni szkieletowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8e6fd560-b45b-4671-9450-14036044949b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Wychowania Fizycznego we Wrocławiu Aktualna nazwa: Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/04496ff8-47c8-4c64-af60-278a7de9d867",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki o kulturze fizycznej"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk o kulturze fizycznej / dziedzina nauk o kulturze fizycznej",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu; Wydział Wychowania Fizycznego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f8bbd04e-dcdc-48ff-9b7f-eb269d0e201c"
+        },
+        {
+          "label": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/04496ff8-47c8-4c64-af60-278a7de9d867"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki o kulturze fizycznej / bez dyscyplin",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu; Wydział Fizjoterapii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/336bd8c7-18fc-4df3-a177-33fde1f9788e"
+        },
+        {
+          "label": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/04496ff8-47c8-4c64-af60-278a7de9d867"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2002",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizjoterapia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/04496ff8-47c8-4c64-af60-278a7de9d867"
+        },
+        {
+          "label": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8e6fd560-b45b-4671-9450-14036044949b"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparing The Effects of Small-Sided Handball Games and High-Intensity Interval Training on The Physical Health and Fitness of Untrained Individuals: A 16-Week Randomized Controlled Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/publications/4721a2ae-8383-4d66-b7a1-2c23b6b970ea",
+      "authors": "X. Han, J. Chen [...] A. Kawczyński , ... (+4)",
+      "publication_type": "Artykuł , Journal of Sports Science and Medicine",
+      "year": "2026",
+      "doi": "10.52082/jssm.2026.16",
+      "doi_url": "https://www.doi.org/10.52082/jssm.2026.16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effects of high-intensity interval training on aerobic capacity and athletic performance in trained athletes: a systematic review and meta-analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/publications/8183c098-e7d6-48c7-a257-8ab5ba0950ec",
+      "authors": "K. Qi, L. Tan [...] A. Kawczyński , ... (+3)",
+      "publication_type": "Artykuł , BMC Sports Science, Medicine and Rehabilitation",
+      "year": "2026",
+      "doi": "10.1186/s13102-025-01479-7",
+      "doi_url": "https://www.doi.org/10.1186/s13102-025-01479-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Postexercise Physical Recovery Methods for Combat Sports: A Scoping Review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/publications/ea092e04-5d46-4b04-8278-8621d9f183ce",
+      "authors": "R. Trybulski, A. Kużdżał, A. Kawczyński , ... (+3)",
+      "publication_type": "Artykuł , International Journal of Sports Medicine",
+      "year": "2026",
+      "doi": "10.1055/a-2615-3553",
+      "doi_url": "https://www.doi.org/10.1055/a-2615-3553",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/670f8f8f-ee77-4d71-a2f6-636d277cf6a1",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ ćwiczeń ekscentrycznych na właściwości sensomotoryczne mięśni szkieletowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/f971c906-01f3-4155-a815-574812225f9d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ wartości momentu siły na czynność mięśni szkieletowych po ćwiczeniach ekscentrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/345738d8-809f-4a20-adab-77c9e9fbdadd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Powysiłkowa zmiana sztywności mięśnia czworobocznego grzbietu w ocenie miotonometrycznej i elastograficznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/e2ae67a8-3b5b-4eb9-aa05-bdfb0107e957",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane techniki regeneracji układu mięśniowego a zmiany cech sensoryczno-elastycznych mięśni szkieletowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/51c388b0-94b0-43da-b9f6-feeeee25d08a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/17ce7d81-1ac9-41ca-8aab-7db02c603150",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ techniki upadku do tyłu wymuszanego przez trenażer obrotowy na zagrożenie głowy na urazy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/9688ef8b-7468-49ae-8b5a-b8b756c0e392",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ treningu koordynacyjnego w immersyjnej wirtualnej rzeczywistości na szybkość reakcji zawodników mieszanych sztuk walki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kawczy%C5%84ski.S9J1V3hJpU8/research-work/ce38fc3b-dd62-4eb7-98e7-5bf537d286bb",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=201698"
+    }
+  ],
+  "tag_cloud": [
+    "martial arts",
+    "soreness",
+    "athletic performance",
+    "myotonometry",
+    "football",
+    "soccer",
+    "fatigue",
+    "shoulder",
+    "amputation",
+    "ampfootball"
+  ],
+  "coworkers": []
+}

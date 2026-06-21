@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu",
+  "slug": "marcin.jodłowiec",
+  "profile_id": "Tm5ASGKHvmu",
+  "full_name": "dr inż. Marcin Michał Jodłowiec",
+  "orcid": "0000-0001-7387-9210",
+  "orcid_url": "https://orcid.org/0000-0001-7387-9210",
+  "breadcrumb_name": "Marcin Jodłowiec",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metamodelowanie",
+    "inżynieria wiedzy",
+    "modelowanie systemów informatycznych",
+    "semantyka języków modelowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5d6c2944-921b-45cb-afa3-d2518eeabac7"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A method for evaluating expressive power and semantic capacity of metamodel in conceptual data modeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/publications/c37cb2ed-4083-4d40-80e2-0b38a7e84489",
+      "authors": "M. Jodłowiec , M. Krótkiewicz",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-6008-7_11",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-6008-7_11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Formalizing data metamodel semantics for mapping patterns specification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/publications/3b59091c-77a7-4f4a-acbf-d573f1e36591",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-981-97-4985-0_6",
+      "doi_url": "https://www.doi.org/10.1007/978-981-97-4985-0_6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Asemi-formal approach to describing semantics of data modeling patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/publications/479c0370-3301-4dec-b4cf-ff42e155775e",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-981-99-5837-5_2",
+      "doi_url": "https://www.doi.org/10.1007/978-981-99-5837-5_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody modelowania i translacji modeli baz danych dla metamodelu asocjacyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.jod%C5%82owiec.Tm5ASGKHvmu/research-work/98736d99-f96c-4a2a-8e76-6973dc7345a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=317149"
+    }
+  ],
+  "tag_cloud": [
+    "modelowanie domen",
+    "baza wiedzy",
+    "mapowanie modelu",
+    "ontologia",
+    "aodb",
+    "właściwości kolektywu",
+    "asocjacyjny metamodel baz danych",
+    "kolektyw oparty na grafach",
+    "modelowanie kolektywu",
+    "sieć semantyczna"
+  ],
+  "coworkers": []
+}

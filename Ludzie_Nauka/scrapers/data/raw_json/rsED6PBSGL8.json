@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8",
+  "slug": "maciej.szczodrak",
+  "profile_id": "rsED6PBSGL8",
+  "full_name": "dr inż. Maciej Szczodrak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Maciej Szczodrak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Comprehensive Polish Medical Speech Dataset for Enhancing Automatic Medical Dictation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/publications/f69c7a56-af1a-42f7-81f1-a7db22fc1178",
+      "authors": "A. Czyżewski, S. Cygert [...] M. Szczodrak , ... (+10)",
+      "publication_type": "Artykuł , Scientific Data",
+      "year": "2025",
+      "doi": "10.1038/s41597-025-05776-1",
+      "doi_url": "https://www.doi.org/10.1038/s41597-025-05776-1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "KLASYFIKACJA ZDARZEŃ AKUSTYCZNYCH W SYSTEMIE MONITORINGU BEZPIECZEŃSTWA OPARTA NA UCZENIU MASZYNOWYM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/publications/31ac09ee-a1df-427c-ac01-51ef3d07988a",
+      "authors": "J. Kotus, M. Szczodrak , P. Szczuko, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.104",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.104",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparative study on the effectiveness of various types of road traffic intensity detectors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/publications/bf4a78a0-d37a-4f0f-8b71-b6f2f9c7490f",
+      "authors": "A. Czyzewski, A. Sroczynski [...] M. Szczodrak , ... (+9)",
+      "publication_type": "Artykuł , 2019 6th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)",
+      "year": "2019",
+      "doi": "10.1109/mtits.2019.8883354",
+      "doi_url": "https://www.doi.org/10.1109/mtits.2019.8883354",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka tworzenia dynamicznych map hałasu w środowisku aglomeracji miejskiej z zastosowaniem gridu superkomputerowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szczodrak.rsED6PBSGL8/research-work/0a9d073d-0695-4334-8e1f-433b1daf6fc2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=219294"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

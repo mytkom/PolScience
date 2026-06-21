@@ -1,0 +1,163 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm",
+  "slug": "marta.gajadhur",
+  "profile_id": "y4Os4aZc1tm",
+  "full_name": "dr Marta Magdalena Gajadhur",
+  "orcid": "0000-0003-4397-0384",
+  "orcid_url": "https://orcid.org/0000-0003-4397-0384",
+  "breadcrumb_name": "Marta Gajadhur",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "poligrafia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Technologiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7362042d-bb7a-4a30-b9d4-d6558f2a3ca3"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "CIELAB substrate and ink parameters influence on ink fluorescence intensity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/publications/1c5c6362-d29e-4089-9a2d-b9bd0bd8e73b",
+      "authors": null,
+      "publication_type": "Artykuł , Dyes and Pigments",
+      "year": "2025",
+      "doi": "10.1016/j.dyepig.2024.112588",
+      "doi_url": "https://www.doi.org/10.1016/j.dyepig.2024.112588",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Micro- and Nanofibrillated Cellulose Coatings as Barriers Against Water and Oil in Food Packaging Paper: A Sustainable Alternative to Plastic Coatings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/publications/b8670881-b437-456c-b4cc-9576f44600f2",
+      "authors": "P. Przybysz, M. Dubowik [...] M. Gajadhur , ... (+6)",
+      "publication_type": "Artykuł , Coatings",
+      "year": "2025",
+      "doi": "10.3390/coatings15030270",
+      "doi_url": "https://www.doi.org/10.3390/coatings15030270",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Luminescent properties of fluorescent colour water-based ink films",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/publications/c761082c-4c2e-413f-9d17-48b709fca267",
+      "authors": null,
+      "publication_type": "Artykuł , Dyes and Pigments",
+      "year": "2024",
+      "doi": "10.1016/j.dyepig.2024.112074",
+      "doi_url": "https://www.doi.org/10.1016/j.dyepig.2024.112074",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja grubości warstw farb w druku offsetowym arkuszowym na podstawie maksymalizacji objętości bryły odwzorowywanych barw i wybranych właściwości optycznych druków",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/research-work/b25f9970-917a-45df-beb9-0715cd66870e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ wybranych czynników technologicznych na przebieg procesu mielenia papierniczych mas włóknistych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajadhur.y4Os4aZc1tm/research-work/5f50e0d5-4bdc-4a9c-856a-9dbe21ef9adc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=240063"
+    }
+  ],
+  "tag_cloud": [
+    "conductive inks",
+    "refining",
+    "accelerated artificial light aging",
+    "printed electronics",
+    "flexographic printing",
+    "mechanical resistance properties of paper",
+    "special effects inks",
+    "luminescent pigments",
+    "internal fibrillation",
+    "shortening of fibers"
+  ],
+  "coworkers": []
+}

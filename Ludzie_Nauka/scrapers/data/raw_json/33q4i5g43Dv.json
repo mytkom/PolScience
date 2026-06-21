@@ -1,0 +1,216 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv",
+  "slug": "grzegorz.nykiel",
+  "profile_id": "33q4i5g43Dv",
+  "full_name": "dr inż. Grzegorz Artur Nykiel",
+  "orcid": "0000-0002-6827-0205",
+  "orcid_url": "https://orcid.org/0000-0002-6827-0205",
+  "breadcrumb_name": "Grzegorz Nykiel",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "geodezja satelitarna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ae02494e-7705-4d08-bfa6-d92925752883",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego; Wydział Inżynierii Lądowej i Geodezji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/21621076-b7f2-4bc3-a5a5-e684c8630041"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Wojskowa Akademia Techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Wojskowa Akademia Techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Altitude Variations in Ionospheric Responses and Prolonged TEC Recovery During the High Latitude Solar Eclipse of 10 June 2021",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/publications/48e286fc-14e3-48f3-af88-9562b2a3d191",
+      "authors": "G. Nykiel , H. Sato, F. Günzkofer, ... (+3)",
+      "publication_type": "Artykuł , JOURNAL OF GEOPHYSICAL RESEARCH-SPACE PHYSICS",
+      "year": "2025",
+      "doi": "10.1029/2025ja034001",
+      "doi_url": "https://www.doi.org/10.1029/2025ja034001",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Applicability of multi-layered mapping function to STEC/VTEC conversion &#8211; validation in PPP positioning and GNSS observation domains",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/publications/6e434fa6-bdc4-40a3-9c9e-48c30b2ed191",
+      "authors": "P. Wielgosz, R. Sieradzki [...] G. Nykiel , ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.5194/egusphere-egu25-18016",
+      "doi_url": "https://www.doi.org/10.5194/egusphere-egu25-18016",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Deep learning approach for combining global ionospheric maps for GNSS positioning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/publications/31382b73-92af-4719-8b24-91f27352d7c0",
+      "authors": "M. Poniatowski, G. Nykiel , J. Szmytkowski, ... (+1)",
+      "publication_type": "Artykuł , GPS Solutions",
+      "year": "2025",
+      "doi": "10.1007/s10291-025-01861-5",
+      "doi_url": "https://www.doi.org/10.1007/s10291-025-01861-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka absolutnego pozycjonowania z wykorzystaniem fazowych obserwacji GPS i Galileo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.nykiel.33q4i5g43Dv/research-work/a616a158-cd27-4e8b-b0b6-3e28e92f8720",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=275326"
+    }
+  ],
+  "tag_cloud": [
+    "fire weather index",
+    "satellite constellations",
+    "precipitation estimation",
+    "global navigation satellite system",
+    "wrf",
+    "gnss",
+    "gfs",
+    "igs14",
+    "cml",
+    "total electron content"
+  ],
+  "coworkers": []
+}

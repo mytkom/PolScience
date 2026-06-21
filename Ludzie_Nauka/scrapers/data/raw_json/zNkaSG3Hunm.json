@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm",
+  "slug": "krzysztof.jurczuk",
+  "profile_id": "zNkaSG3Hunm",
+  "full_name": "dr inż. Krzysztof Jurczuk",
+  "orcid": "0000-0001-6469-1769",
+  "orcid_url": "https://orcid.org/0000-0001-6469-1769",
+  "breadcrumb_name": "Krzysztof Jurczuk",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "obliczenia równoległe",
+    "informatyka biomedyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d450e547-a588-4c5e-b354-d9a68e3705ba"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Combining GPU and Apache Spark for Evolving Explainable Decision Trees on Large-Scale Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/publications/be3625f2-f3d5-41a4-9dfe-4fd81c79042a",
+      "authors": "D. Reska, K. Jurczuk , M. Krętowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing multi-omics data classification with relative expression analysis and decision trees",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/publications/9533afdf-1543-48d2-a39d-ad6cf6ce7f29",
+      "authors": "M. Czajkowski, K. Jurczuk , M. Kretowski",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2025",
+      "doi": "10.1016/j.jocs.2024.102460",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2024.102460",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhancing transparency of omics data analysis with the Evolutionary Multi-Test Tree and Relative Expression",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/publications/a78b2e2a-4a8b-46f4-8e73-13c04bc493ee",
+      "authors": "M. Czajkowski, K. Jurczuk , M. Kretowski",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.eswa.2025.127131",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.127131",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Obliczenia równoległe w modelowaniu obrazowania techniką rezonansu magnetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.jurczuk.zNkaSG3Hunm/research-work/2d228bf7-560b-44a0-ab3d-8cfa12cd159a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=253976"
+    }
+  ],
+  "tag_cloud": [
+    "big data mining",
+    "parallel computing",
+    "graphics processing unit (gpu)",
+    "evolutionary algorithms",
+    "decision trees",
+    "cuda",
+    "big data",
+    "evolutionary data mining",
+    "regression tree",
+    "data mining"
+  ],
+  "coworkers": []
+}

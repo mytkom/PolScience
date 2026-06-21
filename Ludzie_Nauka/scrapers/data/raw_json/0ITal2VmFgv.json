@@ -1,0 +1,247 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv",
+  "slug": "jerzy.pluciński",
+  "profile_id": "0ITal2VmFgv",
+  "full_name": "dr hab. inż. Jerzy Pluciński",
+  "orcid": "0000-0001-5166-8957",
+  "orcid_url": "https://orcid.org/0000-0001-5166-8957",
+  "breadcrumb_name": "Jerzy Pluciński",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "41 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Elektroniki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "16-kanałowy moduł LED do systemu wspomagającego rozwój roślin sterowany za pomocą Raspberry PI",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/publications/6b4c5326-8dd4-42e6-9eb5-775653f42147",
+      "authors": "J. Pluciński , A. Mazikowski, M. Feldzenstajn, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2023",
+      "doi": "10.15199/48.2023.07.39",
+      "doi_url": "https://www.doi.org/10.15199/48.2023.07.39",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Latent fingerprint imaging by spectroscopic optical coherence tomography",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/publications/321fad93-ed28-48be-8422-4e081bf3a74f",
+      "authors": "M. Strąkowski, P. Strąkowska, J. Pluciński",
+      "publication_type": "Artykuł , Optics and Lasers in Engineering",
+      "year": "2023",
+      "doi": "10.1016/j.optlaseng.2023.107622",
+      "doi_url": "https://www.doi.org/10.1016/j.optlaseng.2023.107622",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Detection of petroleum products using optical coherence tomography",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/publications/55b17211-7183-41f4-adab-7705fb6ff739",
+      "authors": "A. Kamińska, J. Pluciński",
+      "publication_type": "Artykuł , Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optyka nieuporządkowanych ośrodków silnie rozpraszających",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/9a7a0698-aeff-4ecf-bf1c-e1de9fdc9374",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie sensorów światłowodowych z wewnętrzną modulacją natężenia światła",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/3e7c68b6-6628-4a95-a774-f4f8d062bb59",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie czasowo-częstotliwościowej analizy sygnałów do poprawy właściwości metrologicznych systemów optycznej tomografii koherentnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/1b1fac5f-35be-42a6-acd0-c2d88a4fd8e4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Niskokoherencyjne czujniki światłowodowe przeznaczone do pracy w warunkach zmieniającego się tłumienia sygnału w torze optycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/16b56c7d-8e39-4bf0-ba2e-e404db2e7b46",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Niskostratne i przestrajalne światłowody mikrostrukturalne z wypełnieniem ciekłokrystalicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/c327caaa-d99a-44c4-91f1-8477acc94f35",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza dynamiki pola elektrycznego w niejednorodnie oświetlonych strukturach fotorefrakcyjnych wielokrotnych studni kwantowych.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/f931cc31-55d2-4b51-a0dd-d77650545276",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Sposoby kształtowania właściwości generacyjnych jednomodowych laserów światłowodowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.pluci%C5%84ski.0ITal2VmFgv/research-work/6112e2b1-f282-470e-b769-f40a99399bac",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19249"
+    }
+  ],
+  "tag_cloud": [
+    "light scattering",
+    "time- frequency analysis",
+    "interferometry",
+    "fractional fourier transform",
+    "raman spectroscopy",
+    "numerical methods",
+    "discrete dipole approximation (dda)",
+    "optical fibers",
+    "tissue",
+    "monte carlo"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz",
+  "slug": "mateusz.szeremeta",
+  "profile_id": "oAd6D4t8Tlz",
+  "full_name": "mgr inż. Mateusz Krzysztof Szeremeta",
+  "orcid": "0000-0003-0489-4438",
+  "orcid_url": "https://orcid.org/0000-0003-0489-4438",
+  "breadcrumb_name": "Mateusz Szeremeta",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hardware-software compatibility in robotic cyber-physical systems – an application based approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/publications/ca6f47e9-2b08-4449-a2cc-d98f5ea74f5d",
+      "authors": "A. Gola, M. Szeremeta , P. Penar",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/202594",
+      "doi_url": "https://www.doi.org/10.12913/22998624/202594",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hardware-software compatibility in robotic cyber-physical systems – an application based approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/publications/3921bada-0808-4ef5-aa9d-011b159deec0",
+      "authors": "P. Penar, M. Szeremeta , A. Gola",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/202594;10.20944/preprints202410.0117.v1",
+      "doi_url": "https://www.doi.org/10.12913/22998624/202594;10.20944/preprints202410.0117.v1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Neural Tracking Control of a Four-Wheeled Mobile Robot with Mecanum Wheels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szeremeta.oAd6D4t8Tlz/publications/4c9be03c-4b11-4c88-a8e4-88321bc264ba",
+      "authors": "M. Szuster, M. Szeremeta",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2022",
+      "doi": "10.3390/app12115322",
+      "doi_url": "https://www.doi.org/10.3390/app12115322",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

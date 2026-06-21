@@ -1,0 +1,283 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad",
+  "slug": "grzegorz.świderski",
+  "profile_id": "TM8cINj9oad",
+  "full_name": "dr Grzegorz Paweł Świderski",
+  "orcid": "0000-0003-4372-2989",
+  "orcid_url": "https://orcid.org/0000-0003-4372-2989",
+  "breadcrumb_name": "Grzegorz Świderski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analiza funkcjonalna",
+    "teoria operatorów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Uniwersytet Wrocławski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Uniwersytet Wrocławski; Instytut Matematyczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2010",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2010",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Asymptotic zeros' distribution of orthogonal polynomials with unbounded recurrence coefficients",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/publications/a2c257ad-3404-419e-bfe8-60aa3d6f6322",
+      "authors": "B. Trojan, G. Świderski",
+      "publication_type": "Artykuł , Journal of Functional Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.jfa.2025.111162",
+      "doi_url": "https://www.doi.org/10.1016/j.jfa.2025.111162",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Barrier Nonsubordinacy and Absolutely Continuous Spectrum of Block Jacobi Matrices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/publications/cbb3e4ff-6cd1-426d-8627-7a4829a498dc",
+      "authors": "M. Moszyński, G. Świderski",
+      "publication_type": "Artykuł , Constructive Approximation",
+      "year": "2025",
+      "doi": "10.1007/s00365-025-09724-5",
+      "doi_url": "https://www.doi.org/10.1007/s00365-025-09724-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Block Jacobi matrices and Titchmarsh-Weyl function",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/publications/239456c2-7341-43f8-b9ca-106a918fc8ee",
+      "authors": "M. Moszyński, G. Świderski",
+      "publication_type": "Artykuł , Opuscula Mathematica",
+      "year": "2025",
+      "doi": "10.7494/opmath.2025.45.3.351",
+      "doi_url": "https://www.doi.org/10.7494/opmath.2025.45.3.351",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Własności spektralne nieograniczonych macierzy Jacobiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/research-work/b4e9a28c-e022-411f-829b-6dd57382b6fe",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "O pewnych własnościach rozwiązań równania stochastycznego X=AX+B",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.TM8cINj9oad/research-work/0f1b301f-05c7-42d5-80e8-830f2bb37e4a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=280958"
+    }
+  ],
+  "tag_cloud": [
+    "continuous positive density",
+    "total variation",
+    "christoffel functions",
+    "asymptotics",
+    "orthogonal polynomials",
+    "jacobi matrix",
+    "turán determinants",
+    "scaling limits",
+    "discrete levinson’s type theorems",
+    "nevai’s operators"
+  ],
+  "coworkers": []
+}

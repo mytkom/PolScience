@@ -1,0 +1,208 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5",
+  "slug": "jacek.ryczyński",
+  "profile_id": "S33I5avpSG5",
+  "full_name": "dr inż. Jacek Sławomir Ryczyński",
+  "orcid": "0000-0002-5501-8609",
+  "orcid_url": "https://orcid.org/0000-0002-5501-8609",
+  "breadcrumb_name": "Jacek Ryczyński",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "płyny eksploatacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat 3 miesiące",
+      "duration": null,
+      "institution": "Wyższa Szkoła Oficerska Wojsk Lądowych imienia generała Tadeusza Kościuszki Aktualna nazwa: Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f8d0b933-97be-4910-b110-2b76fc6198f6",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/94358914-1188-4ed9-8dea-cceb1731eed3"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn w zakresie urządzeń i zastosowań materiałów pędnych i smarów",
+        "Nadanie tytułu",
+        "Wojskowa Akademia Techniczna w Warszawie, Wydział Mechaniczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f8d0b933-97be-4910-b110-2b76fc6198f6"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cultural diversity and the operational performance of airport security checkpoints: an analysis of energy consumption and passenger flow",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/publications/8558ed96-caa1-4920-9169-8893af114b5c",
+      "authors": "J. Ryczyński , A. Kierzkowski, M. Nowakowska, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18143853",
+      "doi_url": "https://www.doi.org/10.3390/en18143853",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Extended security control and delay propagation in air cargo transport operations: implications for supply chain continuity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/publications/5bf76e1d-5e31-4aa1-a5b7-e421b8a40b0d",
+      "authors": "T. Nowakowski, J. Ryczyński",
+      "publication_type": "Artykuł , Transport",
+      "year": "2025",
+      "doi": "10.3846/transport.2025.25801",
+      "doi_url": "https://www.doi.org/10.3846/transport.2025.25801",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modelling the sustainable development of the ground handling process using the PERT-COST method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/publications/2b31e024-a397-4a67-b2ea-2d0da46f99a8",
+      "authors": "A. Kierzkowski, J. Ryczyński , T. Kisiel, ... (+2)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su172411278",
+      "doi_url": "https://www.doi.org/10.3390/su172411278",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza teoretyczno - eksperymentalna systemów utrzymania jakości płynów eksploatacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ryczy%C5%84ski.S33I5avpSG5/research-work/d2eefa10-32d0-42d7-b9dd-0a73a3f6f892",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=252983"
+    }
+  ],
+  "tag_cloud": [
+    "quality monitoring and control system of fuels",
+    "czynnik ludzki",
+    "military transport",
+    "risk assessment",
+    "liquid fuels",
+    "paliwa płynne",
+    "supply chain",
+    "human factor",
+    "ocena ryzyka",
+    "safety"
+  ],
+  "coworkers": []
+}

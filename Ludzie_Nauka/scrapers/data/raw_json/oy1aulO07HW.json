@@ -1,0 +1,167 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW",
+  "slug": "jacek.habel",
+  "profile_id": "oy1aulO07HW",
+  "full_name": "dr inż. Jacek Tomasz Habel",
+  "orcid": "0000-0002-6507-8760",
+  "orcid_url": "https://orcid.org/0000-0002-6507-8760",
+  "breadcrumb_name": "Jacek Habel",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Małopolska Wyższa Szkoła im. Józefa Dietla w Krakowie z siedzibą w Krakowie Aktualna nazwa: Małopolska Wyższa Szkoła im. Józefa Dietla w Krakowie w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/609ca787-c203-4532-8f30-362d2c41ecd9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Artificial Intelligence overview for optimizing production scheduling in a picture framing company",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/publications/efa28b40-36b9-482c-b7b7-26b552abb3c4",
+      "authors": "J. Krupnik-Worek, J. Krupnik-Worek [...] J. Habel , ... (+1)",
+      "publication_type": "Artykuł , Czasopismo Techniczne/Technical Transactions",
+      "year": "2025",
+      "doi": "10.37705/techtrans/e2025006",
+      "doi_url": "https://www.doi.org/10.37705/techtrans/e2025006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Role of laser powder bed fusion process factors in determining the porosity formation in 3D printing of stainless steel 316L: theoretical modeling and experimental verification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/publications/4fde3e87-1a81-4a9c-a47c-c057d8c15bae",
+      "authors": "A. Stwora, R. Teimouri, J. Habel",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18245490",
+      "doi_url": "https://www.doi.org/10.3390/ma18245490",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The idea of database for recording intermediate states of rotary parts for CAPP use",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/publications/a185c94f-1941-4bc7-a263-37dee74a3b83",
+      "authors": null,
+      "publication_type": "Artykuł , Technical Transactions. Mechanics = Czasopismo Techniczne. Mechanika",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda tworzenia baz danych charakterystyk i możliwości technologicznych systemów wytwarzania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.habel.oy1aulO07HW/research-work/63bcfbd0-b0f0-44b0-92ab-3ae11e1192b2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=123068"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

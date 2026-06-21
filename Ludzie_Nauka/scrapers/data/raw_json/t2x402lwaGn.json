@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn",
+  "slug": "mariusz.dąbkowski",
+  "profile_id": "t2x402lwaGn",
+  "full_name": "dr inż. Mariusz Dąbkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Mariusz Dąbkowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "robotyka",
+    "robotyka mobilna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of Wavelet Transform and Fractal Analysis for Esophageal pH-Metry to Determine a New Method to Diagnose Gastroesophageal Reflux Disease",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/publications/57cf5552-97ba-4c0b-a009-0d82754ac952",
+      "authors": "P. Tojza, Ł. Doliński [...] M. Dąbkowski , ... (+4)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app13010214",
+      "doi_url": "https://www.doi.org/10.3390/app13010214",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Generating optimal paths in dynamic environments using RiverFormation Dynamics algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/publications/b3f917ee-989e-4464-a0eb-2bbfd0cad18d",
+      "authors": "M. Dąbkowski , A. Pałkowski, G. Redlarski",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2017",
+      "doi": "10.1016/j.jocs.2017.03.002",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2017.03.002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Prototyp bezprzewodowego systemu informacyjnego do monitorowania i alarmowania o stanie statku.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/publications/f90e346c-9ff8-4168-9c1e-14e2f5722f74",
+      "authors": "Ł. Hapke, M. Dąbkowski , Ł. Hapke",
+      "publication_type": "Artykuł , Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza jakości wykonania pokrycia powierzchni terenu przez autonomicznego robota mobilnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.d%C4%85bkowski.t2x402lwaGn/research-work/eaf5c0a9-2f73-4798-ac13-71e3177ee22a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=209986"
+    }
+  ],
+  "tag_cloud": [
+    "path planning",
+    "ph-metry",
+    "wavelet-based fractal analysis",
+    "gastrointestinal reflux disease (gerd)",
+    "heuristic algorithm",
+    "1d continuous wavelet transform",
+    "multichannel intraluminal impedance- ph",
+    "river formation dynamics",
+    "dynamic environment",
+    "swarm intelligence"
+  ],
+  "coworkers": []
+}

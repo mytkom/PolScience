@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S",
+  "slug": "michał.chwesiuk",
+  "profile_id": "FP3LL5GDM5S",
+  "full_name": "dr inż. Michał Chwesiuk",
+  "orcid": "0000-0002-6531-0232",
+  "orcid_url": "https://orcid.org/0000-0002-6531-0232",
+  "breadcrumb_name": "Michał Chwesiuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "grafika komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The ASL Dataset for Real-Time Recognition and Integration with LLM Services",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/publications/584e6055-9306-4a0a-9777-21d774c864d1",
+      "authors": "M. Chwesiuk , P. Popis",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152513",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152513",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Perception-driven Hybrid Decomposition for Multi-layer Accommodative Displays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/publications/9b75363c-9f04-4f5a-bf72-e70dd7478168",
+      "authors": "M. Wernikowski, H. Yu, M. Chwesiuk , ... (+8)",
+      "publication_type": "Artykuł , IEEE Transactions on Visualization and Computer Graphics",
+      "year": "2019",
+      "doi": "10.1109/tvcg.2019.2898821",
+      "doi_url": "https://www.doi.org/10.1109/tvcg.2019.2898821",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Foveated Ray Tracing for VR Headsets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/publications/51e05245-14e0-401e-86cb-652c421a9656",
+      "authors": "M. Chwesiuk , R. Mantiuk, R. Piórkowski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2019",
+      "doi": "10.1007/978-3-030-05710-7_9",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-05710-7_9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Pomiar charakterystyk czułości na kontrast w peryferyjnych obszarach widzenia oraz ich zastosowanie do przyspieszania syntezy obrazów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chwesiuk.FP3LL5GDM5S/research-work/b77a5e52-6a0b-46b2-b52b-016ba4b0b723",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=303969"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

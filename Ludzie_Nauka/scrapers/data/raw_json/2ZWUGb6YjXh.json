@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh",
+  "slug": "małgorzata.klimek",
+  "profile_id": "2ZWUGb6YjXh",
+  "full_name": "prof. dr hab. inż. Małgorzata Klimek",
+  "orcid": "0000-0002-1029-1863",
+  "orcid_url": "https://orcid.org/0000-0002-1029-1863",
+  "breadcrumb_name": "Małgorzata Klimek",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka matematyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "44 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Uniwersytet Wrocławski, Wydział Fizyki i Astronomii; Instytut Fizyki Teoretycznej"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka stosowana",
+        "Nadanie tytułu",
+        "Politechnika Wrocławska, Wydział Podstawowych Problemów Techniki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Polskie Towarzystwo Matematyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/gremiums/cd9f4412-6fd6-48eb-9f9c-e5cfebbcabf8",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Exact and Approximate Solutions of a Fractional Diffusion Problem with Fixed Space Memory Length",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/publications/951ad825-6478-43cf-bb74-fb240a83eeda",
+      "authors": "M. Klimek , T. Błaszczyk",
+      "publication_type": "Artykuł , International Journal of Applied Mathematics andComputer Science",
+      "year": "2025",
+      "doi": "10.61822/amcs-2025-0022",
+      "doi_url": "https://www.doi.org/10.61822/amcs-2025-0022",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Exact Solutions of Fractional Oscillator Eigenfunction Problem with Fixed Memory Length",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/publications/12faf497-bb12-485e-a9ea-1abb5e048727",
+      "authors": "M. Klimek , T. Blaszczyk, T. Błaszczyk",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Exact and Numerical Solution of the Fractional Sturm–Liouville Problem with Neumann Boundary Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/publications/549d8008-0930-424d-b2eb-4e069e2a2a36",
+      "authors": "M. Klimek , M. Ciesielski, T. Błaszczyk, ... (+1)",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2022",
+      "doi": "10.3390/e24020143",
+      "doi_url": "https://www.doi.org/10.3390/e24020143",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Prawa zachowania dla równań liniowych na przestrzeniach dyskretnych, nieprzemiennych i w modelach frakcjonalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/e570b359-2d72-4e06-9f56-13c9a04f7f67",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Niekanoniczne rozszerzenia układow dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/f33b403c-bd97-4e7d-a3d4-1ad7e9d6db3f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zagadnienie Stefana niecałkowitego rzędu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/6a899d37-a7b5-4e76-b7af-82f388452552",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modele ułamkowe i ich zastosowania w finansach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/9356adb4-da72-47ea-a125-d55a82168964",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ewolucja zniszczeń mechanicznych w dyskretnych układach mezoskopowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/8023a15e-cc2e-49ca-9c37-2ad673f7a96d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie równania frakcyjnego oscylatora do modelowania efektu pamięci w materii granulowanej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.klimek.2ZWUGb6YjXh/research-work/edfb958a-0704-427a-8baa-744dad7009c5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=18162"
+    }
+  ],
+  "tag_cloud": [
+    "minimum principle",
+    "fractional sturm-liouville problem",
+    "fractional necessary condition for extremum existence",
+    "fractional derivatives",
+    "fractional calculus",
+    "fractional differential equations",
+    "fractional eigenvalue problem",
+    "fractional prabhakar derivatives",
+    "fractional sturm-liouville problems",
+    "maximum principle"
+  ],
+  "coworkers": []
+}

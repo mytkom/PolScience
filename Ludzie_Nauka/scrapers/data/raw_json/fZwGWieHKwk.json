@@ -1,0 +1,163 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk",
+  "slug": "maciej.kachniarz",
+  "profile_id": "fZwGWieHKwk",
+  "full_name": "dr inż. Maciej Adam Kachniarz",
+  "orcid": "0000-0001-5349-4081",
+  "orcid_url": "https://orcid.org/0000-0001-5349-4081",
+  "breadcrumb_name": "Maciej Kachniarz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Przemysłowy Instytut Automatyki i Pomiarów PIAP Aktualna nazwa: Sieć Badawcza Łukasiewicz - Przemysłowy Instytut Automatyki i Pomiarów PIAP",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b3f28b90-b5a3-403e-b963-050a9d446d34",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of Rayleigh Model and Steinmetz Law in Evaluation of Hysteresis Losses in Low Magnetizing Fields",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/publications/f362a025-7fff-407c-a788-7ecebfa3c879",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.64",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.64",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Magnetoelastic Effect in Ni-Zn Ferrite Under Torque Operation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/publications/7f4b6124-7bb9-4985-9546-69a01ca26e1f",
+      "authors": "J. Salach, M. Kachniarz , D. Jackiewicz, ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17246239",
+      "doi_url": "https://www.doi.org/10.3390/ma17246239",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The Magnetoelastic Properties of Co-Based Amorphous Alloy under Torque Operation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kachniarz.fZwGWieHKwk/publications/455d3dfd-a49c-450e-ac92-cb848427d19e",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.558",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.558",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "software",
+    "stress assessment",
+    "ferrite",
+    "85.30.fg",
+    "magnetism",
+    "graphene",
+    "85.75.ss",
+    "02.70.dh",
+    "security equipment",
+    "constructional steel"
+  ],
+  "coworkers": []
+}

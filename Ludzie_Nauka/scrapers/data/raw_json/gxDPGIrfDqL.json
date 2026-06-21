@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL",
+  "slug": "zbigniew.kędra",
+  "profile_id": "gxDPGIrfDqL",
+  "full_name": "dr Zbigniew Kędra",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Zbigniew Kędra",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "drogi kolejowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metody pomiaru i analizy nierówności pionowych toru",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/publications/503dee51-4e5f-4b8f-9aba-9f33f77818c1",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowo-Techniczne Stowarzyszenia Inżynierów i Techników Komunikacji w Krakowie. Seria: Materiały Konferencyjne",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Graniczna wichrowatość toru kolejowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/publications/c811a5b7-b682-4587-b7dd-5959878b80ce",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Komunikacyjny",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Syntetyczne wskaźniki oceny stanu toru",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/publications/8caab76d-16c6-4259-8789-a4bd25945838",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowo-Techniczne Stowarzyszenia Inżynierów i Techników Komunikacji w Krakowie. Seria: Materiały Konferencyjne",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kształtowanie torów w warunkach szybkiej odbudowy linii i węzłów kolejowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/research-work/d30728eb-512c-477e-b3b4-f08c207c9278",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda wielokryteriowej oceny przebudowy układów torowych na szlakach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.k%C4%99dra.gxDPGIrfDqL/research-work/6940c38d-c2ef-45e7-b887-668fc2e13548",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=87613"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

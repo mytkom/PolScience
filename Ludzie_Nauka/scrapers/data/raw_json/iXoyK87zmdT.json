@@ -1,0 +1,281 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT",
+  "slug": "janusz.uriasz",
+  "profile_id": "iXoyK87zmdT",
+  "full_name": "dr hab. inż. Janusz Uriasz",
+  "orcid": "0000-0003-1915-1186",
+  "orcid_url": "https://orcid.org/0000-0003-1915-1186",
+  "breadcrumb_name": "Janusz Uriasz",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "nawigacja morska",
+    "metody sztucznej inteligencji",
+    "nawigacyjne systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie; Wydział Geoinżynierii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41cef3b1-bfa0-4ebc-a090-4859ef8422d6"
+        },
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Wyższa Szkoła Morska w Szczecinie",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "nawigacja",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Morska w Szczecinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1994",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "nawigacja",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Morska w Szczecinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Geodezji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/gremiums/8aa44188-6d27-4811-a88a-711f7da68192",
+      "period": "2015-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/gremiums/9cc1ef25-06d2-4c8f-a542-983b04bc7c14",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/gremiums/11af940d-0298-4cf6-a141-a1d02f86c767",
+      "period": "2012-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigations of Anomalies in Ship Movement During a Voyage",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/publications/94e2e6bb-bffc-40ef-91d9-c4fd67ed55b2",
+      "authors": "M. Wielgosz, Z. Pietrzykowski, J. Uriasz , ... (+1)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Project OPTIMISM: Novel Means of Finding Root Causes of Accidents and Incidence at Sea and Port, as Well as Identifying Key Factors for Improved Safety from Ship Audit and Inspection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/publications/dd1c2893-f171-46ae-ade2-f8f5e36fc6c2",
+      "authors": "R. Ziarati, G. de Melo Rodríguez [...] J. Uriasz , ... (+6)",
+      "publication_type": "Artykuł , TransNav-International Journal on Marine Navigation and Safety of Sea Transportation",
+      "year": "2025",
+      "doi": "10.12716/1001.19.02.08",
+      "doi_url": "https://www.doi.org/10.12716/1001.19.02.08",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sustainable approach to river buoy production using recyclable composites based on thermoplastic polymer wastes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/publications/1983f45e-08be-418a-91f7-5bb4b800b774",
+      "authors": "D. Czarnecka-Komorowska, K. Ćwirko [...] J. Uriasz , ... (+3)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/211689",
+      "doi_url": "https://www.doi.org/10.12913/22998624/211689",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Determination of Ship’s Safe Navigation Lane in the Navigational Information System",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work/347a7169-f2d9-4e40-a360-d21ba6609632",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Identyfikacja i ocena sytuacji nawigacyjnej na akwenie ograniczonym z wykorzystaniem metod sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work/643a82e9-9d54-498d-a7b6-5317cbfe34f6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metoda monitoringu batymetrycznego strefy brzegowej na bazie fuzji wielomodalnych danych geoprzestrzennych pozyskanych przy użyciu sensorów pokładowych bezzałogowych platform pomiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work/c6560d71-48a8-4960-aa4c-7409521f6bcb",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie przydatności zintegrowanych pomiarów georadarowych i GNSS do geodezyjnej inwentaryzacji obiektów i struktur podpowierzchniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work/8053da29-3727-4d94-9f92-ecf2eaefe661",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metody wizualizacji i przetwarzania Elektronicznej Mapy Nawigacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.uriasz.iXoyK87zmdT/research-work/14644f0a-b52c-4b3c-a210-925b9f2fd52d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=110845"
+    }
+  ],
+  "tag_cloud": [
+    "image fusion",
+    "maritime communication",
+    "stcw",
+    "anomalia magnetyczna",
+    "gmdss",
+    "distance learning",
+    "ecdis",
+    "e-navigation",
+    "safety at sea",
+    "onboard information systems"
+  ],
+  "coworkers": []
+}

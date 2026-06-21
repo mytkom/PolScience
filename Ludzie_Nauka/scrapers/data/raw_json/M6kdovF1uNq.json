@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq",
+  "slug": "sylwia.kudła",
+  "profile_id": "M6kdovF1uNq",
+  "full_name": "mgr inż. Sylwia Maria Kudła",
+  "orcid": "0000-0002-9421-483X",
+  "orcid_url": "https://orcid.org/0000-0002-9421-483X",
+  "breadcrumb_name": "Sylwia Kudła",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Uniwersytet Rzeszowski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Longitudinal magnetoresistance in graphene with random Rashba spin-orbit interaction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/publications/e66a9f4b-409e-425b-ac03-da792c0e0ff0",
+      "authors": "S. Kudła , A. Dyrdał, J. Barnaś, ... (+1)",
+      "publication_type": "Artykuł , Physical Review B",
+      "year": "2025",
+      "doi": "10.1103/physrevb.111.075413",
+      "doi_url": "https://www.doi.org/10.1103/physrevb.111.075413",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electron scattering by magnetic quantum dot in topological insulator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/publications/58fb9dab-c436-4cf4-ac56-2607aed0fec6",
+      "authors": "S. Wolski, S. Kudła , V. Dugaev, ... (+2)",
+      "publication_type": "Artykuł , Solid State Communications",
+      "year": "2022",
+      "doi": "10.1016/j.ssc.2021.114555",
+      "doi_url": "https://www.doi.org/10.1016/j.ssc.2021.114555",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Conduction of surface electrons in topological insulator with a spatially random magnetization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwia.kud%C5%82a.M6kdovF1uNq/publications/cce6df69-3256-42cc-92eb-6ed73e2a5ef9",
+      "authors": "J. Barnaś, S. Kudła , A. Dyrdał, ... (+3)",
+      "publication_type": "Artykuł , Physical Review B",
+      "year": "2019",
+      "doi": "10.1103/physrevb.100.205428",
+      "doi_url": "https://www.doi.org/10.1103/physrevb.100.205428",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

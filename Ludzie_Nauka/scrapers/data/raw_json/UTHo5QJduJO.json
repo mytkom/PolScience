@@ -1,0 +1,261 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO",
+  "slug": "anna.korzeniewska-lasota",
+  "profile_id": "UTHo5QJduJO",
+  "full_name": "dr hab. Anna Korzeniewska-Lasota",
+  "orcid": "0000-0002-2072-2807",
+  "orcid_url": "https://orcid.org/0000-0002-2072-2807",
+  "breadcrumb_name": "Anna Korzeniewska-Lasota",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+    "Uniwersytet Pomorski w Słupsku"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "historia najnowsza",
+    "mniejszości narodowe",
+    "prawo konstytucyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Akademia Pomorska w Słupsku Aktualna nazwa: Uniwersytet Pomorski w Słupsku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c2e40008-ad66-4712-8be8-e06fa7235fd2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "19 lat 3 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Warmińsko-Mazurski w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki prawne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki prawne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Uniwersytet Pomorski w Słupsku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c2e40008-ad66-4712-8be8-e06fa7235fd2"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / historia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d"
+        },
+        {
+          "label": "Uniwersytet Pomorski w Słupsku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c2e40008-ad66-4712-8be8-e06fa7235fd2"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "politologia",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Pedagogiczna w Olsztynie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Model urzędu sędziego w myśli politycznej Leona Chajna",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/publications/5fdc70ac-899e-403f-a802-ec9e913b7676",
+      "authors": null,
+      "publication_type": "Artykuł , Prawo i Więź",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The Right to Claim Compensation as a Result of Leaving Property beyond the Current Borders of the Poland Republic",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/publications/204c5991-9060-4435-88a6-bb18b3d1dcc4",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Law",
+      "year": "2025",
+      "doi": "10.60131/jlaw.2.2024.8314",
+      "doi_url": "https://www.doi.org/10.60131/jlaw.2.2024.8314",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Prace parlamentarne nad projektami ustaw reprywatyzacyjnych w Senacie I i Sejmie X kadencji",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/publications/2f6ba917-85c1-434f-8dcc-4fc43d04eade",
+      "authors": null,
+      "publication_type": "Artykuł , Prawo i Więź",
+      "year": "2024",
+      "doi": "10.36128/priw.vi52.2",
+      "doi_url": "https://www.doi.org/10.36128/priw.vi52.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Państwo, właściciele i ich spadkobiercy wobec mienia pozostawionego przez obywateli polskich w województwach wschodnich międzywojennej Rzeczypospolitej. Studium historyczno-prawne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/research-work/72371f48-0b5b-4d18-b421-81cace6ad406",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Życie społeczne i religijne Ukraińców na Warmii i Mazurach w latach 1947-1970",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/research-work/471cc9cd-4650-49c7-871a-4b3e7b468c28",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Instytucje ubezpieczeń społecznych na Śląsku (1871-1945). Wybrane zagadnienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/research-work/c7bd39fa-a94f-4e69-beb9-88506f561b3f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Umowa o zbycie spadku w polskim prawie spadkowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.korzeniewska-lasota.UTHo5QJduJO/research-work/d26ea40c-d546-42c0-881c-647f65dfa2d6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=123890"
+    }
+  ],
+  "tag_cloud": [
+    "prawo do rekompensaty",
+    "reparacje wojenne",
+    "repatriacja",
+    "right to reconciliation of the value of property",
+    "ustawa zabużańska",
+    "mienie zabużańskie",
+    "prawo zaliczenia",
+    "prawo własności",
+    "people who lived on the former polish territories beyond the bug river",
+    "property left beyond the bug river"
+  ],
+  "coworkers": []
+}

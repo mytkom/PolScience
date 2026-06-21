@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw",
+  "slug": "zbigniew.czaja",
+  "profile_id": "V6ILzkWfoDw",
+  "full_name": "dr hab. inż. Zbigniew Czaja",
+  "orcid": "0000-0001-9022-4101",
+  "orcid_url": "https://orcid.org/0000-0001-9022-4101",
+  "breadcrumb_name": "Zbigniew Czaja",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "diagnostyka elektroniczna",
+    "metrologia",
+    "systemy elektroniczne",
+    "diagnostyka układów analogowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Simple Measurement Method for Resistive Sensors Based on ADCs of Microcontrollers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/publications/c7485581-adfb-4305-9773-3f8edd89aaec",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2024",
+      "doi": "10.1109/jsen.2023.3341214",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2023.3341214",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A New Approach to Capacitive Sensor Measurements Based on a Microcontroller and a Three-Gate Stable RC Oscillator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/publications/fc3e0072-35f1-4813-9fe2-7959bdb749c5",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Transactions on Instrumentation and Measurement",
+      "year": "2023",
+      "doi": "10.1109/tim.2023.3244851",
+      "doi_url": "https://www.doi.org/10.1109/tim.2023.3244851",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Measurement method for capacitive sensors for microcontrollers based on a phase shifter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/publications/a93e89bb-93cc-4482-8dcf-baee16aff3b6",
+      "authors": null,
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2022",
+      "doi": "10.1016/j.measurement.2022.110890",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2022.110890",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Jednotematyczny cykl publikacji zatytułowany \"Metody diagnostyczne i środki do testowania, samo-testowania i identyfikacji parametrycznej części analogowych elektronicznych systemów wbudowanych\"",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/research-work/8c1060d8-a436-43f0-ad4b-33b69fed2a2c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wejściowo-wyjściowa diagnostyka analogowych układów elektronicznych oparta na przekształceniu biliniowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.czaja.V6ILzkWfoDw/research-work/eef5c3ee-f577-4a38-9566-4c943d99495b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=104013"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU",
+  "slug": "maciej.zakarczemny",
+  "profile_id": "1J3BrXvWUOU",
+  "full_name": "dr Maciej Zakarczemny",
+  "orcid": "0000-0002-7202-1244",
+  "orcid_url": "https://orcid.org/0000-0002-7202-1244",
+  "breadcrumb_name": "Maciej Zakarczemny",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria liczb"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Matematyczny Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Note on DNA analysis and redesigning using Markov chain",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/publications/ae14736f-3578-43a8-a0b1-b558a30601f3",
+      "authors": "M. Zakarczemny , K. Grzeszczuk-Kuć",
+      "publication_type": "Artykuł , Genes",
+      "year": "2022",
+      "doi": "10.3390/genes13030554",
+      "doi_url": "https://www.doi.org/10.3390/genes13030554",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Note on the Davenport constant for finite abelian groups with rank three",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/publications/921b7b04-4158-4cae-9066-c42caba07909",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Mathematica Universitatis Comenianae",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On the equal sum and product problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/publications/957f7ca1-1237-41d5-ada4-568f4f7607b0",
+      "authors": null,
+      "publication_type": "Artykuł , Acta Mathematica Universitatis Comenianae",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakarczemny.1J3BrXvWUOU/research-work/87c1c9a1-7320-43c1-bce3-0fa131243923",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=259583"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,272 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ",
+  "slug": "piotr.krawczyk",
+  "profile_id": "jnDsvMjdoOZ",
+  "full_name": "prof. dr hab. Piotr Krawczyk",
+  "orcid": "0000-0001-6083-9316",
+  "orcid_url": "https://orcid.org/0000-0001-6083-9316",
+  "breadcrumb_name": "Piotr Krawczyk",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "elektrochemia techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5a218395-7880-4d1c-a97c-7db297b065cc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / technologia chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1994",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia środowiska",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/gremiums/b2c3e283-51b3-4143-842d-2a2e66779528",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Exfoliated Graphite as a Solid Sorbent in Ultrasound-Assisted Dispersive Micro-Solid-Phase Extraction for Determination of Chromium and Vanadium in Herbs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/publications/4fcc8258-8bf7-469b-9e53-2fe811edc3a3",
+      "authors": "M. Osińska, P. Krawczyk , M. Krawczyk-Coda",
+      "publication_type": "Artykuł , Foods",
+      "year": "2025",
+      "doi": "10.3390/foods14234075",
+      "doi_url": "https://www.doi.org/10.3390/foods14234075",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrodeposited hydroxyapatite coating on titanium after ultrashort-pulsed laser processing for a novel surface of endosseous implants.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/publications/070efd01-1405-4358-928e-d369aa0e2d9e",
+      "authors": "M. Łukaszewska-Kuska, P. Krawczyk , A. Barylyak, ... (+8)",
+      "publication_type": "Artykuł , Dental and Medical Problems",
+      "year": "2024",
+      "doi": "10.17219/dmp/175612",
+      "doi_url": "https://www.doi.org/10.17219/dmp/175612",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Led-induced deposition of Pt and Au NPs on carbon fibers: Developing a novel strategy for facile fabrication of electrocatalysts for enhanced methanol electrooxidation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/publications/eadf3119-5f68-4d3f-93aa-7bbe2e1409a7",
+      "authors": "A. Kubiak, T. Rozmanowski [...] P. Krawczyk , ... (+4)",
+      "publication_type": "Artykuł , Chemical Engineering Journal",
+      "year": "2024",
+      "doi": "10.1016/j.cej.2024.152546",
+      "doi_url": "https://www.doi.org/10.1016/j.cej.2024.152546",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/e99111bf-b073-4a67-80e2-e9953aebd65f",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Aktywacja oraz regeneracja elektrod z ekspandowanego grafitu stosowanych w procesie elektrochemicznego utleniania fenolu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/6aaeeebb-eecc-4e8b-8dd1-a29639ffdb8e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Elektrochemiczne właściwości oraz modyfikacja wybranych materiałów węglowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/ac822ae0-a76a-4b7e-b4ed-dd2f8ce80a85",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Tlenek grafitu otrzymywany metodą elektrochemiczną: utlenianie, funkcjonalizacja, tworzenie klastrów tlenowych, elektrochemiczne osadzanie niklu i charakterystyka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/9c7fc0e8-b2ca-4798-955c-162407ec8fd6",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Procesy eksfoliacji tlenków grafitu otrzymywanych elektrochemicznie w wodnych roztworach kwasu chlorowego(VII) lub siarkowego(VI)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/6286fa11-6a1c-4b90-841d-266a5801eb9c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Waloryzacja glicerolu z zastosowaniem katalizatorów węglowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/9ac6e2a6-a2ba-4cd9-9baa-3757e1eedc82",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wdrożenie do produkcji nowego gatunku węgla aktywnego do usuwania pestycydów i ich metabolitów w uzdatnianiu wody do picia.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/d838cc65-8c9b-4fc4-99de-79a84bf350d3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Preparatyka i badanie materiałów do powierzchni samooczyszczających na bazie TiO 2",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.krawczyk.jnDsvMjdoOZ/research-work/c1c23b19-281a-41c8-8c22-1666eb23e78c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92358"
+    }
+  ],
+  "tag_cloud": [
+    "photo-oxidation",
+    "carbon fibre",
+    "titania",
+    "photocatalysis",
+    "carbon fiber",
+    "lanthanides",
+    "ozone treatment",
+    "activated carbon",
+    "phenol oxidation",
+    "fiber/matrix bond"
+  ],
+  "coworkers": []
+}

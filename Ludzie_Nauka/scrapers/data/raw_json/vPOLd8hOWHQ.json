@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ",
+  "slug": "gracjan.kątek",
+  "profile_id": "vPOLd8hOWHQ",
+  "full_name": "mgr inż. Gracjan Łukasz Kątek",
+  "orcid": "0000-0002-4445-0447",
+  "orcid_url": "https://orcid.org/0000-0002-4445-0447",
+  "breadcrumb_name": "Gracjan Kątek",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka stosowana",
+        "Nadanie tytułu",
+        "Uniwersytet Technologiczno-Przyrodniczy im. J. i J. Śniadeckich w Bydgoszczy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "In depth analysis for securing the truth: Addressing the fake news challenge with graph neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/publications/8a713735-6c9d-4b5c-8c5f-f6fb4c554baf",
+      "authors": "G. Kątek , R. Kozik, M. Pawlicki, ... (+2)",
+      "publication_type": "Artykuł , Neurocomputing",
+      "year": "2025",
+      "doi": "10.1016/j.neucom.2025.131327",
+      "doi_url": "https://www.doi.org/10.1016/j.neucom.2025.131327",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Involving society to protect society from fake news and disinformation: crowdsourced datasets and text reliability assessment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/publications/b1204994-de73-409c-9f79-bb73aed9d79c",
+      "authors": "G. Kątek , M. Gackowska-Kątek, M. Gackowska, ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-981-97-4985-0_30",
+      "doi_url": "https://www.doi.org/10.1007/978-981-97-4985-0_30",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Towards explainable fake news detection and automated content credibility assessment: Polish internet and digital media use-case",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gracjan.k%C4%85tek.vPOLd8hOWHQ/publications/9a1a14a5-c576-4539-983d-65f8b385d39c",
+      "authors": "R. Kozik, J. Komorniczak, G. Kątek , ... (+8)",
+      "publication_type": "Artykuł , Neurocomputing",
+      "year": "2024",
+      "doi": "10.1016/j.neucom.2024.128450",
+      "doi_url": "https://www.doi.org/10.1016/j.neucom.2024.128450",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

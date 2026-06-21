@@ -1,0 +1,149 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA",
+  "slug": "jakub.wiech",
+  "profile_id": "skqkX4Ly7nA",
+  "full_name": "dr inż. Jakub Antoni Wiech",
+  "orcid": "0000-0002-6236-5377",
+  "orcid_url": "https://orcid.org/0000-0002-6236-5377",
+  "breadcrumb_name": "Jakub Wiech",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Obstacle avoidance of a wheeled robotic swarm using virtual spring-damper mesh",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/publications/054a9c62-16f6-433a-a4a3-eaafbf86ca26",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Dynamics and Control",
+      "year": "2023",
+      "doi": "10.1007/s40435-023-01173-x",
+      "doi_url": "https://www.doi.org/10.1007/s40435-023-01173-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Podążanie za zadaną trajektorią grupy robotów kołowych z użyciem wirtualnych połączeń sprężysto-tłumiących",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/publications/269a5fde-663e-4269-bf77-7732695e8e5b",
+      "authors": null,
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2023",
+      "doi": "10.14313/par_249/107",
+      "doi_url": "https://www.doi.org/10.14313/par_249/107",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Self-organization of a wheeled robotic swarm using virtual spring-damper mesh",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.wiech.skqkX4Ly7nA/publications/3a013d63-8153-40ef-af94-4eca8c23f7fa",
+      "authors": null,
+      "publication_type": "Artykuł , IAES International Journal of Robotics and Automation (IJRA)",
+      "year": "2023",
+      "doi": "10.11591/ijra.v12i1.pp68-83",
+      "doi_url": "https://www.doi.org/10.11591/ijra.v12i1.pp68-83",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=293178"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD",
+  "slug": "grzegorz.graff",
+  "profile_id": "LGjwzdVmCHD",
+  "full_name": "prof. dr hab. Grzegorz Graff",
+  "orcid": "0000-0001-5670-5729",
+  "orcid_url": "https://orcid.org/0000-0001-5670-5729",
+  "breadcrumb_name": "Grzegorz Graff",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "topologia",
+    "układy dynamiczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / socjologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7fe045d3-8e37-4760-b8db-075f13a6dce9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1991",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Dold Coefficients of Quasi-unipotent Homeomorphisms of Orientable Surfaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/publications/2857c477-0fda-42a8-84d2-14c914849ed5",
+      "authors": "G. Graff , W. Marzantowicz, Ł. Michalak",
+      "publication_type": "Artykuł , Qualitative Theory of Dynamical Systems",
+      "year": "2025",
+      "doi": "10.1007/s12346-025-01275-1;10.48550/arxiv.2411.19313",
+      "doi_url": "https://www.doi.org/10.1007/s12346-025-01275-1;10.48550/arxiv.2411.19313",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Dold Coefficients of Quasi-unipotent Homeomorphisms of Orientable Surfaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/publications/f9cde15d-00d6-4be0-95f7-4c9b8b6cee5b",
+      "authors": "G. Graff , W. Marzantowicz, Ł. Michalak",
+      "publication_type": "Artykuł , Qualitative Theory of Dynamical Systems",
+      "year": "2025",
+      "doi": "10.1007/s12346-025-01275-1",
+      "doi_url": "https://www.doi.org/10.1007/s12346-025-01275-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Every finite set of natural numbers is realizable as algebraic periods of a Morse–Smale diffeomorphism",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/publications/b8362425-3beb-4f3c-b161-e109d83edbd2",
+      "authors": "G. Graff , G. Grzegorz, W. Marzantowicz, ... (+4)",
+      "publication_type": "Artykuł , Discrete and Continuous Dynamical Systems",
+      "year": "2025",
+      "doi": "10.3934/dcds.2025065",
+      "doi_url": "https://www.doi.org/10.3934/dcds.2025065",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Indeksy punktu stałego iteracji i punkty periodyczne odwzorowań gładkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/5e9c1444-a0ea-4d0c-ab46-4c3672a2d684",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Etyczna koncepcja zaufania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/49eb355d-6545-4edc-8622-929fd06cd8f9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Okresy minimalne odwzorowań gładkich na rozmaitościach o zadanej strukturze pierścienia kohomologii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/f029a809-0a53-4f72-b88d-ee2432ef5a89",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Typ homotopijny przestrzeni odwzorowań gradientowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/5a87c81e-a8ce-40a4-bf0f-d86843a279cd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Topologiczne niezmienniki w gładkiej teorii punktów periodycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/eaec51f7-0a3e-487d-ab9a-7ebf28a5cfa8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "A study of loosely Kronecker flows and maps via FK-pseudometric and vague specification",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/8cb36090-1677-4a47-88c4-c3ba2a357337",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/2dfd5ce7-3adf-4956-a8fa-f339bd650f75",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Combinatorial dynamics in the study of classical dynamical systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.graff.LGjwzdVmCHD/research-work/1e4eb433-cdb7-4e7e-bb1d-411d4b2c9386",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85746"
+    }
+  ],
+  "tag_cloud": [
+    "morse–smale diffeomorphism",
+    "grupy liego",
+    "inverse saddle",
+    "fixed point index",
+    "lefschetz number",
+    "periodic points",
+    "time series analysis",
+    "wielościan",
+    "nielsen number",
+    "heart rate variability"
+  ],
+  "coworkers": []
+}

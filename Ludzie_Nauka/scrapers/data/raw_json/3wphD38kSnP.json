@@ -1,0 +1,302 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP",
+  "slug": "przemysław.rokita",
+  "profile_id": "3wphD38kSnP",
+  "full_name": "prof. dr hab. inż. Przemysław Stefan Rokita",
+  "orcid": "0000-0002-4433-2133",
+  "orcid_url": "https://orcid.org/0000-0002-4433-2133",
+  "breadcrumb_name": "Przemysław Rokita",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "grafika komputerowa",
+    "inżynieria komputerowa",
+    "przetwarzanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "16 lat",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "9 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Agrobiznesu w Łomży Aktualna nazwa: Międzynarodowa Akademia Nauk Stosowanych w Łomży",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c7212d0-2c9e-4105-8dd7-c9a54c862bc2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1985",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Przemysław Rokita"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "$J/\\psi$-hadron correlations at midrapidity in pp collisions at $\\sqrt{s}=13$ TeV",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/publications/bc8c8b18-fe8d-4140-a2fe-3dc9cb488b5a",
+      "authors": "P. Chakraborty, S. Acharya [...] P. Rokita , ... (+1347)",
+      "publication_type": "Artykuł , Journal of High Energy Physics",
+      "year": "2025",
+      "doi": "10.1007/jhep07(2025)023",
+      "doi_url": "https://www.doi.org/10.1007/jhep07(2025)023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Charged-particle multiplicity distributions over a wide pseudorapidity range in p–Pb collisions at $\\sqrt{s_{NN}}$=5.02 TeV",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/publications/725a7203-2c42-45c7-b2b3-5e04254b7175",
+      "authors": "S. Upadhyaya, P. Chakraborty [...] P. Rokita , ... (+1129)",
+      "publication_type": "Artykuł , European Physical Journal C",
+      "year": "2025",
+      "doi": "10.1140/epjc/s10052-025-14577-0",
+      "doi_url": "https://www.doi.org/10.1140/epjc/s10052-025-14577-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Direct-photon production in inelastic and high-multiplicity proton–proton collisions at $\\sqrt{s}$ = 13 TeV",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/publications/885b8639-781e-42a3-a7fc-8e9d5c23bd3f",
+      "authors": "P. Chakraborty, S. Acharya [...] P. Rokita , ... (+1156)",
+      "publication_type": "Artykuł , Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
+      "year": "2025",
+      "doi": "10.1016/j.physletb.2025.139645",
+      "doi_url": "https://www.doi.org/10.1016/j.physletb.2025.139645",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Problemy łączenia obrazów generowanych metodami grafiki komputerowej z obrazami rzeczywistymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/90eb32b5-6189-442c-9e5b-c5670e6d744e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie wybranych zjawisk optycznych dla potrzeb cyfrowej generacji obrazów w czasie rzeczywistym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/a481a0af-8666-489b-b325-bc17d28b6ad7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Proceduralna generacja edytowalnego trójwymiarowego modelu terenu na podstawie wybranych cech oraz schematycznych map dwuwymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/d8619f7a-1a75-4c8c-a30a-6e99598f65ad",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Estimation and application of depth information in generation of view dependent effects in digital image synthesis (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/9418daae-f19a-4226-9df7-1bbea8a90d7f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda rozpoznawania twarzy wykorzystująca model trójwymiarowy uzyskany na podstawie sekwencji obrazów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/63f7a294-85d3-4fed-a06e-d329ab19b212",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metoda wyszukiwania dopasowań obrazów obiektów 2D na podstawie analizy konturów przy wykorzystaniu miar lingwistycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/3cb3a528-ff6e-434a-a2db-b6b83ecc2914",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/e8b61aba-150d-4778-b950-9307b0155bc7",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Efektywne metody symulacji atmosferycznego rozproszenia światła słonecznego w systemach informatycznych czasu rzeczywistego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.rokita.3wphD38kSnP/research-work/e0635a4d-c3b1-4e81-aa57-8f7a00d249e2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=15413"
+    }
+  ],
+  "tag_cloud": [
+    "heavy-ion collisions",
+    "rapidity",
+    "cern lhc coll",
+    "transverse momentum",
+    "alice",
+    "experimental results",
+    "heavy ion experiments",
+    "heavy ion: scattering",
+    "p p: scattering",
+    "quark gluon plasma"
+  ],
+  "coworkers": []
+}

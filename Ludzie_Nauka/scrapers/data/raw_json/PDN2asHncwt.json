@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt",
+  "slug": "jakub.pawlicki",
+  "profile_id": "PDN2asHncwt",
+  "full_name": "dr inż. Jakub Rafał Pawlicki",
+  "orcid": "0000-0001-6898-506X",
+  "orcid_url": "https://orcid.org/0000-0001-6898-506X",
+  "breadcrumb_name": "Jakub Pawlicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika ciała stałego",
+    "mechanika konstrukcji",
+    "wytrzymałość materiałów i konstrukcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of foamed glass structure under thermal shocks and their impact on local breaking strength",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/publications/462cfb4a-b6a1-48d6-b071-af0efeea48ac",
+      "authors": "A. Mościcki, J. Pawlicki , A. Kopytowski, ... (+2)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-03209-y",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-03209-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Improving the fire protection system of the heat exchanger tube sheet",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/publications/75ef8e96-4054-46bb-811a-b1ff3ddf7c14",
+      "authors": "F. Parol, J. Pawlicki",
+      "publication_type": "Artykuł , Archive of Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.24425/ame.2025.155868",
+      "doi_url": "https://www.doi.org/10.24425/ame.2025.155868",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Badanie ciśnienia gazu zamkniętego wewnątrz struktury spienionego szkła",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/publications/fe00f35a-b988-47ed-a351-833196817bd6",
+      "authors": "A. Mościcki, J. Pawlicki",
+      "publication_type": "Artykuł , Przemysł Chemiczny",
+      "year": "2024",
+      "doi": "10.15199/62.2024.12.14",
+      "doi_url": "https://www.doi.org/10.15199/62.2024.12.14",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Redystrybucja naprężeń własnych w sprężysto-plastycznym procesie wibracyjnego odprężania konstrukcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/research-work/23a181a3-f07c-4b85-9e61-99d9503b329a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Mechanizm zniszczenia materiałów komórkowych wykonanych ze spienionego szkła",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.pawlicki.PDN2asHncwt/research-work/5693e27b-76a2-4aca-a1f0-d82cf06324a1",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=30017"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

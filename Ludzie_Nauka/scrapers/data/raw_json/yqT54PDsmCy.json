@@ -1,0 +1,205 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy",
+  "slug": "tomasz.marciniak",
+  "profile_id": "yqT54PDsmCy",
+  "full_name": "dr inż. Tomasz Marciniak",
+  "orcid": "0000-0002-0862-8500",
+  "orcid_url": "https://orcid.org/0000-0002-0862-8500",
+  "breadcrumb_name": "Tomasz Marciniak",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Gospodarki w Bydgoszczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/60b9afe6-5246-491a-85c7-466fcfa8c639",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich; Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80f2b7b7-85c7-4ef1-a01c-c4dd2e41058f"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "ATR Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/gremiums/cf401882-1086-4daf-85cf-868eafe19877",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fuzzy game-theoretic optimization for sustainable cloud computing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/publications/6fb31f66-9a55-459c-874e-7a17600c8654",
+      "authors": "F. Carrascosa, F. Maldonado-Carrascosa [...] T. Marciniak , ... (+7)",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2025",
+      "doi": "10.1016/j.engappai.2025.112725",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2025.112725",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Predicting preterm birth using machine learning methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/publications/cd279494-6195-4c87-8911-40ed2450f40f",
+      "authors": "S. Kloska, A. Kloska [...] T. Marciniak , ... (+2)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-89905-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-89905-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Compressive Sensing-Based Channel Estimation for Uplink and Downlink Reconfigurable Intelligent Surface-Aided Millimeter Wave Massive MIMO Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/publications/80d6a2c9-36f3-4474-bdc4-d14b304350c9",
+      "authors": "A. Flizikowski, T. Marciniak , O. Oyerinde, ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Cyfrowa filtracja dopasowania sygnałów szerokopasmowych w dziedzinie czasu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/research-work/73538eca-1ea5-4a16-9f86-bc59dc579234",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Methods for energy metabolism modeling using queueing theory",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.marciniak.yqT54PDsmCy/research-work/7b387677-db8a-4ebb-a3fc-36d1bbd443c0",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=125941"
+    }
+  ],
+  "tag_cloud": [
+    "distributed renewable energy resources",
+    "cell growth",
+    "systems biology",
+    "graph",
+    "simulation",
+    "telecommunication network",
+    "computational platforms and environments",
+    "expert systems",
+    "ancillary services",
+    "optimization"
+  ],
+  "coworkers": []
+}

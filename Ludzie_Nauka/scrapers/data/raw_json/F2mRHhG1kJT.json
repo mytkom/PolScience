@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT",
+  "slug": "julian.balcerek",
+  "profile_id": "F2mRHhG1kJT",
+  "full_name": "dr inż. Julian Balcerek",
+  "orcid": "0000-0003-1317-9866",
+  "orcid_url": "https://orcid.org/0000-0003-1317-9866",
+  "breadcrumb_name": "Julian Balcerek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "wizyjne systemy robotyki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i zarządzanie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automatyczne rozpoznawanie powalonych drzew na drogach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/publications/0344895c-3dd6-4e61-9f74-3114ee4f475c",
+      "authors": "J. Balcerek , P. Pawłowski, T. Stankiewicz, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.11.21",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.11.21",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Interaction-Based Vehicle Automation Model for Intelligent Vision Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/publications/f598fb59-946f-4132-a143-29fbade06cd9",
+      "authors": "J. Balcerek , P. Pawłowski",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14173406",
+      "doi_url": "https://www.doi.org/10.3390/electronics14173406",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Automatyczne rozpoznawanie elementów polskich pojazdów historycznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/publications/8652c9b1-27a3-4d7b-9398-f7797c6198cc",
+      "authors": "J. Balcerek , A. Dąbrowski, P. Pawłowski, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.10.43",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.10.43",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Interfejsy człowiek-komputer do wspomagania automatycznego rozpoznawania zagrożeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julian.balcerek.F2mRHhG1kJT/research-work/3e949488-a478-41cf-b619-fa4a9dd572e0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281392"
+    }
+  ],
+  "tag_cloud": [
+    "video recorders",
+    "artificial neural network",
+    "system wizyjny",
+    "vision system",
+    "image processing",
+    "image recognition",
+    "artificial neural networks",
+    "sztuczne sieci neuronowe",
+    "analiza obrazów",
+    "user support"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme",
+  "slug": "jakub.marszałkowski",
+  "profile_id": "G35NtAeZyme",
+  "full_name": "dr inż. Jakub Marszałkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jakub Marszałkowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optymilizacja kombinatoryczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of reliability and scalability for stochastic optimization workflow flexibility",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/publications/d32f6e26-d8ae-402c-8b2b-02e1df5c7521",
+      "authors": "M. Drozdowski, J. Wawrzyniak, J. Marszałkowski",
+      "publication_type": "Artykuł , Future Generation Computer Systems",
+      "year": "2026",
+      "doi": "10.1016/j.future.2025.107976",
+      "doi_url": "https://www.doi.org/10.1016/j.future.2025.107976",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Machine Learning Summit: Panel: All You Can Ask! Day 2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/publications/c6d04332-6dda-4a01-9052-f315443a0196",
+      "authors": "J. Marszałkowski , J. Merceron, S. Habchi, ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Would You Like Fries with That? AI-Assisted Recommendations in Development",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/publications/7ac22e06-19db-459c-af32-7af7e2c6a31a",
+      "authors": "J. Marszałkowski , M. Pilski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Problemy optymalizacji kombinatorycznej w aplikacjach internetowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.marsza%C5%82kowski.G35NtAeZyme/research-work/cb5e2e53-d437-4dc3-b3c1-3340837e4353",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=284779"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

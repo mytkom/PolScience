@@ -1,0 +1,235 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T",
+  "slug": "jerzy.rembeza",
+  "profile_id": "9z5wyBWTW5T",
+  "full_name": "dr hab. inż. Jerzy Waldemar Rembeza",
+  "orcid": "0000-0001-8764-5538",
+  "orcid_url": "https://orcid.org/0000-0001-8764-5538",
+  "breadcrumb_name": "Jerzy Rembeza",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ekonomika rolnictwa",
+    "makroekonomia",
+    "rynki terminowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "26 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "32 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Instytut Hodowli i Aklimatyzacji Roślin - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b464c7a7-69dc-45c8-8163-705096a92b18",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/40ee9e13-51b8-4fde-b8b0-e9fb7505c3b9"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "rolnictwo",
+        "Nadanie tytułu",
+        "Akademia Rolnicza w Poznaniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Have the Links Between Natural Gas and Coal Prices Changed over Time? Evidence for European and Pacific Markets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/publications/a309d155-93c4-4208-ab40-0732c36869db",
+      "authors": "J. Rembeza , D. Katarzyński",
+      "publication_type": "Artykuł , ENERGIES",
+      "year": "2025",
+      "doi": "10.3390/en18092201",
+      "doi_url": "https://www.doi.org/10.3390/en18092201",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Influence of the Industry’s Output on Electricity Prices: Comparison of the Nord Pool and HUPX Markets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/publications/9c2c3d5d-010e-41c9-875e-53325855241f",
+      "authors": "J. Rembeza , G. Przekota",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15166044",
+      "doi_url": "https://www.doi.org/10.3390/en15166044",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Międzynarodowe rynki energii",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/publications/81ab2a81-78fa-4c40-a513-438a984278e1",
+      "authors": "J. Rembeza , G. Przekota",
+      "publication_type": "Książka , Politechnika Koszalińska",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Integracja rynków rolnych w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/research-work/0104a3f5-c728-4f19-b702-8d805a266e38",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Czynniki wzrostu ekonomicznej efektywności produkcji ziemniaków",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/research-work/675e7c2b-43ce-46cf-bb22-9d93ec9b1fbe",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Proces transmisji cen na rynku zbóż i produktów zbożowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rembeza.9z5wyBWTW5T/research-work/901d79dd-d2eb-4f91-9dd6-c7a221a4683f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=29895"
+    }
+  ],
+  "tag_cloud": [
+    "economic situation",
+    "domestic market",
+    "suburbs",
+    "unemployment",
+    "bezrobocie",
+    "gdp",
+    "cykl gospodarczy",
+    "spatial differentiation",
+    "multi-level analysis",
+    "sezonowość"
+  ],
+  "coworkers": []
+}

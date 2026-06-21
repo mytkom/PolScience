@@ -1,0 +1,152 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB",
+  "slug": "paweł.syty",
+  "profile_id": "t2ZJqUzM6nB",
+  "full_name": "dr Paweł Syty",
+  "orcid": "0000-0002-9719-0861",
+  "orcid_url": "https://orcid.org/0000-0002-9719-0861",
+  "breadcrumb_name": "Paweł Syty",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka atomowa",
+    "fizyka obliczeniowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "GRASPC – GRASP package adapted for the generation of continuum orbitals wave functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/publications/07b6fb89-10b7-42ee-a033-d8ff64c76a8a",
+      "authors": "P. Syty , M. Piłat, J. Sienkiewicz",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2025",
+      "doi": "10.1016/j.cpc.2025.109691",
+      "doi_url": "https://www.doi.org/10.1016/j.cpc.2025.109691",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Graspc - Grasp Package Adapted for the Generation of Continuum Orbitals Wave Functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/publications/1a10d5ac-12f4-4a05-a562-fbd8ec0becff",
+      "authors": "P. Syty , M. Piłat, J. Sienkiewicz",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2025",
+      "doi": "10.2139/ssrn.5201133;10.1016/j.cpc.2025.109691",
+      "doi_url": "https://www.doi.org/10.2139/ssrn.5201133;10.1016/j.cpc.2025.109691",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "SCADA-Based Offshore Wind Turbine Monitoring: A Review of Methods of Addressing Marine Environmental Challenges",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/publications/b4826d9c-6e37-45b7-9567-362b38400fbf",
+      "authors": "K. Wrzask, A. Kołakowska [...] P. Syty , ... (+3)",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0061",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0061",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Relatywistyczna metoda wielokonfiguracyjna w obliczeniach atomowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.syty.t2ZJqUzM6nB/research-work/e0c5b32d-983e-4f26-9141-d0f89b4b1e53",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=135167"
+    }
+  ],
+  "tag_cloud": [
+    "j-matrix method",
+    "osobowość",
+    "neural networks",
+    "eeg",
+    "imagery",
+    "artificial neural network",
+    "poziom przewodnictwa skórnego",
+    "plasmon resonance",
+    "multiconfiguration dirac-hartree-fock",
+    "phase shifts"
+  ],
+  "coworkers": []
+}

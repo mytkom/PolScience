@@ -1,0 +1,180 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0",
+  "slug": "grzegorz.piecuch",
+  "profile_id": "diH3zyjwJK0",
+  "full_name": "dr inż. Grzegorz Paweł Piecuch",
+  "orcid": "0000-0003-4095-9112",
+  "orcid_url": "https://orcid.org/0000-0003-4095-9112",
+  "breadcrumb_name": "Grzegorz Piecuch",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A new open dataset from a milling process – data for classifcation and estimation of tool life",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/publications/a5cb6fc7-5aa2-4f68-91f8-f1f9ccf766bc",
+      "authors": "G. Piecuch , T. Żabiński",
+      "publication_type": "Artykuł , Scientific Data",
+      "year": "2025",
+      "doi": "10.1038/s41597-025-04923-y",
+      "doi_url": "https://www.doi.org/10.1038/s41597-025-04923-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Tool Wear Prediction Using Smart Data and Advanced Change Point Detection Techniques for Optimized Replacement Timing in Manufacturing Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/publications/b4d40ee0-0f30-479d-be9d-7df02b4c26a1",
+      "authors": "M. Janik, G. Piecuch , P. Sobecki, ... (+3)",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2025.11.854",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2025.11.854",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Virtual tomography as a novel method for segmenting machining process phases with the use of machine learning-supported measurement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.piecuch.diH3zyjwJK0/publications/f22c071f-7338-4629-ac17-473ad340cf03",
+      "authors": "D. Mazurkiewicz, P. Sobecki [...] G. Piecuch , ... (+1)",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2024",
+      "doi": "10.1016/j.eswa.2024.123945",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2024.123945",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=278745"
+    }
+  ],
+  "tag_cloud": [
+    "machine learning",
+    "digitalization",
+    "virtual tomography",
+    "data processing",
+    "process diagnosing",
+    "smart structures",
+    "digital twin",
+    "anomaly detection",
+    "extrusion process",
+    "multi-sensor measurement"
+  ],
+  "coworkers": []
+}

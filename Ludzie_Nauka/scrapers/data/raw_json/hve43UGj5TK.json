@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK",
+  "slug": "krzysztof.kowalik",
+  "profile_id": "hve43UGj5TK",
+  "full_name": "dr hab. Krzysztof Kowalik",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Krzysztof Kowalik",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "historia myśli społecznej",
+    "teologia dogmatyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9d3664e2-2c7a-448a-9fb2-278de61e6136",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Gdański",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki teologiczne / bez dyscyplin",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Katolicki Uniwersytet Lubelski Jana Pawła II; Wydział Teologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/565b8f26-09ec-44c2-873a-cefc7b5b5308"
+        },
+        {
+          "label": "Katolicki Uniwersytet Lubelski Jana Pawła II >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d3664e2-2c7a-448a-9fb2-278de61e6136"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk teologicznych / brak na dyplomie",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9d3664e2-2c7a-448a-9fb2-278de61e6136"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "teologia",
+        "Nadanie tytułu",
+        "KATOLICKI UNIWERSYTET LUBELSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Sozialpädagogische Aspekte des Strafvollzugs während der Durchführung einer alkohol – und drogenschutzrechtlichen Behandlung während der Verbüßung einer Freiheitsstrafe",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/publications/e6ff0d70-c2c2-4434-9478-7a6889885849",
+      "authors": "E. Hronec, P. Jusko, K. Kowalik",
+      "publication_type": "Książka , Oficyna Wydawnicza Politechniki Opolskiej",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dziedzictwo kulturowe w procesie rozwoju kapitału społecznego, ekonomicznego i środowiskowego na Śląsku Opolskim (w świetle wyników badań ankietowych)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/publications/d8bc1090-3aea-41f3-bb41-4556c7a39417",
+      "authors": "W. Musialik, K. Malik, K. Kowalik",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Levels of social acceptance of cultural heritage",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/publications/29ac78a1-f873-41b8-a9cf-e0b1931d8b82",
+      "authors": "W. Musialik, T. Maćkowski, K. Kowalik , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.13140/rg.2.2.25195.21281",
+      "doi_url": "https://www.doi.org/10.13140/rg.2.2.25195.21281",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Funkcja doświadczalna w teologii. Próba oceny teologiczno-metodologicznej dyskusji we współczesnej literaturze niemieckiej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/research-work/f780d355-dafb-44bd-a66b-007ec2ecf1c5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Doktora Marcina Lutra Komentarz do Magnifikat. Studium teologiczno-ekumeniczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kowalik.hve43UGj5TK/research-work/4bbcfcf5-a422-4a8d-8005-28ae28642947",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19105"
+    }
+  ],
+  "tag_cloud": [
+    "religion",
+    "religia",
+    "freud",
+    "spirituality",
+    "sport",
+    "fair play",
+    "merkert",
+    "media",
+    "nysa",
+    "self-esteem"
+  ],
+  "coworkers": []
+}

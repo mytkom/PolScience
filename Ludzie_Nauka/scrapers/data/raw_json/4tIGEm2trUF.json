@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF",
+  "slug": "dmytro.tkachenko",
+  "profile_id": "4tIGEm2trUF",
+  "full_name": "mgr inż. Dmytro Tkachenko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Dmytro Tkachenko",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2024",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "inżynieria biomedyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluating the Sensitivity of Baseline Classifiers and Detection Model to GAN-Based Inpainting in Lung CT Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/publications/4bd37f85-bcb0-4612-ad64-3e517fa43727",
+      "authors": "D. Tkachenko , J. Rumiński",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/hsi66212.2025.11142388",
+      "doi_url": "https://www.doi.org/10.1109/hsi66212.2025.11142388",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Mammography Data Management Application for Federated Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/publications/93ae49bf-69e7-4a17-b0c3-c9cf7c1b99e7",
+      "authors": "D. Tkachenko , M. Mazur-Milecka",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/hsi61632.2024.10613535",
+      "doi_url": "https://www.doi.org/10.1109/hsi61632.2024.10613535",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Detection of Electronic Protected Health Information in DICOM Objects: Rule-Based Methods vs. LLMs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dmytro.tkachenko.4tIGEm2trUF/publications/7f666b79-72de-4b3b-b140-cf7ccbc605e9",
+      "authors": "D. Tkachenko , M. Sobotka, A. Górecki, ... (+3)",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-031-96538-8_12",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-96538-8_12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

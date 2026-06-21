@@ -1,0 +1,230 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X",
+  "slug": "ryszard.leniowski",
+  "profile_id": "4jO4if9FY5X",
+  "full_name": "dr hab. inż. Ryszard Leniowski",
+  "orcid": "0000-0003-2378-586X",
+  "orcid_url": "https://orcid.org/0000-0003-2378-586X",
+  "breadcrumb_name": "Ryszard Leniowski",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "grafika komputerowa",
+    "mikroprocesorowe sterowniki ruchu",
+    "roboty przemysłowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska; Wydział Automatyki, Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b3f94f20-26a0-4ef4-a387-7766d7c7453f"
+        },
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        ".",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/gremiums/b630b975-5f2e-4062-9660-89bdd5fc9c7f",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The kinematics of the manipulator with 1-DOF joints and controlled by elastic, inner ties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/publications/d4ccd59d-574f-4325-a0f5-4a4320fa97bc",
+      "authors": "R. Leniowski , D. Ożóg",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/194892",
+      "doi_url": "https://www.doi.org/10.12913/22998624/194892",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A prototype adjuster for motion planning of redundant robots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/publications/1b4c773c-59f0-4be1-921d-3f23f218d649",
+      "authors": "K. Tomecki, L. Leniowska, R. Leniowski , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Algorithm for inverse kinematics of a multi-link manipulator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/publications/50e6e811-08b0-4202-9079-424866ca730a",
+      "authors": "R. Leniowski , L. Leniowska",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work/22846ab6-2cbc-4a26-ba72-a1678d46aa8b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model matematyczny i metoda kompensacji wibracji robota z elastycznym ramieniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work/0ea6ec7c-a676-4d00-aae8-f0fb5e071d72",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work/190f2b30-1ed5-48bd-baa9-18d9c4c11727",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Application of smart materials for selected vibration reduction problems.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work/c947302f-8949-498e-93fd-1827cda941c3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.leniowski.4jO4if9FY5X/research-work/141a8059-5c47-4212-bf61-396e65432f78",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17413"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

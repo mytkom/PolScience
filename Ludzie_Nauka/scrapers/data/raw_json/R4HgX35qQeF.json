@@ -1,0 +1,183 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF",
+  "slug": "łukasz.sienkiewicz",
+  "profile_id": "R4HgX35qQeF",
+  "full_name": "dr inż. Łukasz Krzysztof Sienkiewicz",
+  "orcid": "0000-0002-8320-2243",
+  "orcid_url": "https://orcid.org/0000-0002-8320-2243",
+  "breadcrumb_name": "Łukasz Sienkiewicz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektrotechniki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f9620d4-9201-44d1-bea8-35f65adf06bd"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Discrete Non-Integer Order Model of Synchronous Generator for Power Hardware In the Loop Implementation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/publications/7d0abd4c-ff98-4b54-a4ba-2a4e9101ced3",
+      "authors": "F. Kutt, S. Racewicz, Ł. Sienkiewicz , ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154272",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154272",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Sensorless control with multi-scalar transformation of five-phase IPMSM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/publications/fd3facc3-690b-47a5-9cc4-7dc864d6b789",
+      "authors": "D. Vyas, S. Joy [...] Ł. Sienkiewicz , ... (+4)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154281",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154281",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Stand-Alone Operation of Multi-Phase Doubly-Fed Induction Generator Supplied by SiC-Based Current Source Converter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/publications/33b9ec52-4201-4fd4-aae4-029b1eb8fa66",
+      "authors": "Ł. Sienkiewicz , F. Wilczyński, S. Racewicz",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18112753",
+      "doi_url": "https://www.doi.org/10.3390/en18112753",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Koncepcja, realizacja i analiza sensora/aktuatora piezoelektrycznego do pomiaru procesu starzenia się ludzkiej skóry",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.sienkiewicz.R4HgX35qQeF/research-work/8af28fb6-ba4a-4424-9ac7-b94988ac31a4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287805"
+    }
+  ],
+  "tag_cloud": [
+    "power distribution system",
+    "power hardware-in-the-loop",
+    "mason equivalent circuit",
+    "electromechanical impedance",
+    "stand-alone photovoltaic charging station",
+    "dc-dc converter",
+    "stationary electrochemical batteries",
+    "hvdc transmission",
+    "offshore wind energy",
+    "voltage source inverters"
+  ],
+  "coworkers": []
+}

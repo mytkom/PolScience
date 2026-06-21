@@ -1,0 +1,259 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY",
+  "slug": "bogdan.kuchta",
+  "profile_id": "zAciItRZiYY",
+  "full_name": "prof. dr hab. inż. Bogdan Kuchta",
+  "orcid": "0000-0002-8635-4154",
+  "orcid_url": "https://orcid.org/0000-0002-8635-4154",
+  "breadcrumb_name": "Bogdan Kuchta",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizykochemia ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki fizyczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki chemiczne / chemia fizyczna i teoretyczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "podstawowe problemy techniki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/gremiums/59a46122-97c5-44a0-9bc1-067a7c6e2f69",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adsorption mechanism in crystalline micropores: multimodal fluctuations, phase coexistence and phase transformations in nanoconfinement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/publications/abde97f6-0f75-4e58-9a2f-ed954beb7dbd",
+      "authors": "B. Kuchta , M. Stankiewicz, A. Dorhauer, ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.21203/rs.3.rs-7148852/v1",
+      "doi_url": "https://www.doi.org/10.21203/rs.3.rs-7148852/v1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Free energy landscapes and metastability in methane adsorption within a representative metal–organic framework",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/publications/3707023f-f180-42c5-b847-9b61d9ebfcda",
+      "authors": "A. Dorhauer, M. Stankiewicz [...] B. Kuchta , ... (+2)",
+      "publication_type": "Artykuł , ACS Omega",
+      "year": "2025",
+      "doi": "10.1021/acsomega.5c09062",
+      "doi_url": "https://www.doi.org/10.1021/acsomega.5c09062",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "How a Single Atom Influences the Spatiotemporal Response of Flexible MOFs: Insights from Theory and Experiment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/publications/e4ca8d5b-ef68-43ec-bb92-caee94c61594",
+      "authors": "S. Sobczak, B. Mazur [...] B. Kuchta , ... (+7)",
+      "publication_type": "Artykuł , Journal of the American Chemical Society",
+      "year": "2025",
+      "doi": "10.1021/jacs.5c02552;10.3204/pubdb-2025-02068",
+      "doi_url": "https://www.doi.org/10.1021/jacs.5c02552;10.3204/pubdb-2025-02068",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Struktura i przejścia fazowe w prostych kryształach molekularnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/f092d684-48de-48d1-abf6-30edda402756",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie własności adsorpcyjnych hybrydowych materiałów porowatych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/bf1bf53f-0bfa-4276-9be3-eb2b9886ebce",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ dynamiki sieci na transformacje strukturalne oraz adsorpcję w hybrydowych materiałach nanoporowatych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/2e384ecd-23dd-46e1-9418-4db68aebc87b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Właściwości adsorpcyjne i katalityczne funkcjonalizowanych nanomateriałów węglowych - badania teoretyczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/e640fe50-aeac-4936-994f-20a2791a8c26",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Przewodnictwo cieplne nanokompozytów powstałych na bazie prostych kryształów van der Waalsa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/94b60aa6-1077-4600-9826-b57156bed4e3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Transport ciepła w polimorficznych fazach kryształów molekularnych z długozasięgowym uporządkowaniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/1f9c844d-bce4-4674-a07f-30d7d2d68c19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie metod dynamiki molekularnej do badania równowag tautomerycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogdan.kuchta.zAciItRZiYY/research-work/d9e4eb4b-c44e-4edc-b6c0-526af14e18c3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=68188"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

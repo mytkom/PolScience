@@ -1,0 +1,182 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6",
+  "slug": "tomasz.janowski",
+  "profile_id": "S6oK55afEg6",
+  "full_name": "dr Tomasz Janowski",
+  "orcid": "0000-0001-8950-5782",
+  "orcid_url": "https://orcid.org/0000-0001-8950-5782",
+  "breadcrumb_name": "Tomasz Janowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Gdański",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki technczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1988",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwerystet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/gremiums/18434a49-e5cd-4a89-9afb-3820a125753e",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "AI-enabled co-creation for evidence-based policymaking: A conceptual model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/publications/2128eec1-ec01-472a-81fd-af562aba415c",
+      "authors": "N. Rizun, N. Edelmann, T. Janowski , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.59490/dgo.2025.991",
+      "doi_url": "https://www.doi.org/10.59490/dgo.2025.991",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Building Capacity for Smart Cities and Urban Resilience through Digital Transformation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/publications/6985adc3-f2b9-4541-b6ec-1196cc7268aa",
+      "authors": "G. Viale Pereira, L. Temple [...] T. Janowski , ... (+5)",
+      "publication_type": "Artykuł , Conference on Digital Government Research",
+      "year": "2025",
+      "doi": "10.59490/dgo.2025.1012",
+      "doi_url": "https://www.doi.org/10.59490/dgo.2025.1012",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Digital Dependence vs. National Performance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.janowski.S6oK55afEg6/publications/ae903f32-d509-4969-9aba-fdcb31242109",
+      "authors": "J. Durkiewicz, T. Janowski",
+      "publication_type": "Artykuł , Conference on Digital Government Research",
+      "year": "2025",
+      "doi": "10.59490/dgo.2025.936",
+      "doi_url": "https://www.doi.org/10.59490/dgo.2025.936",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117849"
+    }
+  ],
+  "tag_cloud": [
+    "innowacje",
+    "zrównoważony rozwój",
+    "zrównowazony rozwój",
+    "trust",
+    "digital government",
+    "sustainable development",
+    "internet voting",
+    "dynamika zaufania i nieufności",
+    "citizen-administration relationships",
+    "wpływ społeczny"
+  ],
+  "coworkers": []
+}

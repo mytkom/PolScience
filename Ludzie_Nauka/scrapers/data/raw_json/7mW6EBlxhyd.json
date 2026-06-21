@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd",
+  "slug": "sławomir.kubal",
+  "profile_id": "7mW6EBlxhyd",
+  "full_name": "dr inż. Sławomir Wojciech Kubal",
+  "orcid": "0000-0001-7545-155X",
+  "orcid_url": "https://orcid.org/0000-0001-7545-155X",
+  "breadcrumb_name": "Sławomir Kubal",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficiency of WLAN 802.11xx in the multi-hop topology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/publications/a124fde3-79ba-4472-ac1c-c6ae5b467590",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2020",
+      "doi": "10.24425/ijet.2020.131859",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2020.131859",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the influence of the coding rate and SFN gain on DAB+ coverage",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/publications/17008073-f1d6-48c3-92c6-62e8cb7d1dc3",
+      "authors": "K. Staniec, S. Kubal , M. Kowal, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2020",
+      "doi": "10.1007/978-3-030-48256-5_58",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-48256-5_58",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimal transmission technique for DAB+ operating in the SFN network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/publications/53a3714e-83ec-4ac5-87b7-2f808e6e6ad7",
+      "authors": "S. Kubal , M. Kowal, K. Staniec, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2020",
+      "doi": "10.1007/978-3-030-48256-5_39",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-48256-5_39",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie optyki geometrycznej do opisu zjawisk fizycznych zachodzących przy propagacji fal elektromagnetycznych w rzeczywistym środowisku zamkniętym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kubal.7mW6EBlxhyd/research-work/41e3b88e-0418-4bba-91e9-b9e1265047a4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=243593"
+    }
+  ],
+  "tag_cloud": [
+    "ieee 802.11n",
+    "saturacja",
+    "multipleks",
+    "dab+",
+    "802.11s",
+    "wifi",
+    "olsr",
+    "topologia wieloskokowa",
+    "biosensor",
+    "multihop topology"
+  ],
+  "coworkers": []
+}

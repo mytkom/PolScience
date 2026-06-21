@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK",
+  "slug": "karol.ćwieka",
+  "profile_id": "CPl5Pni8jPK",
+  "full_name": "dr inż. Karol Ćwieka",
+  "orcid": "0000-0002-0694-5764",
+  "orcid_url": "https://orcid.org/0000-0002-0694-5764",
+  "breadcrumb_name": "Karol Ćwieka",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Materiałowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d1226bc3-8cab-442b-8ec6-cec9c3fe64e0"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria materiałowa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Corrigendum to “Molten carbonate electrolyzer for synthetic fuel generation” [Journal of Power Sources, Volume 628, 1 February 2025, 235741]",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/publications/88b87078-0853-4bc9-a541-d6e2c2084a29",
+      "authors": "A. Martsinchyk, A. Szczęśniak [...] K. Ćwieka , ... (+8)",
+      "publication_type": "Artykuł , Journal of Power Sources",
+      "year": "2025",
+      "doi": "10.1016/j.jpowsour.2025.236207",
+      "doi_url": "https://www.doi.org/10.1016/j.jpowsour.2025.236207",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Molten carbonate electrolyzer for synthetic fuel generation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/publications/893c7423-46a0-48ce-9797-60c4714db578",
+      "authors": "A. Martsinchyk, A. Szczesniak [...] K. Ćwieka , ... (+10)",
+      "publication_type": "Artykuł , Journal of Power Sources",
+      "year": "2025",
+      "doi": "10.1016/j.jpowsour.2024.235741",
+      "doi_url": "https://www.doi.org/10.1016/j.jpowsour.2024.235741",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Identification of oxygen ion conductivity of Ba doped Bi0.5Na0.5TiO3 (Ba-BNT) based matrix impregnated by lithium/potassium electrolyte for molten carbonate fuel cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karol.%C4%87wieka.CPl5Pni8jPK/publications/6667f2f3-2c1a-4a49-bd3a-5b6e3ae735b6",
+      "authors": "A. Martsinchyk, J. Milewski [...] K. Ćwieka , ... (+5)",
+      "publication_type": "Artykuł , International Journal of Hydrogen Energy",
+      "year": "2024",
+      "doi": "10.1016/j.ijhydene.2023.06.116",
+      "doi_url": "https://www.doi.org/10.1016/j.ijhydene.2023.06.116",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=n79ZVBkAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karolcwieka"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Karol-Cwieka"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=56902619600"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/2461905"
+    }
+  ],
+  "tag_cloud": [
+    "wodór",
+    "porosity",
+    "finite element method",
+    "hydrogen",
+    "mcfc",
+    "microstructure",
+    "fotokataliza",
+    "nanocząstki",
+    "anode",
+    "sofc"
+  ],
+  "coworkers": []
+}

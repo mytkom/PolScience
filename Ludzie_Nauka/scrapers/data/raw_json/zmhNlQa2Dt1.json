@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1",
+  "slug": "agnieszka.adamczyk-woźniak",
+  "profile_id": "zmhNlQa2Dt1",
+  "full_name": "prof. dr hab. inż. Agnieszka Adamczyk-Woźniak",
+  "orcid": "0000-0002-0571-0197",
+  "orcid_url": "https://orcid.org/0000-0002-0571-0197",
+  "breadcrumb_name": "Agnieszka Adamczyk-Woźniak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "synteza organiczna",
+    "technologia organiczna",
+    "chemia organiczna",
+    "spektroskopia NMR",
+    "chemia związków fenyloboronowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk chemicznych / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/gremiums/b795cbdb-282d-4ba4-a31d-100dea5b2c51",
+      "period": "2011-2023",
+      "organization_path": "Członek | nieaktualny status Rada Dyscypliny - Nauki Chemiczne 2011-2023 Politechnika Warszawska/.../Rada Dyscypliny - Nauki Chemiczne Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Acidity Constants of Boronic Acids as Simply as Possible: Experimental, Correlations, and Prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/publications/538eb1e4-d666-4d8e-9716-de7e928a7ca7",
+      "authors": "A. Sporzyński, A. Adamczyk‐woźniak , D. Zarzeczańska, ... (+3)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2024",
+      "doi": "10.3390/molecules29112713",
+      "doi_url": "https://www.doi.org/10.3390/molecules29112713",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the mode of anti- C. albicans activity of a bis(benzoxaborole) analogue of Tavaborole",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/publications/e4aaf669-4800-4228-9920-b190b6132c17",
+      "authors": "S. Gadakh, T. Szczepińska [...] A. Adamczyk‐woźniak , ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1101/2024.07.29.605614",
+      "doi_url": "https://www.doi.org/10.1101/2024.07.29.605614",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Meta-Isobutoxy Phenylboronic Acid for Nanoscale Multi-Stimuli-Responsive Low-Molecular-Weight Hydrogelator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/publications/39ffa4a1-fda0-452e-bd14-2c8f44e50899",
+      "authors": "A. Adamczyk‐woźniak , M. Orságh, B. Strachota, ... (+7)",
+      "publication_type": "Artykuł , ACS Applied Nano Materials",
+      "year": "2023",
+      "doi": "10.1021/acsanm.3c03259",
+      "doi_url": "https://www.doi.org/10.1021/acsanm.3c03259",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/3d7f8dcd-85cf-4e46-b418-b745d751abcc",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i wybrane właściwości benzoksaboroli oraz ich boronowych analogów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/3ca07222-194c-4e62-bf73-830ad919bf06",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Synteza benzyloamin w reakcji fenoli z 1,3,5-trialkilo-heksahydro-1,3,5-triazynami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/2262fc84-a106-4937-aa8a-1e24b6f6e7a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synthesis and investigation of selected properties of oxaboroles (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/37276988-8b5b-4269-9c67-c519faa73f5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza i badanie wybranych właściwości nowych związków fenyloboronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/5cc1cf7f-e130-441d-8fbc-0f77317e19b1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Oligofunkcjonalizacja klasterów boru jako bloków budulcowych nowych materiałów i związków bioaktywnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/abbbf6c2-576c-45f6-a7b0-1aaf3903d4ad",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Rola wiązań wodorowych w wybranych kompleksach pochodnych floroglucynyoraz kwasów fenyloboronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/7832fb36-8305-4fae-97f3-a908f2263074",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Nowe chiralne homogeniczne i heterogeniczne katalizatory oparte na kompleksach wanadu i molibdenu.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.adamczyk-wo%C5%BAniak.zmhNlQa2Dt1/research-work/d795b9f8-67a9-4147-ac3a-6beb2591978b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=228661"
+    }
+  ],
+  "tag_cloud": [
+    "acidity",
+    "docking",
+    "trifluoromethyl",
+    "tga",
+    "dsc",
+    "phenylboronic acid",
+    "benzoxaborole",
+    "antifungal activity",
+    "dft",
+    "bacillus cereus"
+  ],
+  "coworkers": []
+}

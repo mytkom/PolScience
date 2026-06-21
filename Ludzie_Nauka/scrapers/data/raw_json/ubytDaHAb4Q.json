@@ -1,0 +1,139 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q",
+  "slug": "agata.kołakowska",
+  "profile_id": "ubytDaHAb4Q",
+  "full_name": "dr Agata Kołakowska",
+  "orcid": "0000-0001-5916-8391",
+  "orcid_url": "https://orcid.org/0000-0001-5916-8391",
+  "breadcrumb_name": "Agata Kołakowska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie i rozpoznawanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Anomaly Detection and Segmentation in Measurement Signals on Edge Devices Using Artificial Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/publications/98488a93-b9ef-4489-997c-be31c90f79a9",
+      "authors": "J. Dembski, B. Wiszniewski, A. Kołakowska",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25175526",
+      "doi_url": "https://www.doi.org/10.3390/s25175526",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automatic Cleaning of Time Series Data in Rural Internet of Things Ecosystems That Use Nomadic Gateways",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/publications/5c14dc39-f673-4b2b-b246-60ad3e455be7",
+      "authors": "J. Dembski, A. Kołakowska , B. Wiszniewski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25010189",
+      "doi_url": "https://www.doi.org/10.3390/s25010189",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hierarchical Alignment of Multiple Time Series With Missing Timestamps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/publications/faa7a0f6-6df6-471d-b872-30a6d2bd264c",
+      "authors": "A. Kołakowska , B. Wiszniewski, J. Dembski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3715014.3724035",
+      "doi_url": "https://www.doi.org/10.1145/3715014.3724035",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Synteza i analiza wieloetapowego klasyfikatora Fishera",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ko%C5%82akowska.ubytDaHAb4Q/research-work/cf729d7e-df5f-427d-9391-858c6ea4a267",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111512"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

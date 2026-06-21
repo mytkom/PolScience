@@ -1,0 +1,297 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU",
+  "slug": "dariusz.plewczyński",
+  "profile_id": "JLvTKpIPKrU",
+  "full_name": "prof. dr hab. Dariusz Michał Plewczyński",
+  "orcid": "0000-0002-3840-7610",
+  "orcid_url": "https://orcid.org/0000-0002-3840-7610",
+  "breadcrumb_name": "Dariusz Plewczyński",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Uniwersytet Warszawski"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "24 lat 4 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "8 miesięcy",
+      "duration": null,
+      "institution": "Warszawski Uniwersytet Medyczny",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/6982273c-6dd5-4b22-9d18-dada4348f3f1",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "11 miesięcy",
+      "duration": null,
+      "institution": "Warszawski Uniwersytet Medyczny",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/6982273c-6dd5-4b22-9d18-dada4348f3f1",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstaw Informatyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/6c713100-70da-4346-9836-92ba3723e52a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Polska Akademia Nauk, Instytut Chemii Fizycznej",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "mgr",
+        "Nadanie tytułu",
+        "UNIWERSYTET WARSZAWSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An integrated view of the structure and function of the human 4D nucleome",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/publications/e1362edc-88be-4cf0-8ff6-a347b80631fe",
+      "authors": "J. Dekker, B. Oksuz [...] D. Plewczyński , ... (+86)",
+      "publication_type": "Artykuł , Nature",
+      "year": "2025",
+      "doi": "10.1038/s41586-025-09890-3",
+      "doi_url": "https://www.doi.org/10.1038/s41586-025-09890-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/publications/51f316da-fe97-4805-ab96-cc55be266ccc",
+      "authors": "K. Banecki, H. Chai [...] D. Plewczyński , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1101/2025.05.16.654550",
+      "doi_url": "https://www.doi.org/10.1101/2025.05.16.654550",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Chromatin as a Coevolutionary Graph: Modeling the Interplay of Replication with Chromatin Dynamics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/publications/aa8bc17d-fc05-497f-9d9f-86748d0b3168",
+      "authors": "S. Korsak, K. Banecki [...] D. Plewczyński , ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1101/2025.03.31.646315",
+      "doi_url": "https://www.doi.org/10.1101/2025.03.31.646315",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod uczenia maszynowego i analizy danych w przewidywaniu funkcji biomolekuł",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/1039ec51-02c0-4285-a98b-9058978bec79",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Dyfuzja po powierzchniach zakrzywionych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/31001b04-1874-4c88-99e2-2ed084bc75f5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza mechanizmów rozwoju oporności na trastuzumab w HER2 pozytywnym nowotworze piersi na podstawie zmian ekspresji genów oraz mikro RN A na przykładzie wybranych linii komórkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/e474f14e-d7a6-4764-ad62-2cb0d296403e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie i analiza przestrzennej organizacji genomu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/31b32434-4ade-4e4e-a8e2-f51316cec42b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metody integracji wieloskalowej informacji w sztucznych systemach uczących się",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/73bbf65f-8135-479a-9baa-78b338f24d26",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Reprezentacja gry chaosu w badaniach sekwencji nukleotydowych i aminokwasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/57910394-8131-43ac-aaea-87d446bda61d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Deep learning under distribution shifts: continual learning and beyond",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/deb40109-ba13-4cc9-aef8-b1c6ff1ae133",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie metod uczenia maszynowego w projektowaniu leków na przykładzie inhibitorów monoaminooksydazy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.plewczy%C5%84ski.JLvTKpIPKrU/research-work/b65f855d-397c-46e0-9fe0-2d3b21cb8b37",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=103671"
+    }
+  ],
+  "tag_cloud": [
+    "software",
+    "genomika",
+    "bioinformatics",
+    "machine learning",
+    "bioinformatyka",
+    "hic",
+    "sars-cov-2",
+    "nowotwory",
+    "covid-19",
+    "dna"
+  ],
+  "coworkers": []
+}

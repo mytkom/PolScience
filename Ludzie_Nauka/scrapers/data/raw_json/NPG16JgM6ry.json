@@ -1,0 +1,197 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry",
+  "slug": "leonid.moroz",
+  "profile_id": "NPG16JgM6ry",
+  "full_name": "dr hab. inż. Leonid Moroz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Leonid Moroz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia",
+        "Ministerstwo Edukacji i Nauki Ukrainy • Ukraina",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1985",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna przy Radzie Ministrów, ZSRR • Ukraina",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektryka",
+        "Nadanie tytułu",
+        "Lwowski Instytut Politechniczny Orderu Lenina • Ukraina",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Access Control Mechanisms in Java Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/publications/ec3dfb45-ea4a-4076-b5e4-c3c4c0fddbfc",
+      "authors": "J. Krawiec, P. Gepner, L. Moroz , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Efficient Approximation of the Arctangent Function for Computing Platforms With Limited Hardware Resources",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/publications/963f0a09-cc79-44fa-a076-076e240a704b",
+      "authors": "E. Deelman, P. Gepner, L. Moroz , ... (+3)",
+      "publication_type": "Artykuł , IEEE Signal Processing Magazine",
+      "year": "2025",
+      "doi": "10.1109/msp.2025.3636383",
+      "doi_url": "https://www.doi.org/10.1109/msp.2025.3636383",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of new CORDIC algorithms implemented on FPGA for the Givens Rotator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leonid.moroz.NPG16JgM6ry/publications/add0ba39-7555-4505-8433-5350c101ae7c",
+      "authors": "P. Poczekajlo, L. Moroz , P. Gepner, ... (+1)",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2025",
+      "doi": "10.1016/j.jocs.2025.102567",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2025.102567",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "permission",
+    "accesscontrol",
+    "java code",
+    "trust mechanism",
+    "securitymanager",
+    "cryptocurrency",
+    "smart market",
+    "blockchain",
+    "security mechanisms",
+    "floating-point; cube root; inverse cube root; newton-raphson; householder"
+  ],
+  "coworkers": []
+}

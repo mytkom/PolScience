@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv",
+  "slug": "marcin.wiśniewski",
+  "profile_id": "zS5sqCFgOWv",
+  "full_name": "dr inż. Marcin Wiśniewski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marcin Wiśniewski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "robotyzacja procesów produkcyjnych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of Single-Arm and Dual-Arm Collaborative Robots in Precision Assembly",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/publications/fdef0d9b-1cea-42cc-8eaa-4bcd9a21af5f",
+      "authors": "K. Peta, M. Wiśniewski , M. Kotarski, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15062976",
+      "doi_url": "https://www.doi.org/10.3390/app15062976",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of Energy Consumption of Robotic Welding Stations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/publications/65d768a6-7e48-42e4-81eb-444ef48abc8d",
+      "authors": "K. Peta, M. Mitek, M. Wiśniewski , ... (+1)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2024",
+      "doi": "10.3390/su16072837",
+      "doi_url": "https://www.doi.org/10.3390/su16072837",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Study of Positioning Accuracy Parameters in Selected Configurations of a Modular Industrial Robot - Part 1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/publications/b589a1bd-c8b1-4ac2-9ae9-58eae0bbe925",
+      "authors": "M. Suszynski, M. Wiśniewski , K. Wojciechowicz, ... (+4)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s25010108",
+      "doi_url": "https://www.doi.org/10.3390/s25010108",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania dokładności i powtarzalności pozycjonowania robotów przemysłowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.wi%C5%9Bniewski.zS5sqCFgOWv/research-work/8b57c303-a5f7-46ef-9a7a-a9cc2202cec4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281571"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

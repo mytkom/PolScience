@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8",
+  "slug": "adam.zagubień",
+  "profile_id": "b2bRh6Fbwt8",
+  "full_name": "dr inż. Adam Tomasz Zagubień",
+  "orcid": "0000-0002-3206-694X",
+  "orcid_url": "https://orcid.org/0000-0002-3206-694X",
+  "breadcrumb_name": "Adam Zagubień",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika budowli"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "konstrukcje budowlane i inżynierskie",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska w Koszalinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Identification of Noise Tonality in the Proximity of Wind Turbines—A Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/publications/8e2720a2-98ea-4871-b939-cc0e24d85ad6",
+      "authors": "K. Wolniewicz, A. Zagubień",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16020734",
+      "doi_url": "https://www.doi.org/10.3390/app16020734",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Terrestrial laser scanning for wind turbine blade defect detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/publications/ec3e177c-abc6-4dfe-bbbe-4de2863534d0",
+      "authors": "P. Stałowska, C. Suchocki, A. Zagubień",
+      "publication_type": "Artykuł , MEASUREMENT",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.116706",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.116706",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis of Wind Farm Productivity Taking Wake Loss into Account: Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/publications/403b374b-ca13-49de-a34b-d4c0a63fba97",
+      "authors": "A. Zagubień , K. Wolniewicz, J. Szwochertowski",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17235816",
+      "doi_url": "https://www.doi.org/10.3390/en17235816",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania laboratoryjne i identyfikacja niesprężystych właściwości materiałowych tkaniny powlekanej typu \"PANAMA\"",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.zagubie%C5%84.b2bRh6Fbwt8/research-work/4a95ab8c-fde9-43ec-9294-5ab0a430972a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108450"
+    }
+  ],
+  "tag_cloud": [
+    "pomiar hałasu",
+    "microphone location",
+    "infradźwięki",
+    "wind turbine",
+    "noise measurements",
+    "environmental noise",
+    "wind conditions",
+    "pomiary hałasu",
+    "noise pollution",
+    "noise monitoring"
+  ],
+  "coworkers": []
+}

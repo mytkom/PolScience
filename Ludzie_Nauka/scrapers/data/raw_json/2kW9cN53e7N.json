@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N",
+  "slug": "joanna.janczura",
+  "profile_id": "2kW9cN53e7N",
+  "full_name": "dr inż. Joanna Barbara Janczura",
+  "orcid": "0000-0001-6110-3394",
+  "orcid_url": "https://orcid.org/0000-0001-6110-3394",
+  "breadcrumb_name": "Joanna Janczura",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "matematyka finansowa",
+    "statystyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Matematyki i Informatyki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Expectile regression averaging method for probabilistic forecasting of electricity prices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/publications/d90e2a49-deb2-40ce-bb64-e91608d95109",
+      "authors": null,
+      "publication_type": "Artykuł , Computational Statistics",
+      "year": "2025",
+      "doi": "10.1007/s00180-024-01508-y",
+      "doi_url": "https://www.doi.org/10.1007/s00180-024-01508-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Prediction of machine state for non-Gaussian degradation model using Hidden Markov Model approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/publications/9efef0be-2263-414e-9684-e9ad97b73e4c",
+      "authors": "J. Janczura , W. Żuławiński, H. Shiri, ... (+3)",
+      "publication_type": "Artykuł , Eksploatacja i Niezawodnosc",
+      "year": "2025",
+      "doi": "10.17531/ein/193898",
+      "doi_url": "https://www.doi.org/10.17531/ein/193898",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A compressed sensing approach to interpolation of fractional Brownian trajectories for a single particle tracking experiment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/publications/c8016dd7-ca88-4fb6-97c9-59abc07118ae",
+      "authors": "M. Muszkieta, J. Janczura",
+      "publication_type": "Artykuł , Applied Mathematics and Computation",
+      "year": "2023",
+      "doi": "10.1016/j.amc.2023.127900",
+      "doi_url": "https://www.doi.org/10.1016/j.amc.2023.127900",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie stochastyczne cen produktów na rynku energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/research-work/bad30588-4e55-45d5-a856-250a1522c714",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Application of stochastic processes for modelling market risk factors in a mining company.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/research-work/a2b8bfcf-8e30-4e3a-af8c-6618c34a143b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza zachowania funkcjonału dynamicznego dla ułamkowych dyfuzji anomalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.janczura.2kW9cN53e7N/research-work/5f3c47c3-f236-43e8-9fce-8ccf50edc763",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=237509"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

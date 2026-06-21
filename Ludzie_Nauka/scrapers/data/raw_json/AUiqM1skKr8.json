@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8",
+  "slug": "andrzej.bąk",
+  "profile_id": "AUiqM1skKr8",
+  "full_name": "dr inż. Andrzej Bąk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Andrzej Bąk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "teleinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient relay node management method for BLE MESH networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/publications/5ca451bd-a436-4a94-bd20-efb9f1a2bb09",
+      "authors": "A. Beben, A. Bąk , M. Sosnowski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2020",
+      "doi": "10.24425/ijet.2019.130262",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2019.130262",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Algorytm sterowania węzłami pośredniczącymi sieci BLE MESH dla systemów Internetu Rzeczy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/publications/361725a8-24b3-49e5-a69d-d64f28c24e1c",
+      "authors": "M. Sosnowski, A. Bęben [...] A. Bąk , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2019",
+      "doi": "10.15199/59.2019.7.10",
+      "doi_url": "https://www.doi.org/10.15199/59.2019.7.10",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Flow Design and Evaluation in Photonic Data Transport Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/publications/b723e998-9e18-4f10-97d3-5a032ee98d24",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.1007/978-3-319-40132-4_8",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-40132-4_8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Reakcyjne metody sterowania ruchem w sieci ATM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.b%C4%85k.AUiqM1skKr8/research-work/271754c6-38ba-4ecc-87a1-97ad1f7caacb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=94397"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

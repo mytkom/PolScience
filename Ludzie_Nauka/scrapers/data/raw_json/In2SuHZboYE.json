@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE",
+  "slug": "witold.rządkowski",
+  "profile_id": "In2SuHZboYE",
+  "full_name": "dr inż. Witold Wojciech Rządkowski",
+  "orcid": "0000-0002-8586-2966",
+  "orcid_url": "https://orcid.org/0000-0002-8586-2966",
+  "breadcrumb_name": "Witold Rządkowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika kompozytów",
+    "metody pomiarowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechaniczny Energetyki i Lotnictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7bc2e1c7-1658-40a5-940a-259eb6073ab8"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing – Preliminary Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/publications/a5bc6399-476b-4de6-a2c9-e09c06e5a798",
+      "authors": "A. Cisowski, W. Rządkowski , M. Kowalik, ... (+2)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/189847",
+      "doi_url": "https://www.doi.org/10.12913/22998624/189847",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Methodology of Testing for Aluminium Honeycomb Impact Attenuator in Quasi-Static Conditions and Influence of Supporting Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/publications/6009de55-4e8f-4ab3-adaf-2438d20f1afe",
+      "authors": "J. Tracz, W. Rządkowski , A. Cisowski, ... (+7)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/193424",
+      "doi_url": "https://www.doi.org/10.12913/22998624/193424",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Possible applications of artificial intelligence algorithms in F-16 aircraft",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/publications/761e38fa-fbad-458d-8656-c1d9cd7460a4",
+      "authors": "R. Bielawski, T. Krawczyk [...] W. Rządkowski , ... (+1)",
+      "publication_type": "Artykuł , Zeszyty Naukowe. Transport / Politechnika Śląska",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie stanu odkształceń materiałów kompozytowych z zastosowaniem czujników piezoelektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/witold.rz%C4%85dkowski.In2SuHZboYE/research-work/2b1ec960-cd70-4823-b5a6-36986e725700",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270815"
+    }
+  ],
+  "tag_cloud": [
+    "low-cycle properties",
+    "vcu",
+    "elektromobilność",
+    "formuła sae",
+    "formuła student",
+    "bolid wyścigowy",
+    "studenckie kołą naukowe",
+    "gradual heat annealing",
+    "pojazd elektryczny",
+    "bolid elektryczny"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU",
+  "slug": "adam.grzelka",
+  "profile_id": "E3WEyad1BhU",
+  "full_name": "dr inż. Adam Grzelka",
+  "orcid": "0000-0002-9122-5920",
+  "orcid_url": "https://orcid.org/0000-0002-9122-5920",
+  "breadcrumb_name": "Adam Grzelka",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On the Selection of Transmitted Views for Decoder-Side Depth Estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/publications/cf6d65e8-25ed-4697-a88b-1fcf1a9c2ba0",
+      "authors": "D. Klóska, A. Dziembowski, A. Grzelka , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16010072",
+      "doi_url": "https://www.doi.org/10.3390/app16010072",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza możliwości zrównoleglenia obliczeń w koderze i dekoderze JPEG",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/publications/0c12da41-a0e1-48b1-9ab4-50765ffa2b37",
+      "authors": "J. Stankowski, A. Śliwiński, A. Grzelka , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.99",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.99",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "DepthEstAcc - software for estimating the accuracy of the depth estimation in a multicamera system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.grzelka.E3WEyad1BhU/publications/bf65eb4f-c1b7-4c7f-9077-640f2d83c516",
+      "authors": "J. Stankowski, K. Klimaszewski, A. Grzelka",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2025.102417",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102417",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "image segmentation",
+    "depth map upsampling",
+    "free-viewpoint television",
+    "multicamera system",
+    "view synthesis",
+    "immersive video",
+    "temporal consistency",
+    "image quality",
+    "video compression",
+    "depth estimation"
+  ],
+  "coworkers": []
+}

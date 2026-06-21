@@ -1,0 +1,321 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ",
+  "slug": "krystyna.dąbrowska",
+  "profile_id": "oxxpXvyhcJQ",
+  "full_name": "prof. dr hab. Krystyna Dąbrowska",
+  "orcid": "0000-0002-1518-3183",
+  "orcid_url": "https://orcid.org/0000-0002-1518-3183",
+  "breadcrumb_name": "Krystyna Dąbrowska",
+  "current_employment_summary": [
+    "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk",
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "immunologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/264294d6-d6d7-4b7e-93b6-8f267f0a455e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wojewódzki Szpital Specjalistyczny we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b12c7dc2-d5b8-4391-a9be-257bc0f628df",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk biologicznych / biologia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/264294d6-d6d7-4b7e-93b6-8f267f0a455e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk biologicznych / biologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/264294d6-d6d7-4b7e-93b6-8f267f0a455e"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "mikrobiologia ze specjalnością genetyka",
+        "Nadanie tytułu",
+        "Uniwersytet Wrocławski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/264294d6-d6d7-4b7e-93b6-8f267f0a455e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "1998",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "ochrona środowiska",
+        "Nadanie tytułu",
+        "Uniwersytet Wrocławski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/264294d6-d6d7-4b7e-93b6-8f267f0a455e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "In situ gut microbiota editing : enhancing therapeutic efficacy for bacterial colitis by compatible oral hydrogel microspheres with phages",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/publications/1dc86a56-a5b8-4fb6-a758-1ec0c72ad512",
+      "authors": "K. Dąbrowska , Y. Yang, R. Li, ... (+13)",
+      "publication_type": "Artykuł , Nature Communications",
+      "year": "2025",
+      "doi": "10.1038/s41467-025-65498-1",
+      "doi_url": "https://www.doi.org/10.1038/s41467-025-65498-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Phage therapy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/publications/2d9adfaa-fb97-4209-a9bc-fadd9b66f989",
+      "authors": "M. Skurnik, S. Alkalay-Oren [...] K. Dąbrowska , ... (+5)",
+      "publication_type": "Artykuł , Nature Reviews Methods Primers",
+      "year": "2025",
+      "doi": "10.1038/s43586-024-00377-5",
+      "doi_url": "https://www.doi.org/10.1038/s43586-024-00377-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Super-Resolution Goes Viral: T4 Virus Particles as Versatile 3D-Bio-NanoRulers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/publications/cfd0162a-17ca-4002-925a-984fe335cfc5",
+      "authors": "K. Dąbrowska , J. Gallea, O. Nevskyi, ... (+8)",
+      "publication_type": "Artykuł , Advanced Materials",
+      "year": "2025",
+      "doi": "10.1002/adma.202403365",
+      "doi_url": "https://www.doi.org/10.1002/adma.202403365",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania strukturalnych białek bakteriofagowych dla rozwoju terapii bakteriofagowej: identyfikacja cech biologicznych oraz opracowanie nowych rozwiązań technologicznych w modelu bakteriofaga T4",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/e023eb35-0401-4080-a32c-34745b6d5016",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie integracji bakteriofagów z komórkami ssaków oraz ich potencjalne znaczenie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/8c27a939-2592-482b-b1df-daed125a0907",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Molekularne i immunologiczne uwarunkowania obecności bakteriofagów T4, A3R i 676Z w jelicie myszy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/15a5cf2e-c9e4-48fc-9409-ad5cec1bb0a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ wybranych stanów chorobowych na przebieg zakażenia SARS-CoV-2 oraz dynamika powstawania przeciwciał chroniących przed zakażeniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/6ed91998-280d-41c5-a502-5026c3eaaf2b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Profilowanie serologiczne populacji ludzkiej i identyfikacja epitopów antygenów bakteriofagowych najczęściej rozpoznawanych przez przeciwciała wybranych klas.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/03c06c3d-923a-41e8-b8e2-ec706efff6c3",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Inactivation of bacteriophages",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/95f77441-425a-4362-a49b-70d7292206d2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie aktywności zewnątrzkomórkowej i procesu wydzielania białek homologicznych do czynników wzrostu fibroblastów (FHF)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/455f1717-c3dc-41b2-ae22-e2f50def35c7",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Charakterystyka mutantów Klebsiella pneumoniae izolowanych z populacji traktowanej fagami litycznymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystyna.d%C4%85browska.oxxpXvyhcJQ/research-work/dac13fc9-9bdc-4e01-ba39-aa2a42438419",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=127400"
+    }
+  ],
+  "tag_cloud": [
+    "preeclampsia",
+    "gastrointestinal tract",
+    "antibody",
+    "bacteriophage",
+    "antibodies",
+    "immune response",
+    "bacteriophages",
+    "elisa",
+    "igg",
+    "epitopes"
+  ],
+  "coworkers": []
+}

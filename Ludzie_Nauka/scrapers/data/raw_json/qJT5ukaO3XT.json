@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT",
+  "slug": "thanhngo.nguyen",
+  "profile_id": "qJT5ukaO3XT",
+  "full_name": "dr Thanh Ngo Nguyen",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Thanh Ngo Nguyen",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Wojskowa Akademia Techniczna w Ho Chi Minh • Wietnam",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "nMITP-Miner: An efficient method for mining frequent maximal inter-transaction patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/publications/eac06210-5365-47b5-8374-37fa7fa52bf6",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70816-9_27",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70816-9_27",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An effective method for determining consensus in large collectives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/publications/14c571af-adc1-4093-b89b-6a29697b37d7",
+      "authors": "T. Nguyen , D. Dang, D. Hwang",
+      "publication_type": "Artykuł , Computer Science and Information Systems",
+      "year": "2022",
+      "doi": "10.2298/csis210314062d",
+      "doi_url": "https://www.doi.org/10.2298/csis210314062d",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "dMITP-Miner: an efficient method for mining maximal inter-transaction patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/publications/2c303d8a-60ce-4989-b8c2-8fbdbedd6a24",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.1007/978-981-19-8234-7_32",
+      "doi_url": "https://www.doi.org/10.1007/978-981-19-8234-7_32",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie efektywnych metod eksploracji częstych wzorców międzytransakcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/thanhngo.nguyen.qJT5ukaO3XT/research-work/220f9040-5d99-431f-9509-9deef6e32af9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=315409"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

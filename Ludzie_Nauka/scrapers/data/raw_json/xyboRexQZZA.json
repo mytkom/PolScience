@@ -1,0 +1,284 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA",
+  "slug": "piotr.formanowicz",
+  "profile_id": "xyboRexQZZA",
+  "full_name": "prof. dr hab. inż. Piotr Gerard Formanowicz",
+  "orcid": "0000-0003-2719-3677",
+  "orcid_url": "https://orcid.org/0000-0003-2719-3677",
+  "breadcrumb_name": "Piotr Formanowicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teoria algorytmów",
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat 3 miesiące",
+      "duration": null,
+      "institution": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/eb155ad0-f9cf-4c26-b470-4c6501ea0a66",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison by partition - Finding Petri nets similarity on the basis of subnets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/publications/14f3b9ba-e579-41c3-ad52-997a259d9873",
+      "authors": "M. Radom, B. Szawulak, P. Formanowicz",
+      "publication_type": "Artykuł , Computers in Biology and Medicine",
+      "year": "2025",
+      "doi": "10.1016/j.compbiomed.2025.109775",
+      "doi_url": "https://www.doi.org/10.1016/j.compbiomed.2025.109775",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Graphlet Degree Distribution Sensibility in Petri Net-Based Models of Biological Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/publications/a32b3fd1-e1f6-4a1b-a76f-d293770a2960",
+      "authors": "B. Szawulak, P. Formanowicz",
+      "publication_type": "Artykuł , IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "year": "2025",
+      "doi": "10.1109/tcbbio.2025.3555827",
+      "doi_url": "https://www.doi.org/10.1109/tcbbio.2025.3555827",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Operacje na zbiorach słów jako sposób na określenie skali podobieństwa pomiędzy pokrewnymi językami (na przykładzie języków dolnołużyckiego i polskiego)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/publications/f47481ce-8977-4d66-8ab9-878bf0e86833",
+      "authors": "B. Szawulak, T. Lewaszkiewicz, P. Formanowicz",
+      "publication_type": "Artykuł , Lětopis. Zeitschrift für sorbische Sprache, Geschichte und Kultur (Serbski institut / Sorbisches Institut, Budyšin/Bautzen)",
+      "year": "2025",
+      "doi": "10.59195/lp.2025.72-51",
+      "doi_url": "https://www.doi.org/10.59195/lp.2025.72-51",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane kombinatoryczne aspekty analizy sekwencji biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/ce1bc056-0440-4365-92e0-bad172be0ed6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Szeregowanie zadań w systemach z ograniczoną dostępnością procesorów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/a7bcc7d4-c019-4169-90ac-9539bd254e23",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Grafy etykietowalne i sieci Petriego w analizie procesów biochemicznych i biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/c00c7777-8a05-4bff-b953-dfa68fe2b6f9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modele grafowe i algorytmy dla klasycznego problemu sekwencjonowania DNA przez hybrydyzację oraz dla jego odmiany z informacją o powtórzeniach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/861a4119-ea3f-46d0-924f-6529ab53013d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie metod opartych na teorii grafów do rozwiązywania wybranych problemów analizy sekwencji nukleotydowych i aminokwasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/2fae1e89-4485-4168-a577-d9d83dc12579",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Mathematical modeling of the tumor microenvironment with the aim of studying its heterogeneity as a driver of treatment resistance and a potential therapy target",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/f5651b69-f92b-4561-8c37-8696abcafac5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/62845d42-9f4b-43bf-9b0e-29372fa452c6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Predykcja złożonych cech fenotypowych w oparciu o ocenę polimorfizmów pojedynczego nukleotydu i metody uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.formanowicz.xyboRexQZZA/research-work/cf776d95-f71c-4e22-a6e5-32fb2a0638d5",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=93051"
+    }
+  ],
+  "tag_cloud": [
+    "aortic aneurysm, abdominal",
+    "kidney failure, chronic",
+    "inflammation",
+    "t-invariants",
+    "petri nets",
+    "atherosclerosis",
+    "models, biological",
+    "oxidative stress",
+    "modeling",
+    "arterial occlusive diseases"
+  ],
+  "coworkers": []
+}

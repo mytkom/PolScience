@@ -1,0 +1,147 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v",
+  "slug": "piotr.grall",
+  "profile_id": "zdsBbyXsg2v",
+  "full_name": "dr inż. Piotr Tomasz Grall",
+  "orcid": "0000-0002-5066-0459",
+  "orcid_url": "https://orcid.org/0000-0002-5066-0459",
+  "breadcrumb_name": "Piotr Grall",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "nawigacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "POPRAWA DOKŁADNOŚCI OKREŚLENIA GŁĘBOKOŚCI AKWENU ZA POMOCĄ ECHOSONDY INTERFEROMETRYCZNEJ",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/publications/eeb79dd6-b137-4cf5-8e74-4ad89de435c3",
+      "authors": "R. Bryś, P. Grall , M. Suchański, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.1",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Method for the correlation coefficient estimation of the bottom echo signal in the shallow water application using interferometric echo sounder",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/publications/a1bd4ef8-243c-42ca-9d0a-4fe552ac9570",
+      "authors": "J. Marszal, P. Grall",
+      "publication_type": "Artykuł , Vibrations in Physical Systems",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Direction-of-Arrival Estimation Methods in Interferometric Echo Sounding",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grall.zdsBbyXsg2v/publications/7bd86b5d-9e7e-4474-9de3-2c889dd11497",
+      "authors": "I. Kochanska, J. Marszal, P. Grall",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2020",
+      "doi": "10.3390/s20123556",
+      "doi_url": "https://www.doi.org/10.3390/s20123556",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

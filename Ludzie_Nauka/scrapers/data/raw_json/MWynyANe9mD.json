@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD",
+  "slug": "sławomir.kula",
+  "profile_id": "MWynyANe9mD",
+  "full_name": "dr inż. Sławomir Jerzy Kula",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Sławomir Kula",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnału mowy",
+    "systemy i sieci dostępowe",
+    "systemy teletransmisyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1982",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1977",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metoda wykrywania rogue ONU – nieposłusznej jednostki w sieci GPON",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/publications/f8d3066f-e711-4b17-a6c2-c042986876b0",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2019",
+      "doi": "10.15199/59.2019.7.33",
+      "doi_url": "https://www.doi.org/10.15199/59.2019.7.33",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of VHBB Services Migration From ADSL/2/2+ TO VDSL2 Technique",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/publications/53399bbc-a60b-4fe3-946d-81abdb0fd7ac",
+      "authors": "S. Kula , K. Dąbrowski, J. Obrycka, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Disruption of PLC Teletransmission Systems by Home Appliances",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/s%C5%82awomir.kula.MWynyANe9mD/publications/13b4f3a0-3813-481d-8e74-02681507666a",
+      "authors": "S. Kula , K. Dąbrowski, J. Obrycka, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59879"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

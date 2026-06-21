@@ -1,0 +1,244 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ",
+  "slug": "adrian.kliks",
+  "profile_id": "MqhnduVQ5gZ",
+  "full_name": "dr hab. inż. Adrian Mateusz Kliks",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Adrian Kliks",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ContRIS: A software framework for flexible control of reconfigurable intelligent surfaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/publications/cb603dfc-d277-43e8-b721-e5236920f96b",
+      "authors": "M. Sieradzka, Ł. Kułacz, A. Kliks",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2026",
+      "doi": "10.1016/j.softx.2026.102572",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2026.102572",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental Evaluation of the Environmental Impact on the RIS-Aided Communications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/publications/c6956530-6a1c-4707-be91-a86539c610bf",
+      "authors": "P. Hatka, M. Garczyk [...] A. Kliks , ... (+5)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2026",
+      "doi": "10.1109/access.2026.3667816",
+      "doi_url": "https://www.doi.org/10.1109/access.2026.3667816",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Spectrum occupancy detection supported by centralized or distributed federated learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/publications/b51f41a8-9dbf-4f3b-a517-95a9085a4371",
+      "authors": "Ł. Kułacz, A. Kliks",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2026",
+      "doi": "10.1016/j.eswa.2025.129146",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.129146",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody zwiększenia efektywności wykorzystania zasobów widmowych w przyszłych sieciach bezprzewodowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/20c9f18d-c9d3-4157-876e-30b079250bc7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nowe techniki transmisji i odbioru sygnałów z uogólnioną modulacją wielotonową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/3244aca3-a732-45a8-afc9-7445603666a8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wiarygodne i energooszczędne metody detekcji zajętości zasobów widmowych w systemach radia kognitywnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/ea869a7f-7b6a-45a2-9779-f764203e8b38",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Organizacja i automatyzacja zgodnego ze standardami, deklaratywnego procesu projektowania Network Slice/Subnet",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/89731b40-69b2-47b1-8586-75643533e533",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Machine Learning-based performance analysis to enhance the wireless network automation",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/97c4fd26-feda-4639-9993-71a8a2f1388c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Depth Completion for FMCW Radars",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.kliks.MqhnduVQ5gZ/research-work/4c3f6043-82c9-4fe3-a36f-cfa410d9ae26",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260207"
+    }
+  ],
+  "tag_cloud": [
+    "machine learning",
+    "vehicular dynamic spectrum access",
+    "renewable energy sources",
+    "v2x communications",
+    "5g",
+    "6g",
+    "dense wireless network",
+    "uav",
+    "reconfigurable intelligent surfaces",
+    "radio environment maps"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,264 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT",
+  "slug": "krzysztof.karbowski",
+  "profile_id": "kfpDjft51dT",
+  "full_name": "dr hab. inż. Krzysztof Karbowski",
+  "orcid": "0000-0002-3703-4031",
+  "orcid_url": "https://orcid.org/0000-0002-3703-4031",
+  "breadcrumb_name": "Krzysztof Karbowski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologia maszyn",
+    "inżynieria biomedyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Nauk Stosowanych w Nowym Sączu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ccc24230-94bd-4fab-9b88-dca9652e52c7",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Zespół Interdyscyplinarny do spraw Programu Wspierania Infrastruktury Badawczej w ramach Funduszu Nauki i Technologii Polskiej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/gremiums/1b0a29c7-b922-4143-9341-4314c5d3b0ab",
+      "period": "2011-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Krzysztof Karbowski"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of CFD airflows to aid in the diagnosis of nasal obstructions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/publications/c2eb1547-73fc-4776-909d-a1aa1a66411f",
+      "authors": "Z. Malecha, B. Kopiczak [...] K. Karbowski , ... (+8)",
+      "publication_type": "Artykuł , Journal of Physics: Conference Series",
+      "year": "2024",
+      "doi": "10.1088/1742-6596/2899/1/012010",
+      "doi_url": "https://www.doi.org/10.1088/1742-6596/2899/1/012010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Accuracy of virtual rhinomanometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/publications/245b8415-0da6-494d-b092-c04806fe2f2c",
+      "authors": "K. Karbowski , B. Kopiczak, J. Szaleniec, ... (+2)",
+      "publication_type": "Artykuł , Polish Journal of Medical Physics and Engineering",
+      "year": "2023",
+      "doi": "10.2478/pjmpe-2023-0008",
+      "doi_url": "https://www.doi.org/10.2478/pjmpe-2023-0008",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Development and implantation of 3D anatomically tailored polypropylene mesh for laparoscopic inguinal hernia repair designed on the basis of CT images (the ILAM study)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/publications/37ebf126-b1fc-4db2-979d-41660d129525",
+      "authors": "M. Śmietański, M. Zamkowski, K. Karbowski , ... (+1)",
+      "publication_type": "Artykuł , Surgical Innovation",
+      "year": "2023",
+      "doi": "10.1177/15533506231208335",
+      "doi_url": "https://www.doi.org/10.1177/15533506231208335",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Podstawy rekonstrukcji elementów maszyn i innych obiektów w procesach wytwarzania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/455a06f7-5ce2-456b-a956-f5d6be73373b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nadzorowanie stanu ostrza narzędzia skrawającego z zastosowaniem sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/9175f03d-7dcd-4f17-98c3-894e7f2a4002",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metody emisji akustycznej do oceny uszkodzeń stalowych konstrukcji mostowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/eb67ac55-83c7-441f-85e8-b2fde2d1ec3f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Model MES kości miednicy do analizy biomechanicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/48ce0336-0c19-4b2e-91a1-eeda5f4d010d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania energochłonności sekwencyjnych procesów obróbki części maszyn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/c5868e55-f882-4678-9475-1ec9eb67353b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metodyka projektowania oraz wytwarzania modeli medycznych żuchwy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.karbowski.kfpDjft51dT/research-work/eeabf559-ec6f-4faa-b416-d4797e147de1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85776"
+    }
+  ],
+  "tag_cloud": [
+    "computer system",
+    "system komputerowy",
+    "transabdominal preperitoneal repair",
+    "milling",
+    "frezowanie",
+    "reverse engineering",
+    "computed tomography",
+    "computer modeling",
+    "inżynieria odwrotna",
+    "laparoscopic"
+  ],
+  "coworkers": []
+}

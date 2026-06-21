@@ -1,0 +1,248 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ",
+  "slug": "katarzyna.filipiak",
+  "profile_id": "E6Eouw0pDcJ",
+  "full_name": "dr hab. inż. Katarzyna Filipiak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Katarzyna Filipiak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "statystyka matematyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "14 lat",
+      "duration": null,
+      "institution": "Uniwersytet Przyrodniczy w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/154a0276-f7ef-42a3-a8d6-752e46ffd139",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Statystyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/gremiums/039c699d-12c0-4e82-a2f8-065118e08b5c",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Safety Belt estimator under multivariate linear models with inequality constraints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/publications/c4be1f98-9b02-45b3-8dc9-35a2244f20ca",
+      "authors": "K. Filipiak , D. von Rosen, W. Rejchel, ... (+1)",
+      "publication_type": "Artykuł , Journal of Statistical Planning and Inference",
+      "year": "2026",
+      "doi": "10.1016/j.jspi.2025.106335",
+      "doi_url": "https://www.doi.org/10.1016/j.jspi.2025.106335",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Estimation and sufficiency under the mixed effects extended growth curve model with compound symmetry covariance structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/publications/bc7837be-0ede-4e7a-92e4-e31e55b9552b",
+      "authors": "K. Filipiak , A. Markiewicz, P. Krajewski, ... (+1)",
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2025",
+      "doi": "10.3390/sym17111901",
+      "doi_url": "https://www.doi.org/10.3390/sym17111901",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Likelihood ratio test for covariance matrix under multivariate t distribution with uncorrelated observations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/publications/bdf19569-a47b-4e10-ae54-5d0b52bad45b",
+      "authors": "K. Filipiak , D. Klein, S. Mazur, ... (+1)",
+      "publication_type": "Artykuł , Journal of Multivariate Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.jmva.2025.105490",
+      "doi_url": "https://www.doi.org/10.1016/j.jmva.2025.105490",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalność kołowych układów blokowych w modelach współoddziaływania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work/510bc45a-6014-4315-ac33-6f16a74aaaab",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalne układy doświadczalne w modelach współoddziaływania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work/9bfbb6f6-e6f3-4abb-97eb-83653826cee7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Aproksymacja macierzy kowariancji wybranymi strukturami w modelach podwójnie wielowymiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work/17286463-37bf-46a1-9482-86778fdcd07f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie cyklostacjonarnych szeregów czasowych z szumem stabilnym i ich zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work/1bb4b004-9ecb-41c4-9a16-f63e915dc85e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Estymacja i testowanie hipotez dla wybranych wielowymiarowych modeli normalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.filipiak.E6Eouw0pDcJ/research-work/78ec4e0c-3039-4a15-9290-3415c1389d61",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=130892"
+    }
+  ],
+  "tag_cloud": [
+    "doubly multivariate model",
+    "neighbor design",
+    "covariance structure",
+    "entropy loss function",
+    "likelihood ratio test",
+    "rao score test",
+    "wald test",
+    "circular neighbor balanced design",
+    "independence",
+    "układy sasiedzkie"
+  ],
+  "coworkers": []
+}

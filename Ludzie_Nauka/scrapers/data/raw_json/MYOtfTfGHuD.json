@@ -1,0 +1,301 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD",
+  "slug": "wojciech.kustrzycki",
+  "profile_id": "MYOtfTfGHuD",
+  "full_name": "prof. dr hab. Wojciech Kustrzycki",
+  "orcid": "0000-0003-0484-7738",
+  "orcid_url": "https://orcid.org/0000-0003-0484-7738",
+  "breadcrumb_name": "Wojciech Kustrzycki",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "kardiochirurgia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "40 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Niepubliczna Wyższa Szkoła Medyczna we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2bfdce07-573a-4760-ace9-f7aa1ff990dd"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1981",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna im. Piastów Śląskich we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of the psychometric properties of the Tampa Scale of Kinesiophobia (TSK) questionnaire in Poland based on patients with type 2 diabetes complicated by stroke",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/publications/62d87c12-8070-42bf-b927-8c64ad5b5f11",
+      "authors": "E. Bąk, W. Kustrzycki , R. Skalik, ... (+2)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14051751",
+      "doi_url": "https://www.doi.org/10.3390/jcm14051751",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The therapeutic potential of different surgical approaches in the management of cardiac myxoma: a systematic review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/publications/e1c996da-dc76-45a1-b11c-de18dfcc2523",
+      "authors": "R. Skalik, D. Mendyka [...] W. Kustrzycki , ... (+5)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14010121",
+      "doi_url": "https://www.doi.org/10.3390/jcm14010121",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Wpływ sprawności psychomotorycznej oraz temperatury wewnętrznej ciała na wydolność fizyczną u sportowców",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/publications/e2ab6c9e-8bff-43c8-8b5d-21225ea98825",
+      "authors": "R. Skalik, A. Janocha, W. Kustrzycki",
+      "publication_type": "Artykuł , Medycyna Pracy",
+      "year": "2025",
+      "doi": "10.13075/mp.5893.01630",
+      "doi_url": "https://www.doi.org/10.13075/mp.5893.01630",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ chirurgicznej rewaskularyzacji wieńcowej w krążeniu pozaustrojowym w normotermii i hipotermii na zmiany w układzie krzepnięcia i fibrynolizy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/f431f408-eae3-4dc9-98f2-30edb1d03d25",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena wyników chirurgicznego leczenia niestabilnej dławicy w grupie chorych operowanych ze wskazań nagłych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/c227a977-b032-4337-8443-73669215cc76",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza biomechaniczna i kliniczna wrappingu aorty wstępującej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/d874f4e9-c073-4051-a086-9949ecaa839d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena czynników ryzyka zmian czynnościowych nerek u pacjentów poddawanych operacjom kardiochirurgicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/68bb820b-378e-416f-95be-4425ec90bd1a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Ocena wydolności układu oddechowego w obserwacji krótko i długoterminowej u pacjentów po różnych typach zabiegów kardiochirurgicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/d9cb791e-c351-43ae-b2b5-5142f4d3e98b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Anatomy of the left atrial appendage neck",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/7faa91e1-2f8f-43ca-9109-9946affec627",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena przedoperacyjnego ryzyka i predykcji zagrożeń powikłaniami u chorych geriatrycznych operowanych kardiochirurgicznie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/390b9353-cf7b-41f9-9814-e006844de4cf",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.kustrzycki.MYOtfTfGHuD/research-work/7fe0b386-bafd-46bf-bf67-127df90eb923",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=13888"
+    }
+  ],
+  "tag_cloud": [
+    "patient discharge",
+    "coronary revascularization",
+    "restenoza",
+    "extracorporeal circulation",
+    "restenosis",
+    "secondary prevention",
+    "myocardial infarction",
+    "kardiochirurgia",
+    "rewaskularyzacja wieńcowa",
+    "cross-sectional studies"
+  ],
+  "coworkers": []
+}

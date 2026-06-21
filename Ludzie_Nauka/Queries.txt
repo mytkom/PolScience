@@ -1,0 +1,102 @@
+1) Full publication content (important)
+SELECT 
+    profile_id,
+    year,
+    publication_type,
+    title,
+    authors,
+    doi
+
+
+FROM publications
+
+WHERE profile_id = 'mPCgc6OyQIM'
+LIMIT 20;
+
+
+SELECT profile_id, full_name, orcid
+FROM profiles
+wHERE profile_id = 'mPCgc6OyQIM';
+
+
+2) Show the schema 
+
+
+.tables
+.schema profiles
+
+
+3) Global size of the dataset
+
+SELECT COUNT(*) AS total_profiles FROM profiles;
+SELECT COUNT(*) AS total_publications FROM publications;
+SELECT COUNT(*) AS total_employment_rows FROM employment_history;
+
+
+
+4) Show scraping completeness
+
+SELECT scrape_status, COUNT(*) 
+FROM profiles 
+GROUP BY scrape_status;
+
+
+5) Show a real profile 
+
+SELECT profile_id, full_name, orcid
+FROM profiles
+LIMIT 5;
+
+6) Deep dive into one profile
+
+
+SELECT *
+FROM profiles
+WHERE profile_id = 'mPCgc6OyQIM';
+
+
+7) Show their academic titles
+
+SELECT year, degree_or_title
+FROM degrees_titles
+WHERE profile_id = 'mPCgc6OyQIM'
+ORDER BY row_order;
+
+
+8) Show publications (key feature)
+SELECT year, publication_type, title
+FROM publications
+WHERE profile_id = 'mPCgc6OyQIM'
+LIMIT 10;
+
+
+
+9) Show distribution of publication types (analytics)
+SELECT publication_type, COUNT(*) AS n
+FROM publications
+GROUP BY publication_type
+ORDER BY n DESC
+LIMIT 10;
+
+
+10) Show data richness per profile
+
+SELECT 
+    p.full_name,
+    COUNT(DISTINCT pub.id) AS publications,
+    COUNT(DISTINCT d.id) AS degrees
+FROM profiles p
+LEFT JOIN publications pub ON p.profile_id = pub.profile_id
+LEFT JOIN degrees_titles d ON p.profile_id = d.profile_id
+GROUP BY p.profile_id
+ORDER BY publications DESC
+LIMIT 10;
+
+
+
+11) Show raw scraped data (proof of scraping)
+
+SELECT raw_json_path
+FROM profiles
+WHERE profile_id = 'mPCgc6OyQIM';
+

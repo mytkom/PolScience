@@ -1,0 +1,304 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq",
+  "slug": "tomasz.roleder",
+  "profile_id": "MQoxs16nAWq",
+  "full_name": "prof. dr hab. Tomasz Marek Roleder",
+  "orcid": "0000-0002-1370-7369",
+  "orcid_url": "https://orcid.org/0000-0002-1370-7369",
+  "breadcrumb_name": "Tomasz Roleder",
+  "current_employment_summary": [
+    "Politechnika Wrocławska",
+    "Wojewódzki Szpital Specjalistyczny we Wrocławiu"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "choroby wewnętrzne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Wojewódzki Szpital Specjalistyczny we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b12c7dc2-d5b8-4391-a9be-257bc0f628df",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Śląski Uniwersytet Medyczny w Katowicach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Śląski Uniwersytet Medyczny w Katowicach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki medyczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Śląski Uniwersytet Medyczny w Katowicach; Wydział Nauk Medycznych w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/97e4801c-fbdc-47d9-a5af-49a6aa5f50ac"
+        },
+        {
+          "label": "Śląski Uniwersytet Medyczny w Katowicach >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki medyczne / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Śląski Uniwersytet Medyczny w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef"
+        },
+        {
+          "label": "Wojewódzki Szpital Specjalistyczny we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b12c7dc2-d5b8-4391-a9be-257bc0f628df"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2004",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Śląska Akademia Medyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Artificial intelligence for the analysis of intracoronary optical coherence tomography images: a systematic review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/publications/e68af7ad-e388-4c31-8a6d-dde24657778c",
+      "authors": "T. Roleder , R. van der Waerden, R. Volleberg, ... (+18)",
+      "publication_type": "Artykuł , European Heart Journal - Digital Health",
+      "year": "2025",
+      "doi": "10.1093/ehjdh/ztaf005",
+      "doi_url": "https://www.doi.org/10.1093/ehjdh/ztaf005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Artificial intelligence-based identification of thin-cap fibroatheromas and clinical outcomes: the PECTUS-AI study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/publications/2c9f11f3-1617-458d-aaab-962fd28f701f",
+      "authors": "R. Volleberg, T. Luttikholt [...] T. Roleder , ... (+12)",
+      "publication_type": "Artykuł , European Heart Journal",
+      "year": "2025",
+      "doi": "10.1093/eurheartj/ehaf595",
+      "doi_url": "https://www.doi.org/10.1093/eurheartj/ehaf595",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessment of acute coronary syndromes among patients with left main coronary artery disease in centers with and without cardiac surgery on-site. Data from PL-ACS registry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/publications/6521afa3-3cfb-4032-94d7-16bae7ab888d",
+      "authors": "K. Śmiech, K. Brust [...] T. Roleder , ... (+4)",
+      "publication_type": "Artykuł , Cardiology Journal",
+      "year": "2025",
+      "doi": "10.5603/cj.98087",
+      "doi_url": "https://www.doi.org/10.5603/cj.98087",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/b821576c-dd7f-4c56-b94f-9dc0b7865c4e",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Nowoczesne techniki obrazowania wewnątrznaczyniowego w ocenie patologii naczyń wieńcowych i tętnic nerkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/4a299a9a-4877-49e0-983a-785417b53356",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Czynność skurczowa i rozkurczowa niedotlenionego mięśnia sercowego modyfikowana ingerencją w układ tlenkowo-azotowy w modelu in vitro",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/add2cce5-62d0-4f01-bc18-37b6e3bd1888",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zaburzenia rytmu i przewodnictwa u chorych z obturacyjnym bezdechem sennym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/27cdde84-a63c-473d-bd99-260da7c186b3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza morfologii ścian żylnych pomostów aortalno-wieńcowych zlokalizowanych w miejscach angiograficznie zwężonych i pozbawionych istotnych zwężeń za pomocą optycznej koherentnej tomografii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/416b508f-77f9-4be9-a5a2-375249d14b82",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Funkcja śródbłonka naczyniowego a stopień uwapnienia tętnic wieńcowych w ocenie ryzyka choroby niedokrwiennej serca u kobiet",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/d672eb2d-1ae7-4535-b16a-41c8bdd26489",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Przebieg leczenia zabiegowego w chorobie zastawek oraz tętnic obwodowych i wieńcowych u kobiet i mężczyzn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/8f9f071a-4c63-443f-b1fb-2c51823f0353",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Sztywność i elastyczność aorty oceniane metodą wielorzędowej tomografii komputerowej jako potencjalne markery zdrowia i ryzyka sercowo-naczyniowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.roleder.MQoxs16nAWq/research-work/823dc308-0cf1-4036-9274-9ad2ab0e9b58",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=220695"
+    }
+  ],
+  "tag_cloud": [
+    "percutaneous coronary intervention",
+    "eorp",
+    "absorb; vein graft; optical coherence tomography; high-definition intravascular ultrasound",
+    "interwencje wieńcowe przezskórne",
+    "coronary artery disease",
+    "saphenous vein graft",
+    "stenty - wykorzystanie",
+    "badania kliniczne",
+    "non-interventional",
+    "local delivery"
+  ],
+  "coworkers": []
+}

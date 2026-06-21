@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz",
+  "slug": "marta.marciniuk",
+  "profile_id": "NsSgTSoluVz",
+  "full_name": "mgr inż. Marta Aleksandra Marciniuk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marta Marciniuk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Aerodynamic analysis of high-cambered morphing airfoils using computational fluid dynamics and particle image velocimetry methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/publications/dc3ba160-cb9c-40dc-8c12-1164e190486b",
+      "authors": "Ł. Kiszkowiak, M. Marciniuk , P. Piskur, ... (+3)",
+      "publication_type": "Artykuł , Aircraft Engineering and Aerospace Technology",
+      "year": "2025",
+      "doi": "10.1108/aeat-04-2025-0152",
+      "doi_url": "https://www.doi.org/10.1108/aeat-04-2025-0152",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "AERODYNAMIC ANALYSIS OF CAMBERMORPHINGAIRFOILS USING PARTICLE IMAGE VELOCIMETRY AND COMPUTATIONAL FLUID DYNAMICS METHODS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/publications/f50c3f24-f4e4-49fc-8945-53c1b8e5328a",
+      "authors": "M. Marciniuk , Ł. Kiszkowiak, P. Piskur, ... (+4)",
+      "publication_type": "Artykuł , ICAS Procedings",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Aerodynamic analysis of variable camber-morphing airfoils with substantial camber deflections",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.marciniuk.NsSgTSoluVz/publications/e3b9589b-8428-437b-9c6a-2f8879fa9a5c",
+      "authors": "M. Marciniuk , P. Piskur, Ł. Kiszkowiak, ... (+5)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17081801",
+      "doi_url": "https://www.doi.org/10.3390/en17081801",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

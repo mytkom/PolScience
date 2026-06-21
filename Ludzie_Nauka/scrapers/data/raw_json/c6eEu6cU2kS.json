@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS",
+  "slug": "leszek.pawlaczyk",
+  "profile_id": "c6eEu6cU2kS",
+  "full_name": "dr hab. inż. Leszek Pawlaczyk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Leszek Pawlaczyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "automatyka napędu elektrycznego",
+    "energoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "41 lat",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80596988-fc15-4b0d-9a7d-d0a952b3a430"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1985",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "napęd elektryczny i automatyzacja urządzeń przemysłowych",
+        "Nadanie tytułu",
+        "Białoruski Państwowy Instytut Politechniczny w Mińsku • Związek Socjalistycznych Republik Radzieckich",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wieloszczelinowe rdzenie w dławikach filtrów sinusoidalnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/publications/cd9911cd-c96f-407b-95ac-2c4ef6584591",
+      "authors": "L. Pawlaczyk , M. Łukiewski, A. Lukiewska",
+      "publication_type": "Artykuł , Maszyny Elektryczne. Zeszyty Problemowe",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza energetyczna układów sterowania nieliniowego prądem wyjściowym falowników w układach napędowych z silnikiem indukcyjnym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/publications/34b80145-9730-4020-97bf-ca640e412c27",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2013",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sterowanie ekstremalne momentem elektromagnetycznym maszyny indukcyjnej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/publications/779da06b-e9d1-4e57-9c73-8b6f7f13e190",
+      "authors": null,
+      "publication_type": "Książka , Oficyna Wydawnicza Politechniki Wrocławskiej",
+      "year": "2013",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie ekstremalne momentem elektromagnetycznym maszyny indukcyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work/4e8f3319-485e-4763-9896-51b6df905bae",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Częstotliwościowe sterowanie silników indukcyjnych dołowych lokomotyw kopalnianych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work/6c0de522-7c14-4851-9ce5-6457b130da70",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metody ograniczania strat energii w sterowalnych, półprzewodnikowych elementach przekształtników energoelektronicznych. Wyniki badań nowych topologii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work/d4165295-9551-4785-9d03-16858d07b3f1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Cykl powiązanych tematycznie artykułów naukowych pt.: Efektywne metody optymalizacji urządzeń elektromagnetycznych opisanych polowymi modelami zjawisk”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work/3e909797-204f-4a21-ac62-cdf2cfd6a2cf",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Sterowanie wektorowe prądnicy dwustronnie zasilanej pracującej w warunkach sieci asymetrycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.pawlaczyk.c6eEu6cU2kS/research-work/34753aec-63cd-420e-a4e1-dc3d66fe3af3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=60315"
+    }
+  ],
+  "tag_cloud": [
+    "neural network",
+    "frequency control",
+    "sterowanie częstotliwościowe",
+    "induction motor",
+    "electric drive",
+    "energoelektronika",
+    "napęd elektryczny",
+    "sieć neuronowa",
+    "silnik indukcyjny",
+    "power electronics"
+  ],
+  "coworkers": []
+}

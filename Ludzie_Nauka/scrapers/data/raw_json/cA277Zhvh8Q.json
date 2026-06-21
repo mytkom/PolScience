@@ -1,0 +1,140 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q",
+  "slug": "aleksander.kniat",
+  "profile_id": "cA277Zhvh8Q",
+  "full_name": "dr Aleksander Kniat",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Aleksander Kniat",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "grafika komputerowa",
+    "systemy CAD"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A comparative analysis of numerically simulated and experimentally measured static responses of a floating dock",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/publications/6ac7ebf8-5a16-4bdd-a671-370309bb7738",
+      "authors": "A. Kniat , J. Zhang, X. Wen, ... (+1)",
+      "publication_type": "Artykuł , Ships and Offshore Structures",
+      "year": "2025",
+      "doi": "10.1080/17445302.2024.2336670",
+      "doi_url": "https://www.doi.org/10.1080/17445302.2024.2336670",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparative study of numerical modelling and experimental investigation for vessel-docking operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/publications/fa18fe59-4655-4ec7-bd84-795601f1dbbb",
+      "authors": "A. Kniat , X. Wen, J. Zhang, ... (+1)",
+      "publication_type": "Artykuł , Marine Structures",
+      "year": "2024",
+      "doi": "10.1016/j.marstruc.2024.103680",
+      "doi_url": "https://www.doi.org/10.1016/j.marstruc.2024.103680",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Vertical motions damping model test of a lifeboat lowered onto a flat sea surface",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/publications/ca2f0e75-5cab-49b5-a78b-4114825c8f00",
+      "authors": "A. Kniat , P. Dymarski",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2018",
+      "doi": "10.2478/pomr-2018-0022",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2018-0022",
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytm optymalizacji przebiegu tras rurociągów w ograniczonej przestrzeni statku, wykorzystujący metody poszukiwania drzewa Steinera",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.kniat.cA277Zhvh8Q/research-work/f44d3aee-7c00-4e53-8d68-8e7725ba933c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108346"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

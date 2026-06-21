@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w",
+  "slug": "marcin.nowakowski",
+  "profile_id": "UkBngAJ1p3w",
+  "full_name": "dr inż. Marcin Łukasz Nowakowski",
+  "orcid": "0000-0003-1251-559X",
+  "orcid_url": "https://orcid.org/0000-0003-1251-559X",
+  "breadcrumb_name": "Marcin Nowakowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Fizyki Technicznej i Matematyki Stosowanej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a5512b06-de8f-4174-a997-e9b13048eac6"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Consistency of Quantum Computation and the Equivalence Principle.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/publications/72b6856a-5825-4bfb-bb53-0be86676bd4a",
+      "authors": null,
+      "publication_type": "Artykuł , Foundations of Science",
+      "year": "2024",
+      "doi": "10.1007/s10699-023-09899-9",
+      "doi_url": "https://www.doi.org/10.1007/s10699-023-09899-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dynamical nonlocality in quantum time via modular operators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/publications/53daf92a-280e-4cfa-838d-9916ebbc5feb",
+      "authors": "M. Nowakowski , I. Paiva, E. Cohen",
+      "publication_type": "Artykuł , Physical Review A",
+      "year": "2022",
+      "doi": "10.1103/physreva.105.042207",
+      "doi_url": "https://www.doi.org/10.1103/physreva.105.042207",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comment on \"Measurements without probabilities in the final state proposal\"",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/publications/a587d8bf-ae57-48fc-ba48-1c9f95fd4471",
+      "authors": "M. Nowakowski , E. Cohen",
+      "publication_type": "Artykuł , Physical Review D",
+      "year": "2018",
+      "doi": "10.1103/physrevd.97.088501",
+      "doi_url": "https://www.doi.org/10.1103/physrevd.97.088501",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "O symetrycznej rozszerzalności stanów kwantowych i jej zastosowaniach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.nowakowski.UkBngAJ1p3w/research-work/4c4136b4-5022-4695-958e-5c19efae6715",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=284937"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz",
+  "slug": "adam.leszczyński",
+  "profile_id": "9rKj1KB6HYz",
+  "full_name": "dr Adam Leszczyński",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Adam Leszczyński",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Spectral Superresolution Using a Quantum Memory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/publications/9f5a581a-f46b-4a4a-b2d2-435c7905b7cb",
+      "authors": "M. Mazelanik, A. Leszczyński , M. Parniak-Niedojadło",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/cleo/europe-eqec57999.2023.10231830",
+      "doi_url": "https://www.doi.org/10.1109/cleo/europe-eqec57999.2023.10231830",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optical-domain spectral super-resolution via a quantum-memory-based time-frequency processor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/publications/0ac5a1c9-073a-417e-8bff-a88ff8b50863",
+      "authors": "M. Mazelanik, A. Leszczyński , M. Parniak-Niedojadło",
+      "publication_type": "Artykuł , Nature Communications",
+      "year": "2022",
+      "doi": "10.1038/s41467-022-28066-5",
+      "doi_url": "https://www.doi.org/10.1038/s41467-022-28066-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Massively-multiplexed generation of Bell-type entanglement using a quantum memory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/publications/540dc67c-3072-43de-bae3-450fdd452d05",
+      "authors": "M. Lipka, M. Mazelanik, A. Leszczyński , ... (+2)",
+      "publication_type": "Artykuł , Communications Physics",
+      "year": "2021",
+      "doi": "10.1038/s42005-021-00551-1",
+      "doi_url": "https://www.doi.org/10.1038/s42005-021-00551-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przestrzenna modulacja fazy jako nastawny mechanizm transferu informacji między światłem, a pamięcią kwantową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.leszczy%C5%84ski.9rKj1KB6HYz/research-work/9422d57e-efe0-402a-b086-d894665a1cea",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=323343"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

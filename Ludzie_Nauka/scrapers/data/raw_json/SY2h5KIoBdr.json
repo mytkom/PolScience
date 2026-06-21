@@ -1,0 +1,294 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr",
+  "slug": "marek.izydorek",
+  "profile_id": "SY2h5KIoBdr",
+  "full_name": "prof. dr hab. Marek Izydorek",
+  "orcid": "0000-0003-4219-2197",
+  "orcid_url": "https://orcid.org/0000-0003-4219-2197",
+  "breadcrumb_name": "Marek Izydorek",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analiza nieliniowa",
+    "topologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk matematycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Polska Akademia Nauk, Instytut Matematyczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Polska Akademia Nauk, Instytut Matematyczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/gremiums/ac039165-7a6e-452c-9793-80e053a7c9c8",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The equivariant spectral flow and bifurcation for functionals with symmetries: part I",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/publications/f8c92fa8-d6e1-48ba-b4b3-c7352e756c3d",
+      "authors": "M. Izydorek , J. Janczewska, M. Starostka, ... (+1)",
+      "publication_type": "Artykuł , Mathematische Annalen",
+      "year": "2025",
+      "doi": "10.1007/s00208-025-03291-7",
+      "doi_url": "https://www.doi.org/10.1007/s00208-025-03291-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Periodic solutions of Lagrangian systems under small perturbations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/publications/2ffd98c1-cd54-45a2-b6df-ac289f3f5464",
+      "authors": "M. Izydorek , J. Janczewska, N. Waterstraat",
+      "publication_type": "Artykuł , Communications in Contemporary Mathematics",
+      "year": "2024",
+      "doi": "10.1142/s0219199724500317",
+      "doi_url": "https://www.doi.org/10.1142/s0219199724500317",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A convergence result for mountain pass periodic solutions of perturbed Hamiltonian systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/publications/6d314669-3148-4673-8ac3-39f3091f48a5",
+      "authors": "M. Izydorek , J. Janczewska, P. Soares",
+      "publication_type": "Artykuł , Communications in Contemporary Mathematics",
+      "year": "2023",
+      "doi": "10.1142/s0219199722500110",
+      "doi_url": "https://www.doi.org/10.1142/s0219199722500110",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Niezmienniki typu Morse'a - Couley'a w mocno nieokreślonych problemach wariacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/ea68cc9c-bd98-4b21-b54f-1bfe17a36886",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Twierdzenie Borsuka-Ulama dla wolnego działania grupy Kpα",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/6d27ed6f-f168-4302-932c-5fce0f9f914f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Istnienie i regularność heteroklinicznych rozwiązań równania Allena-Cahna z anizotropowym operatorem eliptycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/9e53cfd2-5469-4665-ab0c-883def8f23fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rozpiętość kohomologiczna LS-indeksu i rozwiązania okresowe układów hamiltonowskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/3434392f-c05d-4e7d-8bcc-e94f28b59118",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Niezmienniki topologiczne dla potoków z symetriam: Indeks Conleya i stopień odwzorowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/56ba9268-faaa-4ec8-a2c4-786b48b95600",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "The Pitchfork bifurcation in the Kuramoto-Sivashinsky PDE",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/7af9ea12-9cfb-4c4e-b56e-f2287c9dfa05",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Eliptyczne i paraboliczne równania różniczkowe cząstkowe z ograniczeniami na stan",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/e23174ec-a9dc-47ae-b699-26ed57a12881",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Operatory różniczkowe w wiązce tensorów symetrycznych na rozmaitości riemannowskiej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.izydorek.SY2h5KIoBdr/research-work/4840f50b-181d-4938-95cf-7e0fa931e52e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=23907"
+    }
+  ],
+  "tag_cloud": [
+    "(local) morse homology",
+    "variational method",
+    "buckling",
+    "spectral flow",
+    "hamiltonian systems",
+    "bifurcation",
+    "winkler foundation",
+    "morse–conley–floer homology",
+    "perturbation problem",
+    "periodic solution"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY",
+  "slug": "tomasz.galek",
+  "profile_id": "t6dsKegUpZY",
+  "full_name": "dr inż. Tomasz Galek",
+  "orcid": "0000-0001-7775-0908",
+  "orcid_url": "https://orcid.org/0000-0001-7775-0908",
+  "breadcrumb_name": "Tomasz Galek",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Universität Rostock",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Examination of the Internal Surface of a Firing Chamber of Armament Elements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/publications/b60fd223-805d-4618-861d-21c011ce3a92",
+      "authors": "K. Łysiak, J. Czaja [...] T. Galek , ... (+3)",
+      "publication_type": "Artykuł , Key Engineering Materials",
+      "year": "2025",
+      "doi": "10.4028/p-y2yvgl",
+      "doi_url": "https://www.doi.org/10.4028/p-y2yvgl",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Preparation and characterization of novel nanofibrous composites prepared by electrospinning as multifunctional platforms for guided bone regeneration procedures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/publications/c6f9d884-5f4b-46f8-8dd7-c7816c829cad",
+      "authors": "Ł. Janus, J. Radwan-Pragłowska [...] T. Galek , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15052578",
+      "doi_url": "https://www.doi.org/10.3390/app15052578",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Simulation and Experimental Validation of Orbital Laser Welding of Aluminum Alloy Tubes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.galek.t6dsKegUpZY/publications/7ab89a12-1a79-4706-a52d-c3ae15baaa9a",
+      "authors": "M. Tupaj, T. Galek , K. Łysiak, ... (+1)",
+      "publication_type": "Artykuł , Materials Science Forum",
+      "year": "2025",
+      "doi": "10.4028/p-l4k1o0",
+      "doi_url": "https://www.doi.org/10.4028/p-l4k1o0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=312538"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

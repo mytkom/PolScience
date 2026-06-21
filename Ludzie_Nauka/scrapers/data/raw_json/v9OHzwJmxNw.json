@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw",
+  "slug": "stanisław.gardecki",
+  "profile_id": "v9OHzwJmxNw",
+  "full_name": "dr inż. Stanisław Gardecki",
+  "orcid": "0000-0001-6076-2523",
+  "orcid_url": "https://orcid.org/0000-0001-6076-2523",
+  "breadcrumb_name": "Stanisław Gardecki",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Per-Pixel Manifold-Based Color Calibration Technique",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/publications/0745050e-7f30-44c3-ab16-0f366d58cc88",
+      "authors": "S. Gardecki , K. Wegner, T. Grajek, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15063128",
+      "doi_url": "https://www.doi.org/10.3390/app15063128",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A Study on Coaxial Quadrotor Model Parameter Estimation: an Application of the Improved Square Root Unscented Kalman Filter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/publications/e3075481-d80e-4e6b-8678-56fa26ff4ccd",
+      "authors": "W. Giernacki, J. Gośliński, S. Gardecki , ... (+3)",
+      "publication_type": "Artykuł , Journal of Intelligent and Robotic Systems: Theory and Applications",
+      "year": "2019",
+      "doi": "10.1007/s10846-018-0857-x",
+      "doi_url": "https://www.doi.org/10.1007/s10846-018-0857-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Development of the Sensory Network for the Vibration-based Fault Detection and Isolation in the Multirotor UAV Propulsion System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/publications/757be1fc-3b27-4e2d-84cd-cfe50db16803",
+      "authors": "A. Kasiński, A. Bondyra, S. Gardecki , ... (+2)",
+      "publication_type": "Artykuł , Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics",
+      "year": "2018",
+      "doi": "10.5220/0006846801120119;10.5220/0006846801020109",
+      "doi_url": "https://www.doi.org/10.5220/0006846801120119;10.5220/0006846801020109",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Stabilizacja lotu wielowirnikowego robota latającego z napędem elektrycznym w warunkach zmiennego obciążenia i konfiguracji z wykorzystaniem pokładowych systemów mikroawioniki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.gardecki.v9OHzwJmxNw/research-work/41feb9f1-1bdc-4c05-9e0d-99b6d848ee43",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281471"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

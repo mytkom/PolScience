@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97",
+  "slug": "mariusz.gola",
+  "profile_id": "Q0t5JsQXI97",
+  "full_name": "dr inż. Mariusz Grzegorz Gola",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Mariusz Gola",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bezpieczeństwo danych",
+    "grafika komputerowa",
+    "sieci komputerowe",
+    "systemy informatyczne",
+    "systemy operacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Nysie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Nysie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5714bcce-ef38-47d5-a3f2-52ada93b82bf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / brak na dyplomie",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska im. Gen. A. Zawadzkiego w Opolu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Smart network anomaly detection software architecture for network-enabled ubiquitous devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/publications/af0c8e94-80a2-4673-963f-1c7e78ba2170",
+      "authors": "M. Pelc, D. Galus, M. Gola , ... (+1)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2023",
+      "doi": "10.24425/bpasts.2023.146285",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2023.146285",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A note on capacity provisioning in SDN service provider network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/publications/c9232a83-aa68-462f-bfc2-15b9cf2cbd22",
+      "authors": "M. Gola , A. Czubak",
+      "publication_type": "Artykuł",
+      "year": "2015",
+      "doi": "10.21936/si2015_v36.n4.740",
+      "doi_url": "https://www.doi.org/10.21936/si2015_v36.n4.740",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Approximate Algorithm for Fast Capacity Provisioning in WANs with Trade-Off between Performance and Cost under Budget Constraint",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/publications/c8ab3200-a1b8-4502-840b-162763dc67a7",
+      "authors": "A. Czubak, M. Gola",
+      "publication_type": "Artykuł",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy optymalizacji przepływów i przepustowości kanałów w rozległych sieciach komputerowych przy uogólnionym kryterium kosztowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.gola.Q0t5JsQXI97/research-work/8c6b1ae0-ffed-4a16-b91e-c35844a8aa33",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92130"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

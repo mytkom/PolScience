@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH",
+  "slug": "maciej.gruza",
+  "profile_id": "ZK2CjYvLhbH",
+  "full_name": "dr inż. Maciej Ludwik Gruza",
+  "orcid": "0000-0002-2880-8760",
+  "orcid_url": "https://orcid.org/0000-0002-2880-8760",
+  "breadcrumb_name": "Maciej Gruza",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Correction of measurement accuracy for optical measuring machines depending on the direction vector of the point",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/publications/c7e047a9-bd1e-49c5-843e-21368251c891",
+      "authors": "W. Harmatys, A. Gąska, M. Gruza , ... (+1)",
+      "publication_type": "Artykuł , Measurement: Sensors",
+      "year": "2025",
+      "doi": "10.1016/j.measen.2024.101659",
+      "doi_url": "https://www.doi.org/10.1016/j.measen.2024.101659",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Identification of the influence of IPA rinsing times on surface roughness of SLA-printed parts made of different materials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/publications/991ca6a9-f450-4f4a-a2cc-3e9bfa457858",
+      "authors": "W. Harmatys, A. Gąska [...] M. Gruza , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18092082",
+      "doi_url": "https://www.doi.org/10.3390/ma18092082",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "New method for testing the laser tracker length measuring unit using a large-scale horizontal arm CMM and its application for assessing the accuracy of distance measurements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.gruza.ZK2CjYvLhbH/publications/d41b637a-a107-4651-a5c5-7bf63a402395",
+      "authors": "M. Gruza , P. Gąska, W. Harmatys, ... (+1)",
+      "publication_type": "Artykuł , Precision Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.precisioneng.2025.02.017",
+      "doi_url": "https://www.doi.org/10.1016/j.precisioneng.2025.02.017",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

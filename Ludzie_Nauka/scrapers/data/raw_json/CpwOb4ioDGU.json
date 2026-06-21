@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU",
+  "slug": "grzegorz.romanik",
+  "profile_id": "CpwOb4ioDGU",
+  "full_name": "dr inż. Grzegorz Krzysztof Romanik",
+  "orcid": "0000-0001-8920-2175",
+  "orcid_url": "https://orcid.org/0000-0001-8920-2175",
+  "breadcrumb_name": "Grzegorz Romanik",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcja maszyn",
+    "technika uszczelniania maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Tensile and structural performance of annealed 3D-printed polymer composite impellers for pump-as-turbine applications in district heating networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/publications/d162d607-9877-46f7-8271-8127884d48d9",
+      "authors": "D. Błoński, G. Romanik , M. Augustyn, ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2026",
+      "doi": "10.3390/ma19010127",
+      "doi_url": "https://www.doi.org/10.3390/ma19010127",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Leakage from closed pressure relief valve caused by surface imperfections - analytical model and measurement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/publications/a4498efe-5c51-40b0-913c-8dc3bf184f94",
+      "authors": "G. Romanik , J. Rogula, E. Romanik",
+      "publication_type": "Artykuł , Instal",
+      "year": "2024",
+      "doi": "10.36119/15.2024.6.4",
+      "doi_url": "https://www.doi.org/10.36119/15.2024.6.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Minimisation of friction resistance of elastomeric lip seals on rotating shafts",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/publications/26eb6508-d901-4a9d-b245-3a1ba37b1a5b",
+      "authors": "G. Romanik , P. Jaszak, R. Grzejda, ... (+1)",
+      "publication_type": "Artykuł , Lubricants",
+      "year": "2024",
+      "doi": "10.3390/lubricants12040103",
+      "doi_url": "https://www.doi.org/10.3390/lubricants12040103",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Elastomerowe uszczelnienia wargowe ze zmodyfikowaną teksturą warstwy wierzchniej wargi uszczelniającej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.romanik.CpwOb4ioDGU/research-work/6e1618b9-36c0-466e-aef6-3984758e359f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=230420"
+    }
+  ],
+  "tag_cloud": [
+    "silniki parowe",
+    "zawór",
+    "symulacja numeryczna",
+    "projektowanie uszczelnień",
+    "prototyp zaworu kulowego",
+    "uszczelnienia",
+    "konstrukcja",
+    "urządzenie pomiarowe",
+    "analiza numeryczna",
+    "biomasa"
+  ],
+  "coworkers": []
+}

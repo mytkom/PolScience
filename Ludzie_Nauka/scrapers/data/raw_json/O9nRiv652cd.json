@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd",
+  "slug": "jerzy.detyna",
+  "profile_id": "O9nRiv652cd",
+  "full_name": "prof. dr hab. inż. Jerzy Dariusz Detyna",
+  "orcid": "0000-0001-5750-2085",
+  "orcid_url": "https://orcid.org/0000-0001-5750-2085",
+  "breadcrumb_name": "Jerzy Detyna",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "matematyczne modelowanie układów dyskretnych",
+    "inżynieria biomedyczna",
+    "biomechanika",
+    "biofizyka",
+    "agrofizyka",
+    "fizyka statystyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria biomedyczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki rolnicze / inżynieria rolnicza",
+        "Nadanie stopnia",
+        "Akademia Rolnicza we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/gremiums/ae30bbd5-cdd3-46b8-966b-00620de29d12",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of synthesis parameters on the mechanical properties and morphology of organically functionalized silica sol–gel coatings on polymeric substrates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/publications/bf985df3-0657-4e80-b29e-485887c91190",
+      "authors": "B. Babiarczuk, J. Detyna , N. Kaczmarczyk, ... (+5)",
+      "publication_type": "Artykuł , Materials Science & Engineering B: Solid-State Materials for Advanced Technology",
+      "year": "2025",
+      "doi": "10.1016/j.mseb.2025.118441",
+      "doi_url": "https://www.doi.org/10.1016/j.mseb.2025.118441",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Social responsibility of universities – from declaration to implementation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/publications/ec20120b-666f-4e0c-903b-1f84b6b1cf4a",
+      "authors": "B. Detyna, J. Detyna",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": "10.29119/1641-3466.2025.226.12",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2025.226.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Thin film quality of sol–gel SiO2 coatings prepared on Ti6Al4V depending on their composition and titanium substrate preparation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/publications/826030a5-2dae-4e98-a43b-1653d7977f6e",
+      "authors": "N. Kaczmarczyk, J. Szczurek [...] J. Detyna , ... (+7)",
+      "publication_type": "Artykuł , Journal of Materials Science",
+      "year": "2025",
+      "doi": "10.1007/s10853-025-11273-y",
+      "doi_url": "https://www.doi.org/10.1007/s10853-025-11273-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/767a7660-d0ec-42e6-9eee-c14a569bc93c",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Maksimum entropii jako teoretyczne kryterium statystycznego opisu separacji materii granulowanej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/75bc6b61-5d9c-4bc1-a7c7-35acf5734a41",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza wpływu geometrii sita żaluzjowego na przebieg procesu czyszczenia ziarna w kombajnach zbożowych pracujących w warunkach terenów nachylonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/d7b81a63-8049-4888-a04f-55af23989d71",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Fizjologiczne parametry płytek krwi w procesie hemodializy zwierząt i ich zmiany wywołane promieniowaniem z zakresu bliskiej podczerwieni (NIR)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/f3fd820b-2c3e-42e7-b3ef-74c532d088d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania nad wykorzystaniem wybranych biopolimerów hydrożelowych w technologii bioplottowania do zastosowań farmaceutycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/f3baf259-3fc9-4d56-bbfa-e60b2434f25a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Mikrostruktura i właściwości fizyczne łuków ortodontycznych w środowisku jamy ustnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/36c457ba-9396-4539-81ae-50a170efd6c8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "The assessment of the usefulness of the biocybernetic model of a bee colony to predict the effects of giving the queen bee stress associated with space flight",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/2fb5d716-1efb-4781-a69e-1b818619d08c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Statystyczne, anatomiczne modelowanie kości stępu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/79c38bbd-d9c1-4017-ba05-386bec2041ca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wytwarzanie oraz badania struktury i właściwości stopów amorﬁcznych i krystalicznych na bazie żelaza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.detyna.O9nRiv652cd/research-work/1de536fb-58fd-425f-8665-c13b8d750fb3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92913"
+    }
+  ],
+  "tag_cloud": [
+    "ekstrakt algowy",
+    "zol-żel",
+    "business process management",
+    "biostimulation",
+    "apteos",
+    "knowledge management",
+    "gptms",
+    "corrosion",
+    "digital innovations",
+    "algal extract"
+  ],
+  "coworkers": []
+}

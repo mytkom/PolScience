@@ -1,0 +1,102 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq",
+  "slug": "mirosław.roszkowski",
+  "profile_id": "QT8Jm2DfRSq",
+  "full_name": "mgr inż. Mirosław Roszkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Mirosław Roszkowski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "infromatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ChatGPT i przyszłość nauczania: jak AI zmienia krajobraz edukacyjny",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.roszkowski.QT8Jm2DfRSq/publications/8f55ba70-74c5-4a4b-96a5-7c887035bf5d",
+      "authors": "M. Roszkowski , K. Tytko, N. Ryłko, ... (+3)",
+      "publication_type": "Artykuł , Edukacja Biologiczna i Środowiskowa",
+      "year": "2023",
+      "doi": "10.24131/3247.230210",
+      "doi_url": "https://www.doi.org/10.24131/3247.230210",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

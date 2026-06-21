@@ -1,0 +1,132 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB",
+  "slug": "muhammad.safdar",
+  "profile_id": "OF3XOraU4qB",
+  "full_name": "dr Muhammad Farhan Safdar",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Muhammad Safdar",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A hybrid approach for forecasting peak expiratory flow rate in asthma patients using combined linear regression and random forest model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/publications/3251956f-8bc0-4bca-98b8-47ee3cea5d94",
+      "authors": "M. Safdar , R. Nowak, S. Alkobaisi, ... (+4)",
+      "publication_type": "Artykuł , PLoS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0326036",
+      "doi_url": "https://www.doi.org/10.1371/journal.pone.0326036",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An integrated algorithm for single lead electrocardiogram signal analysis using deep learning with 12-lead data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/publications/ee504271-2291-410d-bc4c-6d7ff95467bd",
+      "authors": "M. Safdar , R. Nowak, P. Pałka, ... (+1)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-18910-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-18910-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Pre-Processing techniques and artificial intelligence algorithms for electrocardiogram (ECG) signals analysis: A comprehensive review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/publications/c7188b9b-072a-45a7-9a70-13ac5ec44e22",
+      "authors": "M. Safdar , R. Nowak, P. Pałka",
+      "publication_type": "Artykuł , Computers in Biology and Medicine",
+      "year": "2024",
+      "doi": "10.1016/j.compbiomed.2023.107908",
+      "doi_url": "https://www.doi.org/10.1016/j.compbiomed.2023.107908",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Developing Algorithms Using Artificial Intelligence to Analyze Electrocardiogram Signals",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/muhammad.safdar.OF3XOraU4qB/research-work/6de437e3-5c7a-4375-9812-dea451b583f8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

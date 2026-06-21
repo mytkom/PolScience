@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L",
+  "slug": "jan.kuchmacz",
+  "profile_id": "GUTtTRjSh3L",
+  "full_name": "dr inż. Jan Jerzy Kuchmacz",
+  "orcid": "0000-0002-7100-7264",
+  "orcid_url": "https://orcid.org/0000-0002-7100-7264",
+  "breadcrumb_name": "Jan Kuchmacz",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "energetyka",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "CFD modelling of the flow of ice slurry in plate heat exchanger channels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/publications/f381cf21-8820-404c-8945-aed02b6fcbef",
+      "authors": "B. Niezgoda-Żelasko, J. Kuchmacz",
+      "publication_type": "Artykuł , Energy",
+      "year": "2025",
+      "doi": "10.1016/j.energy.2025.134700",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2025.134700",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza techniczno–ekonomiczna dostosowania budynku jednorodzinnego do warunków zeroemisyjnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/publications/8a1c4110-2d32-4ad4-b247-2b95da6cad1b",
+      "authors": null,
+      "publication_type": "Artykuł , Rynek Energii",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "CFD modelling of the flow of ice slurry in a vertical slit channel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/publications/d908e163-d5e4-4ab0-bba3-988be78b32fe",
+      "authors": "B. Niezgoda-Żelasko, J. Kuchmacz",
+      "publication_type": "Artykuł , International Journal of Refrigeration",
+      "year": "2022",
+      "doi": "10.1016/j.ijrefrig.2022.04.006",
+      "doi_url": "https://www.doi.org/10.1016/j.ijrefrig.2022.04.006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przepływ zawiesiny lodowej w pionowych kanałach szczelinowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.kuchmacz.GUTtTRjSh3L/research-work/dc34f304-d95b-4643-8842-a14de73f21a8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB",
+  "slug": "maciej.grzywna",
+  "profile_id": "5zDPyQvzBkB",
+  "full_name": "mgr inż. Maciej Grzywna",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Maciej Grzywna",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluation of the reliability of a heavy diesel locomotive",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/publications/456bc110-ed37-455c-89c6-b3e4052b901b",
+      "authors": null,
+      "publication_type": "Artykuł , Combustion Engines",
+      "year": "2025",
+      "doi": "10.19206/ce-205974",
+      "doi_url": "https://www.doi.org/10.19206/ce-205974",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A method for assessing the criticality of failures of railway vehicle components using the FMECA method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/publications/6fdcec74-cf53-41a1-a18d-fae4a0d07c10",
+      "authors": "M. Szkoda, M. Grzywna , G. Kaczor",
+      "publication_type": "Artykuł , Transport Problems",
+      "year": "2024",
+      "doi": "10.20858/tp.2023.19.3.08",
+      "doi_url": "https://www.doi.org/10.20858/tp.2023.19.3.08",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Examination of selected geometrical parameters of wheelsets of electric multiple unit",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.grzywna.5zDPyQvzBkB/publications/f1fe927c-2eda-402c-be6e-be6807f645ca",
+      "authors": "M. Grzywna , M. Szkoda",
+      "publication_type": "Artykuł , Transport Problems",
+      "year": "2022",
+      "doi": "10.20858/tp.2022.17.2.14",
+      "doi_url": "https://www.doi.org/10.20858/tp.2022.17.2.14",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

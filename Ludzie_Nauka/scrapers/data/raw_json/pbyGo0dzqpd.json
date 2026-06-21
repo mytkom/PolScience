@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd",
+  "slug": "paweł.obal",
+  "profile_id": "pbyGo0dzqpd",
+  "full_name": "dr inż. Paweł Dominik Obal",
+  "orcid": "0000-0003-4269-447X",
+  "orcid_url": "https://orcid.org/0000-0003-4269-447X",
+  "breadcrumb_name": "Paweł Obal",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Comprehensive Model of the Abb Irb 2400 For Simulation and Control Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/publications/48cbea6d-e027-42b4-b4b9-f5358f57205f",
+      "authors": "P. Gierlak, P. Obal",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2025",
+      "doi": "10.2478/ama-2025-0064",
+      "doi_url": "https://www.doi.org/10.2478/ama-2025-0064",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Development of a Dedicated Application for Robots to Communicate with a Laser Tracker",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/publications/d7c38909-a984-4ae8-9c07-9964ab623e43",
+      "authors": "D. Szybicki, K. Kurc [...] P. Obal , ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2022",
+      "doi": "10.3390/electronics11203405",
+      "doi_url": "https://www.doi.org/10.3390/electronics11203405",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Programming of Industrial Robots Using a Laser Tracker",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.obal.pbyGo0dzqpd/publications/ec97848a-5886-42bf-9b1f-799883707dba",
+      "authors": "D. Szybicki, K. Kurc, P. Obal , ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s22176464",
+      "doi_url": "https://www.doi.org/10.3390/s22176464",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

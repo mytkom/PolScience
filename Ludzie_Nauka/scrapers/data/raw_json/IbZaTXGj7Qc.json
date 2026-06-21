@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc",
+  "slug": "krzysztof.rokicki",
+  "profile_id": "IbZaTXGj7Qc",
+  "full_name": "mgr inż. Krzysztof Rokicki",
+  "orcid": "0000-0002-6167-6755",
+  "orcid_url": "https://orcid.org/0000-0002-6167-6755",
+  "breadcrumb_name": "Krzysztof Rokicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Determining Tyre Adhesion Characteristics Based on the Road Tests of Automobiles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/publications/4b659235-1a73-4c2a-bb32-a7d66ecf456b",
+      "authors": "A. Reński, M. Brukalski [...] K. Rokicki , ... (+3)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24237447",
+      "doi_url": "https://www.doi.org/10.3390/s24237447",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Research on Curvilinear Motion of Automobile with the Application of On-Board Can Bus Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/publications/d278caa4-7e21-4b06-948b-645f656a89c8",
+      "authors": "H. Sar, M. Brukalski, K. Rokicki",
+      "publication_type": "Artykuł , Communications - Scientific letters of the University of Zilina",
+      "year": "2021",
+      "doi": "10.26552/com.c.2021.3.b211-b218",
+      "doi_url": "https://www.doi.org/10.26552/com.c.2021.3.b211-b218",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "SIMULATION OF CURVILINEAR MOTION OF AUTOMOBILE WITH THE USE OF TWO-DEGREE-OF-FREEDOM FLAT MODEL",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.rokicki.IbZaTXGj7Qc/publications/f4141732-e79c-447c-b007-f799d2d09922",
+      "authors": "H. Sar, K. Rokicki , M. Brukalski",
+      "publication_type": "Artykuł , Archiwum Motoryzacji",
+      "year": "2020",
+      "doi": "10.14669/am.vol87.art2",
+      "doi_url": "https://www.doi.org/10.14669/am.vol87.art2",
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "traffic accidents reconstruction",
+    "computer simulation",
+    "can bus data",
+    "vehicle's motion modelling",
+    "automotive safety",
+    "side slip phenomenon",
+    "safety",
+    "vehicles",
+    "vehicle motion modelling",
+    "can bus"
+  ],
+  "coworkers": []
+}

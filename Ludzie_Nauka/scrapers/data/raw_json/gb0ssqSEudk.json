@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk",
+  "slug": "jan.aleksandrowicz",
+  "profile_id": "gb0ssqSEudk",
+  "full_name": "dr inż. Jan Hipolit Aleksandrowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jan Aleksandrowicz",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        },
+        {
+          "label": "Uniwersytet Papieski Jana Pawła II w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/07208b1f-4d34-483a-a884-05ac93b6fcec"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Framework for onboard bus comfort level predictions using the markov chain concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/publications/b45222c9-5c48-47a9-a1ba-381f923b5a11",
+      "authors": "P. Więcek, J. Aleksandrowicz , A. Stróżek, ... (+1)",
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2019",
+      "doi": "10.3390/sym11060755",
+      "doi_url": "https://www.doi.org/10.3390/sym11060755",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Koncepcja obsługi logistycznej ścisłego centrum Krakowa przy wykorzystaniu zintegrowanego systemu tramwajowo – rowerowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/publications/fe6300c2-9bbb-4681-9789-f9c2c0e67ac8",
+      "authors": "J. Starczewski, J. Aleksandrowicz",
+      "publication_type": "Artykuł , Autobusy : technika, eksploatacja, systemy transportowe",
+      "year": "2018",
+      "doi": "10.24136/atest.2018.511",
+      "doi_url": "https://www.doi.org/10.24136/atest.2018.511",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Przydatność automatycznych systemów zliczania pasażerów w celach predykcji popytu na usługi transportowe",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/publications/0f64448f-8069-4034-83c7-13d7a74fcabb",
+      "authors": null,
+      "publication_type": "Artykuł , Transport Miejski i Regionalny : TMiR = Urban and Regional Transport",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele optymalizacji przydziału taboru do linii miejskiego transportu zbiorowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.aleksandrowicz.gb0ssqSEudk/research-work/985e3520-7415-4acc-b4e9-7170c4aa7687",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=277751"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

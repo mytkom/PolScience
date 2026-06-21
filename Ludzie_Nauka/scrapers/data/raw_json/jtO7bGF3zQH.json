@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH",
+  "slug": "lidia.marciniak-podsadna",
+  "profile_id": "jtO7bGF3zQH",
+  "full_name": "dr inż. Lidia Marciniak-Podsadna",
+  "orcid": "0000-0002-4444-0724",
+  "orcid_url": "https://orcid.org/0000-0002-4444-0724",
+  "breadcrumb_name": "Lidia Marciniak-Podsadna",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metrologia techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Improvement and Control Trajectory Tracking of a Three-Axis Manipulator for New Training Strategies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/publications/abef9d6f-5c8f-41a8-bfab-20e2c9e0a658",
+      "authors": "P. Mietliński, M. Jakubowicz, L. Marciniak-Podsadna , ... (+1)",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparative Studies of the Measurement Accuracy of Basic Gear Wheel Parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/publications/a3c03871-694e-4b45-b311-ce43a42ae726",
+      "authors": "A. Świerek, P. Góral [...] L. Marciniak-Podsadna , ... (+1)",
+      "publication_type": "Artykuł , Metrology",
+      "year": "2024",
+      "doi": "10.3390/metrology4030029",
+      "doi_url": "https://www.doi.org/10.3390/metrology4030029",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental Verification of Geometric Changes Caused by the Release of Residual Stresses for Large-Scale Welded Frames",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/publications/1c3bf615-a458-4dec-84b1-a73be0967e3c",
+      "authors": "M. Wieczorowski, R. Khan, L. Marciniak-Podsadna , ... (+6)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17102389",
+      "doi_url": "https://www.doi.org/10.3390/ma17102389",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lidia.marciniak-podsadna.jtO7bGF3zQH/research-work/fb75bea8-24c3-439a-b02e-df5401c9804e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=257018"
+    }
+  ],
+  "tag_cloud": [
+    "metrologia powierzchni",
+    "photogrammetry",
+    "3d scanner",
+    "gear accuracy",
+    "industrial metrology",
+    "gear profile deviations",
+    "mesoscale",
+    "coordinate measuring technique",
+    "konstrukcje skorupowe",
+    "optical scanners"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh",
+  "slug": "adam.ciszkiewicz",
+  "profile_id": "5mhL1JzDGJh",
+  "full_name": "dr hab. inż. Adam Piotr Ciszkiewicz",
+  "orcid": "0000-0002-7816-5193",
+  "orcid_url": "https://orcid.org/0000-0002-7816-5193",
+  "breadcrumb_name": "Adam Ciszkiewicz",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "biomechanika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d78eb330-7cda-4a34-bfb4-ffc2f51f9e0d"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessing the behavior of a hybrid model of the knee with contact surrogate under parameter uncertainties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/publications/393c66e8-ce24-43ec-aae6-b31f773b48bc",
+      "authors": "A. Ciszkiewicz , Ł. Mazurkiewicz, J. Małachowski",
+      "publication_type": "Artykuł , Computer Methods in Biomechanics and Biomedical Engineering",
+      "year": "2025",
+      "doi": "10.1080/10255842.2024.2364813",
+      "doi_url": "https://www.doi.org/10.1080/10255842.2024.2364813",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated biopsy path planning and navigation using a novel software-hardware platform",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/publications/b895aa67-3d63-408d-920e-a02a6f04543d",
+      "authors": "G. Ziółkowski, A. Ciszkiewicz , C. Pezowicz, ... (+2)",
+      "publication_type": "Artykuł , Acta of Bioengineering and Biomechanics",
+      "year": "2025",
+      "doi": "10.37190/abb/208611",
+      "doi_url": "https://www.doi.org/10.37190/abb/208611",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The impact of the Yeoh model’s variability in contact on knee joint mechanics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/publications/8bf25494-9350-493e-b02b-9b9ea555a2a7",
+      "authors": "A. Ciszkiewicz , Ł. Mazurkiewicz, J. Małachowski",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18030576",
+      "doi_url": "https://www.doi.org/10.3390/ma18030576",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Komplementarne metody do ilościowej oceny wpływu zmienności parametrów modeli mechanicznych na uzyskiwane wyniki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/research-work/695094dc-633f-430d-a029-c60f32b7df19",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Adam Ciszkiewicz",
+        "source": "Źródło danych: POL-on , Adam Ciszkiewicz"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie mechanizmu triady kręgosłupa lędźwiowego człowieka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.ciszkiewicz.5mhL1JzDGJh/research-work/4cf7bc7e-5391-4b56-9b03-6fec55296314",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281434"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

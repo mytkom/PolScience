@@ -1,0 +1,232 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D",
+  "slug": "tomasz.paczkowski",
+  "profile_id": "katOiqxAb9D",
+  "full_name": "dr hab. Tomasz Paczkowski",
+  "orcid": "0000-0003-2861-8817",
+  "orcid_url": "https://orcid.org/0000-0003-2861-8817",
+  "breadcrumb_name": "Tomasz Paczkowski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "obróbka erozyjna",
+    "obrabiarki",
+    "technologia maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3bad331a-d34e-4dee-a595-2a72bcad8538"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Inżynierii Powierzchni",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/gremiums/5421c6d0-bbb3-48ac-af23-91934b0e819c",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/gremiums/66ef8cf7-8d1b-4351-80f0-b9aa15afc7e1",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Breakthrough in Producing Personalized Solutions for Rehabilitation and Physiotherapy Thanks to the Introduction of AI to Additive Manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/publications/97a5b08f-2f53-4747-bc34-219bf51e5f7c",
+      "authors": "E. Mikołajewska, D. Mikołajewski [...] T. Paczkowski , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15042219",
+      "doi_url": "https://www.doi.org/10.3390/app15042219",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Generative AI in AI-based digital twins for fault diagnosis for predictive maintenance in industry 4.0/5.0",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/publications/db5c82b9-ff78-4adb-b3f0-812286ae5bd6",
+      "authors": "E. Mikołajewska, D. Mikołajewski [...] T. Paczkowski , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15063166",
+      "doi_url": "https://www.doi.org/10.3390/app15063166",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The influence of the structural steel grade and galvanizing time on the thickness and surface condition of the applied coatings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/publications/5640fda9-43fd-41ce-8fc6-267830619f11",
+      "authors": "N. Kiełpińska, M. Rojewski, T. Paczkowski , ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/202047",
+      "doi_url": "https://www.doi.org/10.12913/22998624/202047",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Symulacja komputerowa obróbki elektrochemicznej powierzchni krzywoliniowych elektrodą roboczą o złożonym ruchu translacyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work/bf953b78-4d09-4e1e-97fe-624ff08db4a2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania teoretyczne i doświadczalne obróbki elektrochemicznej elektrodą drgającą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work/16d9b561-7428-4ad3-9969-5933d87c678c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie procesu szlifowania powierzchni z zastosowaniem wielogranulacyjnych tarcz ściernych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work/1429be32-6af1-47be-ae96-03f44548ca55",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ wielkości ziarna elektrod grafitowych na wskaźniki technologiczne i stan warstwy wierzchniej po obróbce elektroerozyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work/1d9f1ef9-2f68-4899-8824-79de5b39637d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie i optymalizacja obróbki elektroerozyjnej materiałów trudnoobrabialnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.paczkowski.katOiqxAb9D/research-work/558ca01f-bd42-44f2-b398-5b80efcbce0a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108045"
+    }
+  ],
+  "tag_cloud": [
+    "technological device",
+    "siły odśrodkowe",
+    "płytka okrągła",
+    "toczenie",
+    "symulacja komputerowa",
+    "obróbka elektrochemiczna",
+    "materials of batteries",
+    "ecm",
+    "ecm machining",
+    "centrifugal forces"
+  ],
+  "coworkers": []
+}

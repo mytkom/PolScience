@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf",
+  "slug": "lena.łacińska",
+  "profile_id": "g1aLxeiAUmf",
+  "full_name": "dr Lena Łacińska",
+  "orcid": "0000-0003-0966-0307",
+  "orcid_url": "https://orcid.org/0000-0003-0966-0307",
+  "breadcrumb_name": "Lena Łacińska",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "zastosowanie matematyki w mechanice"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Opolski, Wydział Matematyki, Fizyki i Chemii",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of Second Order Inhomogeneous Linear Recurrences to Solving a Tridiagonal System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/publications/07ac9299-8e92-44af-a0da-6d8b1bdb23f6",
+      "authors": "J. Borowska, L. Łacińska",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2016",
+      "doi": "10.17512/jamcm.2016.2.01",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2016.2.01",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Eigenvalues of 2-Tridiagonal Toeplitz Matrix",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/publications/522b35d9-f7cb-4ec9-9105-2526767d7cdc",
+      "authors": "J. Borowska, L. Łacińska",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2015",
+      "doi": "10.17512/jamcm.2015.4.02",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2015.4.02",
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "A System of Linear Recurrence Equations for Determinant of Pentadiagonal Matrix",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/publications/badeea53-e209-4150-89d8-b2d61370a1e4",
+      "authors": "J. Borowska, J. Rychlewska, L. Łacińska",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zagadnienia elastodynamiki laminatów o strukturze periodycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/lena.%C5%82aci%C5%84ska.g1aLxeiAUmf/research-work/68633d1e-713c-46aa-af62-9923cc9507e8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=130149"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

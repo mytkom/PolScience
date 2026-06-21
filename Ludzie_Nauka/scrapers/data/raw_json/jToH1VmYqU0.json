@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0",
+  "slug": "edward.śliwa",
+  "profile_id": "jToH1VmYqU0",
+  "full_name": "dr inż. Edward Śliwa",
+  "orcid": "0000-0003-3440-2414",
+  "orcid_url": "https://orcid.org/0000-0003-3440-2414",
+  "breadcrumb_name": "Edward Śliwa",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnałów CAD",
+    "sieci komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1983",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1979",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "1001 drobiazgów z teorii obwodów. Zbiór zadań testowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/publications/7128b8e8-9df7-4146-b6dc-611505749adc",
+      "authors": "M. Nałęcz, E. Śliwa",
+      "publication_type": "Książka , Wydawnictwo Naukowe PWN",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Modeling the Response of a Beam Deflection Flowmeter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/publications/606cbeef-3d76-4297-a4d3-7a584044c1cc",
+      "authors": "M. Rupniewski, E. Śliwa , G. Mazurek, ... (+7)",
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2020",
+      "doi": "10.1109/jsen.2019.2954552",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2019.2954552",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Zbiór zadań z teorii obwodów - część I",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.%C5%9Bliwa.jToH1VmYqU0/publications/32544a48-d5ea-45b1-b3db-ac52b8be5a86",
+      "authors": "E. Śliwa , J. Szabatin",
+      "publication_type": "Książka pod redakcją",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59925"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

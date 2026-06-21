@@ -1,0 +1,304 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs",
+  "slug": "stanisław.osowski",
+  "profile_id": "WCm68yJOxUs",
+  "full_name": "prof. dr hab. inż. Stanisław Osowski",
+  "orcid": "0000-0003-3194-4656",
+  "orcid_url": "https://orcid.org/0000-0003-3194-4656",
+  "breadcrumb_name": "Stanisław Osowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "komputerowe metody analizy i projektowania obwodów",
+    "przetwarzanie sygnałów",
+    "sieci neuronowe",
+    "sztuczna inteligencja",
+    "teoria obwodów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "53 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1995",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1981",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1975",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1972",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Elektrotechniki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/gremiums/1b289226-8117-4efd-999f-53de0c9fe769",
+      "period": "-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Elektrotechniki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/gremiums/ea1f55d3-8306-4c28-9365-22422fa8250c",
+      "period": "-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid ensemble of cnn-based classifiers in melanoma recognition",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/publications/56b699e5-37c7-4596-8696-dd0e63559fe0",
+      "authors": "F. Gil, S. Osowski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2026",
+      "doi": "10.15199/48/2026.01.26",
+      "doi_url": "https://www.doi.org/10.15199/48/2026.01.26",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Deep CNN ensemble for anomaly detection in ECG",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/publications/1eb46ce5-5b48-4baf-9fa0-8b299f34b31a",
+      "authors": "M. Gołgowski, S. Osowski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.47",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.47",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Deep network ensemble in breast cancer recognition",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/publications/d6d0d739-d2ad-4db3-9133-719a1736e2ec",
+      "authors": "F. Gil, S. Osowski",
+      "publication_type": "Artykuł , Metrology and Measurement Systems",
+      "year": "2025",
+      "doi": "10.24425/mms.2025.154682",
+      "doi_url": "https://www.doi.org/10.24425/mms.2025.154682",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Neuronowe przetwarzanie danych w zastosowaniu do predykcji obciążeń w małym systemie elektroenergetycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/9a862890-86ed-4a6e-920a-ba5121e05ad1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy genetyczne i sieci neuronowe w zagadnieniach selekcji najważniejszych elementów informacji zawartych w danych pomiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/bb92702d-848a-4e96-baad-8861b1f40bb3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Diagnostyka uszkodzeń prętów klatki maszyny asynchronicznej z zastosowaniem sieci neuronowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/36eebdff-fbd4-4bac-88f8-51be8b24c9fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analysis and Assessment of The Quality of Wireless Information Transmission in Shipboard Measurement and Control Systems – Collaborative Perspective",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/4a856ded-556c-4956-838e-3c3d1f820c1f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie, symulacja i optymalizacja systemu zarządzania energią w pojazdach z napędem hybrydowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/415633c3-cf9e-4f4d-a19a-62ae59a08161",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Diagnostyka uszkodzeń parametrycznych w liniowych układach analogowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.osowski.WCm68yJOxUs/research-work/334b8eed-93e6-4764-bdff-362757c48420",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=23019"
+    }
+  ],
+  "tag_cloud": [
+    "electric power engineering",
+    "generalization",
+    "non-negative matrix factorization",
+    "e-learning",
+    "mammograms",
+    "deep learning",
+    "melanoma recognition",
+    "cnn",
+    "class recognition",
+    "random ensemble of classifiers"
+  ],
+  "coworkers": []
+}

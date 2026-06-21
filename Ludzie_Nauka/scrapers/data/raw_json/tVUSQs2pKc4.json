@@ -1,0 +1,280 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4",
+  "slug": "bogusław.polak",
+  "profile_id": "tVUSQs2pKc4",
+  "full_name": "prof. dr hab. Bogusław Stanisław Polak",
+  "orcid": "0000-0002-4873-3460",
+  "orcid_url": "https://orcid.org/0000-0002-4873-3460",
+  "breadcrumb_name": "Bogusław Polak",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk humanistycznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "historia najnowsza",
+    "historia wojskowa",
+    "europeistyka",
+    "stosunki międzynarodowe",
+    "biografistyka",
+    "źródłoznawstwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "46 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk humanistycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk humanistycznych / historia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk humanistycznych / historia",
+        "Nadanie stopnia",
+        "Uniwersytet im. Adama Mickiewicza, Wydział Historyczny"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1976",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / historia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1970",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "historia",
+        "Nadanie tytułu",
+        "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "General Władysław Anders 1892-1970. Deeds and rembrance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/publications/6b21bbc3-0e68-4b96-bd61-3ef6f888594c",
+      "authors": "J. Kirszak, B. Polak , M. Polak",
+      "publication_type": "Książka , Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiemu",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Polska i Ukraina : pomiędzy historią, polityką i ideologią : studia ofiarowane Profesorowi dr. hab. Czesławowi Partaczowi z okazji jego siedemdziesiątych urodzin i czterdziestopięciolecia pracy twórczej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/publications/bf7bbc9f-af0a-4b31-b4ce-a39505671036",
+      "authors": null,
+      "publication_type": "Książka pod redakcją",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Z archiwum polskiej politologii XX w. : Jerzy Niezbrzycki (Ryszard Wraga) o Związku Sowieckim, socjalizmie i sprawach polskich w 1945 r. : wybór pism",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/publications/f3d353f6-f50e-4950-a241-148a198b975b",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Koszalińska",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Siły zbrojne byłego Zaboru Pruskiego - Wojsko Wielkopolskie 1918-1920",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/ccf42184-8c0e-4033-95d4-bcaa5af5f52b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Udział społeczeństwa Ziemi Jarocińskiej w Powstaniu Wielkopolskim i w walce o wschodnią granicę Rzeczypospolitej w latach 1918-1921",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/b1327934-2fa5-446f-b707-39424e1f5ce5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sytuacja społeczno-gospodarcza w województwach koszalińskim i słupskim w latach 1975 - 1989 (Podstawowe problemy)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/7b33c2bb-6c9c-4896-bbc9-34405e80adfd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rola polskiego lotnictwa myśliwskiego w działaniach alianckich 1940-1942",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/d9761763-5f44-4131-8e66-8bae9fe4ec66",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Generał Roman Szymański. Żołnierz Pierwszej Kompanii Kadrowej, zdobywca Monte Casino",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/96c66181-a698-4adb-b4da-c470045d1468",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Bezpowrotne straty osobowe Armii Czerwonej w walkach o Poznań w styczniu i lutym 1945 roku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/ced0fc5c-1ad7-4ddc-a57f-47b0acfd84b0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Organizacja i działalność podziemia niepodległościowego na Suwalszczyźnie w latach 1944-1952",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.polak.tVUSQs2pKc4/research-work/6afe2e2a-af3f-4218-9a05-d5e022afadcb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=39488"
+    }
+  ],
+  "tag_cloud": [
+    "sieć dywersji pozafrontowej",
+    "gen. władysław anders",
+    "refugees",
+    "greater poland uprising",
+    "powstanie wielkopolskie",
+    "kontrwywiad",
+    "wywiad",
+    "germany",
+    "non-frontal diversion network",
+    "union of armed struggle"
+  ],
+  "coworkers": []
+}

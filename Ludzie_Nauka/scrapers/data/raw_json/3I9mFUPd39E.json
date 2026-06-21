@@ -1,0 +1,245 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E",
+  "slug": "michał.jakubowicz",
+  "profile_id": "3I9mFUPd39E",
+  "full_name": "dr hab. inż. Michał Jakubowicz",
+  "orcid": "0000-0002-6350-0411",
+  "orcid_url": "https://orcid.org/0000-0002-6350-0411",
+  "breadcrumb_name": "Michał Jakubowicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metrologia i systemy pomiarowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2011",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Akademia Nauk Stosowanych w Koninie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7510fd24-edbd-4e46-b680-e7829cf52a80"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "2010",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Akademia Nauk Stosowanych w Koninie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7510fd24-edbd-4e46-b680-e7829cf52a80"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid Measuring System for Dimensional Metrology Tasks on Large-Volume Workpieces and Assessment of Its Uncertainty",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/publications/f1bf78c1-8830-4d16-8c8e-4be30dc539e6",
+      "authors": "A. Gąska, W. Harmatys [...] M. Jakubowicz , ... (+6)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16031449",
+      "doi_url": "https://www.doi.org/10.3390/app16031449",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessment of the Calculation Methods for Circle Diameter According to Arc Length, Form Deviations, and Instrument Error: A Cosine Function Simulation Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/publications/b8068074-17fc-4842-9275-3c33660669a2",
+      "authors": "L. Smyczyńska, B. Gapiński, M. Jakubowicz",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152413104",
+      "doi_url": "https://www.doi.org/10.3390/app152413104",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessment of the potential functional properties of nitride coating surfaces for medical applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/publications/85944740-1947-44b3-8725-901d11377b4e",
+      "authors": "M. Niemczewska-Wójcik, D. Owczarek [...] M. Jakubowicz , ... (+2)",
+      "publication_type": "Artykuł , TRIBOLOGIA",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.5906",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.5906",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/research-work/20de13cc-e58f-4431-adab-2f271a8b22d7",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie dokładności odwzorowania zarysu okrągłości za pomocą pneumatycznego przetwornika długości ze szczelinową dyszą pomiarową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.jakubowicz.3I9mFUPd39E/research-work/77776dac-145f-4cc6-8843-e967d1249d01",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281499"
+    }
+  ],
+  "tag_cloud": [
+    "static characteristic",
+    "metrologia współrzędnościowa",
+    "laser tracker",
+    "wzorcowanie",
+    "coordinate measuring technique",
+    "photogrammetry",
+    "niepewność",
+    "wspólrzednościowa maszyna pomiarowa",
+    "skaner światła triangulacyjnego",
+    "stykowe pomiary powierzchni"
+  ],
+  "coworkers": []
+}

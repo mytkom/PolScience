@@ -1,0 +1,182 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5",
+  "slug": "michał.kruczkowski",
+  "profile_id": "jgUGtDbUZt5",
+  "full_name": "dr inż. Michał Jacek Kruczkowski",
+  "orcid": "0000-0002-0020-8958",
+  "orcid_url": "https://orcid.org/0000-0002-0020-8958",
+  "breadcrumb_name": "Michał Kruczkowski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "systemy informatyczne",
+    "systemy inteligentne",
+    "bezpieczeństwo sieci komputerowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Naukowa i Akademicka Sieć Komputerowa Aktualna nazwa: Naukowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e9fbe95c-25f7-4c52-b4c7-1d0f0fb0ef52",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Umiejętności w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/15e4e44d-34fd-4bea-b4e0-967eb415adaf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Predictions of cervical cancer identification by photonic method combined with machine learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/publications/5198cb3c-026f-40cb-bea5-ac7d2a4bb497",
+      "authors": "M. Kruczkowski , A. Drabik-Kruczkowska, A. Marciniak, ... (+3)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-07723-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-022-07723-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Implementation of SiN thin film in fiber-optic sensor working in telecommunication range of wavelengths",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/publications/824f5e8b-3082-451d-bb21-510413bc473d",
+      "authors": "S. Pawłowska, M. Kruczkowski , B. Stonio, ... (+4)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2021",
+      "doi": "10.1038/s41598-021-00195-9",
+      "doi_url": "https://www.doi.org/10.1038/s41598-021-00195-9",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "ANALIZATOR KAMPANII ZŁOŚLIWEGO OPROGRAMOWANIA WSPIERAJĄCY SYSTEMY BEZPIECZEŃSTWA SIECI KOMPUTEROWYCH",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/publications/c4574480-b1e2-4848-942b-01ccea94c361",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2016",
+      "doi": "10.15199/59.2016.8-9.23",
+      "doi_url": "https://www.doi.org/10.15199/59.2016.8-9.23",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza złośliwych kampanii na podstawie danych o atakach pozyskiwanych z heterogenicznych źródeł",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kruczkowski.jgUGtDbUZt5/research-work/3e4c8662-aca3-4fa0-9748-9ebbf6f27a5b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=271259"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

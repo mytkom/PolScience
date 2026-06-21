@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji",
+  "slug": "łukasz.kułacz",
+  "profile_id": "uFogKUcHHji",
+  "full_name": "dr inż. Łukasz Kułacz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Łukasz Kułacz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ContRIS: A software framework for flexible control of reconfigurable intelligent surfaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/publications/cb603dfc-d277-43e8-b721-e5236920f96b",
+      "authors": "M. Sieradzka, Ł. Kułacz , A. Kliks",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2026",
+      "doi": "10.1016/j.softx.2026.102572",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2026.102572",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Spectrum occupancy detection supported by centralized or distributed federated learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/publications/b51f41a8-9dbf-4f3b-a517-95a9085a4371",
+      "authors": "Ł. Kułacz , A. Kliks",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2026",
+      "doi": "10.1016/j.eswa.2025.129146",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.129146",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An Open-RAN Testbed for Detecting and Mitigating Radio-Access Anomalies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.ku%C5%82acz.uFogKUcHHji/publications/9a68eab6-bd0e-4044-863d-bf5579c01232",
+      "authors": "H. Bogucka, M. Hoffmann [...] Ł. Kułacz , ... (+1)",
+      "publication_type": "Artykuł , IEEE Communications Magazine",
+      "year": "2025",
+      "doi": "10.1109/mcom.003.2400513",
+      "doi_url": "https://www.doi.org/10.1109/mcom.003.2400513",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "nervous system",
+    "machine learning",
+    "federated learning",
+    "context information",
+    "dense wireless network",
+    "spectrum occupancy detection",
+    "stochastic geometry",
+    "dynamic spectrum access",
+    "detekcja zajętości widma",
+    "rekonfigurowalne matryce antenowe"
+  ],
+  "coworkers": []
+}

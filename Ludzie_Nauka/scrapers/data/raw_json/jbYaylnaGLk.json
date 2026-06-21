@@ -1,0 +1,278 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk",
+  "slug": "arkadiusz.żak",
+  "profile_id": "jbYaylnaGLk",
+  "full_name": "prof. dr hab. inż. Arkadiusz Jarosław Żak",
+  "orcid": "0000-0003-3015-1355",
+  "orcid_url": "https://orcid.org/0000-0003-3015-1355",
+  "breadcrumb_name": "Arkadiusz Żak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "dynamika maszyn",
+    "mechanika struktur inteligentnych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/674b7e57-dd24-4e8d-8949-327fa2f8bc82",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/674b7e57-dd24-4e8d-8949-327fa2f8bc82"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/674b7e57-dd24-4e8d-8949-327fa2f8bc82"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/gremiums/b4d42661-307a-4d27-b26b-b3dfcdd37449",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Family of Higher‐Order Theories for Wave Propagation in One‐Dimensional Structural Elements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/publications/7cff527b-9dd2-4c82-838f-aa31d8761e8d",
+      "authors": "W. Waszkowiak, Ł. Doliński [...] A. Żak , ... (+1)",
+      "publication_type": "Artykuł , International Journal for Numerical Methods in Engineering",
+      "year": "2025",
+      "doi": "10.1002/nme.70136",
+      "doi_url": "https://www.doi.org/10.1002/nme.70136",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An Overview of Existing Applications of Artificial Intelligence in Histopathological Diagnostics of Leukemias: A Scoping Review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/publications/40a9ea93-e7f0-4108-805f-e51004f9ff73",
+      "authors": "G. Redlarski, P. Tojza, A. Żak , ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14214144",
+      "doi_url": "https://www.doi.org/10.3390/electronics14214144",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Finite Element Approach for Wave Propagation in Elastic Solids",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/publications/700d3d43-812b-48fe-b254-911b98c3a41d",
+      "authors": null,
+      "publication_type": "Książka , Springer",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-56836-7",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-56836-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/0f8ab9fa-c166-4a99-90fa-1f3215a19f79",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Mechanika konstrukcji kompozytowych z elementami ze stopów z pamięcią kształtu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/59c57ee1-d46b-48fe-83ab-49c369c09d57",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Dynamika kompozytowych elementów konstrukcyjnych z pęknięciem i delaminacją",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/6a9ca5b0-3a90-41be-b34d-ad32bc7dbd28",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Tłumienie drgań w elektromechanicznych strukturach periodycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/1c960b9e-9b75-488b-bc5e-adb0c9f6fee9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza pomiarowa głośników modów rozproszonych w celu udoskonalenia ich własności brzmieniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/2c0817d4-861b-48f3-8e0a-1d9ca262bb68",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Multiscale numerical modeling and analysis of acoustic emission phenomena",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/5b9baefb-42ec-40fc-a991-5766c2eddb78",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie wybranych zagadnień zachowania ciągłości płynnego pierścienia utworzonego przez ciecz magnetyczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%BCak.jbYaylnaGLk/research-work/957ee624-4481-4d4a-b36e-5cebeab3ef6d",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=78494"
+    }
+  ],
+  "tag_cloud": [
+    "elastic wave propagation",
+    "electrostatic zipping actuator",
+    "spectral finite element method",
+    "delaminacja",
+    "wave propagation",
+    "delamination",
+    "electromagnetic field",
+    "plate",
+    "health effect",
+    "wavelet transformation"
+  ],
+  "coworkers": []
+}

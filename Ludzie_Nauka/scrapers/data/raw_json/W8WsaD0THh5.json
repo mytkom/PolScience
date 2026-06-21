@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5",
+  "slug": "tomasz.misiak",
+  "profile_id": "W8WsaD0THh5",
+  "full_name": "dr Tomasz Misiak",
+  "orcid": "0000-0002-4296-0291",
+  "orcid_url": "https://orcid.org/0000-0002-4296-0291",
+  "breadcrumb_name": "Tomasz Misiak",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "polityka gospodarcza",
+    "teoria wzrostu",
+    "makroekonomia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Handlowa im. Bolesława Markowskiego w Kielcach Aktualna nazwa: Wyższa Szkoła Handlowa im. Bolesława Markowskiego w Kielcach w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/617dc2eb-61ab-4a1b-a3a1-3b6196bb0a22",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny w Krakowie; Wydział Ekonomii i Stosunków Międzynarodowych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5e7a6fde-6fd5-4fe8-8eb6-5cd60834bc34"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/35bdf5a0-c4e2-4ae5-8ac3-0e449b57baba"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Ekonomia i Finanse",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/gremiums/fadb88a5-eb16-4488-a650-513cb7b4df65",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A fragmented country: Regional income convergence in Germany",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/publications/be11d38c-a4da-46b5-b731-a80dbc382468",
+      "authors": "A. Cieślik, T. Misiak",
+      "publication_type": "Artykuł , Structural Change and Economic Dynamics",
+      "year": "2025",
+      "doi": "10.1016/j.strueco.2025.08.006",
+      "doi_url": "https://www.doi.org/10.1016/j.strueco.2025.08.006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Has 20 Years of EU Membership Fostered Regional Income Convergence in Poland? Empirical Evidence for NUTS1, NUTS2, and NUTS3 Regions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/publications/65b85dfe-95e2-41b8-b484-2cd47fcda28a",
+      "authors": "T. Misiak , A. Cieślik",
+      "publication_type": "Artykuł , Journal of Economic Integration",
+      "year": "2025",
+      "doi": "10.11130/jei.2025010",
+      "doi_url": "https://www.doi.org/10.11130/jei.2025010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Regional income convergence in Visegrad-4 countries: empirical evidence from NUTS3 regions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/publications/9be7df22-b8c2-41a3-a9a8-5112d4378621",
+      "authors": "A. Cieślik, T. Misiak",
+      "publication_type": "Artykuł , European Planning Studies",
+      "year": "2025",
+      "doi": "10.1080/09654313.2025.2536168",
+      "doi_url": "https://www.doi.org/10.1080/09654313.2025.2536168",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Inwestycje, wydatki rządowe a wzrost gospodarczy w krajach Unii Europejskiej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.misiak.W8WsaD0THh5/research-work/e41f901f-fd54-4c1b-a13b-f0e46f820611",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=211941"
+    }
+  ],
+  "tag_cloud": [
+    "tfp spatial variability",
+    "elastyczność wydajności względem technicznego uzbrojenia pracy",
+    "tfp",
+    "related variety",
+    "jacobs externalities",
+    "unrelated variety",
+    "employment/unemployment growth",
+    "flexibility in labor productivity towards capital-labor ratio",
+    "economic growth",
+    "wydzielanie się ciepła"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p",
+  "slug": "anna.sibilska-mroziewicz",
+  "profile_id": "AqSkqljJf9p",
+  "full_name": "dr inż. Anna Maria Sibilska-Mroziewicz",
+  "orcid": "0000-0002-5989-9562",
+  "orcid_url": "https://orcid.org/0000-0002-5989-9562",
+  "breadcrumb_name": "Anna Sibilska-Mroziewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie pola elektromagnetycznego",
+    "modelowanie układów mechanicznych",
+    "symulacja w dynamice maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechatroniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96780aa4-1a88-407d-a185-0f02961ef93c"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modeling and Estimation of the Pitch Angle for a Levitating Cart in a UAV Magnetic Catapult Under Stationary Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/publications/0c7bfc85-5c93-49e1-a922-2a26196cd8e8",
+      "authors": "E. Ładyżyńska-Kozdraś, S. Czubaj [...] A. Sibilska-Mroziewicz , ... (+3)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2025",
+      "doi": "10.3390/electronics14010044",
+      "doi_url": "https://www.doi.org/10.3390/electronics14010044",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The impact of external conditions on quadruped robot behavior: modeling using fuzzy logic and machine learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/publications/fe941a6e-5736-41f2-b195-6b1effa6d0ad",
+      "authors": "K. Krzykowska-Piotrowska, A. Rosiński [...] A. Sibilska-Mroziewicz , ... (+5)",
+      "publication_type": "Artykuł , Journal of Konbin",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0629",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0629",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "VR-supported method for studying the MPC algorithm in controlling snake robot motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/publications/454409ee-a629-408e-a326-c200bf1cf056",
+      "authors": "A. Sibilska-Mroziewicz , J. Możaryn, A. Ordys, ... (+6)",
+      "publication_type": "Artykuł , Robotics and Autonomous Systems",
+      "year": "2025",
+      "doi": "10.1016/j.robot.2025.105002",
+      "doi_url": "https://www.doi.org/10.1016/j.robot.2025.105002",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie modelu dynamiki wózka startowego wyrzutni samolotu bezzałogowego, z wykorzystaniem efektu Meissnera",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sibilska-mroziewicz.AqSkqljJf9p/research-work/821ee84f-e863-4afc-a6a1-9890381e284e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=286145"
+    }
+  ],
+  "tag_cloud": [
+    "bifurcation theory",
+    "snake robot",
+    "vr in sport",
+    "magnetic field",
+    "virtual reality",
+    "vr application",
+    "magnetic launcher",
+    "magnes stały",
+    "magnetic suspensions",
+    "uav carrier take-off and landing"
+  ],
+  "coworkers": []
+}

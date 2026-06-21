@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL",
+  "slug": "tomasz.gradowski",
+  "profile_id": "X3UsjLzuaNL",
+  "full_name": "dr inż. Tomasz Michał Gradowski",
+  "orcid": "0000-0001-5418-2071",
+  "orcid_url": "https://orcid.org/0000-0001-5418-2071",
+  "breadcrumb_name": "Tomasz Gradowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Fizyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96dbb5e4-750c-4f56-bff0-8d9143c48d92"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka komputerowa",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Deep learning model for ECGreconstruction reveals theinformation content of ECG leads",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/publications/a356a7b5-02f1-4c9e-ba14-5c7c16269fdc",
+      "authors": "T. Gradowski , T. Buchner",
+      "publication_type": "Artykuł , Bio-Algorithms and Med-Systems",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.1381",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.1381",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Deep learning model for ECGreconstruction reveals theinformation content of ECG leads",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/publications/3934d3c8-0229-4f4b-af12-8353e6f673eb",
+      "authors": "T. Gradowski , T. Buchner",
+      "publication_type": "Artykuł , Bio-Algorithms and Med-Systems",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.1381;10.48550/arxiv.2502.00559",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.1381;10.48550/arxiv.2502.00559",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Physically motivated projection of the electrocardiogram—A feasibility study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/publications/f2b9d640-b948-4e69-b9a6-c805fe93f443",
+      "authors": "S. Wildowicz, T. Gradowski , P. Figura, ... (+3)",
+      "publication_type": "Artykuł , Biocybernetics and Biomedical Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.bbe.2025.03.001;10.48550/arxiv.2410.11504",
+      "doi_url": "https://www.doi.org/10.1016/j.bbe.2025.03.001;10.48550/arxiv.2410.11504",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zjawiska kolektywne w układach agentów oddziałujących w sieciach złożonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.gradowski.X3UsjLzuaNL/research-work/ae212b55-ad37-464a-94ea-235efba728b5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=257910"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

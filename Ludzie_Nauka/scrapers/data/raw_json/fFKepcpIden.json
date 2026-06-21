@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden",
+  "slug": "dorota.mozyrska",
+  "profile_id": "fFKepcpIden",
+  "full_name": "dr hab. Dorota Mozyrska",
+  "orcid": "0000-0002-0664-4574",
+  "orcid_url": "https://orcid.org/0000-0002-0664-4574",
+  "breadcrumb_name": "Dorota Mozyrska",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "matematyczna teoria sterowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "UNIWERSYTET WARSZAWSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/gremiums/19fd3d68-2244-4ba6-ba77-6940c9531427",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Digital PID controllers with fractional variable order techniques and two discrete-time operator variants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/publications/0dd9e073-3075-47d0-86b0-95d403bc8276",
+      "authors": "D. Mozyrska , M. Wyrwas, P. Oziabło",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153831",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153831",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fractional discrete-time variable order equation with infinite delay",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/publications/9405da15-2ed5-455e-abcb-e8c7d9f420fc",
+      "authors": "D. Mozyrska , M. Wyrwas",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On stability of linear discrete-time fractional systems with variable order and distributed delay",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/publications/ff3c5064-468d-4eff-a61e-d3fbbe0b94fd",
+      "authors": "D. Mozyrska , E. Kaslik, M. Wyrwas",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2026.01.029",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2026.01.029",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie warunków dotyczących sterowalności i obserwowalności układów sterowania z operatorami niecałkowitych rzędów, z czasem ciągłym i dyskretnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work/76ab7906-59ed-4258-9ee1-655279af5550",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Lokalna obserwowalność nieskończenie wymiarowych skończenie określonych układów dynamicznych z wyjściem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work/1a93c06d-66b6-4232-a12e-1e63bbb9f59b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badania porównawcze modeli statystycznych i obliczeń miękkich dla identyfikacji ciągów czasowych i prognoz",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work/19bf0feb-e736-444c-9774-d13852f7a3cb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie układów dynamicznych całkowitego i niecałkowitego rzędu z zastosowaniem algorytmów redukcji systemów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work/c5bd571c-6e7d-44e5-98e3-5e576b967a9c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Implementacja układów niecałkowitego rzędu w systemach wbudowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.mozyrska.fFKepcpIden/research-work/a7600d35-3557-4e92-9ebc-300bc5932816",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=106208"
+    }
+  ],
+  "tag_cloud": [
+    "fractional difference equation",
+    "caputo-type fractional difference",
+    "regulatory zmiennego niecałkowitego rzędu",
+    "biquadratic equations",
+    "stability",
+    "variable-order",
+    "fractional calculus",
+    "aplikacje mobilne",
+    "pid control",
+    "fractional-order"
+  ],
+  "coworkers": []
+}

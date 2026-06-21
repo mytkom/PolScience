@@ -1,0 +1,225 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O",
+  "slug": "agnieszka.jastrzębska",
+  "profile_id": "ulwtvYn9z8O",
+  "full_name": "dr hab. inż. Agnieszka Jastrzębska",
+  "orcid": "0000-0001-5361-5787",
+  "orcid_url": "https://orcid.org/0000-0001-5361-5787",
+  "breadcrumb_name": "Agnieszka Jastrzębska",
+  "current_employment_summary": [
+    "Katolicki Uniwersytet Lubelski Jana Pawła II",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9d3664e2-2c7a-448a-9fb2-278de61e6136",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Matematyki i Nauk Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0454b20a-3765-4c35-bd6c-cfc3fdf2d2f5"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Data classification with dynamically growing and shrinking neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/publications/5953b9f0-5284-49f0-bfbd-1001d4d5cd2f",
+      "authors": "S. Świderski, A. Jastrzębska",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2025",
+      "doi": "10.1016/j.jocs.2025.102660",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2025.102660",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Dynamic Neural Network with Matrix-Extended Residual Connections",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/publications/8eb5fa2d-b090-47ff-8a47-e1099ec7bbb3",
+      "authors": "S. Świderski, A. Jastrzębska",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97629-2_14",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97629-2_14",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Estimating the limit state space of quasi-nonlinear Fuzzy Cognitive Maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/publications/e8911970-0d38-4087-ab70-f194651b1476",
+      "authors": "A. Jastrzębska , L. Concepción, G. Nápoles, ... (+2)",
+      "publication_type": "Artykuł , Applied Soft Computing Journal",
+      "year": "2025",
+      "doi": "10.1016/j.asoc.2024.112604",
+      "doi_url": "https://www.doi.org/10.1016/j.asoc.2024.112604",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Alternatywne ujęcie przetwarzania szeregów czasowych: koncepcja, metody, zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/research-work/c06b4706-7b2a-46c7-b44d-6e45ab6debcf",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Cognitive Maps: Methods and Algorithms for Time Series Modelling on the Level of Concepts (tytuł pracy badawczej tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/research-work/3131ed94-db16-45b6-acbd-b5fe4f145f1a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Interpreting and Evaluating Crisp, Balanced and Interval-based Models of Cognitive Maps in the Contex of Time Series Processing (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/research-work/1febd709-e483-4d92-a333-f1f034d27f84",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "„Computational intelligence methods for uncertain medical and sensor data” (Metody inteligencji obliczeniowej dla niepewnych danych medycznych oraz danych pochodzących z urządzeń sensorycznych)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.jastrz%C4%99bska.ulwtvYn9z8O/research-work/76a7bb8c-e8a3-443a-972d-f9e3ec6698b1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287357"
+    }
+  ],
+  "tag_cloud": [
+    "multivariate time series",
+    "rozmyte mapy kognitywne",
+    "interpretability",
+    "klasyfikacja",
+    "classification",
+    "time series",
+    "szereg czasowy",
+    "clustering",
+    "foreign patterns",
+    "klasyfikacja szeregów czasowych"
+  ],
+  "coworkers": []
+}

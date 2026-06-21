@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77",
+  "slug": "marcin.kowalczyk",
+  "profile_id": "2F3UcKQ1S77",
+  "full_name": "dr hab. Marcin Kowalczyk",
+  "orcid": "0000-0001-6137-0580",
+  "orcid_url": "https://orcid.org/0000-0001-6137-0580",
+  "breadcrumb_name": "Marcin Kowalczyk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optotelekomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metoda predykcji ruchu wychodzącego w systemach klasy CALL/CONTACT CENTER wykorzystująca algorytm uczenia ze wzmocnieniem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/publications/e2bb21f1-4332-4914-a099-d993f5d652d2",
+      "authors": "M. Kozłowski, M. Płaza [...] M. Kowalczyk , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.78",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.78",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Jamming of optical network operation in physical layer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/publications/7a5ed582-e0dc-44ba-bf6b-10b7098c738f",
+      "authors": "J. Siuzdak, M. Kowalczyk , M. Marzęcki",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152084",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152084",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The Threat of Optical Transmission Jamming",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/publications/cf5822fa-4370-4754-a4f3-b703a31fb109",
+      "authors": "J. Siuzdak, M. Kowalczyk , M. Marzęcki",
+      "publication_type": "Artykuł , Journal of Telecommunications and Information Technology",
+      "year": "2023",
+      "doi": "10.26636/jtit.2023.4.1402",
+      "doi_url": "https://www.doi.org/10.26636/jtit.2023.4.1402",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowania techniki MIMO w optycznych systemach transmisji krótkiego zasięgu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/research-work/45966fdb-1bf5-4410-8c00-0d1f6187056c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Transmisja poza pasmem podstawowym w światłowodzie wielomodowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kowalczyk.2F3UcKQ1S77/research-work/6bad39f7-81b6-4af4-bc25-1cb3259f1be1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=235332"
+    }
+  ],
+  "tag_cloud": [
+    "optical short-range transmission systems",
+    "multi-channel transmission",
+    "optical wireless communication",
+    "uczenie maszynowe",
+    "technika mimo",
+    "fotowoltaika",
+    "klasyfikacja poczty elektronicznej",
+    "nonlinearity",
+    "modificd monte carlo ray-tracing algorithm",
+    "transmisja wielokanałowa"
+  ],
+  "coworkers": []
+}

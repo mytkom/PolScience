@@ -1,0 +1,257 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF",
+  "slug": "rafał.kozik",
+  "profile_id": "WWPd8f2p5LF",
+  "full_name": "dr hab. inż. Rafał Kozik",
+  "orcid": "0000-0001-7122-3306",
+  "orcid_url": "https://orcid.org/0000-0001-7122-3306",
+  "breadcrumb_name": "Rafał Kozik",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informatyka",
+    "bezpieczeństwo komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich; Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80f2b7b7-85c7-4ef1-a01c-c4dd2e41058f"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "UTP Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/gremiums/cf401882-1086-4daf-85cf-868eafe19877",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Meta-Survey of Adversarial Attacks against Artificial Intelligence Algorithms, including Diffusion Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/publications/02c2b1ed-e7e4-4016-8988-0f212c99f19b",
+      "authors": "M. Pawlicki, R. Kozik , M. Choraś, ... (+1)",
+      "publication_type": "Artykuł , Neurocomputing",
+      "year": "2025",
+      "doi": "10.1016/j.neucom.2025.131231",
+      "doi_url": "https://www.doi.org/10.1016/j.neucom.2025.131231",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A New Cybersecurity Approach Enhanced by xAI-Derived Rules to Improve Network Intrusion Detection and SIEM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/publications/729eeaa1-16fe-43a2-b107-8c5452429da4",
+      "authors": "M. Pawlicki, R. Kozik , M. Choraś, ... (+2)",
+      "publication_type": "Artykuł , Computers, Materials and Continua",
+      "year": "2025",
+      "doi": "10.32604/cmc.2025.062801",
+      "doi_url": "https://www.doi.org/10.32604/cmc.2025.062801",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Novel Method of Improving Intrusion Detection Systems Robustness Against Adversarial Attacks, Through Feature Omission and a Committee of Classifiers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/publications/992aab0b-ad77-4519-8be9-f8fa2c3b4ecf",
+      "authors": "M. Pawlicki, R. Kozik , M. Choraś, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-82362-6_17",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-82362-6_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Techniki analizy i klasyfikacji danych dla celów zwiększenia bezpieczeństwa aplikacji i sieci teleinformatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work/0f30f11f-a510-44ef-acf8-bfe96be7c2c1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work/af367d06-7f58-4309-9984-263cd4266429",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Rzadkie sieci splotowe w układach sterowania z wizualnym sprzężeniem zwrotnym.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work/bb03f106-048b-4ca0-a1fb-e644e3f0d535",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "„System wykrywania sytuacji nietypowych w obrębie pojazdów z wykorzystaniem obrazów oraz map głębi, bazujący na uczeniu głębokim”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work/8cd769b3-c510-47d3-aef6-d5974cb52e83",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Building transparent classification models",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.kozik.WWPd8f2p5LF/research-work/032aacf7-2ef7-4aab-a509-52676876c386",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=236534"
+    }
+  ],
+  "tag_cloud": [
+    "fake news detection",
+    "big data",
+    "neural networks",
+    "anomaly detection",
+    "machine learning",
+    "cybersecurity",
+    "pattern recognition",
+    "stream processing",
+    "image processing",
+    "intrusion detection"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,233 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM",
+  "slug": "grzegorz.świderski",
+  "profile_id": "QYkPApnI0aM",
+  "full_name": "dr hab. inż. Grzegorz Świderski",
+  "orcid": "0000-0003-4442-6348",
+  "orcid_url": "https://orcid.org/0000-0003-4442-6348",
+  "breadcrumb_name": "Grzegorz Świderski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "chemia fizyczna i teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet w Białymstoku; Wydział Biologiczno-Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/23e57024-bba8-47f9-ad01-1451e93c4748"
+        },
+        {
+          "label": "Uniwersytet w Białymstoku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Uniwersytet w Białymstoku",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "ochrona środowiska",
+        "Nadanie tytułu",
+        "Politechnika Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/gremiums/05196899-c794-4efb-ac7b-343c0e1ebb84",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Polylactide Composites with Mineral Fertilisers—Properties and Biodegradation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/publications/936954d9-bf34-400f-9896-02d34e017131",
+      "authors": "G. Świderski , M. Jałbrzykowski, M. Kalinowska, ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2026",
+      "doi": "10.3390/ma19030547",
+      "doi_url": "https://www.doi.org/10.3390/ma19030547",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Asymptotic zeros' distribution of orthogonal polynomials with unbounded recurrence coefficients",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/publications/84c0fb7d-493c-4bf3-91e7-48aab4a53d82",
+      "authors": "G. Świderski , B. Trojan",
+      "publication_type": "Artykuł , Journal of Functional Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.jfa.2025.111162;10.48550/arxiv.2311.04853",
+      "doi_url": "https://www.doi.org/10.1016/j.jfa.2025.111162;10.48550/arxiv.2311.04853",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Bioactive Properties of Selected European Phellinus Species: A Comprehensive Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/publications/bcde5d2b-bcc6-4c1a-89f7-13a02d3ce854",
+      "authors": "G. Świderski , M. Pawlowska, M. Kalinowska, ... (+18)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2025",
+      "doi": "10.3390/ijms26168013",
+      "doi_url": "https://www.doi.org/10.3390/ijms26168013",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania struktury, właściwości termicznych i biologicznych heteroaromatycznych kwasów karboksylowych oraz ich kompleksów z wybranymi metalami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/research-work/90ff40c4-6b7b-4c53-b75a-06db7cfbcc7a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Spektroskopowe i teoretyczne badania wpływu niektórych metali na układ elektronowy wybranych kwasów aromatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.%C5%9Bwiderski.QYkPApnI0aM/research-work/911a7f53-9048-410c-ae47-53cdcfcc059a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=251774"
+    }
+  ],
+  "tag_cloud": [
+    "plant phenolic compounds",
+    "antimicrobial",
+    "cancer",
+    "antioxidant activity",
+    "metal complexes",
+    "antioxidant",
+    "cytotoxicity",
+    "caco-2",
+    "celltiterglo",
+    "polyphenols"
+  ],
+  "coworkers": []
+}

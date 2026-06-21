@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry",
+  "slug": "zdzisław.dzedzej",
+  "profile_id": "rXZ5VLJcXry",
+  "full_name": "dr hab. Zdzisław Dzedzej",
+  "orcid": "0000-0001-8957-1640",
+  "orcid_url": "https://orcid.org/0000-0001-8957-1640",
+  "breadcrumb_name": "Zdzisław Dzedzej",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analiza nieliniowa",
+    "topologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Gdański",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4cdfc5ec-bee6-4567-9042-8340f36c99cf"
+        },
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1985",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / -",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Gdański",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Uniwersytet Gdański, Wydział Matematyki, Fizyki i Chemii"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1979",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Generalized Gradient Equivariant Multivalued Maps, Approximation and Degree",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/publications/5fb8354f-776b-4eb8-9b75-e1ed7190f99b",
+      "authors": "T. Gzella, Z. Dzedzej",
+      "publication_type": "Artykuł , Mathematics",
+      "year": "2020",
+      "doi": "10.3390/math8081262",
+      "doi_url": "https://www.doi.org/10.3390/math8081262",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On homotopies of morphisms and admissible mappings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/publications/4d67ca4d-f89f-4eaa-bad4-6a88e894966b",
+      "authors": "T. Gzella, Z. Dzedzej",
+      "publication_type": "Artykuł , Journal of Fixed Point Theory and Applications",
+      "year": "2020",
+      "doi": "10.1007/s11784-020-00824-2",
+      "doi_url": "https://www.doi.org/10.1007/s11784-020-00824-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Matematyka na Pomorzu Gdańskim 1945-2015",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/publications/87125a6b-f9be-4488-8419-7b8a4c8bc227",
+      "authors": "J. Czarnowska, E. Jakimowicz, Z. Dzedzej , ... (+15)",
+      "publication_type": "Książka , Wydawnictwo Uniwersytetu Gdańskiego",
+      "year": "2017",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Narodowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Niezmienniki topologiczne, w tym uwzględniające symetrie, z zastosowaniami do równań i inkluzji różniczkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/research-work/087f0b72-6c6b-4d1b-82b7-e636e801b8d9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Indeks punktów stałych dla pewnych klas odwzorowań wielowartościowych nieacyklicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/research-work/8121e05e-aa65-4d24-a0d6-f1796f0504f4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Algorytm podzbioru acyklicznego: rozszerzenia i zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/research-work/2c580655-7f3b-4895-8814-3d9706f89ea7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Persistent homology of a self-map",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zdzis%C5%82aw.dzedzej.rXZ5VLJcXry/research-work/e5237fb7-6beb-4ecc-8d76-d6b4aefb0c0a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=34112"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

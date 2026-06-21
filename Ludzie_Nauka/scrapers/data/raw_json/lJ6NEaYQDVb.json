@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb",
+  "slug": "katarzyna.mitura",
+  "profile_id": "lJ6NEaYQDVb",
+  "full_name": "dr hab. Katarzyna Mitura",
+  "orcid": "0000-0002-2658-2542",
+  "orcid_url": "https://orcid.org/0000-0002-2658-2542",
+  "breadcrumb_name": "Katarzyna Mitura",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria powierzchni"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Łódzka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Łódzka; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/872a1a56-1141-4149-9e23-3bba968c5949"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Łódzka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "kierunek lekarski",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny w Łodzi",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2072dfce-faec-4917-bcb2-9421f61fe387"
+        },
+        {
+          "label": "Politechnika Łódzka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1998",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "medycyna",
+        "Nadanie tytułu",
+        "Akademia Medyczna w Łodzi",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation on the Effect of Detonation Nanodiamonds on the Properties of Polymeric Active Food Packaging, Part I: Biological Activity, Surface Hydrophobicity, and Thermal Stability of Baseline Films",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/publications/398a37d1-f352-4e3e-b071-52e03235b158",
+      "authors": "J. Mundziel, L. Kukiełka [...] K. Mitura , ... (+5)",
+      "publication_type": "Artykuł , Coatings",
+      "year": "2026",
+      "doi": "10.3390/coatings16010072",
+      "doi_url": "https://www.doi.org/10.3390/coatings16010072",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The Evaluation of the Cytotoxicity and Corrosion Processes of Porous Structures Manufactured Using Binder Jetting Technology from Stainless Steel 316L with Diamond-like Carbon Coating",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/publications/90d5a105-fc2d-467b-99a6-30f52de3bf17",
+      "authors": "D. Laskowska, K. Mitura , P. Wilczek, ... (+7)",
+      "publication_type": "Artykuł , Coatings",
+      "year": "2024",
+      "doi": "10.3390/coatings14081018",
+      "doi_url": "https://www.doi.org/10.3390/coatings14081018",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Absorbable Dressings Manufactured of Tropocollagen with Nanodiamonds",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/publications/97413e2f-43fc-4897-837d-d185567cdc0e",
+      "authors": "A. Karczemska, D. Witkowski [...] K. Mitura , ... (+10)",
+      "publication_type": "Artykuł , International Scientific Journal Industry 4.0",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Funkcjonalizacja powierzchni nanoproszków diamentowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/research-work/1400d7a0-0f21-460d-92f3-1bb7b275a186",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Bioaktywność diamentu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/research-work/792365a5-7e50-4ac6-80c2-89e6058468a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modyfikacja proszku węglowego wytwarzanego za pomocą metody RFPACVD",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/research-work/7d1aba05-a567-4b9b-be90-4a5dfa722cdb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Podatność nanocelulozy bakteryjnej na biodegradację in vitro pod wpływem drobnoustrojów chorobotwórczych w aspekcie wykorzystania jako materiał do produkcji implantów kardiologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.mitura.lJ6NEaYQDVb/research-work/8439b62b-bc5a-4684-997b-8b4fbace9e21",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=122807"
+    }
+  ],
+  "tag_cloud": [
+    "allotropes",
+    "nanodiamonds",
+    "regeneration",
+    "preoperative planning",
+    "additive manufacturing",
+    "tissue engineering",
+    "metal implants",
+    "detonation nanodiamond particles",
+    "design of experiment",
+    "anti-inflammatory drugs"
+  ],
+  "coworkers": []
+}

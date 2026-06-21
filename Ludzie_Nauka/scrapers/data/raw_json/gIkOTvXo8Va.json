@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va",
+  "slug": "marek.kopel",
+  "profile_id": "gIkOTvXo8Va",
+  "full_name": "dr inż. Marek Łukasz Kopel",
+  "orcid": "0000-0002-2273-684X",
+  "orcid_url": "https://orcid.org/0000-0002-2273-684X",
+  "breadcrumb_name": "Marek Kopel",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Study of players’ user experience during gameplay using different types of soundtracks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/publications/34f78635-7a9e-47a3-9ecf-3e66b00c1b81",
+      "authors": "M. Walczynski, M. Kopel , B. Kuźnik",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-5884-8_4",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-5884-8_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Testing usability of different implementations for VR interaction methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/publications/0ce148c9-4387-45e2-9a98-679fba077798",
+      "authors": "M. Kopel , M. Walczynski, P. Wyrostek",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70259-4_22",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70259-4_22",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "\"Is Proton Good Enough?\" - A performance comparison between gaming on Windows and Linux",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/publications/b8cd0eb5-7077-4862-9451-04fba48238be",
+      "authors": "M. Kopel , M. Bożek, B. Michał",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-41456-5_48",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-41456-5_48",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody analizy spójności i zgodności kolekcji dokumentów WWW",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kopel.gIkOTvXo8Va/research-work/ae03ab1e-8e19-4a1a-b0f7-6556363ce280",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=229773"
+    }
+  ],
+  "tag_cloud": [
+    "dron bojowy",
+    "progresja akordów",
+    "mapreduce",
+    "algorytm mrówkowy",
+    "implementacje równoległe aco",
+    "problem komiwojażera",
+    "hadoop",
+    "dynamiczny tsp",
+    "równoległe implementacje aco",
+    "karcianka"
+  ],
+  "coworkers": []
+}

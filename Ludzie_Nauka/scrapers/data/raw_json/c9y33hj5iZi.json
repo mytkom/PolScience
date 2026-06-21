@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi",
+  "slug": "zbigniew.hajduk",
+  "profile_id": "c9y33hj5iZi",
+  "full_name": "dr hab. inż. Zbigniew Stanisław Hajduk",
+  "orcid": "0000-0002-1375-7219",
+  "orcid_url": "https://orcid.org/0000-0002-1375-7219",
+  "breadcrumb_name": "Zbigniew Hajduk",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy cyfrowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze; Wydział Informatyki, Elektrotechniki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c709556f-3a15-448d-b913-903a3861268d"
+        },
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/gremiums/b630b975-5f2e-4062-9660-89bdd5fc9c7f",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Simple True Random Number Generator Using Capacitive Oscillators for FPGA Implementation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/publications/5ccb6fb0-4c8e-46e5-83e8-c0a16271a161",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14214228",
+      "doi_url": "https://www.doi.org/10.3390/electronics14214228",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Field-Programmable Gate Array-Based True Random Number Generator Using Capacitive Oscillators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/publications/2d8b9f6f-36ef-48dc-babf-d5d774b02148",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13234819",
+      "doi_url": "https://www.doi.org/10.3390/electronics13234819",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "IEC61131-3 Instruction List Language Processor for FPGAs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/publications/08c2c38e-a0dc-4ba8-9df8-a629acc6c861",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics",
+      "year": "2023",
+      "doi": "10.3390/electronics12194052",
+      "doi_url": "https://www.doi.org/10.3390/electronics12194052",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zaawansowane metody projektowania systemów cyfrowych z układami FPGA oraz ich zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/research-work/a252690d-1aef-4c9f-af92-09ff3908030f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sprzętowa implementacja rozmytych sieci Petriego jako układów sterowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.hajduk.c9y33hj5iZi/research-work/d083efb5-ad79-4014-83a7-211928ea7488",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200388"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

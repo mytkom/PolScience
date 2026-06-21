@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4",
+  "slug": "marta.drosińska-komor",
+  "profile_id": "3MbibXvKnx4",
+  "full_name": "dr inż. Marta Drosińska-Komor",
+  "orcid": "0000-0002-5614-1203",
+  "orcid_url": "https://orcid.org/0000-0002-5614-1203",
+  "breadcrumb_name": "Marta Drosińska-Komor",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "energetyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advanced genetic algorithm-based signal processing for multi-degradation detection in steam turbines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/publications/dc399c17-2727-4738-9166-f24ec1ca365a",
+      "authors": "M. Drosińska-Komor , J. Głuch, Ł. Breńkacz, ... (+3)",
+      "publication_type": "Artykuł , MECHANICAL SYSTEMS AND SIGNAL PROCESSING",
+      "year": "2025",
+      "doi": "10.1016/j.ymssp.2024.112166",
+      "doi_url": "https://www.doi.org/10.1016/j.ymssp.2024.112166",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Integrating fourth–generation reactors into maritime transport",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/publications/219ce619-9ffe-4171-9b33-c120f0209a55",
+      "authors": "M. Drosińska-Komor , J. Głuch, N. Ziółkowska, ... (+5)",
+      "publication_type": "Artykuł , Ocean Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.oceaneng.2025.122891",
+      "doi_url": "https://www.doi.org/10.1016/j.oceaneng.2025.122891",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid geothermal-fossil power cycle analysis in a Polish setting with a focus on off-design performance and CO2 emissions reductions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.drosi%C5%84ska-komor.3MbibXvKnx4/publications/0759a6b2-f5bd-4343-ac97-b85d33052431",
+      "authors": "K. Szturgulewski, J. Głuch, M. Drosińska-Komor , ... (+3)",
+      "publication_type": "Artykuł , Energy",
+      "year": "2024",
+      "doi": "10.1016/j.energy.2024.131382",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2024.131382",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "control stage",
+    "genetic algorithm",
+    "active magnetic bearings",
+    "active bearings",
+    "steam turbine",
+    "diagnostics",
+    "htgr",
+    "nonlinear coefficients",
+    "experimental research",
+    "reaktor jądrowy"
+  ],
+  "coworkers": []
+}

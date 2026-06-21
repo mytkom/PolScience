@@ -1,0 +1,182 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa",
+  "slug": "adam.górny",
+  "profile_id": "KMAPLSPEgIa",
+  "full_name": "dr inż. Adam Górny",
+  "orcid": "0000-0002-4088-5099",
+  "orcid_url": "https://orcid.org/0000-0002-4088-5099",
+  "breadcrumb_name": "Adam Górny",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ergonomia i inżynieria jakości",
+    "systemy bezpieczeństwa pracy"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Ergonomii",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/gremiums/a26f3f28-6d30-4d62-ac93-3af9f7f79d74",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Systemic shaping of occupational safety as a factor for the functioning of Industry 4.0 (I4.0)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/publications/d3ad792d-9d76-4f76-a64b-e917e62fdc3a",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Employee safety in the conditions of Industry 4.0",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/publications/4cc6312e-f4a1-4e5f-a4c2-25ee04dd2a06",
+      "authors": null,
+      "publication_type": "Artykuł , Management Systems in Production Engineering",
+      "year": "2024",
+      "doi": "10.2478/mspe-2024-0046",
+      "doi_url": "https://www.doi.org/10.2478/mspe-2024-0046",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Industry 5.0 – A new concept of industrial development",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/publications/cb3d33b9-8957-4860-8095-120bd2c07131",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Poznańskiej. Organizacja i Zarządzanie",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka eksploatacji i doskonalenia systemu zarządzania jakością warunków pracy w przedsiębiorstwie budowy maszyn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.g%C3%B3rny.KMAPLSPEgIa/research-work/eb772bf3-935f-47d0-b810-1fe675a61da4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=112401"
+    }
+  ],
+  "tag_cloud": [
+    "informacja",
+    "network thinking methodology",
+    "ergonomics",
+    "iso 45001",
+    "safety",
+    "occupational safety",
+    "risk assessment",
+    "ergonomic risk factors",
+    "the work environment shaping",
+    "work environment"
+  ],
+  "coworkers": []
+}

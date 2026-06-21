@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB",
+  "slug": "bartosz.chaber",
+  "profile_id": "9H6u86C02QB",
+  "full_name": "dr inż. Bartosz Tomasz Chaber",
+  "orcid": "0000-0002-0917-2162",
+  "orcid_url": "https://orcid.org/0000-0002-0917-2162",
+  "breadcrumb_name": "Bartosz Chaber",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria oprogramowania",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrostatic and Electromagnetic Particle-in-Cell Solvers for Electron Beam Device Simulations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/publications/4335e447-eeb5-4518-afb5-737ddb6793af",
+      "authors": "B. Chaber , W. Łodyga, A. Lachowiecka, ... (+2)",
+      "publication_type": "Artykuł , Computing in Science and Engineering",
+      "year": "2025",
+      "doi": "10.1109/mcse.2025.3597391",
+      "doi_url": "https://www.doi.org/10.1109/mcse.2025.3597391",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Robustness Analysis of a Fast Virtual Temperature Sensor Using a Recurrent Neural Network Model Sensitivity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/publications/f8d032c9-f1a8-418b-b40c-49b2dca5759d",
+      "authors": "P. Chaber, B. Chaber",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25237193",
+      "doi_url": "https://www.doi.org/10.3390/s25237193",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Computer Model of a Marx Generator Charging a Coaxial Switched Wave Oscillator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/publications/1c5889a1-215b-4c00-9901-17c123bd9b6f",
+      "authors": "B. Chaber , W. Łodyga, J. Starzyński",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17184644",
+      "doi_url": "https://www.doi.org/10.3390/en17184644",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Symulacje numeryczne jako narzędzie poszerzające zakres badań odporności elektromagnetycznej za pomocą linii paskowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.chaber.9H6u86C02QB/research-work/d18cb4ad-5cdb-44e2-a800-5406db729f54",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=282077"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

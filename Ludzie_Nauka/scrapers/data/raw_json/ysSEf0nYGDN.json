@@ -1,0 +1,244 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN",
+  "slug": "christian.jungnickel",
+  "profile_id": "ysSEf0nYGDN",
+  "full_name": "dr hab. Christian Jungnickel",
+  "orcid": "0000-0003-2468-8498",
+  "orcid_url": "https://orcid.org/0000-0003-2468-8498",
+  "breadcrumb_name": "Christian Jungnickel",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia oddziaływań międzyfazowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Universitat Bremen (Niemcy)",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "University of Newcastle",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A global perspective on exposure and data gaps for microplastic contaminants in bivalves and cephalopods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/publications/effef92b-0f4f-45a8-b97d-a831d447cc29",
+      "authors": "A. Pacyna-Kuchta, C. Jungnickel",
+      "publication_type": "Artykuł , Marine Pollution Bulletin",
+      "year": "2025",
+      "doi": "10.1016/j.marpolbul.2025.118488",
+      "doi_url": "https://www.doi.org/10.1016/j.marpolbul.2025.118488",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nanoparticle Skin Penetration: Depths and Routes Modeled In-Silico",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/publications/2517ab48-b1d7-4e4c-9393-e2ede875f364",
+      "authors": "I. Kłosowska‐chomiczewska, W. Artichowicz [...] C. Jungnickel , ... (+5)",
+      "publication_type": "Artykuł , Small",
+      "year": "2025",
+      "doi": "10.1002/smll.202412541",
+      "doi_url": "https://www.doi.org/10.1002/smll.202412541",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Nanoparticle Skin Penetration: Depths and Routes Modeled In‐Silico",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/publications/296bcd00-c6fa-486e-9dfc-c34b5060ec04",
+      "authors": "N. Maeda, H. Jiao [...] C. Jungnickel , ... (+5)",
+      "publication_type": "Artykuł , Small",
+      "year": "2025",
+      "doi": "10.1002/smll.202412541;10.3929/ethz-b-000731166",
+      "doi_url": "https://www.doi.org/10.1002/smll.202412541;10.3929/ethz-b-000731166",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Oddziaływania międzyfazowe cieczy jonowych: aspekty fizykochemiczne i środowiskowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/research-work/7a6e2072-efc5-4df0-993d-440bb4a28490",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/research-work/ccb74759-90f0-4b64-be4e-efa747d4955f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modyfikowane powierzchnie węglowe jako nowe materiały do badań elektrochemicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/christian.jungnickel.ysSEf0nYGDN/research-work/79047643-9dd7-42f1-8063-6862b0938d1b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=9fHNA18AAAAJ&hl=de"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christian-jungnickel-67078b54/"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Christian-Jungnickel"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=23479935700"
+    },
+    {
+      "label": "most wiedzy",
+      "url": "https://mostwiedzy.pl/en/christian-jungnickel,14645-1"
+    }
+  ],
+  "tag_cloud": [
+    "pepsinolysis",
+    "mass transfer",
+    "fish oil",
+    "purity",
+    "pls regression",
+    "interfacial area",
+    "spinning fluids reactor",
+    "wall material",
+    "hydrocyclone",
+    "additives"
+  ],
+  "coworkers": []
+}

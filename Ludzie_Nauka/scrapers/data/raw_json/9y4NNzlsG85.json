@@ -1,0 +1,212 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85",
+  "slug": "paweł.zabierowski",
+  "profile_id": "9y4NNzlsG85",
+  "full_name": "dr hab. inż. Paweł Lech Zabierowski",
+  "orcid": "0000-0001-5277-8285",
+  "orcid_url": "https://orcid.org/0000-0001-5277-8285",
+  "breadcrumb_name": "Paweł Zabierowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego",
+    "robotyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/gremiums/d497b2c8-5c71-40c4-b54b-15b4103b06f4",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Nauki Fizyczne 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Nauki Fizyczne Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Deep defect levels in CuGaSe2 investigated with photoluminescence",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/publications/f24ff510-3110-488f-a4c3-353f26236dc1",
+      "authors": "M. Pawłowski, M. Maciaszek, P. Zabierowski , ... (+3)",
+      "publication_type": "Artykuł , Solar Energy Materials and Solar Cells",
+      "year": "2025",
+      "doi": "10.1016/j.solmat.2025.113401",
+      "doi_url": "https://www.doi.org/10.1016/j.solmat.2025.113401",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Interface Barrier-Modulated Neuromorphic Behavior in Mo/CdIn 2 S 4 /ZnO–Al Structures Based on Metastable Defects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/publications/2b42ce58-a2f4-4749-bb73-5221ae5d7316",
+      "authors": "J. Zdziebłowski, N. Barreau, P. Zabierowski",
+      "publication_type": "Artykuł , ACS Applied Electronic Materials",
+      "year": "2025",
+      "doi": "10.1021/acsaelm.5c00800",
+      "doi_url": "https://www.doi.org/10.1021/acsaelm.5c00800",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Diffusion transport over grain-boundary barriers as the origin of N1 Deep Level Transient Spectroscopy signal in Cu(In,Ga)Se2 solar cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/publications/978ca9fd-3191-4e05-ab58-9e3dfd3839eb",
+      "authors": "K. Wiśniewski, K. Wiśniewski, P. Zabierowski",
+      "publication_type": "Artykuł , Thin Solid Films",
+      "year": "2021",
+      "doi": "10.1016/j.tsf.2021.138540",
+      "doi_url": "https://www.doi.org/10.1016/j.tsf.2021.138540",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie wpływu defektów metastabilnych na wybrane charakterystyki elektryczne cienkowarstwowych ogniw słonecznych opartych na Cu(In, Ga)Se 2",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/research-work/a21a45d2-d5f2-44ea-bcd6-77651812f7e9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie zjawisk elektronowych w obszarze międzypowierzchni w strukturach fotowoltaicznych ZnO/CdS/Cu(In,Ga)Se 2 z wykorzystaniem metody DLTS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/research-work/0b595a2c-e72b-460e-87de-9f35ef876129",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie efektu metatrwałego fotoprzewodnictwa w półprzewodnikach z rodziny Cu(In,Ga)Se2",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/research-work/4691804a-1d4f-4ae6-a5e0-698061fc4782",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Impact of Cu(In,Ga)Se2 Thin Film Growth Process on the Electrical Metastabilities of Related Solar Cell (tytuł pracy badawczej tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.zabierowski.9y4NNzlsG85/research-work/bbfd550e-3ff9-45f8-b104-2adceab65282",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=110582"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

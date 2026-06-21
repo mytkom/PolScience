@@ -1,0 +1,229 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo",
+  "slug": "krzysztof.juszczyszyn",
+  "profile_id": "J8VpP8nnjgo",
+  "full_name": "dr hab. inż. Krzysztof Juszczyszyn",
+  "orcid": "0000-0002-9326-6734",
+  "orcid_url": "https://orcid.org/0000-0002-9326-6734",
+  "breadcrumb_name": "Krzysztof Juszczyszyn",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria wiedzy",
+    "systemy informacyjne",
+    "systemy teleinformatyczne",
+    "systemy webowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Koncepcja zastosowania modelu sieciowego do opisu zachowania konsumentów energii elektrycznej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/publications/b9025c4c-09df-4b27-9861-efad0e80e0c1",
+      "authors": "D. Dudziak-Gajowiak, K. Juszczyszyn",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.04.22",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.04.22",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-factor evaluation of clustering methods for e-commerce application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/publications/11d642f3-0b54-421c-8be2-b92824f68c89",
+      "authors": "A. Wasilewski, K. Juszczyszyn , V. Suryani",
+      "publication_type": "Artykuł , Egyptian Informatics Journal",
+      "year": "2024",
+      "doi": "10.1016/j.eij.2024.100562",
+      "doi_url": "https://www.doi.org/10.1016/j.eij.2024.100562",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Randomness testing of the random number generators using Dieharder tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/publications/987e009c-cd1a-40f4-b298-22e240fc1a98",
+      "authors": "P. Jóźwiak, K. Juszczyszyn , I. Jóźwiak, ... (+1)",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2022",
+      "doi": "10.29119/1641-3466.2022.167.11",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2022.167.11",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod analizy sieci złożonych w systemach informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/research-work/771fd291-dab8-49f5-9f75-09b26d7b6a31",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zarządzanie kontrolą dostępu w systemach informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/research-work/e7220185-6428-479f-b4b4-ba344322a2ab",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Alokacja zasobów w systemach zorientowanych na usługi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/research-work/dc24f07b-b882-4888-9ccc-f4c354a7c2ac",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Efektywne mechanizmy odtwarzania stanu przetwarzania w rozproszonych systemach informatycznych zorientowanych na usługi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.juszczyszyn.J8VpP8nnjgo/research-work/6c4eeebd-4a15-4bad-94dd-e9e632776c25",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=93099"
+    }
+  ],
+  "tag_cloud": [
+    "usługi obliczeniowe",
+    "strategy of randomness testing",
+    "dieharder",
+    "soa",
+    "sieci złożone",
+    "usługi webowe",
+    "predykcja połączeń",
+    "architektura systemów informatycznych",
+    "systemy zorientowane na usługi",
+    "logistyka"
+  ],
+  "coworkers": []
+}

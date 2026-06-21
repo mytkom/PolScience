@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw",
+  "slug": "tomasz.krakowski",
+  "profile_id": "wJ6dU4xSLAw",
+  "full_name": "mgr inż. Tomasz Tadeusz Krakowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Tomasz Krakowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Implicit Modeling of Equivariant Tensor Basis with Euclidean Turbulence Closure Neural Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/publications/120bda91-ad84-42bc-9303-cd8fd357d4d4",
+      "authors": "G. Kaszuba, T. Krakowski , A. Jaszkiewicz, ... (+2)",
+      "publication_type": "Artykuł , Physics of Fluids",
+      "year": "2025",
+      "doi": "10.1063/5.0249490",
+      "doi_url": "https://www.doi.org/10.1063/5.0249490",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Simulation of transient fluid–structure interaction in flapping-wing micro aerial vehicles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/publications/0e6e4e42-938b-4be9-9090-094b47b8be98",
+      "authors": "W. Stankiewicz, T. Krakowski , K. Foltyński",
+      "publication_type": "Artykuł , Archives of Mechanics",
+      "year": "2025",
+      "doi": "10.24423/aom.4688",
+      "doi_url": "https://www.doi.org/10.24423/aom.4688",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analiza wytrzymałościowa struktury nośnej stopnia wspomagającego start rakiety sondażowej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krakowski.wJ6dU4xSLAw/publications/3db86fb6-ce30-4dab-8256-18e842f0a654",
+      "authors": "Y. Dryha, M. Gaworzewski, T. Krakowski",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

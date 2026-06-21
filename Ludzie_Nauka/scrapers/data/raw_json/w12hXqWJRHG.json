@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG",
+  "slug": "kamil.żbikowski",
+  "profile_id": "w12hXqWJRHG",
+  "full_name": "dr inż. Kamil Piotr Żbikowski",
+  "orcid": "0000-0002-2250-9225",
+  "orcid_url": "https://orcid.org/0000-0002-2250-9225",
+  "breadcrumb_name": "Kamil Żbikowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Implementing a Process Mining Framework in a Large Commercial Bank Lessons Learned",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/publications/3f654b44-19f1-4431-8021-8c4354a49331",
+      "authors": "P. Gawrysiak, K. Żbikowski , T. Romanowski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70445-1_32",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70445-1_32",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A machine learning, bias-free approach for predicting business success using Crunchbase data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/publications/b545058e-c878-4683-9342-2aa21ab736d2",
+      "authors": "K. Żbikowski , P. Antosiuk, P. Antosiuk (student)",
+      "publication_type": "Artykuł , Information Processing and Management",
+      "year": "2021",
+      "doi": "10.1016/j.ipm.2021.102555",
+      "doi_url": "https://www.doi.org/10.1016/j.ipm.2021.102555",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Detecting Fraudulent Accounts on Blockchain: A Supervised Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/publications/9b3ece29-0690-4379-bc31-1449bda34be1",
+      "authors": "K. Żbikowski , M. Ostapowicz",
+      "publication_type": "Artykuł",
+      "year": "2019",
+      "doi": "10.1007/978-3-030-34223-4_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-34223-4_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Penalty function in SVM classifiers applied to automated trading strategies (tytuł pracy badawczej w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.%C5%BCbikowski.w12hXqWJRHG/research-work/e32c34ec-ece0-41cd-b731-bde3dd61d8db",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=285770"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

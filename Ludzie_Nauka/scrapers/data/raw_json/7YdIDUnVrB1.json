@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1",
+  "slug": "janusz.rogula",
+  "profile_id": "7YdIDUnVrB1",
+  "full_name": "dr inż. Janusz Jacek Rogula",
+  "orcid": "0000-0002-1599-1092",
+  "orcid_url": "https://orcid.org/0000-0002-1599-1092",
+  "breadcrumb_name": "Janusz Rogula",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika uszczelniania",
+    "termodynamika",
+    "trybologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Leakage from closed pressure relief valve caused by surface imperfections - analytical model and measurement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/publications/a4498efe-5c51-40b0-913c-8dc3bf184f94",
+      "authors": "G. Romanik, J. Rogula , E. Romanik",
+      "publication_type": "Artykuł , Instal",
+      "year": "2024",
+      "doi": "10.36119/15.2024.6.4",
+      "doi_url": "https://www.doi.org/10.36119/15.2024.6.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Trwałość i szczelność szybkozłączek pneumatycznych w szerokim zakresie temperatury",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/publications/f9338238-b5e1-40d0-95ab-bdf8a22dea9b",
+      "authors": "G. Romanik, J. Rogula , E. Romanik",
+      "publication_type": "Artykuł , Pompy, Pompownie",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Badania trwałości zaworu bezpieczeństwa mieszkowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/publications/5773c88a-f872-4ab5-a65a-34e2d04650e9",
+      "authors": "J. Rogula , G. Romanik, R. Wojtynek, ... (+1)",
+      "publication_type": "Artykuł , Pompy, Pompownie",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Składowa adhezyjna współczynnika tarcia jako parametr stanu energetycznego powierzchni",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.rogula.7YdIDUnVrB1/research-work/8399f0c2-b2d4-4a01-aacb-cd387fa76a3d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111022"
+    }
+  ],
+  "tag_cloud": [
+    "pojazdy przyszłości",
+    "zawory iglicowe",
+    "cad",
+    "pojazdy dla osób niepełnosprawnych",
+    "konstrukcja",
+    "analiza numeryczna",
+    "badania numeryczne",
+    "biopaliwa",
+    "silniki parowe",
+    "samochody parowe"
+  ],
+  "coworkers": []
+}

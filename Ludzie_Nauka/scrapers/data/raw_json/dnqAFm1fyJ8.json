@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8",
+  "slug": "julia.falkowska",
+  "profile_id": "dnqAFm1fyJ8",
+  "full_name": "dr inż. Julia Wioleta Falkowska",
+  "orcid": "0000-0001-5098-216X",
+  "orcid_url": "https://orcid.org/0000-0001-5098-216X",
+  "breadcrumb_name": "Julia Falkowska",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Utilization of eye-tracking metrics to evaluate user experiences - technology description and preliminary study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/publications/b99e44c4-69de-4794-bd49-51e5df6b95df",
+      "authors": "M. Falkowski, J. Falkowska , J. Sobecki",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25196101",
+      "doi_url": "https://www.doi.org/10.3390/s25196101",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of eye-tracking measures in the study of websites on the example of links",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/publications/2d536cf9-a0be-4260-b131-896ac04a60a5",
+      "authors": "J. Falkowska , J. Sobecki, B. Kilijańska",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Replication of first click eye tracking A/B test of webpage interactive elements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/publications/ce913fc6-33b8-4b09-87a2-3cbc70b34227",
+      "authors": "J. Falkowska , S. Janusz",
+      "publication_type": "Artykuł , Annals of Computer Science and Information Systems",
+      "year": "2022",
+      "doi": "10.15439/2022f51",
+      "doi_url": "https://www.doi.org/10.15439/2022f51",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ocena doświadczeń użytkowników serwisów internetowych na podstawie miar okulograficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/julia.falkowska.dnqAFm1fyJ8/research-work/14078d0c-af7c-48b3-b775-acfe79683e33",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

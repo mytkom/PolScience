@@ -1,0 +1,320 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf",
+  "slug": "tomasz.krzyżyński",
+  "profile_id": "onvC9xvItIf",
+  "full_name": "prof. dr hab. inż. Tomasz Maciej Krzyżyński",
+  "orcid": "0000-0002-6700-2495",
+  "orcid_url": "https://orcid.org/0000-0002-6700-2495",
+  "breadcrumb_name": "Tomasz Krzyżyński",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika",
+    "mechanika stosowana"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstawowych Problemów Techniki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b419f7cc-c27c-4b8a-82f8-82278caa29cf"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Towarzystw Naukowych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/gremiums/67d5da7a-f1d9-435d-abd4-f98726b86f9d",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/gremiums/1ec686c4-e1a6-43b8-8e9d-7c7df693cfd5",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komisja do spraw Nauki i Innowacji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/gremiums/e945a66f-0b62-4b4b-aa0f-bd43559c7a33",
+      "period": "2008-2012",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Komisja do spraw Współpracy Międzynarodowej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/gremiums/d68485fb-ef6b-47a6-ab22-59ecbf6414c6",
+      "period": "2016-2020",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy Harvesting Effectiveness of an Active Horizontal Seat Suspension Under Random Vibration of Varying Intensity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/publications/a2f860c1-466b-4d6c-abc1-37db5a299a37",
+      "authors": "I. Maciejewski, S. Pecolt [...] T. Krzyzynski , ... (+3)",
+      "publication_type": "Artykuł , Mechanical Systems and Signal Processing",
+      "year": "2025",
+      "doi": "10.2139/ssrn.5173459;10.1016/j.ymssp.2025.113000",
+      "doi_url": "https://www.doi.org/10.2139/ssrn.5173459;10.1016/j.ymssp.2025.113000",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Energy harvesting effectiveness of an active horizontal seat suspension under random vibration of varying intensity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/publications/8b1a2934-3ff9-4bd5-b119-04f72b5f2dce",
+      "authors": "I. Maciejewski, S. Pecolt [...] T. Krzyżyński , ... (+5)",
+      "publication_type": "Artykuł , Mechanical Systems and Signal Processing",
+      "year": "2025",
+      "doi": "10.1016/j.ymssp.2025.113000",
+      "doi_url": "https://www.doi.org/10.1016/j.ymssp.2025.113000",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Research on the energy recovery system in the active horizontal seat suspension of a working machine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/publications/ca58e257-51ba-448a-b846-f6b02a8ccb8d",
+      "authors": "B. Jereczek, I. Maciejewski [...] T. Krzyżyński , ... (+2)",
+      "publication_type": "Artykuł , Journal of Theoretical and Applied Mechanics",
+      "year": "2025",
+      "doi": "10.15632/jtam-pl/210426",
+      "doi_url": "https://www.doi.org/10.15632/jtam-pl/210426",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamika układów ciągłych o okresowych własnościach struktury i wzbudzenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/b3bbdba9-b06a-44c6-87ec-22bdc8d62f6c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu wybranych cech geometrycznych i właściwości termofizycznych kolektorów słonecznych cieczowych na ich parametry cieplno-przepływowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/bc39fbe8-2829-4209-89c7-f51af6433887",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane problemy budowy i optymalizacji sterowania urządzeniem pozycjonującym o układzie elektromagnetycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/fd77973c-8221-450c-a602-c6e63714e875",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza obszaru zamkniętego z zaburzeniem wibroakustycznym w zakresie niskich częstotliwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/c81dbc22-9f1e-45bf-b470-a06b041cb618",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Computational Dialectics and Control of Nonlinear Dynamics in Mechatronic Systems: A Case of Parametric Oscillators",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/2368e5c0-760c-4546-b253-994f485a897a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza numeryczno-doświadczalna nieliniowych oscylatorów mechatronicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/645c3791-ca27-4c03-a993-1a63e9f2a2b9",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.krzy%C5%BCy%C5%84ski.onvC9xvItIf/research-work/3cc1cb32-e929-42e7-a115-0591fe9aa90a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=53566"
+    }
+  ],
+  "tag_cloud": [
+    "horizontal seat suspension",
+    "optimization",
+    "simulation",
+    "active seat suspension",
+    "vibration",
+    "vibration damping",
+    "whole-body vibration;",
+    "optimisation",
+    "metoda fmea",
+    "suspension system"
+  ],
+  "coworkers": []
+}

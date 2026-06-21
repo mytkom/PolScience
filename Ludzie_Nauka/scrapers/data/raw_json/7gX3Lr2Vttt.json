@@ -1,0 +1,242 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt",
+  "slug": "alicja.jokiel-rokita",
+  "profile_id": "7gX3Lr2Vttt",
+  "full_name": "dr hab. Alicja Anna Jokiel-Rokita",
+  "orcid": "0000-0002-9552-6712",
+  "orcid_url": "https://orcid.org/0000-0002-9552-6712",
+  "breadcrumb_name": "Alicja Jokiel-Rokita",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "statystyka matematyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Matematyki i Informatyki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/gremiums/8982511b-720e-45f7-95ac-63d20039453a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Estimation of quantile versions of the Lorenz curve and the Gini index for the generalized Pareto distribution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/publications/5627a458-ba49-4cb9-85be-ed8933509f9f",
+      "authors": "A. Jokiel-Rokita , A. Siedlaczek",
+      "publication_type": "Artykuł , Journal of Applied Statistics",
+      "year": "2025",
+      "doi": "10.1080/02664763.2025.2490105",
+      "doi_url": "https://www.doi.org/10.1080/02664763.2025.2490105",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nonparametric estimators of inequality curves and inequality measures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/publications/52453924-8f09-47f9-becd-d48531b4e3e8",
+      "authors": "A. Jokiel-Rokita , S. Piątek",
+      "publication_type": "Artykuł , Journal of Statistical Planning and Inference",
+      "year": "2025",
+      "doi": "10.1016/j.jspi.2024.106251",
+      "doi_url": "https://www.doi.org/10.1016/j.jspi.2024.106251",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Estimation of parameters and quantiles of the Weibull distribution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/publications/6e5cd6bf-53a8-46ce-ac26-987b6e1691fa",
+      "authors": "A. Jokiel-Rokita , S. Piątek",
+      "publication_type": "Artykuł , Statistical Papers",
+      "year": "2024",
+      "doi": "10.1007/s00362-022-01379-9",
+      "doi_url": "https://www.doi.org/10.1007/s00362-022-01379-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Bayesowskie i minimaksowe procedury estymacji sekwencyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/89d80f96-513d-4d1b-9d42-87b6480bf0ce",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Bayesowskie i minimaksowe procedury estymacji i predykcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/bb73e35e-cfe6-4114-a285-32e7f7a59b99",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Estymacja parametrów niejednorodnych procesów gamma.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/29586f61-f469-4e88-921a-25d2f5672def",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Estymacja kwantylowych wersji krzywej Lorenza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/49626c80-139f-410a-9bb5-c10d113fa7ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Semiparametryczna estymacja krzywej ROC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/e996e100-a7d1-4be6-a907-6268237da293",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metody wykrywania punktu zmiany przy ograniczeniach na kształt alternatyw",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.jokiel-rokita.7gX3Lr2Vttt/research-work/cbbdc706-0518-4c2c-96f9-a9ac27d9c0a8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=79202"
+    }
+  ],
+  "tag_cloud": [
+    "optymalne stopowanie",
+    "receiver operating characteristic curve",
+    "zapobiegawcze funkcje straty",
+    "bi-weibull model",
+    "statystyka matematyczna",
+    "dystrybuanta empiryczna",
+    "asymptotyczna normalność estymatora",
+    "predykcja minimaksowa",
+    "estymator jądrowy z losową szerokością okna",
+    "estymator jądrowy"
+  ],
+  "coworkers": []
+}

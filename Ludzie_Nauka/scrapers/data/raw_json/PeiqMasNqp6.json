@@ -1,0 +1,245 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6",
+  "slug": "krzysztof.dutkowski",
+  "profile_id": "PeiqMasNqp6",
+  "full_name": "prof. dr hab. inż. Krzysztof Dutkowski",
+  "orcid": "0000-0003-3945-9882",
+  "orcid_url": "https://orcid.org/0000-0003-3945-9882",
+  "breadcrumb_name": "Krzysztof Dutkowski",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika płynów",
+    "termodynamika",
+    "wymiana ciepła",
+    "przepływy wielofazowe",
+    "odnawialne źródła energii"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria środowiska, górnictwo i energetyka"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Inżynierii Mechanicznej i Energetyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/753e787a-6612-4f7c-abd2-b470b87cff1c"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska w Koszalinie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Review of the State of the Art on Ionic Liquids and Their Physical Properties During Heat Transfer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/publications/ca319c71-671b-45a6-9f77-ae2e90158a2d",
+      "authors": "K. Dutkowski , M. Kruzel, M. Smuga‐kogut, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18154053",
+      "doi_url": "https://www.doi.org/10.3390/en18154053",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental Studies of Fluid Flow Resistance in a Heat Exchanger Based on the Triply Periodic Minimal Surface",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/publications/48a96f87-cd62-4956-80d0-73b79c982364",
+      "authors": "M. Kruzel, K. Dutkowski , T. Bohdal",
+      "publication_type": "Artykuł , ENERGIES",
+      "year": "2025",
+      "doi": "10.3390/en18010134",
+      "doi_url": "https://www.doi.org/10.3390/en18010134",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental Studies on the Critical Reynolds Number in the Flow of a Microencapsulated Phase Change Material Slurry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/publications/363381d1-bb03-4e03-bd20-0884023beb32",
+      "authors": "K. Dutkowski , M. Kruzel",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18061520",
+      "doi_url": "https://www.doi.org/10.3390/en18061520",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/900dfde2-eb89-4d9f-9ffa-092c1ae5cc05",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wymiana ciepła i opory przepływu czynników jedno- i dwufazowych w minikanałach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/2252f5b1-5034-47bc-a913-91986bae1ada",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie intensyfikacji wymiany ciepła w warunkach konwekcji swobodnej, od płaskiej izotermicznej płyty, w przestrzeni częściowo ograniczonej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/78480b74-9844-4abf-966d-652350fcb479",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Granit jako materiał wypełnienia akumulatorów ciepła",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/c238d41e-46b6-4122-adce-2b57ac0ec52b",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Procesy wymiany ciepła w termosyfonie wykorzystującym nanociecze jako czynniki robocze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/b8bd27d9-f5a7-48ee-a8ab-f88526b7b077",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Kształtowanie charakterystyk cieplnych grzejników w instalacjach ogrzewczych poprzez analizę i dobór parametrów zaworów regulacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.dutkowski.PeiqMasNqp6/research-work/83479c32-370a-4cb7-86a7-237d9a441354",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=107009"
+    }
+  ],
+  "tag_cloud": [
+    "steady state",
+    "heat exchangers",
+    "viscosity",
+    "condensation",
+    "mpcm slurry",
+    "heat transfer coefficient",
+    "experimental research",
+    "refrigerant",
+    "friction factor",
+    "wymiennik ciepła"
+  ],
+  "coworkers": []
+}

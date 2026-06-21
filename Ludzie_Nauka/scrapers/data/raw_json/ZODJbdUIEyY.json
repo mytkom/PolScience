@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY",
+  "slug": "beata.bochentyn",
+  "profile_id": "ZODJbdUIEyY",
+  "full_name": "dr hab. inż. Beata Bochentyn",
+  "orcid": "0000-0002-6558-6335",
+  "orcid_url": "https://orcid.org/0000-0002-6558-6335",
+  "breadcrumb_name": "Beata Bochentyn",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Fizyki Technicznej i Matematyki Stosowanej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a5512b06-de8f-4174-a997-e9b13048eac6"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Degradation of perovskite solar cells: Insights from accelerated testing versus outdoor aging in two climate zones",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/publications/8f56867b-ca6f-4779-9062-5bb8822c6791",
+      "authors": "Ł. Haryński, S. Bykkam, B. Bochentyn , ... (+4)",
+      "publication_type": "Artykuł , Solar Energy",
+      "year": "2025",
+      "doi": "10.1016/j.solener.2025.114131",
+      "doi_url": "https://www.doi.org/10.1016/j.solener.2025.114131",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrode effects on the cell performance of anode-supported Ce0.8Sm0.2O2-δ-based microtubular solid oxide fuel cells built using phase inversion method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/publications/d51630de-3a97-4c29-a234-00926e2998de",
+      "authors": "B. Bochentyn , J. Karczewski, P. Jasiński, ... (+4)",
+      "publication_type": "Artykuł , International Journal of Hydrogen Energy",
+      "year": "2025",
+      "doi": "10.1016/j.ijhydene.2025.151110",
+      "doi_url": "https://www.doi.org/10.1016/j.ijhydene.2025.151110",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigation of the phase transition to the Ruddlesden–Popper phase in La- or Nb-doped Sr2Fe1.5Mo0.5O6−δ double perovskites and the impact of lanthanum or niobium doping",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/publications/781e9b08-9f5f-44b8-922c-d0ea565bd057",
+      "authors": "A. Ducka, P. Błaszczak [...] B. Bochentyn , ... (+3)",
+      "publication_type": "Artykuł , Nanoscale",
+      "year": "2025",
+      "doi": "10.1039/d5nr00596e",
+      "doi_url": "https://www.doi.org/10.1039/d5nr00596e",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Tlenkowe materiały funkcjonalne do ogniw paliwowych i urządzeń termoelektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/c4d76317-58b2-4bac-8c4d-b29081fad95d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Właściwości strukturalne i transportowe kompozytów tytanianu strontu z tlenkami przewodzącymi jonowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/2eece79b-7074-4648-b4a5-7d6df10fda6b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Kinetics and mechanisms of oxides reduction in a process of (Bi,Sb) 2 Te 3 thermoelectric materials synthesis (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/05a9cacf-81f2-4f47-9e37-8e4d253f4cc5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Investigation of the stability of oxygen electrode of solid oxide electrolysis cell (SOEC) operated with steam as a sweep gas for simultaneous production of high purity oxygen and hydrogen",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/67457ded-61cf-412d-8360-5e409a6e613f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Polymer Electrolytes Comprising Oligomeric Lithium Borate Salts And Poly(ethylene Oxide",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/84526953-7a7b-4856-8ea3-5d302017b27e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Nowe metody otrzymywania oraz badanie właściwości strukturalnych i elektrycznych nanomateriałów zawierających stabilną w temperaturze pokojowej fazę δ - Bi2O3",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/beata.bochentyn.ZODJbdUIEyY/research-work/9ff77852-4819-4227-92fb-1d7742b34fad",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=247121"
+    }
+  ],
+  "tag_cloud": [
+    "soec",
+    "methanation",
+    "aktywność katalityczna",
+    "antibiofilm",
+    "antibiotic",
+    "sofc",
+    "biogas reforming, direct internal reforming, carbon deposition, sofc, ftir",
+    "ftir",
+    "agglomeration",
+    "soec methanation co-electrolysis ch4 yield catalyst nanoparticles"
+  ],
+  "coworkers": []
+}

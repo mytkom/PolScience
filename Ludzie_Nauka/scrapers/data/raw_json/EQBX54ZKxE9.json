@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9",
+  "slug": "marcin.gajzler",
+  "profile_id": "EQBX54ZKxE9",
+  "full_name": "dr inż. Marcin Gajzler",
+  "orcid": "0000-0001-5436-4342",
+  "orcid_url": "https://orcid.org/0000-0001-5436-4342",
+  "breadcrumb_name": "Marcin Gajzler",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologia i organizacja budownictwa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Prezydenta Stanisława Wojciechowskiego w Kaliszu Aktualna nazwa: Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e8c292f9-7b79-4d42-8480-d0c7f7a5787b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Economic and Environmental Analysis of Using Recycled Ceramic Demolition Materials in Construction Projects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/publications/60a8a9eb-8fe9-4f8b-8eea-19220ffc38b7",
+      "authors": "M. Gajzler , P. Nowotarski, M. Ratajczak",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17167560",
+      "doi_url": "https://www.doi.org/10.3390/su17167560",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wady w robotach budowlanych – spojrzenie praktyczne w znaczeniu technicznym i prawnym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/publications/faaaca9f-4431-49e2-a263-c577250b7482",
+      "authors": "M. Gajzler , J. Banach",
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0976",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0976",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Improving Procedures for Maintaining Existing Railway Station Infrastructure in Poland as an Element of the Sustainable European Ecological Transformation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/publications/9435039d-0448-4069-bb7b-8d3b1165c9b4",
+      "authors": "P. Nowotarski, M. Gajzler",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2024",
+      "doi": "10.3390/su162210124",
+      "doi_url": "https://www.doi.org/10.3390/su162210124",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Hybrydowy system doradczy dla napraw betonowych posadzek przemysłowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.gajzler.EQBX54ZKxE9/research-work/80089644-737c-4dec-afad-ad23d51bddf3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=229332"
+    }
+  ],
+  "tag_cloud": [
+    "constraints",
+    "predictive maintenance",
+    "zarządzanie techniczne budynkiem",
+    "kosztorysowanie",
+    "utrzymanie predykcyjne",
+    "building maintenance",
+    "reuse",
+    "data mining",
+    "recycling",
+    "budynki dworcowe"
+  ],
+  "coworkers": []
+}

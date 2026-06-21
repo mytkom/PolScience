@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg",
+  "slug": "anna.zatwarnicka",
+  "profile_id": "BgEWtRrjjHg",
+  "full_name": "dr inż. Anna Zatwarnicka",
+  "orcid": "0000-0002-5879-9156",
+  "orcid_url": "https://orcid.org/0000-0002-5879-9156",
+  "breadcrumb_name": "Anna Zatwarnicka",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "algorytmy dystrybucji żądań webowych",
+    "systemy zarządzania bazami danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA WROCŁAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Using Recommendation Systems on a Website Presenting Movies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/publications/0375a254-cc55-4d12-bca2-cf03afa3f3a3",
+      "authors": "M. Baranowski, A. Zatwarnicka",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "General environment description language",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/publications/283686d7-34aa-4861-96f3-7b1315273953",
+      "authors": "K. Zatwarnicki, W. Pokuta [...] A. Zatwarnicka , ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences-Basel",
+      "year": "2021",
+      "doi": "10.3390/app11020740",
+      "doi_url": "https://www.doi.org/10.3390/app11020740",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Machine Learning Predictive Model for Time Series Data and Time Series Forecasting problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/publications/d831d905-13f6-4c13-897a-6ac7ae5f3a43",
+      "authors": "N. Romanyuk, A. Zatwarnicka",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda i adaptacyjne algorytmy globalnej dystrybucji żądań HTTP",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.zatwarnicka.BgEWtRrjjHg/research-work/ff14691b-6806-426c-b5c1-00367660615c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=204236"
+    }
+  ],
+  "tag_cloud": [
+    "web cloud system",
+    "neuro-fuzzy modeling",
+    "autonomous systems",
+    "fuzzy-neural modeling",
+    "cloud computing",
+    "http request distribution",
+    "web systems simulation",
+    "knowledge engineering",
+    "http-based request distribution",
+    "knowledge management"
+  ],
+  "coworkers": []
+}

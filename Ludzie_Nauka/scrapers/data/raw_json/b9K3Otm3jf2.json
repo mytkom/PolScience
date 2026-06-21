@@ -1,0 +1,287 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2",
+  "slug": "zbigniew.korczewski",
+  "profile_id": "b9K3Otm3jf2",
+  "full_name": "prof. dr hab. inż. Zbigniew Korczewski",
+  "orcid": "0000-0002-9758-0798",
+  "orcid_url": "https://orcid.org/0000-0002-9758-0798",
+  "breadcrumb_name": "Zbigniew Korczewski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "diagnostyka siłowni okrętowych",
+    "eksploatacja siłowni okrętowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki technczne / budowa i eksloatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Akademia Marynarki Wojennej",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/gremiums/6bee1148-028a-4756-9078-c56cefac821b",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/gremiums/11af940d-0298-4cf6-a141-a1d02f86c767",
+      "period": "2012-2015",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multi-Symptom Diagnostic Investigation of the Working Process of a Marine Diesel Engine: Case Study Part 1 Measurement Diagnostics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/publications/f77db6f2-138a-4115-b3da-b10b2dd03e54",
+      "authors": "Z. Korczewski , J. Rudnicki, R. Varbanets, ... (+1)",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0020",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-Symptom Diagnostic Investigation of the Working Process of a Marine Diesel Engine: Case Study Part 2 Simulation Diagnostics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/publications/5f8b89b9-c54f-4612-8ca4-0470129c2358",
+      "authors": "Z. Korczewski , J. Rudnicki, R. Varbanets, ... (+1)",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0052",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0052",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Active Diagnostic Experimentation on Wind Turbine Blades with Vibration Measurements and Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/publications/450eeebf-36a1-48ab-8ef8-1908af91c929",
+      "authors": "Z. Korczewski , J. Rudnicki",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2024",
+      "doi": "10.2478/pomr-2024-0042",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2024-0042",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja procesów gazodynamicznych w zespole sprężarkowym okrętowego turbinowego silnika spalinowego dla potrzeb diagnostyki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/7597845e-2138-4a62-a4f0-e3ef9caf37e1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda diagnozowania części przepływowej okrętowych silników spalinowych w eksploatacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/425e694f-0f09-4178-87d2-cdcaa93cc261",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie procesów energetycznych w obrotowym układzie mechanicznym dla potrzeb diagnozowania zmęczenia okrętowych wałów napędowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/34e61bce-70f9-4fc0-96ee-cad4fb93e4e3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda diagnozowania przestrzeni roboczych silnika okrętowego na podstawie parametrów procesów gazodynamicznych w kanale zasilającym turbosprężarkę",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/54b61b18-1f55-4ca0-b5f4-f794a13c5a05",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Identyfikacja procesu sprężania okrętowego tłokowego silnika spalinowego dla potrzeb diagnostyki jego przestrzeni roboczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/10ff0d71-208b-4a04-9cfe-303d137b4cc9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Symptomy wibroakustyczne jako uzupełnienie systemu OBD silników wysokoprężnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.korczewski.b9K3Otm3jf2/research-work/8bb1b6b1-f494-4a04-9b5e-96df8522a1de",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17664"
+    }
+  ],
+  "tag_cloud": [
+    "damage control",
+    "testing of statistical hypotheses",
+    "rotating mechanical system",
+    "ochrona przeciwpożarowa",
+    "paliwa żeglugowe",
+    "laboratory research test bed",
+    "low-sulphur marine fuels, usable quality, engine tests, health monitoring, endoscopic examinations",
+    "metodyka",
+    "rotational mechanical system",
+    "okręty wojenne"
+  ],
+  "coworkers": []
+}

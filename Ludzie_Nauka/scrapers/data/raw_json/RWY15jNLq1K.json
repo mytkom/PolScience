@@ -1,0 +1,152 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K",
+  "slug": "jerzy.rapcewicz",
+  "profile_id": "RWY15jNLq1K",
+  "full_name": "mgr inż. Jerzy Rapcewicz",
+  "orcid": "0000-0001-7607-7141",
+  "orcid_url": "https://orcid.org/0000-0001-7607-7141",
+  "breadcrumb_name": "Jerzy Rapcewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka, robotyka i informatyka przemysłowa",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Active Learning in Feature Extraction for Glass-in-Glass Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/publications/6a2a1a3f-cf4c-4d1a-9df3-2bfdfccb3147",
+      "authors": "J. Rapcewicz , M. Malesa",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13112049",
+      "doi_url": "https://www.doi.org/10.3390/electronics13112049",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Hyperspectral Imaging for Mobile Robot Navigation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/publications/b764332c-230f-4016-b4ae-42d7e58bd9c0",
+      "authors": "B. Siemiatkowska, K. Jakubczyk, J. Rapcewicz , ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23010383",
+      "doi_url": "https://www.doi.org/10.3390/s23010383",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Semantic-Aware Path Planning with Hexagonal Grids and Vehicle Dynamic Constraints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.rapcewicz.RWY15jNLq1K/publications/efad5e51-0c74-4330-83c2-3d0cab713076",
+      "authors": "J. Rapcewicz , B. Siemiatkowska, R. Więckowski, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16135127",
+      "doi_url": "https://www.doi.org/10.3390/en16135127",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

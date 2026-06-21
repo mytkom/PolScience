@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph",
+  "slug": "marcin.drozd",
+  "profile_id": "l2KiulIxXph",
+  "full_name": "dr inż. Marcin Drozd",
+  "orcid": "0000-0002-9770-8309",
+  "orcid_url": "https://orcid.org/0000-0002-9770-8309",
+  "breadcrumb_name": "Marcin Drozd",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel holder and microfluidic system for spatially controlled hypoxia induction, mechanical stimulation and cardiac regeneration research",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/publications/31d61a2a-4418-463e-9e4a-a31827060221",
+      "authors": "D. Kolodziejek, A. Szlachetka [...] M. Drozd , ... (+3)",
+      "publication_type": "Artykuł , Lab on a Chip - Miniaturisation for Chemistry and Biology",
+      "year": "2025",
+      "doi": "10.1039/d5lc00460h",
+      "doi_url": "https://www.doi.org/10.1039/d5lc00460h",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Au@Fe₃O₄@PEG nanocubes as photoactive agents in photothermal therapy: An in vitro study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/publications/5871fc01-6260-46da-87fe-22390d5fddcc",
+      "authors": "A. Wolińska, A. Wolińska, M. Drozd , ... (+3)",
+      "publication_type": "Artykuł , Biomedicine & Pharmacotherapy",
+      "year": "2025",
+      "doi": "10.1016/j.biopha.2025.118051",
+      "doi_url": "https://www.doi.org/10.1016/j.biopha.2025.118051",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Heart-on-a-chip: a novel microfluidic approach to organ modelling and cellular mechanobiology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.drozd.l2KiulIxXph/publications/605b8f28-6ca3-4707-99a9-163a6b1874b5",
+      "authors": "D. Kolodziejek, O. Tadko [...] M. Drozd , ... (+4)",
+      "publication_type": "Artykuł , Sensors and Actuators, A: Physical",
+      "year": "2025",
+      "doi": "10.1016/j.sna.2025.116957",
+      "doi_url": "https://www.doi.org/10.1016/j.sna.2025.116957",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314038"
+    }
+  ],
+  "tag_cloud": [
+    "modified electrodes",
+    "lab-on-a-chip",
+    "cancer treatment",
+    "iii) oxide",
+    "surface plasmon resonance",
+    "surface modification",
+    "c-reactive protein",
+    "angiostatics",
+    "multifunctional nanoparticles",
+    "ce-icp-ms"
+  ],
+  "coworkers": []
+}

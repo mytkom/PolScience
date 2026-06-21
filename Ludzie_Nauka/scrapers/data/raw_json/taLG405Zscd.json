@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd",
+  "slug": "robert.dyja",
+  "profile_id": "taLG405Zscd",
+  "full_name": "dr inż. Robert Dyja",
+  "orcid": "0000-0001-6941-4728",
+  "orcid_url": "https://orcid.org/0000-0001-6941-4728",
+  "breadcrumb_name": "Robert Dyja",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Estimation of the Heat Transfer Coefficient for Three Ranges of Reference Values under Fourth-Kind Boundary Conditions Using Swarm Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/publications/3fa3413c-1c0b-4e5e-9067-5d5342e19f2a",
+      "authors": "M. Zych, R. Dyja , E. Gawrońska, ... (+2)",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2025",
+      "doi": "10.17512/jamcm.2025.4.08",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2025.4.08",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Space-Time Finite Element Analysis of the Advection-Diffusion Equation Using Galerkin/Least-Square Stabilization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/publications/32786ba6-3ac0-4e3d-bab9-a738c3065d5a",
+      "authors": "B. Khara, K. Saurabh, R. Dyja , ... (+2)",
+      "publication_type": "Artykuł , Computers and Mathematics with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.camwa.2025.02.020",
+      "doi_url": "https://www.doi.org/10.1016/j.camwa.2025.02.020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Space-time finite element analysis of the advection-diffusion equation using Galerkin/least-square stabilization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/publications/e2dbdc66-7ed4-47dd-b8e6-4eb4193996bb",
+      "authors": "B. Khara, K. Saurabh, R. Dyja , ... (+2)",
+      "publication_type": "Artykuł , Computers & Mathematics with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.camwa.2025.02.020;10.48550/arxiv.2307.00822",
+      "doi_url": "https://www.doi.org/10.1016/j.camwa.2025.02.020;10.48550/arxiv.2307.00822",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Globalna analiza wrażliwości numerycznego modelu krzepnięcia metali",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.dyja.taLG405Zscd/research-work/dd893f67-2655-42ac-8bb4-cef11a8e7c7a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=218578"
+    }
+  ],
+  "tag_cloud": [
+    "heat conduction",
+    "numerical simulations",
+    "pressure stabilized petrov-galerkin",
+    "fem",
+    "solidification",
+    "navier-stokes",
+    "finite element method",
+    "streamline upwind petrov-galerkin",
+    "parabolic problems",
+    "abc algorithm"
+  ],
+  "coworkers": []
+}

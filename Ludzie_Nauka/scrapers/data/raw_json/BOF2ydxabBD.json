@@ -1,0 +1,156 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD",
+  "slug": "daniel.paczesny",
+  "profile_id": "BOF2ydxabBD",
+  "full_name": "dr Daniel Paczesny",
+  "orcid": "0000-0003-2029-028X",
+  "orcid_url": "https://orcid.org/0000-0003-2029-028X",
+  "breadcrumb_name": "Daniel Paczesny",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika pomiarowa",
+    "aparatura naukowo-badawcza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Security Analysis of Low-Budget IoT Smart Home Appliances Embedded Software and Connectivity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/publications/33788cc2-1a33-4d8d-9df7-076571300c0c",
+      "authors": "K. Murat, J. Bieniasz [...] D. Paczesny , ... (+4)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2024",
+      "doi": "10.3390/electronics13122371",
+      "doi_url": "https://www.doi.org/10.3390/electronics13122371",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza bezpieczeństwa komunikacji urządzeń Internetu Rzeczy wykorzystujących protokół ZIGBEE: narzędzia i scenariusze testowania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/publications/67553eab-3e5b-4094-be73-c9c1cde5309b",
+      "authors": "J. Bieniasz, D. Topyła [...] D. Paczesny , ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2022",
+      "doi": "10.15199/59.2022.4.29",
+      "doi_url": "https://www.doi.org/10.15199/59.2022.4.29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modyfikacja oprogramowania urządzeń Internetu Rzeczy: analiza możliwości i wpływu na bezpieczeństwo",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/publications/7320d113-ac94-48f8-8eea-add1793879cb",
+      "authors": "J. Bieniasz, K. Zdulski [...] D. Paczesny , ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2022",
+      "doi": "10.15199/59.2022.4.30",
+      "doi_url": "https://www.doi.org/10.15199/59.2022.4.30",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda pomiaru wilgotności w warunkach dynamicznych do diagnozowania schorzeń laryngologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.paczesny.BOF2ydxabBD/research-work/79a2705a-d1c8-4cb0-92ad-92371024da1e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=215763"
+    }
+  ],
+  "tag_cloud": [
+    "cyberbezpieczeństwo",
+    "wireless networks",
+    "network security",
+    "zigbee",
+    "internet rzeczy",
+    "internet of things",
+    "firmware",
+    "sieci bezprzewodowe",
+    "software security",
+    "cybersecurity"
+  ],
+  "coworkers": []
+}

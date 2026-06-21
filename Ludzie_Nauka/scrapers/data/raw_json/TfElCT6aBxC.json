@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC",
+  "slug": "joanna.tabor",
+  "profile_id": "TfElCT6aBxC",
+  "full_name": "dr inż. Joanna Tabor",
+  "orcid": "0000-0002-7746-2970",
+  "orcid_url": "https://orcid.org/0000-0002-7746-2970",
+  "breadcrumb_name": "Joanna Tabor",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "zarządzanie technologią",
+    "innowacyjność",
+    "bezpieczeństwo techniczne",
+    "bezpieczeństwo pracy"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz – ITECH Instytut Innowacji i Technologii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/99b73e7f-5723-47b4-bf61-f162e05340bf"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska Wydział Budowy Maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Human Reliability Management in Industrial Maintenance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/publications/cd502996-a777-4f09-9629-a499c941b367",
+      "authors": null,
+      "publication_type": "Artykuł , Scientific Journals of the Maritime University of Szczecin-Zeszyty Naukowe Akademii Morskiej w Szczecinie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Implementation of Selected Industry 4.0 Components in European Manufacturing Companies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/publications/409c88f5-e014-40fc-af84-4b30dc39649f",
+      "authors": null,
+      "publication_type": "Artykuł , Polish Journal of Management Studies",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Fuzzy TOPSIS in Occupational Risk Management Assessment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/publications/dade1246-3a09-471a-b8dc-d970e8fe676d",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda podnoszenia efektywności małych i średnich przedsiębiorstw przy pomocy benchmarkingu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.tabor.TfElCT6aBxC/research-work/8d7874be-8b24-4079-ac8a-7679b1980032",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117440"
+    }
+  ],
+  "tag_cloud": [
+    "cluster",
+    "fuzzy topsis",
+    "grey systems theory",
+    "management system",
+    "mcdm",
+    "ohs",
+    "making decision",
+    "ohs management",
+    "furnituremanufacturing companies",
+    "system zarządzania"
+  ],
+  "coworkers": []
+}

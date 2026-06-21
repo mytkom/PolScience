@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt",
+  "slug": "jan.nikodem",
+  "profile_id": "aHK2oIuoMyt",
+  "full_name": "dr inż. Jan Nikodem",
+  "orcid": "0000-0002-3748-9255",
+  "orcid_url": "https://orcid.org/0000-0002-3748-9255",
+  "breadcrumb_name": "Jan Nikodem",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "programowanie równoległe",
+    "systemy czasu rzeczywistego",
+    "systemy mikroprocesorowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "43 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1982",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1979",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A review of the weaponization of IoT: Security threats and countermeasures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/publications/a469aa8c-60e7-4443-95bd-17ce0bd110c4",
+      "authors": "M. Kulbacki, M. Kulbacki [...] J. Nikodem , ... (+8)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/saci60582.2024.10619778",
+      "doi_url": "https://www.doi.org/10.1109/saci60582.2024.10619778",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Accentuated innovations in cognitive info-communication",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/publications/2fa59be4-5d31-476e-a407-3d1884e920db",
+      "authors": "R. Klempous, J. Nikodem , B. Péter Zoltán",
+      "publication_type": "Książka pod redakcją",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-10956-0",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-10956-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Movement tracking in augmented and mixed realities impacting the user activity in medicine and healthcare",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/publications/876ff67d-bafe-4025-bbad-b9bbfe1de3a3",
+      "authors": "J. Nikodem , R. Klempous, J. Segen, ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modele i algorytmy detekcji znaczników w problemach analizy ruchu obiektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.nikodem.aHK2oIuoMyt/research-work/bde88291-3d81-4c11-aa85-eb36d61b084a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=60249"
+    }
+  ],
+  "tag_cloud": [
+    "neural networks",
+    "przetwarzanie obrazów",
+    "dron",
+    "szkolenie oparte na wirtualnych umiejętnościach",
+    "rzeczywistość wirtualna",
+    "technologie innowacyjne",
+    "virtual reality",
+    "rehabilitacja po udarze mózgu",
+    "lokalizacja 3d",
+    "training"
+  ],
+  "coworkers": []
+}

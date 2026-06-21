@@ -1,0 +1,193 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1",
+  "slug": "dariusz.karcz",
+  "profile_id": "KxbmV4bvyD1",
+  "full_name": "dr inż. Dariusz Karcz",
+  "orcid": "0000-0002-9848-2508",
+  "orcid_url": "https://orcid.org/0000-0002-9848-2508",
+  "breadcrumb_name": "Dariusz Karcz",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 8 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 2 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Jagielloński w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Brak informacji o instytucji. Skontaktuj się z instytucją odpowiedzialną za rejestrację i poproś o uzupełnienie danych.",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        },
+        {
+          "label": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a013df22-d5c5-4871-849c-69e8c6e7e912"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of the microbiological potential and spectroscopic properties of new imino-1,3,4-thiadiazoles showing the ESIPT effect strongly enhanced by aggregation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/publications/6f8c25dd-0523-402e-9e2f-a81f2dfe2de7",
+      "authors": "D. Karcz , R. Luchowski, E. Chruściel, ... (+10)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30030531",
+      "doi_url": "https://www.doi.org/10.3390/molecules30030531",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Synergistic effect of synthetic derivatives of 1,3,4-thiadiazole with amphotericin B in antifungal therapy.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/publications/7b7eb1cb-514d-4405-998f-de86cf62caa2",
+      "authors": "D. Karcz , D. Kubera, A. Dróżdż, ... (+13)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-01075-2",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-01075-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Cooperativity of ESPT and aggregation-induced emission effects - an experimental and theoretical analysis of a 1,3,4-thiadiazole derivative.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/publications/b637f321-f4fc-4d29-90a1-9af51fc6bf0e",
+      "authors": "K. Rząd, D. Karcz , G. Burdzinski, ... (+9)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2024",
+      "doi": "10.3390/ijms25063352",
+      "doi_url": "https://www.doi.org/10.3390/ijms25063352",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analityka pochodnych betalainowych o potencjalnej aktywności biologicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.karcz.KxbmV4bvyD1/research-work/7742e226-e53c-4f3a-933d-7ab2c7c1390c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=274205"
+    }
+  ],
+  "tag_cloud": [
+    "synergistic effect",
+    "1,3,4-thiadiazole",
+    "amphotericin b",
+    "caspase activity",
+    "extrusion-cooking",
+    "neurodegeneration",
+    "antibacterial",
+    "thiadiazole ligands",
+    "molecular spectroscopy and chemometric analysis",
+    "4-thiadiazole derivatives"
+  ],
+  "coworkers": []
+}

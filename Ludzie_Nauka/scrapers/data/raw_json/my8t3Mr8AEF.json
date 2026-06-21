@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF",
+  "slug": "marek.żyliński",
+  "profile_id": "my8t3Mr8AEF",
+  "full_name": "dr inż. Marek Żyliński",
+  "orcid": "0000-0002-5565-0479",
+  "orcid_url": "https://orcid.org/0000-0002-5565-0479",
+  "breadcrumb_name": "Marek Żyliński",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria biomedyczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria biomedyczna",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Budowa bezprzewodowego czujnika Bluetooth w oparciu o moduł Arduino",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/publications/82a04de1-3fac-4e7f-a82d-8ca52d509645",
+      "authors": null,
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hearables: In-Ear Multimodal Data Fusion for Robust Heart Rate Estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/publications/4214c758-7551-454f-863b-129f511c08e0",
+      "authors": "M. Żyliński , A. Nassibi, E. Occhipinti, ... (+4)",
+      "publication_type": "Artykuł , BioMedInformatics",
+      "year": "2024",
+      "doi": "10.3390/biomedinformatics4020051",
+      "doi_url": "https://www.doi.org/10.3390/biomedinformatics4020051",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exaggerated pressor response to static squats in Parkinson's disease (PD) and healthy subjects is likely an individual trait, not influenced by whole body vibration (WBV)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.%C5%BCyli%C5%84ski.my8t3Mr8AEF/publications/9a60989c-c2e5-4e5a-ba94-d55f6bac1568",
+      "authors": "M. Żyliński , W. Niewiadomski, A. Gąsiorowska, ... (+3)",
+      "publication_type": "Artykuł , NeuroRehabilitation",
+      "year": "2023",
+      "doi": "10.3233/nre-220234",
+      "doi_url": "https://www.doi.org/10.3233/nre-220234",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "pulse-pressure method",
+    "whole body vibration",
+    "blood pressure",
+    "parkinson’s disease",
+    "arterial compliance",
+    "reservoir-wave model",
+    "simulated lunar mission",
+    "diastolic decay time method",
+    "tele-rehabilitation system",
+    "inertial sensors"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4",
+  "slug": "kamil.halbiniak",
+  "profile_id": "aZRhyXlh8V4",
+  "full_name": "dr inż. Kamil Jacek Halbiniak",
+  "orcid": "0000-0001-9116-8981",
+  "orcid_url": "https://orcid.org/0000-0001-9116-8981",
+  "breadcrumb_name": "Kamil Halbiniak",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie równoległe i rozproszone",
+    "systemy komputerowe",
+    "układy hybrydowe",
+    "architektury komputerowe",
+    "inżynieria oprogramowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of Mixed Precision on Performance and Accuracy of DNN Training for AI-Accelerated CFD Simulations on NVIDIA Multi-GPU System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/publications/c601f29c-1e85-4cb0-8343-dae649c9e031",
+      "authors": "K. Halbiniak , K. Rojek, R. Wyrzykowski, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing Computational Science Education Through Practical Applications: Leveraging Predictive Analytics in Box Meal Services",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/publications/f14a5924-e80f-4549-9158-52c8f28470c2",
+      "authors": "P. Gepner, J. Krawiec [...] K. Halbiniak , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-63783-4_28",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-63783-4_28",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Single‐ and multi‐GPU computing on NVIDIA‐ and AMD‐based server platforms for solidification modeling application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/publications/3b55a1ae-7884-4796-ae1d-5750baf10d6f",
+      "authors": "K. Halbiniak , N. Meyer, K. Rojek",
+      "publication_type": "Artykuł , Concurrency Computation Practice and Experience",
+      "year": "2024",
+      "doi": "10.1002/cpe.8000",
+      "doi_url": "https://www.doi.org/10.1002/cpe.8000",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody zrównoleglenia i równoważenia obciążeń dla obliczeń numerycznych w architekturach hybrydowych z akceleratorami obliczeniowymi Intel MIC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.halbiniak.aZRhyXlh8V4/research-work/a7339af2-adff-49ae-a466-445cfa89356a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=296326"
+    }
+  ],
+  "tag_cloud": [
+    "hip",
+    "xeon scalable processors",
+    "load balancing",
+    "computational thinking",
+    "numerical modeling of solidification",
+    "openmp",
+    "cuda",
+    "computer programming",
+    "knc coprocessor",
+    "parallel programming"
+  ],
+  "coworkers": []
+}

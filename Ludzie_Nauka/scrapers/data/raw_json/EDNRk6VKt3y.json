@@ -1,0 +1,268 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y",
+  "slug": "adam.słowik",
+  "profile_id": "EDNRk6VKt3y",
+  "full_name": "dr hab. inż. Adam Słowik",
+  "orcid": "0000-0003-2542-9842",
+  "orcid_url": "https://orcid.org/0000-0003-2542-9842",
+  "breadcrumb_name": "Adam Słowik",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "obliczenia ewolucyjne",
+    "optymalizacja globalna",
+    "układy elektroniczne",
+    "systemy inteligentne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2b8ddb36-7216-4e6b-a545-200fb9dd498d"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/gremiums/0c3cac2a-af0e-494e-93c6-b58334773753",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/gremiums/c1ac5ca0-c3a6-46d2-b0a6-af9fdc9bfb72",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Feature selection in high-dimensional classification via an adaptive multifactor evolutionary algorithm with local search",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/publications/9b8a4737-d4fe-40ae-8af4-aaaa28d08846",
+      "authors": "Z. Li, H. Li [...] A. Słowik , ... (+2)",
+      "publication_type": "Artykuł , APPLIED SOFT COMPUTING",
+      "year": "2025",
+      "doi": "10.1016/j.asoc.2024.112574",
+      "doi_url": "https://www.doi.org/10.1016/j.asoc.2024.112574",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Learning Fuzzy Label-Distribution-Specific Features for Data Processing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/publications/ffc3fc3d-400f-4333-9a36-ddb0862a22c3",
+      "authors": "X. Wang, J. Peter [...] A. Słowik , ... (+2)",
+      "publication_type": "Artykuł , IEEE TRANSACTIONS ON FUZZY SYSTEMS",
+      "year": "2025",
+      "doi": "10.1109/tfuzz.2024.3419144",
+      "doi_url": "https://www.doi.org/10.1109/tfuzz.2024.3419144",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimizing Wind farm layout using a one-by-one replacement mechanism-incorporated gradient-based optimizer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/publications/a3715828-6996-4e34-891b-6f34a543b48b",
+      "authors": "M. Abdel-Basset, R. Mohamed [...] A. Słowik , ... (+1)",
+      "publication_type": "Artykuł , Energy",
+      "year": "2025",
+      "doi": "10.1016/j.energy.2024.134154",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2024.134154",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Biologicznie inspirowane algorytmy optymalizacji globalnej - ich modyfikacje i zastosowania inżynierskie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/77d4c254-c88b-4446-9082-12617b46d524",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Projektowanie i optymalizacja cyfrowych układów elektronicznych przy użyciu algorytmów ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/bfe92f86-2871-424a-b108-099ce44b16ed",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Projektowanie i optymalizacja cyfrowych układów elektronicznych przy użyciu elgorytmów ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/733c6912-a82d-48ac-8f5b-5a1308eeb28e",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy syntezy modeli programowania matematycznego z przykładów rozwiązań (cykl publikacji)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/54f9e0fa-972d-468f-b016-9c4aa1dc53bf",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie mechanizmów optymalizacji w algorytmach ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/abe6dc0c-b459-478e-a0e0-480ccc236712",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Algorytmy bazujące na populacji oraz możliwości ich powiązania z innymi wybranymi metodami sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.s%C5%82owik.EDNRk6VKt3y/research-work/a9a54dde-cb8d-4326-a98c-ba1354d810ca",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=s2ugMVwAAAAJ&hl=pl"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Adam-Slowik-2"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=23995858300"
+    }
+  ],
+  "tag_cloud": [
+    "grey wolf optimizer",
+    "evolutionary algorithms",
+    "classification",
+    "artificial intelligence",
+    "deep learning",
+    "feature selection",
+    "optimization",
+    "genetic algorithm",
+    "multi-objective optimization",
+    "crow search algorithm"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,146 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m",
+  "slug": "anna.pidluzhna",
+  "profile_id": "eDGYy1R4j3m",
+  "full_name": "dr Anna Pidluzhna",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Pidluzhna",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia",
+        "Czerniowiecki Narodowowy Uniwersytet • Ukraina",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Lwowski Uniwersytet Narodowy • Ukraina",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "InP/ZnS Quantum Dots Synthesis and Photovoltaic Application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/publications/b997dd8a-061d-402d-94ee-89d6582cbde7",
+      "authors": "A. Pidluzhna , P. Stakhira, G. Baryshnikov, ... (+2)",
+      "publication_type": "Artykuł , Applied Nanoscience",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrical Properties of Clathrate Formed on the Basis of a P-Type Semiconductor with 2D Guest Positions Filled with Ferroelectric and Propolis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/publications/4439af43-d498-452e-9883-6c962df5380b",
+      "authors": "V. Maksymych, F. Ivashchyshyn [...] A. Pidluzhna , ... (+3)",
+      "publication_type": "Artykuł , Applied Nanoscience",
+      "year": "2022",
+      "doi": "10.1007/s13204-022-02695-0",
+      "doi_url": "https://www.doi.org/10.1007/s13204-022-02695-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Quantum Energy Accumulation in Semiconductor < Ionic Liquid > Layered Clathrates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.pidluzhna.eDGYy1R4j3m/publications/4c05480e-a193-4f80-8b03-a72d7a92eab8",
+      "authors": "V. Maksymych, D. Calus [...] A. Pidluzhna , ... (+4)",
+      "publication_type": "Artykuł , Applied Nanoscience",
+      "year": "2021",
+      "doi": "10.1007/s13204-021-01763-1",
+      "doi_url": "https://www.doi.org/10.1007/s13204-021-01763-1",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

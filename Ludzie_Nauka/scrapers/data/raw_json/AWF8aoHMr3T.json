@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T",
+  "slug": "łukasz.kaczmarek",
+  "profile_id": "AWF8aoHMr3T",
+  "full_name": "dr inż. Łukasz Dominik Kaczmarek",
+  "orcid": "0000-0001-5207-3816",
+  "orcid_url": "https://orcid.org/0000-0001-5207-3816",
+  "breadcrumb_name": "Łukasz Kaczmarek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "nauki o Ziemi"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1.03.2026 - 22.03.2026",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki o ziemi i środowisku",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "geologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza aktywnego osuwiska i pełzania strefy przypowierzchniowej na zabudowanym wzgórzu Chełm k. Bochni",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/publications/afdf2afe-f9d9-4fa7-b40e-481d5e5f351c",
+      "authors": "Ł. Kaczmarek , K. Kiełbasiński, P. Dobak, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Geologiczny",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrical resistivity imaging data for hydrological and soil investigations of virgin Rospuda River peatland (north-eastern Poland)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/publications/ab2175f6-da86-4034-87b2-c122d1c4150f",
+      "authors": "G. Sinicyn, Ł. Kaczmarek , B. Bednarz, ... (+5)",
+      "publication_type": "Artykuł , Geoscientific Instrumentation, Methods and Data Systems",
+      "year": "2025",
+      "doi": "10.5194/gi-14-103-2025",
+      "doi_url": "https://www.doi.org/10.5194/gi-14-103-2025",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Geological‑engineering determinants of groundwater leakage in an urban area",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.kaczmarek.AWF8aoHMr3T/publications/5d31022c-bff6-4ffe-adfc-f81a7caca2df",
+      "authors": "P. Popielski, Ł. Kaczmarek , M. Wojtkowska, ... (+3)",
+      "publication_type": "Artykuł , Materiały Budowlane",
+      "year": "2025",
+      "doi": "10.15199/33.2025.04.04",
+      "doi_url": "https://www.doi.org/10.15199/33.2025.04.04",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314101"
+    }
+  ],
+  "tag_cloud": [
+    "neogene clay",
+    "building foundation",
+    "cptu",
+    "grunty spoiste",
+    "annealing temperature",
+    "thin film",
+    "stress state",
+    "shear strength",
+    "strength",
+    "fib modification"
+  ],
+  "coworkers": []
+}

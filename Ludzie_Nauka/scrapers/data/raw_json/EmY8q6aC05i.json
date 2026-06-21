@@ -1,0 +1,286 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i",
+  "slug": "janusz.datta",
+  "profile_id": "EmY8q6aC05i",
+  "full_name": "prof. dr hab. inż. Janusz Datta",
+  "orcid": "0000-0002-4509-2696",
+  "orcid_url": "https://orcid.org/0000-0002-4509-2696",
+  "breadcrumb_name": "Janusz Datta",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia i technologia polimerów i gumy",
+    "fizykochemia polimerów",
+    "inżynieria materiałów polimerowych",
+    "przetwórstwo polimerów",
+    "przetwórstwo gumy",
+    "materiałoznawstwo",
+    "analiza termiczna",
+    "recykling polimerów i gumy"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Inżynierii Materiałów Polimerowych i Barwników Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Materiałów Polimerowych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/38cc4673-d359-4443-97f2-a81458dcf403",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/gremiums/51519277-efc1-4c2f-bb97-a483efa37bef",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advances in the degradation and recycling of polyurethanes: biodegradation strategies, MALDI applications, and environmental implications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/publications/19c79d58-acc7-4f6c-869e-2d1d622fc0aa",
+      "authors": "J. Datta , J. Drzeżdżon, J. Drzeżdzon",
+      "publication_type": "Artykuł , Waste Management",
+      "year": "2025",
+      "doi": "10.1016/j.wasman.2025.02.043",
+      "doi_url": "https://www.doi.org/10.1016/j.wasman.2025.02.043",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bio-polyisocyanate modification toward monomers for cast polyurethanes–comprehensive thermal analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/publications/95e23134-fd6b-4844-b39f-1c975373b4c1",
+      "authors": "P. Parcheta-Szwindowska, E. Głowińska [...] J. Datta , ... (+2)",
+      "publication_type": "Artykuł , Journal of Thermal Analysis and Calorimetry",
+      "year": "2025",
+      "doi": "10.1007/s10973-025-14780-x",
+      "doi_url": "https://www.doi.org/10.1007/s10973-025-14780-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Nb(V), Ta(V), and V(IV) catalyst-driven development of temperature-responsive self-healing materials based on methyl methacrylate",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/publications/bd027c4a-7aef-4b6f-83dc-97dca26eded5",
+      "authors": "J. Datta , J. Drzeżdżon, M. Białek, ... (+7)",
+      "publication_type": "Artykuł , Dalton Transactions",
+      "year": "2025",
+      "doi": "10.1039/d5dt01073j",
+      "doi_url": "https://www.doi.org/10.1039/d5dt01073j",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Glikoliza poliuretanów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/fb3320df-110d-4aae-917a-8a93bbb1a481",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania syntezy, budowy i właściwości oligo(alkilenoestro-etero)dioli",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/3bd1e8de-8c99-4892-9569-b2f00ebb7396",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Synteza, struktura chemiczna i właściwości termoplastycznych bio-poli(etero-uretanów) syntezowanych z surowców pochodzenia roślinnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/4d6fb82e-0d1b-4d66-bdf0-2818237060eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza, właściwości i zastosowanie liniowych polioli poliestrowych otrzymanych z wykorzystaniem surowców pochodzenia roślinnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/9994db23-5218-48ce-b5e5-d3b4541cc5a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie produktów dekompozycji termicznochemicznej poliuretanów uzyskanych przy użyciu surowej gliceryny w syntezie nowych materiałów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/7349cff8-6993-46df-8fc4-a8bc0890fa54",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Synteza ekoplastyfikatorów z półproduktów pochodzenia odnawialnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/f0c85877-1449-4d93-ac78-ce0ab6dee5c3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/ae42c651-880b-4340-b7da-97fb70f248a1",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Warstwowe kompozyty elastomerowe zawierające nanodruty srebra i ich właściwości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.datta.EmY8q6aC05i/research-work/733b325e-5039-4864-baf3-118a16e14bdd",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92291"
+    }
+  ],
+  "tag_cloud": [
+    "termoplastyczne elastomery poliuretanowe",
+    "polymeric polyols",
+    "natural rubber",
+    "mechanical properties",
+    "thermoplastic polyurethane elastomers",
+    "thermal properties",
+    "cycloaddition · non-isocyanate polyurethane · thermal decomposition · carbon capture · bis(cyclic carbonate) · thermal degradation kinetics",
+    "recykling tworzyw sztucznych",
+    "thermal degradation kinetics",
+    "flynn and wall method"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,241 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC",
+  "slug": "grzegorz.chodak",
+  "profile_id": "LezYlcPkotC",
+  "full_name": "dr hab. inż. Grzegorz Wawrzyniec Chodak",
+  "orcid": "0000-0002-9604-482X",
+  "orcid_url": "https://orcid.org/0000-0002-9604-482X",
+  "breadcrumb_name": "Grzegorz Chodak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "makroekonomia",
+    "mikroekonomia",
+    "zarządzanie przedsiębiorstwem",
+    "handel elektroniczny",
+    "logistyka",
+    "media społecznościowe",
+    "sklep intemetowy"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Nysie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Nysie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5714bcce-ef38-47d5-a3f2-52ada93b82bf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/gremiums/6e4fecf6-5089-4abd-8486-6811a63d502a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A multi-stage LLM framework for generating realistic synthetic medical datasets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/publications/99ca5c66-608b-407a-9dbc-5e3d0adf24d6",
+      "authors": "M. Hołysz, M. Bystroński [...] G. Chodak , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cyfrowy marketing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/publications/97e28f4e-6e20-4ab1-bead-281dd952fc85",
+      "authors": "K. Małagocka, G. Chodak , A. Dzidowski, ... (+1)",
+      "publication_type": "Książka , Polskie Wydawnictwo Ekonomiczne",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhancing AI face realism: cost-efficient quality improvement in distilled diffusion models with a fully synthetic dataset",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/publications/7d4f63ab-7626-48d4-a06b-c7c240e269aa",
+      "authors": "J. Wąsala, B. Wrzalski [...] G. Chodak , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97564-6_10",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97564-6_10",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zagadnienia logistyki w sklepach internetowych - modele, badania rynku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/research-work/f0d45d49-d06e-4805-b213-5be056a7aaf5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System wspomagania decyzji w gospodarce magazynowej w sferze dystrybucji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/research-work/530b7967-bd18-4705-b4af-dd0518ee5e2c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Koncepcja marketingowa przedsiębiorstw na rynku suplementów diety w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/research-work/7293523f-7da0-499d-ac69-4a6e64cc067f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zarządzanie mediami społecznościowymi w kontekście pozytywnego nastawienia do inteligentnych liczników i ich akceptacji przez konsumentów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.chodak.LezYlcPkotC/research-work/29bedab8-0a4f-4340-b366-26fd63944663",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=107445"
+    }
+  ],
+  "tag_cloud": [
+    "association rules",
+    "data mining",
+    "online store",
+    "handel elektroniczny",
+    "żywność",
+    "rynek książek elektronicznych",
+    "makroekonomia",
+    "cyfrowe piractwo",
+    "media społecznościowe",
+    "urządzenia mobilne"
+  ],
+  "coworkers": []
+}

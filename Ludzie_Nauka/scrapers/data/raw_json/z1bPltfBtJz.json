@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz",
+  "slug": "dawid.huczek",
+  "profile_id": "z1bPltfBtJz",
+  "full_name": "dr inż. Dawid Paweł Huczek",
+  "orcid": "0000-0002-4429-4448",
+  "orcid_url": "https://orcid.org/0000-0002-4429-4448",
+  "breadcrumb_name": "Dawid Huczek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria układów dynamicznych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Matematyki i Informatyki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Factoring strongly irreducible group shift actions onto full shifts of lower entropy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/publications/5e25bba1-9e86-408d-8bbf-f23c81ccf120",
+      "authors": "D. Huczek , S. Kopacz",
+      "publication_type": "Artykuł , Groups, Geometry, and Dynamics",
+      "year": "2024",
+      "doi": "10.4171/ggd/808;10.48550/arxiv.2106.10687",
+      "doi_url": "https://www.doi.org/10.4171/ggd/808;10.48550/arxiv.2106.10687",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Factoring strongly irreducible group shift actions onto full shifts of lower entropy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/publications/b111ab62-0c3d-4fcf-863e-278e41b0dd5a",
+      "authors": "D. Huczek , S. Kopacz",
+      "publication_type": "Artykuł , Groups, Geometry, and Dynamics",
+      "year": "2024",
+      "doi": "10.4171/ggd/808",
+      "doi_url": "https://www.doi.org/10.4171/ggd/808",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Residuality of dynamical morphisms for amenable group actions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/publications/eb1da9ab-b0f4-4603-8ceb-d286fb85dc65",
+      "authors": "D. Huczek , S. Kopacz, J. Serafin",
+      "publication_type": "Artykuł , Indiana University Mathematics Journal",
+      "year": "2024",
+      "doi": "10.1512/iumj.2024.73.60075",
+      "doi_url": "https://www.doi.org/10.1512/iumj.2024.73.60075",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele zerowymiarowe układów dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/research-work/83d81bfd-eb1c-4139-aaaa-eec872faf462",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modele zerowymiarowe układów dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.huczek.z1bPltfBtJz/research-work/65645d4c-9808-4715-9771-07d3ee21851a",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=217602"
+    }
+  ],
+  "tag_cloud": [
+    "działanie grupy",
+    "operator markowa",
+    "miara niezmiennicza",
+    "układ dynamiczny",
+    "grupa ze średnią",
+    "entropia",
+    "spektrum dyskretne",
+    "sympleks choqueta",
+    "pokafelkowanie dynamiczne",
+    "twierdzenie halmosa-von neumanna"
+  ],
+  "coworkers": []
+}

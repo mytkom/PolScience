@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU",
+  "slug": "agnieszka.moskal",
+  "profile_id": "TQHgD24z4TU",
+  "full_name": "dr Agnieszka Moskal",
+  "orcid": "0000-0002-2932-5269",
+  "orcid_url": "https://orcid.org/0000-0002-2932-5269",
+  "breadcrumb_name": "Agnieszka Moskal",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk społecznych / ekonomia i finanse",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ekonomia",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of XGBoost in investment fund analysis - selected case studies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/publications/c0de6c80-5988-404b-be3b-b9b2f119ed2e",
+      "authors": null,
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.10.066",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.10.066",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Energy vs. Precious Metals Funds Performance During Commodity Markets Volatility—Evidence from Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/publications/ea5cbd7e-cc03-4170-9cd4-f5af56fa5f4b",
+      "authors": null,
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18051169",
+      "doi_url": "https://www.doi.org/10.3390/en18051169",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessing Bankruptcy Risk in Polish Food Sector Companies: A Discriminant Model Approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.moskal.TQHgD24z4TU/publications/b18b7319-964e-443a-b75b-71f1b31c0b56",
+      "authors": "A. Moskal , E. Szafraniec-Siluta, D. Zawadzka",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.09.331",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.09.331",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "alternative funds",
+    "poland",
+    "fundusze inwestycyjne",
+    "efektywność",
+    "investment funds",
+    "effectiveness",
+    "efficiency",
+    "linear mixed models",
+    "traditional funds",
+    "fundusze inwestycyjne fundusze akcji małych i średnich spółek stopa zwrotu"
+  ],
+  "coworkers": []
+}

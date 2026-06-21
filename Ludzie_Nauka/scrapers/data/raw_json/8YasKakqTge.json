@@ -1,0 +1,249 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge",
+  "slug": "dariusz.brzeziński",
+  "profile_id": "8YasKakqTge",
+  "full_name": "dr hab. inż. Dariusz Brzeziński",
+  "orcid": "0000-0001-9723-525X",
+  "orcid_url": "https://orcid.org/0000-0001-9723-525X",
+  "breadcrumb_name": "Dariusz Brzeziński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/eb155ad0-f9cf-4c26-b470-4c6501ea0a66",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "AI’nspired: Evaluating AI-generated versus web images as sources of design inspiration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/publications/681b51b0-bcfc-4f02-b295-68fed43e17b5",
+      "authors": "E. Angoneze-Grela, B. Linowiecka [...] D. Brzeziński , ... (+6)",
+      "publication_type": "Artykuł , Educational Technology and Society",
+      "year": "2026",
+      "doi": "10.30191/ets.202610_29(4).rp08",
+      "doi_url": "https://www.doi.org/10.30191/ets.202610_29(4).rp08",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "How to mitigate the caveat emptor burden of human and machine users of the Protein Data Bank",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/publications/9a4fb59d-11f0-4a93-a75f-d46f7411b884",
+      "authors": "A. Wlodawer, P. Rubach [...] D. Brzeziński , ... (+4)",
+      "publication_type": "Artykuł , Acta Crystallographica Section D: Structural Biology",
+      "year": "2026",
+      "doi": "10.1107/s2059798325011477",
+      "doi_url": "https://www.doi.org/10.1107/s2059798325011477",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Critical Look at the Crystal Structures of cAMP-Dependent Protein Kinases",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/publications/1eb59806-79fb-4bf1-89d4-fecefd439598",
+      "authors": "P. Rubach, A. Wlodawer [...] D. Brzeziński , ... (+6)",
+      "publication_type": "Artykuł , Kinases and Phosphatases",
+      "year": "2025",
+      "doi": "10.3390/kinasesphosphatases3030019",
+      "doi_url": "https://www.doi.org/10.3390/kinasesphosphatases3030019",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Blokowe i przyrostowe klasyfikatory złożone dla strumieni danych ze zmienną definicją klas",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/research-work/d6072002-e059-4237-9dc1-d8345a89f939",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analysis of structural biology results with the use of advanced data mining methods including machine learning techniques",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/research-work/729acc25-050b-4b60-920a-b6362eb03618",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Non-stationary data stream processing with metafeature analysis",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/research-work/29051b53-c2c9-452c-995c-e04e0097606d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Normalizing flow models for modeling uncertainty in machine learning tasks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.brzezi%C5%84ski.8YasKakqTge/research-work/dfb3ae9e-18dd-4d1c-8cbb-fb03efc34d1d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=9a6_KPgAAAAJ"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dabrze"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Dariusz_Brzezinski2"
+    },
+    {
+      "label": "Web of Science",
+      "url": "http://www.researcherid.com/rid/F-7789-2014"
+    }
+  ],
+  "tag_cloud": [
+    "aggregated distance ranking",
+    "uczenie maszynowe",
+    "viral proteases",
+    "protein data bank",
+    "structure-guided drug discovery",
+    "coronavirus",
+    "sars-cov-2",
+    "topsis",
+    "visualization",
+    "covid-19"
+  ],
+  "coworkers": []
+}

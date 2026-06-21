@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl",
+  "slug": "adam.piwowarczyk",
+  "profile_id": "ipFjoRdT7hl",
+  "full_name": "mgr inż. Adam Piotr Piwowarczyk",
+  "orcid": "0000-0001-6006-1065",
+  "orcid_url": "https://orcid.org/0000-0001-6006-1065",
+  "breadcrumb_name": "Adam Piwowarczyk",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka stosowana",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of PbO/CuO ratio on phase composition, microstructure, melt wettability and recyclability of copper slag",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/publications/635e6736-4121-4fb8-81fd-b7cd83d14f0d",
+      "authors": "I. Jastrzębska, A. Piwowarczyk , A. Błachowski, ... (+1)",
+      "publication_type": "Artykuł , Ceramics International",
+      "year": "2024",
+      "doi": "10.1016/j.ceramint.2024.04.055",
+      "doi_url": "https://www.doi.org/10.1016/j.ceramint.2024.04.055",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing materials science through computer image analysis and IQA approaches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/publications/fc1bb9d5-826f-4d9d-8e8a-df03a94b7f4e",
+      "authors": "A. Piwowarczyk , I. Jastrzębska",
+      "publication_type": "Artykuł , Materials Research Proceedings",
+      "year": "2023",
+      "doi": "10.21741/9781644902691-43",
+      "doi_url": "https://www.doi.org/10.21741/9781644902691-43",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Traditional vs. automated computer image analysis — a comparative assessment of use for analysis of digital SEM images of high-temperature ceramic material",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piwowarczyk.ipFjoRdT7hl/publications/23791d7f-d800-4c0a-949e-0afe644c72da",
+      "authors": "I. Jastrzębska, A. Piwowarczyk",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma16020812",
+      "doi_url": "https://www.doi.org/10.3390/ma16020812",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=278000"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr",
+  "slug": "krzysztof.wałęsa",
+  "profile_id": "f7v61LffQEr",
+  "full_name": "dr inż. Krzysztof Wałęsa",
+  "orcid": "0000-0003-0561-4485",
+  "orcid_url": "https://orcid.org/0000-0003-0561-4485",
+  "breadcrumb_name": "Krzysztof Wałęsa",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of Density Distribution in a Cylindrical Specimen under Compaction Using the Example of Dry Ice",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/publications/4b4ee996-34f7-4da3-b8f8-980e9a102a67",
+      "authors": "J. Górecki, M. Berdychowski, K. Wałęsa , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17112658",
+      "doi_url": "https://www.doi.org/10.3390/ma17112658",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Energy Consumption of The Biomass Cutting Process Preceding The Biofuel Production",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/publications/c7e74ba9-0ebb-4a58-a5f1-1447def8deec",
+      "authors": "K. Talaśka, D. Wojtkowiak [...] K. Wałęsa , ... (+2)",
+      "publication_type": "Artykuł , Biosystems Engineering",
+      "year": "2024",
+      "doi": "10.1016/j.biosystemseng.2023.12.007",
+      "doi_url": "https://www.doi.org/10.1016/j.biosystemseng.2023.12.007",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Study of the straw compaction degree as a function of moisture content, particle size and process temperature",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.wa%C5%82%C4%99sa.f7v61LffQEr/publications/c5f4dd89-be1b-454d-af5e-58fab3bfde47",
+      "authors": "D. Wilczyński, K. Talaśka, K. Wałęsa , ... (+6)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17235869",
+      "doi_url": "https://www.doi.org/10.3390/ma17235869",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "thermal conducting",
+    "hydrostatic method",
+    "energy consumption",
+    "hot plate welding",
+    "dry ice",
+    "compaction",
+    "extrusion",
+    "timing belt",
+    "punching die",
+    "automated device"
+  ],
+  "coworkers": []
+}

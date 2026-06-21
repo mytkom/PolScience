@@ -1,0 +1,286 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf",
+  "slug": "jerzy.balicki",
+  "profile_id": "bZoAwmTsgDf",
+  "full_name": "dr hab. inż. Jerzy Balicki",
+  "orcid": "0000-0002-6368-6279",
+  "orcid_url": "https://orcid.org/0000-0002-6368-6279",
+  "breadcrumb_name": "Jerzy Balicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "11 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Olsztyńska Wyższa Szkoła Informatyki i Zarządzania im. prof. Tadeusza Kotarbińskiego w Olsztynie Aktualna nazwa: Wyższa Szkoła Informatyki i Zarządzania im. Prof. Tadeusza Kotarbińskiego z siedzibą w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b0e6027-66e8-4ba2-8f04-552b398f1d8c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok 3 miesiące",
+      "duration": null,
+      "institution": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3b7a72f4-78d9-4c46-8876-932d37791dd0",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego, Elektroniki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "systemy informatyczne",
+        "Nadanie tytułu",
+        "Wojskowa Akademia Techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "QUANTUM ARTIFICIAL INTELLIGENCE IN MANAGEMENT OF SELECTED BUSINESS PROCESSES",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/publications/b5d7685b-0be2-4ba5-9ce0-8a6665c18909",
+      "authors": "H. Balicka, J. Balicki",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2024",
+      "doi": "10.29119/1641-3466.2024.208.1",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2024.208.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-objective Quantum-Inspired Genetic Algorithm for Supervised Learning of Deep Classification Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/publications/6cb48b45-e454-450a-98f4-3fcf61450a08",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-36030-5_20",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-36030-5_20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Big Data from Sensor Network via Internet of Things to Edge Deep Learning for Smart City",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/publications/35682e25-cd40-4498-9e65-085dd0af0b60",
+      "authors": "P. Dryja, J. Balicki , H. Balicka",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1007/978-3-030-84340-3_29",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-84340-3_29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy ewolucyjne oraz algorytmy przeszukiwania tabu do optymalizacji przydziałów modułów programów w rozproszonych systemach komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/2b483868-caf6-4b86-a19d-100bfb67e599",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja rozdziału zadań i wybranych zasobów w sieci komputerowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/a75aed8e-f1c7-4e15-b6a0-e6a2bc15b576",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja zasobów chmury obliczeniowej z wykorzystaniem inteligentnych agentów w zdalnym nauczaniu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/ebe7560f-d2db-400e-9422-23c142980afb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja strategii sieci inteligentnych agentów za pomocą programowania genetycznego w systemie rozproszonym realizującym paradygmat volunteer computing",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/b1e0df14-252b-4b22-b095-ece8a7b3611b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Optymalizacja wykorzystania zasobów w systemach rozproszonych o architekturze typu grid",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/054d5106-7e48-475e-871d-299d14083fb6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metoda efektywnego rozmieszczania komponentów oraz sterowania ich obciążeniem w systemach klasy SOA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/048f05e6-97d5-4ce1-9209-766cb50505e7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rekonfigurowalny, inspirowany kwantowo algorytm ewolucyjny",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/15d7ee9d-46a8-4b82-b02b-bc29a12879ad",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Optymalizacja wizualizacji danych w rozpoznawaniu wzorców medycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.balicki.bZoAwmTsgDf/research-work/d94b83ec-080e-4e32-925a-8a1ed67f15eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=8734"
+    }
+  ],
+  "tag_cloud": [
+    "computer programming",
+    "edge computing",
+    "duże zbiory danych",
+    "internet rzeczy",
+    "smart city",
+    "inteligentne miasto",
+    "e-learning",
+    "big data",
+    "the internet of things",
+    "computer infrastructure"
+  ],
+  "coworkers": []
+}

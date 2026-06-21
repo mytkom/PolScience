@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL",
+  "slug": "marcin.maleszka",
+  "profile_id": "EflfEYGFGhL",
+  "full_name": "dr inż. Marcin Maleszka",
+  "orcid": "0000-0001-6989-2906",
+  "orcid_url": "https://orcid.org/0000-0001-6989-2906",
+  "breadcrumb_name": "Marcin Maleszka",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Social collective as a modular group modeling tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/publications/38237c92-2a78-4b71-9d6b-3c46fddb1b3b",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3592944",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3592944",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Formalization of agent-based model of group learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/publications/a02e8194-9e27-41c0-825c-d2f4b6e45b44",
+      "authors": "B. Wędrychowicz, M. Maleszka",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70248-8_1",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70248-8_1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Processing the 3D heritage data samples based on combination of GNN and GAN",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/publications/74c0117a-f61d-44f0-a7eb-fb783bde69e8",
+      "authors": "L. Nguyen, S. Nguyen [...] M. Maleszka , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70248-8_23",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70248-8_23",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody integracji danych o strukturze hierarchicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.maleszka.EflfEYGFGhL/research-work/e9ddcedd-3534-4614-8ea2-2e21f9dae9c6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=234924"
+    }
+  ],
+  "tag_cloud": [
+    "fintech",
+    "wiedza kolektywu",
+    "głosowanie agentów",
+    "sieci społeczne",
+    "kolektywna inteligencja",
+    "integracja wiedzy",
+    "bazy danych",
+    "systemy inteligentne i wieloagentowe",
+    "model kolektywu",
+    "prognozy gospodarcze"
+  ],
+  "coworkers": []
+}

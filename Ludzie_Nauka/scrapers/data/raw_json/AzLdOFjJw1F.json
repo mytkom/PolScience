@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F",
+  "slug": "robert.bembenik",
+  "profile_id": "AzLdOFjJw1F",
+  "full_name": "dr inż. Robert Bembenik",
+  "orcid": "0000-0002-7771-2351",
+  "orcid_url": "https://orcid.org/0000-0002-7771-2351",
+  "breadcrumb_name": "Robert Bembenik",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy informacyjne",
+    "bazy danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Improving Location Recommendations Based on LBSN Data Through Data Preprocessing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/publications/b4d04b7c-c52c-4dc8-a2ff-9ebe63ccdef1",
+      "authors": "R. Bembenik , P. Maciąg, M. Orzoł",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2025",
+      "doi": "10.3390/electronics14040701",
+      "doi_url": "https://www.doi.org/10.3390/electronics14040701",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Visualizing Urban Dynamics: Insights from Electric Scooter Mobility Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/publications/de0f6631-6a37-47a6-9144-22769830ab12",
+      "authors": "R. Bembenik , J. Chudziak, A. Dąbrowska",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics15010187",
+      "doi_url": "https://www.doi.org/10.3390/electronics15010187",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Discovery of crime event sequences with constricted spatio-temporal sequential patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/publications/ca36397b-19e4-46ef-aa2b-139699982478",
+      "authors": "P. Maciąg, R. Bembenik , A. Dubrawski",
+      "publication_type": "Artykuł , Journal of Big Data",
+      "year": "2023",
+      "doi": "10.1186/s40537-023-00780-x",
+      "doi_url": "https://www.doi.org/10.1186/s40537-023-00780-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody eksploracji danych z systemów informacji przestrzennej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.bembenik.AzLdOFjJw1F/research-work/65221035-3d09-492e-a2a0-2afcdf359c70",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=209181"
+    }
+  ],
+  "tag_cloud": [
+    "spatio-temporal data analysis",
+    "city exploration",
+    "data mining",
+    "concise representation",
+    "spatio-temporal sequential patterns",
+    "optimum business location",
+    "air pollution predictionevolving spiking neural networksbagging ensemblesstacking ensemblesceemdamtime series decomposition",
+    "patterns discovery",
+    "spatial data mining spatial co-location rules",
+    "indoor positioning system"
+  ],
+  "coworkers": []
+}

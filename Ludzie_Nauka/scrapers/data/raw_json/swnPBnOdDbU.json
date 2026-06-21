@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU",
+  "slug": "marta.sochacka-piętal",
+  "profile_id": "swnPBnOdDbU",
+  "full_name": "dr Marta Sochacka-Piętal",
+  "orcid": "0000-0002-8598-9190",
+  "orcid_url": "https://orcid.org/0000-0002-8598-9190",
+  "breadcrumb_name": "Marta Sochacka-Piętal",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mikrobiologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Rzeszowski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki biologiczne / biologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Uniwersytet Rzeszowski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hydrophilic polyurethane films containing gastrodin as potential temporary biomaterials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/publications/c36861f5-7440-4f26-8866-5ca35fd9c204",
+      "authors": "P. Król, Ł. Byczyński, M. Sochacka-Piętal",
+      "publication_type": "Artykuł , Progress in Organic Coatings",
+      "year": "2023",
+      "doi": "10.1016/j.porgcoat.2023.107481",
+      "doi_url": "https://www.doi.org/10.1016/j.porgcoat.2023.107481",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "NanoForms: an integrated server for processing, analysis and assembly of raw sequencing data of microbial genomes, from Oxford Nanopore technology.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/publications/72efbf57-b54a-493d-89ca-ca8b2445eff9",
+      "authors": "M. Czmil, A. Czmil [...] M. Sochacka-Piętal , ... (+8)",
+      "publication_type": "Artykuł , PeerJ",
+      "year": "2022",
+      "doi": "10.7717/peerj.13056",
+      "doi_url": "https://www.doi.org/10.7717/peerj.13056",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Synthesis and property of polyurethane elastomer for biomedical applications based on nonaromatic isocyanates, polyesters, and ethylene glycol",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/publications/808e5f4c-75be-4d5a-80f9-379e5b8eac93",
+      "authors": "M. Sochacka-Piętal , K. Pielichowska, Ł. Uram, ... (+3)",
+      "publication_type": "Artykuł , Colloid and Polymer Science",
+      "year": "2020",
+      "doi": "10.1007/s00396-020-04667-8",
+      "doi_url": "https://www.doi.org/10.1007/s00396-020-04667-8",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja i charakterystyka elementów transpozycyjnych Paracoccus pantotrophus",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.sochacka-pi%C4%99tal.swnPBnOdDbU/research-work/fa712c97-afb5-4221-8501-acfabf446d59",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=219492"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

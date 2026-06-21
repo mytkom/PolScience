@@ -1,0 +1,283 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9",
+  "slug": "justyna.kobylarczyk",
+  "profile_id": "uCYRLVESfy9",
+  "full_name": "prof. dr hab. inż. arch. Justyna Anna Kobylarczyk",
+  "orcid": "0000-0002-3358-3762",
+  "orcid_url": "https://orcid.org/0000-0002-3358-3762",
+  "breadcrumb_name": "Justyna Kobylarczyk",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "urbanistyka i planowanie przestrzenne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4eeedf72-d592-4ac4-877d-365bcdf4ff8b"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/gremiums/d80473bf-1e33-4c71-8be8-c03983e127be",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Urbanistyki i Architektury",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/gremiums/c22c4200-de8b-4664-b4e2-5107056d9597",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komitet Architektury i Urbanistyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/gremiums/d6af2529-0f67-4ce1-8ad9-808b548bb813",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Accessibility challenges in public spaces for children with disabilities in historic green districts of Kyiv and Krakow",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/publications/c2f681f1-fa08-4896-8d89-09259550f7f5",
+      "authors": "J. Kobylarczyk , Y. Ivashko, D. Kusnierz-Krupa, ... (+5)",
+      "publication_type": "Artykuł , International Journal of Conservation Science",
+      "year": "2025",
+      "doi": "10.36868/ijcs.2025.si.02",
+      "doi_url": "https://www.doi.org/10.36868/ijcs.2025.si.02",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Exploring residential developments built from 1960 to 1980 in Kraków in the context of the 15-minute city concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/publications/b540b5a4-2924-435f-869f-5b4c264bfb63",
+      "authors": "D. Cenda, J. Kobylarczyk , K. Dudzic-Gyurkovich",
+      "publication_type": "Artykuł , Architectus",
+      "year": "2025",
+      "doi": "10.37190/arc250307",
+      "doi_url": "https://www.doi.org/10.37190/arc250307",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Krakowskie osiedla. Badanie jakości środowiska mieszkaniowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/publications/4d2f5155-4a05-489d-9ef9-e44bfb063c72",
+      "authors": "G. Schneider-Skalska, K. Dudzic-Gyurkovich, J. Kobylarczyk , ... (+14)",
+      "publication_type": "Książka , Politechnika Krakowska im. Tadeusza Kościuszki",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Ocena jakości środowiska zamieszkania w wybranych miastach województwa podkarpackiego po okresie transformacji w pierwszej dekadzie XXI wieku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/c48dda7f-b80f-47b2-ae67-e97a6dfb0c63",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Jakość środowiska mieszkaniowego w strefie centralnej wybranych miast województwa podkarpackiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/f986c77e-21fd-4c6e-8dd5-e091ce68e642",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Grywalizacja architektury w projektowaniu obiektów użyteczności publicznej na przykładzie wybranych parków wodnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/46322afb-1444-441f-b4c1-c8e91696e276",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Przestrzeń społeczna w wielorodzinnej zabudowie mieszkaniowej w dzielnicy Nowa Huta w Krakowie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/2fd073c4-9316-4962-842a-614b3886c407",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/4cf2100a-7241-4ef3-ab6e-a2564671c43b",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Współczesne kierunki kształtowania stref SPA i Wellness w hotelach na Dolnym Śląsku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/12419fc2-bc22-412a-9b27-a66e51bf5a22",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.kobylarczyk.uCYRLVESfy9/research-work/5ba58045-9cb4-40d3-ad35-573759d5a06b",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208419"
+    }
+  ],
+  "tag_cloud": [
+    "przekształcenia",
+    "chiny",
+    "historyczne świątynie",
+    "zrównoważony rozwój",
+    "conservation of urban layouts",
+    "jakość edukacji",
+    "restoration.",
+    "conservation management",
+    "compositional analysis",
+    "analiza kompozycyjna"
+  ],
+  "coworkers": []
+}

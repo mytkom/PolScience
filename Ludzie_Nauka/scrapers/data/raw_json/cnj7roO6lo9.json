@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9",
+  "slug": "piotr.odya",
+  "profile_id": "cnj7roO6lo9",
+  "full_name": "dr inż. Piotr Odya",
+  "orcid": "0000-0003-0288-6178",
+  "orcid_url": "https://orcid.org/0000-0003-0288-6178",
+  "breadcrumb_name": "Piotr Odya",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy multimedialne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Comprehensive Polish Medical Speech Dataset for Enhancing Automatic Medical Dictation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/publications/f69c7a56-af1a-42f7-81f1-a7db22fc1178",
+      "authors": "A. Czyżewski, S. Cygert [...] P. Odya , ... (+10)",
+      "publication_type": "Artykuł , Scientific Data",
+      "year": "2025",
+      "doi": "10.1038/s41597-025-05776-1",
+      "doi_url": "https://www.doi.org/10.1038/s41597-025-05776-1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "English Language Learning Employing Developments in Multimedia IS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/publications/7f38ae3e-2e60-47d4-8ecf-46d7f8b9ed3c",
+      "authors": "P. Odya , A. Kurowski, A. Czyżewski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.62036/isd.2024.47",
+      "doi_url": "https://www.doi.org/10.62036/isd.2024.47",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Reverberation divergence in VR applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/publications/5d4f3e64-35cc-42ad-843d-f6ecab142952",
+      "authors": "P. Odya , B. Mróz, P. Rolkowski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie i zastosowanie metod modyfikacji pętli audytywnego sprzężenia zwrotnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.odya.cnj7roO6lo9/research-work/2f323daa-2638-469b-b380-aae0bba41307",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=206896"
+    }
+  ],
+  "tag_cloud": [
+    "time-scale modification",
+    "wavelet analysis (dwt, discrete wavelet transform)",
+    "acoustic quality",
+    "highspeed camera",
+    "ambisonia",
+    "speech intelligibility",
+    "rough sets",
+    "signal processing",
+    "organ pipe",
+    "acoustic sensing"
+  ],
+  "coworkers": []
+}

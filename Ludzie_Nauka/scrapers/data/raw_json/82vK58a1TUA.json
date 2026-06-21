@@ -1,0 +1,180 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA",
+  "slug": "anna.labijak-kowalska",
+  "profile_id": "82vK58a1TUA",
+  "full_name": "dr inż. Anna Labijak-Kowalska",
+  "orcid": "0000-0002-8617-1921",
+  "orcid_url": "https://orcid.org/0000-0002-8617-1921",
+  "breadcrumb_name": "Anna Labijak-Kowalska",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Robustness analysis for imprecise additive value efficiency analysis with an application to evaluation of special economic zones in Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/publications/b6c961c7-4899-462e-91d4-9d9dc7e85d0c",
+      "authors": "L. Dias, M. Kadziński, A. Labijak-Kowalska , ... (+1)",
+      "publication_type": "Artykuł , Socio-Economic Planning Sciences",
+      "year": "2024",
+      "doi": "10.1016/j.seps.2024.101813",
+      "doi_url": "https://www.doi.org/10.1016/j.seps.2024.101813",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "robustDEA: A Java library for robust efficiency analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/publications/f1173cba-c4be-4164-9072-1d12c6e4f0c6",
+      "authors": "A. Labijak-Kowalska , M. Kadziński",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2024",
+      "doi": "10.1016/j.softx.2024.101749",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2024.101749",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exact and stochastic methods for robustness analysis in the context of Imprecise Data Envelopment Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/publications/a54a932d-aef9-4678-87b6-36a146c278f8",
+      "authors": "M. Kadziński, A. Labijak-Kowalska",
+      "publication_type": "Artykuł , Operational Research",
+      "year": "2023",
+      "doi": "10.1007/s12351-023-00755-z",
+      "doi_url": "https://www.doi.org/10.1007/s12351-023-00755-z",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "New Directions in Robust Data Envelopment Analysis",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.labijak-kowalska.82vK58a1TUA/research-work/f506f414-1767-4c95-81e4-54547a8764bd",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "efficiency analysis",
+    "ranking method",
+    "hierarchical structure",
+    "monte carlo simulation",
+    "robustness analysis",
+    "data envelopment analysis",
+    "electricity supply",
+    "imprecise performances",
+    "value-based efficiency",
+    "emergency department"
+  ],
+  "coworkers": []
+}

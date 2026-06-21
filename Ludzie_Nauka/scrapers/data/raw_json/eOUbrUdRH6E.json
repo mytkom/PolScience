@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E",
+  "slug": "bogumił.konarzewski",
+  "profile_id": "eOUbrUdRH6E",
+  "full_name": "dr inż. Bogumił Aleksander Konarzewski",
+  "orcid": "0000-0001-6304-2863",
+  "orcid_url": "https://orcid.org/0000-0001-6304-2863",
+  "breadcrumb_name": "Bogumił Konarzewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektronika jądrowa",
+    "elektronika medyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An analytical model of preamplifier noise identification in spectrometric system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/publications/a9ad6c68-5d67-4f4b-a371-2e3c24e4edd1",
+      "authors": "R. Kurjata, K. Zaremba [...] B. Konarzewski , ... (+4)",
+      "publication_type": "Artykuł , Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+      "year": "2021",
+      "doi": "10.1016/j.nima.2021.165805",
+      "doi_url": "https://www.doi.org/10.1016/j.nima.2021.165805",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparison of Purely Scattering Finite Difference Method for the Two - Dimensional TM Wave with the Analytical Solution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/publications/e341b0a4-e389-499f-977a-47da71861dee",
+      "authors": "A. Rychter, J. Marzec [...] B. Konarzewski , ... (+6)",
+      "publication_type": "Artykuł , ELEKTRONIKA - KONSTRUKCJE, TECHNOLOGIE, ZASTOSOWANIA",
+      "year": "2018",
+      "doi": "10.15199/13.2018.12.18",
+      "doi_url": "https://www.doi.org/10.15199/13.2018.12.18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Dead Time Measurement by Two-Source Method – Optimization of Measurement Time Division",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/publications/4e33096a-0dd0-48c5-89ef-15f535cfb38e",
+      "authors": "W. Smolik, J. Marzec [...] B. Konarzewski , ... (+8)",
+      "publication_type": "Artykuł , Informatyka, Automatyka, Pomiary w Gospodarce i Ochronie Środowiska",
+      "year": "2018",
+      "doi": "10.5604/01.3001.0011.6007",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0011.6007",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Spektroskopowa metoda badań in vivo gęstości tkanek kostnych i stężeń ciężkich metali toksycznych w kościach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogumi%C5%82.konarzewski.eOUbrUdRH6E/research-work/b9bb55c0-9d4c-4078-b655-5185ad178f70",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85937"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

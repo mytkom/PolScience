@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt",
+  "slug": "michał.ziółko",
+  "profile_id": "seqkx5CMvdt",
+  "full_name": "dr inż. Michał Ziółko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Michał Ziółko",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "metrologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrical Simulations of the SIS100 Superconducting Dipole and Quadrupole Circuits: Transients, Earthing and Failure Modes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/publications/ba5560ec-ef41-4074-82b7-f14d2cdd6820",
+      "authors": "M. Michna, P. Szwangruber [...] M. Ziółko , ... (+10)",
+      "publication_type": "Artykuł , IEEE Transactions on Applied Superconductivity",
+      "year": "2024",
+      "doi": "10.1109/tasc.2024.3375293",
+      "doi_url": "https://www.doi.org/10.1109/tasc.2024.3375293",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Novel Investigation of Higher Order Spectral Technologies for Fault Diagnosis of Motor-Based Rotating Machinery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/publications/0c972096-7fc3-4bb3-8eef-29fe10c83223",
+      "authors": "M. Ziółko , T. Ciszewski, L. Gelman, ... (+4)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23073731",
+      "doi_url": "https://www.doi.org/10.3390/s23073731",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Practical aspects of testing superconducting electromagnets by the capacitor discharge method taking into account the non-linearity of circuit parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/publications/6a9bc5e4-00b1-4f11-a21f-2c2034caf84b",
+      "authors": "M. Michna, A. Wilk [...] M. Ziółko , ... (+3)",
+      "publication_type": "Artykuł , Archives of Electrical Engineering",
+      "year": "2023",
+      "doi": "10.24425/aee.2023.145411",
+      "doi_url": "https://www.doi.org/10.24425/aee.2023.145411",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Diagnostyka łożysk silnika indukcyjnego z wykorzystaniem analizy prądu silnika metodą potrójnej kowariancji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.zi%C3%B3%C5%82ko.seqkx5CMvdt/research-work/f889914f-828f-4b19-af41-f3b188de9baa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=224350"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

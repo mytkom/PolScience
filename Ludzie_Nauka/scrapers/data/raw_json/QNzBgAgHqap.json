@@ -1,0 +1,269 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap",
+  "slug": "magdalena.kaup",
+  "profile_id": "QNzBgAgHqap",
+  "full_name": "dr hab. inż. Magdalena Kaup",
+  "orcid": "0000-0002-9384-8144",
+  "orcid_url": "https://orcid.org/0000-0002-9384-8144",
+  "breadcrumb_name": "Magdalena Kaup",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria transportu wodnego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d20019dd-29e1-4d01-95b4-17ce35d6e028"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Politechnika Szczecińska, Wydział Techniki Morskiej",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "oceanotechnika",
+        "Nadanie tytułu",
+        "Politechnika Szczecińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/gremiums/7405a077-0789-4681-9398-725d762ebf9c",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/gremiums/ed4aad9e-6c48-4892-b943-7b88c67cdd9a",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/gremiums/9cc1ef25-06d2-4c8f-a542-983b04bc7c14",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An Assessment of Stability and Strength of a Container Ship for Safety Compliance in Cargo Loading Plans",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/publications/d16efb6a-b17d-4d30-ae60-37a9c67df627",
+      "authors": "M. Kaup , D. Łozowicka, K. Baszak, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14010345",
+      "doi_url": "https://www.doi.org/10.3390/app14010345",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of the Market of Energy Suppliers For Charging Electric Vehicles in Polan",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/publications/02c9b419-9918-4081-a3a3-8722406d6ff4",
+      "authors": "A. Wiktorowska-Jasik, M. Kaup , J. Sęk",
+      "publication_type": "Artykuł , IBIMA",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Cybersecurity of autonomous ships in offshore wind farms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/publications/73b229cc-f545-49aa-b24a-8db80ae3b43f",
+      "authors": "A. Smacki, A. Wiktorowska-Jasik, M. Kaup , ... (+1)",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.09.703",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.09.703",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie i modelowanie Systemu transportu wodnego śródlądowego w zastosowaniu do oceny efektywności funkcjonowania jednostek śródlądowych i rzeczno-morskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work/30480624-b9c6-49e6-bd0d-0a6ef00e0f34",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metodyka projektowania koncepcyjnego statków rzeka-morze przeznaczonych do eksploatacji w systemie wodnych korytarzy transportowych Europy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work/60303a91-1ac0-475e-b360-5a9fa6931cdf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "„The impact of using cargo bikes in cities on reducing environmental pollution”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work/8efcdf5a-c689-4a65-9f0b-a5cf4aa6fc3a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody wspomagające zarządzanie transportem ładunków w miastach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work/040ec90b-4eb3-4a75-a973-1ad61d7ff189",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie, analiza i ocena uwarunkowań techniczno-technologicznych i organizacyjnych transportu intermodalnego na rynku usług przewozów towarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.kaup.QNzBgAgHqap/research-work/973c1194-3034-424b-b546-96d5a7ffd689",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=135198"
+    }
+  ],
+  "tag_cloud": [
+    "sustainable transport",
+    "inland shipping",
+    "waste management",
+    "inland waterways",
+    "żegluga śródlądowa",
+    "safety",
+    "inland waterway transport",
+    "transport wodny śródlądowy",
+    "threats",
+    "learning process"
+  ],
+  "coworkers": []
+}

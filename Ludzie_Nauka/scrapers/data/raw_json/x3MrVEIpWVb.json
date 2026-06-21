@@ -1,0 +1,300 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb",
+  "slug": "przemysław.grzegorzewski",
+  "profile_id": "x3MrVEIpWVb",
+  "full_name": "prof. dr hab. Przemysław Wojciech Grzegorzewski",
+  "orcid": "0000-0002-5191-4123",
+  "orcid_url": "https://orcid.org/0000-0002-5191-4123",
+  "breadcrumb_name": "Przemysław Grzegorzewski",
+  "current_employment_summary": [
+    "Instytut Badań Systemowych Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "statystyka",
+    "zbiory rozmyte",
+    "systemy wspomagania decyzji",
+    "kontrola jakości"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "36 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia WIT w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3376d56e-d80c-4b7c-96dd-5bfe4714e1c2",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Instytut Badań Systemowych Polskiej Akademii Nauk",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1989",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Statystyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/gremiums/039c699d-12c0-4e82-a2f8-065118e08b5c",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/gremiums/bf86b247-a8a3-439b-ad18-6583fa29933a",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Matematyka 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Matematyka Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fuzzy data imputation with DIMP and FGAIN",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/publications/02e09d02-aa23-4d21-8240-e4ff8f8ec341",
+      "authors": "M. Romaniuk, P. Grzegorzewski",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2026",
+      "doi": "10.1016/j.jocs.2025.102738",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2025.102738",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bayesianize fuzziness in the statistical analysis of fuzzy data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/publications/01d5c8ef-6d01-4a70-9334-ac35fa005b9e",
+      "authors": "A. Calcagni, P. Grzegorzewski , M. Romaniuk",
+      "publication_type": "Artykuł , International Journal of Approximate Reasoning",
+      "year": "2025",
+      "doi": "10.1016/j.ijar.2025.109495;10.48550/arxiv.2501.18974",
+      "doi_url": "https://www.doi.org/10.1016/j.ijar.2025.109495;10.48550/arxiv.2501.18974",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Bayesianize fuzziness in the statistical analysis of fuzzy data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/publications/63d7f1eb-b288-48b2-be3f-4d412f773176",
+      "authors": "P. Grzegorzewski , A. Calcagnì, M. Romaniuk",
+      "publication_type": "Artykuł , International Journal of Approximate Reasoning",
+      "year": "2025",
+      "doi": "10.1016/j.ijar.2025.109495",
+      "doi_url": "https://www.doi.org/10.1016/j.ijar.2025.109495",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wspomaganie decyzji w warunkach niepewności. Metody statystyczne dla nieprecyzyjnych danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/93b5549b-22ab-4674-9ebf-dbffe29bcb74",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Decyzje statystyczne przy nieprecyzyjnych danych: zastosowanie w kontroli jakości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/cd7bb504-2f45-4a88-8e1e-d718057ba3d2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wybrane operatory agregacji i ich zastosowanie w modelu formalnym systemu oceny jakości w nauce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/377933de-3684-410e-b27e-fe615743fa2a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Application of selected artificial intelligence methods to time series analysis.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/209c2d7b-51a6-4734-9a2f-72b433d18cd4",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Uogólnione schematy i reguły wnioskowania w logice rozmytej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/e23167bd-da17-4c84-839a-d2075a25e266",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wybrane wielowymiarowe metody statystyczne dla wielozmiennych danych funkcjonalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.grzegorzewski.x3MrVEIpWVb/research-work/c58b9211-a207-4610-89ec-fdf33b22766b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=oqL_WcoAAAAJ&hl=pl"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=55902990400"
+    },
+    {
+      "label": "dblp",
+      "url": "https://dblp.org/pid/48/1337.html"
+    }
+  ],
+  "tag_cloud": [
+    "soft computing",
+    "nonparametric test",
+    "fuzzy number",
+    "fuzzy numbers",
+    "bootstrap",
+    "fuzzy data",
+    "interval-valued data",
+    "liczby rozmyte",
+    "hypotheses testing",
+    "resampling"
+  ],
+  "coworkers": []
+}

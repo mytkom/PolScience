@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk",
+  "slug": "marek.wiewiórka",
+  "profile_id": "Riyz4oSpEfk",
+  "full_name": "dr inż. Marek Stanisław Wiewiórka",
+  "orcid": "0000-0002-8724-5646",
+  "orcid_url": "https://orcid.org/0000-0002-8724-5646",
+  "breadcrumb_name": "Marek Wiewiórka",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika i techniki informacyjne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "metody ilościowe w ekonomii i systemy informacyjne",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Główna Handlowa w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c7c10a2a-f381-4dc2-8511-53400ceb4a90"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "polars-bio – fast, scalable and out-of-core operations on large genomic interval datasets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/publications/5b0ae71b-d180-422f-aa1e-51a931374220",
+      "authors": "M. Wiewiórka , P. Khamutou, M. Zbysiński, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1101/2025.03.21.644629",
+      "doi_url": "https://www.doi.org/10.1101/2025.03.21.644629",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "polars-bio—fast, scalable and out-of-core operations on large genomic interval datasets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/publications/de1c05a3-c9c3-4be8-8cb3-ff9c2685ded1",
+      "authors": "M. Wiewiórka , P. Khamutou, M. Zbysiński, ... (+1)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2025",
+      "doi": "10.1093/bioinformatics/btaf640",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btaf640",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Cloud-native distributed genomic pileup operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.wiewi%C3%B3rka.Riyz4oSpEfk/publications/8604e5eb-14de-4b65-be56-a68e1eb76527",
+      "authors": "M. Wiewiórka , A. Szmurło, T. Gambin, ... (+1)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2023",
+      "doi": "10.1093/bioinformatics/btac804",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btac804",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

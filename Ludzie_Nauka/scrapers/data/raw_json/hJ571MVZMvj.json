@@ -1,0 +1,288 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj",
+  "slug": "michał.choraś",
+  "profile_id": "hJ571MVZMvj",
+  "full_name": "prof. dr hab. inż. Michał Ryszard Choraś",
+  "orcid": "0000-0003-1405-9911",
+  "orcid_url": "https://orcid.org/0000-0003-1405-9911",
+  "breadcrumb_name": "Michał Choraś",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy informatyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "24 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dfd84555-4eca-4990-b2be-04c0ea9ad213"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich; Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/80f2b7b7-85c7-4ef1-a01c-c4dd2e41058f"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "ATR Bydgoszcz",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/gremiums/cf401882-1086-4daf-85cf-868eafe19877",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Meta-Survey of Adversarial Attacks against Artificial Intelligence Algorithms, including Diffusion Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/publications/02c2b1ed-e7e4-4016-8988-0f212c99f19b",
+      "authors": "M. Pawlicki, R. Kozik, M. Choraś , ... (+1)",
+      "publication_type": "Artykuł , Neurocomputing",
+      "year": "2025",
+      "doi": "10.1016/j.neucom.2025.131231",
+      "doi_url": "https://www.doi.org/10.1016/j.neucom.2025.131231",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A New Cybersecurity Approach Enhanced by xAI-Derived Rules to Improve Network Intrusion Detection and SIEM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/publications/729eeaa1-16fe-43a2-b107-8c5452429da4",
+      "authors": "M. Pawlicki, R. Kozik, M. Choraś , ... (+2)",
+      "publication_type": "Artykuł , Computers, Materials and Continua",
+      "year": "2025",
+      "doi": "10.32604/cmc.2025.062801",
+      "doi_url": "https://www.doi.org/10.32604/cmc.2025.062801",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Novel Method of Improving Intrusion Detection Systems Robustness Against Adversarial Attacks, Through Feature Omission and a Committee of Classifiers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/publications/992aab0b-ad77-4519-8be9-f8fa2c3b4ecf",
+      "authors": "M. Pawlicki, R. Kozik, M. Choraś , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-82362-6_17",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-82362-6_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/21f53f27-1935-407c-b7fd-6211fb46c622",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wybrane aspekty bezpieczeństwa cyfrowego: biometria oraz ochrona infrastruktury teleinformatycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/e968ec89-76ed-4a2f-9ffe-089e30421fbb",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Identyfikacja osób z wykorzystaniem analizy obrazów ucha",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/16d6b0f0-f320-4e8e-b771-e4d37803539a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Effective solutions for high performance communication in the cloud",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/9eeb6116-b739-4367-af74-4cf801da1eb8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "OBJECT DETECTION IN CHALLENGING VISUAL AND TECHNOLOGICAL CONDITIONS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/79f66657-57c5-4618-838b-2ad426c47021",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Point-oriented object localization and tracking in low-altitude aerial imagery",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/ba7ccbb0-c084-41a6-9be0-d1a5320057b1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Explainable Predictive Maintenance in Steel Rolling",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.chora%C5%9B.hJ571MVZMvj/research-work/2050a730-a4e6-4155-80c7-8a29ec886c12",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=133980"
+    }
+  ],
+  "tag_cloud": [
+    "biometrics",
+    "security",
+    "fake news",
+    "big data",
+    "machine learning",
+    "cybersecurity",
+    "anomaly detection",
+    "image processing",
+    "pattern recognition",
+    "media społecznościowe"
+  ],
+  "coworkers": []
+}

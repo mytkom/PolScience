@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G",
+  "slug": "andrzej.stwora",
+  "profile_id": "nFyGgAuCv4G",
+  "full_name": "dr inż. Andrzej Tadeusz Stwora",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Andrzej Stwora",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki",
+    "Sieć Badawcza Łukasiewicz - Krakowski Instytut Technologiczny"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Sieć Badawcza Łukasiewicz - Krakowski Instytut Technologiczny",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5258df8b-3924-4f7a-ab2f-6b1379e3a6dc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "16 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Instytut Zaawansowanych Technologii Wytwarzania Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Zaawansowanych Technologii Wytwarzania",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4dfa0995-5ab0-4cef-bdd1-761f9eda3aa4",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        },
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Krakowski Instytut Technologiczny >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5258df8b-3924-4f7a-ab2f-6b1379e3a6dc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An analytical framework for correlation between laser powder bed fusion factors and porosity-induced fracture strength and plasticity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/publications/b418d6e7-24f0-41b0-81ef-827fa592f74c",
+      "authors": "R. Teimouri, A. Stwora , M. Khademi",
+      "publication_type": "Artykuł , International Journal of Precision Engineering and Manufacturing - Green Technology",
+      "year": "2025",
+      "doi": "10.1007/s40684-025-00813-1",
+      "doi_url": "https://www.doi.org/10.1007/s40684-025-00813-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Role of laser powder bed fusion process factors in determining the porosity formation in 3D printing of stainless steel 316L: theoretical modeling and experimental verification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/publications/4fde3e87-1a81-4a9c-a47c-c057d8c15bae",
+      "authors": "A. Stwora , R. Teimouri, J. Habel",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18245490",
+      "doi_url": "https://www.doi.org/10.3390/ma18245490",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Melt pool changes characterization in laser-processed H11 hot work tool steel using point-by-point scanning mode towards LPBF process optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.stwora.nFyGgAuCv4G/publications/9e07d437-df09-41de-b8bb-9fc1c71c10f8",
+      "authors": "A. Stwora , K. Fryzowicz, R. Bardo, ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17184631",
+      "doi_url": "https://www.doi.org/10.3390/ma17184631",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=309646"
+    }
+  ],
+  "tag_cloud": [
+    "sintered carbides",
+    "obróbka długich otworów",
+    "long holes machining",
+    "mikrostruktura",
+    "obróbka elektrochemiczna",
+    "sls/slm",
+    "microstructure",
+    "electrochemical machining ecm",
+    "surface layer structure",
+    "alsi10mg alloy"
+  ],
+  "coworkers": []
+}

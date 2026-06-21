@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ",
+  "slug": "krzysztof.brzostowski",
+  "profile_id": "54MYEhSaCxZ",
+  "full_name": "dr hab. inż. Krzysztof Brzostowski",
+  "orcid": "0000-0003-3398-0773",
+  "orcid_url": "https://orcid.org/0000-0003-3398-0773",
+  "breadcrumb_name": "Krzysztof Brzostowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "komputerowe systemy identyfikacji",
+    "rozpoznania i sterowania",
+    "systemy automatyki i informatyki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Wrocławska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel approach for CT image smoothing: Quaternion Bilateral Filtering for kernel conversion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/publications/da27449d-8a7f-4b81-b7f4-6aff1e5fb769",
+      "authors": "M. Nasr, K. Brzostowski , A. Piórkowski, ... (+2)",
+      "publication_type": "Artykuł , Computers in Biology and Medicine",
+      "year": "2025",
+      "doi": "10.1016/j.compbiomed.2025.110644",
+      "doi_url": "https://www.doi.org/10.1016/j.compbiomed.2025.110644",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Cancelable biometric authentication leveraging empirical mode decomposition and quaternion representations for IoT security",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/publications/fb3e5ba5-db22-4f90-ab1e-88a4ab94d67b",
+      "authors": "M. Nasr, A. Piórkowski, K. Brzostowski , ... (+2)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-89491-2",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-89491-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparative analysis of noise estimation methods in computed tomography images: histogram analysis, $L_{2}$ norm, SSIM, and CNN-based classification with ResNet50",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/publications/025a72f4-03ff-4eab-9a58-774ab62414da",
+      "authors": "M. Nasr, K. Brzostowski , A. Piórkowski, ... (+3)",
+      "publication_type": "Artykuł , Digital Signal Processing: A Review Journal",
+      "year": "2025",
+      "doi": "10.1016/j.dsp.2025.105242",
+      "doi_url": "https://www.doi.org/10.1016/j.dsp.2025.105242",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Cykl publikacji powiązanych tematycznie dotyczących algorytmów przetwarzania sygnałów w fuzji danych strumieniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work/7913b3e4-e4a5-4ed0-bf6a-509b73f88041",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytm podejmowania decyzji z wykorzystaniem identyfikacji dwustopniowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work/2356bf06-010a-4c54-bb60-59a286983876",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Gait assessment by analyzing selected kinematic characteristics associated with the lower limbs movement in the sagittal plane",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work/3fd79cd8-6c50-4c84-833e-e87e2f6eea0e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work/d33a4329-257a-41b8-9d03-c1be2a584644",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.brzostowski.54MYEhSaCxZ/research-work/4c46a21b-f2cb-41ba-9fb2-24ada8d07c1a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=219806"
+    }
+  ],
+  "tag_cloud": [
+    "czujniki inercyjne",
+    "optymalizacja rzadka",
+    "fuzja danych",
+    "fuzja danych wielokanałowych",
+    "nieliniowe przetwarzanie sygnałów",
+    "segmentacja",
+    "filtracja",
+    "estymacja stanu",
+    "fuzja sensoryczna",
+    "filtr kalmana"
+  ],
+  "coworkers": []
+}

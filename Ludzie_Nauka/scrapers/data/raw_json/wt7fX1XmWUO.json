@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO",
+  "slug": "arkadiusz.łukjaniuk",
+  "profile_id": "wt7fX1XmWUO",
+  "full_name": "dr inż. Arkadiusz Łukjaniuk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Arkadiusz Łukjaniuk",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "44 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Brak informacji o instytucji. Skontaktuj się z instytucją odpowiedzialną za rejestrację i poproś o uzupełnienie danych.",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1981",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "technika informacyjno-pomiarowa",
+        "Nadanie tytułu",
+        "CHARKOWSKI INSTYTUT POLITECHNICZNY",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A numeric simulation of transient thermal field in a transistor-radiator system and its verification by measurements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.%C5%82ukjaniuk.wt7fX1XmWUO/publications/c85bd188-980f-46cc-9a26-1c7969c9be08",
+      "authors": "J. Gołębiowski, A. Łukjaniuk",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2013",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=38924"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

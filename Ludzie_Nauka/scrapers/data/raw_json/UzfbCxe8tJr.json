@@ -1,0 +1,215 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr",
+  "slug": "janusz.januszewski",
+  "profile_id": "UzfbCxe8tJr",
+  "full_name": "dr hab. Janusz Januszewski",
+  "orcid": "0000-0001-5096-9838",
+  "orcid_url": "https://orcid.org/0000-0001-5096-9838",
+  "breadcrumb_name": "Janusz Januszewski",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "geometria",
+    "teoria zbiorów wypukłych",
+    "geometria dyskretna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Covering a rectangle with isosceles right triangles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/publications/3cc1000b-e323-42db-8de9-22f853ce82ec",
+      "authors": "J. Januszewski , Ł. Zielonka",
+      "publication_type": "Artykuł , Journal of Geometry",
+      "year": "2025",
+      "doi": "10.1007/s00022-025-00784-3",
+      "doi_url": "https://www.doi.org/10.1007/s00022-025-00784-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Filling the plane with squares of harmonic areas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/publications/9e256095-0d81-41cf-971f-48affd115abb",
+      "authors": "J. Januszewski , Ł. Zielonka",
+      "publication_type": "Artykuł , Beitrage zur Algebra und Geometrie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Packing a triangle by collections of its non-blocking homothetic copies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/publications/f3484610-27b2-4387-bfe0-05c6415009f5",
+      "authors": "J. Januszewski , Ł. Zielonka",
+      "publication_type": "Artykuł , Periodica Mathematica Hungarica",
+      "year": "2025",
+      "doi": "10.1007/s10998-024-00615-z",
+      "doi_url": "https://www.doi.org/10.1007/s10998-024-00615-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Pakowanie i pokrywanie trójkątami, prostokątami i prostopadłościanami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/research-work/9fc72fc5-c84a-4a2b-9da2-1a380a830409",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "O pewnych zastosowaniach miar niezwartości w teorii równań całkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/research-work/afd48bfc-9847-43f7-bcfa-4026e7dcfa3b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Pakowanie online prostokątów i d-wymiarowych kostek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.januszewski.UzfbCxe8tJr/research-work/6ac83c92-afee-493a-9bb8-8001e7d12be5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=15627"
+    }
+  ],
+  "tag_cloud": [
+    "covering",
+    "algorithms",
+    "asymptotic competitive ratio",
+    "online packing",
+    "packing",
+    "bin packing",
+    "cube",
+    "online algorithms",
+    "two dimensional bin packing",
+    "one-space bounded"
+  ],
+  "coworkers": []
+}

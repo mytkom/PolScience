@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw",
+  "slug": "wiktor.sędkowski",
+  "profile_id": "uXtVsTrGSxw",
+  "full_name": "dr inż. Wiktor Sędkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Wiktor Sędkowski",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika, elektrotechnika i technologie kosmiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "teleinformatyka, projektowanie sieci",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Identyfikacja zagrożeń przy użyciu metodologii STRIDE i chatbotów GPT",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/publications/d9fb6713-ad70-40c3-821d-3efdca29ef9d",
+      "authors": null,
+      "publication_type": "Artykuł , Studia Społeczne",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The implications of NATO's cybersecurity strategies for the Polish Armed Forces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/publications/77163c82-4071-4a88-ae1e-c798708fa0f4",
+      "authors": "T. Mangold, W. Sędkowski , M. Górnikiewicz, ... (+1)",
+      "publication_type": "Artykuł , Studia Wschodnioeuropejskie",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Vulnerability Exploit Pattern Generation and Analysis for proactive security risk mitigation for 5G networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/publications/a46cf752-beb6-4eed-a311-08fd90cc4d54",
+      "authors": "W. Sędkowski , R. Bhatt, C. Fernandes, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/infocomwkshps57453.2023.10225912",
+      "doi_url": "https://www.doi.org/10.1109/infocomwkshps57453.2023.10225912",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Threat Modeling methods and detecting vulnerabilities in 5G networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.s%C4%99dkowski.uXtVsTrGSxw/research-work/83f20186-e8b9-48d4-8dc2-bcffd69ddfed",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

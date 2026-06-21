@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU",
+  "slug": "bartosz.kowal",
+  "profile_id": "pEsRJoztPsU",
+  "full_name": "mgr inż. Bartosz Kowal",
+  "orcid": "0000-0002-7909-6484",
+  "orcid_url": "https://orcid.org/0000-0002-7909-6484",
+  "breadcrumb_name": "Bartosz Kowal",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Machine Learning in Forecasting the Amount of Sewage for the Wastewater Treatment Plant of the City of Rzeszów Based on Weather Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/publications/5079daed-e93a-4c68-af89-469a47574e3a",
+      "authors": "B. Kowal , P. Organiściak, P. Kuraś, ... (+2)",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_255/81",
+      "doi_url": "https://www.doi.org/10.14313/par_255/81",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Power law distributions evidences in cache memory bytes – Windows performance counter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/publications/84527424-d5ae-41b1-b147-9e16369ddfa5",
+      "authors": "D. Strzałka, B. Kowal",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/209581",
+      "doi_url": "https://www.doi.org/10.12913/22998624/209581",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Uczenie maszynowe w prognozowaniu ilości ścieków dla oczyszczalni ścieków miasta Rzeszowa na podstawie warunków pogodowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.kowal.pEsRJoztPsU/publications/a2e20346-dadb-4062-b6ab-98409c95f534",
+      "authors": "A. Masłoń, P. Organiściak [...] B. Kowal , ... (+2)",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_255/81",
+      "doi_url": "https://www.doi.org/10.14313/par_255/81",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

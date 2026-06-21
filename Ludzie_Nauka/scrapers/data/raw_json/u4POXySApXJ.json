@@ -1,0 +1,188 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ",
+  "slug": "michał.mazur",
+  "profile_id": "u4POXySApXJ",
+  "full_name": "dr inż. Michał Mazur",
+  "orcid": "0000-0003-1405-909X",
+  "orcid_url": "https://orcid.org/0000-0003-1405-909X",
+  "breadcrumb_name": "Michał Mazur",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Grudziądzka Szkoła Wyższa Aktualna nazwa: Uczelnia im. Edwarda Herzberga w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/af46cde8-e1b6-43e3-bdf5-230a5ff4b47a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A method for estimating the work of cutting forces to improve the efficiency of face milling of large-size workpieces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/publications/f6901d82-ff46-4198-a6d0-93f2f5cf8444",
+      "authors": "K. Kaliński, M. Galewski [...] M. Mazur , ... (+1)",
+      "publication_type": "Artykuł , The International Journal of Advanced Manufacturing Technology",
+      "year": "2025",
+      "doi": "10.1007/s00170-025-15310-7",
+      "doi_url": "https://www.doi.org/10.1007/s00170-025-15310-7",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimentally Aided Operational Virtual Prototyping to Predict Best Clamping Conditions for Face Milling of Large-Size Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/publications/cf7ec361-60e3-4681-a123-a15f41fe6b9b",
+      "authors": "K. Kaliński, M. Galewski, M. Mazur , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14167346",
+      "doi_url": "https://www.doi.org/10.3390/app14167346",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The clamping selection method to reduce the vibration of large-size workpieces during the face milling process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/publications/9a7af2e6-fba3-4a99-a347-714070e81a12",
+      "authors": "K. Kaliński, K. Jemielniak [...] M. Mazur , ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2024",
+      "doi": "10.24425/bpasts.2024.148840",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.148840",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nadzorowanie ruchu 2-kołowej platformy mobilnej z zastosowaniem sterowania optymalnego przy energetycznym wskaźniku jakości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/research-work/9d1c1431-8303-46ea-b909-aa49f383ee38",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda doboru sztywności zamocowania przedmiotu wielkogabarytowego w zastosowaniu do redukcji drgań podczas frezowania narzędziami wieloostrzowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.mazur.u4POXySApXJ/research-work/3b000649-6f25-4972-b32b-ffa4bd5a8141",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=231965"
+    }
+  ],
+  "tag_cloud": [
+    "mechatronic design",
+    "modal analysis",
+    "vibration suppression",
+    "frezowanie",
+    "virtual prototyping",
+    "face milling",
+    "nadzorowanie drgań",
+    "drgania mechaniczne",
+    "optimal clamping stiffness",
+    "wytaczadło"
+  ],
+  "coworkers": []
+}

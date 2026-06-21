@@ -1,0 +1,262 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d",
+  "slug": "wojciech.macek",
+  "profile_id": "ugFBnXiNR1d",
+  "full_name": "dr hab. inż. Wojciech Stanisław Macek",
+  "orcid": "0000-0001-9079-8877",
+  "orcid_url": "https://orcid.org/0000-0001-9079-8877",
+  "breadcrumb_name": "Wojciech Macek",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy sterowania",
+    "wytrzymałość zmęczeniowa metali"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Wyższa Szkoła Zarządzania Ochroną Pracy w Katowicach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/16c5effe-6984-49ad-a93f-80cb3b23d985",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Instytut Inżynierii Chemicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1e509a2-9a9f-4bba-9ab3-4c9c463efa18",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cf7e175b-dea9-49a3-8290-d5b93900303b"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        },
+        {
+          "label": "Instytut Inżynierii Chemicznej Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1e509a2-9a9f-4bba-9ab3-4c9c463efa18"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A combined strain energy density and entire fracture surface approach for life prediction of short carbon fibre reinforced PEEK",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/publications/efce4620-f945-4aaa-b90d-713225d37fa7",
+      "authors": "W. Macek , A. Laska, P. Podulka, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Structural Integrity",
+      "year": "2025",
+      "doi": "10.1108/ijsi-07-2025-0171",
+      "doi_url": "https://www.doi.org/10.1108/ijsi-07-2025-0171",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Additive manufacturing of functionally graded materials using a hybrid vat photopolymerization process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/publications/15db8681-b40e-4aa5-b6ec-ec40b89b8c97",
+      "authors": "W. Macek , M. Prajapati, H. Chen, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Advanced Manufacturing Technology",
+      "year": "2025",
+      "doi": "10.1007/s00170-025-16984-9",
+      "doi_url": "https://www.doi.org/10.1007/s00170-025-16984-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An Updated Lagrangian framework for large deformation analysis of thin elastomeric materials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/publications/b5903cd8-65b4-4053-9179-d5f5a7ca07bc",
+      "authors": "W. Macek , N. Firouzi, P. Podulka, ... (+2)",
+      "publication_type": "Artykuł , Acta Mechanica",
+      "year": "2025",
+      "doi": "10.1007/s00707-025-04363-0",
+      "doi_url": "https://www.doi.org/10.1007/s00707-025-04363-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "System mechatroniczny do wyznaczania energetycznych charakterystyk zmęczeniowych materiałów przy zginaniu i skręcaniu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.macek.ugFBnXiNR1d/research-work/2663b8e0-e6fa-47a4-977e-4b9c7e0086de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=tpcFlEMAAAAJ&hl=pl"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Wojciech-Macek-2"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=57205453526"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/ABB-4504-2020"
+    }
+  ],
+  "tag_cloud": [
+    "fracture",
+    "low-cycle fatigue",
+    "multiaxial fatigue",
+    "surface measurements",
+    "surface topography",
+    "surface metrology",
+    "high-strength steels",
+    "fatigue fracture",
+    "fatigue failure",
+    "strain energy density"
+  ],
+  "coworkers": []
+}

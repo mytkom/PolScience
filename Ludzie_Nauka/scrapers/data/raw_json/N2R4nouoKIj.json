@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj",
+  "slug": "sylwester.wawrzyniak",
+  "profile_id": "N2R4nouoKIj",
+  "full_name": "dr inż. Sylwester Wawrzyniak",
+  "orcid": "0000-0001-8928-7949",
+  "orcid_url": "https://orcid.org/0000-0001-8928-7949",
+  "breadcrumb_name": "Sylwester Wawrzyniak",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyzacja procesów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Akademia Techniczno-Rolnicza w Bydgoszczy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of genetic algorithm to control the availability of technical systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/publications/c9e44bbb-fe8e-4166-9868-e0085190152b",
+      "authors": "K. Migawa, L. Knopik, S. Wawrzyniak",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Mathematical model of selected object thermal properties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/publications/e43e4e76-b8c7-4607-b047-04737bada9c6",
+      "authors": "K. Peszyński, S. Wawrzyniak , D. Perczyński",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Temperature analysis in the vicinity of triaxal trailer disc brake",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/publications/376a6fc9-4d0f-404a-8a55-aa5a0bf94682",
+      "authors": "D. Perczyński, L. Knopik [...] S. Wawrzyniak , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kształtowanie parametrów roboczych monostabilnego elementu strumieniowego dużej mocy w aspekcie jakości procesu wymiany ciepła",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sylwester.wawrzyniak.N2R4nouoKIj/research-work/7aa21c6a-d144-4ad7-a705-367dd6b7f9ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=213815"
+    }
+  ],
+  "tag_cloud": [
+    "lepkość",
+    "zawór strumieniowy",
+    "strumienie syntetyzowane",
+    "deflector",
+    "early failure",
+    "synthetic jets",
+    "ventilation",
+    "przepływ cieczy",
+    "deflektor",
+    "wentylacja"
+  ],
+  "coworkers": []
+}

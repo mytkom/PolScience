@@ -1,0 +1,247 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu",
+  "slug": "ryszard.mazurek",
+  "profile_id": "fm1gMSXG5Eu",
+  "full_name": "dr hab. Ryszard Mazurek",
+  "orcid": "0000-0002-1093-7177",
+  "orcid_url": "https://orcid.org/0000-0002-1093-7177",
+  "breadcrumb_name": "Ryszard Mazurek",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "algebra",
+    "teoria pierścieni"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wschodnioeuropejska Akademia Nauk Stosowanych w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a1e65d4f-b897-426b-9e0f-51b5d3c6d629",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski; Wydział Matematyki, Informatyki i Mechaniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/04d8f337-6a41-4c73-b0ee-a3f1a9293995"
+        },
+        {
+          "label": "Uniwersytet Warszawski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "UNIWERSYTET WROCŁAWSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/gremiums/19fd3d68-2244-4ba6-ba77-6940c9531427",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Antiassociative magmas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/publications/0a1a4eea-11eb-4b0e-826a-1d24e0b36b76",
+      "authors": null,
+      "publication_type": "Artykuł , Annali di Matematica Pura ed Applicata (1923 -)",
+      "year": "2025",
+      "doi": "10.1007/s10231-024-01512-5",
+      "doi_url": "https://www.doi.org/10.1007/s10231-024-01512-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Rings Whose Nilpotent Elements Form a Wedderburn Radical Subring",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/publications/009bdbbe-e7ed-480f-a1a9-b4914aa3b7c3",
+      "authors": null,
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2025",
+      "doi": "10.3390/sym17111815",
+      "doi_url": "https://www.doi.org/10.3390/sym17111815",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A General Approach to Sylvester-Polynomial-Conjugate Matrix Equations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/publications/4423e4af-8895-4d01-93b5-8a42b6bb0027",
+      "authors": null,
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2024",
+      "doi": "10.3390/sym16020246",
+      "doi_url": "https://www.doi.org/10.3390/sym16020246",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/research-work/5232055c-2554-4227-9768-ff4c149b4141",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Pierścienie z rozdzielną kratą ideałów jednostronnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/research-work/fa1590e7-d747-41cc-a6d4-ae6da590aa5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Konstrukcje pierścieni posiadających wybrane własności algebraiczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ryszard.mazurek.fm1gMSXG5Eu/research-work/d1c390b5-e511-4812-b6f5-6440fc80d8aa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19037"
+    }
+  ],
+  "tag_cloud": [
+    "similarity",
+    "grupoid",
+    "consimilarity",
+    "reduced ring",
+    "skew polynomial ring",
+    "archimedean monoid",
+    "atomic monoid",
+    "rational function field",
+    "transcendence degree",
+    "finitely generated commutative semigroup"
+  ],
+  "coworkers": []
+}

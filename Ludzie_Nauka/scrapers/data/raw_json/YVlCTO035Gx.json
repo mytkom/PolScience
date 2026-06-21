@@ -1,0 +1,255 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx",
+  "slug": "tomasz.korol",
+  "profile_id": "YVlCTO035Gx",
+  "full_name": "dr hab. inż. Tomasz Korol",
+  "orcid": "0000-0002-7623-3404",
+  "orcid_url": "https://orcid.org/0000-0002-7623-3404",
+  "breadcrumb_name": "Tomasz Korol",
+  "current_employment_summary": [
+    "Akademia Nauk Stosowanych w Elblągu",
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ekonomia",
+    "analiza ekonomiczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Elblągu Aktualna nazwa: Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "25 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Społeczno-Ekonomiczna w Gdańsku Aktualna nazwa: Wyższa Szkoła Społeczno-Ekonomiczna w Gdańsku z siedzibą w Gdańsku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f1316179-e357-4607-97da-024972e0194f",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Zarządzania i Ekonomii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec67baa2-d5bc-479f-9180-5856a6b29be9"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Akademia Nauk Stosowanych w Elblągu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Forecasting 15-year development differences for bankrupt and nonbankrupt enterprises in Asia, Latin America and Europe",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/publications/8b9a4e91-ae67-4797-af7d-7f117e4a3704",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of International Studies",
+      "year": "2025",
+      "doi": "10.14254/2071-8330.2025/18-3/1",
+      "doi_url": "https://www.doi.org/10.14254/2071-8330.2025/18-3/1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wykorzystanie drzew decyzyjnych w prognozowaniu ryzyka niewypłacalności gospodarstw domowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/publications/d16b86e5-5462-4c68-a3c0-6b9a1958334d",
+      "authors": null,
+      "publication_type": "Artykuł , Rozprawy Naukowe i Zawodowe ANS w Elblągu",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Artificial Neural Networks in Forecasting the Consumer Bankruptcy Risk with Innovative Ratios",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/publications/5992e2bf-ceab-47fd-94e0-7c9df86bc898",
+      "authors": null,
+      "publication_type": "Artykuł , Contemporary Economics",
+      "year": "2024",
+      "doi": "10.5709/ce.1897-9254.545",
+      "doi_url": "https://www.doi.org/10.5709/ce.1897-9254.545",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowe podejście do analizy wskaźnikowej w przedsiębiorstwie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/research-work/4caba302-547b-463d-a3e5-9cd07899777c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena zastosowania metod dyskryminacyjnych oraz sztucznych sieci neuronowych dla identyfikacji przedsiębiorstw zagrożonych upadłością",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/research-work/25c706df-6729-4b47-81f1-957c65cc8089",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie prakseologicznych uwarunkowań stosowania metody DEA diagnozowania efektywności w przedsiębiorstwach produkcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.korol.YVlCTO035Gx/research-work/4b314540-672d-4aec-8377-f28b7cfffd61",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=121136"
+    }
+  ],
+  "tag_cloud": [
+    "etapy kryzysu",
+    "trajektoria upadłości",
+    "konsument",
+    "forecasting",
+    "upadłość",
+    "analiza finansowa",
+    "prognozowanie",
+    "analiza wskaźnikowa",
+    "inwestycje rzeczowe",
+    "the financial crisis of households"
+  ],
+  "coworkers": []
+}

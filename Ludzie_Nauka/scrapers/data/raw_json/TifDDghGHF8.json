@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8",
+  "slug": "anna.podolak-lejtas",
+  "profile_id": "TifDDghGHF8",
+  "full_name": "dr Anna Karolina Podolak-Lejtas",
+  "orcid": "0000-0002-4354-9998",
+  "orcid_url": "https://orcid.org/0000-0002-4354-9998",
+  "breadcrumb_name": "Anna Podolak-Lejtas",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Research on influence of heat treatment scheme of Ti10V2Fe3Al alloy on technological surface integrity after electrodischarge machining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/publications/14d55caa-e9fb-4f01-b834-3b7de69439ff",
+      "authors": "A. Żyra, A. Żyra [...] A. Podolak-Lejtas , ... (+2)",
+      "publication_type": "Artykuł , Journal of Manufacturing Processes",
+      "year": "2021",
+      "doi": "10.1016/j.jmapro.2020.12.038",
+      "doi_url": "https://www.doi.org/10.1016/j.jmapro.2020.12.038",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Selected aspects of electrodischarge milling of aluminum alloy-based metal matrix composite with SiC reinforcement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/publications/5b11ac42-2a8b-41e9-9bab-8bf18dc0d69d",
+      "authors": "A. Podolak-Lejtas , S. Skoczypiec, W. Bizoń",
+      "publication_type": "Artykuł , Procedia Manufacturing",
+      "year": "2020",
+      "doi": "10.1016/j.promfg.2020.04.244",
+      "doi_url": "https://www.doi.org/10.1016/j.promfg.2020.04.244",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of laser pulse for evolution of surface layer integrity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.podolak-lejtas.TifDDghGHF8/publications/7514e7f8-f4ee-4233-b9c2-6d2bb42f7154",
+      "authors": "A. Podolak-Lejtas , J. Radziejewska",
+      "publication_type": "Artykuł , AIP Conference Proceedings",
+      "year": "2018",
+      "doi": "10.1063/1.5056289",
+      "doi_url": "https://www.doi.org/10.1063/1.5056289",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

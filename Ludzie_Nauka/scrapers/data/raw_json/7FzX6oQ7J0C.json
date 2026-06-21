@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C",
+  "slug": "kamil.załęgowski",
+  "profile_id": "7FzX6oQ7J0C",
+  "full_name": "dr inż. Kamil Załęgowski",
+  "orcid": "0000-0002-9520-0288",
+  "orcid_url": "https://orcid.org/0000-0002-9520-0288",
+  "breadcrumb_name": "Kamil Załęgowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f99459a0-12ff-4940-87a5-175328e8e031"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria materiałowa",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Measuring of the polymer concrete maturity using non-destructive ultrasonic method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/publications/d21f6020-f103-4cb6-855f-40c92b875cba",
+      "authors": "J. Sokołowska, K. Załęgowski , L. Czarnecki",
+      "publication_type": "Artykuł , Archives of Civil and Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.1007/s43452-025-01285-5",
+      "doi_url": "https://www.doi.org/10.1007/s43452-025-01285-5",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Pore Structure Influence on Properties of Air-Entrained Concrete",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/publications/39f160c7-cd74-47da-aa09-d0c61c0f0513",
+      "authors": null,
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18122885",
+      "doi_url": "https://www.doi.org/10.3390/ma18122885",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Accuracy analysis in determining the location of underground objects using GPR involving lidar data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.za%C5%82%C4%99gowski.7FzX6oQ7J0C/publications/328d1d29-b2a6-4537-b4f1-01a26a449052",
+      "authors": "A. Lejzerowicz, P. Czernic [...] K. Załęgowski , ... (+3)",
+      "publication_type": "Artykuł , Archives of Civil Engineering",
+      "year": "2024",
+      "doi": "10.24425/ace.2024.149884",
+      "doi_url": "https://www.doi.org/10.24425/ace.2024.149884",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "biochar",
+    "microstructure",
+    "sample shape effect",
+    "betony osłonowe",
+    "concrete microstructure",
+    "polymer concrete",
+    "geopolymer",
+    "ultrasonics",
+    "neutron radiation",
+    "workability"
+  ],
+  "coworkers": []
+}

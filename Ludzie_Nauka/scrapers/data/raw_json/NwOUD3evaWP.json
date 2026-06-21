@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP",
+  "slug": "paulina.kozera",
+  "profile_id": "NwOUD3evaWP",
+  "full_name": "dr inż. Paulina Kozera",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Paulina Kozera",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 8 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / inzynieria materiałowa",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Materiałowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d1226bc3-8cab-442b-8ec6-cec9c3fe64e0"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "projektowanie materiałów",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Development of non-destructive methods to evaluate defects in pressure composite tanks: Ultrasonic and acoustic emission techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/publications/88f3b48f-3063-41b5-a80b-be57e3d2cb10",
+      "authors": "P. Kozera , Ł. Sarniak, A. Jaśkiewicz, ... (+5)",
+      "publication_type": "Artykuł , Journal of Composite Materials",
+      "year": "2025",
+      "doi": "10.1177/00219983251359886",
+      "doi_url": "https://www.doi.org/10.1177/00219983251359886",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Improved Impact Strength and Thermal Resistance of Polylactide Composites Reinforced With CNT and Polysiloxanes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/publications/f46d46bf-20ff-4ca1-8902-d86626bd7b0f",
+      "authors": "B. Sztorch, K. Dydek [...] P. Kozera , ... (+5)",
+      "publication_type": "Artykuł , Polymers for Advanced Technologies",
+      "year": "2025",
+      "doi": "10.1002/pat.70409",
+      "doi_url": "https://www.doi.org/10.1002/pat.70409",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Relationship between electrical, mechanical and microstructural properties of CFRPs based on thermoplastic acrylic resin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/paulina.kozera.NwOUD3evaWP/publications/222f2570-ee87-4473-9363-c85a72dc2586",
+      "authors": "S. Demski, K. Dydek [...] P. Kozera , ... (+6)",
+      "publication_type": "Artykuł , Composites Theory and Practice",
+      "year": "2025",
+      "doi": "10.62753/ctp.2025.01.2.2",
+      "doi_url": "https://www.doi.org/10.62753/ctp.2025.01.2.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "pla",
+    "silanes",
+    "polyamide 11",
+    "poliamid 11",
+    "mechanical properties",
+    "diatomaceous earth",
+    "diatomite",
+    "ziemia okrzemkowa",
+    "silany",
+    "okrzemki"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4",
+  "slug": "artur.jankowiak",
+  "profile_id": "Cw3h42YeXJ4",
+  "full_name": "dr Artur Andrzej Jankowiak",
+  "orcid": "0000-0003-3620-5502",
+  "orcid_url": "https://orcid.org/0000-0003-3620-5502",
+  "breadcrumb_name": "Artur Jankowiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "zmęczenie i mechanika pękania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fatigue lifetime correction of structural joints of opencast mining machinery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/publications/a0c84f39-fc8a-4e3b-a199-d89e33872dd1",
+      "authors": "P. Grabowski, A. Jankowiak , W. Marowski",
+      "publication_type": "Artykuł , Eksploatacja i Niezawodnosc",
+      "year": "2021",
+      "doi": "10.17531/ein.2021.3.14",
+      "doi_url": "https://www.doi.org/10.17531/ein.2021.3.14",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Bezpieczeństwo w użytkowaniu środków transportu wewnątrzzakładowego (III wydanie)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/publications/91e9714d-87b1-43d0-84ab-058f320bd3fb",
+      "authors": "A. Jankowiak , A. Zamojski, D. Kalwasiński",
+      "publication_type": "Książka , Centralny Instytut Ochrony Pracy - Państwowy Instytut Badawczy",
+      "year": "2019",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Fatigue life evaluation of elements containing multiple surface cracks - comparison of real nd substitute cracks conntour modeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/publications/ca242a1f-d634-4b62-96fe-1cc15cefe48a",
+      "authors": "P. Grabowski, A. Jankowiak",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wzrostu pęknięć zmęczeniowych z wykorzystaniem dwuwymiarowych funkcji wagowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.jankowiak.Cw3h42YeXJ4/research-work/e0cb049f-d0a4-4d62-aa13-e9b62ca3be66",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=208725"
+    }
+  ],
+  "tag_cloud": [
+    "pęknięcie wielokrotne",
+    "dźwigi osobowe",
+    "goods passenger lifts",
+    "dźwigi",
+    "short distance transport",
+    "transport bliski",
+    "wózki jezdniowe",
+    "dźwigi towarowe",
+    "heavy machinery.",
+    "dźwignice"
+  ],
+  "coworkers": []
+}

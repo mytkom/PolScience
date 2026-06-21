@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr",
+  "slug": "michał.wójcik",
+  "profile_id": "VXhcxOuhaWr",
+  "full_name": "dr hab. inż. Michał Wójcik",
+  "orcid": "0000-0003-4514-1408",
+  "orcid_url": "https://orcid.org/0000-0003-4514-1408",
+  "breadcrumb_name": "Michał Wójcik",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika ośrodków sypkich"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Inżynierii Lądowej i Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4500f023-583d-4425-95d0-7a5c38933cbc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Inżynierii Lądowej i Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4500f023-583d-4425-95d0-7a5c38933cbc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/gremiums/2e0fa102-d036-49c8-8f1c-fa76c38f78d3",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Experimental investigation of concrete beams under bending, manufactured with 3Dadditive printing technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/publications/1be9db43-efa5-4422-8862-0968a5b15059",
+      "authors": "E. Korol, A. Jenta, M. Wójcik",
+      "publication_type": "Artykuł , Materiały Budowlane",
+      "year": "2025",
+      "doi": "10.15199/33.2025.11.01",
+      "doi_url": "https://www.doi.org/10.15199/33.2025.11.01",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "INFLUENCE OF CORROSION DEGRADATION ON THE DYNAMIC RESPONSE OF STEEL PLATES",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/publications/44e27ce2-ddbd-4d60-ab10-984904cdde91",
+      "authors": "B. Zima, E. Roch [...] M. Wójcik , ... (+2)",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0028",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0028",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Influence of corrugation geometry on sand-structure interface behavior",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/publications/5d74ce7e-883c-40f1-97ec-f7c17ed5e52b",
+      "authors": "M. Nitka, A. Grabowski [...] M. Wójcik , ... (+2)",
+      "publication_type": "Artykuł , Advanced Powder Technology",
+      "year": "2025",
+      "doi": "10.1016/j.apt.2025.104988",
+      "doi_url": "https://www.doi.org/10.1016/j.apt.2025.104988",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wyboczeniowa i wytrzymałościowa stalowych silosów cylindrycznych z uwzględnieniem rzeczywistego materiału sypkiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/research-work/ec2a6132-24fe-4ef0-aafd-6c1d315fb50d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Doświadczalne i teoretyczne wyznaczanie rodzaju przepływu i naporu materiałów sypkich w silosach z wkładkami oraz bez wkładek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/research-work/90bec1f1-7309-46ed-830e-58b97f1c4cbb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Obciążenia płaskich den i podatnych walcowych płaszczy silosów stalowych od składowanych materiałów sypkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.w%C3%B3jcik.VXhcxOuhaWr/research-work/14e70d52-835a-45d1-98ab-c56299c064de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=217396"
+    }
+  ],
+  "tag_cloud": [
+    "mes, eurokod 3",
+    "turbina wiatrowa",
+    "słupy",
+    "morska energetyka wiatrowa",
+    "blacha falista",
+    "uczenie maszynowe",
+    "jednostkowy koszt wytwarzania energii elektrycznej",
+    "silosy",
+    "lokalne/globalne wyboczenie",
+    "energetyka wiatrowa"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,254 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2",
+  "slug": "tomasz.kajdanowicz",
+  "profile_id": "ioDUQC4HEo2",
+  "full_name": "dr hab. inż. Tomasz Jan Kajdanowicz",
+  "orcid": "0000-0002-8417-1012",
+  "orcid_url": "https://orcid.org/0000-0002-8417-1012",
+  "breadcrumb_name": "Tomasz Kajdanowicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "uczenie maszynowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Podstaw Informatyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/6c713100-70da-4346-9836-92ba3723e52a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A multi-stage LLM framework for generating realistic synthetic medical datasets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/publications/99ca5c66-608b-407a-9dbc-5e3d0adf24d6",
+      "authors": "M. Hołysz, M. Bystroński [...] T. Kajdanowicz , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Decision Trees and Machine Learning for Cybersecurity: How Model Settings Affect Attack Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/publications/f88c1f42-1514-43fb-8046-8045faaea320",
+      "authors": "M. Podpora, G. Dralus [...] T. Kajdanowicz , ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97554-7_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97554-7_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hallucination detection in LLMs using spectral features of attention maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/publications/adfbabfe-c264-4a94-85f3-8283e5abf967",
+      "authors": "J. Binkowski, D. Janiak [...] T. Kajdanowicz , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy uczenia maszynowego w sieciach złożonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/c91350a5-aca9-497e-a2b6-d92cfce60a3b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Classification Methods Based on Multi-label Problem Transformation (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/b022c859-dc3e-43b0-a715-b38d8eb8be3c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Predykcja struktur sekwencyjnych z wykorzystaniem metod uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/835f6180-8935-49cb-88ab-16080a70b176",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Methods for selected problems in unsupervised graph representation learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/8169e809-86f0-4e33-b5df-b72627e9e2b1",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody predykcji dla sieciowych danych bibliograficznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/cb1b8454-470f-4b5b-b60c-a2aaa57d8ca6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Explainable Predictive Maintenance in Steel Rolling",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/2050a730-a4e6-4155-80c7-8a29ec886c12",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Deep Learning for Planning and Reinforcement Learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/63f34e96-2753-47d2-9bd5-46086d39f556",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Data representations in generative modelling",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kajdanowicz.ioDUQC4HEo2/research-work/d77cf1d0-19c6-4813-b098-642077228ee4",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=236255"
+    }
+  ],
+  "tag_cloud": [
+    "explainable artificial intelligence",
+    "analiza wydźwięku na poziomie atrybutów",
+    "przetwarzanie grafów",
+    "klasyfikacja",
+    "przetwarzanie języka naturalnego",
+    "klasyfikacja wieloetykietowa",
+    "uczenie maszynowe",
+    "analiza nastawienia",
+    "wykrywanie aspektów",
+    "radio frequency"
+  ],
+  "coworkers": []
+}

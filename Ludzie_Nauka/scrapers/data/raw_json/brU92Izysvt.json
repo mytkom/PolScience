@@ -1,0 +1,125 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt",
+  "slug": "marta.rowińska",
+  "profile_id": "brU92Izysvt",
+  "full_name": "mgr Marta Rowińska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marta Rowińska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Gdański",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Gdański >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Materiały osłonne dawniej i dziś – o potrzebie pomiarów krotności osłon stałych z materiałów współczesnego budownictwa",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.rowi%C5%84ska.brU92Izysvt/publications/4f0d8109-760a-48ff-b329-074083a43966",
+      "authors": "M. Rowińska , B. Mielewska, J. Klawikowska, ... (+4)",
+      "publication_type": "Artykuł , Inżynier i Fizyk Medyczny",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

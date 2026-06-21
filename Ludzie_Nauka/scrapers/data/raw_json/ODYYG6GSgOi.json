@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi",
+  "slug": "hanna.pruszko-sallaba",
+  "profile_id": "ODYYG6GSgOi",
+  "full_name": "dr inż. Hanna Małgorzata Pruszko-Sallaba",
+  "orcid": "0000-0003-1902-2659",
+  "orcid_url": "https://orcid.org/0000-0003-1902-2659",
+  "breadcrumb_name": "Hanna Pruszko-Sallaba",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "oceanotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficient reverse engineering of ship hulls through photogrammetry and NURBS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/publications/235cda40-f2bb-4322-8d3b-89f04996eb27",
+      "authors": "P. Bielski, H. Pruszko-Sallaba , M. Reichel, ... (+1)",
+      "publication_type": "Artykuł , Ships and Offshore Structures",
+      "year": "2025",
+      "doi": "10.1080/17445302.2025.2581073",
+      "doi_url": "https://www.doi.org/10.1080/17445302.2025.2581073",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hydrodynamic Characteristics of a Propeller in Open Water, Ducted and in a Semi-Tunnel Conditions - a Case Study on Small Waste Collecting Vessel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/publications/f5362349-ad33-4307-92fc-3ee9734554d6",
+      "authors": "P. Pruszko, H. Pruszko , M. Reichel",
+      "publication_type": "Artykuł , Polish Maritime Research",
+      "year": "2025",
+      "doi": "10.2478/pomr-2025-0002",
+      "doi_url": "https://www.doi.org/10.2478/pomr-2025-0002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Conceptual design of shore station for an innovative waste collecting vessel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/publications/1df89166-26e8-4e8f-b5ae-49853cc465f1",
+      "authors": "K. Niklas, H. Pruszko , M. Reichel, ... (+2)",
+      "publication_type": "Artykuł , International Marine Design Conference",
+      "year": "2024",
+      "doi": "10.59490/imdc.2024.840",
+      "doi_url": "https://www.doi.org/10.59490/imdc.2024.840",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Hydroelastic properties of the sailing fin-influence of the stiffness distribution on the hydrodynamic”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.pruszko-sallaba.ODYYG6GSgOi/research-work/71c0fb7e-bc3c-4d33-9875-4a898d71facd",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "ship motions",
+    "sprawność napędowa",
+    "manewrowanie",
+    "analiza cyklu życia produktu",
+    "cfd",
+    "opór kadłuba",
+    "x-bow",
+    "modernizacja",
+    "seakeeping",
+    "bezpieczeństwo manewrowe"
+  ],
+  "coworkers": []
+}

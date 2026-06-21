@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E",
+  "slug": "maria.zych",
+  "profile_id": "yarjRk3Hh2E",
+  "full_name": "dr inż. Maria Zych",
+  "orcid": "0000-0002-0406-6053",
+  "orcid_url": "https://orcid.org/0000-0002-0406-6053",
+  "breadcrumb_name": "Maria Zych",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "termomechanika",
+    "sztuczna inteligencja",
+    "symulacje komputerowe",
+    "przewodzenie ciepła",
+    "modelowanie numeryczne",
+    "metody numeryczne",
+    "inżynieria mechaniczna",
+    "informatyka w inżynierii mechanicznej",
+    "informatyka stosowana",
+    "algorytmy optymalizacji dyskretnej",
+    "zastosowanie informatyki w mechanice"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Estimation of the Heat Transfer Coefficient for Three Ranges of Reference Values under Fourth-Kind Boundary Conditions Using Swarm Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/publications/3fa3413c-1c0b-4e5e-9067-5d5342e19f2a",
+      "authors": "M. Zych , R. Dyja, E. Gawrońska, ... (+2)",
+      "publication_type": "Artykuł , Journal of Applied Mathematics and Computational Mechanics",
+      "year": "2025",
+      "doi": "10.17512/jamcm.2025.4.08",
+      "doi_url": "https://www.doi.org/10.17512/jamcm.2025.4.08",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analyzing the Impact of Population Size in AI-Based Reconstruction of the Thermal Parameter in Heat Conduction Modeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/publications/2872c838-d4cc-45a8-bf89-27f702c87a67",
+      "authors": "M. Zych , E. Gawrońska, R. Dyja, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Heat Transfer Coefficient Optimization Using Artificial Intelligence Algorithms: Accuracy and Computational Efficiency Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/publications/d296980f-4bff-4dd8-831d-d146d18b0c40",
+      "authors": "M. Zych , R. Dyja, E. Gawrońska",
+      "publication_type": "Artykuł , Acta Physica Polonica A",
+      "year": "2024",
+      "doi": "10.12693/aphyspola.146.790",
+      "doi_url": "https://www.doi.org/10.12693/aphyspola.146.790",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wyznaczanie wspołczynnika wymiany ciepła pomiędzy odlewem a formą odlewniczą z wykorzystaniem algorytmow sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.zych.yarjRk3Hh2E/research-work/d3ebf8ce-08e3-4404-b1bc-d5425ea8e944",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Maria-Zych-2/research"
+    }
+  ],
+  "tag_cloud": [
+    "heat transfer coefficient",
+    "numerical modelling",
+    "artificial intelligence",
+    "swarm algorithms",
+    "heat conduction",
+    "abc algorithm",
+    "computer simulations",
+    "swarm algorithm",
+    "finite element method",
+    "inverse problems"
+  ],
+  "coworkers": []
+}

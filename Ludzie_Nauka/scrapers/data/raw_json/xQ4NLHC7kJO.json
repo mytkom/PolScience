@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO",
+  "slug": "tomasz.majda",
+  "profile_id": "xQ4NLHC7kJO",
+  "full_name": "dr Tomasz Majda",
+  "orcid": "0000-0002-8492-2218",
+  "orcid_url": "https://orcid.org/0000-0002-8492-2218",
+  "breadcrumb_name": "Tomasz Majda",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/40ee9e13-51b8-4fde-b8b0-e9fb7505c3b9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Od ekskluzywności do inkluzywności",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/publications/1e3d33af-aa05-4a51-8080-468cac96947a",
+      "authors": null,
+      "publication_type": "Artykuł , Builder [online]",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Citizen Participation in Local Planning Józefosław Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/publications/da3d2f9b-425f-4017-afba-b159f86d1618",
+      "authors": "T. Majda , M. Mirecka",
+      "publication_type": "Artykuł , Challenges of Modern Technology",
+      "year": "2017",
+      "doi": "10.5604/01.3001.0012.2625",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0012.2625",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Rekomendacje dotyczące Osi Stanisławowskiej w rejonie Portu Czerniakowskiego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.majda.xQ4NLHC7kJO/publications/238e1968-5916-408f-ae14-ef45034ad815",
+      "authors": "D. Śmiechowski, D. Sawicka, T. Majda",
+      "publication_type": "Książka , Oddział Warszawski SARP",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=273674"
+    }
+  ],
+  "tag_cloud": [
+    "spatial planning",
+    ".",
+    "green areas",
+    "wykluczenie społeczne",
+    "planning system",
+    "spatial-planning policy",
+    "system planowania",
+    "strategic urban-planning",
+    "polityka mieszkaniowa",
+    "integrated-planning"
+  ],
+  "coworkers": []
+}

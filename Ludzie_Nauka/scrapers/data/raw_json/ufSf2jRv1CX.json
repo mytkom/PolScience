@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX",
+  "slug": "jan.daciuk",
+  "profile_id": "ufSf2jRv1CX",
+  "full_name": "dr hab. inż. Jan Daciuk",
+  "orcid": "0000-0002-1344-2225",
+  "orcid_url": "https://orcid.org/0000-0002-1344-2225",
+  "breadcrumb_name": "Jan Daciuk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "przetwarzanie mowy i języka naturalnego",
+    "lingwistyka komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimization of Automata",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/publications/2c97c8f8-47eb-4313-aedf-a2581813ccd5",
+      "authors": null,
+      "publication_type": "Książka , Gdańsk University of Technology Publishing House",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A new library for construction of automata",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/publications/b7331717-ba43-4a2f-9036-ae83035444fe",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Incremental construction of finite-state automata",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/publications/b4e0d873-95df-43f1-84da-b1e2a5242853",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optimization of automata (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/research-work/30a3842b-46e7-4081-954e-e97517f307f3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Przyrostowe tworzenie automatów skończonych i ich wykorzystanie do przetwarzania języka naturalnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/research-work/26633af7-21bd-4c60-965e-efdb02b29405",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Synchronization of Finite Automata - Problems and Generalizations",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/research-work/5d6bdba3-1f63-4209-acf6-527a7040bb74",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Automatyczne wykrywanie nominalnych zależności referencyjnych w polskich tekstach współczesnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.daciuk.ufSf2jRv1CX/research-work/35641063-85b9-4bfe-ae80-72c2beabbec2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=79005"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

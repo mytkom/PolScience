@@ -1,0 +1,282 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf",
+  "slug": "józef.sienkiewicz",
+  "profile_id": "aX4jVuSWOUf",
+  "full_name": "prof. dr hab. Józef Sienkiewicz",
+  "orcid": "0000-0002-1149-3846",
+  "orcid_url": "https://orcid.org/0000-0002-1149-3846",
+  "breadcrumb_name": "Józef Sienkiewicz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka atomowa",
+    "fizyka komputerowa",
+    "fizyka teoretyczna",
+    "informatyka stosowana"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Nauk Stosowanych w Elblągu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ce192410-f971-477b-8451-69e8d63b5f18",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1984",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / -",
+        "Nadanie stopnia",
+        "Uniwersytet Gdański, Wydział Matematyki, Fizyki i Chemii",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1978",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Uniwersytet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/gremiums/eea9aadf-b6bf-4aa7-a3ef-395d470a7453",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Effects of pyrocatechol on the computational, structural, spectroscopic and thermal properties of silver-modified hydroxyapatite",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/publications/8f022930-c552-4626-81e5-4879138867b8",
+      "authors": "J. Sienkiewicz , P. Jasik, S. Keser, ... (+11)",
+      "publication_type": "Artykuł , Journal of the Australian Ceramic Society",
+      "year": "2025",
+      "doi": "10.1007/s41779-025-01202-2",
+      "doi_url": "https://www.doi.org/10.1007/s41779-025-01202-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "GRASPC – GRASP package adapted for the generation of continuum orbitals wave functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/publications/07b6fb89-10b7-42ee-a033-d8ff64c76a8a",
+      "authors": "P. Syty, M. Piłat, J. Sienkiewicz",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2025",
+      "doi": "10.1016/j.cpc.2025.109691",
+      "doi_url": "https://www.doi.org/10.1016/j.cpc.2025.109691",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Graspc - Grasp Package Adapted for the Generation of Continuum Orbitals Wave Functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/publications/1a10d5ac-12f4-4a05-a562-fbd8ec0becff",
+      "authors": "P. Syty, M. Piłat, J. Sienkiewicz",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2025",
+      "doi": "10.2139/ssrn.5201133;10.1016/j.cpc.2025.109691",
+      "doi_url": "https://www.doi.org/10.2139/ssrn.5201133;10.1016/j.cpc.2025.109691",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Efekty relatywistyczne, wymienne i polaryzacyjne w elastycznym rozpraszaniu elektronów i pozytonów na atomach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/ac17271d-be1f-4a55-8c1e-4b2eee15bb20",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczne badanie struktury elektronowo-oscylacyjnej i procesu fotodysocjacji cząsteczki litu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/4d1bc467-d0f3-4cc9-b05d-2ce334adcdd8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kwantowa dynamika procesu fotodysocjacji rodnika winoksylowego. Nieadiabatyczne efekty w pobliżu przecięcia stożkowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/8bce2cba-27bf-46af-a8d6-4f9e5c56b083",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Charge Transfer in Molecular Systems: from Ion/Atom to Ion/Molecule Interactions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/9a9834fc-0f18-4cb3-9d2a-d8525f478e73",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/c9215631-82dd-4c56-8ad6-8cf32e4db11c",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie wpływu domieszek wolframu na dynamikę elektronów w plazmie termojądrowej uwięzionej w tokamaku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/d4f1ea1e-6d97-4bd7-a502-f682a89b43b5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wyznaczanie kanałów fluorescencji w atomach terbu i europu na podstawie pomiaru stałych struktury nadsubtelnej i czynników Landégo gJ",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.sienkiewicz.aX4jVuSWOUf/research-work/274f84e8-b571-4483-97e1-c8c46c0b6251",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=25349"
+    }
+  ],
+  "tag_cloud": [
+    "j-matrix method",
+    "time-dependent methods",
+    "artificial neural network",
+    "potential energy curves",
+    "ab initio calculations",
+    "rovibrational predissociation",
+    "elektron",
+    "time-dependent schroedinger equation",
+    "plasmon resonance",
+    "electron scattering"
+  ],
+  "coworkers": []
+}

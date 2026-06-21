@@ -1,0 +1,284 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr",
+  "slug": "leszek.wojnar",
+  "profile_id": "BBjxakIcndr",
+  "full_name": "prof. dr hab. inż. Leszek Karol Wojnar",
+  "orcid": "0000-0001-8786-3535",
+  "orcid_url": "https://orcid.org/0000-0001-8786-3535",
+  "breadcrumb_name": "Leszek Wojnar",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza obrazów",
+    "stereologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "47 lat",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Małopolska Wyższa Szkoła im. Józefa Dietla w Krakowie z siedzibą w Krakowie Aktualna nazwa: Małopolska Wyższa Szkoła im. Józefa Dietla w Krakowie w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/609ca787-c203-4532-8f30-362d2c41ecd9",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1985",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1979",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Polskie Towarzystwo Mikroskopii",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/gremiums/aea2afd5-d3c2-4991-8b26-597382418b87",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/gremiums/666c5f71-9c0f-4f5d-9051-dc3ee64a0ed0",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Can the Urea Fatty Fraction Support Sustainable Agriculture in the Improvement of Soil Properties?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/publications/a90385da-221d-480b-b770-bab50efdde46",
+      "authors": "B. Filipek-Mazur, B. Wiśniowska-Kielian, L. Wojnar , ... (+1)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17125529",
+      "doi_url": "https://www.doi.org/10.3390/su17125529",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Contribution of the soil macro- and microstructure to organic matter stabilisation in natural and post-mining/industrial soils under temperate climatic conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/publications/9c5c69e8-f1d8-438b-8aaa-f77c433ca4ae",
+      "authors": "L. Wojnar , M. Carvalho, K. Ciarkowska, ... (+1)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2024",
+      "doi": "10.3390/su16072747",
+      "doi_url": "https://www.doi.org/10.3390/su16072747",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Leveraging 3D printing capability for geopolymer composites based on fly ash with cotton fibers addition",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/publications/fdb95327-b592-49c0-bbe2-f94c81a11939",
+      "authors": "B. Kozub, B. Tyliszczak [...] L. Wojnar , ... (+2)",
+      "publication_type": "Artykuł , International Journal of Engineering and Technology Innovation",
+      "year": "2024",
+      "doi": "10.46604/ijeti.2024.13346",
+      "doi_url": "https://www.doi.org/10.46604/ijeti.2024.13346",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Fraktografia ilościowa. Podstawy i komputerowe wspomaganie badań",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/990a31e2-84cc-4712-a7cc-84e29cd273ab",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy komputerowej detekcji dużych obiektów w obrazach o wysokim poziomie szumu i niejednorodności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/a8b2ff31-a8b0-4039-9c04-f319b5bb7d4a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Komputerowa analiza obrazu regeneratu kostnego w metodzie Ilizarowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/6e2a5e06-00fa-4da4-9ccc-4fb0d5c13e9c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie komputerowej analizy obrazu ultrasonograficznego do badania serca",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/42a2ea8b-4d68-474d-bdf1-33609e12349c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/f801f43e-3d8f-4add-807c-ae21ffd4f017",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/a888e140-dd40-471a-a6c9-2378535c23cf",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie przetwornika haptycznego w układach wspomagania stereotaktycznych operacji neurochirurgicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wojnar.BBjxakIcndr/research-work/23d3b800-fda2-4dc0-9528-203ab30eb40b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=36049"
+    }
+  ],
+  "tag_cloud": [
+    "polyamide",
+    "metallography",
+    "imaging algorithm adrenal",
+    "porous material",
+    "image analysis",
+    "analiza obrazu",
+    "metal matrix composite castings",
+    "structure of material",
+    "materiał porowaty",
+    "materiał niejednorodny"
+  ],
+  "coworkers": []
+}

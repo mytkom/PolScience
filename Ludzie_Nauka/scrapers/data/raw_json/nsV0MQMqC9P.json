@@ -1,0 +1,303 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P",
+  "slug": "wiesław.popławski",
+  "profile_id": "nsV0MQMqC9P",
+  "full_name": "dr hab. Wiesław Tadeusz Popławski",
+  "orcid": "0000-0003-0993-2173",
+  "orcid_url": "https://orcid.org/0000-0003-0993-2173",
+  "breadcrumb_name": "Wiesław Popławski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "marketing terytorialny",
+    "socjologia miasta i wsi",
+    "socjologia ogólna",
+    "socjologia zmian i rozwoju społecznego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat 3 miesiące",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży Aktualna nazwa: Akademia Łomżyńska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wschodnioeuropejska Akademia Nauk Stosowanych w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a1e65d4f-b897-426b-9e0f-51b5d3c6d629",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk humanistycznych / socjologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1988",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / filozofia",
+        "Nadanie stopnia",
+        "Uniwersytet Warszawski",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Łomżyńska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / socjologia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1981",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "socjologia",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Kreowanie wizerunku marki poprzez storytelling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/publications/405fc2c3-32b0-4554-b7fe-19b65e6bed90",
+      "authors": "F. Szerenos, M. Bukłaha, W. Popławski",
+      "publication_type": "Artykuł , Akademia Zarządzania",
+      "year": "2024",
+      "doi": "10.24427/az-2024-0012",
+      "doi_url": "https://www.doi.org/10.24427/az-2024-0012",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Managing of types of functions Polish small towns in the context of their developmental challenges",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/publications/b293d0c1-5d5b-4831-bbb2-eb277f84971c",
+      "authors": "W. Popławski , M. Grzegorek",
+      "publication_type": "Artykuł , Economics and Environment",
+      "year": "2023",
+      "doi": "10.34659/eis.2023.87.4.618",
+      "doi_url": "https://www.doi.org/10.34659/eis.2023.87.4.618",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Wolna Republika Otrycka. Wokół idei i losów Henryka Kliszki",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/publications/c866aaed-e8e7-457e-b707-9cc02bcc289b",
+      "authors": "W. Popławski , B. Ruszczycki, P. Morawski",
+      "publication_type": "Książka pod redakcją",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Peryferyjność i społeczeństwo. Dylematy przełomu w Europie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/e90d41c9-58c0-4775-8b8c-fda272bd5654",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Problematyka klas społecznych we francuskiej mysli filozoficzno społecznej XX wieku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/2f430ee5-10be-408d-ac7c-410d26523f71",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wizerunek uzdrowisk polskich z perspektywy dostępności komunikacyjnej w opiniach kuracjuszy. Studium socjologiczno-geograficzne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/61b8acd3-ac26-4f68-8338-7c70fcc982a5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rola ekonomii społecznej w rozwiązywaniu społeczno-ekonomicznych problemów osób niepełnosprawnych i ich reintegracji na terenie województwa podaskiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/9a73b0c4-adcc-47f6-927a-2a9320850184",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Konflikt przemysłowy w Polskich Kolejach Państwowych w latach 1989-2005. Podłoże, przebieg, znaczenie polityczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/6371c6e4-a1e7-4bdc-b75b-06fa40935dc8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Funkcje społeczne muzyki. Analiza socjologiczna działań pilotażowych w szkołach muzycznych w latach 2012-2016",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/6fa0b314-912f-426c-b6cf-4b90864799b5",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Funkcjonowanie organizacji pożytku publicznego w społeczeństwie obywatelskim na przykładzie województwa podkarpackiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/900a5e7b-4da9-4161-92d1-ff427ded0d8d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Kapitał intelektualny klastra na przykładzie Stowarzyszenia Lubelskie Drewno",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wies%C5%82aw.pop%C5%82awski.nsV0MQMqC9P/research-work/f24b98ac-bd3d-4093-9c94-57b2952bcca0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=58658"
+    }
+  ],
+  "tag_cloud": [
+    "organisation",
+    "social transformation",
+    "wykluczenie.",
+    "regional policy",
+    "transformation",
+    "polityka regionalna",
+    "social capital",
+    "territorial marketing",
+    "zarządzanie",
+    "marketing management"
+  ],
+  "coworkers": []
+}

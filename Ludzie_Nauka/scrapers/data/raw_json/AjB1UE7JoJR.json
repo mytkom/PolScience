@@ -1,0 +1,191 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR",
+  "slug": "karolina.okrasa",
+  "profile_id": "AjB1UE7JoJR",
+  "full_name": "dr Karolina Okrasa",
+  "orcid": "0000-0003-1414-3507",
+  "orcid_url": "https://orcid.org/0000-0003-1414-3507",
+  "breadcrumb_name": "Karolina Okrasa",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Max Weight Independent Set in Graphs with No Long Claws: An Analog of the Gyárfás’ Path Argument",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/publications/7988af6b-9cf5-4dc8-82a9-2529d6bf17a9",
+      "authors": "K. Majewski, T. Masařík [...] K. Okrasa , ... (+4)",
+      "publication_type": "Artykuł , ACM Transactions on Computation Theory",
+      "year": "2024",
+      "doi": "10.1145/3636422;10.48550/arxiv.2203.04836",
+      "doi_url": "https://www.doi.org/10.1145/3636422;10.48550/arxiv.2203.04836",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Max Weight Independent Set in graphs with no long claws: An analog of the Gyárfás′ path argument",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/publications/2d5db54e-7eeb-40eb-bb97-ca88062c7f6a",
+      "authors": "K. Okrasa , K. Majewski, T. Masařík, ... (+4)",
+      "publication_type": "Artykuł , ACM Transactions on Computation Theory",
+      "year": "2024",
+      "doi": "10.1145/3636422",
+      "doi_url": "https://www.doi.org/10.1145/3636422",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Minimal Obstructions to C5-Coloring in Hereditary Graph Classes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/publications/75e452e5-cb60-4ea9-b212-a7cc70cf082f",
+      "authors": "K. Okrasa , P. Rzążewski, J. Goedgebeur, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.4230/lipics.mfcs.2024.55",
+      "doi_url": "https://www.doi.org/10.4230/lipics.mfcs.2024.55",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Graph Homomorphisms: From Structure to Algorithms",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.okrasa.AjB1UE7JoJR/research-work/002c15cb-d2e7-4c07-85cb-21d7db3386c3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "fpt",
+    "subexponential-time algorithm",
+    "partially ordered set",
+    "graph modification problems",
+    "fine-grained complexity",
+    "graph homomorphism",
+    "permutation graphs",
+    "subexponential algorithm",
+    "homomorfizm grafów",
+    "comparability graphs"
+  ],
+  "coworkers": []
+}

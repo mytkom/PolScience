@@ -1,0 +1,284 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9",
+  "slug": "jacek.majewski",
+  "profile_id": "hckSZY48xy9",
+  "full_name": "prof. dr hab. Jacek Adam Majewski",
+  "orcid": "0000-0002-8686-7996",
+  "orcid_url": "https://orcid.org/0000-0002-8686-7996",
+  "breadcrumb_name": "Jacek Majewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Uniwersytet Warszawski"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria materii skondensowanej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 1 miesiąc",
+      "duration": null,
+      "institution": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki fizyczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Polska Akademia Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2cc8ed07-3c06-47d4-b26a-64ab1f5df6eb"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1981",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Polska Akademia Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2cc8ed07-3c06-47d4-b26a-64ab1f5df6eb"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1973",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Insight Into Adsorption of Vanadium Phthalocyanine on Graphene Monolayer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/publications/a3283b68-1ae1-4e48-8d27-2307e35e242f",
+      "authors": "M. Mabrouk, J. Majewski",
+      "publication_type": "Artykuł , Physica Status Solidi (B): Basic Research",
+      "year": "2025",
+      "doi": "10.1002/pssb.202500261",
+      "doi_url": "https://www.doi.org/10.1002/pssb.202500261",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Energetics, electronic states, and magnetism of iron phthalocyanine on pristine and defected graphene layers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/publications/4062a4a4-0f02-4392-9dba-d2afec69cc19",
+      "authors": "A. Koshevarnikov, J. Majewski",
+      "publication_type": "Artykuł , arXiv",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The magnetic properties of the iron phthalocyanine molecule grafted to the Ti2C MXene layer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/publications/8345eaaa-c4e6-4daf-8c20-9641ccbf91a2",
+      "authors": "A. Koshevarnikov, T. Ketolainen, J. Majewski",
+      "publication_type": "Artykuł , arXiv",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoria stabilności struktur krystalicznych oraz strukturalnych własności związków binarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/043661a4-5593-4891-abc1-45b97acb7603",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Przewidywanie struktury krystalicznej nanodrutów z użyciem obliczeń ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/38181705-41d0-4700-9d21-13af26149ac0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Opis własności nanostruktur niskowymiarowych za pomocą algorytmów uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/ef513da8-ac01-4bba-bbb0-523877e4364d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wieloskalowe modelowanie dwuwymiarowych warstwowych materiałów zbudowanych z węgla, boru i azotu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/8575eee7-bb9f-4555-a671-c3801ba0ab77",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ab-initio modeling of reactivity of materials against fluorine under high pressure conditions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/aaeb551e-b6b1-4dcb-8a9c-88236972d499",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/c9215631-82dd-4c56-8ad6-8cf32e4db11c",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Raman Scattering versus Strain Engineering in Phosphorene Nanostructures: An Ab Initio Studies",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.majewski.hckSZY48xy9/research-work/9449ea78-a263-47e0-8d40-3d4064703c04",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=102546"
+    }
+  ],
+  "tag_cloud": [
+    "dwywymiarowe warstwowe nanomateriały",
+    "calculations borophene energy decomposition",
+    "komórki",
+    "anticancer properties",
+    "mxenes",
+    "tranzystor spinowy",
+    "kryształy 2d",
+    "magnesy jednomolekułowe",
+    "van der waals layered materials",
+    "transport ładunkowy i spinowy"
+  ],
+  "coworkers": []
+}

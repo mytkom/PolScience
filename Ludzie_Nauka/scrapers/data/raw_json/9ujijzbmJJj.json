@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj",
+  "slug": "michał.lower",
+  "profile_id": "9ujijzbmJJj",
+  "full_name": "dr inż. Michał Piotr Lower",
+  "orcid": "0000-0002-8596-4671",
+  "orcid_url": "https://orcid.org/0000-0002-8596-4671",
+  "breadcrumb_name": "Michał Lower",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "symulacja procesów dynamicznych",
+    "systemy sterowania i regulacji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The influence of temporal disturbances in EKF calculations on the achieved parameters of flight control and stabilization of UAVs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/publications/837b7653-7f2e-4787-9cf5-9c985fbf9b2c",
+      "authors": "J. Szczepaniak, B. Szlachetko, M. Lower",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24123826",
+      "doi_url": "https://www.doi.org/10.3390/s24123826",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nonlinear controller for an inverted pendulum using the trigonometric function",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/publications/9877215f-904a-4c60-9a57-1356d321d84b",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app132212272",
+      "doi_url": "https://www.doi.org/10.3390/app132212272",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of the closed-loop PI controller as the low-pass filter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/publications/3c5b133f-24c1-40b6-8853-aa219b26533e",
+      "authors": "M. Lower , P. Dobrowolski",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1007/978-3-030-76773-0_24",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-76773-0_24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie rozmyte obiektem nieliniowym na przykładzie śmigłowca",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.lower.9ujijzbmJJj/research-work/0d2c251a-42af-4011-b46a-25e3d0bfdc28",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=98537"
+    }
+  ],
+  "tag_cloud": [
+    "logika w prawie",
+    "tereny zielone w mieście",
+    "dron",
+    "model wnioskowania rozmytego",
+    "wnioskowanie rozmyte",
+    "system p&r",
+    "stabilizacja i układy regulacji",
+    "obiekty p&r",
+    "uav",
+    "układy nieliniowe"
+  ],
+  "coworkers": []
+}

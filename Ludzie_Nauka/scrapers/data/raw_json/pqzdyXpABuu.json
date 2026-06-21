@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu",
+  "slug": "radosław.roszczyk",
+  "profile_id": "pqzdyXpABuu",
+  "full_name": "dr inż. Radosław Ireneusz Roszczyk",
+  "orcid": "0000-0003-0721-6739",
+  "orcid_url": "https://orcid.org/0000-0003-0721-6739",
+  "breadcrumb_name": "Radosław Roszczyk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/40ee9e13-51b8-4fde-b8b0-e9fb7505c3b9"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multimodal Machine Learning Analysis of fNIRS Signals Using LSTM and KNN Models for Cognitive States and Brain Activation Patterns Prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/publications/9bfbac6e-183d-46f3-8093-e1ad9b95a1d9",
+      "authors": "A. Luckiewicz, D. Mikołajewski, R. Roszczyk , ... (+7)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparative Review of Selected Internet Communication Protocols",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/publications/491df1ea-530b-44fd-8ac8-22d472a39253",
+      "authors": "R. Roszczyk , L. Kamiński, M. Kozłowski, ... (+3)",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2023",
+      "doi": "10.2478/fcds-2023-0003",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2023-0003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparative Review of Selected Internet Communication Protocols",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/publications/6e336201-dc82-46ad-ba9f-4b4572c01d33",
+      "authors": null,
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2023",
+      "doi": "10.2478/fcds-2023-0003;10.48550/arxiv.2212.07475",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2023-0003;10.48550/arxiv.2212.07475",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Trójwymiarowa rekonstrukcja gruczołów jelitowych na podstawie sekwencji obrazów mikroskopowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.roszczyk.pqzdyXpABuu/research-work/51d7eff7-7d85-48b0-987b-5c2263b647a2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=308923"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

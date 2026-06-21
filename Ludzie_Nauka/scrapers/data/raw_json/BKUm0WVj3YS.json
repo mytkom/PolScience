@@ -1,0 +1,239 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS",
+  "slug": "marcin.janczarek",
+  "profile_id": "BKUm0WVj3YS",
+  "full_name": "dr hab. inż. Marcin Janczarek",
+  "orcid": "0000-0002-7719-2536",
+  "orcid_url": "https://orcid.org/0000-0002-7719-2536",
+  "breadcrumb_name": "Marcin Janczarek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fotokataliza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5a218395-7880-4d1c-a97c-7db297b065cc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "ochrona środowiska",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/gremiums/b2c3e283-51b3-4143-842d-2a2e66779528",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Review on the sustainable development of alkali-activated materials using waste-derived activators: Mechanical and environmental perspectives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/publications/f6d1658d-6d22-492e-9778-9fcfa4e17cdb",
+      "authors": "J. Fořt, L. Tang, M. Janczarek , ... (+5)",
+      "publication_type": "Artykuł , Journal of Building Engineering",
+      "year": "2026",
+      "doi": "10.1016/j.jobe.2025.114857",
+      "doi_url": "https://www.doi.org/10.1016/j.jobe.2025.114857",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Characterization of polymers based on ethylene–norbornene copolymer (Topas E‑140) with natural additives using thermal analysis techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/publications/ad301109-3d50-4b8e-a06e-30511eed82e6",
+      "authors": "M. Pęśko, B. Masek, M. Janczarek , ... (+3)",
+      "publication_type": "Artykuł , Journal of Thermal Analysis and Calorimetry",
+      "year": "2025",
+      "doi": "10.1007/s10973-025-14263-z",
+      "doi_url": "https://www.doi.org/10.1007/s10973-025-14263-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Preparation of Cosmetic Scrub Bases from Coffee Waste and Eco-Friendly Emulsifiers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/publications/912009d2-b46f-461d-97c6-5c9adbb897d4",
+      "authors": "W. Szaferski, M. Janczarek",
+      "publication_type": "Artykuł , Cosmetics",
+      "year": "2025",
+      "doi": "10.3390/cosmetics12010031",
+      "doi_url": "https://www.doi.org/10.3390/cosmetics12010031",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Otrzymywanie i charakterystyka nowych materiałów opartych na tlenku tytanu(IV) ze szczególnym uwzględnieniem wpływu morfologii cząstek na aktywność fotokatalityczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/research-work/98959c21-81be-4797-b4dd-c3471658395e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modyfikacja tlenku tytanu(IV) w kierunku aktywności fotokatalitycznej w świetle widzialnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/research-work/2f5b8aa2-1684-49ae-a6a4-336ddf0051f6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Redukcja CO2 w obecności kompozytów fotokatalizatorów półprzewodnikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.janczarek.BKUm0WVj3YS/research-work/b4f3ba17-753c-4545-939e-a2ffba92f076",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=129961"
+    }
+  ],
+  "tag_cloud": [
+    "faceted anatase",
+    "antimicrobial properties",
+    "ditlenek tytanu",
+    "heterogeneous photocatalysis",
+    "titania",
+    "photocatalysis",
+    "morphology",
+    "dssc",
+    "wastewater treatment",
+    "nanoparticles"
+  ],
+  "coworkers": []
+}

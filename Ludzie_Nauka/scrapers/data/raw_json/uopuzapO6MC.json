@@ -1,0 +1,239 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC",
+  "slug": "piotr.kurzynowski",
+  "profile_id": "uopuzapO6MC",
+  "full_name": "dr hab. inż. Piotr Kurzynowski",
+  "orcid": "0000-0003-3991-876X",
+  "orcid_url": "https://orcid.org/0000-0003-3991-876X",
+  "breadcrumb_name": "Piotr Kurzynowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "optyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/gremiums/53d7c61e-07a1-403d-8d4e-004c9ed7764a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Biomedyczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/gremiums/adfbf2ca-9f2b-46c7-a8ca-d490df3a7448",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An integrated model of the human cornea as a linear biaxial birefringent medium",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/publications/4365f1b2-c1f6-4516-8100-d2dd530bd76b",
+      "authors": "M. Sobczak, A. Jóźwik, P. Kurzynowski",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-55800-4",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-55800-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "How a dynamic optical system maintains image quality: self-adjustment of the human eye",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/publications/493da74e-2018-4b02-b03a-f79f8323edf0",
+      "authors": "A. Jóźwik, A. Józwik [...] P. Kurzynowski , ... (+3)",
+      "publication_type": "Artykuł , Journal of Vision",
+      "year": "2021",
+      "doi": "10.1167/jov.21.3.6",
+      "doi_url": "https://www.doi.org/10.1167/jov.21.3.6",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "In vivo measurements of corneal birefringence properties using the one-way reflective Mueller polarimetry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/publications/a61ba335-14ff-4bc0-974e-2b956b60fdf9",
+      "authors": "W. Woźniak, P. Kurzynowski , M. Sobczak, ... (+1)",
+      "publication_type": "Artykuł , Optics Express",
+      "year": "2021",
+      "doi": "10.1364/oe.421067",
+      "doi_url": "https://www.doi.org/10.1364/oe.421067",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work/29f6e38a-6397-481a-aec3-47811a3cc678",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model planarny polaryzatora światłowodowego i światłowodowego sprzęgacza polaryzacyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work/2d530763-24c4-4ca0-aa84-674b599b9c1a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Polarymetr fourierowski o wysokiej czułości do pomiarów małych zmian dwójłomności liniowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work/2f2268ec-12b6-4e93-abb5-daf3bdd5ddd7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "In-vivo assessment of age-related changes in the human crystalline lens using optical imaging systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work/fb6e07f9-e573-42c5-8d52-526f80a42607",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza rozdzielczości obrazów uzyskiwanych w barwnej projekcji opartej na holografii komputerowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kurzynowski.uopuzapO6MC/research-work/8e929df8-19cd-4f68-8e08-b50b26a69884",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17673"
+    }
+  ],
+  "tag_cloud": [
+    "human eye",
+    "eye refraction",
+    "układ optyczny",
+    "propagacja fal",
+    "wave propagation",
+    "oko ludzkie",
+    "optical system",
+    "refrakcja oka",
+    "reflex",
+    "odruch"
+  ],
+  "coworkers": []
+}

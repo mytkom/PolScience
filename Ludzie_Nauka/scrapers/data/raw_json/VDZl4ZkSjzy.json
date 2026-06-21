@@ -1,0 +1,223 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy",
+  "slug": "andrzej.zaborski",
+  "profile_id": "VDZl4ZkSjzy",
+  "full_name": "dr hab. inż. Andrzej Zaborski",
+  "orcid": "0000-0003-1738-5034",
+  "orcid_url": "https://orcid.org/0000-0003-1738-5034",
+  "breadcrumb_name": "Andrzej Zaborski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria powierzchni",
+    "technologia maszyn",
+    "obróbka powierzchniowa",
+    "warstwa wierzchnia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Computer-Aided Analysis of the Formation of the Deformation Zone in the Burnishing Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/publications/cc2cbacf-d296-4a73-a830-4ae4ccd3a7d8",
+      "authors": "A. Piotrowski, A. Zaborski , A. Tyliszczak",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14031062",
+      "doi_url": "https://www.doi.org/10.3390/app14031062",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Identification of Deformation Effects While Shaping the Material Surface Relief Due to Burnishing Treatment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/publications/ea668d00-2820-4fdf-bed7-94720c34d51b",
+      "authors": "A. Zaborski , R. Rogólski, S. Grzywiński",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17225635",
+      "doi_url": "https://www.doi.org/10.3390/ma17225635",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Using CAD and CAD/CAM Systems to Prepare Unit Production for a CNC Machine Tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/publications/46fa40c1-c8f0-4477-adb8-132179c3120c",
+      "authors": null,
+      "publication_type": "Artykuł , Mechanik",
+      "year": "2024",
+      "doi": "10.17814/mechanik.2024.8-9.18",
+      "doi_url": "https://www.doi.org/10.17814/mechanik.2024.8-9.18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza formowania strefy deformacji w procesie nagniatania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/research-work/78272471-c062-470b-a388-2305e2a3d809",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza wpływu obróbki nagniataniem na zużycie warstwy wierzchniej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/research-work/a00ee886-81d1-4458-9fb2-24e322b040a7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ wybranych parametrów konstrukcyjnych gwintownika wygniatającego na kształtowanie gwintu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.zaborski.VDZl4ZkSjzy/research-work/6b315b6a-fbdc-4272-8384-837d92a44ee0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=27902"
+    }
+  ],
+  "tag_cloud": [
+    "cad and cad/cam systems",
+    "surface layer",
+    "obróbka nagniataniem",
+    "cad/cam systems",
+    "komputerowo wspomagane przygotowanie produkcji",
+    "computer-aided production preparation",
+    "systemy cad/cam",
+    "warstwa wierzchnia",
+    "systemy cad i cad/cam",
+    "zużycie powierzchni"
+  ],
+  "coworkers": []
+}

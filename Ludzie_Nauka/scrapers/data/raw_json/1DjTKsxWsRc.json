@@ -1,0 +1,269 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc",
+  "slug": "hanna.staroszczyk",
+  "profile_id": "1DjTKsxWsRc",
+  "full_name": "dr hab. inż. Hanna Staroszczyk",
+  "orcid": "0000-0002-2404-4708",
+  "orcid_url": "https://orcid.org/0000-0002-2404-4708",
+  "breadcrumb_name": "Hanna Staroszczyk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia i technologia żywności"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 3 miesiące",
+      "duration": null,
+      "institution": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/becb0b4c-82d4-43a3-8673-2e07bf987463",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk rolniczych / technologia żywności i żywienia",
+        "Nadanie stopnia",
+        "Akademia Rolnicza w Krakowie, Wydział Technologii Żywności",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/gremiums/51519277-efc1-4c2f-bb97-a483efa37bef",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chemical composition and techno-functional properties of high-purity water-soluble keratein and its enzymatic hydrolysates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/publications/26e16abd-9087-4525-a447-1749f987f4b2",
+      "authors": "A. Taraszkiewicz, I. Sinkiewicz [...] H. Staroszczyk , ... (+3)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2024.142641",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2024.142641",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effect of selected solvents on the properties of glue, wood surface and adhesive force during bio-machining fluid development",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/publications/78485e3e-ca97-473d-bd4e-ccce60d0622c",
+      "authors": "K. Staszczyk, A. Sommer [...] H. Staroszczyk , ... (+3)",
+      "publication_type": "Artykuł , European Journal of Wood and Wood Products",
+      "year": "2025",
+      "doi": "10.1007/s00107-025-02295-z",
+      "doi_url": "https://www.doi.org/10.1007/s00107-025-02295-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Valorising feather keratin: antioxidant activity, cytotoxicity and mutagenicity during processing and gastrointestinal digestion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/publications/16746e9b-c5af-4397-980e-d1cb6c018aa6",
+      "authors": "A. Taraszkiewicz, A. Sommer [...] H. Staroszczyk , ... (+4)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2025.145820",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2025.145820",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Otrzymywanie estrów kwasów nieorganicznych ze skrobią w reakcjach prowadzonych w fazie stałej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/24f8161c-8363-49e7-b925-0ab107ede930",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Otrzymywanie kompleksów polisacharydowo-białkowych w przestrzeni przyelektrodowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/6b140a8c-3197-4567-ae12-4b4720275dff",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ różnych metod utrwalania na wartość odżywczą i biologiczną oraz jakość mikrobiologiczną mleka ludzkiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/3e6eb8da-e5ae-4e5b-9667-fe56a96369c6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ sposobu wytwarzania bionanocelulozy (BNC) na jej właściwości mechaniczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/34483c7c-d286-4acc-b5ac-1d2ccba01449",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Podatność nanocelulozy bakteryjnej na biodegradację in vitro pod wpływem drobnoustrojów chorobotwórczych w aspekcie wykorzystania jako materiał do produkcji implantów kardiologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/8439b62b-bc5a-4684-997b-8b4fbace9e21",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ modyfikacji fizycznej na strukturę ziarna skrobiowego, proces utleniania oraz właściwości funkcjonalne uzyskanych skrobi modyfikowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/b34bb690-4b74-4f97-9955-35a5fb4791d3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ wybranych składników aktywnych na właściwości użytkowe wielowarstwowych folii biopolimerowych na bazie furcellaranu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/1c49f87d-3d3c-496f-b37c-6a1741325617",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Innowacyjne wyroby cukiernicze jako element zróżnicowanej i zbilansowanej diety przyczyniający się do walki z chorobami cywilizacyjnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hanna.staroszczyk.1DjTKsxWsRc/research-work/4db93812-919a-442a-b340-41b8c02a86c6",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85211"
+    }
+  ],
+  "tag_cloud": [
+    "gluconacetobacter xylinus,bacterial cellulose,implant",
+    "food additives & ingredients",
+    "werner complexes",
+    "sorption complexes",
+    "polysaccharides",
+    "capillary complexes",
+    "inclusion complexes",
+    "food analysis",
+    "helical complexes",
+    "food chemistry"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ",
+  "slug": "tomasz.kisielewicz",
+  "profile_id": "25I7yWTIdOZ",
+  "full_name": "dr Tomasz Dominik Kisielewicz",
+  "orcid": "0000-0002-3262-6599",
+  "orcid_url": "https://orcid.org/0000-0002-3262-6599",
+  "breadcrumb_name": "Tomasz Kisielewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "ochrona odgromowa",
+    "technika wysokich napięć"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Sapienza Università di Roma",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Multi-Agent Adaptive Architecture for Smart-Grid-Intrusion Detection and Prevention",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/publications/fcb5dbb5-9b43-4aae-8d12-95429ccd843e",
+      "authors": "T. Kisielewicz , S. Stanek, M. Żytniewski, ... (+1)",
+      "publication_type": "Artykuł , ENERGIES",
+      "year": "2022",
+      "doi": "10.3390/en15134726",
+      "doi_url": "https://www.doi.org/10.3390/en15134726",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Frequency of Damage of Low Voltage Apparatus Due to Lightning Flashes to Ground Nearby HV Overhead Lines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/publications/a4229106-af4c-45e4-a999-21ae2056d95d",
+      "authors": "T. Kisielewicz , G. Piparo, C. Mazzetti",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15207809",
+      "doi_url": "https://www.doi.org/10.3390/en15207809",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Overview of Transient Simulations of Grounding Systems under Surge Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/publications/cdffb3e0-cdaa-428a-9771-80cb796a003a",
+      "authors": "T. Kisielewicz , M. Cuenca",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15207694",
+      "doi_url": "https://www.doi.org/10.3390/en15207694",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Selected problems for the protection of electrical and electronic systems against lightning overvoltages",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kisielewicz.25I7yWTIdOZ/research-work/b6815c1e-7265-4cc1-8028-44ba8636f981",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248933"
+    }
+  ],
+  "tag_cloud": [
+    "infrastruktura krytyczna",
+    "intrusion detection/prevention systems",
+    "apparatus safety",
+    "commons",
+    "lightning protection",
+    "surge protective device",
+    "vincent ostrom",
+    "smart city",
+    "critical infrastructure",
+    "polycentricity"
+  ],
+  "coworkers": []
+}

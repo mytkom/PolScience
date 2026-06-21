@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi",
+  "slug": "łukasz.wolniewicz",
+  "profile_id": "a0g1tBhM3bi",
+  "full_name": "dr inż. Łukasz Piotr Wolniewicz",
+  "orcid": "0000-0001-8315-001X",
+  "orcid_url": "https://orcid.org/0000-0001-8315-001X",
+  "breadcrumb_name": "Łukasz Wolniewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2016",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "transport",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fuzzy logic-based expert evaluation of tram driver’s console fidelity in a universal simulator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/publications/a57ec655-7093-47ba-a081-2ae37ec545e5",
+      "authors": "Ł. Wolniewicz , L. Wolniewicz, E. Mardeusz",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15169048",
+      "doi_url": "https://www.doi.org/10.3390/app15169048",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Railway transport system modelling approach for robustness analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/publications/e703da8e-89f6-4adb-a0c4-59980413ca70",
+      "authors": null,
+      "publication_type": "Artykuł , Transport",
+      "year": "2024",
+      "doi": "10.3846/transport.2024.22877",
+      "doi_url": "https://www.doi.org/10.3846/transport.2024.22877",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Risk assessment for the development of emergency scenarios for tram driver training",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/publications/0ce66d1e-5293-40be-860b-6bc6c95e0054",
+      "authors": "A. Tubis, A. Kierzkowski [...] Ł. Wolniewicz , ... (+4)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app142210444",
+      "doi_url": "https://www.doi.org/10.3390/app142210444",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda rekonfiguracji planowanego procesu użytkowania z uwzględnieniem odporności systemu transportu kolejowego.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.wolniewicz.a0g1tBhM3bi/research-work/3764c6f1-b410-406d-afdc-e5c9d3256a5b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=321009"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

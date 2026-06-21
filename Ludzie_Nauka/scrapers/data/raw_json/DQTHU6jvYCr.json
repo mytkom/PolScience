@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr",
+  "slug": "wojciech.paszkowiak",
+  "profile_id": "DQTHU6jvYCr",
+  "full_name": "dr inż. Wojciech Piotr Paszkowiak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Wojciech Paszkowiak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Scalable Kinematic Reconstruction Methods of Joint Angles for N-Trailer Vehicles Upon Speed Information with Application to Motion Control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/publications/e394f903-9c56-42b9-a96e-80bd724d1e3c",
+      "authors": "M. Michałek, K. Bereszyński, W. Paszkowiak , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/iv64158.2025.11097601",
+      "doi_url": "https://www.doi.org/10.1109/iv64158.2025.11097601",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Passive wheels – A new localization system for automated guided vehicles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/publications/0a3d80aa-9b81-412a-8d29-65b7c174e62f",
+      "authors": "K. Bereszyński, M. Pelic, W. Paszkowiak , ... (+6)",
+      "publication_type": "Artykuł , Heliyon",
+      "year": "2024",
+      "doi": "10.1016/j.heliyon.2024.e34967",
+      "doi_url": "https://www.doi.org/10.1016/j.heliyon.2024.e34967",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A Neural-network-based Control System for a Dynamic Model of Tractor With Multiple Trailers System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.paszkowiak.DQTHU6jvYCr/publications/bdf8798b-7634-4395-8470-37a07ac66ba0",
+      "authors": "W. Paszkowiak , M. Pelic, T. Bartkowiak",
+      "publication_type": "Artykuł , International Journal of Control, Automation and Systems",
+      "year": "2023",
+      "doi": "10.1007/s12555-022-0741-0",
+      "doi_url": "https://www.doi.org/10.1007/s12555-022-0741-0",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "slip",
+    "trailer",
+    "trolley",
+    "friction",
+    "drawbar",
+    "steering system",
+    "multibody",
+    "vehicle",
+    "tire model",
+    "double ackermann"
+  ],
+  "coworkers": []
+}

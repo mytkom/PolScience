@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb",
+  "slug": "piotr.felisiak",
+  "profile_id": "dsiHvZLn2jb",
+  "full_name": "dr inż. Piotr Andrzej Felisiak",
+  "orcid": "0000-0003-4965-6935",
+  "orcid_url": "https://orcid.org/0000-0003-4965-6935",
+  "breadcrumb_name": "Piotr Felisiak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria satelitarna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Mechaniczno-Energetyczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e3eddc5d-f7a3-4ea7-8548-95eadb819865"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advanced modeling of UAV dynamics using artificial neural networks and the output error method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/publications/ae667bef-760e-4a6b-a161-1322a433e72d",
+      "authors": "P. Jimenez Soler, P. Lichota, P. Felisiak",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2025",
+      "doi": "10.2478/ama-2025-0076",
+      "doi_url": "https://www.doi.org/10.2478/ama-2025-0076",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cryogenic helium valves deflection and relaxation in ESS linac cryogenic distribution system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/publications/1ed37f85-da79-4470-b534-b5668c779f7f",
+      "authors": "M. Chorowski, P. Duda, P. Felisiak , ... (+6)",
+      "publication_type": "Artykuł , IOP Conference Series : Materials Science & Engineering",
+      "year": "2025",
+      "doi": "10.1088/1757-899x/1327/1/012177",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/1327/1/012177",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Intermediary effect of digital economy on impact of the fiscal revenue and expenditure structure on dual-circulation development paradigm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/publications/ac6af591-2406-4c74-a7fd-b7f31332fc40",
+      "authors": "P. Felisiak , Y. Zhao, X. Kong, ... (+1)",
+      "publication_type": "Artykuł , International Journal of Crowd Science",
+      "year": "2025",
+      "doi": "10.26599/ijcs.2024.9100011",
+      "doi_url": "https://www.doi.org/10.26599/ijcs.2024.9100011",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie Statkiem Kosmicznym dla Zagadnienia Manewru Spotkania na Orbicie Eliptycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.felisiak.dsiHvZLn2jb/research-work/496a9ca2-67cf-4010-bcff-16d78920afd9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=272640"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

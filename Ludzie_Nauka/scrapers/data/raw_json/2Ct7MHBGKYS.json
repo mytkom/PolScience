@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS",
+  "slug": "adam.kaczmarek",
+  "profile_id": "2Ct7MHBGKYS",
+  "full_name": "dr inż. Adam Kaczmarek",
+  "orcid": "0000-0002-2417-7797",
+  "orcid_url": "https://orcid.org/0000-0002-2417-7797",
+  "breadcrumb_name": "Adam Kaczmarek",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Method for Adapting Stereo Matching Algorithms to Real Environments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/publications/b2dddbff-1261-427d-bd67-8eb58aa77b01",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15074070",
+      "doi_url": "https://www.doi.org/10.3390/app15074070",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Is Python OpenCV slower than its C++ version?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/publications/e4842dfe-b7eb-46c4-835d-af77f1a423c4",
+      "authors": "A. Kaczmarek , K. Bieryło, J. Gabryołek, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.24132/csrn.2025-36",
+      "doi_url": "https://www.doi.org/10.24132/csrn.2025-36",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Training Data for Stereo Matching Algorithms Based on Neural Networks and a Method for Data Evaluation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/publications/119975f1-3f15-44f9-a5e2-542da27ab02a",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312663",
+      "doi_url": "https://www.doi.org/10.3390/app152312663",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody wyszukiwania informacji oparte na wyznaczaniu kierunków",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.kaczmarek.2Ct7MHBGKYS/research-work/0f00bd16-7289-4429-877d-3bcfdd2c4854",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=241951"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

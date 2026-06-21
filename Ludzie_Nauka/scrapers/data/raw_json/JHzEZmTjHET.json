@@ -1,0 +1,201 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET",
+  "slug": "adam.abramowicz",
+  "profile_id": "JHzEZmTjHET",
+  "full_name": "dr hab. Adam Zbigniew Abramowicz",
+  "orcid": "0000-0003-4605-4744",
+  "orcid_url": "https://orcid.org/0000-0003-4605-4744",
+  "breadcrumb_name": "Adam Abramowicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika mikrofalowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "43 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Politechnika Warszawska, Wydział Elektroniki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "New structure of dielectric resonator with greater separation of higher order modes from fundamental mode",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/publications/6f11c734-4c94-49ef-829b-e2aded555517",
+      "authors": "K. Derzakowski, A. Abramowicz",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155448",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155448",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the equivalence of coupled resonators and Yee cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/publications/77a16ae1-ccd0-413e-91a0-6df190258485",
+      "authors": null,
+      "publication_type": "Artykuł , 2023 International Conference on Electromagnetics in Advanced Applications (ICEAA)",
+      "year": "2023",
+      "doi": "10.1109/iceaa57318.2023.10297660",
+      "doi_url": "https://www.doi.org/10.1109/iceaa57318.2023.10297660",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "PEG Contribution to the LLRF System for Superconducting Elliptical Cavities of ESS Accelerator Linac",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/publications/8635ddde-2978-4f90-8bb9-46eac8ade181",
+      "authors": "W. Cichalewski, G. Jabłoński, A. Abramowicz , ... (+32)",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.18429/jacow-ipac2022-tupost017",
+      "doi_url": "https://www.doi.org/10.18429/jacow-ipac2022-tupost017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Filtry mikrofalowe w systemach radiokomunikacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/96b0e8e1-071b-4ead-9ff8-e001495317b7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza sprzężonych rezonatorów dielektrycznych metodą częstotliwości własnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/b8494168-f67a-4408-b756-345f06bf8aca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wydajne pomiary i modelowanie aktywnych przyrządów i obwodów mikrofalowych poprzez adaptacyjne próbkowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/56d6e645-67a4-4657-adaa-4e0057f5cbd1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Cyfrowy mikrofalowy detektor częstotliwości z wykorzystaniem macierzy Butlera 4x4",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/6a08d809-5273-481d-8cea-5a36fb33d050",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Szybkie przemiatanie częstotliwości w analizie elektromagnetycznej złożonych układów mikrofalowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/53d72482-22fa-451e-96c4-a872c8a05ef9",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Projektowanie mikrofalowych sprzęgaczy kierunkowych w technice linii transmisyjnych quasi-TEM. Analiza, projektowanie i badania eksperymentalne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.abramowicz.JHzEZmTjHET/research-work/7f20b35f-7394-4c2c-b929-66f12178649d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=15407"
+    }
+  ],
+  "tag_cloud": [
+    "metals",
+    "fdtd method",
+    "telecommunication system",
+    "couplings",
+    "magnetic coupling",
+    "rlc circuits",
+    "magnetic resonance",
+    "electromagnetic field",
+    "yee cell",
+    "direct-coupled filters"
+  ],
+  "coworkers": []
+}

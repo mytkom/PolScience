@@ -1,0 +1,256 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9",
+  "slug": "mariusz.kubanek",
+  "profile_id": "MRmd0shbgm9",
+  "full_name": "dr hab. inż. Mariusz Kubanek",
+  "orcid": "0000-0001-9651-9525",
+  "orcid_url": "https://orcid.org/0000-0001-9651-9525",
+  "breadcrumb_name": "Mariusz Kubanek",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "techniki multimedialne i biometryczne",
+    "biometria",
+    "analiza i przetwarzanie obrazów",
+    "rozpoznawanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Europejska Wyższa Szkoła Informatyczno-Ekonomiczna w Warszawa Aktualna nazwa: Europejska Uczelnia w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f8282d52-9e6b-4cd9-86ef-06bd543460ce",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Biometry-Based Verification System with Symmetric Key Generation Method for Internet of Things Environments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/publications/9a32d846-0a0b-415d-b4e3-4b5427cdcd6b",
+      "authors": "S. Szymoniak, M. Kubanek",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-89226-3",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-89226-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Deepfake and Ethics - Analysis of the Risks of Image and Text Manipulation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/publications/53afa3e7-9ba7-4f7f-9862-e0929b56c5a5",
+      "authors": "M. Kubanek , S. Szymoniak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Integrated Methods of Personal Data Protection in the Context of Modern Cyber Threats",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/publications/e88cbbf7-4c15-4d31-82c5-301c75e10e7b",
+      "authors": "S. Szymoniak, M. Kubanek",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane metody i systemy biometryczne bazujące na ukrytych modelach Markowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/ed61d07b-a39f-47bb-a55b-72848c65e5e8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda rozpoznawania audio-video mowy polskiej w oparciu o ukryte modele Markowa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/4c257a78-27a9-4fee-843c-70704111a970",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wspomaganie autonomicznego przemieszczania z wykorzystaniem stereowizji i algorytmów sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/8e01c877-8884-4753-98ad-cf11d7a49021",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Nowa metoda kompresji filmów z zastosowaniem neuronalnego algorytmu kompresji obrazów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/6035bf6d-e611-4ba2-ba1c-ae1dbc178767",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Dobór parametrów mechanizmów równoważenia obciążenia i przełączania użytkowników w sieciach LTE",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/ce497ffc-c1d7-4b26-9bd5-aaf0f608bb97",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Budowa konfigurowalnych menadżerów pamięci dla aplikacji wysokiej wydajności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.kubanek.MRmd0shbgm9/research-work/43f7b4a3-1714-4963-9099-fa1e928a33f5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=128446"
+    }
+  ],
+  "tag_cloud": [
+    "multi-data processing",
+    "convolutional neural networks",
+    "big data",
+    "artificial intelligence",
+    "deep learning",
+    "image processing",
+    "waste management",
+    "environment protection",
+    "acoustic space",
+    "intelligent systems"
+  ],
+  "coworkers": []
+}

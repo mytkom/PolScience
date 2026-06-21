@@ -1,0 +1,218 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1",
+  "slug": "wojciech.więckowski",
+  "profile_id": "5FXhKTFgbU1",
+  "full_name": "dr hab. inż. Wojciech Więckowski",
+  "orcid": "0000-0003-0611-2524",
+  "orcid_url": "https://orcid.org/0000-0003-0611-2524",
+  "breadcrumb_name": "Wojciech Więckowski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "obróbka plastyczna metali",
+    "inżynieria biomedyczna",
+    "tribologia",
+    "zgrzewanie tarciowe z przemieszaniem"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Development of FSW Process Parameters for Lap Joints Made of Thin 7075 Aluminum Alloy Sheets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/publications/44a7450d-55c5-478e-a230-6bd596fc8563",
+      "authors": "P. Lacki, A. Derlatka, W. Więckowski , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17030672",
+      "doi_url": "https://www.doi.org/10.3390/ma17030672",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Development of FSW Process Parameters for Lap Joints Made of Thin 7075 Aluminum Alloy Sheets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/publications/16dc3b86-bcc3-4da7-8aa1-f84152f67658",
+      "authors": "P. Lacki, A. Derlatka, W. Więckowski , ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.20944/preprints202401.0697.v1;10.3390/ma17030672",
+      "doi_url": "https://www.doi.org/10.20944/preprints202401.0697.v1;10.3390/ma17030672",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical Study of Rotary Friction Welding of Automotive Components",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/publications/e02faa3e-392a-436b-ae52-43ad7b46dfca",
+      "authors": "W. Więckowski , P. Lacki, A. Derlatka, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/188742",
+      "doi_url": "https://www.doi.org/10.12913/22998624/188742",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane problemy kształtowania i łączenia blach cienkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/research-work/4fb47e3f-6c5b-4586-ac98-772dd8d5d947",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ rodzaju materiału i kształtu trzpienia endoprotezy stawu biodrowego na obciążenie kości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/research-work/b68f8b7d-b541-45a5-bcea-dcc640c1e462",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Tribologiczne aspekty kształtowania blach stosowanych w lotnictwie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.wi%C4%99ckowski.5FXhKTFgbU1/research-work/5afe2559-3d6a-4bef-839d-d12edce8bbe4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117247"
+    }
+  ],
+  "tag_cloud": [
+    "jakość",
+    "połączenia klejone",
+    "solid-state welding",
+    "steel",
+    "fsw",
+    "friction stir welding",
+    "rfw",
+    "aluminum alloys",
+    "eddy current",
+    "diagnostyka dynamiczna"
+  ],
+  "coworkers": []
+}

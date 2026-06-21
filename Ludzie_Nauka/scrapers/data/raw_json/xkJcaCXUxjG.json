@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG",
+  "slug": "daniel.węsierski",
+  "profile_id": "xkJcaCXUxjG",
+  "full_name": "dr inż. Daniel Węsierski",
+  "orcid": "0000-0001-7093-8764",
+  "orcid_url": "https://orcid.org/0000-0001-7093-8764",
+  "breadcrumb_name": "Daniel Węsierski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Télécom SudParis",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Lifting Deep Image Denoisers to Video with Frame Interpolation Pre-training",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/publications/c959e6a5-a952-479b-a7d4-1eb51cbd2852",
+      "authors": "P. Ostrowski, D. Węsierski , T. Stefański, ... (+2)",
+      "publication_type": "Artykuł , IEEE Transactions on Circuits and Systems for Video Technology",
+      "year": "2025",
+      "doi": "10.1109/tcsvt.2025.3575717",
+      "doi_url": "https://www.doi.org/10.1109/tcsvt.2025.3575717",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Streamed optical flow adaptation from synthetic to real dental scenes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/publications/4cd4f8b5-2294-4eae-957c-056f8092802c",
+      "authors": "A. Jezierska, E. Lewandowska, D. Węsierski",
+      "publication_type": "Artykuł , IEEE Transactions on Medical Imaging",
+      "year": "2025",
+      "doi": "10.1109/tmi.2025.3573265",
+      "doi_url": "https://www.doi.org/10.1109/tmi.2025.3573265",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Learning sperm cells part segmentation with class-specific data augmentation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.w%C4%99sierski.xkJcaCXUxjG/publications/e58b8ac5-abfb-4688-ac12-3332767ccf58",
+      "authors": "E. Lewandowska, M. Jankowski [...] D. Węsierski , ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/hsi61632.2024.10613572",
+      "doi_url": "https://www.doi.org/10.1109/hsi61632.2024.10613572",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=313239"
+    }
+  ],
+  "tag_cloud": [
+    "full sperm segmentation",
+    "gaussian noise",
+    "video-assisted minimally invasive surgery",
+    "electroencephalography (eeg), artifact removal, average event duration, blind assessment, missing ground truth, rating by detection, real data",
+    "noisy labels",
+    "dental interventions",
+    "dental microscope",
+    "video deblurring",
+    "poisson-gaussian noise",
+    "instruments"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,263 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4",
+  "slug": "paweł.pilarczyk",
+  "profile_id": "asYMYJuLYx4",
+  "full_name": "dr hab. Paweł Pilarczyk",
+  "orcid": "0000-0003-0597-697X",
+  "orcid_url": "https://orcid.org/0000-0003-0597-697X",
+  "breadcrumb_name": "Paweł Pilarczyk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "obliczanie homologii",
+    "układy dynamiczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Jagielloński w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d6e60499-7181-412b-a1f5-87359c3c353d"
+        },
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/gremiums/ac039165-7a6e-452c-9793-80e053a7c9c8",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the chaotic itinerancy phenomenon using entropy and clustering",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/publications/b7af90c0-bf70-4a57-a622-8515cdf84f83",
+      "authors": "P. Pilarczyk , N. Mierski",
+      "publication_type": "Artykuł , Physical review. E",
+      "year": "2025",
+      "doi": "10.1103/bcwd-nx7r",
+      "doi_url": "https://www.doi.org/10.1103/bcwd-nx7r",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bistability and chaos in the discrete two-gene Andrecut-Kauffman model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/publications/946ccb34-1de9-4a45-9243-106d0cf10403",
+      "authors": "M. Palczewski, P. Pilarczyk , A. Bartłomiejczyk, ... (+1)",
+      "publication_type": "Artykuł , Discrete and Continuous Dynamical Systems - Series B",
+      "year": "2025",
+      "doi": "10.3934/dcdsb.2025028",
+      "doi_url": "https://www.doi.org/10.3934/dcdsb.2025028",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Rigorous computation of expansion in one-dimensional dynamics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/publications/ad129ff9-7370-4e9e-9697-80d4c8742ce3",
+      "authors": "P. Pilarczyk , M. Palczewski, S. Luzzatto",
+      "publication_type": "Artykuł , Chaos",
+      "year": "2025",
+      "doi": "10.1063/5.0287894",
+      "doi_url": "https://www.doi.org/10.1063/5.0287894",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy dyskretne ścisłej analizy numeryczno-topologicznej układów dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/research-work/4511d9ef-a04c-4842-b650-4f6680f3ba52",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Topologiczny algorytm ścisłej weryfikacji istnienia trajektorii okresowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/research-work/0ba2e599-dd9a-4f45-a4c4-cf5559a0ed83",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Probability Meets Topological Data Analysis",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/research-work/39d6f4eb-deed-4091-918b-5dce9e6a9d81",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Randomized algorithms approximating solutions of ordinary differential equations",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.pilarczyk.asYMYJuLYx4/research-work/157fdb7e-5722-47bf-a2fc-9e58f2c35def",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=104163"
+    }
+  ],
+  "tag_cloud": [
+    "rigorous numerics",
+    "computational topology",
+    "heart rate variability",
+    "recurrence",
+    "nonlinear neurodynamics",
+    "układy dynamiczne",
+    "topologia obliczeniowa",
+    "grid",
+    "persistent homology",
+    "conley index"
+  ],
+  "coworkers": []
+}

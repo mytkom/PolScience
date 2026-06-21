@@ -1,0 +1,222 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG",
+  "slug": "maciej.zakrzewicz",
+  "profile_id": "YQjWrpx6IKG",
+  "full_name": "dr hab. inż. Maciej Jacek Zakrzewicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Maciej Zakrzewicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy baz danych",
+    "eksploracja danych",
+    "systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Nauk Humanistycznych i Dziennikarstwa w Poznaniu Aktualna nazwa: Collegium Da Vinci z siedzibą w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/023319de-3ea4-4e9d-b693-ff0c3f2e62fb",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Angle-Based Data Binarization Framework",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/publications/c05083d9-49e6-427d-aac2-486a138c05c2",
+      "authors": "M. Zakrzewicz , T. Morzy",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Study on Database Intrusion Detection Based on Query Execution Plans",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/publications/b45456c5-97f1-4d7b-a8ab-22b0fc3e990e",
+      "authors": "T. Morzy, M. Zakrzewicz",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-68323-7_30",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-68323-7_30",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Learning From User-Specified Optimizer Hints in Database Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/publications/08cc5d5b-54bc-45d8-bae7-c2580ec0461e",
+      "authors": null,
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2024",
+      "doi": "10.2478/fcds-2024-0011",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2024-0011",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przetwarzanie żądań odkrywania reguł asocjacyjnych w bazach danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/research-work/188b84f8-ab08-4567-837a-d79b72cc7267",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Przetwarzanie zbiorów przestrzennych zapytań eksploracyjnych w środowiskach z ograniczonym rozmiarem pamięci operacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/research-work/c2c7987b-6a1a-407f-85b2-3c9f2213738b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Indeksowanie danych sekwencyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/research-work/2ef442df-e99b-45c6-95ad-035aea1fb779",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metodologie i metamodele dla obiektowych baz danych typu Grid",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.zakrzewicz.YQjWrpx6IKG/research-work/64574df2-4608-4a0c-921f-87193539f10b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=82630"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

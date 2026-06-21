@@ -1,0 +1,309 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n",
+  "slug": "grzegorz.budzik",
+  "profile_id": "KOLxf0Z1h8n",
+  "full_name": "prof. dr hab. inż. Grzegorz Krzysztof Budzik",
+  "orcid": "0000-0003-3598-2860",
+  "orcid_url": "https://orcid.org/0000-0003-3598-2860",
+  "breadcrumb_name": "Grzegorz Budzik",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "CAD",
+    "konstrukcja elementów silników spalinowych",
+    "konstrukcje maszyn",
+    "przekładnie zębate",
+    "szybkie prototypowanie",
+    "inżynieria odwrotna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Nowym Sączu Aktualna nazwa: Akademia Nauk Stosowanych w Nowym Sączu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ccc24230-94bd-4fab-9b88-dca9652e52c7",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        },
+        {
+          "label": "Akademia Nauk Stosowanych w Nowym Sączu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ccc24230-94bd-4fab-9b88-dca9652e52c7"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/gremiums/b734ba8c-0a2d-4597-ac23-ede62be1b10f",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Budowy Maszyn",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/gremiums/64843c11-5090-4f48-8cb2-14eccfa4d7c2",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komisja Inżynierii Powierzchni",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/gremiums/5421c6d0-bbb3-48ac-af23-91934b0e819c",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Development of a procedure for increasing the accuracy of the reconstruction and triangulation process of the cranial vault geometry for additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/publications/7d90c0ee-db36-4559-b72a-3b2d9e4ee4f2",
+      "authors": "P. Turek, G. Budzik",
+      "publication_type": "Artykuł , Facta Universitatis, Series: Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.22190/fume211208025t",
+      "doi_url": "https://www.doi.org/10.22190/fume211208025t",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluation of High-Temperature Sterilization Processes: Their Influence on the Mechanical Integrity of Additively Manufactured Polymeric Biomaterials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/publications/1ef7b273-566f-4eac-b427-f012b64b42d3",
+      "authors": "B. Zbyrad, Ł. Kochmański [...] G. Budzik , ... (+4)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18061356",
+      "doi_url": "https://www.doi.org/10.3390/ma18061356",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid polymer materials with substantially improved mechanical properties obtained by SPLAST",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/publications/94e29e43-bb2d-4e81-b517-f5ef00445606",
+      "authors": "M. Sanocki, M. Zajdel [...] G. Budzik , ... (+7)",
+      "publication_type": "Artykuł , Polimery",
+      "year": "2025",
+      "doi": "10.14314/polimery.2025.3.5",
+      "doi_url": "https://www.doi.org/10.14314/polimery.2025.3.5",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Projektowanie zespołów maszyn z wykorzystaniem technik wspomaganych komputerowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/69c65d17-373b-4ba4-9adb-4ea5b10bce79",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Obciążenia cieplne tłoka z wewnętrznym chłodzeniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/56b3b55c-3d7c-4a5b-953b-78f74cd92341",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza geometryczna i wytrzymałościowa walcowych kół zębatych z kompozytów polimerowych wytwarzanych wybranymi metodami Rapid Manufacturing",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/21069419-c79b-400a-a17d-2c549cbdf963",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Doskonalenie sterowania rozproszonymi systemami wytwarzania przyrostowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/828e768e-b084-4752-afce-333fdfca23b2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metodyka projektowania oraz wytwarzania modeli medycznych żuchwy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/eeabf559-ec6f-4faa-b416-d4797e147de1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ocena właściwości mechanicznych elementów wytwarzanych technologią druku 3D do zastosowań biomedycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/a2b39f56-b2d2-4666-8633-db3883c433a0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Budowa inteligentnej obrabiarki do frezowania promieni soczewek.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/3a6dbb10-fc4f-4673-9cf5-17f53f706424",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Opracowanie metody projektowania, dopasowania i wytworzenia ortez medycznych do sytuacji anatomicznej w trakcie okresu powrotu do zdrowia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.budzik.KOLxf0Z1h8n/research-work/d76bda0d-8ba3-4308-8af2-04e57977eb86",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=100686"
+    }
+  ],
+  "tag_cloud": [
+    "mandible",
+    "computer measurement system",
+    "szybkie prototypowanie",
+    "3d printing",
+    "druk 3d",
+    "additive manufacturing",
+    "wytwarzanie przyrostowe",
+    "abs",
+    "accuracy",
+    "systemy cax"
+  ],
+  "coworkers": []
+}

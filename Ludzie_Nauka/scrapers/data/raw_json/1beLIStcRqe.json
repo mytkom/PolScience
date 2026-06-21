@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe",
+  "slug": "bogusław.furmann",
+  "profile_id": "1beLIStcRqe",
+  "full_name": "dr hab. Bogusław Andrzej Furmann",
+  "orcid": "0000-0002-6071-0691",
+  "orcid_url": "https://orcid.org/0000-0002-6071-0691",
+  "breadcrumb_name": "Bogusław Furmann",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka atomowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "33 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Fizyki Technicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f35ca2b4-6fa5-4d45-807f-2a62f02e8251"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1981",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka - sekcja doświadczalna",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/gremiums/4c909531-c2ab-46ca-b74d-fd5f09638a44",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Experimental and semi-empirical studies of the fine and the hyperfine structure of even-parity configuration system of atomic lutetium",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/publications/2040f97d-4a93-4103-9d75-67ccd73d9c76",
+      "authors": "M. Klempka, M. Elantkowska, B. Furmann , ... (+4)",
+      "publication_type": "Artykuł , Journal of Quantitative Spectroscopy and Radiative Transfer",
+      "year": "2026",
+      "doi": "10.1016/j.jqsrt.2025.109755",
+      "doi_url": "https://www.doi.org/10.1016/j.jqsrt.2025.109755",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental and semi-empirical studies of the fine and the hyperfine structure of odd-parity configuration system of atomic lutetium",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/publications/0a4c4e13-a97f-4aeb-8816-5ce81cef6da4",
+      "authors": "M. Klempka, M. Elantkowska, B. Furmann , ... (+4)",
+      "publication_type": "Artykuł , Journal of Quantitative Spectroscopy and Radiative Transfer",
+      "year": "2025",
+      "doi": "10.1016/j.jqsrt.2025.109632",
+      "doi_url": "https://www.doi.org/10.1016/j.jqsrt.2025.109632",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hyperfine structure odd-parity configurations of the terbium atom, Part I: Levels with small 𝐽",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/publications/45ace89a-0b16-4688-b7be-3a5ee2862441",
+      "authors": "B. Furmann , M. Klempka, S. Mieloch, ... (+2)",
+      "publication_type": "Artykuł , Journal of Quantitative Spectroscopy and Radiative Transfer",
+      "year": "2025",
+      "doi": "10.1016/j.jqsrt.2024.109274",
+      "doi_url": "https://www.doi.org/10.1016/j.jqsrt.2024.109274",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja poziomów elektronowych w atomie i jonie prazeodymu na podstawie analizy struktury nadsubtelnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/research-work/cce26513-e206-4281-970f-8065a1f2f890",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie parametrów spektroskopowych metali ciężkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.furmann.1beLIStcRqe/research-work/b90f3f3c-9be7-4400-9b62-67af050b33ee",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=78909"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

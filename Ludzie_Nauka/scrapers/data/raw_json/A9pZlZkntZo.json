@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo",
+  "slug": "marek.michalski",
+  "profile_id": "A9pZlZkntZo",
+  "full_name": "dr inż. Marek Michalski",
+  "orcid": "0000-0002-6951-7222",
+  "orcid_url": "https://orcid.org/0000-0002-6951-7222",
+  "breadcrumb_name": "Marek Michalski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci transportu informacji",
+    "telekomutacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Human Factor as a Security Issue in ISP Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/publications/f4ca26a9-992c-4f95-a508-969b3ae9c29e",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/percomworkshops65533.2025.00085",
+      "doi_url": "https://www.doi.org/10.1109/percomworkshops65533.2025.00085",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of Time Reaction During Different Approaches to Command Handling in NetFPGA Hardware",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/publications/e7addcad-555c-4606-abbe-36b319a8b8cf",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-62843-6_17",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-62843-6_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Double-adaptive Hardware Queuing System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/publications/ddab1a32-6a0e-47d0-a4d5-a59ed3d3f7f2",
+      "authors": "J. Weissenberg, M. Michalski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie wielopłaszczyznowymi polami typu banyan",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.michalski.A9pZlZkntZo/research-work/d447f541-b45d-4802-8c14-3913249d41ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=249278"
+    }
+  ],
+  "tag_cloud": [
+    "raspberry pi",
+    "automatic repeat request",
+    "satellite link",
+    "spartan3",
+    "fpga",
+    "uczenie maszynowe",
+    "pola komutacujne log2n",
+    "łącza satelitarne",
+    "machine learning",
+    "satelity cubesat"
+  ],
+  "coworkers": []
+}

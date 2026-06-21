@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA",
+  "slug": "łukasz.lepak",
+  "profile_id": "JYxRZgwP4VA",
+  "full_name": "dr inż. Łukasz Eugeniusz Lepak",
+  "orcid": "0000-0003-0309-8843",
+  "orcid_url": "https://orcid.org/0000-0003-0309-8843",
+  "breadcrumb_name": "Łukasz Lepak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 2 miesiące",
+      "duration": null,
+      "institution": "IDEAS NCBR SP. Z O.O.",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a431df75-4ed6-4247-92c5-92dff4e14e6a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "EnEnv 1.0: Energy Grid Environment for Multi-Agent Reinforcement Learning Benchmarking",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/publications/357d8b50-1b86-42be-b588-61d0a6ea2a79",
+      "authors": "D. Bogucki, Ł. Lepak , S. Parashar, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Reinforcement Learning Meets Microeconomics: Learning to Designate Price-Dependent Supply and Demand for Automated Trading",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/publications/2c6cfb80-a541-40ce-ae8a-cfa835ccb35d",
+      "authors": "Ł. Lepak , P. Wawrzyński",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70378-2_23",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70378-2_23",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Least Redundant Gated Recurrent Neural Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/publications/7b3b2f94-c43e-40d9-9a24-8a7e7a4afed1",
+      "authors": "Ł. Neumann, Ł. Lepak , P. Wawrzyński",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/ijcnn54540.2023.10191895",
+      "doi_url": "https://www.doi.org/10.1109/ijcnn54540.2023.10191895",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Task automation using artificial intelligence methods",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.lepak.JYxRZgwP4VA/research-work/2cc48782-b6d0-4a16-bce3-0850bca14755",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

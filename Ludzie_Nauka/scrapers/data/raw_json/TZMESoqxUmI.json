@@ -1,0 +1,149 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI",
+  "slug": "mateusz.papis",
+  "profile_id": "TZMESoqxUmI",
+  "full_name": "dr inż. Mateusz Piotr Papis",
+  "orcid": "0000-0003-4565-5169",
+  "orcid_url": "https://orcid.org/0000-0003-4565-5169",
+  "breadcrumb_name": "Mateusz Papis",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria mechaniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "lotnictwo i kosmonautyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Kinematic Prototype of a Compliant Artificial Prosthetic Knee Joint",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/publications/8ef1df16-9027-4531-961c-931a807c5f7a",
+      "authors": "M. Kowalik, A. Figurski, M. Papis , ... (+1)",
+      "publication_type": "Artykuł , Journal of Automation, Mobile Robotics and Intelligent Systems",
+      "year": "2025",
+      "doi": "10.14313/jamris-2025-028",
+      "doi_url": "https://www.doi.org/10.14313/jamris-2025-028",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Influence of 3D printing technology on reproducing cultural objects in the context of visually impaired people",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/publications/0c41a25a-514e-48a9-8124-ef4c377b4ce3",
+      "authors": "M. Papis , M. Kowalik, P. Kalski, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/202248",
+      "doi_url": "https://www.doi.org/10.12913/22998624/202248",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Utilization of topology optimization and generative design for drone frame optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.papis.TZMESoqxUmI/publications/0facc5c9-26e8-441b-bb29-208c69a3e2ad",
+      "authors": "M. Kowalik, M. Papis , M. Śliwiński",
+      "publication_type": "Artykuł , Aircraft Engineering and Aerospace Technology",
+      "year": "2025",
+      "doi": "10.1108/aeat-12-2024-0384",
+      "doi_url": "https://www.doi.org/10.1108/aeat-12-2024-0384",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314123"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

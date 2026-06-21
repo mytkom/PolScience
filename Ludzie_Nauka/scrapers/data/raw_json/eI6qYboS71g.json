@@ -1,0 +1,120 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g",
+  "slug": "marta.gajowiak-domin",
+  "profile_id": "eI6qYboS71g",
+  "full_name": "mgr Marta Gajowiak-Domin",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marta Gajowiak-Domin",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "inżynieria zarządzania",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "inżynieria zarządzania",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Bibliometric Analysis of The Theory of Digitalization of Human Resource Management Processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marta.gajowiak-domin.eI6qYboS71g/publications/1df7a282-52f5-4603-b6d6-baf474d45794",
+      "authors": "M. Gajowiak-Domin , H. Włodarkiewicz-Klimek",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": "10.29119/1641-3466.2025.218.9",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2025.218.9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

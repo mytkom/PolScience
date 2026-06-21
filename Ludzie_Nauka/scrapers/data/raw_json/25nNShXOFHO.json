@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO",
+  "slug": "agnieszka.kalbarczyk-jedynak",
+  "profile_id": "25nNShXOFHO",
+  "full_name": "dr inż. Agnieszka Magdalena Kalbarczyk-Jedynak",
+  "orcid": "0000-0001-7513-4837",
+  "orcid_url": "https://orcid.org/0000-0001-7513-4837",
+  "breadcrumb_name": "Agnieszka Kalbarczyk-Jedynak",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "technologia nieorganiczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Szczecińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Decision making in the process of ensuring safety within seaport area",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/publications/3a1a6a7b-afbb-4183-bffc-57d345c503fa",
+      "authors": "A. Kalbarczyk-Jedynak , M. Kaup, W. Ślączka",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.09.705",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.09.705",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The possibilities of applying artificial intelligence in maritime navigation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/publications/7e9f17d3-7210-49c7-991b-a21dfe97f0f2",
+      "authors": "S. Rudzińska, M. Kaup, A. Kalbarczyk-Jedynak",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.09.701",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.09.701",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessment of Explosion Safety Status within the Area of an LNG Terminal in a Function of Selected Parameters",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/publications/fc92a5ce-3bc1-4e44-9ad9-a78f1d55fef2",
+      "authors": "A. Kalbarczyk-Jedynak , M. Ślączka-Wilk, M. Kaup, ... (+2)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15114057",
+      "doi_url": "https://www.doi.org/10.3390/en15114057",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Termodynamika roztworów elektrolitów: entalpie rozpuszczania siarczanów metali przejściowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.kalbarczyk-jedynak.25nNShXOFHO/research-work/884395b3-6e00-4130-859c-a5742d1b8bee",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=251305"
+    }
+  ],
+  "tag_cloud": [
+    "nox emissions",
+    "problems with teaching physics and chemistry",
+    "modeling",
+    "propanol",
+    "lng",
+    "phast",
+    "open space",
+    "education",
+    "ceramic membranes",
+    "danger zone ranges"
+  ],
+  "coworkers": []
+}

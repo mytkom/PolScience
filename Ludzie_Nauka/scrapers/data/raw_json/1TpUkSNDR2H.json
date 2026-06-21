@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H",
+  "slug": "anna.wróblewska",
+  "profile_id": "1TpUkSNDR2H",
+  "full_name": "dr inż. Anna Wróblewska",
+  "orcid": "0000-0002-3407-7570",
+  "orcid_url": "https://orcid.org/0000-0002-3407-7570",
+  "breadcrumb_name": "Anna Wróblewska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy wspomagania diagnostyki obrazowej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Warszawska Szkoła Wyższa z siedzibą w Otwocku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4a3a07ba-2a94-4bae-87b7-047d94aa4949",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Applications and Challenges of Artificial Intelligence in Educational Course Design and Delivery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/publications/c9f92882-aa66-467d-82dd-288c413fc937",
+      "authors": "D. Dan, A. Wróblewska , B. Grabek, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.15439/2025f8073",
+      "doi_url": "https://www.doi.org/10.15439/2025f8073",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Consumer transactions simulation through generative adversarial networks under stock constraints in large-scale retail",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/publications/810b94f8-c287-41a1-ad7f-909b4dc100f0",
+      "authors": "S. Łukasik, S. Tkachuk [...] A. Wróblewska , ... (+1)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14020284",
+      "doi_url": "https://www.doi.org/10.3390/electronics14020284",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluating LLM-Generated Q&A Test: A Student-Centered Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/publications/95a03f80-42ad-4dc6-9875-b1a8caf51505",
+      "authors": "A. Wróblewska , B. Grabek, J. Świstak, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-98417-4_20",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-98417-4_20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody wspomagania detekcji zmian patologicznych w mammografii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.wr%C3%B3blewska.1TpUkSNDR2H/research-work/688219d9-9e7e-4123-8e6c-1fdc7660e277",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=213731"
+    }
+  ],
+  "tag_cloud": [
+    "wyszukiwanie w modzie",
+    "chatbot",
+    "rozpoznawanie nazw własnych",
+    "information extraction",
+    "natural language processing",
+    "przetwarzanie języka naturalnego",
+    "named entity recognition",
+    "e-commerce",
+    "machine learning",
+    "data modalities"
+  ],
+  "coworkers": []
+}

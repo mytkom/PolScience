@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K",
+  "slug": "paweł.znaczko",
+  "profile_id": "iZsycz5pj5K",
+  "full_name": "dr inż. Paweł Piotr Znaczko",
+  "orcid": "0000-0002-7050-914X",
+  "orcid_url": "https://orcid.org/0000-0002-7050-914X",
+  "breadcrumb_name": "Paweł Znaczko",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechatronika",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of the Heat Transfer Efficiency of Selected Counterflow Air-to-Air Heat Exchangers Under Unbalanced Flow Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/publications/86fff373-bd95-4641-b114-193344014e39",
+      "authors": "E. Kardas-Cinal, K. Kaminski, P. Znaczko , ... (+4)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18010117",
+      "doi_url": "https://www.doi.org/10.3390/en18010117",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental Study of Solar Hot Water Heating System with Adaptive Control Strategy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/publications/f7a65802-e265-41dc-a8ae-f87118aa82fe",
+      "authors": "P. Znaczko , N. Chamier-Gliszczyński, K. Kaminski",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18153904",
+      "doi_url": "https://www.doi.org/10.3390/en18153904",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Use of Infrared Imaging Techniques to Investigate Thermal Losses of Flat Plate Solar Collectors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/publications/590ba68a-612a-44e1-894c-94ed7d131c96",
+      "authors": null,
+      "publication_type": "Artykuł , Rocznik Ochrona Środowiska",
+      "year": "2023",
+      "doi": "10.54740/ros.2023.035",
+      "doi_url": "https://www.doi.org/10.54740/ros.2023.035",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza strategii sterowania w słonecznych systemach grzewczych w aspekcie ich efektywności energetycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.znaczko.iZsycz5pj5K/research-work/c502196c-c477-4117-a265-95a31cdec796",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "solar hot water systems",
+    "control methods",
+    "weather conditions",
+    "on-off control",
+    "solar water heating systems",
+    "weather conditions comparison",
+    "flow control strategy",
+    "solar collector",
+    "solar radiation",
+    "mass flow rate"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu",
+  "slug": "łukasz.drużyński",
+  "profile_id": "Xua56zjBFYu",
+  "full_name": "mgr inż. Łukasz Tomasz Drużyński",
+  "orcid": "0000-0001-7050-6400",
+  "orcid_url": "https://orcid.org/0000-0001-7050-6400",
+  "breadcrumb_name": "Łukasz Drużyński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Frequency-Resolved Measurement of Power losses in Miniature Circuit Breakers (MCBs) under harmonic current",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/publications/b0afb99e-845b-44d9-bbb3-51c4c3e3b6cb",
+      "authors": "Ł. Drużyński , G. Dombek, A. Książkiewicz",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2026",
+      "doi": "10.1016/j.measurement.2026.120994",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2026.120994",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The Impact of Distorted Signals on the Resistance of the Current Path in a Mechanical Connector",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/publications/aece1ec4-301e-43fe-80a0-5a947359a2ca",
+      "authors": "Ł. Drużyński , G. Dombek, K. Dziarski, ... (+1)",
+      "publication_type": "Artykuł , IEEE Transactions on Circuits and Systems I: Regular Papers",
+      "year": "2025",
+      "doi": "10.1109/tcsi.2025.3552953",
+      "doi_url": "https://www.doi.org/10.1109/tcsi.2025.3552953",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Generator sygnału testowego do badania wpływu zawartości wyższych harmonicznych w prądzie łączeniowym na degradację powierzchni elementów stykowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.dru%C5%BCy%C5%84ski.Xua56zjBFYu/publications/c65fbe5d-20fb-46b8-a214-a75be9965f85",
+      "authors": null,
+      "publication_type": "Artykuł , elektro.info",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "harmoniczne prądu",
+    "solidworks",
+    "automatyka budynkowa",
+    "eliminacja łuku",
+    "diode die",
+    "thermal modeling",
+    "udar napięciowy",
+    "rectifying diode",
+    "thermography",
+    "indirect thermographic measurement"
+  ],
+  "coworkers": []
+}

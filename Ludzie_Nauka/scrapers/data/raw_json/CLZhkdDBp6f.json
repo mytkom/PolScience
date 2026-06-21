@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f",
+  "slug": "maria.ganzha",
+  "profile_id": "CLZhkdDBp6f",
+  "full_name": "dr hab. Maria Ganzha",
+  "orcid": "0000-0001-7714-4844",
+  "orcid_url": "https://orcid.org/0000-0001-7714-4844",
+  "breadcrumb_name": "Maria Ganzha",
+  "current_employment_summary": [
+    "Instytut Badań Systemowych Polskiej Akademii Nauk",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologie semantyczne",
+    "ontologie",
+    "sztuczna inteligencja",
+    "systemy rozproszone",
+    "agenty programowe i ich zastosowanie",
+    "programowanie równoległe i rozproszone",
+    "technologie informacyjne w nauczaniu",
+    "bazy danych",
+    "informatyka w administracji",
+    "etyka komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat",
+      "duration": null,
+      "institution": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "6 lat",
+      "duration": null,
+      "institution": "Uniwersytet Gdański",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "6 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Elbląska Uczelnia Humanistyczno-Ekonomiczna w Elblągu Aktualna nazwa: Akademia Medycznych i Społecznych Nauk Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82f46ff0-0103-4224-80d8-25e424f016ef",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Moskiewski Uniwersytet im. M. W. Łomonosowa",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Moscow State University (Lomonosov University) • Rosja"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Państwowy im. M.W. Łomonosowa w Moskwie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Frugal Self-Optimization Mechanisms for Edge–Cloud Continuum",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/publications/cb7dccec-b1e8-4ee7-959b-47adf8531d00",
+      "authors": "Z. Wrona, K. Wasielewska-Michniewska, M. Ganzha , ... (+2)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25216556",
+      "doi_url": "https://www.doi.org/10.3390/s25216556",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Leveraging Network Analysis and NLP for Intelligent Data Mining of Taxonomies and Folksonomies of PornHub",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/publications/09689d4f-8bdf-4adf-8f18-c1fbf4896d2e",
+      "authors": "J. Sawicki, L. Bitsikokos [...] M. Ganzha , ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15179250",
+      "doi_url": "https://www.doi.org/10.3390/app15179250",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Proceedings of the 20th Conference on Computer Science and Intelligence Systems (FedCSIS)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/publications/628623f3-dbae-48e7-a099-8d8ff0b61baa",
+      "authors": "M. Paprzycki, M. Bolanowski, M. Ganzha , ... (+2)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": "10.15439/978-83-973291-6-4",
+      "doi_url": "https://www.doi.org/10.15439/978-83-973291-6-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Agenty programowe jako brokerzy zasobów w gridzie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work/957d342b-3452-4ecf-acc9-c555361a0b24",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Asymptotyczne rozszerzenie rozwiązania pojedynczych zaburzonych problemów mieszanych dla równania falowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work/a2d843a7-6e65-4cd8-85ba-f9fd98bc6506",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work/62880b84-94b9-488d-81c2-4a760ccdae63",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Application of speech datasets management methods for the evaluation of Automatic Speech Recognition systems for Polish",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work/9bf27100-899e-4e4f-a0ba-2b23c5368c6e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Obliczeniowe i strategiczne aspekty współpracy w systemach wieloagentowych (Cykl 12 publikacji powiązanych tematycznie)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.ganzha.CLZhkdDBp6f/research-work/bcbee7fe-fb2c-4514-adfd-e0ba774e0088",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=132921"
+    }
+  ],
+  "tag_cloud": [
+    "ontology",
+    "smart city",
+    "internet rzeczy",
+    "software agents",
+    "internet of things",
+    "machine learning",
+    "anomaly detection",
+    "internet rzeczy (iot)",
+    "iot",
+    "semantic interoperability"
+  ],
+  "coworkers": []
+}

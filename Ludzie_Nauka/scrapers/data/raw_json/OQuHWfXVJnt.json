@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt",
+  "slug": "konrad.nering",
+  "profile_id": "OQuHWfXVJnt",
+  "full_name": "dr inż. Konrad Tadeusz Nering",
+  "orcid": "0000-0003-4168-5707",
+  "orcid_url": "https://orcid.org/0000-0003-4168-5707",
+  "breadcrumb_name": "Konrad Nering",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informatyka w gospodarce wodnej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2117fb6c-9459-4f60-b3cd-9a7dac38eaf6"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria środowiska",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Alternative method for determination of vibroacoustic material parameters for building applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/publications/5ee59498-601f-46d2-aad9-00ce69642d37",
+      "authors": "K. Nering, K. Nering",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17123042",
+      "doi_url": "https://www.doi.org/10.3390/ma17123042",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of CFD airflows to aid in the diagnosis of nasal obstructions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/publications/c2eb1547-73fc-4776-909d-a1aa1a66411f",
+      "authors": "Z. Malecha, B. Kopiczak, K. Nering , ... (+8)",
+      "publication_type": "Artykuł , Journal of Physics: Conference Series",
+      "year": "2024",
+      "doi": "10.1088/1742-6596/2899/1/012010",
+      "doi_url": "https://www.doi.org/10.1088/1742-6596/2899/1/012010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluating the impact of sample irregularities on the dynamic stiffness of polyurethane: insights from experimental and FEM analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/publications/778ca26e-7e36-48dd-abc4-0cfdc196026b",
+      "authors": "K. Nering, A. Kwiecień, K. Nering",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17235910",
+      "doi_url": "https://www.doi.org/10.3390/ma17235910",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Mobilny system informacji hydrologicznej on-line z wykorzystaniem zmodyfikowanego modelu CASC2D i architektury klient-serwer",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.nering.OQuHWfXVJnt/research-work/d879677b-0804-4c86-81b4-d92c80e59a85",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=222288"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

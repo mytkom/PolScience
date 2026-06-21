@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR",
+  "slug": "piotr.kicki",
+  "profile_id": "aPoOgOSUjBR",
+  "full_name": "dr inż. Piotr Kicki",
+  "orcid": "0000-0003-0097-6612",
+  "orcid_url": "https://orcid.org/0000-0003-0097-6612",
+  "breadcrumb_name": "Piotr Kicki",
+  "current_employment_summary": [
+    "Instytut Badawczy IDEAS",
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Instytut Badawczy IDEAS",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 5 miesięcy",
+      "duration": null,
+      "institution": "IDEAS NCBR SP. Z O.O.",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a431df75-4ed6-4247-92c5-92dff4e14e6a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika, elektrotechnika i technologie kosmiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatic control and robotics",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Instytut Badawczy IDEAS >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/09b2728a-ea5c-4abc-8b53-c7807d72784d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Motion Planning Diffusion: Learning and Adapting Robot Motion Planning With Diffusion Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/publications/c7574766-0959-40ff-a9c2-7e45304d2ab5",
+      "authors": "J. Carvalho, A. Le, P. Kicki , ... (+2)",
+      "publication_type": "Artykuł , IEEE Transactions on Robotics",
+      "year": "2025",
+      "doi": "10.1109/tro.2025.3593109;10.48550/arxiv.2412.19948",
+      "doi_url": "https://www.doi.org/10.1109/tro.2025.3593109;10.48550/arxiv.2412.19948",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/publications/0ba51cc5-d829-40a8-b03a-72c04bf7e9a6",
+      "authors": "J. Carvalho, A. Le, P. Kicki , ... (+2)",
+      "publication_type": "Artykuł , IEEE Transactions on Robotics",
+      "year": "2025",
+      "doi": "10.1109/tro.2025.3593109",
+      "doi_url": "https://www.doi.org/10.1109/tro.2025.3593109",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Calibrationless Bimanual Deformable Linear Object Manipulation with Recursive Least Squares Filter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/publications/4cc7e602-55aa-4303-9cf2-45ebe02b4d06",
+      "authors": "A. Szymko, P. Kicki , K. Walas",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2024",
+      "doi": "10.1109/access.2024.3438624",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3438624",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Deep reinforcement learning for motion planning in man-made environments",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/research-work/677183b4-d495-4665-89e2-12c30621e8a2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Deep reinforcement learning for motion planning in man-made environments",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kicki.aPoOgOSUjBR/research-work/7b552544-7e00-4522-9ab9-21130f150da1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "multi-modal fusion",
+    "robotics",
+    "extended state observer",
+    "control performance assessment",
+    "deformable linear objects",
+    "eso",
+    "tuning",
+    "neural networks",
+    "machine learning",
+    "shape control"
+  ],
+  "coworkers": []
+}

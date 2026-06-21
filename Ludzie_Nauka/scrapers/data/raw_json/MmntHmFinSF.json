@@ -1,0 +1,209 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF",
+  "slug": "dariusz.ulbrich",
+  "profile_id": "MmntHmFinSF",
+  "full_name": "dr hab. inż. Dariusz Piotr Ulbrich",
+  "orcid": "0000-0002-4154-1167",
+  "orcid_url": "https://orcid.org/0000-0002-4154-1167",
+  "breadcrumb_name": "Dariusz Ulbrich",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "badania nieniszczące",
+    "diagnostyka",
+    "obsługa i naprawa pojazdów samochodowych",
+    "eksploatacja maszyn roboczych i pojazdów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa, geodezja i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Inżynierii Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe698f8e-adcd-44bf-b9a0-77b06ccc5e91"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of Laser Cutting Parameters on the Microhardness, Roughness, and Microstructure of AISI 304, S355J2, and AlMg3 Alloys",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/publications/c82c9ae8-4c70-4272-9e5c-85c4c5040ab3",
+      "authors": "J. Selech, G. Burzyński [...] D. Ulbrich , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2026",
+      "doi": "10.3390/ma19020240",
+      "doi_url": "https://www.doi.org/10.3390/ma19020240",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Ecological Paradox in the Reuse of Internal Combustion Engines from Scrapped Vehicles for Electric Power Generation—Circular Economy Potential Versus Emission Certification Barriers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/publications/ec372d3d-dfb2-48ab-9a29-5a04ed65a214",
+      "authors": "Ł. Warguła, A. Kadirov [...] D. Ulbrich , ... (+4)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su172310435",
+      "doi_url": "https://www.doi.org/10.3390/su172310435",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of braze welded joints using the ultrasonic method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/publications/a7dd9c21-98f2-4882-a8bf-6de001950cd4",
+      "authors": "D. Ulbrich , J. Jezierski, M. Jósko, ... (+1)",
+      "publication_type": "Artykuł , Open Engineering",
+      "year": "2025",
+      "doi": "10.1515/eng-2025-0114",
+      "doi_url": "https://www.doi.org/10.1515/eng-2025-0114",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Technologia napraw karoserii środków transportu drogowego – doskonalenie procesu i metod oceny jej jakości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/research-work/b83f5184-a385-40ad-93ce-edd3f6e9d360",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania właściwości użytkowych wybranych węzłów pojazdów samochodowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/research-work/0783ba24-f581-440c-8d04-aa74349c519d",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie połączenia adhezyjnego powłoki z podłożem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.ulbrich.MmntHmFinSF/research-work/7f0128b0-4933-4aaa-b448-56d251d62616",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=239119"
+    }
+  ],
+  "tag_cloud": [
+    "microstructure",
+    "abrasive wear",
+    "adhesion",
+    "additive manufacturing",
+    "tribocorrosion",
+    "ultrasound",
+    "wear",
+    "friction",
+    "corrosion",
+    "structural health monitoring"
+  ],
+  "coworkers": []
+}

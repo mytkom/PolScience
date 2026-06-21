@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC",
+  "slug": "łukasz.błaszczyk",
+  "profile_id": "fOb0D0c9wRC",
+  "full_name": "dr inż. Łukasz Błaszczyk",
+  "orcid": "0000-0002-9827-3562",
+  "orcid_url": "https://orcid.org/0000-0002-9827-3562",
+  "breadcrumb_name": "Łukasz Błaszczyk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria biomedyczna",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Simulating Large-Scale Topographic Terrain Features with Reservoirs and Flowing Water",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/publications/7e3af9a6-8d77-4fb2-9483-85ff62ce1e1c",
+      "authors": "Ł. Błaszczyk , A. Plocharski, J. Porter-Sobieraj, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f2137",
+      "doi_url": "https://www.doi.org/10.15439/2023f2137",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the Octonion Cross Wigner Distribution of 3-D Signals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/publications/e0bec562-1151-424b-9d33-f5f929325da3",
+      "authors": "Ł. Błaszczyk , K. Snopek",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2022",
+      "doi": "10.3390/app12115358",
+      "doi_url": "https://www.doi.org/10.3390/app12115358",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A generalization of the octonion Fourier transform to 3-D octonion-valued signals: properties and possible applications to 3-D LTI partial differential systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/publications/71d20258-4170-4e34-8c94-ba43c974ab9a",
+      "authors": null,
+      "publication_type": "Artykuł , Multidimensional Systems and Signal Processing",
+      "year": "2020",
+      "doi": "10.1007/s11045-020-00706-3",
+      "doi_url": "https://www.doi.org/10.1007/s11045-020-00706-3",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algebry Cayleya-Dicksona w analizie sygnałów z elementami teorii oszczędnego próbkowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.b%C5%82aszczyk.fOb0D0c9wRC/research-work/23788178-7a1a-48a6-94e5-7542b94dc177",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=KQKkYMQAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/%C5%82ukasz-b%C5%82aszczyk-658927107/"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Lukasz-Blaszczyk"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=56007862100"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/U-7116-2018"
+    }
+  ],
+  "tag_cloud": [
+    "quaternion",
+    "własność ograniczonej izometrii",
+    "compressed sensing",
+    "kwaterniony",
+    "oktonionowa transformacja fouriera",
+    "octonion fourier transform",
+    "oszczędne próbkowanie",
+    "restricted isometry property",
+    "oktoniony",
+    "algebry hiperzespolone"
+  ],
+  "coworkers": []
+}

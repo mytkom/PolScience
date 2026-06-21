@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg",
+  "slug": "andrzej.łubowski",
+  "profile_id": "sGfkMYGZkOg",
+  "full_name": "prof. dr hab. Andrzej Łubowski",
+  "orcid": "0000-0002-8040-6830",
+  "orcid_url": "https://orcid.org/0000-0002-8040-6830",
+  "breadcrumb_name": "Andrzej Łubowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina sztuki"
+  ],
+  "specializations": [
+    "malarstwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Artystyczna w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7dc0f0f4-e96f-4ed2-8a56-5487bf03add4",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Umiejętności Społecznych w Poznaniu Aktualna nazwa: Wyższa Szkoła Umiejętności Społecznych im. prof. Michała Iwaszkiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5a73a57e-4f35-48f6-b473-e750b9ed2816",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Profesor sztuki",
+      "details_json": [
+        "sztuki plastyczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "sztuki plastyczne / malarstwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c50bd2eb-f024-47a4-abb2-5f5ba6de7627"
+        },
+        {
+          "label": "Wyższa Szkoła Artystyczna w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7dc0f0f4-e96f-4ed2-8a56-5487bf03add4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "sztuki plastyczne / malarstwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c50bd2eb-f024-47a4-abb2-5f5ba6de7627"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "sztuki plastyczne / malarstwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c50bd2eb-f024-47a4-abb2-5f5ba6de7627"
+        },
+        {
+          "label": "Wyższa Szkoła Artystyczna w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7dc0f0f4-e96f-4ed2-8a56-5487bf03add4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1971",
+      "degree_or_title": "Magister sztuki",
+      "details_json": [
+        "malarstwo",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Sztuk Pięknych w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ae7be1ba-27cb-4376-96c5-e98a2c040730"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The relationality of art and space on the example of sculptural objects located on Aleje Marcinkowskiego in Poznań",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/publications/f8da44d8-9c00-42b4-a2b1-91be73e27a24",
+      "authors": "P. Kowalczyk, A. Łubowski , R. Łubowski",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Poznańskiej. Architektura, Urbanistyka, Architektura Wnętrz",
+      "year": "2024",
+      "doi": "10.21008/j.2658-2619.2024.20.3",
+      "doi_url": "https://www.doi.org/10.21008/j.2658-2619.2024.20.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Kognitywne aspekty procesu twórczego w rysunku architektonicznym",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/publications/eaf2de23-3312-4912-b833-106477752467",
+      "authors": "P. Kowalczyk, A. Łubowski , J. Stefańska",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Poznańskiej. Architektura, Urbanistyka, Architektura Wnętrz",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Park Cytadela w Poznaniu i Ptasi Park w Mosinie jako miejsca prezentacji sztuki",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/publications/1b402afa-1d5f-4b95-8c87-53edc95dc023",
+      "authors": null,
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Poznańskiej. Architektura, Urbanistyka, Architektura Wnętrz",
+      "year": "2023",
+      "doi": "10.21008/j.2658-2619.2023.13.9",
+      "doi_url": "https://www.doi.org/10.21008/j.2658-2619.2023.13.9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/research-work/0b941b97-08cd-4a19-911d-bf73a3aa1527",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Natura•Kultura - cykl prac prezentowanych na wystawach indywidualnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/research-work/460ace8c-caf9-408e-b550-62d53869a98e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Atlas jako zbiór i podróż",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/research-work/e34adc59-083f-4ed5-934a-536c1d3d2a20",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Satzspiegel. Symboliczna przestrzeń książki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.%C5%82ubowski.sGfkMYGZkOg/research-work/0aaa0302-7953-4998-909d-ce2f1c2b0153",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=212978"
+    }
+  ],
+  "tag_cloud": [
+    "rysunek",
+    "stan zachowania",
+    "engagement",
+    "architektura",
+    "park",
+    "malarstwo",
+    "war responsibility voluntary trials emperor shōwa higashikuni naruhiko shidehara kijūrō yoshida shigeru",
+    "zasiłek chorobowy",
+    "wages in sport",
+    "художественная литература"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m",
+  "slug": "konrad.kolesko",
+  "profile_id": "UTdZafblu9m",
+  "full_name": "dr Konrad Kolesko",
+  "orcid": "0000-0002-4062-1210",
+  "orcid_url": "https://orcid.org/0000-0002-4062-1210",
+  "breadcrumb_name": "Konrad Kolesko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria prawdopodobieństwa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat",
+      "duration": null,
+      "institution": "Uniwersytet Wrocławski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Uniwersytet Wrocławski; Instytut Matematyczny",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka teoretyczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Gaussian fluctuations for the two-urn model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/publications/a027f801-75bb-4568-b05a-da5fdc427b5e",
+      "authors": "K. Kolesko , E. Sava-Huss",
+      "publication_type": "Artykuł , Advances in Applied Probability",
+      "year": "2025",
+      "doi": "10.1017/apr.2024.37",
+      "doi_url": "https://www.doi.org/10.1017/apr.2024.37",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Asymptotic fluctuations in supercritical Crump-Mode-Jagers processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/publications/1801d873-fab4-4f86-b433-4112f8e2aa38",
+      "authors": "K. Kolesko , A. Iksanov, M. Meiners",
+      "publication_type": "Artykuł , Annals of Probability",
+      "year": "2024",
+      "doi": "10.1214/24-aop1697",
+      "doi_url": "https://www.doi.org/10.1214/24-aop1697",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Limit theorems for discrete multitype branching processes counted with a characteristic",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/publications/c185fc06-529a-44e0-bb06-ccba6061f599",
+      "authors": "K. Kolesko , E. Sava-Huss",
+      "publication_type": "Artykuł , Stochastic Processes and their Applications",
+      "year": "2023",
+      "doi": "10.1016/j.spa.2023.04.009;10.48550/arxiv.2112.01862",
+      "doi_url": "https://www.doi.org/10.1016/j.spa.2023.04.009;10.48550/arxiv.2112.01862",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zachowanie asymptotyczne miar niezmienniczych rekursji stochastycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/research-work/a957975c-cbc8-4ce1-b3c9-6c428c5c7506",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Asymptotyczne własności modeli bazujących na transformacie gładzącej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.kolesko.UTdZafblu9m/research-work/d883f03a-05b5-41c1-a735-d05912d6a374",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248342"
+    }
+  ],
+  "tag_cloud": [
+    "rate of convergence",
+    "point processes",
+    "minimal position",
+    "martingale",
+    "branching random walk",
+    "complex martingales",
+    "branching processes in random environment",
+    "stable processes",
+    "kesten-stigum",
+    "derivative martingale"
+  ],
+  "coworkers": []
+}

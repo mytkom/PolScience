@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S",
+  "slug": "michał.walkowski",
+  "profile_id": "As5T6Zfuy7S",
+  "full_name": "dr inż. Michał Walkowski",
+  "orcid": "0000-0003-4887-6098",
+  "orcid_url": "https://orcid.org/0000-0003-4887-6098",
+  "breadcrumb_name": "Michał Walkowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyberbezpieczeństwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "finanse i rachunkowość",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5d6c2944-921b-45cb-afa3-d2518eeabac7"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automatic CVSS-based vulnerability prioritization and response with context information and machine learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/publications/ec1fbd32-13aa-4354-9db0-d4e6c9881cc7",
+      "authors": "M. Walkowski , S. Sujecki, A. Balsam, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15168787",
+      "doi_url": "https://www.doi.org/10.3390/app15168787",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated calculation of CVSS v3.1 temporal score based on apache Log4j 2021 vulnerabilities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/publications/b65bbf82-58f8-4e2c-b355-6d0e32fca871",
+      "authors": "A. Balsam, M. Walkowski , M. Nowak, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.23919/softcom58365.2023.10271671",
+      "doi_url": "https://www.doi.org/10.23919/softcom58365.2023.10271671",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparative analysis of open-source tools for conducting static code analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/publications/ff6494cd-c21f-4ffb-b6b9-b37b813113f4",
+      "authors": "K. Kuszczyński, M. Walkowski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23187978",
+      "doi_url": "https://www.doi.org/10.3390/s23187978",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozproszony algorytm analizy cyberbezpieczeństwa w sieci korporacyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.walkowski.As5T6Zfuy7S/research-work/4f7ababf-92f3-404c-a636-fcba3c84e508",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=u7cnSpMAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michal-walkowski/"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

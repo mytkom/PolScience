@@ -1,0 +1,232 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc",
+  "slug": "rafał.krenz",
+  "profile_id": "dupIwDeyWuc",
+  "full_name": "dr hab. inż. Rafał Jan Krenz",
+  "orcid": "0000-0001-5354-9812",
+  "orcid_url": "https://orcid.org/0000-0001-5354-9812",
+  "breadcrumb_name": "Rafał Krenz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy telekomunikacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metody detekcji oraz rozpoznawania sygnałów dronów",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/publications/cd01fdfc-4a50-4415-b6ed-d19f78d8464e",
+      "authors": "W. Flakowski, M. Krasicki, R. Krenz",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2024",
+      "doi": "10.15199/59.2024.4.25",
+      "doi_url": "https://www.doi.org/10.15199/59.2024.4.25",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Naziemna stacja do komunikacji satelitarnej w pasmach VHF/UHF/S/X/C",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/publications/f12cd99b-2e05-4ff2-b681-e56a6bad7c98",
+      "authors": "M. Sybis, W. Flakowski [...] R. Krenz , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2024",
+      "doi": "10.15199/59.2024.4.86",
+      "doi_url": "https://www.doi.org/10.15199/59.2024.4.86",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimizing Satellite Link Throughput Using Machine Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/publications/f148774c-a76b-439f-94f0-7cddc3af208d",
+      "authors": "I. Zainutdinov, R. Krenz",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2024",
+      "doi": "10.15199/59.2024.4.26",
+      "doi_url": "https://www.doi.org/10.15199/59.2024.4.26",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work/85b6a07b-4825-41fe-bd79-7f22748d70bc",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Efektywne algorytmy odbioru sygnałów i estymacji parametrów kanału w cyfrowych systemach radiokomunikacji ruchomej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work/3469cfb3-8810-4b8a-9b56-edfd7f91bbec",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Applying Game Theory to Optimize Throughput in Radio Access Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work/b4c26aaa-2262-4838-8df8-445c2d163963",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie i analiza efektywności alokacji strumieni danych w heterogenicznej sieci WBAN",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work/d957b28e-d270-497d-b358-5b47cae8b353",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie i analiza dokładności estymacji położenia obiektów ruchomych w hybrydowym systemie lokalizacyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.krenz.dupIwDeyWuc/research-work/8d0f73a9-265f-481b-b675-f0b9889c4f2c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=28225"
+    }
+  ],
+  "tag_cloud": [
+    "radio link throughput measurements",
+    "unmanned aerial vehicle",
+    "radio definiowane programowo",
+    "mimo",
+    "cubesat",
+    "software defined radio",
+    "ofdm",
+    "uczenie maszynowe",
+    "bezzałogowe statki powietrzne",
+    "stacja naziemna"
+  ],
+  "coworkers": []
+}

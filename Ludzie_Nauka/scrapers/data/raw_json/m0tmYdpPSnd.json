@@ -1,0 +1,269 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd",
+  "slug": "jacek.kukulski",
+  "profile_id": "m0tmYdpPSnd",
+  "full_name": "dr hab. inż. Jacek Kukulski",
+  "orcid": "0000-0002-9449-7614",
+  "orcid_url": "https://orcid.org/0000-0002-9449-7614",
+  "breadcrumb_name": "Jacek Kukulski",
+  "current_employment_summary": [
+    "Instytut Kolejnictwa",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "drogi kolejowe",
+    "diagnostyka",
+    "infrastruktura transportu"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "26 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Instytut Kolejnictwa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18314b31-a926-409d-ba21-47bfbf345cf4",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d20019dd-29e1-4d01-95b4-17ce35d6e028"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Kolejnictwa >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18314b31-a926-409d-ba21-47bfbf345cf4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Inżynierii Lądowej i Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4500f023-583d-4425-95d0-7a5c38933cbc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Kolejnictwa >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18314b31-a926-409d-ba21-47bfbf345cf4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/gremiums/d6b89419-8a2f-4594-9e23-1002ab454119",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Lądowa i Transport 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Lądowa i Transport Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fe-modeling of temperature evolutions of the brake disc measured using thermocouples",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/publications/9f63b511-f498-47da-a564-3795e7096b63",
+      "authors": "J. Kukulski , P. Grześ, M. Kuciej",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.119438",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.119438",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Procedure for conducting inspection thermographic tests of electrical heating devices for railway turnouts",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/publications/cba2f6fa-6116-477f-9502-423b9905dd57",
+      "authors": "J. Kukulski , K. Stypułkowski, P. Tomczuk, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152111671",
+      "doi_url": "https://www.doi.org/10.3390/app152111671",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Przegląd badań i wyzwań w zakresie taboru kolejowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/publications/2778d68d-dcff-4838-b2cf-36db912d4a08",
+      "authors": "K. Bracha, A. Chojnacki [...] J. Kukulski , ... (+11)",
+      "publication_type": "Artykuł , Problemy Kolejnictwa",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i badania elementów taboru i infrastruktury kolejowej w aspekcie bezpieczeństwa i eksploatacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/research-work/416468e7-9875-4c20-9ea1-0394ac3b36e1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Diagnozowanie stanu naprężeń własnych w elementach rozjazdów kolejowych metodą ultradźwiękową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/research-work/b6780f84-486c-4261-8937-40da8c185fae",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza celowości zastosowania recyklingu materiałów stosowanych dla nowoopracowanych polimerowych podkładów kolejowych w oparciu o LCC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/research-work/f1ca8a5d-977d-4b51-81e0-16537d95da9b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Bezpieczne prowadzenie pociągu metra",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.kukulski.m0tmYdpPSnd/research-work/5119bec8-70cb-4329-88cc-2ef9b4ead4fe",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=131495"
+    }
+  ],
+  "tag_cloud": [
+    "horte",
+    "dispensable point",
+    "художественная литература",
+    "zasiłek chorobowy",
+    "war responsibility voluntary trials emperor shōwa higashikuni naruhiko shidehara kijūrō yoshida shigeru",
+    "engagement",
+    "wages in sport",
+    "тепломассообменные аппараты",
+    "miary splątania",
+    "public square"
+  ],
+  "coworkers": []
+}

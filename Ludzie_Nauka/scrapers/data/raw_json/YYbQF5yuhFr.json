@@ -1,0 +1,172 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr",
+  "slug": "marek.kraft",
+  "profile_id": "YYbQF5yuhFr",
+  "full_name": "dr inż. Marek Kraft",
+  "orcid": "0000-0001-6483-2357",
+  "orcid_url": "https://orcid.org/0000-0001-6483-2357",
+  "breadcrumb_name": "Marek Kraft",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On-Device Continual Adaptation for Reliable Solar Irradiance Forecasting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/publications/e833f9d4-5855-4a06-8b65-813ece4a8f5a",
+      "authors": "M. Piechocki, M. Kraft , A. Capotondi",
+      "publication_type": "Artykuł",
+      "year": "2026",
+      "doi": "10.1007/978-3-032-07343-3_28",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-07343-3_28",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Pointy – A Lightweight Transformer for Point Cloud Foundation Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/publications/d55da5b6-7ffc-4cc9-b312-b305f83ba23d",
+      "authors": "K. Szafer, M. Kraft , D. Belter",
+      "publication_type": "Artykuł",
+      "year": "2026",
+      "doi": "10.1007/978-3-032-07343-3_27",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-07343-3_27",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Improving consistency of marine mammals tracking in challenging drone recordings through visual particle filter integration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/publications/5f8ea52f-e6fb-4fc6-8802-433dfdf0e135",
+      "authors": "B. Ptak, H. Midtiby [...] M. Kraft , ... (+1)",
+      "publication_type": "Artykuł , Neurocomputing",
+      "year": "2025",
+      "doi": "10.1016/j.neucom.2025.130503",
+      "doi_url": "https://www.doi.org/10.1016/j.neucom.2025.130503",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie koncepcji i realizacja układu wieloprocesowego w technice FPGA, wyznaczającego trajektorię robota mobilnego na podstawie strumienia wizyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kraft.YYbQF5yuhFr/research-work/8a9a608a-6a87-4599-aa52-fae5d89246f6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260264"
+    }
+  ],
+  "tag_cloud": [
+    "fault diagnosis",
+    "ros",
+    "segmentation",
+    "object detection",
+    "deep learning",
+    "remote sensing",
+    "thermal imaging",
+    "computer vision",
+    "uav",
+    "crowd counting"
+  ],
+  "coworkers": []
+}

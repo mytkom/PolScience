@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj",
+  "slug": "paweł.baj",
+  "profile_id": "QNVlO3etTbj",
+  "full_name": "dr inż. Paweł Baj",
+  "orcid": "0000-0002-7480-7750",
+  "orcid_url": "https://orcid.org/0000-0002-7480-7750",
+  "breadcrumb_name": "Paweł Baj",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria mechaniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Lotnictwa Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Lotnictwa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/51edc81e-fdc2-4fa8-8dee-6e2b9177c1af",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia",
+        "Imperial College of Science, Technology and Medicine (Imperial College London) • Wielka Brytania",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "lotnictwo i kosmonautyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "wydział mechaniczny energetyki i lotnictwa",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Instytut Lotnictwa >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/51edc81e-fdc2-4fa8-8dee-6e2b9177c1af"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Measurements of turbulent decay in a von Kármán flow at high Reynolds numbers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/publications/2f51df26-3cda-4c56-b840-57149cceb54d",
+      "authors": "P. Baj , F. Aligolzadeh, J. Dawson, ... (+1)",
+      "publication_type": "Artykuł , Journal of Fluid Mechanics",
+      "year": "2025",
+      "doi": "10.1017/jfm.2025.10210",
+      "doi_url": "https://www.doi.org/10.1017/jfm.2025.10210",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wild cucumber invasiveness: Impact of seasonal changes on biometric seed traits and dispersal strategy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/publications/1b4dcfd6-8cdc-4ae9-bc5e-dec2bfa3e9e8",
+      "authors": "P. Baj , J. Jaroszewicz, A. Dołkin-Lewko, ... (+2)",
+      "publication_type": "Artykuł , Journal of Experimental Botany",
+      "year": "2025",
+      "doi": "10.1093/jxb/eraf526",
+      "doi_url": "https://www.doi.org/10.1093/jxb/eraf526",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The topology-conditioned turbulence kinetic energy budget",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.baj.QNVlO3etTbj/publications/434047ff-9d43-44e6-a9c2-916310e6d52c",
+      "authors": null,
+      "publication_type": "Artykuł , Physics of Fluids",
+      "year": "2024",
+      "doi": "10.1063/5.0224167",
+      "doi_url": "https://www.doi.org/10.1063/5.0224167",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314121"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

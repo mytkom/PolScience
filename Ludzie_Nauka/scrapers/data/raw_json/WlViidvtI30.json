@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30",
+  "slug": "wiktor.treichel",
+  "profile_id": "WlViidvtI30",
+  "full_name": "dr Wiktor Treichel",
+  "orcid": "0000-0001-7061-1243",
+  "orcid_url": "https://orcid.org/0000-0001-7061-1243",
+  "breadcrumb_name": "Wiktor Treichel",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optymalizacja i modelowanie systemów wód podziemnych",
+    "systemy wspomagania decyzji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Politechnika Krakowska im. Tadeusza Kościuszki, Wydział Inżynierii Sanitarnej i Wodnej"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Python R i Excel Wprowadzenie do programowania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/publications/8fbd79ed-2bb7-4ac2-9adc-999f39c1dc65",
+      "authors": "W. Treichel , W. Sikorski, K. Przeździecki, ... (+2)",
+      "publication_type": "Książka , WITKOM ( SalmaPress)",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "MATLAB w działaniu. Ćwiczenia i zadania",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/publications/9351d145-cd6d-4a58-acf1-1a9eda8c937b",
+      "authors": null,
+      "publication_type": "Książka , WITKOM",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Monitoring of Groundwater Quality With Cokriging of Geochemical and Geoelectrical Measurements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/publications/a381099f-536a-48b8-9de1-f392d4af5553",
+      "authors": "P. Fabijańczyk, J. Zawadzki, W. Treichel",
+      "publication_type": "Artykuł , Multidisciplinary Aspects of Production Engineering",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka wielokryterialnego wspomagania decyzji w programowaniu wodociągów wiejskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wiktor.treichel.WlViidvtI30/research-work/037c9af8-7f09-46da-be77-81e9009a6f98",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=30004"
+    }
+  ],
+  "tag_cloud": [
+    "hydro-economic balance of groundwater",
+    "groundwater",
+    "formacje łupkowe",
+    "river basin",
+    "modeling of dynamic systems",
+    "szczelinowanie hydrauliczne",
+    "zlewnia",
+    "modelowanie systemów dynamicznych",
+    "matlab course",
+    "węglowodory"
+  ],
+  "coworkers": []
+}

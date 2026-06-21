@@ -1,0 +1,264 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu",
+  "slug": "janusz.sosnowski",
+  "profile_id": "XI7wh7v0Zwu",
+  "full_name": "prof. dr hab. Janusz Czesław Sosnowski",
+  "orcid": "0000-0001-6640-1585",
+  "orcid_url": "https://orcid.org/0000-0001-6640-1585",
+  "breadcrumb_name": "Janusz Sosnowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "architektura komputerów",
+    "diagnostyka oraz tolerowanie błędów w systemach cyfrowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "16 lat",
+      "duration": null,
+      "institution": "Szkoła Wyższa im. Pawła Włodkowica w Płocku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/77de6eec-1f71-4363-bea7-e4287d49e1da",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Wyższa im. Pawła Włodkowica w Płocku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/77de6eec-1f71-4363-bea7-e4287d49e1da"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "-2011",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Janusz Sosnowski"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/gremiums/285871f1-0adf-46de-baf1-2cb275d4b76f",
+      "period": "2007-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adaptive and Contract Aware Configuration for Industrial Wireless Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/publications/de75e7a6-fbc3-4e47-9b6f-e6be9694e817",
+      "authors": "J. Sosnowski , A. Kozłowski",
+      "publication_type": "Artykuł , Ad Hoc Networks",
+      "year": "2024",
+      "doi": "10.1016/j.adhoc.2023.103372",
+      "doi_url": "https://www.doi.org/10.1016/j.adhoc.2023.103372",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Graph-Driven Exploration of Issue Handling Schemes in Software Projects",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/publications/e9165e0f-0246-4988-9143-ea9a97028f84",
+      "authors": "B. Dobrzyński, J. Sosnowski",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14114723",
+      "doi_url": "https://www.doi.org/10.3390/app14114723",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhancing Software Project Monitoring with Multidimensional Data Repository Mining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/publications/d6db5225-3de1-49cc-8db4-337a9be1a1ca",
+      "authors": "Ł. Reszka, J. Sosnowski , B. Dobrzyński",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/electronics12183774",
+      "doi_url": "https://www.doi.org/10.3390/electronics12183774",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza oraz metody tolerowania błędów przemijających w systemach cyfrowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/86128dee-ac48-47dc-a017-c4b305084e93",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Automatyzacja projektowania systemów informatycznych w środowisku BPM z zastosowaniem modelu FBS UML",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/3ce50279-8106-41c7-9719-febfeea9688a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wielowymiarowa analiza logów zdarzeniowych i wydajnościowych w systemach komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/1487d293-c222-427e-931a-6f8969a9fb66",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metody analizy systemów informatycznych oparte o logi debugger’ów historycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/e97689ff-3cee-4316-bcf2-43d13778188b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Logical security model for auditable blockchain-based electronic voting system.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/e85af051-9e7f-41f9-ad89-6cab484a9faf",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie wieloprzebiegowych testów krokowych w procesie detekcji złożonych uszkodzeń pamięci RAM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/fdc839e0-3c7b-4644-b9cd-39eec2b5fef8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Programowa symulacja błędów jako alternatywa dla mutacyjnej oceny jakości testów systemów zorientowanych na usługi sieciowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/janusz.sosnowski.XI7wh7v0Zwu/research-work/a85fb15c-1181-4f07-a8a6-86803e79c0af",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59757"
+    }
+  ],
+  "tag_cloud": [
+    "testing framework",
+    "software reliability",
+    "digital circuit",
+    "time series analysis",
+    "embedded systems",
+    "software repositories",
+    "wireless sensor networks",
+    "signal processing",
+    "mining software repositories",
+    "software defect repository"
+  ],
+  "coworkers": []
+}

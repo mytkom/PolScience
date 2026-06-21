@@ -1,0 +1,290 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C",
+  "slug": "mateusz.gyurkovich",
+  "profile_id": "ZcrHxoPpc9C",
+  "full_name": "prof. dr hab. inż. arch. Mateusz Gedymin Gyurkovich",
+  "orcid": "0000-0002-6685-5234",
+  "orcid_url": "https://orcid.org/0000-0002-6685-5234",
+  "breadcrumb_name": "Mateusz Gyurkovich",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teoria i projektowanie architektoniczno-urbanistyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4eeedf72-d592-4ac4-877d-365bcdf4ff8b"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Urbanistyki i Architektury",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/gremiums/c22c4200-de8b-4664-b4e2-5107056d9597",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Architektura i Urbanistyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/gremiums/d80473bf-1e33-4c71-8be8-c03983e127be",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komitet Architektury i Urbanistyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/gremiums/d6af2529-0f67-4ce1-8ad9-808b548bb813",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The heritage of Polish zoological gardens – architectural and artistic monuments and their contemporary presentation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/publications/d60d7409-7e7b-4ad9-8c34-6699746efd78",
+      "authors": "M. Gyurkovich , A. Bonenberg, Ł. Netczuk, ... (+3)",
+      "publication_type": "Artykuł , International Journal of Conservation Science",
+      "year": "2025",
+      "doi": "10.36868/ijcs.2025.01.07",
+      "doi_url": "https://www.doi.org/10.36868/ijcs.2025.01.07",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Adaptation of the architectural and infrastructural post-industrial heritage of underground mines for museum functions in southern Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/publications/3e9e1801-5dc5-4489-a6af-47d2dbfbe654",
+      "authors": "M. Gyurkovich , B. Uherek-Bradecka, T. Bradecki, ... (+2)",
+      "publication_type": "Artykuł , Muzeologia a Kulturne Dedicstvo",
+      "year": "2024",
+      "doi": "10.46284/mkd.2024.12.2.3",
+      "doi_url": "https://www.doi.org/10.46284/mkd.2024.12.2.3",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Evolution of Styles in Professor Witold Cęckiewicz’s Religious Architecture",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/publications/b82ac2fc-2668-4d70-a27b-87a06fe6492a",
+      "authors": "M. Gyurkovich , J. Gyurkovich, W. Oktawiec",
+      "publication_type": "Artykuł , Teka Komisji Urbanistyki i Architektury",
+      "year": "2024",
+      "doi": "10.24425/tkuia.2024.152186",
+      "doi_url": "https://www.doi.org/10.24425/tkuia.2024.152186",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Hybrydowe przestrzenie kultury we współczesnym mieście europejskim",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/fbb1c646-fb7a-4df3-9dce-1fb34a5c2b13",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rola efektywnego wykorzystania przestrzeni w doskonaleniu tkanki urbanistycznej współczesnych miast i regionów miejskich - Etap I",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/397da60b-2406-499d-8d2d-cc2f95153ea8",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Człowiek i jego potrzeby jako cel i miara stosowania technologii informacyjnych w mieście",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/e0d1e1c8-36a6-4b74-a4b2-60c0b441d08f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "W KIERUNKU MIASTA BEZ SAMOCHODÓW. Przestrzenie dla pieszych w wybranych zespołach urbanistycznych w Europie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/66d88d36-4e74-4e52-81e5-2977948d22da",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rola zapomnianej struktury pofortyfikacyjnej w kształtowaniu przestrzennego rozwoju miasta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/b9880e73-9f55-4772-b0c9-281275f044aa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": ",,Przekształcenia przestrzenne zlikwidowanych zakładów górniczych węgla kamiennego na terenie aglomeracji górnośląskiej’’",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/1fc50330-6ac9-47bd-80d8-8ba34ca0d621",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Ontology-based semantic database for parametric modelling of complex architectures in their enhancement process. The case of the fortified system along the ancient border between the Kingdom of Two Sicilies and the Papal State, in Italy.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/fc1074f6-cad2-4f30-8277-e04fcd4dc685",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "FENOMEN RELACJI ARCHITEKTURY I NATURY W KRAJACH NORDYCKICH",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.gyurkovich.ZcrHxoPpc9C/research-work/c322daa0-f63a-42ed-b246-3dd5ea642f68",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=124871"
+    }
+  ],
+  "tag_cloud": [
+    "osiedla prefabrykowane",
+    "polish major cities",
+    "planowanie przestrzenne",
+    "multi-family housing",
+    "spatial structure",
+    "muzeum",
+    "museums in mines",
+    "protection and preservation of built heritage",
+    "zrównoważone środowisko",
+    "post-industrial infrastructural heritage"
+  ],
+  "coworkers": []
+}

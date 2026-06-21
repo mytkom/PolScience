@@ -1,0 +1,149 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1",
+  "slug": "bogusław.szczupak",
+  "profile_id": "Oz3EsIr9Wl1",
+  "full_name": "dr inż. Bogusław Robert Szczupak",
+  "orcid": "0000-0002-2098-1577",
+  "orcid_url": "https://orcid.org/0000-0002-2098-1577",
+  "breadcrumb_name": "Bogusław Szczupak",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "National University of Ireland, Galway • Irlandia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation of using neural networks for temperature and relative humidity measurement with the Rayleigh scattering-based distributed optical fiber sensor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/publications/9c1b9164-e276-4108-ba80-3b625aad6e5e",
+      "authors": "M. Mądry, B. Szczupak , M. Śmigielski, ... (+1)",
+      "publication_type": "Artykuł , Photonics Letters of Poland",
+      "year": "2025",
+      "doi": "10.4302/plp.v17i1.1315",
+      "doi_url": "https://www.doi.org/10.4302/plp.v17i1.1315",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Non-invasive painting pigment classification through supervised machine learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/publications/c15644ec-fd51-43c4-a48b-d3c35140fe15",
+      "authors": "M. Mądry, S. Gansukh, B. Szczupak , ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15137594",
+      "doi_url": "https://www.doi.org/10.3390/app15137594",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Przegląd wykorzystania czujników światłowodowych w monitorowaniu kluczowych elementów infrastruktury krytycznej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bogus%C5%82aw.szczupak.Oz3EsIr9Wl1/publications/991ec0bb-a014-4e72-879c-bfe0e2c9fb2b",
+      "authors": "M. Mądry, B. Szczupak",
+      "publication_type": "Artykuł , Elektronika - konstrukcje, technologie, zastosowania",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=310864"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

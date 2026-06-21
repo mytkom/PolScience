@@ -1,0 +1,208 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l",
+  "slug": "paweł.sutowski",
+  "profile_id": "qzihE1ph98l",
+  "full_name": "dr hab. inż. Paweł Sutowski",
+  "orcid": "0000-0003-2863-5414",
+  "orcid_url": "https://orcid.org/0000-0003-2863-5414",
+  "breadcrumb_name": "Paweł Sutowski",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "obróbka ścierna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Wałczu Aktualna nazwa: Akademia Nauk Stosowanych w Wałczu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c9fad99a-1267-48c1-88e3-47edca7ee8a2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Inżynierii Mechanicznej i Energetyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/753e787a-6612-4f7c-abd2-b470b87cff1c"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metrological analysis of surface-treated CrCN/CrN finger joint milling cutter after operation in industrial conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/publications/10be59ad-32a5-4e0f-a6e7-2fbe347dc1f1",
+      "authors": "M. Sutowska, P. Sutowski , B. Warcholiński, ... (+2)",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2026",
+      "doi": "10.1016/j.measurement.2026.120480",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2026.120480",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Advanced regression model fitting to experimental results in case of the effect of grinding conditions on a cutting force with the planer technical knives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/publications/2a89a0be-8df8-4c86-8a43-6cc0a3fb5154",
+      "authors": "P. Sutowski , B. Zieliński, B. Zieliński, ... (+1)",
+      "publication_type": "Artykuł , Measurement",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2024.115717",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2024.115717",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The Study of the Effect of Blade Sharpening Conditions on the Lifetime of Planar Knives During Industrial Flatfish Skinning Operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/publications/3c0b4427-1bd0-4e8f-8b6d-811de380205c",
+      "authors": "P. Sutowski , B. Zieliński, K. Nadolny",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18133191",
+      "doi_url": "https://www.doi.org/10.3390/ma18133191",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczne i doświadczalne podstawy monitorowania oraz oceny wybranych procesów obróbki ściernej i ścierno-erozyjnej z zastosowaniem wyskokoczęstotliwościowego sygnału emisji akustycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/research-work/8e5e8e2e-068c-4af5-bcd1-4ac761293f55",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena okresu trwałości ściernic z wykorzystaniem wartości skutecznej sygnału emisji akustycznej w procesie obwodowego szlifowania płaszczyzn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sutowski.qzihE1ph98l/research-work/febcc377-f9c9-49e1-86ca-a1682caa14d0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214756"
+    }
+  ],
+  "tag_cloud": [
+    "industrial planar planing knife",
+    "planing process",
+    "grinding forces",
+    "transport",
+    "arena",
+    "surface roughness",
+    "acoustic emission",
+    "surface morphology quantification",
+    "magnetorheological finishing",
+    "grinding force"
+  ],
+  "coworkers": []
+}

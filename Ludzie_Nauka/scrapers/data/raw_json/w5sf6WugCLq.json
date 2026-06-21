@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq",
+  "slug": "jacek.marszal",
+  "profile_id": "w5sf6WugCLq",
+  "full_name": "dr hab. Jacek Marszal",
+  "orcid": "0000-0002-6760-9246",
+  "orcid_url": "https://orcid.org/0000-0002-6760-9246",
+  "breadcrumb_name": "Jacek Marszal",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "akustyka",
+    "hydroakustyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "48 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Akustyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/gremiums/c5f43629-cb00-437a-b407-620d6e32fa87",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/gremiums/4859c469-7ce8-4ba4-8ac5-3d895ff9e444",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A tool for designing water tanks for measuring hydroacoustic transducers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/publications/c5dfeb47-41a6-44ce-a335-21b6591e396b",
+      "authors": "R. Salamon, I. Kochańska, J. Marszal",
+      "publication_type": "Artykuł , Vibrations in Physical Systems",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental tests of selected damping and sound-absorbing materials to determine their suitability for sound attenuation of hydroacoustic measuring tank",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/publications/bcea2d05-e748-4863-baad-5886809526d4",
+      "authors": "A. Schmidt, L. Kilian, J. Marszal",
+      "publication_type": "Artykuł , Vibrations in Physical Systems",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Shallow Water Communication with an Object Buried in Bottom Sediments",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/publications/258b08e8-c5a9-4974-8eb7-8091f031d877",
+      "authors": "R. Salamon, J. Marszal , I. Kochańska",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152064",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152064",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozwój techniki sonarów militarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/research-work/8fa91cce-1d14-4fa1-9f92-a1993dc9d9b4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie techniki szybkich przeskoków częstotliwości nośnej w hydroakustycznym systemie do transmisji danych w wodach płytkich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/research-work/01c8ddec-f261-4bc1-93c2-b6ec8e967a42",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie przesłuchów w tomograficznych matrycach przetworników ultradźwiękowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.marszal.w5sf6WugCLq/research-work/06007613-7006-476a-81da-615f408ecbf9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61259"
+    }
+  ],
+  "tag_cloud": [
+    "underwater acoustic communications",
+    "acoustics , signal to noise ratio , correlation coefficient , standards , acoustic arrays , awgn , decorrelation",
+    "infrastruktura metrologiczna",
+    "sonar equipment , navigation , mathematical model , acoustic waves , underwater vehicles , doppler shift",
+    "wzorcowanie",
+    "sonar parameters",
+    "signal processing",
+    "underwater sound",
+    "spójność pomiarowa",
+    "coherence estimation, multiphase echo sounder, sub-array processing"
+  ],
+  "coworkers": []
+}

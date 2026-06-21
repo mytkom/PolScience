@@ -1,0 +1,275 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk",
+  "slug": "bożena.zabiegała",
+  "profile_id": "RNkDXzYl1Zk",
+  "full_name": "prof. dr hab. inż. Bożena Zabiegała",
+  "orcid": "0000-0002-1699-835X",
+  "orcid_url": "https://orcid.org/0000-0002-1699-835X",
+  "breadcrumb_name": "Bożena Zabiegała",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analityka zanieczyszczeń środowiska",
+    "analiza śladów",
+    "chemia analityczna",
+    "chromatografia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk chemicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/507e9943-4519-4928-8b63-3470543f1045"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Zespół Chromatografii i Technik Pokrewnych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/gremiums/66979d59-63eb-4009-8b9c-48947989712e",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Polskie Towarzystwo Chemiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/gremiums/e6d53b5c-e618-40cf-a2d4-b78efb8083aa",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Elicited production of essential oil with immunomodulatory activity in Salvia apiana microshoot culture",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/publications/29e1b14d-f858-4858-a810-72b5c700d76e",
+      "authors": "B. Zabiegała , A. Król, A. Krol, ... (+8)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30040815",
+      "doi_url": "https://www.doi.org/10.3390/molecules30040815",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Investigation of RH effect on uncommon limonene ozonolysis products and SOA formation in indoor air with real time measurement techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/publications/db75ee43-6237-418f-b4c6-bc1fa89ee565",
+      "authors": "K. Pytel, B. Zabiegała",
+      "publication_type": "Artykuł , Chemosphere",
+      "year": "2024",
+      "doi": "10.1016/j.chemosphere.2023.140854",
+      "doi_url": "https://www.doi.org/10.1016/j.chemosphere.2023.140854",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of the yield, chemical composition and biological properties of essential oil from bioreactor-grown cultures of Salvia apiana microshoots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/publications/02e85015-3882-4c83-8a2a-aa69ff959de3",
+      "authors": "J. Gębalski, A. Krol [...] B. Zabiegała , ... (+12)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2023",
+      "doi": "10.1038/s41598-023-33950-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-023-33950-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Narzędzia do kontroli jakości powietrza wewnętrznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/f65bfa87-0d4a-467a-9cb9-43fea818007b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie techniki dozymetrii pasywnej do monitorowania jakości powietrza wewnętrznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/b7b6cc52-6e75-45bd-9343-d4154c06ecc2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "New solutions in the analytics of polybrominated diphenyl ethers (PBDEs) for samples with a complex matrix composition (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/2b823273-1a14-4966-a51c-a58259c9858d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Narzędzia analityczne do oceny jakości materiałów wewnętrznych i ich wpływ na środowisko wewnętrzne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/ad5c80e1-fda3-45ee-9fdd-fe09b0dccd2f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/defc18a6-cdd7-4b6d-9074-99289f39e789",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Nowe rozwiązania w analityce środowiskowych mikrozanieczyszczeń organicznych oraz proekologiczne sposoby ich usuwania z wód i ścieków",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/e58bfb0f-11c6-456a-b087-b51a9cbbd9f4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Procesy degradacji wybranych grup herbicydów w aspekcie środowiskowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bo%C5%BCena.zabiega%C5%82a.RNkDXzYl1Zk/research-work/ecfac767-a764-4384-aa1f-cc0aab4eb36e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85611"
+    }
+  ],
+  "tag_cloud": [
+    "3d printing",
+    "human exposure",
+    "pbde",
+    "forest air",
+    "apoptosis",
+    "forest bathing",
+    "passive sampling",
+    "ludzkie zdrowie",
+    "indoor environment",
+    "gas chromatography"
+  ],
+  "coworkers": []
+}

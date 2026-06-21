@@ -1,0 +1,231 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO",
+  "slug": "jarosław.bilski",
+  "profile_id": "Av6K8KeiJhO",
+  "full_name": "dr hab. inż. Jarosław Bilski",
+  "orcid": "0000-0003-1769-3934",
+  "orcid_url": "https://orcid.org/0000-0003-1769-3934",
+  "breadcrumb_name": "Jarosław Bilski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci neuronowe",
+    "systemy mikroprocesorowe",
+    "systemy operacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Akademia Górniczo-Hutnicza w Krakowie, Wydział Elektrotechniki, Automatyki i Elektroniki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Accelerating Neural Network Training with FSGQR: A Scalable and High-Performance Alternative to Adam",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/publications/42c81d1f-825e-439c-91f5-7b902aca4d92",
+      "authors": "J. Bilski , B. Kowalczyk, L. Dymava, ... (+1)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2025",
+      "doi": "10.2478/jaiscr-2025-0006",
+      "doi_url": "https://www.doi.org/10.2478/jaiscr-2025-0006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Practical Considerations in Implementing Neural Network Training with Vector Instructions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/publications/a6bbfa51-07a1-455c-966d-f2272a2f897b",
+      "authors": "J. Bilski , B. Kowalczyk",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-84353-2_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-84353-2_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A New Computational Approach to the Levenberg-Marquardt Learning Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/publications/2cd97db7-1369-4ac3-ab4a-86797c63eb69",
+      "authors": "J. Bilski , B. Kowalczyk, J. Smoląg",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-23492-7_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-23492-7_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Struktury równoległe dla jednokierunkowych i dynamicznych sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/research-work/91372604-4d58-4a5e-8b10-d5340a14aef3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Szybkie procedury uczenia sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/research-work/6662c449-27d7-4657-832b-1188065954c2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Training instabilities in neural network-based sequential data modeling",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/research-work/0a85383e-7661-44bf-9eb5-9eac2be3d37e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena przydatności sieci neuronowych jako narzędzi wspomagających diagnostykę i terapię hormonem wzrostu dzieci niskorosłych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.bilski.Av6K8KeiJhO/research-work/d5cd33c8-bc80-4d4c-889e-858736096dd6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=24567"
+    }
+  ],
+  "tag_cloud": [
+    "feed-forward neural network",
+    "feedforward neural networks",
+    "neural network training algorithm",
+    "approximation",
+    "qr decomposition",
+    "neural network learning algorithm",
+    "classification",
+    "parallel computation",
+    "givens rotation",
+    "optimization"
+  ],
+  "coworkers": []
+}

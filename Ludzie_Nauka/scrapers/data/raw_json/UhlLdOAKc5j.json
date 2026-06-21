@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j",
+  "slug": "jarosław.domaszewicz",
+  "profile_id": "UhlLdOAKc5j",
+  "full_name": "dr inż. Jarosław Domaszewicz",
+  "orcid": "0000-0001-7088-9966",
+  "orcid_url": "https://orcid.org/0000-0001-7088-9966",
+  "breadcrumb_name": "Jarosław Domaszewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "aplikacje kontekstowe",
+    "systemy wbudowane",
+    "systemy wbudowane MIDDIEWARE"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Texas A&M University",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Intra-Company Crowdsensing: Datafication with Human-in-the-Loop",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/publications/6e45e86f-1b2e-4d34-bd4c-3b5daaa33497",
+      "authors": "J. Domaszewicz , D. Parzych",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s22030943",
+      "doi_url": "https://www.doi.org/10.3390/s22030943",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Artificial Intelligence Control Logic in Next-Generation Programmable Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/publications/21494df2-52c7-4a5c-acfd-eeb36716a531",
+      "authors": "M. Żotkiewicz, W. Szałyga, J. Domaszewicz , ... (+4)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2021",
+      "doi": "10.3390/app11199163",
+      "doi_url": "https://www.doi.org/10.3390/app11199163",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Lessons from SmartCampus: External Experimenting with User-Centric Internet-of-Things Testbed",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.domaszewicz.UhlLdOAKc5j/publications/9bc816e0-005b-4f6c-93e3-c8f29b3c2fc5",
+      "authors": "M. Nati, K. Moessner, J. Domaszewicz , ... (+2)",
+      "publication_type": "Artykuł , Wireless Personal Communications",
+      "year": "2017",
+      "doi": "10.1007/s11277-014-2223-z",
+      "doi_url": "https://www.doi.org/10.1007/s11277-014-2223-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=29939"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

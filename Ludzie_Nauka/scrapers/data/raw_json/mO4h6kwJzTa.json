@@ -1,0 +1,209 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa",
+  "slug": "marian.bartoszuk",
+  "profile_id": "mO4h6kwJzTa",
+  "full_name": "dr hab. inż. Marian Karol Bartoszuk",
+  "orcid": "0000-0002-6964-6921",
+  "orcid_url": "https://orcid.org/0000-0002-6964-6921",
+  "breadcrumb_name": "Marian Bartoszuk",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "programowanie OSN",
+    "technologia maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cf7e175b-dea9-49a3-8290-d5b93900303b"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techczniczne / brak na dyplomie",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "WYŻSZA SZKOŁA INŻYNIERSKA W OPOLU",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Importance of the Johnson-Cook Material Model Parameters in Simulation Studies of the Cutting Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/publications/abbcd94d-74c5-483f-9531-092ebf5f3b0b",
+      "authors": "M. Bartoszuk , P. Loschner",
+      "publication_type": "Artykuł , International Journal for Engineering Modelling",
+      "year": "2025",
+      "doi": "10.31534/engmod.2025.1.ri.03v",
+      "doi_url": "https://www.doi.org/10.31534/engmod.2025.1.ri.03v",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Integrating YOLOv5, Jetson nano microprocessor, and Mitsubishi robot manipulator for real-time machine vision application in manufacturing: A lab experimental study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/publications/df81f871-53c9-4c00-8eda-ad8a82ade336",
+      "authors": "A. Kirda, P. Majewski [...] M. Bartoszuk , ... (+5)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/201366",
+      "doi_url": "https://www.doi.org/10.12913/22998624/201366",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Transforming Additive Manufacturing with Artificial Intelligence: A Review of Current and Future Trends",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/publications/d849fa93-f3e6-4d4f-926b-206b222fbcf9",
+      "authors": "S. Pancholi, M. Gupta, M. Bartoszuk , ... (+6)",
+      "publication_type": "Artykuł , Archives of Computational Methods in Engineering",
+      "year": "2025",
+      "doi": "10.1007/s11831-025-10283-y",
+      "doi_url": "https://www.doi.org/10.1007/s11831-025-10283-y",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie przepływu ciepła i rozkładu temperatury w strefie skrawania dla ostrzy węglikowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/research-work/f7c02a7d-fb8d-4077-9d36-7e99185d73e7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie wpływu powlekania ostrza skrawającego na temperaturę i rozpływ ciepła w strefie kontaktu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/research-work/8a771e97-9d8b-4039-bfc7-0ebb1c912922",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie metody kompleksowej oceny wysokowydajnego frezowania stopu Inconel 718",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marian.bartoszuk.mO4h6kwJzTa/research-work/4346f47c-618d-4925-a57d-59539589ee13",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=118562"
+    }
+  ],
+  "tag_cloud": [
+    "industrial growth",
+    "process innovation",
+    "contact temperature",
+    "device",
+    "surface roughness",
+    "welding",
+    "white layer",
+    "nanocrystalline structure",
+    "gutter corner",
+    "turning parameters"
+  ],
+  "coworkers": []
+}

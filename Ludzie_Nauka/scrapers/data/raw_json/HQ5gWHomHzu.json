@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu",
+  "slug": "leszek.wawrzyniuk",
+  "profile_id": "HQ5gWHomHzu",
+  "full_name": "dr inż. Leszek Wawrzyniuk",
+  "orcid": "0000-0002-1371-1325",
+  "orcid_url": "https://orcid.org/0000-0002-1371-1325",
+  "breadcrumb_name": "Leszek Wawrzyniuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria fotoniczna",
+    "konstrukcja przyrządów optycznych",
+    "metrologia optyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1985",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of collimator aberrations on the instrument line shape of a Fourier transform spectrometer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/publications/b22eacb1-3531-470d-87bb-2a0d60d13e58",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Optics",
+      "year": "2021",
+      "doi": "10.1364/ao.435172",
+      "doi_url": "https://www.doi.org/10.1364/ao.435172",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Control issues of a fast positioner intended for deflection of a high power laser beam",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/publications/febf3460-a584-4702-beda-71e2b56789f6",
+      "authors": "J. Pełka, W. Credo [...] L. Wawrzyniuk , ... (+3)",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2019",
+      "doi": "10.1051/matecconf/201925401002",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/201925401002",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Electromagnetic angular positioner based on DC micromotor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/publications/672c7c8f-d2b9-4ac5-aa52-15eb0e3e3b87",
+      "authors": "J. Wierciak, L. Wawrzyniuk , W. Credo, ... (+2)",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2018",
+      "doi": "10.1051/matecconf/201815703003",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/201815703003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu aberracji układu optycznego spektrometru fourierowskiego na jego dokładność pomiariu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/research-work/de17fdf1-11a0-48f4-88f0-40386eec339b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda kompensacji wpływu temperatury na odwzorowanie geometrii 3D z wykorzystaniem techniki oświetlenia strukturalnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/research-work/75a1b759-f933-4a85-be71-4f7bcf3531ff",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ wad technologicznych na dokładność pomiaru widma promieniowania spektrometrem fourierowskim",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.wawrzyniuk.HQ5gWHomHzu/research-work/8a9f27b1-2e69-4242-a69b-b27401012d26",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86019"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

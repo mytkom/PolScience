@@ -1,0 +1,250 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx",
+  "slug": "przemysław.jodłowski",
+  "profile_id": "X2j9BYlIyAx",
+  "full_name": "prof. dr hab. inż. Przemysław Jakub Jodłowski",
+  "orcid": "0000-0003-2554-6539",
+  "orcid_url": "https://orcid.org/0000-0003-2554-6539",
+  "breadcrumb_name": "Przemysław Jodłowski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kataliza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria chemiczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii i Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0ccb91ac-42d4-4b04-a18e-a739d5a1cd8e"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie; Wydział Chemii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/892e1891-d330-4d2a-a6e4-b90c993616aa"
+        },
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancing lung cancer treatment with metal-organic frameworks.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/publications/002c2bef-5053-49be-891f-95b4bf2f093a",
+      "authors": "K. Hyjek, K. Dymek [...] P. Jodłowski , ... (+10)",
+      "publication_type": "Artykuł , Microporous and Mesoporous Materials",
+      "year": "2025",
+      "doi": "10.1016/j.micromeso.2025.113665",
+      "doi_url": "https://www.doi.org/10.1016/j.micromeso.2025.113665",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Reviving the fight against opioid overdoses: unleashing the power of metal - organic frameworks for morphine removal.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/publications/ae4f276e-fd8b-4a00-845c-b35c66ef39ad",
+      "authors": "K. Hyjek, K. Dymek [...] P. Jodłowski , ... (+13)",
+      "publication_type": "Artykuł , ACS Applied Materials & Interfaces",
+      "year": "2025",
+      "doi": "10.1021/acsami.5c19297",
+      "doi_url": "https://www.doi.org/10.1021/acsami.5c19297",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sonication-assisted synthesis of CuPd-HKUST-1 catalysts for cyclohexene oxidation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/publications/24feed17-10ed-4cee-b1aa-e6f660e41012",
+      "authors": "K. Dymek, G. Kurowski [...] P. Jodłowski , ... (+9)",
+      "publication_type": "Artykuł , Journal of Physical Chemistry C",
+      "year": "2025",
+      "doi": "10.1021/acs.jpcc.5c00385",
+      "doi_url": "https://www.doi.org/10.1021/acs.jpcc.5c00385",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/1e5d2fe9-f92b-4c2e-9c06-a532e72791e1",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Projektowanie konwertera katalitycznego do usuwania zanieczyszczeń z silników zasilanych biogazem: od centrum aktywnego do wypełnienia strukturalnego reaktora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/47cd281d-65e8-4f2f-92fc-2fff1d783f96",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Katalityczne wypełnienie strukturalne o zintensyfikowanym transporcie masy do kontroli emisji z silników zasilanych biogazem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/8a2d4a9c-38df-4ea7-ad9a-68013ced5350",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "\"Glassy carriers of sulphur for agricultural applications\"",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/89d65a84-5618-4b6c-9cb7-33e7b59678d7",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Hybrydowe nanotermity (NSTEX) jako środki inicjowania specjalnego przeznaczenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/a36e271e-d314-4f91-98a2-77b0de65a129",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Synteza i charakterystyka przewodników protonowych MOF z terminalnymi grupami sulfonowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/przemys%C5%82aw.jod%C5%82owski.X2j9BYlIyAx/research-work/16b938b7-ee17-450b-b0bf-cdfbe0313959",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=cPemg0sAAAAJ&hl=pl"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=54684175700"
+    }
+  ],
+  "tag_cloud": [
+    "denox selective catalytic reduction (scr)",
+    "nanoparticles",
+    "drug delivery",
+    "ammonia synthesis",
+    "sonochemistry",
+    "heat transfer",
+    "metal−organic frameworks",
+    "3d printing",
+    "cobalt catalyst",
+    "metal-organic frameworks"
+  ],
+  "coworkers": []
+}

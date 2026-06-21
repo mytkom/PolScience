@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw",
+  "slug": "michał.balcerek",
+  "profile_id": "FdElrVIfWWw",
+  "full_name": "dr Michał Jakub Balcerek",
+  "orcid": "0000-0003-3637-5501",
+  "orcid_url": "https://orcid.org/0000-0003-3637-5501",
+  "breadcrumb_name": "Michał Balcerek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Matematyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0452cf56-f277-4a0a-9d8e-f0ee354e4d6f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "CINNAMON: A hybrid approach to change point detection and parameter estimation in single-particle tracking data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/publications/618c9b77-b227-4c60-a236-cd87c3f97c80",
+      "authors": "J. Malinowski, M. Kostrzewa, M. Balcerek , ... (+2)",
+      "publication_type": "Artykuł , Journal of Physics: Photonics",
+      "year": "2025",
+      "doi": "10.1088/2515-7647/add826;10.48550/arxiv.2503.14253",
+      "doi_url": "https://www.doi.org/10.1088/2515-7647/add826;10.48550/arxiv.2503.14253",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "CINNAMON: A hybrid approach to change point detection and parameter estimation in singleparticle tracking data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/publications/80aa07a1-eef6-4f62-8897-1e01e7d7debd",
+      "authors": "J. Malinowski, M. Kostrzewa, M. Balcerek , ... (+2)",
+      "publication_type": "Artykuł , Journal of Physics-Photonics",
+      "year": "2025",
+      "doi": "10.1088/2515-7647/add826",
+      "doi_url": "https://www.doi.org/10.1088/2515-7647/add826",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluating Gaussianity of heterogeneous fractional Brownian motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/publications/589f779c-4a54-44c3-9775-791162d85af3",
+      "authors": "M. Balcerek , A. Pacheco-Pozo, A. Wyłomańska, ... (+1)",
+      "publication_type": "Artykuł , Journal of Physics A: Mathematical and Theoretical",
+      "year": "2025",
+      "doi": "10.1088/1751-8121/adc9e5;10.48550/arxiv.2501.10472",
+      "doi_url": "https://www.doi.org/10.1088/1751-8121/adc9e5;10.48550/arxiv.2501.10472",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie stochastyczne i numeryczne sygnałów mających charakter anomalnej dyfuzji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.balcerek.FdElrVIfWWw/research-work/58531c3f-11c6-41f3-bb2f-07463dfb419e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=288714"
+    }
+  ],
+  "tag_cloud": [
+    "anomalna dyfuzja",
+    "pył",
+    "fractional brownian motion",
+    "śledzenie trajektorii",
+    "estimation",
+    "odchylenie średniokwadratowe",
+    "emisja",
+    "proces garch",
+    "doubly stochastic process",
+    "long memory"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,119 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN",
+  "slug": "karolina.nadolska",
+  "profile_id": "EuKQpOHgqGN",
+  "full_name": "mgr inż. Karolina Teresa Nadolska",
+  "orcid": "0000-0002-5801-9287",
+  "orcid_url": "https://orcid.org/0000-0002-5801-9287",
+  "breadcrumb_name": "Karolina Nadolska",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "ochrona środowiska",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Web application to model and visualise the spread of traffic pollution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/publications/e4015064-d2db-49f2-98a3-745ae65f6867",
+      "authors": "P. Górka, K. Małecki [...] K. Nadolska , ... (+3)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2026",
+      "doi": "10.1016/j.softx.2025.102493",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102493",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Forecasting PM10 concentration using Ann Narx from road transport in Szczecin, Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/karolina.nadolska.EuKQpOHgqGN/publications/df488e2a-0875-443e-97e7-bf3278073943",
+      "authors": "W. Konicki, M. Bojanowska [...] K. Nadolska , ... (+3)",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": "10.29119/1641-3466.2025.230.12",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2025.230.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

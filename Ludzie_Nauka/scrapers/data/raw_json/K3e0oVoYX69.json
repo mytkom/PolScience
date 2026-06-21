@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69",
+  "slug": "mariusz.ciesielski",
+  "profile_id": "K3e0oVoYX69",
+  "full_name": "dr inż. Mariusz Ciesielski",
+  "orcid": "0000-0002-3695-9569",
+  "orcid_url": "https://orcid.org/0000-0002-3695-9569",
+  "breadcrumb_name": "Mariusz Ciesielski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody komputerowe mechaniki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Heat Transfer in Granular Material: Experimental Measurements and Parameters Identification of Macroscopic Heat Conduction Model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/publications/61b0af27-e4f8-4a63-bc55-b6f474885a09",
+      "authors": "M. Ciesielski , G. Grodzki",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15052596",
+      "doi_url": "https://www.doi.org/10.3390/app15052596",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical Algorithms for Approximation of Fractional Integrals and Derivatives Based on Quintic Spline Interpolation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/publications/b555ae18-30e4-4d21-a5aa-0538b701d452",
+      "authors": null,
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2024",
+      "doi": "10.3390/sym16020252",
+      "doi_url": "https://www.doi.org/10.3390/sym16020252",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical Approximations of the Riemann–Liouville and Riesz Fractional Integrals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/publications/dee23d8c-e7aa-4549-a51e-184f9844bc4f",
+      "authors": "M. Ciesielski , G. Grodzki",
+      "publication_type": "Artykuł , Informatica",
+      "year": "2024",
+      "doi": "10.15388/23-infor540",
+      "doi_url": "https://www.doi.org/10.15388/23-infor540",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Frakcjalna metoda różnic skończonych w zastosowaniu do modelowania anomalnej dyfuzji w obszarze ograniczonym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.ciesielski.K3e0oVoYX69/research-work/17676bf9-9413-4a99-a307-1fc9cc418d37",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=132372"
+    }
+  ],
+  "tag_cloud": [
+    "heat conduction",
+    "laplace transform",
+    "electrosurgical polypectomy",
+    "control volume method",
+    "dual phase lag model",
+    "numerical solution",
+    "micro-scale heat transfer",
+    "fractional calculus",
+    "oscillator equation",
+    "angiogeneza"
+  ],
+  "coworkers": []
+}

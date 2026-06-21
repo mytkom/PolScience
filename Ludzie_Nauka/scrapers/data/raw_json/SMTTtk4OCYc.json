@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc",
+  "slug": "michał.kowalczyk",
+  "profile_id": "SMTTtk4OCYc",
+  "full_name": "dr inż. Michał Piotr Kowalczyk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Michał Kowalczyk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "fotogrametria"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The evaluation of structure-from-motion workflow with the tls synthetic images simulator – the cultural heritage approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/publications/168b6979-d978-4c95-b270-4b634c26482b",
+      "authors": "J. Markiewicz, A. Karwel, M. Kowalczyk , ... (+4)",
+      "publication_type": "Artykuł , International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives",
+      "year": "2023",
+      "doi": "10.5194/isprs-archives-xlviii-m-2-2023-1013-2023",
+      "doi_url": "https://www.doi.org/10.5194/isprs-archives-xlviii-m-2-2023-1013-2023",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "The example of the wide angle lens application in historical basement registration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/publications/725a904b-d2ce-471a-8b4f-9e77ca77ad36",
+      "authors": "M. Kowalczyk , J. Markiewicz",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of object reconstruction by changing the camera constant",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/publications/af1e915d-049d-456f-b296-b76ed8ac87a5",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie zakresu i stopnia możliwej automatyzacji pomiaru fotogrametrycznego bazującego na kamerze cyfrowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kowalczyk.SMTTtk4OCYc/research-work/097c6162-fd7b-47fb-9e8d-8bf3b46e1870",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=116793"
+    }
+  ],
+  "tag_cloud": [
+    "wide angle lens",
+    "registration",
+    "sfm/mvs",
+    "point clouds",
+    "cultural heritage",
+    "evaluation",
+    "open-source software",
+    "tls",
+    "calibration",
+    "laser scanning"
+  ],
+  "coworkers": []
+}

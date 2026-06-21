@@ -1,0 +1,307 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9",
+  "slug": "jarosław.grytczuk",
+  "profile_id": "sjg5xyPzpE9",
+  "full_name": "prof. dr hab. Jarosław Andrzej Grytczuk",
+  "orcid": "0000-0002-0258-6143",
+  "orcid_url": "https://orcid.org/0000-0002-0258-6143",
+  "breadcrumb_name": "Jarosław Grytczuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "matematyka dyskretna",
+    "informatyka teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Jagielloński w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Zielonogórski w Zielonej Górze",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk matematycznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1988",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "WSP Zielona Góra",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Jagielloński w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec799b31-2b67-4e3d-b91b-d4bb28f41d43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/gremiums/bf86b247-a8a3-439b-ad18-6583fa29933a",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Matematyka 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Matematyka Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Erdős-Szekeres type theorems for ordered uniform matchings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/publications/913a9208-0bad-487d-a98d-f927c2e89c56",
+      "authors": "A. Dudek, J. Grytczuk , A. Ruciński",
+      "publication_type": "Artykuł , Journal of Combinatorial Theory, Series B",
+      "year": "2025",
+      "doi": "10.1016/j.jctb.2024.09.004;10.48550/arxiv.2301.02936",
+      "doi_url": "https://www.doi.org/10.1016/j.jctb.2024.09.004;10.48550/arxiv.2301.02936",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Erdős-Szekeres type theorems for ordered uniform matchings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/publications/efa2dd8b-1fa3-4de3-8ba5-cddd599c1cc6",
+      "authors": "A. Dudek, J. Grytczuk , A. Ruciński",
+      "publication_type": "Artykuł , Journal of Combinatorial Theory. Series B",
+      "year": "2025",
+      "doi": "10.1016/j.jctb.2024.09.004",
+      "doi_url": "https://www.doi.org/10.1016/j.jctb.2024.09.004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mrs. Correct and majority colorings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/publications/ce880b4d-1860-45a3-9ab0-2e5d5989a2f0",
+      "authors": "M. Anholcer, B. Bosek [...] J. Grytczuk , ... (+3)",
+      "publication_type": "Artykuł , Discrete Mathematics",
+      "year": "2025",
+      "doi": "10.1016/j.disc.2025.114577",
+      "doi_url": "https://www.doi.org/10.1016/j.disc.2025.114577",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Problemy Thuego w kombinatoryce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/85c8dac5-27dd-452f-96d4-3bf12f9d84a4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Self-Similar Words and Meta-Fibonacci Sequences",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/8458fa1d-2401-4a0a-aadf-9743879a8e72",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Silne kliki w grafach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/619e8b09-6fa2-45b6-80b2-5217022a1163",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Lokalne własności struktur losowych w teorii unikania wzorców",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/15275316-46aa-44fc-8116-9d1c255cb90f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Flag Algebras in Extremal Graph Theory (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/50901a0d-80ff-42b9-9947-9087312927c8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Oszacowania rozgrywanych liczb Ramseya",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/a82b29fa-d5eb-44b9-a113-a90c20f8c809",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Counting and generating monotone Boolean functions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/d6b50cfe-29c9-472c-8094-7e92e557ec4a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Computational Complexity of Combinatorial Problems in Hereditary Graph Classes",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jaros%C5%82aw.grytczuk.sjg5xyPzpE9/research-work/6763e8e7-5f32-416b-a17e-313116df98a4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=26403"
+    }
+  ],
+  "tag_cloud": [
+    "arithmetic progression",
+    "ciąg arytmetyczny",
+    "lokalny lemat lovásza",
+    "nonrepetitive sequence",
+    "kolorowanie grafów",
+    "majority coloring",
+    "kolorowanie większościowe",
+    "permutacja",
+    "lovász local lemma",
+    "pattern avoidance"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2",
+  "slug": "andrzej.wielgus",
+  "profile_id": "tOveYoxD7L2",
+  "full_name": "dr inż. Andrzej Wielgus",
+  "orcid": "0000-0002-0352-6732",
+  "orcid_url": "https://orcid.org/0000-0002-0352-6732",
+  "breadcrumb_name": "Andrzej Wielgus",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria komputerowa",
+    "mikroelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The True Random Number Generator design using a high-noise oscillator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/publications/0b691a6b-e2f2-441e-86b7-ec9cf3c28b7d",
+      "authors": "I. Butryn, A. Łuczyk [...] A. Wielgus , ... (+3)",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.155477",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.155477",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "BioSoC: Highly integrated System-on-Chip for health monitoring",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/publications/d607fefa-084a-4f46-8765-dd5c004fd94f",
+      "authors": "K. Siwiec, K. Marcinek [...] A. Wielgus , ... (+9)",
+      "publication_type": "Artykuł , 2016 IEEE 19th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS)",
+      "year": "2016",
+      "doi": "10.1109/ddecs.2016.7482464",
+      "doi_url": "https://www.doi.org/10.1109/ddecs.2016.7482464",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "CMOS standard cells characterization for open defects for test pattern generation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/publications/da047e2a-18b0-4545-8de5-77d3e1eefe8c",
+      "authors": "W. Pleskacz, A. Wielgus",
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.1117/12.2261887",
+      "doi_url": "https://www.doi.org/10.1117/12.2261887",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Synteza i symulacja struktur układów scalonych VLSI implementujących systemy rozmyte",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.wielgus.tOveYoxD7L2/research-work/f349ae9f-5050-404c-926d-819b299917de",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=119118"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

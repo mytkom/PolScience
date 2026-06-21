@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K",
+  "slug": "marcin.kujawa",
+  "profile_id": "H3k8rkDOo7K",
+  "full_name": "dr hab. Marcin Kujawa",
+  "orcid": "0000-0002-1440-647X",
+  "orcid_url": "https://orcid.org/0000-0002-1440-647X",
+  "breadcrumb_name": "Marcin Kujawa",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika budowli"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Inżynierii Lądowej i Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4500f023-583d-4425-95d0-7a5c38933cbc"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/gremiums/2e0fa102-d036-49c8-8f1c-fa76c38f78d3",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A random field-based simulational identification of possible levels of material imperfections of adhesive-bonded joints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/publications/b11ac64d-9aec-4bc3-a510-fd7b245c825d",
+      "authors": "K. Winkelmann, F. Jan [...] M. Kujawa , ... (+3)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2024.151678",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.151678",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Creep failure mechanism in single-lap joints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/publications/3ff477c8-2725-42d7-8b29-0aec08a97677",
+      "authors": "M. Kujawa , V. Eremeyev, Ł. Smakosz, ... (+5)",
+      "publication_type": "Artykuł , International Journal of Engineering Science",
+      "year": "2025",
+      "doi": "10.1016/j.ijengsci.2025.104315",
+      "doi_url": "https://www.doi.org/10.1016/j.ijengsci.2025.104315",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Impact of thermal and humidity conditions on structural epoxy adhesives during medium-term exposure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/publications/60625af9-b89c-4bf2-88c6-78cdb729c44c",
+      "authors": "M. Kujawa , P. Paczos, Ł. Smakosz, ... (+6)",
+      "publication_type": "Artykuł , International Journal of Adhesion and Adhesives",
+      "year": "2025",
+      "doi": "10.1016/j.ijadhadh.2025.103981",
+      "doi_url": "https://www.doi.org/10.1016/j.ijadhadh.2025.103981",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane problemy stateczności konstrukcji cienkościennych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work/cd7dd824-0720-461c-8390-f73b99c282ca",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Statyka i analiza wrażliwości rusztów zbudowanych z prętów cienkościennych. Analiza teoretyczna i badania doświadczalne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work/a43256f6-3130-4950-8b19-1e60ab85d45a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza sprawności urządzeń odzyskujących energię z galopowania poprzecznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work/d69baf0e-7eb2-41d3-a5f9-80245b9fdcd0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania cienkościennych słupów ceowych o niestandardowych przekrojach poprzecznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work/48733722-2be6-482c-8bdf-5fd689d6c310",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Influence of stiffener distribution in lipped channel section beams subjected to four-point bending",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.kujawa.H3k8rkDOo7K/research-work/82d6a185-5f25-4864-ba17-163ddd5271bc",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=206344"
+    }
+  ],
+  "tag_cloud": [
+    "fem",
+    "initial post-buckling behaviour",
+    "signal generators",
+    "musical instruments",
+    "non-linear modelling",
+    "nonlinear analysis",
+    "ramberg–osgood relationship",
+    "sound quality",
+    "materials properties",
+    "closed-form analytical solution"
+  ],
+  "coworkers": []
+}

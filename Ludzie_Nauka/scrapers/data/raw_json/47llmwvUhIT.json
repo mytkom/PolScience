@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT",
+  "slug": "damian.grajewski",
+  "profile_id": "47llmwvUhIT",
+  "full_name": "dr Damian Grajewski",
+  "orcid": "0000-0001-5891-8875",
+  "orcid_url": "https://orcid.org/0000-0001-5891-8875",
+  "breadcrumb_name": "Damian Grajewski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria produkcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparative Analysis of AutoML Platforms for Forecasting Raw Material Requirements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/publications/4d407db4-6592-42a0-8f09-4afd00dc1311",
+      "authors": "D. Grajewski , A. Dudkowiak, E. Dostatni, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/app16031389",
+      "doi_url": "https://www.doi.org/10.3390/app16031389",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A systematic literature review of Artificial Intelligence methods in remanufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/publications/69e4051b-c7e2-4ed7-a0e2-2ab4ebcc0efa",
+      "authors": "A. Dudkowiak, D. Grajewski , E. Dostatni",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3646974",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3646974",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Environmental Analysis of Designed Products Using Standalone and CAx-Integrated Tools",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/publications/e8d3b702-b890-4621-80a2-66b8cd7cc1ec",
+      "authors": "D. Grajewski , A. Dudkowiak, P. Damian",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312542",
+      "doi_url": "https://www.doi.org/10.3390/app152312542",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie interakcji dotykowej w rzeczywistości wirtualnej z zastosowaniem robota typu Delta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.grajewski.47llmwvUhIT/research-work/c086b04c-1f3e-4bdf-b01a-c8e4bb060e14",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=256503"
+    }
+  ],
+  "tag_cloud": [
+    "smart manufacturing",
+    "ocena ekologiczna wyrobu",
+    "wi-fi networks",
+    "agent technology",
+    "industry 4.0",
+    "eco-design",
+    "ekoprojektowanie",
+    "virtual reality",
+    "smart factories",
+    "systemy cad 3d"
+  ],
+  "coworkers": []
+}

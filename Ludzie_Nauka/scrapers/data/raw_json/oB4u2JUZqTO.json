@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO",
+  "slug": "paweł.pędzich",
+  "profile_id": "oB4u2JUZqTO",
+  "full_name": "dr hab. inż. Paweł Pędzich",
+  "orcid": "0000-0001-5292-4887",
+  "orcid_url": "https://orcid.org/0000-0001-5292-4887",
+  "breadcrumb_name": "Paweł Pędzich",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kartografia matematyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Methods of centroid determination in QGIS – proposal of an algorithm using the “Model Designer” tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/publications/ebd3f963-f888-43ab-99b4-297ecdf8c407",
+      "authors": null,
+      "publication_type": "Artykuł , Polish Cartographical Review",
+      "year": "2025",
+      "doi": "10.2478/pcr-2025-0001",
+      "doi_url": "https://www.doi.org/10.2478/pcr-2025-0001",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Research on the Metric Properties of Plans of Lviv from 1766 to 1844",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/publications/ddcda100-8fcb-4caf-a9a5-ed7c20f1eb7c",
+      "authors": "A. Głażewski, Y. Holubinka, P. Pędzich , ... (+1)",
+      "publication_type": "Artykuł , The Cartographic Journal",
+      "year": "2025",
+      "doi": "10.1080/00087041.2025.2477862",
+      "doi_url": "https://www.doi.org/10.1080/00087041.2025.2477862",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Dzieje kartografii matematycznej na Wydziale Geodezji i Kartografii Politechniki Warszawskiej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/publications/7982bd27-876e-4ae2-9d0c-356f15ba4ca4",
+      "authors": null,
+      "publication_type": "Artykuł , Polish Cartographical Review. Suplement w Języku Polskim",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie odwzorowania Cassiniego-Soldnera całej elipsoidy oraz obszaru Polski w szerokiej strefie odwzorowawczej z zastosowaniem funkcji i całek eliptycznych Jacobiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/a23d50ee-e5bf-410e-8360-213e1bc44bd6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Opracowanie odwzorowania kartograficznego o optymalnym rozkładzie zniekształceń według kryterium Czebyszewa dla ograniczonego obszaru powierzchni elipsoidy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/1571a7ed-084f-4f13-9011-f372c473657f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metodyka obliczania pól powierzchni geodezyjnych wieloboków elipsoidalnych z zastosowaniem odwzorowań równopolowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/a872155c-7635-40e6-a7fb-d6f39651343e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "„Metodyka wielocechowej oceny porównawczej przydatności jakościowych danych przestrzennych”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/84a0a3da-d2ef-49aa-a2a0-9515a8d6cec8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ responsywnego projektowania graficznego interfejsu użytkownika na efektywność mapy internetowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/10fad06c-5ca7-4e74-8783-02bd45f43835",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wizualizacja kartograficzna dostępności przestrzennej w modelu monocentrycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.p%C4%99dzich.oB4u2JUZqTO/research-work/c76b065a-83aa-46fd-852c-4d5a08363e6a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=110579"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

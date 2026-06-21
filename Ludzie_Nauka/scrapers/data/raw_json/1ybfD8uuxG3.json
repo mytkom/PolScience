@@ -1,0 +1,296 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3",
+  "slug": "elżbieta.pilecka",
+  "profile_id": "1ybfD8uuxG3",
+  "full_name": "prof. dr hab. inż. Elżbieta Pilecka",
+  "orcid": "0000-0002-1536-4291",
+  "orcid_url": "https://orcid.org/0000-0002-1536-4291",
+  "breadcrumb_name": "Elżbieta Pilecka",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "geofizyka górnicza i inżynierska",
+    "geotechnika",
+    "geomechanika górnicza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Gospodarki Surowcami Mineralnymi i Energią Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3178cdc9-4bfd-44e5-a0dc-d37b30326a58",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / górnictwo i geologia inżynierska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / górnictwo i geologia inżynierska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geolog górniczy",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Geologicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/gremiums/6be5a614-146c-4a4b-a279-e62e5a29c903",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/gremiums/a0f14b26-8a37-4d5e-99f7-d5fa26a205ec",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modelling of P-wave velocity changes in coal seams with increased depth : a case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/publications/e771427f-eace-42a2-836d-f39a8ac92dab",
+      "authors": "M. Łapczyński, Z. Pilecki [...] E. Pilecka , ... (+3)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-87417-6",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-87417-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Recalibrated relationship of P-wave velocity in a coal seam with depth in the south-western upper Silesian Coal Basin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/publications/fd700ebd-3e6a-47b4-9257-59e44f097e18",
+      "authors": "M. Łapczyński, Z. Burtan [...] E. Pilecka , ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312505",
+      "doi_url": "https://www.doi.org/10.3390/app152312505",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Temperature anomaly as an indicator of groundwater flow prior to the shaft sinking with the use of artificial ground freezing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/publications/3e754882-aa07-4ccc-9f9e-9aa30502d3de",
+      "authors": "Z. Pilecki, K. Krawiec, E. Pilecka , ... (+3)",
+      "publication_type": "Artykuł , Engineering Geology",
+      "year": "2025",
+      "doi": "10.1016/j.enggeo.2025.107916",
+      "doi_url": "https://www.doi.org/10.1016/j.enggeo.2025.107916",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/9b6e9056-42ae-410f-a22e-c3f79ab5b920",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Indukowane podziemną działalnością górniczą wysokoenergetyczne wstrząsy górotworu a lineamenty na obrazach satelitarnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/1477eedd-c198-4bee-86d9-4959c2cda6e4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Numeryczna analiza ograniczania drgań transportowych przez wibroizolacyjną przegrodę w gruncie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/762613ed-dcad-478b-bbae-8c93fe406147",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania korelacji wybranych parametrów geotechnicznych gruntów wyznaczonych laboratoryjnie i „in situ” na terenie „Białych Mórz” w Krakowie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/77091735-5ce8-4057-ab9f-1f804590a79c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ czynników geotechniczno-konstrukcyjnych na stateczność wybranych osuwisk na terenie fliszu karpackiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/51759b27-3f71-4991-b7e5-700d73f04275",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wpływ żelowych barier izolacyjnych na właściwości filtracyjne skał porowatych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/f4a0e0b4-1df1-40a6-9252-9ef5fb027ca2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/5c8c3c57-ad7d-4da8-bd1c-0e7188fcb780",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.pilecka.1ybfD8uuxG3/research-work/b9c1a86b-33f3-44ae-84b7-7ab6b7fc9231",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=72312"
+    }
+  ],
+  "tag_cloud": [
+    "faults",
+    "ground surface gpr",
+    "uskoki tektoniczne",
+    "salt mine",
+    "innowacyjne programy kształcenia",
+    "seismobile system transport route seismic 2d/3d imaging gpr 2d/3d imaging shallow subsurface landstreamer",
+    "wstrząsy górnicze",
+    "gpr 2d/3d imaging",
+    "rozwój",
+    "mineshaft failure classification"
+  ],
+  "coworkers": []
+}

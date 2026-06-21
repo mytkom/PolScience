@@ -1,0 +1,275 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij",
+  "slug": "artur.durajski",
+  "profile_id": "CWS6y5zlDij",
+  "full_name": "dr hab. inż. Artur Piotr Durajski",
+  "orcid": "0000-0002-5446-4084",
+  "orcid_url": "https://orcid.org/0000-0002-5446-4084",
+  "breadcrumb_name": "Artur Durajski",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "nadprzewodnictwo"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Podstawowych Problemów Techniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/883056c9-6fdf-4e67-a36e-0ffa5c16daa7"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze; Wydział Fizyki i Astronomii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d29f4e40-bc62-4c0a-b55b-9afe9be02f84"
+        },
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska, Wydział Zarządzania",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska, Wydział Inżynierii Produkcji i Technologii Materiałów",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Materiałowa",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/gremiums/f8c9f5f1-634c-4840-ad81-a82e941ab438",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reducing wall effect in random packed beds of spheres through corrugation of the container’s wall",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/publications/859b41cb-4c96-4863-ba3b-3238d341b45f",
+      "authors": "M. Marek, A. Durajski , P. Niegodajew",
+      "publication_type": "Artykuł , Powder Technology",
+      "year": "2026",
+      "doi": "10.1016/j.powtec.2025.121586",
+      "doi_url": "https://www.doi.org/10.1016/j.powtec.2025.121586",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Designing Lithophilic Interfaces for Robust Anode-Free Lithium Metal Batteries",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/publications/e5174d36-8007-4479-947b-ec46f146639f",
+      "authors": "R. Rehman Sagar, R. Sagar [...] A. Durajski , ... (+4)",
+      "publication_type": "Artykuł , Nano Letters",
+      "year": "2025",
+      "doi": "10.1021/acs.nanolett.5c02545",
+      "doi_url": "https://www.doi.org/10.1021/acs.nanolett.5c02545",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Electronic and Optical Properties of Monolayer Magnesium Diboride under Biaxial Strain",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/publications/d292099b-b33a-4824-8dd4-0df86afa9dc4",
+      "authors": "K. Kempa, J. Karch [...] A. Durajski , ... (+1)",
+      "publication_type": "Artykuł , Computational Materials Science",
+      "year": "2025",
+      "doi": "10.1016/j.commatsci.2024.113343",
+      "doi_url": "https://www.doi.org/10.1016/j.commatsci.2024.113343",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wysokotemperaturowy stan nadprzewodzący w układach o konwencjonalnym oraz niekonwencjonalnym mechanizmie parowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/f26b1401-9163-4bd1-a27e-01275bfc5b78",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Właściwości termodynamiczne wysokociśnieniowego stanu nadprzewodzącego w związkach wodorowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/c44d564d-4a93-4b6d-8fcd-54af712cfd2c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Stan nadprzewodzący w związkach o strukturze antyperowskitu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/ca33f02b-c5fb-403b-8044-dd9535d9ea07",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nadprzewodnictwo o wysokich wartościach temperatury krytycznej w ramach formalizmu Eliashberga",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/a3042ae4-5f52-4866-afcb-a2c7fdc866d8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Theoretical study of electronic and phononic properties of systems containing kagome-like lattice",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/f7f22048-cd88-44c1-baa5-3962ad88f1d6",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie struktury elektronowej, oddziaływania elektron-fonon i nadprzewodnictwa materiałów zawierających ciężkie pierwiastki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/142f161d-060d-45f1-9812-de0dc97b49ff",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Theoretical study of I-III-VI2 group chalcopyrite crystals for photovoltaic application",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.durajski.CWS6y5zlDij/research-work/219793a4-f9f7-4164-bcbb-ed49f22a5e69",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248124"
+    }
+  ],
+  "tag_cloud": [
+    "graphene",
+    "związki wodorowane",
+    "nadprzewodnictwo",
+    "doping",
+    "electronic properties",
+    "dft calculations",
+    "thermodynamic properties",
+    "superconductivity",
+    "anode material",
+    "critical temperature"
+  ],
+  "coworkers": []
+}

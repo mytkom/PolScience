@@ -1,0 +1,278 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0",
+  "slug": "stanisław.szwaja",
+  "profile_id": "XW5pIEBRPI0",
+  "full_name": "prof. dr hab. inż. Stanisław Szwaja",
+  "orcid": "0000-0003-2528-5404",
+  "orcid_url": "https://orcid.org/0000-0003-2528-5404",
+  "breadcrumb_name": "Stanisław Szwaja",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cieplne maszyny tłokowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "POLITECHNIKA CZĘSTOCHOWSKA, WYDZIAŁ BUDOWY MASZYN",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/gremiums/95af7c74-02ee-4cd3-83f0-edc3bf3f3695",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Combustion Analysis of the Renewable Fuel HVO and RME with Hydrogen Addition in a Reciprocating Internal Combustion Engine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/publications/f043171a-46b7-4341-8f29-0cb00d9ce8a0",
+      "authors": "S. Szwaja , S. Pukalskas, R. Juknelevičius, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18133381",
+      "doi_url": "https://www.doi.org/10.3390/en18133381",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Hydrogen-Assisted Renewable Fuels RME and HVO in the Compression-Ignition Engine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/publications/50c4560b-2163-4507-a11c-9ad31f794cce",
+      "authors": "S. Szwaja , R. Juknelevičius, S. Pukalskas, ... (+2)",
+      "publication_type": "Artykuł , SAE Technical Papers",
+      "year": "2025",
+      "doi": "10.4271/2025-32-0048",
+      "doi_url": "https://www.doi.org/10.4271/2025-32-0048",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modeling Hydrogen-Assisted Combustion of Liquid Fuels in Compression-Ignition Engines Using a Double-Wiebe Function",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/publications/01e22bba-51bd-463e-8bdd-b06d154580da",
+      "authors": "S. Szwaja , S. Pukalskas, R. Juknelevičius, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18215622",
+      "doi_url": "https://www.doi.org/10.3390/en18215622",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Studium pulsacji ciśnienia spalania w tłokowym silniku spalinowym zasilanym wodorem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/22a6972e-d663-463f-8c9d-526672f3e58a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie stanów nieustalonych w układzie zasilania silnika gazowego wyposażonego w mieszalnik i reduktor przeponowy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/55bd1358-b8c3-443d-8339-833cfda16e6b",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie stanów nieustalonych w układzie zasilania silnika gazowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/4dd8f70f-d896-4a52-a64f-29bbb4ae4f26",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Spalanie ciekłych produktów termicznego przetwarzania substancji organicznej w tłokowym silniku spalinowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/5f22758b-6099-4418-90f5-d29d9db4fd41",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie zależności stopnia uwęglenia karbonizatu od wybranych parametrów torgazu w ślimakowym reaktorze toryfikującym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/e98ef9fa-4353-44da-ab73-b5003e215d51",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza obiegu silnika o wydłużonej ekspansji zasilanego paliwami o dużej zawartości wodoru",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/4466f68b-6f04-47b0-8379-58828dcaed7f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metoda automatycznego i bezinwazyjnego pozyskiwania próbek biologicznych do wykrywania patogenów w akwakulturze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/4226ae30-79db-4627-a826-4f7d3273577f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "BADANIE WPŁYWU ZASTOSOWANIA EMULSJI PALIWOWO-WODNEJ NA EMISJĘ SUBSTANCJI SZKODLIWYCH I PARAMETRY PRACY MINIATUROWEJ TURBINY GAZOWEJ",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/c2386787-270a-40a9-9ee6-3f3e133cb908",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.szwaja.XW5pIEBRPI0/research-work/8faedbfa-f729-48bb-b5a1-8f68e43fd256",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=80775"
+    }
+  ],
+  "tag_cloud": [
+    "butanol",
+    "bio-oil",
+    "fuel",
+    "torrefaction",
+    "combustion",
+    "hydrogen",
+    "sida hermaphrodita",
+    "internal combustion engine",
+    "diesel fuel",
+    "emission"
+  ],
+  "coworkers": []
+}

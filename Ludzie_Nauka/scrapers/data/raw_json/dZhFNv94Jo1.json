@@ -1,0 +1,230 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1",
+  "slug": "maciej.antczak",
+  "profile_id": "dZhFNv94Jo1",
+  "full_name": "dr hab. inż. Maciej Roman Antczak",
+  "orcid": "0000-0002-5320-2023",
+  "orcid_url": "https://orcid.org/0000-0002-5320-2023",
+  "breadcrumb_name": "Maciej Antczak",
+  "current_employment_summary": [
+    "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/eb155ad0-f9cf-4c26-b470-4c6501ea0a66",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A retroelement-derived mammalian Arc protein exhibits selective RNA recognition and nucleic acid chaperone functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/publications/f48054b0-93ca-41a8-966e-4bbf4e423c98",
+      "authors": "J. Gumna-Mikina, A. Andrzejewska-Romanowska, M. Antczak , ... (+3)",
+      "publication_type": "Artykuł , Nucleic Acids Research",
+      "year": "2026",
+      "doi": "10.1093/nar/gkag207",
+      "doi_url": "https://www.doi.org/10.1093/nar/gkag207",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "FRET-guided selection of RNA 3D structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/publications/0bbe8593-37a8-412e-9a22-48e58b929a25",
+      "authors": "M. Weber, F. Erichson, M. Antczak , ... (+6)",
+      "publication_type": "Artykuł , Nucleic Acids Research",
+      "year": "2026",
+      "doi": "10.1093/nar/gkag147",
+      "doi_url": "https://www.doi.org/10.1093/nar/gkag147",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Assessing interface accuracy in macromolecular complexes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/publications/a21abdf3-6789-42d6-80d6-fc9debb46b61",
+      "authors": "O. Ludwiczak, M. Antczak , M. Szachniuk",
+      "publication_type": "Artykuł , PLoS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0319917",
+      "doi_url": "https://www.doi.org/10.1371/journal.pone.0319917",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody obliczeniowe wspomagające modelowanie struktur złożonych cząsteczek RNA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/research-work/e4b4d9ac-4bfd-4dce-8731-c5e211383e5e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmiczne aspekty modelowania i ewaluacji biomolekuł",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/research-work/f5d0ce0d-4d89-4de7-8095-59445209568c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie niestandardowych funkcji błędu, niejednorodności i regularyzacji dla algorytmów uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.antczak.dZhFNv94Jo1/research-work/4d10d2a6-8ac3-434c-910c-06e86841177a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=247495"
+    }
+  ],
+  "tag_cloud": [
+    "rnacomposer",
+    "rna",
+    "aptamer",
+    "structure prediction",
+    "3d structure prediction",
+    "rna structure",
+    "pseudoknots",
+    "ribozyme",
+    "classification",
+    "rna-puzzles"
+  ],
+  "coworkers": []
+}

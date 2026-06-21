@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI",
+  "slug": "arkadiusz.mystkowski",
+  "profile_id": "4KkGHrh7CfI",
+  "full_name": "dr hab. inż. Arkadiusz Mystkowski",
+  "orcid": "0000-0002-5742-7609",
+  "orcid_url": "https://orcid.org/0000-0002-5742-7609",
+  "breadcrumb_name": "Arkadiusz Mystkowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "dynamika i sterowanie maszyn",
+    "mechatronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Inżynierii Mechanicznej i Robotyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/25477aeb-5f8f-4f9f-bb7a-7a9224dbf90a"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Inżynierii Mechanicznej i Robotyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/25477aeb-5f8f-4f9f-bb7a-7a9224dbf90a"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/gremiums/b28376a5-de98-494c-8ba5-d83daba381e6",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Agriculture Machine fault detection based on multiple Input-Parallel-Neural network optimized by genetic algorithm with matrix chromosomes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/publications/ff2a5423-c914-465c-92cb-2644c20d4e0e",
+      "authors": "M. Sewioło, A. Mystkowski",
+      "publication_type": "Artykuł , Computers and Electronics in Agriculture",
+      "year": "2025",
+      "doi": "10.1016/j.compag.2025.111125",
+      "doi_url": "https://www.doi.org/10.1016/j.compag.2025.111125",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Genetic algorithm for automatic construction, optimization and testing of multi-input forked convolutional neural networks used for diagnostics of rotating agricultural machines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/publications/69a83704-8afd-4664-853e-b70b404c4ef8",
+      "authors": "M. Sewioło, A. Mystkowski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/mmar62187.2024.10680805",
+      "doi_url": "https://www.doi.org/10.1109/mmar62187.2024.10680805",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Measurement and diagnostic system for detecting and classifying faults in the rotary hay tedder using multilayer perceptron neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/publications/09c6b1ea-1e69-464d-b64a-29dae999d979",
+      "authors": "A. Mystkowski , A. Wolniakowski, A. Idzkowski, ... (+7)",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2024.108513",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2024.108513",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie metod sterowania odpornego do stabilizacji obiektów mechanicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/research-work/28eecaa5-fed3-4d31-aa1d-1bc1fd01b612",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sterowanie odporne drganiami wirnika łożyskowanego magnetycznie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/research-work/eb31ecd3-5348-49bd-bfdc-5649c6d9a8d0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i analiza interakcji pomiędzy dwukołowym samobalansującym pojazdem a jego użytkownikiem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/research-work/64de773b-0279-4be7-be39-bf70e8b335b6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie optyki sterowalnej w obrazowaniu trójwymiarowym metodą SFF",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.mystkowski.4KkGHrh7CfI/research-work/5f3996fb-9261-4b69-b42e-1cd6b2d17e9b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=209908"
+    }
+  ],
+  "tag_cloud": [
+    "stereo image-based visual servoing",
+    "induction motor",
+    "mapowanie plonu pola",
+    "thermal performance",
+    "thermal analysis",
+    "thermal mapping",
+    "tool vibrations",
+    "diagnostyka predykcyjna maszyn",
+    "sieci neuronowe",
+    "resolution"
+  ],
+  "coworkers": []
+}

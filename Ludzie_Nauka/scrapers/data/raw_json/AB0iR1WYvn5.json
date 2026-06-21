@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5",
+  "slug": "maciej.kozak",
+  "profile_id": "AB0iR1WYvn5",
+  "full_name": "dr inż. Maciej Marek Kozak",
+  "orcid": "0000-0002-0062-1590",
+  "orcid_url": "https://orcid.org/0000-0002-0062-1590",
+  "breadcrumb_name": "Maciej Kozak",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektrotechnika okrętowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Szczecińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Implementation of a Sensorless Control System with a Flying-Start Feature for an Asynchronous Machine as a Ship Shaft Generator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/publications/f538cb98-3514-4f15-9db4-346a2b8d7734",
+      "authors": "K. Olszański, M. Kozak",
+      "publication_type": "Artykuł , Energies",
+      "year": "2026",
+      "doi": "10.3390/en19030776",
+      "doi_url": "https://www.doi.org/10.3390/en19030776",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of a hybrid current-voltage machine observer model in a ship’s asynchronous cage generator control algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/publications/21283180-82a6-446d-8fe2-705ceee0068d",
+      "authors": "M. Kozak , P. Głogowski",
+      "publication_type": "Artykuł , Scientific Journals of the Maritime University of Szczecin-Zeszyty Naukowe Akademii Morskiej w Szczecinie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of Squirrel Cage Generator Control System Utilizing Direct Torque Control Method as the Shaft Generator in a Seagoing Ship",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/publications/c97bbc7a-952e-4a1d-9b6d-e93d05928fe5",
+      "authors": "M. Kozak , R. Bronsky, M. Matuszak",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17235985",
+      "doi_url": "https://www.doi.org/10.3390/en17235985",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.kozak.AB0iR1WYvn5/research-work/a02b6c3c-0e9d-4ab8-8b00-f2714aa5a6c6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260873"
+    }
+  ],
+  "tag_cloud": [
+    "load sharing",
+    "fft",
+    "microgrids",
+    "synchronous generator",
+    "acoustic emission",
+    "power distribution",
+    "falownik maszynowy",
+    "line side inverter",
+    "electrical transformer",
+    "drilling process"
+  ],
+  "coworkers": []
+}

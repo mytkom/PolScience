@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S",
+  "slug": "jakub.nikonowicz",
+  "profile_id": "FmPo7nFrk7S",
+  "full_name": "dr hab. inż. Jakub Nikonowicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jakub Nikonowicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Internet of Plants: Machine Learning System for Bioimpedance-Based Plant Monitoring",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/publications/c0aec667-bfc2-48ac-afb0-32778dedbb47",
+      "authors": "Ł. Matuszewski, J. Nikonowicz , J. Bonczyk, ... (+3)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25247549",
+      "doi_url": "https://www.doi.org/10.3390/s25247549",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Sliding mode control as an efficient method of synchronization of high-stability oscillators with 1 PPS signals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/publications/ebd27348-58d2-476a-aea4-4dac0ee807d9",
+      "authors": "P. Kubczak, M. Jessa, J. Nikonowicz",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3646849",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3646849",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Summing Modulo 2 of Stationary Binary Stochastic Processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/publications/885f8838-4e6c-442a-89b1-b942bb71bf0f",
+      "authors": "M. Jessa, J. Nikonowicz",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3615472",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3615472",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowe metody statystycznego przetwarzania sygnałów na potrzeby ślepej detekcji w systemach komunikacyjnych i technologiach bezpieczeństwa następnych generacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/research-work/8c0b0527-852d-4dfe-ad5c-21c44b957234",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda detekcji stabilnego pola jako rozwinięcie metody detekcji energii nieznanych sygnałów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.nikonowicz.FmPo7nFrk7S/research-work/43ec9cf0-aa23-44dd-a657-f97bafd6cf44",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=301683"
+    }
+  ],
+  "tag_cloud": [
+    "spectrum sensing",
+    "weak signals detection",
+    "unknown signals",
+    "energy detection",
+    "machine learning",
+    "blind detection",
+    "pattern matching",
+    "random number generator",
+    "cumulative distribution function",
+    "sequence alignment"
+  ],
+  "coworkers": []
+}

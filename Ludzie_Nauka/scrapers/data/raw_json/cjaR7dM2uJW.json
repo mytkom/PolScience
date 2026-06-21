@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW",
+  "slug": "bartosz.walter",
+  "profile_id": "cjaR7dM2uJW",
+  "full_name": "dr hab. inż. Bartosz Walter",
+  "orcid": "0000-0003-1212-2390",
+  "orcid_url": "https://orcid.org/0000-0003-1212-2390",
+  "breadcrumb_name": "Bartosz Walter",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria oprogramowania",
+    "języki programowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chatting About Flaky Tests with Standard LLMs. An Empirical Exploration",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/publications/a467a9c8-58f7-4068-97d8-c2f4d5c57fdf",
+      "authors": "M. Szwarc, B. Walter",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-12092-2_28",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-12092-2_28",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fifty shades of green. Speaking and understanding a secret language of project statuses.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/publications/d59d44b5-6a70-4080-9fe2-958e9e121ad3",
+      "authors": "J. Chabik, B. Walter",
+      "publication_type": "Artykuł , IEEE Software",
+      "year": "2025",
+      "doi": "10.1109/ms.2025.3578990",
+      "doi_url": "https://www.doi.org/10.1109/ms.2025.3578990",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Performance of Node.js Backend Application Frameworks. An Empirical Evaluation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/publications/71bcd7df-cb08-4f7b-bd7f-07bc81f615fd",
+      "authors": "P. Kuffel, B. Walter",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.62036/isd.2024.87",
+      "doi_url": "https://www.doi.org/10.62036/isd.2024.87",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Code smells as early predictors of source code maintainablity. Detection approaches, relationships and impact on selected code properties (praca posiada tytuł tylko w jez.angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work/28b122ed-637e-496f-9a60-8b8a1c164411",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza przekształceń refaktoryzacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work/c161e1b5-0dc2-4953-a152-7798d96a8758",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Software Product Management - challenges, guidelines, methods and techniques to improve software engineering practices",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work/7ee15b16-4a4d-4a6f-8f79-ab73ad50ba0b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Development and verification of new methods for analyzing the structure and operation of complex IT systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work/38d09eb6-3bcf-4985-ba24-0d1d8f62d6ac",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie predykcji defektów w komercyjnych projektach rozwoju oprogramowania - od rozważań teoretycznych do codziennej praktyki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.walter.cjaR7dM2uJW/research-work/4f1657b5-69f5-4238-8b77-3719b2d931f8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=mDkW8hoAAAAJ&hl=pl"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=14046404000"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/1515852"
+    }
+  ],
+  "tag_cloud": [
+    "product lifecycle management",
+    "recommendations",
+    "clone prioritisation",
+    "software maturity evaluation",
+    "software process improvement",
+    "best practices",
+    "architectural smells and design patterns relationships",
+    "software quality",
+    "genetic algorithm",
+    "maturity evaluation"
+  ],
+  "coworkers": []
+}

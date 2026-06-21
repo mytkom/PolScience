@@ -1,0 +1,202 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc",
+  "slug": "radosław.idzikowski",
+  "profile_id": "K8GHncN7sMc",
+  "full_name": "dr inż. Radosław Marcin Idzikowski",
+  "orcid": "0000-0001-5232-1998",
+  "orcid_url": "https://orcid.org/0000-0001-5232-1998",
+  "breadcrumb_name": "Radosław Idzikowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "algorytmy optymalizacji dyskretnej",
+    "metaheurystyki optymalizacyjne",
+    "metody optymalizacji",
+    "modelowanie procesów dyskretnych",
+    "optymalizacja dyskretna",
+    "szeregowanie zadań",
+    "transport i logistyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessing feasibility in service teams transport scheduling with dedicated and flexible dispatch approaches",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/publications/eabcb73d-7516-4b14-902e-aa82037ab18a",
+      "authors": "G. Radzki, G. Bocewicz [...] R. Idzikowski , ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312727",
+      "doi_url": "https://www.doi.org/10.3390/app152312727",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-criteria vehicle routing problem for a real-life parcel locker-based delivery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/publications/8d293908-6a0f-4646-959d-d2d7a5ee02cc",
+      "authors": "R. Idzikowski , J. Rudy, M. Jaroszczuk",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153624",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153624",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multi-criteria vehicle routing problem for maintenance in manufacturing systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/publications/c2f13d0e-c185-4801-b1bf-61d61ae69819",
+      "authors": "J. Rudy, R. Idzikowski",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2025",
+      "doi": "10.1016/j.ifacol.2025.11.877",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2025.11.877",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy optymalizacyjne dla problemu szeregowania zadań ze sprzężeniami czasowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rados%C5%82aw.idzikowski.K8GHncN7sMc/research-work/09812e29-b6f6-4c2c-9322-5f90f421bd01",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=310254"
+    }
+  ],
+  "tag_cloud": [
+    "sprzężenia czasowe",
+    "wirtualna rzeczywistość",
+    "scheduling",
+    "lagrangian relaxation",
+    "total weighted tardiness",
+    "środowisko budowlane",
+    "czynniki zagrożenia",
+    "metaheuristics",
+    "wizualizacja",
+    "szeregowanie zadań"
+  ],
+  "coworkers": []
+}

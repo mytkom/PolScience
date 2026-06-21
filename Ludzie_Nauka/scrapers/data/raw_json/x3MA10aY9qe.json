@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe",
+  "slug": "maciej.krasicki",
+  "profile_id": "x3MA10aY9qe",
+  "full_name": "dr hab. inż. Maciej Krasicki",
+  "orcid": "0000-0001-7726-3114",
+  "orcid_url": "https://orcid.org/0000-0001-7726-3114",
+  "breadcrumb_name": "Maciej Krasicki",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid NOMA-Based Resource Allocation for Multi-Access Edge Computing in HetNets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/publications/84ee52f7-f506-4d7a-af00-760b4fd3f6c4",
+      "authors": "H. Ghazi, A. Al-Shuwaili [...] M. Krasicki , ... (+1)",
+      "publication_type": "Artykuł , Journal of Mechanics of Continua and Mathematical Sciences",
+      "year": "2025",
+      "doi": "10.26782/jmcms.2025.09.00003",
+      "doi_url": "https://www.doi.org/10.26782/jmcms.2025.09.00003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Re-Designed Algorithm to Obtain the Optimal Hypercube Constellation Mappings for BICM-ID Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/publications/672cc326-1fc7-49c0-a6f3-3297a32b0789",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/iwcmc65282.2025.11059550",
+      "doi_url": "https://www.doi.org/10.1109/iwcmc65282.2025.11059550",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Labeling-Based Recipient Identification with Low-Order Modulation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/publications/c3249cd6-7177-4eba-a52e-b04bdf58ce53",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13020425",
+      "doi_url": "https://www.doi.org/10.3390/electronics13020425",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modulacja BICM-ID - nowe techniki dywersyfikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/research-work/e2779b4d-14ce-42fd-bae2-45e03e8d3e49",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Interacyjny odbiornik dla bezprzewodowych sieci komputerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.krasicki.x3MA10aY9qe/research-work/e4a0c06e-4151-4b8c-b712-8f677448f985",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260208"
+    }
+  ],
+  "tag_cloud": [
+    "unmanned aerial vehicles (uav)",
+    "adaptive equalization",
+    "neural networks",
+    "radio link throughput measurements",
+    "iterative decoding",
+    "bezzałogowe statki powietrzne",
+    "user equipment",
+    "sieci neuronowe",
+    "recursive least squares",
+    "tcp/ip"
+  ],
+  "coworkers": []
+}

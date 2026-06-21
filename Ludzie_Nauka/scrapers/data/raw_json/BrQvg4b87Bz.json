@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz",
+  "slug": "robert.studziński",
+  "profile_id": "BrQvg4b87Bz",
+  "full_name": "dr hab. inż. Robert Studziński",
+  "orcid": "0000-0002-0906-8701",
+  "orcid_url": "https://orcid.org/0000-0002-0906-8701",
+  "breadcrumb_name": "Robert Studziński",
+  "current_employment_summary": [
+    "Politechnika Poznańska",
+    "Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcje metalowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e8c292f9-7b79-4d42-8480-d0c7f7a5787b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Stanisława Staszica w Pile Aktualna nazwa: Akademia Nauk Stosowanych im. Stanisława Staszica w Pile",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1aac7c63-437b-484c-8e33-1cb504ece435",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budownictwa i Inżynierii Środowiska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d9c56e0-6a57-4640-854d-60e27ffca5ee"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Experimental and numerical study of the static pull-out of blind rivets from a sandwich roof panel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/publications/9beaafcf-a9be-48a6-91dd-4957a6fce215",
+      "authors": "Y. Guo, A. Piekarczuk [...] R. Studziński , ... (+2)",
+      "publication_type": "Artykuł , Journal of Sandwich Structures and Materials",
+      "year": "2026",
+      "doi": "10.1177/10996362251383027",
+      "doi_url": "https://www.doi.org/10.1177/10996362251383027",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An Assessment of the Behaviour of Ceiling Beams of Different Structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/publications/8b4f3b3e-dadb-4fa7-8010-bfb2073b6a5a",
+      "authors": "K. Ciesielczyk, R. Studziński , M. Chybiński, ... (+5)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152111543",
+      "doi_url": "https://www.doi.org/10.3390/app152111543",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Implementation of EC3 second generation global analyses in engineering practice",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/publications/42c48d07-7cfa-4d5f-9b97-f6fcf7073a2b",
+      "authors": "S. Szewczyk, R. Studziński",
+      "publication_type": "Artykuł , Inżynieria i Budownictwo",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.1605",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.1605",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ zastosowania połączeń jednostronnych oraz przyjętych rozwiązań materiałowych i warunków brzegowych na zachowanie się paneli warstwowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/research-work/5c65f119-2567-475e-9946-8ed04d2c5f1a",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja i analiza wrażliwości płyt warstwowych z miękkim rdzeniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/research-work/2e7807a9-f5aa-4841-80a7-cd93b272143c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ właściwości asfaltu i składu mieszanki mineralno-asfaltowej na cechy reologiczne betonu asfaltowego o wysokim module sztywności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/research-work/051d84fd-7a6d-49bb-9da8-8c752a159306",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie analityczne cienkich sklein ścinanych quasistatycznie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.studzi%C5%84ski.BrQvg4b87Bz/research-work/47e8a92d-41ce-48a3-997c-ab074f4af4f8",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=251107"
+    }
+  ],
+  "tag_cloud": [
+    "eurokod 3.",
+    "non-continuous core",
+    "non-locality",
+    "płyty warstwowe",
+    "explosive",
+    "konstrukcje stalowe",
+    "sandwich panel",
+    "żelbetowe ustroje prętowe",
+    "badania doświadczalne",
+    "fractional derivatives"
+  ],
+  "coworkers": []
+}

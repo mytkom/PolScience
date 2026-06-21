@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG",
+  "slug": "marcin.januszewski",
+  "profile_id": "EIAe3hky7CG",
+  "full_name": "dr Marcin Piotr Januszewski",
+  "orcid": "0000-0001-8404-8922",
+  "orcid_url": "https://orcid.org/0000-0001-8404-8922",
+  "breadcrumb_name": "Marcin Januszewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka elektroenergetyczna",
+    "automatyka i inżynieria komputerowa",
+    "elektroenergetyka",
+    "elektrotechnologia",
+    "informatyka w elektroenergetyce",
+    "systemy elektroakustyczne",
+    "technika mikroprocesorowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza porównawcza algorytmów zabezpieczeń różnicowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/publications/d7e33af1-f2ce-4040-8d01-f8b0597cc6d6",
+      "authors": "W. Wróblewski, R. Kowalik, M. Januszewski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.10.1",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.10.1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "XXVII Ogólnopolska Konferencja 2025 Zabezpieczenia Przekaźnikowe w Energetyce",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/publications/4dc27fde-f896-4ae1-b4db-cf1a098c14cc",
+      "authors": "R. Kowalik, M. Januszewski , W. Wróblewski",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Comprehensive Review of Load Frequency Control Technologies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/publications/9a530994-c4fd-450a-bb8f-c7b450de1797",
+      "authors": "D. Rasolomampionona, M. Polecki [...] M. Januszewski , ... (+2)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17122915",
+      "doi_url": "https://www.doi.org/10.3390/en17122915",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Urządzenia FACTS jako środek poprawy stabilności systemu elektroenergetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.januszewski.EIAe3hky7CG/research-work/538e2be6-3d9e-40c8-bde3-d2505d957f5d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=107574"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

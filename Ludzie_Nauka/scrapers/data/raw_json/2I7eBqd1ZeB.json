@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB",
+  "slug": "zbigniew.gajo",
+  "profile_id": "2I7eBqd1ZeB",
+  "full_name": "dr Zbigniew Konstanty Gajo",
+  "orcid": "0000-0002-0614-7148",
+  "orcid_url": "https://orcid.org/0000-0002-0614-7148",
+  "breadcrumb_name": "Zbigniew Gajo",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "statystyczne przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Gridless High-Order Target Kinematic Parameter Estimation in Passive Radars—From Cross-Ambiguity Function to Zak Transform",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/publications/ec6fa814-d81b-424b-82ed-920b094e1369",
+      "authors": "K. Abratkiewicz, Z. Gajo",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2024",
+      "doi": "10.1109/jstars.2024.3449392",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2024.3449392",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Target Acceleration Estimation in Active and Passive Radars",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/publications/29745714-bfd7-487a-b705-30032abb0405",
+      "authors": "K. Abratkiewicz, M. Malanowski, Z. Gajo",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2023",
+      "doi": "10.1109/jstars.2023.3319829",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2023.3319829",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Multipath Interference Removal in Receivers of Linear Frequency Modulated Radar Pulses",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/publications/4b6b3613-68b0-4edf-84d5-beb2c3c7e571",
+      "authors": "K. Abratkiewicz, P. Samczynski [...] Z. Gajo , ... (+1)",
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2021",
+      "doi": "10.1109/jsen.2021.3087319",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2021.3087319",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Odporne estymatory parametrów autoregresyjnych szeregów czasowych - zastosowania w analizie widmowej dyskretnych sygnałów losowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.gajo.2I7eBqd1ZeB/research-work/2ec703b9-21e1-4613-ad0b-d5d186b7a606",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85955"
+    }
+  ],
+  "tag_cloud": [
+    "radar clutter",
+    "doppler-spread clutter removal",
+    "maximum likelihood estimation",
+    "spaceborne radar",
+    "passive radar",
+    "clean technique",
+    "ground clutter",
+    "radar signal processing",
+    "receiving antennas",
+    "antenna arrays"
+  ],
+  "coworkers": []
+}

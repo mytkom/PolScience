@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4",
+  "slug": "michał.kalewski",
+  "profile_id": "o8p7uOweAl4",
+  "full_name": "dr inż. Michał Zdzisław Kalewski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Michał Kalewski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "systemy rozproszone"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Uniform and regular reliable broadcast protocols facilitating concurrent message dissemination for mobile ad hoc networks with the network liveness property",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/publications/7697c8e7-fa3c-42ba-9946-83aebecb5e9a",
+      "authors": "M. Kalewski , J. Brzezinski",
+      "publication_type": "Artykuł , Journal of Network and Computer Applications",
+      "year": "2022",
+      "doi": "10.1016/j.jnca.2021.103300",
+      "doi_url": "https://www.doi.org/10.1016/j.jnca.2021.103300",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Providing Uniform Reliable Broadcast Delivery for Mobile Ad Hoc Networks with MANET Liveness Property",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/publications/7feda9f5-0e8b-48d4-9827-bfa0e3d80e73",
+      "authors": "J. Brzezinski, M. Kalewski , J. Kobusiński",
+      "publication_type": "Artykuł , 2012 IEEE 31st Symposium on Reliable Distributed Systems",
+      "year": "2012",
+      "doi": "10.1109/srds.2012.53",
+      "doi_url": "https://www.doi.org/10.1109/srds.2012.53",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Distribution of Liveness Property Connectivity Interval in Selected Mobility Models of Wireless Ad Hoc Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/publications/8a006885-78b8-4cfa-8a13-855505b819f4",
+      "authors": "J. Brzezinski, M. Kalewski , M. Kosiba, ... (+1)",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-642-32820-6_76",
+      "doi_url": "https://www.doi.org/10.1007/978-3-642-32820-6_76",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Niezawodne protokoły rozgłaszania dla mobilnych sieci ad hoc z właściwością żywotności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.kalewski.o8p7uOweAl4/research-work/09bc5594-e6e4-4c12-9b12-92d732652982",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260308"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

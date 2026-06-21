@@ -1,0 +1,276 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20",
+  "slug": "robert.suwaj",
+  "profile_id": "Hp5cWtfJd20",
+  "full_name": "prof. dr hab. Robert Suwaj",
+  "orcid": "0000-0003-1372-9039",
+  "orcid_url": "https://orcid.org/0000-0003-1372-9039",
+  "breadcrumb_name": "Robert Suwaj",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "prawo administracyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Uniwersytet w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Wyższa Szkoła Policji w Szczytnie Aktualna nazwa: Akademia Policji w Szczytnie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/6be05d88-f6aa-41a5-8a2f-a17ea14be1cc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Administracji Publicznej im. Stanisława Staszica w Białymstoku Aktualna nazwa: Wyższa Szkoła Administracji Publicznej imienia Stanisława Staszica w Białymstoku w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b4f0c3c-8500-47b1-8007-61d7197287f6",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk społecznych / nauki prawne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk prawnych / prawo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet w Białymstoku; Wydział Prawa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bbf604e8-e724-4943-ab4d-ca7b4e50a50d"
+        },
+        {
+          "label": "Uniwersytet w Białymstoku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk prawnych / prawo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet w Białymstoku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d0155bd9-09cf-474a-b10c-51a4b46c9d57"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "prawo",
+        "Nadanie tytułu",
+        "Uniwersytet Warszawski, Wydział Prawa w Białymstoku",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Charakter prawny sumy pieniężnej z art. 149 § 2 p.p.s.a.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/publications/0958900d-a742-43dc-9f94-6b41e58844b4",
+      "authors": "R. Suwaj , P. Suwaj",
+      "publication_type": "Artykuł , Przegląd Ustawodawstwa Gospodarczego",
+      "year": "2025",
+      "doi": "10.33226/0137-5490.2025.4.2",
+      "doi_url": "https://www.doi.org/10.33226/0137-5490.2025.4.2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Manners of the Extinguishing of Liabilities Arising from Administrative Fines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/publications/e8d2d6a3-c6d3-4801-b0b2-35d345a1fed6",
+      "authors": "E. Kruk, R. Suwaj",
+      "publication_type": "Artykuł , Judgment Commentary",
+      "year": "2025",
+      "doi": "10.17951/glosa.2025.4.77-88",
+      "doi_url": "https://www.doi.org/10.17951/glosa.2025.4.77-88",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Ochrona informacji niejawnych. Komentarz",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/publications/e0662ff1-70ad-41f6-85ca-0c23ab4ae5c3",
+      "authors": "M. Cyndel, D. Fleszer [...] R. Suwaj , ... (+14)",
+      "publication_type": "Książka , Wolters Kluwer",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/d7f23260-1c66-4f05-8cf6-d56823e9965e",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Sądowa ochrona przed bezczynnością administracji publicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/54ca481d-4148-4de8-8751-82296c0ff46d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Administracyjne postępowanie dowodowe w świetle przepisów Kodeksu postępowania administracyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/c3a336d0-671a-489a-868a-d65690c8e8c3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Sprzeciw od decyzji kasacyjnej w postępowaniu sądowoadministracyjnym.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/5b4e2735-3ca5-49ff-a58f-05181e752fe5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wycena nieruchomości dokonywana przez rzeczoznawców majątkowych a wycena nieruchomosci dokonywana przez systemy teleinformatyczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/5b4ed61c-58fe-4820-a8c1-7555159c9311",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Prawne mechanizmy efektywności wpisu do rejestru zabytków w systemie form działania administracji konserwatorskiej demokratycznego państwa prawnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.suwaj.Hp5cWtfJd20/research-work/3145dd2d-25c0-4726-9281-82eae2213e3e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=114159"
+    }
+  ],
+  "tag_cloud": [
+    "decyzja kasacyjna",
+    "postępowanie odwoławcze",
+    "ogólne postępowanie administracyjne",
+    "cassation decision",
+    "decyzja reformatoryjna",
+    "samorządowe kolegia odwoławcze",
+    "appeal proceedings",
+    "judicial control of the administration",
+    "sądowa kontrola administracji",
+    "administracja publiczna"
+  ],
+  "coworkers": []
+}

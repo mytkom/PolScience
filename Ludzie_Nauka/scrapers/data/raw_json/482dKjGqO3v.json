@@ -1,0 +1,188 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v",
+  "slug": "romuald.dobosz",
+  "profile_id": "482dKjGqO3v",
+  "full_name": "dr inż. Romuald Dobosz",
+  "orcid": "0000-0002-8975-4153",
+  "orcid_url": "https://orcid.org/0000-0002-8975-4153",
+  "breadcrumb_name": "Romuald Dobosz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Warszawska Wydział Mechaniczny Energetyki i Lotnictwa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Experimental and Numerical Investigations of Titanium Deposition for Cold Spray Additive Manufacturing as a Function of Standoff Distance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/publications/6efc338f-a9f7-479b-b0ac-302a90c52985",
+      "authors": "W. Żórawski, R. Molak [...] R. Dobosz , ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2021",
+      "doi": "10.3390/ma14195492",
+      "doi_url": "https://www.doi.org/10.3390/ma14195492",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Biogenic composite filaments based on polylactide and diatomaceous earth for 3D printing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/publications/b964c2ae-fa33-46bc-a7fd-48880c00031b",
+      "authors": "M. Dobrosielska, R. Przekop [...] R. Dobosz , ... (+7)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2020",
+      "doi": "10.3390/ma13204632",
+      "doi_url": "https://www.doi.org/10.3390/ma13204632",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Diffusion in Condensed Matter by Finite Element Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/publications/05e0ca14-7fb8-46e8-a915-da9e2f7f07ba",
+      "authors": "R. Dobosz , K. Kurzydłowski",
+      "publication_type": "Artykuł , Diffusion Foundations",
+      "year": "2017",
+      "doi": "10.4028/www.scientific.net/df.12.127",
+      "doi_url": "https://www.doi.org/10.4028/www.scientific.net/df.12.127",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zasady klasyfikacji i monitorowania rozwoju uszkodzeń w kompozytach o osnowie polimerowej do zastosowań w obiektach inżynierii lądowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.dobosz.482dKjGqO3v/research-work/08cf1c46-1380-4f62-b290-3d3ffa40c5ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=273936"
+    }
+  ],
+  "tag_cloud": [
+    "real interface roughness",
+    "microstructure",
+    "particle size",
+    "egzoszkielet krzemionkowy",
+    "diatoms",
+    "mechanical characteristics",
+    "fused deposition modeling (fdm)",
+    "diffusion",
+    "particle size analysis",
+    "polycrystalline materials"
+  ],
+  "coworkers": []
+}

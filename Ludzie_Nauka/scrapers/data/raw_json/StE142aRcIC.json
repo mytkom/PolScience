@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC",
+  "slug": "michał.urbaniak",
+  "profile_id": "StE142aRcIC",
+  "full_name": "dr inż. Michał Urbaniak",
+  "orcid": "0000-0002-5296-5184",
+  "orcid_url": "https://orcid.org/0000-0002-5296-5184",
+  "breadcrumb_name": "Michał Urbaniak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Transportu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d20019dd-29e1-4d01-95b4-17ce35d6e028"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "transport",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Application of Mobile Devices for Measuring Accelerations in Rail Vehicles: Methodology and Field Research Outcomes in Tramway Transport",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/publications/22413f48-1437-4e8e-908f-5796e1ccef9e",
+      "authors": "M. Urbaniak , J. Myrcik, M. Juda, ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25154635",
+      "doi_url": "https://www.doi.org/10.3390/s25154635",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of Train Energy Cooperation Using Scheduled Service Time Reserve",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/publications/f96fa1dc-06f0-484a-8845-5db528ab3366",
+      "authors": "E. Kardas-Cinal, M. Urbaniak",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15010119",
+      "doi_url": "https://www.doi.org/10.3390/en15010119",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimization of Energetic Train Cooperation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/publications/23f2993c-4e8c-46ee-91b1-65605901c53a",
+      "authors": "M. Urbaniak , E. Kardas-Cinal, M. Jacyna",
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2019",
+      "doi": "10.3390/sym11091175",
+      "doi_url": "https://www.doi.org/10.3390/sym11091175",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Model organizacji ruchu na sieci kolejowej z uwzględnieniem rekuperacji energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.urbaniak.StE142aRcIC/research-work/809d05a4-8345-4e26-b54d-5200dc45c0dc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=291951"
+    }
+  ],
+  "tag_cloud": [
+    "regenerative braking",
+    "rail transport",
+    "energy recuperation",
+    "organizacja ruchu",
+    "transport szynowy",
+    "traffic organization",
+    "komfort podróży",
+    "pomiary akcelerometryczne",
+    "transport kolejowy",
+    "hamowanie odzyskowe"
+  ],
+  "coworkers": []
+}

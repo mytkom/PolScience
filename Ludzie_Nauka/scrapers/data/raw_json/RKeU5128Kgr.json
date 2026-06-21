@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr",
+  "slug": "marcin.piasecki",
+  "profile_id": "RKeU5128Kgr",
+  "full_name": "dr inż. Marcin Piasecki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marcin Piasecki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika antenowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "2 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "makro informatyka, automatyka i robotyka, elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Construction of Multistatic Radio Receiving System for Research Purposes at the Przasnysz Airfield",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/publications/1bf3358c-8470-4d81-be44-d159086b64a9",
+      "authors": "K. Jedrzejewski, M. Malanowski [...] M. Piasecki , ... (+5)",
+      "publication_type": "Artykuł , 2022 24th International Microwave and Radar Conference (MIKON)",
+      "year": "2022",
+      "doi": "10.23919/mikon54314.2022.9924976",
+      "doi_url": "https://www.doi.org/10.23919/mikon54314.2022.9924976",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Universal RFSoC-based Signal Recorder for Radar Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/publications/21e3d8b3-e994-443d-846d-17074f784441",
+      "authors": "F. Michalak, W. Zabolotny [...] M. Piasecki , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.23919/irs54158.2022.9905032",
+      "doi_url": "https://www.doi.org/10.23919/irs54158.2022.9905032",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Integrated Communications System for the Remote Operation of Unmanned Aerial Vehicle",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/publications/1fa4b05b-9a11-46f1-b40b-32b0f9a17a92",
+      "authors": "P. Bajurko, K. Kurek [...] M. Piasecki , ... (+10)",
+      "publication_type": "Artykuł , TransNav : International Journal on Marine Navigation and Safety of Sea Transportation",
+      "year": "2013",
+      "doi": "10.12716/1001.07.02.11",
+      "doi_url": "https://www.doi.org/10.12716/1001.07.02.11",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie systemu anteny inteligentnej sterowanej z wykorzystaniem algorytmu genetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.piasecki.RKeU5128Kgr/research-work/f94684b9-a27e-47c6-b6ac-bc4d8161d323",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108130"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

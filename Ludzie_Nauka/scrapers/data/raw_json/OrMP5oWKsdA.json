@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA",
+  "slug": "jakub.osuchowski",
+  "profile_id": "OrMP5oWKsdA",
+  "full_name": "dr inż. Jakub Osuchowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jakub Osuchowski",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie i analiza obrazów",
+    "przetwarzanie obrazów cyfrowych",
+    "przetwarzanie obrazu"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / automatyka, elektronika i elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy generation in a multi-sided photovoltaic system: Analysis of the prediction effectiveness",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/publications/fb42fc8e-9505-47d6-bc4a-ba4fc79a99b0",
+      "authors": "S. Zator, J. Osuchowski , S. Kasana, ... (+2)",
+      "publication_type": "Artykuł , Renewable Energy",
+      "year": "2025",
+      "doi": "10.1016/j.renene.2025.123325",
+      "doi_url": "https://www.doi.org/10.1016/j.renene.2025.123325",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Systematic Review of Image-Based Emotion Recognition Datasets: A Comprehensive Analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/publications/efbafae1-f4db-46bd-877e-10475d43fd4f",
+      "authors": "M. Tomaszewski, Z. Bougriche, J. Osuchowski , ... (+1)",
+      "publication_type": "Artykuł , Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery",
+      "year": "2025",
+      "doi": "10.1002/widm.70047",
+      "doi_url": "https://www.doi.org/10.1002/widm.70047",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Comparison of Frame-by-Frame and Aggregation Approaches for Gesture Classification Using Machine Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/publications/90766037-1068-4b68-becc-52a98a1cdf99",
+      "authors": "M. Wierzbicki, J. Osuchowski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Detekcja izolatorów linii elektroenergetycznej z wykorzystaniem metod przetwarzania obrazów cyfrowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.osuchowski.OrMP5oWKsdA/research-work/263776e5-26fe-4318-86b0-93afb5781f19",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=308694"
+    }
+  ],
+  "tag_cloud": [
+    "signal classification",
+    "xgboost",
+    "object detection",
+    "periodogram",
+    "decision tree",
+    "power insulator",
+    "signal processing",
+    "random forest",
+    "image analysis",
+    "welch"
+  ],
+  "coworkers": []
+}

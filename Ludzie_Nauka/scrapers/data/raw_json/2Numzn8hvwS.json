@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS",
+  "slug": "maria.natorska",
+  "profile_id": "2Numzn8hvwS",
+  "full_name": "mgr inż. Maria Ewa Natorska",
+  "orcid": "0000-0002-9540-4459",
+  "orcid_url": "https://orcid.org/0000-0002-9540-4459",
+  "breadcrumb_name": "Maria Natorska",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "edukacja techniczno-informatyczna",
+        "Nadanie tytułu",
+        "POLITECHNIKA OPOLSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of a decision classifier tree to evaluate energy consumption of an electric vehicle under real traffic conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/publications/89d9f6ae-a561-4d27-a255-cb51df23bd29",
+      "authors": "A. Deptuła, M. Natorska , A. Deptula, ... (+3)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/199799",
+      "doi_url": "https://www.doi.org/10.12913/22998624/199799",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Decyzyjna optymalizacja pompy zębatej z podciętą stopą zęba za pomocą nakładkowych drzew logicznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/publications/9bc004e0-fc05-4f78-8c6b-a991910d92d5",
+      "authors": "M. Partyka, M. Natorska",
+      "publication_type": "Artykuł , Napędy i Sterowanie",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Dyskretna optymalizacja dla strukturalnej klasyfikacji informacji za pomocą nakładkowych drzew logicznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.natorska.2Numzn8hvwS/publications/c74e359c-8d49-498f-ba00-aad7071c86d4",
+      "authors": "M. Partyka, M. Natorska",
+      "publication_type": "Artykuł , Napędy i Sterowanie",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "volumetric efficiency ηv",
+    "gear pomp",
+    "hydraulic-mechanical efficiency ηhm",
+    "minimization of decision function",
+    "structural classification informations",
+    "multiple-dimensional logical functions",
+    "multiple-dimensional logical trees",
+    "discrete optimization",
+    "total efficiency ηc",
+    "quine-mccluskey algorithm"
+  ],
+  "coworkers": []
+}

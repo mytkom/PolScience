@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz",
+  "slug": "maciej.sosnowski",
+  "profile_id": "GTSBbYY1yHz",
+  "full_name": "dr inż. Maciej Sosnowski",
+  "orcid": "0000-0003-0563-1111",
+  "orcid_url": "https://orcid.org/0000-0003-0563-1111",
+  "breadcrumb_name": "Maciej Sosnowski",
+  "current_employment_summary": [
+    "Instytut Łączności - Państwowy Instytut Badawczy",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "14 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika, informatyka i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adaptive sampling method for network traffic security monitoring based on queuing theory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/publications/dfc007d8-e540-4bcd-9e18-986289554b83",
+      "authors": "M. Sosnowski , P. Wisniewski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Adaptive sampling method for network traffic security monitoring based on queuing theory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/publications/c031e4c8-3808-4c0f-9a15-7e7a6e5fc608",
+      "authors": "M. Sosnowski , P. Wisniewski",
+      "publication_type": "Artykuł , INTERNATIONAL JOURNAL OF ELECTRONICS AND TELECOMMUNICATIONS",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152081",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152081",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Krajowe laboratorium sieci i usług PL, 5G: kierunki badań i perspektywy rozwoju techniki 5G/6G",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.sosnowski.GTSBbYY1yHz/publications/d75f3790-fe59-4754-b923-c49a2e9cc8c5",
+      "authors": "A. Bęben, J. Woźniak, M. Sosnowski , ... (+13)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2024",
+      "doi": "10.15199/59.2024.4.4",
+      "doi_url": "https://www.doi.org/10.15199/59.2024.4.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=255764"
+    }
+  ],
+  "tag_cloud": [
+    "stream control transmission protocol",
+    "internet rzeczy",
+    "mec",
+    "ble mesh",
+    "openness",
+    "symec",
+    "tdma",
+    "cycle-based scheduler",
+    "prototyping and testing",
+    "transport layer security"
+  ],
+  "coworkers": []
+}

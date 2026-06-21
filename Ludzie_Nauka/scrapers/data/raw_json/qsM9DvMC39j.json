@@ -1,0 +1,125 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j",
+  "slug": "krzysztof.bieliszczuk",
+  "profile_id": "qsM9DvMC39j",
+  "full_name": "mgr inż. Krzysztof Roman Bieliszczuk",
+  "orcid": "0000-0003-1837-9250",
+  "orcid_url": "https://orcid.org/0000-0003-1837-9250",
+  "breadcrumb_name": "Krzysztof Bieliszczuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyzacja i robotyzacja procesów produkcyjnych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of Cylindrical Cells Surface Cleaning by Means of Laser Ablation on Wedge Wire Bonding Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/publications/f1e79160-2fae-45e3-a130-da797901fc6d",
+      "authors": "K. Bieliszczuk , T. Chmielewski, J. Zręda",
+      "publication_type": "Artykuł , Coatings",
+      "year": "2024",
+      "doi": "10.3390/coatings14040445",
+      "doi_url": "https://www.doi.org/10.3390/coatings14040445",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Properties of Wedge Wire Bonded Connection Between a Composite Copper Core Aluminum Shell Wire and an 18650 Cylindrical Lithium-Ion Battery Cell",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/publications/21a754c8-8d7a-4967-8a70-7b3c3fd4ae71",
+      "authors": "K. Bieliszczuk , T. Chmielewski",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17215237",
+      "doi_url": "https://www.doi.org/10.3390/ma17215237",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Selected properties of aluminum ultrasonic wire bonded joints with nickel-plated steel substrate for 18650 cylindrical cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bieliszczuk.qsM9DvMC39j/publications/f7b61bc8-5a4f-46e3-a75a-ea1c1fa838b5",
+      "authors": "K. Bieliszczuk , T. Chmielewski, J. Zręda",
+      "publication_type": "Artykuł , Journal of Advanced Joining Processes",
+      "year": "2024",
+      "doi": "10.1016/j.jajp.2024.100197",
+      "doi_url": "https://www.doi.org/10.1016/j.jajp.2024.100197",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

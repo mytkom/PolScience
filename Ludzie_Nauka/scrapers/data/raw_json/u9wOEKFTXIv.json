@@ -1,0 +1,206 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv",
+  "slug": "tomasz.leś",
+  "profile_id": "u9wOEKFTXIv",
+  "full_name": "dr hab. inż. Tomasz Krzysztof Leś",
+  "orcid": "0000-0001-6131-9080",
+  "orcid_url": "https://orcid.org/0000-0001-6131-9080",
+  "breadcrumb_name": "Tomasz Leś",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie obrazów",
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Textual explanations for image classification using multimodal LLM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/publications/208742e8-5ccf-40db-bbfe-a466cec408c7",
+      "authors": "T. Les , B. Sawicki",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.04.15",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.04.15",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Semantic Segmentation of the Prostate Based on Onefold and Joint Multimodal Medical Images Using YOLOv4 and U-Net",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/publications/36e8aa75-cef0-4218-a899-4ae0a819fe81",
+      "authors": "T. Les , Z. Krawczyk-Borysiak, E. Kot, ... (+2)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14219814",
+      "doi_url": "https://www.doi.org/10.3390/app14219814",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Improvement of renal image recognition through resolution enhancement.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/publications/febea109-e5a3-4565-b3db-a7e99f6ca408",
+      "authors": "M. Dziekiewicz, A. Osowska-Kurczab, T. Les , ... (+7)",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2023",
+      "doi": "10.1016/j.eswa.2022.118836",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2022.118836",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/research-work/bdd43def-bbe2-4b2e-8afd-5a759f02093d",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody komputerowej analizy obrazów mikroskopowych do wspomagania diagnostyki raka sutka",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/research-work/a3f2bb36-fe1e-468b-b8c5-20e4c02ed54a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody obliczeń rozproszonych w stochastycznym modelowaniu tkanek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/research-work/f5143ff7-7cb6-4a1a-bdff-8d4b7a4a6595",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Monitorowanie rodzin pszczelich z wykorzystaniem urządzeń IoT w celu wykrywania sytuacji zagrażających życiu pszczół.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.le%C5%9B.u9wOEKFTXIv/research-work/02d2d6fa-cd25-49ae-9b08-f17ed5f49e12",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=265105"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

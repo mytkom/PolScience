@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx",
+  "slug": "anna.głowacka",
+  "profile_id": "4FOx1VXkyrx",
+  "full_name": "mgr inż. Anna Maria Głowacka",
+  "orcid": "0000-0002-2758-5753",
+  "orcid_url": "https://orcid.org/0000-0002-2758-5753",
+  "breadcrumb_name": "Anna Głowacka",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of post-processing on surface texture of additive manufacturing micro-elements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/publications/bb18cf8b-1620-48bd-9ddf-77ad7106a36b",
+      "authors": "J. Radziejewska, M. Marczak [...] A. Głowacka , ... (+1)",
+      "publication_type": "Artykuł , American Institute of Physics",
+      "year": "2024",
+      "doi": "10.1063/5.0204163",
+      "doi_url": "https://www.doi.org/10.1063/5.0204163",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Energy Absorbing Properties Analysis of Layers Structure of Titanium Alloy Ti6Al4V during Dynamic Impact Loading Tests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/publications/db5f4d26-085f-432a-b57e-5f644b508277",
+      "authors": "D. Głowacki, W. Moćko [...] A. Głowacka , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2021",
+      "doi": "10.3390/ma14237209",
+      "doi_url": "https://www.doi.org/10.3390/ma14237209",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Low-cost data acquisition unit for flight tests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.g%C5%82owacka.4FOx1VXkyrx/publications/6360a234-0c83-4d50-9603-41499699ee3f",
+      "authors": "D. Głowacki, A. Głowacka , B. Morawski",
+      "publication_type": "Artykuł , Fatigue of Aircraft Structures",
+      "year": "2020",
+      "doi": "10.2478/fas-2019-0012",
+      "doi_url": "https://www.doi.org/10.2478/fas-2019-0012",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

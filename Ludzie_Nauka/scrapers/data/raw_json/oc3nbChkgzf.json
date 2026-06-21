@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf",
+  "slug": "taras.zhezhera",
+  "profile_id": "oc3nbChkgzf",
+  "full_name": "dr inż. Taras Zhezhera",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Taras Zhezhera",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2026",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancement of Yb3+ Emission in Bi3TeBO9 through Efficient Energy Transfer from Bi3+ Ions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/publications/cea2dd6a-d009-444f-8845-458cc36ae1c8",
+      "authors": "T. Zhezhera , P. Głuchowski, M. Nowicki, ... (+3)",
+      "publication_type": "Artykuł , Journal of Physical Chemistry C",
+      "year": "2024",
+      "doi": "10.1021/acs.jpcc.4c04134",
+      "doi_url": "https://www.doi.org/10.1021/acs.jpcc.4c04134",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Pressure modified upconversion luminescence of Yb3+ and Er3+-doped Bi3TeBO9 ceramics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/publications/204fd0eb-8b62-4b61-97a5-315d6adc87b6",
+      "authors": "T. Zhezhera , P. Głuchowski, M. Nowicki, ... (+3)",
+      "publication_type": "Artykuł , Journal of Luminescence",
+      "year": "2024",
+      "doi": "10.1016/j.jlumin.2023.120401",
+      "doi_url": "https://www.doi.org/10.1016/j.jlumin.2023.120401",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhanced near-infrared emission of Er3+ as a synergistic effect of energy transfers in Bi3TeBO9:Yb3+/Er3+ phosphors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/taras.zhezhera.oc3nbChkgzf/publications/d8641d6b-74d0-4933-a799-4ee709ac5c7c",
+      "authors": "T. Zhezhera , P. Głuchowski, M. Nowicki, ... (+3)",
+      "publication_type": "Artykuł , Journal of Luminescence",
+      "year": "2023",
+      "doi": "10.1016/j.jlumin.2023.119774",
+      "doi_url": "https://www.doi.org/10.1016/j.jlumin.2023.119774",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

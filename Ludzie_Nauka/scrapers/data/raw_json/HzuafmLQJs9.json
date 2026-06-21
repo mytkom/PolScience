@@ -1,0 +1,276 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9",
+  "slug": "ewa.dłuska",
+  "profile_id": "HzuafmLQJs9",
+  "full_name": "prof. dr hab. inż. Ewa Dłuska",
+  "orcid": "0000-0001-8833-2744",
+  "orcid_url": "https://orcid.org/0000-0001-8833-2744",
+  "breadcrumb_name": "Ewa Dłuska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "filtracja aerozoli",
+    "inżynieria procesowa",
+    "wymiana masy w układach wielofazowych",
+    "emulsje wielokrotne",
+    "uwalnianie leków"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria chemiczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Chemicznej i Procesowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aa3c184d-9d61-4612-adf1-901ef5516cda"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / inżynieria chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Inżynierii Chemicznej i Procesowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/aa3c184d-9d61-4612-adf1-901ef5516cda"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/gremiums/78d74beb-59ec-4e03-aab5-e96f7de2ba9b",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Chemiczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Chemiczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A novel strategy for brain cancer treatment through a multiple emulsion system for simultaneous therapeutics delivery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/publications/603079a2-232a-493b-a2d6-b361f669bb12",
+      "authors": "E. Dłuska , A. Markowska-Radomska",
+      "publication_type": "Artykuł , Physical Sciences Reviews",
+      "year": "2025",
+      "doi": "10.1515/psr-2024-0064",
+      "doi_url": "https://www.doi.org/10.1515/psr-2024-0064",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Gastric-stable multiple emulsions for delivery of chemopreventive agents",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/publications/4908e9d5-0ca3-4817-bf14-87c05128906e",
+      "authors": "E. Górska‐horczyczak, A. Markowska-Radomska [...] E. Dłuska , ... (+1)",
+      "publication_type": "Artykuł , Chemical and Process Engineering - Inżynieria Chemiczna i Procesowa",
+      "year": "2025",
+      "doi": "10.24425/cpe.2025.153686",
+      "doi_url": "https://www.doi.org/10.24425/cpe.2025.153686",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Sodium Carboxymethyl Cellulose-Stabilised Multiple Emulsions with pH-Sensitive Behaviour, Enhanced Stability and Mucoadhesion for Oral Delivery of Chemopreventive Agents",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/publications/82da1ec3-6305-4825-8ccb-e9c7c62eb2f1",
+      "authors": "A. Markowska-Radomska, E. Dłuska , K. Kosicki",
+      "publication_type": "Artykuł , Pharmaceutics",
+      "year": "2025",
+      "doi": "10.3390/pharmaceutics17111401",
+      "doi_url": "https://www.doi.org/10.3390/pharmaceutics17111401",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/d9b61ebd-b201-49e1-b1bc-460ceafb1db9",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wymiana masy w układach emulsji wielokrotnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/c07bacef-a21d-44a9-9f7f-93557e1380c2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Odpylanie gazu w złożu fluidalnym granulowanych cząstek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/a88fd011-5942-4511-b79a-37c96044dac1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Mechanizmy dyfuzji i fragmentacji w procesie uwalniania składnika z emulsji wielokrotnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/7ed12710-af8d-47b5-b21e-2c5d3f809998",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/3c316582-bddc-4e91-9465-8ecb2ae5acf4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Proces usuwania rozproszonych zanieczyszczeń ciekłych z paliw i wody z wykorzystaniem wysokosprawnych włókninowych struktur koalescencyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.d%C5%82uska.HzuafmLQJs9/research-work/c0f78250-055c-489d-84a3-539d7e29cc29",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=29983"
+    }
+  ],
+  "tag_cloud": [
+    "antibody adsorption",
+    "couette-taylor flow reactor",
+    "biomedical engineering",
+    "drug delivery systems",
+    "multiple emulsion",
+    "encapsulation",
+    "diffusion",
+    "release",
+    "metale ziem rzadkich",
+    "double emulsion"
+  ],
+  "coworkers": []
+}

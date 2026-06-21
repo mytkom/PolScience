@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ",
+  "slug": "monika.gierszewska",
+  "profile_id": "kV04zhCvxpQ",
+  "full_name": "mgr inż. Monika Helena Gierszewska",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Monika Gierszewska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologie kosmiczne i satelitarne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Physics-Guided Neural Network for Flooding Area Detection Using SAR Imagery and Local River Gauge Observations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/publications/0fab9562-573e-44cd-ab97-7fd75fd5f056",
+      "authors": "M. Gierszewska , T. Berezowski",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2025",
+      "doi": "10.1109/jstars.2025.3561926",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2025.3561926",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the Role of Polarimetric Decomposition and Speckle Filtering Methods for C-Band SAR Wetland Classification Purposes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/publications/a5ab8463-ac68-444e-a50d-b8f9dcafece0",
+      "authors": "M. Gierszewska , T. Berezowski",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2022",
+      "doi": "10.1109/jstars.2022.3162641",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2022.3162641",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Flood Classification in a Natural Wetland for Early Spring Conditions Using Various Polarimetric SAR Methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.gierszewska.kV04zhCvxpQ/publications/a4a93835-d2e1-41cc-a792-0924ae022a34",
+      "authors": "T. Berezowski, M. Gierszewska , T. Bieliński",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1109/igarss47720.2021.9554713",
+      "doi_url": "https://www.doi.org/10.1109/igarss47720.2021.9554713",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

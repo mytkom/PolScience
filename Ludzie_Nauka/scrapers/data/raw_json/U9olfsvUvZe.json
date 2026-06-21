@@ -1,0 +1,230 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe",
+  "slug": "bartosz.sawicki",
+  "profile_id": "U9olfsvUvZe",
+  "full_name": "dr hab. Bartosz Jacek Sawicki",
+  "orcid": "0000-0003-1832-759X",
+  "orcid_url": "https://orcid.org/0000-0003-1832-759X",
+  "breadcrumb_name": "Bartosz Sawicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne",
+    "teoria pola"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika, informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Textual explanations for image classification using multimodal LLM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/publications/208742e8-5ccf-40db-bbfe-a466cec408c7",
+      "authors": "T. Les, B. Sawicki",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.04.15",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.04.15",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Teaching Maxwell Equations with LLM Assistance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/publications/a3284a2e-544b-4ab2-b865-f9c6b2dcc842",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.06.02",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.06.02",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Two-Step Reinforcement Learning for Multistage Strategy Card Game",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/publications/a7c255c7-49d7-44d8-9be2-305408f107fa",
+      "authors": "B. Sawicki , K. Godlewski",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2024",
+      "doi": "10.24425/bpasts.2024.151376",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.151376",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozwoju i wykorzystanie zaawansowanych metod informatycznych do numerycznego modelowania elektrycznej i magnetycznej stymulacji ciała ludzkiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/8669199a-1b5d-46a6-a52f-163c212a9e62",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie prądów wirowych w środowisku słaboprzewodzącym z wykorzystaniem wektorowego potencjału elektrycznego T",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/c9bfb272-364b-47f0-8a22-a603eb4026be",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody obliczeń rozproszonych w stochastycznym modelowaniu tkanek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/f5143ff7-7cb6-4a1a-bdff-8d4b7a4a6595",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja konstrukcji wzbudnika do topienia metali z wykorzystaniem lewitacji elektromagnetycznej.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/c0493caf-a35d-49a4-96bb-d0f2e5c7fc98",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy grupowania danych wykorzystujące prototypy grup (na podstawie cyklu 5 publikacji powiązanych tematycznie)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/02487474-a87c-4bfd-86b2-8cf83f31e329",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza wpływu wielkości powierzchni kontaktu ciekła faza metaliczna - faza gazowa na efektywność procesu rafinacji metali w tyglowych piecach indukcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.sawicki.U9olfsvUvZe/research-work/2f59d232-17b8-4e4a-ab7d-fc423bbc5f06",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117472"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,163 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS",
+  "slug": "agnieszka.szust",
+  "profile_id": "LosqHzMkfJS",
+  "full_name": "dr Agnieszka Katarzyna Szust",
+  "orcid": "0000-0002-6448-6703",
+  "orcid_url": "https://orcid.org/0000-0002-6448-6703",
+  "breadcrumb_name": "Agnieszka Szust",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Examination of strength properties of the temporomandibular joint disc",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/publications/05adc00a-056e-44e1-9205-0a825482afe0",
+      "authors": "A. Szust , G. Wielgus, A. Wybraniec",
+      "publication_type": "Artykuł , Engineering of Biomaterials",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 1,
+      "title": "Examination of strength properties of the temporomandibular joint disc",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/publications/5d8a89e9-878a-45a8-afa3-d2de59200d00",
+      "authors": "A. Szust , A. Wybraniec, G. Wielgus",
+      "publication_type": "Artykuł , Engineering of Biomaterials / Inżynieria Biomateriałów",
+      "year": "2023",
+      "doi": "10.34821/eng.biomat.171.2023.12-17",
+      "doi_url": "https://www.doi.org/10.34821/eng.biomat.171.2023.12-17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Using thermal annealing and salt remelting to increase tensile properties of 3D FDM prints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/publications/1a9ddeeb-51b6-49ff-8beb-e4b2047179a9",
+      "authors": "A. Szust , G. Adamski",
+      "publication_type": "Artykuł , Engineering Failure Analysis",
+      "year": "2022",
+      "doi": "10.1016/j.engfailanal.2021.105932",
+      "doi_url": "https://www.doi.org/10.1016/j.engfailanal.2021.105932",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ zastosowania stabilizatorów mechanicznych na zmiany podatności kręgosłupa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/research-work/a667da63-056b-4228-98ad-a72738281397",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena wpływu zabiegu obustronnej strzałkowej osteotomii żuchwy na zmianę warunków obciążenia stawu skroniowo-żuchwowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szust.LosqHzMkfJS/research-work/f1b6ecfd-d05d-412a-ace3-4861f11c3d2b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108864"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

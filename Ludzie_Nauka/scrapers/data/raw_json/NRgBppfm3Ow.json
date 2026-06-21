@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow",
+  "slug": "robert.jakubowski",
+  "profile_id": "NRgBppfm3Ow",
+  "full_name": "dr inż. Robert Stanisław Jakubowski",
+  "orcid": "0000-0002-1886-2966",
+  "orcid_url": "https://orcid.org/0000-0002-1886-2966",
+  "breadcrumb_name": "Robert Jakubowski",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "silniki lotnicze"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Practical Approach to Modeling and Performance Analysis of a Turboshaft Engine Using Matlab",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/publications/d0a5942e-8190-4720-8be6-97cbdf4066f1",
+      "authors": "R. Jakubowski , P. Jakliński",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app142311373",
+      "doi_url": "https://www.doi.org/10.3390/app142311373",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Study of the Effects of Heat Exchanger Location on Turbofan Engine Performance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/publications/0be13e69-b8a3-409f-be83-c3b1345b416a",
+      "authors": "R. Jakubowski , A. Bednarz, Ł. Rogalski",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/189464",
+      "doi_url": "https://www.doi.org/10.12913/22998624/189464",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical Study on Sensitivity of Turbofan Engine Performance to Blade Count of Centrifugal Compressor Impeller",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/publications/e7b58e19-3305-44b0-aa34-c7cc8d681aa6",
+      "authors": "A. Bednarz, K. Kabalyk, R. Jakubowski , ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16145251",
+      "doi_url": "https://www.doi.org/10.3390/en16145251",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie wpływu jakości procesów energetycznych w turbinowym silniku odrzutowym na efektywność eksploatacyjną metodą bilansu energetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.jakubowski.NRgBppfm3Ow/research-work/60b30c85-9557-4292-aa57-5177388ac5f9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=120678"
+    }
+  ],
+  "tag_cloud": [
+    "bypass jet engine",
+    "lotnictwo wojskowe",
+    "air force",
+    "aircraft",
+    "virtual engine test bench",
+    "blade count",
+    "samolot",
+    "optimization method",
+    "computational fluid mechanics",
+    "turbine engine"
+  ],
+  "coworkers": []
+}

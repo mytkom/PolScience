@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM",
+  "slug": "andrzej.dec",
+  "profile_id": "qrATkEeyrmM",
+  "full_name": "mgr inż. Andrzej Adam Dec",
+  "orcid": "0000-0002-1097-6782",
+  "orcid_url": "https://orcid.org/0000-0002-1097-6782",
+  "breadcrumb_name": "Andrzej Dec",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mikrostruktura złączy spawanych wymiennika ciepła, zbiornika procesowego ze stali AISI 304L i AISI 316L",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/publications/a7629997-90e7-49ec-a013-f9b9a5210030",
+      "authors": "A. Dec , P. Sobolewska, A. Orłowicz",
+      "publication_type": "Artykuł , Welding Technology Review",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical Simulation and the Improved Welding of Storage Tank Heads with Respect to Minimised Welding Strains",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/publications/03815947-3782-43c0-a364-50d1b3d5e61c",
+      "authors": "R. Czech, M. Mróz [...] A. Dec , ... (+4)",
+      "publication_type": "Artykuł , Materials Science and Welding Technologies",
+      "year": "2024",
+      "doi": "10.32730/mswt.2023.67.5-6.6",
+      "doi_url": "https://www.doi.org/10.32730/mswt.2023.67.5-6.6",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical and Physical Simulation of MAG Welding of Large S235JRC+N Steel Industrial Furnace Wall Panel",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.dec.qrATkEeyrmM/publications/11ae883e-af4b-4bd0-bb87-699e93e3222c",
+      "authors": "R. Czech, B. Kupiec, A. Dec , ... (+3)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma16072779",
+      "doi_url": "https://www.doi.org/10.3390/ma16072779",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

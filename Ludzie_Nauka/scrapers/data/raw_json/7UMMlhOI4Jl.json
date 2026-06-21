@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl",
+  "slug": "maciej.wieczorek",
+  "profile_id": "7UMMlhOI4Jl",
+  "full_name": "dr inż. Maciej Benedykt Wieczorek",
+  "orcid": "0000-0002-7272-3553",
+  "orcid_url": "https://orcid.org/0000-0002-7272-3553",
+  "breadcrumb_name": "Maciej Wieczorek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hybrid Energy Storage System for Regenerative Braking Utilization and Peak Power Decrease in 3 kV DC Railway Electrification System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/publications/4ab8e91b-500e-4350-abe3-ada59c0c0ad5",
+      "authors": "A. Szeląg, W. Jefimowski [...] M. Wieczorek , ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14091752",
+      "doi_url": "https://www.doi.org/10.3390/electronics14091752",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hybrid battery energy storage for light electric vehicle — From lab to real life operation tests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/publications/f5a0b1c2-9597-4d82-b638-abd520ff3839",
+      "authors": "M. Wieczorek , S. Wodyk, J. Widzińska, ... (+1)",
+      "publication_type": "Artykuł , Journal of Energy Storage",
+      "year": "2024",
+      "doi": "10.1016/j.est.2024.110545",
+      "doi_url": "https://www.doi.org/10.1016/j.est.2024.110545",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design and control of the hybrid lithium-ion/lead–acid battery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/publications/9d296405-439d-4e0e-b772-65248d2e921f",
+      "authors": "M. Wieczorek , S. Wodyk, P. Witaszek, ... (+1)",
+      "publication_type": "Artykuł , Energy Reports",
+      "year": "2023",
+      "doi": "10.1016/j.egyr.2023.05.091",
+      "doi_url": "https://www.doi.org/10.1016/j.egyr.2023.05.091",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Strategia zarządzania energią w wieloźródłowych układach zasilania stosowanych w pojazdach elektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.wieczorek.7UMMlhOI4Jl/research-work/63ba099f-0624-4ec6-9ed3-141f7a44a0df",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=294984"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

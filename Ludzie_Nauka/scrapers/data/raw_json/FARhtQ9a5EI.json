@@ -1,0 +1,209 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI",
+  "slug": "tomasz.pusty",
+  "profile_id": "FARhtQ9a5EI",
+  "full_name": "dr inż. Tomasz Pusty",
+  "orcid": "0000-0003-1324-5384",
+  "orcid_url": "https://orcid.org/0000-0003-1324-5384",
+  "breadcrumb_name": "Tomasz Pusty",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie",
+    "Wojskowy Instytut Techniki Pancernej i Samochodowej"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 4 miesiące",
+      "duration": null,
+      "institution": "Wojskowy Instytut Techniki Pancernej i Samochodowej",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/163ff4e6-d377-4559-accd-7672d40726db",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "12 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Przemysłowy Instytut Motoryzacji Aktualna nazwa: Sieć Badawcza Łukasiewicz - Przemysłowy Instytut Motoryzacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b28fd273-56d9-41d3-a620-30856c5f0b3c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/94358914-1188-4ed9-8dea-cceb1731eed3"
+        },
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Wojskowy Instytut Techniki Pancernej i Samochodowej >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/163ff4e6-d377-4559-accd-7672d40726db"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "transport",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Badania właściwości fizykochemicznych oleju napędowego domieszkowanego olejem pirolitycznym z recyklingu opon",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/publications/0f29f3b2-c2ea-4084-ac5d-22d263d136f5",
+      "authors": "L. Chybowski, M. Szczepanek [...] T. Pusty , ... (+3)",
+      "publication_type": "Książka , Akademia Morska w Szczecinie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Content of Selected Compounds in the Exhaust Gas of a Naturally Aspirated CI Engine Fueled with Diesel–Tire Pyrolysis Oil Blend",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/publications/83f6e77a-64e0-4816-aeff-418f05a2df07",
+      "authors": "L. Chybowski, M. Szczepanek [...] T. Pusty , ... (+5)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18102621",
+      "doi_url": "https://www.doi.org/10.3390/en18102621",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Dynamic load on the head during rear impact against a headrest",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/publications/6ff645e1-70f7-45d1-a00d-0364b7513e24",
+      "authors": "T. Pusty , J. Jackowski, L. Chybowski, ... (+2)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/203858",
+      "doi_url": "https://www.doi.org/10.12913/22998624/203858",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza i rekonstrukcja wypadków drogowych z udziałem motocyklistów na przykładzie uderzenia czołowego w bok samochodu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.pusty.FARhtQ9a5EI/research-work/57c9c6ae-cced-4ec9-a5c0-10d6682a62d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=294234"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

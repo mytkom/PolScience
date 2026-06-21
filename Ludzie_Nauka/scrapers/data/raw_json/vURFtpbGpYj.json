@@ -1,0 +1,285 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj",
+  "slug": "daniel.strub",
+  "profile_id": "vURFtpbGpYj",
+  "full_name": "dr hab. inż. Daniel Jan Strub",
+  "orcid": "0000-0003-0858-463X",
+  "orcid_url": "https://orcid.org/0000-0003-0858-463X",
+  "breadcrumb_name": "Daniel Strub",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia terpenów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a55f3530-94a0-4052-a758-25d7dbf1256f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Młodych Naukowców",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/gremiums/752263fa-1aa0-4432-9d23-d65f933333ae",
+      "period": "2015-2017",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Daniel Strub"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Antibacterial potential of essential oils against oral pathogenic bacteria: a literature and clinical review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/publications/3ceaf54f-083b-40fc-99c7-84d28e192ad8",
+      "authors": "Z. Bacińska, D. Strub , L. Balcerzak",
+      "publication_type": "Artykuł , Journal of Applied Microbiology",
+      "year": "2025",
+      "doi": "10.1093/jambio/lxaf161",
+      "doi_url": "https://www.doi.org/10.1093/jambio/lxaf161",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Development of an enzyme-linked immunosorbent assay (ELISA) for determining neutrophil elastase (NE) – a potential useful marker of multi-organ damage observed in COVID-19 and post-Covid-19 (PCS)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/publications/05a19215-214e-4f0c-b467-464aecdbc48a",
+      "authors": "D. Strub , J. Adamiec-Mroczek, J. Kluz, ... (+16)",
+      "publication_type": "Artykuł , Frontiers in Molecular Biosciences",
+      "year": "2025",
+      "doi": "10.3389/fmolb.2025.1542898",
+      "doi_url": "https://www.doi.org/10.3389/fmolb.2025.1542898",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Naturalne i syntetyczne substancje zapachowe - funkcjonalne surowce dla przemysłu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/publications/b08c0727-09c4-4321-ab58-d5a4e10751f1",
+      "authors": "A. Surowiak, L. Balcerzak [...] D. Strub , ... (+2)",
+      "publication_type": "Artykuł , Wiadomości Chemiczne",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Synteza i właściwości naturalnych i syntetycznych substancji zapachowych o zadanych cechach użytkowych na potrzeby przemysłu perfumeryjnego i chemii gospodarczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/36653a6d-510e-4015-93a6-7976726cccfc",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza pochodnych terpenoidowych o potencjalnej aktywności na centralny układ nerwowy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/d5fefe9f-6d0b-406a-a6df-11a2f1893c04",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "„Synteza i analiza aktywności przeciwdrobnoustrojowej lotnych związków organicznych”,",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/a1e95d16-cfb1-42d0-b132-77d1d3d45438",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza nowych tlenowych i azotowych pochodnych terpenoidowych za pomoca metod chemoenzymatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/7e2c96de-3cc1-48a6-a4eb-f9cde944e26d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja procesu ekstrakcji związków biologicznie aktywnych z wybranych odmian konopi włóknistych pod kątem otrzymania produktu o wysokiej stabilności i pożądanych parametrach organoleptycznych i fizykochemicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/5b82d7e5-4489-4756-b21a-b0a6e8ea1f67",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Inactivation of bacteriophages",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/95f77441-425a-4362-a49b-70d7292206d2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Zapomniane rośliny lecznicze – analiza składu i właściwości biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.strub.vURFtpbGpYj/research-work/71fa61cd-f966-4e93-af7b-043c3efecba2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=259011"
+    }
+  ],
+  "tag_cloud": [
+    "olfaktometria",
+    "comsa; ive-pls",
+    "biokataliza",
+    "microtox",
+    "olejki eteryczne",
+    "nmr",
+    "związki zapachowe",
+    "dodatki do żywności",
+    "gas chromatography",
+    "in vitro cholinesterase inhibition"
+  ],
+  "coworkers": []
+}

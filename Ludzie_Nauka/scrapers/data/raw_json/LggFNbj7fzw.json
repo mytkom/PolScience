@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw",
+  "slug": "alicja.dota",
+  "profile_id": "LggFNbj7fzw",
+  "full_name": "dr Alicja Dota",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Alicja Dota",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "analiza funkcjonalna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7dbf2ca-92ee-4995-b8b6-92d9df615a8d"
+        },
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Embeddings of block-radial functions — approximation properties and nuclearity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/publications/dd5c7115-120c-49dd-943a-ae824036f885",
+      "authors": "A. Dota , L. Skrzypczak",
+      "publication_type": "Artykuł , Journal of Approximation Theory",
+      "year": "2025",
+      "doi": "10.1016/j.jat.2025.106214",
+      "doi_url": "https://www.doi.org/10.1016/j.jat.2025.106214",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Using Statistical Methods to Identify the Impact of Solid Fuel Boilers on Seasonal Changes in Air Pollution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/publications/f989ad24-1d87-4f59-9e07-9e2596dd9ed7",
+      "authors": "E. Bakinowska, A. Dota , R. Urbaniak, ... (+3)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18205428",
+      "doi_url": "https://www.doi.org/10.3390/en18205428",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Some properties of block-radial functions and Schrödinger type operators with block-radial potentials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/publications/0b4127d6-824b-4b17-98d1-3cf7f227d0d0",
+      "authors": "L. Skrzypczak, A. Dota",
+      "publication_type": "Artykuł , Journal of Complexity",
+      "year": "2019",
+      "doi": "10.1016/j.jco.2018.10.005",
+      "doi_url": "https://www.doi.org/10.1016/j.jco.2018.10.005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "S-liczby zwartych włożeń przestrzeni funkcyjnych typu Sobolewa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.dota.LggFNbj7fzw/research-work/ccacd4b7-bbaa-4e4a-9a84-f28e1ff2d3a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=243404"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

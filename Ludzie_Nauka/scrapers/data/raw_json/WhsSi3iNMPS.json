@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS",
+  "slug": "grzegorz.sinicyn",
+  "profile_id": "WhsSi3iNMPS",
+  "full_name": "dr Grzegorz Igor Sinicyn",
+  "orcid": "0000-0003-1830-104X",
+  "orcid_url": "https://orcid.org/0000-0003-1830-104X",
+  "breadcrumb_name": "Grzegorz Sinicyn",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie matematyczne w inżynierii środowiska",
+    "ochrona zasobów wodnych",
+    "systemy informacji przestrzennej (GIS)"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / inżynieria środowiska",
+        "Nadanie stopnia",
+        "Politechnika Warszawska, Wydział Inżynierii Środowiska"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrical resistivity imaging data for hydrological and soil investigations of virgin Rospuda River peatland (north-eastern Poland)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/publications/ab2175f6-da86-4034-87b2-c122d1c4150f",
+      "authors": "G. Sinicyn , Ł. Kaczmarek, B. Bednarz, ... (+5)",
+      "publication_type": "Artykuł , Geoscientific Instrumentation, Methods and Data Systems",
+      "year": "2025",
+      "doi": "10.5194/gi-14-103-2025",
+      "doi_url": "https://www.doi.org/10.5194/gi-14-103-2025",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hydrodynamic modeling as a tool for analyzing the hydrological effects of river maintenance activities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/publications/279347f1-6af7-4715-adcc-6ffe0f315c46",
+      "authors": "T. Krepski, M. Grodzka-Łukaszewska [...] G. Sinicyn , ... (+5)",
+      "publication_type": "Artykuł , Ecohydrology and Hydrobiology",
+      "year": "2025",
+      "doi": "10.1016/j.ecohyd.2025.100677",
+      "doi_url": "https://www.doi.org/10.1016/j.ecohyd.2025.100677",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Electrical resistivity imaging data for hydrogeological and geological investigations of Szuszalewo peatland (North-East Poland)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/publications/28970e6a-b5a6-479f-ae15-553afa89a6d5",
+      "authors": "Ł. Kaczmarek, G. Sinicyn , K. Kochanek, ... (+3)",
+      "publication_type": "Artykuł , Data in Brief",
+      "year": "2024",
+      "doi": "10.1016/j.dib.2024.110626",
+      "doi_url": "https://www.doi.org/10.1016/j.dib.2024.110626",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ niepewności danych na precyzję oceny stanu środowiska wód podziemnych w otoczeniu składowisk odpadów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/research-work/1d488370-79a6-472b-82df-5e6b99ac4932",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie numeryczne interakcji wód powierzchniowych i podziemnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.sinicyn.WhsSi3iNMPS/research-work/b549a13f-f505-44d8-b9bf-41c993636f32",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86132"
+    }
+  ],
+  "tag_cloud": [
+    "fem",
+    "emisja",
+    "hydrogeoligia",
+    "klimat",
+    "analytical model ahf",
+    "groundwater–surface water interaction",
+    "shear strength",
+    "building foundation",
+    "fen protection",
+    "fen functioning"
+  ],
+  "coworkers": []
+}

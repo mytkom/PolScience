@@ -1,0 +1,230 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW",
+  "slug": "andrzej.przybył",
+  "profile_id": "HTWBkasTaEW",
+  "full_name": "dr hab. inż. Andrzej Przybył",
+  "orcid": "0000-0002-8052-4415",
+  "orcid_url": "https://orcid.org/0000-0002-8052-4415",
+  "breadcrumb_name": "Andrzej Przybył",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechatronika",
+    "procesory sygnałowe",
+    "systemy mikroprocesorowe",
+    "sztuczna inteligencja",
+    "układy programowalne",
+    "systemy czasu rzeczywistego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska, Wydział Elektryczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "FPGA-Based Optimization of Industrial Numerical Machine Tool Servo Drives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/publications/39726765-9610-4b4e-9bd4-0b88174999ed",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics",
+      "year": "2023",
+      "doi": "10.3390/electronics12173585",
+      "doi_url": "https://www.doi.org/10.3390/electronics12173585",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fixed-Point Arithmetic Unit with a Scaling Mechanism for FPGA-Based Embedded Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/publications/aaa601f6-f332-42a3-8d2c-653512111d01",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics",
+      "year": "2021",
+      "doi": "10.3390/electronics10101164",
+      "doi_url": "https://www.doi.org/10.3390/electronics10101164",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Hardware Implementation of a Takagi-Sugeno Neuro-Fuzzy System Optimized by a Population Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/publications/03283bb8-cee6-4ed0-8344-81d26a35b90e",
+      "authors": "P. Dziwiński, A. Przybyl , Y. Hayashi, ... (+3)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2021",
+      "doi": "10.2478/jaiscr-2021-0015",
+      "doi_url": "https://www.doi.org/10.2478/jaiscr-2021-0015",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy inteligencji obliczeniowej dla rozproszonych środowisk sieciowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/research-work/256f755c-f78a-4ad7-99b0-105f8850229d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Sprzętowa implementacja sieci LSTM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/research-work/23d03539-032c-4894-bcbd-c3e657bc02ae",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zaawansowane metody projektowania systemów cyfrowych z układami FPGA oraz ich zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.przyby%C5%82.HTWBkasTaEW/research-work/a252690d-1aef-4c9f-af92-09ff3908030f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=117324"
+    }
+  ],
+  "tag_cloud": [
+    "fir",
+    "population initialization",
+    "selection of parameters",
+    "fpga",
+    "controller",
+    "pid",
+    "genetic programming",
+    "negative space",
+    "artificial intelligence",
+    "parameter selection"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,191 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9",
+  "slug": "hubert.grzybowski",
+  "profile_id": "RJNMCo9lGu9",
+  "full_name": "dr inż. Hubert Grzybowski",
+  "orcid": "0000-0003-2163-3184",
+  "orcid_url": "https://orcid.org/0000-0003-2163-3184",
+  "breadcrumb_name": "Hubert Grzybowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "niestabilność przepływów dwufazowych",
+    "mechanika płynów",
+    "komputerowe metody mechaniki płynów",
+    "badania eksperymentalne",
+    "dynamika płynów",
+    "analiza nieliniowa",
+    "przepływy dwufazowe",
+    "obliczeniowa mechanika płynów",
+    "wykresy rekurencyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/085cc979-bf70-48d1-a099-6b85284bd3f4"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechniaka Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Complexity of two-phase flow dynamics using the recurrence and high speed video analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/publications/b1792ab6-733f-41b3-ac59-033f52381b42",
+      "authors": "R. Mosdorf, G. Rafałko [...] H. Grzybowski , ... (+2)",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2024",
+      "doi": "10.24425/ather.2024.150853",
+      "doi_url": "https://www.doi.org/10.24425/ather.2024.150853",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multiscale entropy applications for complexity analysis of two-phase flow",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/publications/00696733-9a1d-47fa-a52d-f5dbc1740f2a",
+      "authors": "G. Rafałko, R. Mosdorf, H. Grzybowski , ... (+2)",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2024",
+      "doi": "10.24425/ather.2024.150854",
+      "doi_url": "https://www.doi.org/10.24425/ather.2024.150854",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Recurrence analysis of phase distribution changes during boiling flow in parallel minichannels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/publications/a0ba7941-688f-4c1a-8b12-f69a4e304b8b",
+      "authors": "G. Rafałko, H. Grzybowski , P. Dzienis, ... (+3)",
+      "publication_type": "Artykuł , European Physical Journal: Special Topics",
+      "year": "2023",
+      "doi": "10.1140/epjs/s11734-022-00741-0",
+      "doi_url": "https://www.doi.org/10.1140/epjs/s11734-022-00741-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Dynamiczna niestabilność wrzenia w kanale o małej średnicy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/research-work/061577cb-60cf-4b3f-bdcc-c2816947b15c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania doświadczalne i identyfikacja numeryczna dynamiki struktur przepływów dwufazowych we wrzeniu w mini- i mikrokanałach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.grzybowski.RJNMCo9lGu9/research-work/c3a26b56-2e27-4d6f-8760-bb808f7ff36f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=262877"
+    }
+  ],
+  "tag_cloud": [
+    "przepływ dwufazowy",
+    "multiscale recurrence quantification analysis",
+    "two-phase flow instability",
+    "boiling flow patterns",
+    "two-phase flow",
+    "flow boiling",
+    "minichannel",
+    "heat exchanger",
+    "dynamics similarity",
+    "metody analizy obrazu"
+  ],
+  "coworkers": []
+}

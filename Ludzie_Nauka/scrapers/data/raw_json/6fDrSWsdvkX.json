@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX",
+  "slug": "małgorzata.krajewska",
+  "profile_id": "6fDrSWsdvkX",
+  "full_name": "dr hab. inż. Małgorzata Krajewska",
+  "orcid": "0000-0002-8541-2295",
+  "orcid_url": "https://orcid.org/0000-0002-8541-2295",
+  "breadcrumb_name": "Małgorzata Krajewska",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+    "Uniwersytet Mikołaja Kopernika w Toruniu"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych",
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "wycena nieruchomości"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Mikołaja Kopernika w Toruniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "32 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu; Wydział Nauk Ekonomicznych i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ed849b74-2bd2-4c0a-b1bc-df103e96337a"
+        },
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Akademia Techniczno-Rolnicza im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Wydział Budownictwa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/gremiums/bf9c5334-eb5c-43b7-aebc-a7479bdcb835",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "How Does a Change in the Development Intensity Index Affect Land Value?",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/publications/e34d8554-d70c-48dc-a9f1-70cf62e0dafa",
+      "authors": "M. Krajewska , I. Rącka",
+      "publication_type": "Artykuł , European Research Studies Journal",
+      "year": "2025",
+      "doi": "10.35808/ersj/4070",
+      "doi_url": "https://www.doi.org/10.35808/ersj/4070",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Prefabricated construction in the residential real estate market",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/publications/616859b1-4920-497f-92de-82170b655fe8",
+      "authors": "M. Krajewska , E. Siemińska, I. Rącka, ... (+2)",
+      "publication_type": "Artykuł , Real Estate Management and Valuation",
+      "year": "2025",
+      "doi": "10.2478/remav-2025-0004",
+      "doi_url": "https://www.doi.org/10.2478/remav-2025-0004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Strategiczna mapa akustyczna - stan prawny, zawartość, informacje dla procesu wyceny",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/publications/b2f50a97-b6d9-4f70-910f-36e08c72e845",
+      "authors": "K. Szopińska, M. Krajewska",
+      "publication_type": "Artykuł , Rzeczoznawca Majątkowy",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wartość gruntu w procesie przekształcania przestrzeni",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work/e38b85d7-deee-458d-8fde-60699d34bf4f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Koncepcja uwzględniania wartości gruntu w kształtowaniu ładu przestrzennego miasta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work/77f39bfc-e168-448e-8ac7-99bb446c7dd1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Metodyka oceny istotności współwystępujących cech nieruchomości na przykładzie rynku nieruchomości mieszkaniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work/cd9d9644-ff0f-45e7-9066-1b5909d5dc0e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Szacowanie wartości nieruchomości komercyjnych oraz projektów inwestycyjnych w róznych fazach ich cyklu życia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work/9a61386b-e550-49df-9c92-0d145ef05f38",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Szacowanie wartości nieruchomości z uwzględnieniem efektywności energetycznej budynku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.krajewska.6fDrSWsdvkX/research-work/bb57fec7-726a-4941-bb02-3d2fa1775504",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=90845"
+    }
+  ],
+  "tag_cloud": [
+    "gospodarka rynkowa",
+    "investments",
+    "business cycle",
+    "housing",
+    "residential area",
+    "national road",
+    "housing real estate",
+    "road traffic noise",
+    "noise sensitive area",
+    "world"
+  ],
+  "coworkers": []
+}

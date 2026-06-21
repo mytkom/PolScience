@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl",
+  "slug": "remigiusz.knitter",
+  "profile_id": "RmZG6IaZYXl",
+  "full_name": "mgr inż. Remigiusz Knitter",
+  "orcid": "0000-0001-9026-3071",
+  "orcid_url": "https://orcid.org/0000-0001-9026-3071",
+  "breadcrumb_name": "Remigiusz Knitter",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modeling and simulation of Vibro-isolator Rapid Prototyping using additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/publications/d9091055-6ea2-4919-a9d3-0c7959f2ed15",
+      "authors": "R. Knitter , A. Blazejewski, T. Krolikowski",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2022",
+      "doi": "10.1016/j.procs.2022.09.185",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2022.09.185",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Optimization of multilayer rail substrate under moving load, using metamaterials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/publications/8a797013-79c6-4745-a78a-e8198f887fb6",
+      "authors": "T. Krolikowski, A. Błażejewski, R. Knitter",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2020",
+      "doi": "10.1016/j.procs.2020.09.057",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2020.09.057",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "CFD analysis of primary and secondary flows and PIV measurements in whirlpool and whirlpool kettle with pulsatile filling: Analysis of the flow in a swirl separator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.knitter.RmZG6IaZYXl/publications/0127486c-c959-4cd6-a8ff-5abf92fffbd7",
+      "authors": "M. Jakubowski, M. Stachnik [...] R. Knitter , ... (+6)",
+      "publication_type": "Artykuł , JOURNAL OF FOOD ENGINEERING",
+      "year": "2019",
+      "doi": "10.1016/j.jfoodeng.2019.04.003",
+      "doi_url": "https://www.doi.org/10.1016/j.jfoodeng.2019.04.003",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "fourier series",
+    "industry 4.0",
+    "structrure",
+    "rapid prototyping",
+    "metamaterial",
+    "3d printing",
+    "numerical methods",
+    "stand",
+    "additive manufactoring",
+    "3d printers additive technologies metamaterial mechanical metamaterial"
+  ],
+  "coworkers": []
+}

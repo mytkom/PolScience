@@ -1,0 +1,190 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S",
+  "slug": "jan.franz",
+  "profile_id": "HOny0WzDs7S",
+  "full_name": "dr hab. Jan Franz",
+  "orcid": "0000-0002-4279-0608",
+  "orcid_url": "https://orcid.org/0000-0002-4279-0608",
+  "breadcrumb_name": "Jan Franz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "chemia teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Fizyki Technicznej i Matematyki Stosowanej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/a5512b06-de8f-4174-a997-e9b13048eac6"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rheinische Friedrich-Wilhelms-Universität Bonn",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Calculations of Ionization Cross-Sections of Acenes Based on Electron and Positron Impact",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/publications/b539d39d-929a-4c1e-9852-4f1b3aa5b866",
+      "authors": "D. Baksalary, M. Franz, J. Franz",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15179562",
+      "doi_url": "https://www.doi.org/10.3390/app15179562",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Impact of Vibrational Feshbach Resonances on Positron thermalization: A Monte Carlo Simulation Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/publications/13c34737-6f6d-40b6-87fb-4d68bcd88672",
+      "authors": "E. Popovicz Seidel, J. Franz",
+      "publication_type": "Artykuł , Journal of Physics B: Atomic, Molecular and Optical Physics",
+      "year": "2025",
+      "doi": "10.1088/1361-6455/ae0a9c",
+      "doi_url": "https://www.doi.org/10.1088/1361-6455/ae0a9c",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Rovibrational quenching calculations of C2− in collision with H2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/publications/6b9177e8-e140-412e-b222-2a2bdfe99980",
+      "authors": "K. Giri, B. Mant [...] J. Franz , ... (+6)",
+      "publication_type": "Artykuł , Physical Review A",
+      "year": "2025",
+      "doi": "10.1103/physreva.111.032817",
+      "doi_url": "https://www.doi.org/10.1103/physreva.111.032817",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczne metody opisu zderzeń pozytonów z cząsteczkami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/research-work/72e83dc4-8a1c-42a6-a3df-28da495410ba",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Quantum effects in ultracold collisions of atoms, ions, and molecules",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/research-work/fb2a1157-21b2-4f28-871c-fb49e691ed96",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie wpływu oddziaływania pary e+ -- e- z materią w okolicy wolnych objętości w ośrodku skondensowanym na tworzenie atomu pozytu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.franz.HOny0WzDs7S/research-work/a270d318-8e73-4499-bdb1-f56fb0e228f6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=277270"
+    }
+  ],
+  "tag_cloud": [
+    "quadrupole transitions",
+    "positron impact ionization",
+    "buffer gas cooling",
+    "positron–molecule scattering",
+    "scattering theory",
+    "r-matrix theory",
+    "inelastic collisions",
+    "atom-ion collisions",
+    "spontaneous electron emission",
+    "binary-encounter-bethe"
+  ],
+  "coworkers": []
+}

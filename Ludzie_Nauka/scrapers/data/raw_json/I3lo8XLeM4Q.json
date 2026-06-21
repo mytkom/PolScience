@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q",
+  "slug": "mateusz.pirga",
+  "profile_id": "I3lo8XLeM4Q",
+  "full_name": "mgr Mateusz Pirga",
+  "orcid": "0000-0002-9206-1825",
+  "orcid_url": "https://orcid.org/0000-0002-9206-1825",
+  "breadcrumb_name": "Mateusz Pirga",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "(1,2)-PDS in graphs with the small number of vertices of large degrees",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/publications/ab0c00c5-d551-4bc2-8510-c2ea23253e08",
+      "authors": "U. Bednarz, M. Pirga",
+      "publication_type": "Artykuł , Opuscula Mathematica",
+      "year": "2025",
+      "doi": "10.7494/opmath.2025.45.1.53",
+      "doi_url": "https://www.doi.org/10.7494/opmath.2025.45.1.53",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Counting of Independent Sets Including the Set of Leaves in Graphs With Two Elementary Cycles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/publications/32c09773-b96b-4fdd-b983-82046d8254e6",
+      "authors": "M. Startek, I. Włoch, M. Pirga",
+      "publication_type": "Artykuł , Proceedings of the Romanian Academy Series A-Mathematics Physics Technical Sciences Information Science",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On Proper 2-Dominating Sets in Graphs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.pirga.I3lo8XLeM4Q/publications/7a0d041a-e8c9-422e-a486-80374a048b5c",
+      "authors": "M. Pirga , P. Bednarz",
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2024",
+      "doi": "10.3390/sym16030296",
+      "doi_url": "https://www.doi.org/10.3390/sym16030296",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

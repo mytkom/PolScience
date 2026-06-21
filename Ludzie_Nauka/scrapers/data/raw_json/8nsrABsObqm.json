@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm",
+  "slug": "jakub.krzyczkowski",
+  "profile_id": "8nsrABsObqm",
+  "full_name": "dr inż. arch. Jakub Krzyczkowski",
+  "orcid": "0000-0002-8259-9138",
+  "orcid_url": "https://orcid.org/0000-0002-8259-9138",
+  "breadcrumb_name": "Jakub Krzyczkowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Wyzwania związane z zastosowaniem Autodesk Revit w modelowaniu informacji historycznej (hBIM) na przykładzie rewitalizacji fabryki Lilpop, Rau i Loewenstein",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/publications/c5373f2c-8550-451f-85af-9b89bc3f1a6d",
+      "authors": null,
+      "publication_type": "Artykuł , Kwartalnik Architektura i Urbanistyka",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Adaptacja i modernizacja małych i średnich zabytkowych dworców kolejowych – wybrane problemy projektowe",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/publications/d6d257cf-ac87-43c1-b974-5cf745043153",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modernizacja dworców kolejowych XX-lecia międzywojennego a ochrona ich wartości kulturowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.krzyczkowski.8nsrABsObqm/research-work/ff80ea75-a3ae-4d23-a8c1-3c521efcfa9d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=314035"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

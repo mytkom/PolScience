@@ -1,0 +1,218 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx",
+  "slug": "krzysztof.siwek",
+  "profile_id": "1Ms0IWxhjKx",
+  "full_name": "dr hab. Krzysztof Siwek",
+  "orcid": "0000-0003-2642-2319",
+  "orcid_url": "https://orcid.org/0000-0003-2642-2319",
+  "breadcrumb_name": "Krzysztof Siwek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka i inżynieria komputerowa",
+    "przetwarzanie sygnałów",
+    "sieci neuronowe",
+    "teoria obwodów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika, informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multimodal Machine Learning Analysis of fNIRS Signals Using LSTM and KNN Models for Cognitive States and Brain Activation Patterns Prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/publications/9bfbac6e-183d-46f3-8093-e1ad9b95a1d9",
+      "authors": "A. Luckiewicz, D. Mikołajewski [...] K. Siwek , ... (+7)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Prediction of photovoltaic energy generation using recurrent and transformer neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/publications/19a0900a-3040-4e03-bc69-68b7df3f6b2c",
+      "authors": "K. Siwek , S. Świder",
+      "publication_type": "Artykuł , Archives of Electrical Engineering",
+      "year": "2025",
+      "doi": "10.24425/aee.2025.153900",
+      "doi_url": "https://www.doi.org/10.24425/aee.2025.153900",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluating the forecasting capabilities of probabilistic and point-based LSTM models in sequence prediction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/publications/7458f7e4-5458-48a0-86a5-fb41bf3f7cd3",
+      "authors": "K. Siwek , S. Paweł",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowania metod sztucznej inteligencji w zadaniach predykcji i klasyfikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work/5a351add-f6e3-4c3c-99cc-10283ac1e1d6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Prognozowanie obciążeń w systemie elektroenergetycznym przy wykorzystaniu sztucznych sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work/55ec24d3-b802-4d71-88d6-52b279e09636",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Aplikacje metod sztucznej inteligencji ze szczególnym uwzględnieniem algorytmu uczenia się ze wzmocnieniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work/8af22338-9ab3-494c-be7e-db847a20f5b8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Usprawnienie procesu diagnostyki medycznej przy użyciu sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work/bfd11baa-4651-4eb3-a747-71f0a4bb1d05",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie układów o parametrach rozłożonych przy wykorzystaniu systemów klastrowych w zastosowaniu do optymalizacji położenia emiterów zanieczyszczeń pod kątem minimalizacji ich szkodliwego wpływu na otoczenie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.siwek.1Ms0IWxhjKx/research-work/7fcdca4b-1aeb-4a29-a53a-6704fbc9981e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=99629"
+    }
+  ],
+  "tag_cloud": [
+    "deep learning",
+    "semantic segmentation",
+    "spme-gc/ms",
+    "recurrent time series prediction",
+    "image fusion",
+    "ei mass spectrometry",
+    "oomycetes",
+    "neural networks",
+    "ensemble of predictors",
+    "fungi"
+  ],
+  "coworkers": []
+}

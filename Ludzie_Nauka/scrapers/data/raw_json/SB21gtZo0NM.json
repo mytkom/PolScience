@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM",
+  "slug": "iwo.błądek",
+  "profile_id": "SB21gtZo0NM",
+  "full_name": "dr inż. Iwo Piotr Błądek",
+  "orcid": "0000-0003-1991-8797",
+  "orcid_url": "https://orcid.org/0000-0003-1991-8797",
+  "breadcrumb_name": "Iwo Błądek",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Among Them: A Game-Based Framework for Assessing Persuasion Capabilities of LLMs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/publications/1c18e6bc-85de-43f7-82bb-f427ca3b4a8d",
+      "authors": "M. Idziejczak, V. Korzavatykh [...] I. Błądek , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-8186-0_15",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-8186-0_15",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Counterexample-Driven Genetic Programming for Symbolic Regression with Formal Constraints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/publications/7e91a865-ebc5-4090-8192-d4bbc6a0dd02",
+      "authors": "I. Błądek , K. Krawiec",
+      "publication_type": "Artykuł , IEEE Transactions on Evolutionary Computation",
+      "year": "2023",
+      "doi": "10.1109/tevc.2022.3205286",
+      "doi_url": "https://www.doi.org/10.1109/tevc.2022.3205286",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mappism: formalizing classical and artificial life views on mind and consciousness",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/iwo.b%C5%82%C4%85dek.SB21gtZo0NM/publications/885c526b-d0f3-4a53-84d6-e037e78c82ce",
+      "authors": "I. Błądek , M. Komosiński, K. Miazga",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2019",
+      "doi": "10.2478/fcds-2019-0005",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2019-0005",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

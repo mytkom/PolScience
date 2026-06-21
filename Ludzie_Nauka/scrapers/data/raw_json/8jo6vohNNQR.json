@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR",
+  "slug": "paweł.cichosz",
+  "profile_id": "8jo6vohNNQR",
+  "full_name": "dr inż. Paweł Cichosz",
+  "orcid": "0000-0002-8049-7410",
+  "orcid_url": "https://orcid.org/0000-0002-8049-7410",
+  "breadcrumb_name": "Paweł Cichosz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "uczenie się maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Novel Routing Algorithm for Optical Networks Based on ML Methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/publications/0330167c-a540-420a-90a6-8720bebe8dfe",
+      "authors": "P. Krysztofik, P. Cichosz , S. Kozdrowski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97554-7_3",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97554-7_3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Active Learning for Medical Article Classification with Bag of Words and Bag of Concepts Embeddings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/publications/2370615d-74c4-4de3-9de5-8687839860e0",
+      "authors": "R. Pytlak, P. Cichosz , B. Fajdek, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15147955",
+      "doi_url": "https://www.doi.org/10.3390/app15147955",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Active learning of optical path classification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/publications/95029a64-1a90-4ef2-ba47-9ab5646e0ee3",
+      "authors": null,
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2025",
+      "doi": "10.1016/j.engappai.2025.110582",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2025.110582",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Uczenie się ze wzmocnieniem za pomocą obcinania różnic czasowych. (Reinforcement Learning by Truncating Temporal Differences)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.cichosz.8jo6vohNNQR/research-work/fd9f107d-f51f-4ee1-84e0-1c3fe8d45ce6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85963"
+    }
+  ],
+  "tag_cloud": [
+    "modele matematyczne",
+    "optical networks",
+    "eksploracja danych",
+    "machine learning",
+    "crime prediction",
+    "prognozowanie przestępczości",
+    "system dynamics",
+    "data exploration",
+    "text representation",
+    "imbalanced data"
+  ],
+  "coworkers": []
+}

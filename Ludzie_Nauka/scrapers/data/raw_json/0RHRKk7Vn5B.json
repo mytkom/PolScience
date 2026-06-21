@@ -1,0 +1,187 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B",
+  "slug": "kamila.kalista",
+  "profile_id": "0RHRKk7Vn5B",
+  "full_name": "dr Kamila Kalista",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Kamila Kalista",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9dc46d5f-ff3d-4691-9018-4e3993838b3d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/669fee72-713b-4509-99a3-81f522cb7159",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Akademia Pomorska w Słupsku Aktualna nazwa: Uniwersytet Pomorski w Słupsku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c2e40008-ad66-4712-8be8-e06fa7235fd2",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk humanistycznych / nauki o kulturze i religii",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "SWPS Uniwersytet Humanistycznospołeczny z siedzibą w Warszawie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/55baf644-3dc9-4855-a45b-d6b971a17256"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "filologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wyższa Szkoła Lingwistyczna w Częstochowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c29b20aa-6972-4dae-a597-dd738697cfa5"
+        },
+        {
+          "label": "Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9dc46d5f-ff3d-4691-9018-4e3993838b3d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "politologia i nauki społeczne w latach 1993/94 - 1997/98",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Uniwersytet Pomorski w Słupsku >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c2e40008-ad66-4712-8be8-e06fa7235fd2"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Motyw jedzenia i śmierci w filmach Woody'ego Allena",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/publications/025a94dc-ee35-4cc6-bb18-56bc035a9b27",
+      "authors": null,
+      "publication_type": "Książka , Wydawnictwo Akademii Humanistyczno-Ekonomicznej w Łodzi",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Romans, jedzenie i zbrodnia. Nawiązania do tradycji seder w filmach Woody’ego Allena",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamila.kalista.0RHRKk7Vn5B/publications/ec62772d-e494-45dc-896a-560c9edf0b93",
+      "authors": null,
+      "publication_type": "Artykuł , KULTURA POPULARNA",
+      "year": "2018",
+      "doi": "10.5604/01.3001.0012.1139",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0012.1139",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

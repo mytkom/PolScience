@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R",
+  "slug": "mariusz.naumowicz",
+  "profile_id": "mP56plVP04R",
+  "full_name": "dr inż. Mariusz Konrad Naumowicz",
+  "orcid": "0000-0001-5153-5847",
+  "orcid_url": "https://orcid.org/0000-0001-5153-5847",
+  "breadcrumb_name": "Mariusz Naumowicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "komputerowe wspomaganie projektowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i zarządzanie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Applicability and Design Considerations of Chaotic and Quantum Entropy Sources for Random Number Generation in IoT Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/publications/254cbca8-90ea-4254-996a-8545564fc4ab",
+      "authors": "W. Marszałek, M. Melosik, M. Naumowicz , ... (+1)",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2025",
+      "doi": "10.3390/e27070726",
+      "doi_url": "https://www.doi.org/10.3390/e27070726",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Filter Design Based on Multi-port and Multi-dimensional gC Circuits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/publications/63c84459-95a7-4c61-b95c-8a5a7636a674",
+      "authors": "M. Naumowicz , A. Handkiewicz, W. Zajac, ... (+1)",
+      "publication_type": "Artykuł , Circuits, Systems, and Signal Processing",
+      "year": "2025",
+      "doi": "10.1007/s00034-025-03004-0",
+      "doi_url": "https://www.doi.org/10.1007/s00034-025-03004-0",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Structure and Principles of Operation of a Quaternion VLSI Multiplier",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/publications/8c4046c6-28c7-40b2-ac09-1ca06587eb43",
+      "authors": "A. Cariow, M. Naumowicz , A. Handkiewicz",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14188123",
+      "doi_url": "https://www.doi.org/10.3390/app14188123",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Komputerowo wspomagana migracja analogowych obwodów scalonych do nanometrowej technologii CMOS",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.naumowicz.mP56plVP04R/research-work/975e785d-0641-4ad4-a37b-5e3f011072f7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287529"
+    }
+  ],
+  "tag_cloud": [
+    "cryptographically secure pseudo-random bit generator",
+    "vhdl-ams",
+    "integrator",
+    "podwójne całkowanie",
+    "fpga devices",
+    "internet of things",
+    "wearable entropy source",
+    "przetwornik algorytmiczny",
+    "amperometry",
+    "fpga"
+  ],
+  "coworkers": []
+}

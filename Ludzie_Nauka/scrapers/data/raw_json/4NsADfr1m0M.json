@@ -1,0 +1,286 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M",
+  "slug": "mariusz.magier",
+  "profile_id": "4NsADfr1m0M",
+  "full_name": "prof. dr hab. inż. Mariusz Magier",
+  "orcid": "0000-0002-4431-9537",
+  "orcid_url": "https://orcid.org/0000-0002-4431-9537",
+  "breadcrumb_name": "Mariusz Magier",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Wojskowy Instytut Techniczny Uzbrojenia"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "balistyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "26 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Wojskowy Instytut Techniczny Uzbrojenia",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b1a0d3d5-0c75-4729-ac8c-71198636edf5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowy Instytut Techniczny Uzbrojenia >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b1a0d3d5-0c75-4729-ac8c-71198636edf5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Techniczny Wojsk Lotniczych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d521ee64-660a-45c4-8a84-ffd99e99148d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Wojskowy Instytut Techniczny Uzbrojenia >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b1a0d3d5-0c75-4729-ac8c-71198636edf5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektromechanika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b8378660-1504-42e6-9e89-fd4a860e1499"
+        },
+        {
+          "label": "Wojskowy Instytut Techniczny Uzbrojenia >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b1a0d3d5-0c75-4729-ac8c-71198636edf5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/gremiums/cc968d72-7d92-4cac-9834-1e83aa202935",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Mechaniczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Mechaniczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ANALIZA WYTRZYMAŁOŚCIOWA LUF KONSTRUKCJI WZMOCNIONEJ I NIEWZMOCNIONEJ STOSOWANYCH W BRONI STRZELECKIEJ WYBRANYCH KALIBRÓW. CZĘŚĆ IV. SYMULACJE NUMERYCZNE",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/publications/fe317bbd-20b3-4501-85ba-b1e389bade37",
+      "authors": "M. Hryniewicz, M. Magier",
+      "publication_type": "Artykuł , Problemy Techniki Uzbrojenia",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0835",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0835",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of the combat properties of selected battle tank ammunition in terms of effectiveness of their impact on living force and light reinforcements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/publications/7ca79f59-11ba-464e-8604-8fbee0e21865",
+      "authors": "M. Magier , A. Wierzchoń, T. Meda, ... (+3)",
+      "publication_type": "Artykuł , Problemy Techniki Uzbrojenia",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.1532",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.1532",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of tracking doppler radar in missile fragments velocity measurement after mid-air detonation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/publications/d968f7ce-dd9f-45da-be30-c3ef6b1c538a",
+      "authors": "A. Wasilewski, R. Andrzej [...] M. Magier , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.12783/ballistics25/37103",
+      "doi_url": "https://www.doi.org/10.12783/ballistics25/37103",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Oddziaływanie jednolitych i segmentowych penetratorów kinetycznych pocisków podkalibrowych na pancerze",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/01b79a21-2e9a-423b-84d2-5a6a4e4d8859",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Opracowanie nowych modeli obliczeń wytrzymałościowych wydłużonego pocisku podkalibrowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/e422235d-0700-49e7-95b3-975a9376827a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i badanie parametrów balistyki zewnętrznej naddźwiękowych pocisków moździerzowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/1b39dc20-8b09-49c7-ad7d-570b106dd8fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza naprężeń i odkształceń w procesie modelowania płyty oporowej moździerza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/437e69b3-f1ef-40fa-b2a8-8433a9c84967",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania rozwojowe balistycznych wkładów kompozytowych do ochrony personalnej przed pociskami karabinowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/03ba9985-6573-48c2-9f6e-5d3440c192ed",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Teoretyczne i doświadczalne badania automatycznej broni palnej działającej na zasadzie odrzutu lufy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.magier.4NsADfr1m0M/research-work/cffa704a-0dd1-411a-af47-d28dd1f8241f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=7zcKSMcAAAAJ&hl=pl"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Mariusz-Magier"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=24491924500"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/X-7528-2019"
+    }
+  ],
+  "tag_cloud": [
+    "high explosive projectile",
+    "simulation",
+    "internal ballistics",
+    "ballistic impact",
+    "lagrange",
+    "shell",
+    "fragmentation",
+    "projectiles penetrator",
+    "explosives",
+    "czołg"
+  ],
+  "coworkers": []
+}

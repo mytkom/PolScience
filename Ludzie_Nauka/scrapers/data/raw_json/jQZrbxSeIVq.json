@@ -1,0 +1,270 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq",
+  "slug": "stanisław.iwan",
+  "profile_id": "jQZrbxSeIVq",
+  "full_name": "dr hab. Stanisław Iwan",
+  "orcid": "0000-0002-5480-5475",
+  "orcid_url": "https://orcid.org/0000-0002-5480-5475",
+  "breadcrumb_name": "Stanisław Iwan",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ekonomika informacji",
+    "systemy informacyjne zarządzania",
+    "systemy transportowe inteligentne",
+    "logistyka miejska",
+    "optymalizacja transportu",
+    "telematyka transportu",
+    "zarządzanie miastem",
+    "zarządzanie transportem"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/93316717-c30b-4ab1-9f32-f95eef75f238",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4a0f0c23-2296-4b44-bc0b-1072ad7e738b"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka i ekonometria",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Web application to model and visualise the spread of traffic pollution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/publications/e4015064-d2db-49f2-98a3-745ae65f6867",
+      "authors": "P. Górka, K. Małecki, S. Iwan , ... (+3)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2026",
+      "doi": "10.1016/j.softx.2025.102493",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102493",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Citizens perceptions of urban freight transport: an international comparison",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/publications/a1f673c7-02e5-4070-9a88-869c99ff0189",
+      "authors": "J. França, K. Kijewska, S. Iwan , ... (+2)",
+      "publication_type": "Artykuł , Transportation Research Interdisciplinary Perspectives",
+      "year": "2025",
+      "doi": "10.1016/j.trip.2025.101342",
+      "doi_url": "https://www.doi.org/10.1016/j.trip.2025.101342",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Cyfryzacja zarządzania logistycznego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/publications/a98c2150-4728-41d0-83eb-02a2c7e656a2",
+      "authors": "M. Kostrzewski, S. Iwan , A. Koliński",
+      "publication_type": "Książka , Polskie Wydawnictwo Ekonomiczne",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wdrażanie dobrych praktyk w obszarze transportu dostawczego w miastach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/633dd8d6-85ec-410e-be88-9a41d21d3d22",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Symulacja kosztów wspomagania problemu dydaktycznego narzędziami informatyki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/9e4b94df-e9ee-4c8a-96c4-2e461f837a09",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie logistyką miejską a elektromobilność",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/003fe898-2f73-4d31-b099-b4919575e99f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Projakościowe zarządzanie procesem dydaktycznym w szkołach wyższych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/b8a6f907-ea99-41cf-b9df-85093d3e137c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Logistyka zaopatrzenia w przedsiębiorstwach budowlanych a zrównoważony miejski transport towarowy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/70579178-c265-4d28-8524-31137b86bba3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Procesy doskonalenia modeli biznesu przedsiębiorstw transportu drogowego a uwarunkowania technologiczne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/f12aad9b-be11-42aa-b54f-14142f6a5b9f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System informacyjny rachunkoowści w zarządzaniu małymi i średnimi przedsiębiorstwami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/8640344a-a0b1-4dd3-b646-0e91d7957620",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zrównoważona działalność promocyjna dużych przedsiębiorstw przemysłu spożywczego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/stanis%C5%82aw.iwan.jQZrbxSeIVq/research-work/b591f3cf-301f-4de5-8368-c95aacd29dae",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=121037"
+    }
+  ],
+  "tag_cloud": [
+    "rozwój zrównoważony",
+    "cellular automata",
+    "sustainable development",
+    "logistyka miejska",
+    "city logistics",
+    "urban freight transport",
+    "miejski transport towarowy",
+    "transport zrównoważony",
+    "sustainable transport",
+    "transport"
+  ],
+  "coworkers": []
+}

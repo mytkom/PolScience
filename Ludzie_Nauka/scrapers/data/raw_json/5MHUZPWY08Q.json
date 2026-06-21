@@ -1,0 +1,145 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q",
+  "slug": "anna.sobieraj-żłobińska",
+  "profile_id": "5MHUZPWY08Q",
+  "full_name": "dr Anna Sobieraj-Żłobińska",
+  "orcid": "0000-0002-1668-0632",
+  "orcid_url": "https://orcid.org/0000-0002-1668-0632",
+  "breadcrumb_name": "Anna Sobieraj-Żłobińska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warmińsko-Mazurski w Olsztynie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1a88b2ad-f6fd-4e5a-b514-27766a21594d"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Automatic Threat Detection for Historic Buildings in Dark Places Based on the Modified OptD Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/publications/3a204684-933f-43dd-a625-e7e0de8285e6",
+      "authors": "J. Janicka, C. Suchocki [...] A. Sobieraj-Żłobińska , ... (+3)",
+      "publication_type": "Artykuł , ISPRS International Journal of Geo-Information",
+      "year": "2020",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Down-Sampling of Large LiDAR Dataset in the Context of Off-Road Objects Extraction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/publications/8518cdc3-2ea0-497f-b573-38982f154e61",
+      "authors": "A. Sobieraj-Żłobińska , J. Janicka, W. Błaszczak-Bąk, ... (+3)",
+      "publication_type": "Artykuł , Geosciences",
+      "year": "2020",
+      "doi": "10.3390/geosciences10060219",
+      "doi_url": "https://www.doi.org/10.3390/geosciences10060219",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "MULTI-OBJECTIVE OPTIMIZATION PROBLEM IN THE OptD-MULTI METHOD",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.sobieraj-%C5%BC%C5%82obi%C5%84ska.5MHUZPWY08Q/publications/3597fa85-e217-4c5d-acff-d5208fa8ff7a",
+      "authors": "A. Sobieraj-Żłobińska , W. Błaszczak-Bąk, M. Kowalik, ... (+1)",
+      "publication_type": "Artykuł , Metrology and Measurement Systems",
+      "year": "2019",
+      "doi": "10.24425/mms.2019.128353",
+      "doi_url": "https://www.doi.org/10.24425/mms.2019.128353",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=256687"
+    }
+  ],
+  "tag_cloud": [
+    "3d sonar",
+    "als",
+    "dataset, optd method, lidar data processing",
+    "optd method",
+    "data reduction",
+    "reduction",
+    "autonomous navigation",
+    "bathymetry",
+    "tls",
+    "lidar"
+  ],
+  "coworkers": []
+}

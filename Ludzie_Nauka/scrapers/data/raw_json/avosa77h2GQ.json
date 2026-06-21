@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ",
+  "slug": "alicja.bera",
+  "profile_id": "avosa77h2GQ",
+  "full_name": "mgr inż. Alicja Maria Bera",
+  "orcid": "0000-0002-0455-7039",
+  "orcid_url": "https://orcid.org/0000-0002-0455-7039",
+  "breadcrumb_name": "Alicja Bera",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "oceanotechnika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Numerical and experimental analyses of the coupled impact of corrosion and cracks on the ultimate strength of stiffened plates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/publications/e3946fe5-f828-4d23-a0db-82be7a6bf1d9",
+      "authors": "K. Woloszyk, A. Bera , J. Kowalski, ... (+2)",
+      "publication_type": "Artykuł , Thin-Walled Structures",
+      "year": "2025",
+      "doi": "10.1016/j.tws.2025.113711",
+      "doi_url": "https://www.doi.org/10.1016/j.tws.2025.113711",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental and numerical study on stability loss of innovative geometry steel girder",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/publications/0c9cc43c-a222-45b7-ad72-298cf23ac2b6",
+      "authors": "M. Gordziej-Zagórowska, W. Migda [...] A. Bera , ... (+3)",
+      "publication_type": "Artykuł , Journal of Constructional Steel Research",
+      "year": "2024",
+      "doi": "10.1016/j.jcsr.2024.109036",
+      "doi_url": "https://www.doi.org/10.1016/j.jcsr.2024.109036",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Quality Testing of Welded Joints of Wind Towers with Advanced Ultrasonic Techniques – a Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/alicja.bera.avosa77h2GQ/publications/0dbe8120-9660-4ab6-aa14-763cc5059bf9",
+      "authors": "A. Bera , R. Pyszko, Z. Górski, ... (+2)",
+      "publication_type": "Artykuł , Materials Science and Welding Technologies",
+      "year": "2024",
+      "doi": "10.32730/mswt.2024.68.3.4",
+      "doi_url": "https://www.doi.org/10.32730/mswt.2024.68.3.4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

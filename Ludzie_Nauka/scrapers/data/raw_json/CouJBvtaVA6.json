@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6",
+  "slug": "piotr.rajchowski",
+  "profile_id": "CouJBvtaVA6",
+  "full_name": "dr inż. Piotr Rajchowski",
+  "orcid": "0000-0002-7736-3526",
+  "orcid_url": "https://orcid.org/0000-0002-7736-3526",
+  "breadcrumb_name": "Piotr Rajchowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radiokomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza wpływu sygnałów interferujących na pracę interfejsu radiowego 5G-NR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/publications/fd0a391f-0160-4ff4-8eaf-7fd21acfbb92",
+      "authors": "P. Rajchowski , K. Cwalina, O. Błaszkiewicz, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.20",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza wpływu środowiska testowego na skuteczność detekcji interferencji w interfejsie radiowym 5G-NR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/publications/9149fbef-0242-454c-afd9-774bd9c4db70",
+      "authors": "K. Malon, P. Skokowski [...] P. Rajchowski , ... (+3)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.21",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.21",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Detection of Dual-Wideband UAV Radio Signatures in an Integrated C-UAS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/publications/a1c616ab-c90a-4ba1-bc37-3c04d7d2090b",
+      "authors": "K. Cwalina, P. Rajchowski , J. Sadowski, ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/eurocon64445.2025.11073270",
+      "doi_url": "https://www.doi.org/10.1109/eurocon64445.2025.11073270",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badanie i analiza dokładności estymacji położenia obiektów ruchomych w hybrydowym systemie lokalizacyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.rajchowski.CouJBvtaVA6/research-work/8d0f73a9-265f-481b-b675-f0b9889c4f2c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=283255"
+    }
+  ],
+  "tag_cloud": [
+    "rcied",
+    "radio navigation",
+    "zakłócenia",
+    "nlos",
+    "nb-iot",
+    "uwb",
+    "głębokie uczenie",
+    "internet rzeczy",
+    "kurtyna elektromagnetyczna",
+    "interfejs nb-iot"
+  ],
+  "coworkers": []
+}

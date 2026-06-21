@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre",
+  "slug": "marcin.szlenk",
+  "profile_id": "mkNFxZD4Yre",
+  "full_name": "dr inż. Marcin Piotr Szlenk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marcin Szlenk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "inżynieria oprogramowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Variable structure robot control systems: The RAPP approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/publications/fdf63899-2b48-4af6-835e-9d76590a0333",
+      "authors": "T. Kornuta, C. Zieliński [...] M. Szlenk , ... (+27)",
+      "publication_type": "Artykuł , Robotics and Autonomous Systems",
+      "year": "2017",
+      "doi": "10.1016/j.robot.2017.05.002",
+      "doi_url": "https://www.doi.org/10.1016/j.robot.2017.05.002",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Postępy Robotyki. Tom I i II",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/publications/95994c0d-669c-4c83-8f17-3d87df2e2c48",
+      "authors": "C. Zieliński, W. Kasprzak [...] M. Szlenk , ... (+12)",
+      "publication_type": "Książka , Oficyna Wydawnicza Politechniki Warszawskiej",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Distributed, reconfigurable architecture for robot companions exemplified by a voice-mail application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/publications/41c4d7c9-4763-4ab5-8abc-018f3f60561b",
+      "authors": "M. Figat, T. Kornuta, M. Szlenk , ... (+1)",
+      "publication_type": "Artykuł , 2015 20th International Conference on Methods and Models in Automation and Robotics (MMAR)",
+      "year": "2015",
+      "doi": "10.1109/mmar.2015.7284031",
+      "doi_url": "https://www.doi.org/10.1109/mmar.2015.7284031",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Formalna semantyka i wnioskowanie o pojęciowym diagramie klas w UML",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.szlenk.mkNFxZD4Yre/research-work/6d833dd4-b092-4eb6-8978-84a8d23083b6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200124"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,196 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e",
+  "slug": "paweł.sztonyk",
+  "profile_id": "1SakoVcT23e",
+  "full_name": "dr hab. inż. Paweł Sztonyk",
+  "orcid": "0000-0003-2722-6416",
+  "orcid_url": "https://orcid.org/0000-0003-2722-6416",
+  "breadcrumb_name": "Paweł Sztonyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "procesy stochastyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Matematyki i Informatyki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/gremiums/8982511b-720e-45f7-95ac-63d20039453a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Nonlocal operators with Neumann conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/publications/16458d86-3629-4084-82d9-579a8330f51c",
+      "authors": "K. Bogdan, D. Fafuła, P. Sztonyk",
+      "publication_type": "Artykuł , Dissertationes Mathematicae",
+      "year": "2025",
+      "doi": "10.4064/dm241221-14-4",
+      "doi_url": "https://www.doi.org/10.4064/dm241221-14-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Heat kernels of non-local Schrödinger operators with Kato potentials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/publications/7148bb2c-3fb4-4625-bff9-0034b3ded673",
+      "authors": "T. Grzywny, K. Kaleta, P. Sztonyk",
+      "publication_type": "Artykuł , Journal of Differential Equations",
+      "year": "2022",
+      "doi": "10.1016/j.jde.2022.08.038;10.48550/arxiv.2204.04239",
+      "doi_url": "https://www.doi.org/10.1016/j.jde.2022.08.038;10.48550/arxiv.2204.04239",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Heat kernels of non-local Schrödinger operators with Kato potentials",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/publications/7e0d3bea-da3f-4b29-a889-21523346b835",
+      "authors": "T. Grzywny, K. Kaleta, P. Sztonyk",
+      "publication_type": "Artykuł , Journal of Differential Equations",
+      "year": "2022",
+      "doi": "10.1016/j.jde.2022.08.038",
+      "doi_url": "https://www.doi.org/10.1016/j.jde.2022.08.038",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Własności funkcji harmonicznych i gęstości prawdopodobieństw przejścia dla procesów skokowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/research-work/bebab6b4-795a-4e22-82f5-7b82aba3ac2f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zagadnienia brzegowe dla stabilnych procesów Lévy'ego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.sztonyk.1SakoVcT23e/research-work/092ed221-5c30-4244-b33f-39eb67c831fa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=111027"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

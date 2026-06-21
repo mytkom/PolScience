@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe",
+  "slug": "paweł.parzuchowski",
+  "profile_id": "RZaJRHvkZVe",
+  "full_name": "prof. dr hab. Paweł Grzegorz Parzuchowski",
+  "orcid": "0000-0002-3544-7246",
+  "orcid_url": "https://orcid.org/0000-0002-3544-7246",
+  "breadcrumb_name": "Paweł Parzuchowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "chemia i technologia tworzyw sztucznych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk chemicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki chemiczne / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk chemicznych / chemia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Chemiczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c275f37d-b8a5-42a1-884b-a557d3298767"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/gremiums/78d74beb-59ec-4e03-aab5-e96f7de2ba9b",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Inżynieria Chemiczna 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Inżynieria Chemiczna Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ferulic Acid and Polyferulic Acid in Polymers: Synthesis, Properties, and Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/publications/bcf20942-c79c-4845-9a1b-ccc84985d01b",
+      "authors": "M. Leszczyński, M. Mamiński, P. Parzuchowski",
+      "publication_type": "Artykuł , Polymers",
+      "year": "2025",
+      "doi": "10.3390/polym17202788",
+      "doi_url": "https://www.doi.org/10.3390/polym17202788",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Toward a circular economy: upcycling PET and fatty diamine derivatives into recyclable non-isocyanate poly(ester-urethane)s",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/publications/43d3a22f-a94a-46e1-a856-e0c4aa6e4502",
+      "authors": "D. Wołosz, M. Mazurek-Budzyńska [...] P. Parzuchowski , ... (+7)",
+      "publication_type": "Artykuł , European Polymer Journal",
+      "year": "2025",
+      "doi": "10.1016/j.eurpolymj.2025.114330",
+      "doi_url": "https://www.doi.org/10.1016/j.eurpolymj.2025.114330",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Influence of the hard segments content on the properties of electrospun aliphatic poly(carbonate-urethane-urea)s",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/publications/ad41b26a-4590-4719-9ae5-079289d19e6e",
+      "authors": "K. Rolińska, P. Parzuchowski , H. Bakhshi, ... (+2)",
+      "publication_type": "Artykuł , RSC Advances",
+      "year": "2024",
+      "doi": "10.1039/d4ra01726a",
+      "doi_url": "https://www.doi.org/10.1039/d4ra01726a",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Glicerol i cykliczne węglany jako monomery w syntezie polimerów silnie rozgałęzionych i sieci polimerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/70be37fa-e412-4fa8-979e-3939db1be505",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kaliksareny immobilizowane na matrycach polimerowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/d7b82955-6848-43ac-9778-4111a39b8049",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Advanced polymeric materials - from calculation to application",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/860645eb-7722-4739-8ed3-40459cbed4cb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/8d417524-f2ac-4412-804e-64c73e34b028",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/00f50b93-638c-4783-a31d-b4e3937c44d3",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Synteza związków wielkocząsteczkowych pochodzenia naturalnego szczepionych z powierzchni organicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.parzuchowski.RZaJRHvkZVe/research-work/856becd1-10b0-47be-a35a-8c54cb82635f",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=84710"
+    }
+  ],
+  "tag_cloud": [
+    "inorganic carbon compounds",
+    "hot melt adhesive",
+    "nanoimprinting",
+    "biopolyol synthesis epoxy resin ricinoleic acid",
+    "label-free sensing",
+    "poliuretany bezizocyjanianowe",
+    "diols",
+    "rex",
+    "adhesion",
+    "urea"
+  ],
+  "coworkers": []
+}

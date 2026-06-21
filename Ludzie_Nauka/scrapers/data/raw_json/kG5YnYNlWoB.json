@@ -1,0 +1,227 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB",
+  "slug": "ewelina.ksepko",
+  "profile_id": "kG5YnYNlWoB",
+  "full_name": "dr hab. Ewelina Ksepko",
+  "orcid": "0000-0003-0091-6468",
+  "orcid_url": "https://orcid.org/0000-0003-0091-6468",
+  "breadcrumb_name": "Ewelina Ksepko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Chemicznej Przeróbki Węgla Aktualna nazwa: Instytut Technologii Paliw i Energii",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f900b059-1c0e-4c6c-9284-81c3c2ba4d6c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie; Wydział Inżynierii Materiałowej i Ceramiki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/edacac11-e8f1-441a-8918-d267b69b8381"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach; Wydział Matematyki, Fizyki i Chemii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/286d2236-d85c-47c0-aad5-9e0f5a274027"
+        },
+        {
+          "label": "Uniwersytet Śląski w Katowicach >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Śląski w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b5db43b9-b076-4a54-8075-1642b7c9fe89"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/gremiums/59a46122-97c5-44a0-9bc1-067a7c6e2f69",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advancing municipal solid waste management through gasification technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/publications/9c64d434-ac7e-4d67-89ec-271052fd9c7b",
+      "authors": "U. Kun, E. Ksepko , U. Haruna",
+      "publication_type": "Artykuł , Processes",
+      "year": "2025",
+      "doi": "10.3390/pr13072000",
+      "doi_url": "https://www.doi.org/10.3390/pr13072000",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Combustion and PCDD/Fs suppression characteristics of waste and sludge blends",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/publications/8454042e-34d5-412f-b6b1-591fd0e59808",
+      "authors": "E. Ksepko , A. Magdziarz, R. Zhang, ... (+2)",
+      "publication_type": "Artykuł , Journal of the Energy Institute",
+      "year": "2025",
+      "doi": "10.1016/j.joei.2025.102295",
+      "doi_url": "https://www.doi.org/10.1016/j.joei.2025.102295",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Enhanced performance of nanocomposite membranes by an environmentally friendly high-pressure silanization method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/publications/0a82fa10-50b6-49cd-8a18-776b5f02d8f7",
+      "authors": "E. Ksepko , P. Abugu, M. Nowak, ... (+6)",
+      "publication_type": "Artykuł , ACS Omega",
+      "year": "2025",
+      "doi": "10.1021/acsomega.4c10503",
+      "doi_url": "https://www.doi.org/10.1021/acsomega.4c10503",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kinetyka i mechanizm przemian stałych nośników tlenu dla zastosowania w procesie spalania i zgazowania paliw",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/research-work/99ad1560-1207-4b25-a397-a8bb91ed9005",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Otrzymywanie, struktura krystaliczna, strukturalne przejścia fazowe w układach BaPbO 3 :Sr 2+ oraz NaNbO 3 domieszkowanych Pb i Mn",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/research-work/73295de6-8d73-457f-977e-e6cc8b0d9042",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie i wdrożenie ulepszonej, niskoemisyjnej technologii przemysłowego wytwarzania octanu etylu.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewelina.ksepko.kG5YnYNlWoB/research-work/5302e669-a5a8-4553-adaa-a4ab75718c91",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200794"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

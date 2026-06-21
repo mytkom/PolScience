@@ -1,0 +1,231 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac",
+  "slug": "piotr.łukasiak",
+  "profile_id": "ILhENBIqoac",
+  "full_name": "dr hab. inż. Piotr Marcin Łukasiak",
+  "orcid": "0000-0003-4012-9135",
+  "orcid_url": "https://orcid.org/0000-0003-4012-9135",
+  "breadcrumb_name": "Piotr Łukasiak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "22 lat",
+      "duration": null,
+      "institution": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/eb155ad0-f9cf-4c26-b470-4c6501ea0a66",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "FibrAIm - the machine learning approach to identify the early stage of liver fibrosis and steatosis.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/publications/cc66423a-11e4-4f0e-a760-27244b1b98e9",
+      "authors": "B. Ginter-Matuszewska, A. Adamek [...] P. Lukasiak , ... (+5)",
+      "publication_type": "Artykuł , International Journal of Medical Informatics",
+      "year": "2025",
+      "doi": "10.1016/j.ijmedinf.2025.105837",
+      "doi_url": "https://www.doi.org/10.1016/j.ijmedinf.2025.105837",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of the Impact of Reformulation of the Recipe Composition on the Quality of Instant Noodles",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/publications/8b694e42-389e-4868-b18a-46ff8e4acd0b",
+      "authors": "K. Marciniak-Łukasiak, K. Marciniak-Lukasiak [...] P. Lukasiak , ... (+5)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14209362",
+      "doi_url": "https://www.doi.org/10.3390/app14209362",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Incorporation of Chokeberry Pomace into Baked Products: Influence on the Quality of the Dough and the Muffins",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/publications/b0aa0993-30f2-4bf6-b9b8-36c874c36610",
+      "authors": "A. Zbikowska, P. Lukasiak , M. Kozłowska, ... (+4)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14219675",
+      "doi_url": "https://www.doi.org/10.3390/app14219675",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane zagadnienia badań operacyjnych w bioinformatyce strukturalnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/research-work/87125c6a-08af-45ef-b1a9-836297152b4a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmiczne aspekty przewidywania drugorzędowych struktur białek",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/research-work/d31a1a30-ae80-47d2-bcf1-9a7e94d58085",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmiczne aspekty modelowania i ewaluacji biomolekuł",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/research-work/f5d0ce0d-4d89-4de7-8095-59445209568c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Bioinformatyczne modele i algorytmy infekcji wirusowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%82ukasiak.ILhENBIqoac/research-work/26b6dcab-098b-445c-a82e-eac8efb6e991",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=207092"
+    }
+  ],
+  "tag_cloud": [
+    "sirna",
+    "pseudoknots",
+    "sensory quality",
+    "visualization",
+    "texture",
+    "computational fluid dynamics",
+    "zamienniki tłuszczu, aspekt żywieniowy, wyroby ciastkarskie, jakość sensoryczna, tekstura, gospodarka obiegu zamkniętego",
+    "plant-based milk",
+    "binding",
+    "atom contacts"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,233 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ",
+  "slug": "paweł.kryszkiewicz",
+  "profile_id": "49MUnFz2UrJ",
+  "full_name": "dr hab. inż. Paweł Maciej Kryszkiewicz",
+  "orcid": "0000-0001-9054-9416",
+  "orcid_url": "https://orcid.org/0000-0001-9054-9416",
+  "breadcrumb_name": "Paweł Kryszkiewicz",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "radiokomunikacja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Elektroniki i Telekomunikacji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/gremiums/ed02d982-1ebd-40bf-a352-e007ccbc58db",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimal Distortion-Aware Multi-User Power Allocation for Massive MIMO Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/publications/ba749f9c-07e9-464a-8e4a-dcea13d3b27b",
+      "authors": "S. Marwaha, P. Kryszkiewicz , E. Jorswieck",
+      "publication_type": "Artykuł , IEEE Transactions on Wireless Communications",
+      "year": "2026",
+      "doi": "10.1109/twc.2025.3632114",
+      "doi_url": "https://www.doi.org/10.1109/twc.2025.3632114",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An Open-RAN Testbed for Detecting and Mitigating Radio-Access Anomalies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/publications/9a68eab6-bd0e-4044-863d-bf5579c01232",
+      "authors": "H. Bogucka, M. Hoffmann, P. Kryszkiewicz , ... (+1)",
+      "publication_type": "Artykuł , IEEE Communications Magazine",
+      "year": "2025",
+      "doi": "10.1109/mcom.003.2400513",
+      "doi_url": "https://www.doi.org/10.1109/mcom.003.2400513",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Budowa bliźniaka cyfrowego środowiska radiowego z użyciem metody śledzenia promieni",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/publications/6f6524b4-a639-4b2d-806e-94be64110c90",
+      "authors": "M. Pakuła, M. Hoffmann, P. Kryszkiewicz",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.22",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.22",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowe metody zwiększenia efektywności widmowej i energetycznej systemów radiokomunikacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work/1ed95827-2696-4329-811b-2b33e57a688f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ochrona użytkowników pierwotnych w systemie radia kognitywnego wysokiej jakości z wykorzystaniem techniki NC-OFDM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work/58535bcf-dc19-4774-8daf-fff8cb8a12b2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Mobility enhancements for reducinginterruption and improving reliability and robustness in New Radio 5G cellular networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work/a1c3f715-31a4-46ff-97b5-16ff5a8e681f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work/c9d7f1d4-c308-4164-a453-367c547ecf93",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.kryszkiewicz.49MUnFz2UrJ/research-work/648e8810-9ab4-4c80-bdb3-c004589e839e",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=271321"
+    }
+  ],
+  "tag_cloud": [
+    "efektywność energetyczna",
+    "power consumption",
+    "vehicular dynamic spectrum access",
+    "5g",
+    "energy efficiency",
+    "massive mimo",
+    "radio environment map",
+    "v2x communications",
+    "wireless communication",
+    "radio environment maps"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3",
+  "slug": "michał.rewieński",
+  "profile_id": "MEbDM6jDHz3",
+  "full_name": "dr inż. Michał Rewieński",
+  "orcid": "0000-0003-2523-8026",
+  "orcid_url": "https://orcid.org/0000-0003-2523-8026",
+  "breadcrumb_name": "Michał Rewieński",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektrodynamika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An MOR Algorithm Based on the Immittance Zero and Pole Eigenvectors for Fast FEM Simulations of Two-Port Microwave Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/publications/5e1d7d2d-4fd8-4723-a6c7-6013754eb136",
+      "authors": "G. Fotyga, D. Szypulski [...] M. Rewieński , ... (+5)",
+      "publication_type": "Artykuł , IEEE Transactions on Microwave Theory and Techniques",
+      "year": "2022",
+      "doi": "10.1109/tmtt.2022.3166657",
+      "doi_url": "https://www.doi.org/10.1109/tmtt.2022.3166657",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "A Stabilized Complex LOBPCG Eigensolver for the Analysis of Moderately Lossy EM Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/publications/7cd3a071-c7a5-4b55-b582-d012e4981c85",
+      "authors": "M. Rewienski , A. Dziekoński, A. Lamecki, ... (+1)",
+      "publication_type": "Artykuł , IEEE Microwave and Wireless Components Letters",
+      "year": "2018",
+      "doi": "10.1109/lmwc.2017.2771289",
+      "doi_url": "https://www.doi.org/10.1109/lmwc.2017.2771289",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "GPU-Accelerated LOBPCG Method with Inexact Null-Space Filtering for Solving Generalized Eigenvalue Problems in Computational Electromagnetics Analysis with Higher-Order FEM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/publications/ce034cb2-4598-48f5-a608-7d21b02362df",
+      "authors": "D. A., R. M. , A. Dziekoński, ... (+3)",
+      "publication_type": "Artykuł , Communications in Computational Physics",
+      "year": "2017",
+      "doi": "10.4208/cicp.oa-2016-0168",
+      "doi_url": "https://www.doi.org/10.4208/cicp.oa-2016-0168",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wydajne algorytmy dla potrzeb wielkoskalowego modelowania elektromagnetycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.rewie%C5%84ski.MEbDM6jDHz3/research-work/6c8a016a-9923-4b2f-b5bb-4c61bf990a22",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=90004"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

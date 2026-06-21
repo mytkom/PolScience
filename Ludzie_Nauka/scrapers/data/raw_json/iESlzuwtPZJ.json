@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ",
+  "slug": "maciej.huk",
+  "profile_id": "iESlzuwtPZJ",
+  "full_name": "dr inż. Maciej Huk",
+  "orcid": "0000-0003-0430-7141",
+  "orcid_url": "https://orcid.org/0000-0003-0430-7141",
+  "breadcrumb_name": "Maciej Huk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja",
+    "sieci neuronowe",
+    "uczenie maszynowe",
+    "algorytmy genetyczne",
+    "inteligencja kolektywna",
+    "systemy kontekstowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Billiards-based generation of multi-task, dense subitizing detection diagrams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/publications/6d9e0bfd-0b7e-449e-ad21-b2eee4ea29d1",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-6005-6_2",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-6005-6_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Contextual statistical evaluation of selected CRISPR-Cas9 recurrent deep learning models predicting off-target activities for K562 and Hek293 cell lines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/publications/07138f28-dad2-49dc-b9f4-6d60b30a93f8",
+      "authors": "M. Powierża, Ł. Łaczmański, M. Huk",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-6008-7_17",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-6008-7_17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Efficacy of oral amantadine among patients hospitalised with COVID-19: a randomised, double-blind, placebo-controlled, multicentre study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/publications/3ce2179d-3ec6-4f22-9b61-0767f64db95c",
+      "authors": "A. Barczyk, M. Czajkowska-Malinowska [...] M. Huk , ... (+25)",
+      "publication_type": "Artykuł , Respiratory Medicine",
+      "year": "2023",
+      "doi": "10.1016/j.rmed.2023.107198",
+      "doi_url": "https://www.doi.org/10.1016/j.rmed.2023.107198",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie zjawiska kierunkowania uwagi przy pomocy sztucznych sieci neuronowych w zadaniu klasyfikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/research-work/5bedc17e-2cab-4d32-9fe8-bdbaba2efef2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie nowych metod ekstrakcji wiedzy regułowej z sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.huk.iESlzuwtPZJ/research-work/6d020647-f79b-4f9f-b46b-cf784a0cb7a8",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=201572"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

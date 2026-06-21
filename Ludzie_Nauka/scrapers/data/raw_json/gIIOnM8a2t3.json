@@ -1,0 +1,102 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3",
+  "slug": "kuba.kryszczyński",
+  "profile_id": "gIIOnM8a2t3",
+  "full_name": "mgr inż. Kuba Nikodem Kryszczyński",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Kuba Kryszczyński",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Study of the straw compaction degree as a function of moisture content, particle size and process temperature",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kuba.kryszczy%C5%84ski.gIIOnM8a2t3/publications/c5f4dd89-be1b-454d-af5e-58fab3bfde47",
+      "authors": "D. Wilczyński, K. Talaśka [...] K. Kryszczyński , ... (+6)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17235869",
+      "doi_url": "https://www.doi.org/10.3390/ma17235869",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

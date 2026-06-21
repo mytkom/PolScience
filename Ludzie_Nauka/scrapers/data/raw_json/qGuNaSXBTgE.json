@@ -1,0 +1,296 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE",
+  "slug": "zygmunt.mazur",
+  "profile_id": "qGuNaSXBTgE",
+  "full_name": "dr hab. Zygmunt Mazur",
+  "orcid": "0000-0003-1253-7895",
+  "orcid_url": "https://orcid.org/0000-0003-1253-7895",
+  "breadcrumb_name": "Zygmunt Mazur",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bazy danych",
+    "systemy informatyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "52 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1977",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1973",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Polskie Towarzystwo Informatyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/gremiums/d0adda26-1459-423e-bac4-155e1f2e1e53",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/gremiums/11af940d-0298-4cf6-a141-a1d02f86c767",
+      "period": "2012-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Zespół Nauk Inżynieryjno-Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/gremiums/17490774-f58c-41b1-9380-f78356bc67bc",
+      "period": "2012-2019",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Information graphs in process analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/publications/43eab76e-e682-4315-aef8-1423f55c24d0",
+      "authors": "Z. Mazur , J. Pec",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-981-96-6008-7_14",
+      "doi_url": "https://www.doi.org/10.1007/978-981-96-6008-7_14",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A method for information security analysis using information graphs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/publications/153e0162-a5ac-40ec-ac92-ccb280048dac",
+      "authors": "Z. Mazur , J. Pec",
+      "publication_type": "Artykuł , Cybernetics and Systems",
+      "year": "2024",
+      "doi": "10.1080/01969722.2022.2162739",
+      "doi_url": "https://www.doi.org/10.1080/01969722.2022.2162739",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Security of closed–circuit television – case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/publications/772f912e-a189-4173-83b5-e16d9fa12775",
+      "authors": "Z. Mazur , J. Pec",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2024",
+      "doi": "10.29119/1641-3466.2024.213.24",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2024.213.24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele i modyfikacje rozproszonych systemów wyszukiwania informacji opartych na tezaurusach z wagami",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/518b6f0c-4475-4054-b10f-a6f073e0c1f3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda projektowania i wdrażania złożonych systemów informatycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/397f4f90-5458-4595-b7a6-5f8280ec1eff",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Weryfikacja dynamicznych więzów integralności specyfikowanych w logice temporalnej z operatorami metrycznymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/deee1b0a-a17e-4f2b-a606-5fb830b162db",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Dynamiczne więzy integralności w obiektowym modelu danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/fe637bda-8392-4519-b578-efe8938ed3c0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie arytmetyki przyrostów do adaptacji wybranych algorytmów wspomagania decyzji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/793ae7ec-0ce8-4d97-94c1-50158236b807",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modele i metody strumieniowych hurtowni danych w systemach detekcji anomalii krytycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/b6a98469-e425-4ada-8cb7-8eba2c24f7fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rozpoznawanie emocji na podstawie mowy naturalnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zygmunt.mazur.qGuNaSXBTgE/research-work/cb097e49-8b1c-4d19-a174-60d0b4a5534d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=60157"
+    }
+  ],
+  "tag_cloud": [
+    "graf zupełny",
+    "graf prosty",
+    "database systems",
+    "systemy baz danych",
+    "database",
+    "baza danych",
+    "internet",
+    "cykl hamiltona",
+    "heurystyka",
+    "badanie ankietowe"
+  ],
+  "coworkers": []
+}

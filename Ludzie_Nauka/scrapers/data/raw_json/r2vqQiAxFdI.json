@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI",
+  "slug": "bartosz.firlik",
+  "profile_id": "r2vqQiAxFdI",
+  "full_name": "dr hab. inż. Bartosz Firlik",
+  "orcid": "0000-0003-3355-5451",
+  "orcid_url": "https://orcid.org/0000-0003-3355-5451",
+  "breadcrumb_name": "Bartosz Firlik",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "dynamika pojazdów szynowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / transport",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/gremiums/4b62b94f-b9b1-49d9-82e2-e44cbe0f1bce",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Shaping light rail vehicle wheel profile in terms of wear and ride safety",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/publications/3deed371-7b32-4cb3-a061-bc345bbbe28a",
+      "authors": "T. Staśkiewicz, B. Firlik",
+      "publication_type": "Artykuł , Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit",
+      "year": "2025",
+      "doi": "10.1177/09544097241304292",
+      "doi_url": "https://www.doi.org/10.1177/09544097241304292",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Thermal imaging of the wheel-rail interface",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/publications/057d7bd1-3137-49b8-81fc-4c2f3fdfe177",
+      "authors": "B. Firlik , T. Staśkiewicz, M. Słowiński",
+      "publication_type": "Artykuł , Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit",
+      "year": "2023",
+      "doi": "10.1177/09544097231155573",
+      "doi_url": "https://www.doi.org/10.1177/09544097231155573",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Challenges and opportunities of tram wheel profile design",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/publications/ea8d376a-4b8c-41c5-a583-46ccb1610dea",
+      "authors": "T. Staśkiewicz, B. Firlik",
+      "publication_type": "Artykuł , Civil-Comp Proceedings",
+      "year": "2022",
+      "doi": "10.4203/ccc.1.21.17",
+      "doi_url": "https://www.doi.org/10.4203/ccc.1.21.17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza i ocena dynamiki układu lekki pojazd szynowy - tor w warunkach rzeczywistej eksploatacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/research-work/f8cd6348-5543-4eb1-a6ae-c4743c42e746",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "BADANIE WARUNKÓW BEZPIECZEŃSTWA PRZECIW WYKOLEJENIU NOWOCZESNYCH POJAZDÓW TRAMWAJOWYCH METODĄ SYMULACJI KOMPUTEROWEJ",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.firlik.r2vqQiAxFdI/research-work/c2985d3a-35d3-4702-9cdd-1eb14dcd34fa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=229874"
+    }
+  ],
+  "tag_cloud": [
+    "vibrations",
+    "tram",
+    "profile",
+    "optimization",
+    "tramway",
+    "multibody dynamics",
+    "wheel",
+    "wheel-rail interaction",
+    "comfort",
+    "wheel profile"
+  ],
+  "coworkers": []
+}

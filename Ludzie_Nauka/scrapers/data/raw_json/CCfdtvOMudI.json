@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI",
+  "slug": "tomasz.siwulski",
+  "profile_id": "CCfdtvOMudI",
+  "full_name": "dr inż. Tomasz Piotr Siwulski",
+  "orcid": "0000-0001-5887-9386",
+  "orcid_url": "https://orcid.org/0000-0001-5887-9386",
+  "breadcrumb_name": "Tomasz Siwulski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mobilne maszyny robocze",
+    "pojazdy przemysłowe",
+    "stateczność pojazdów przemysłowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparative study of the influence of the system architecture on the accuracy of hydraulic cylinder working movements",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/publications/bcb35036-8bcd-4776-a71e-6062b97ecb2a",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app13031594",
+      "doi_url": "https://www.doi.org/10.3390/app13031594",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental tests on the influence of accumulated pressure energy on the response time of a hydraulic cylinder under external load actuated in a classic and distributed system structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/publications/dd507b12-005e-414c-bccb-e09ba81817a0",
+      "authors": null,
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16237696",
+      "doi_url": "https://www.doi.org/10.3390/en16237696",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Improving the efficiency of a rock breaker hydraulic working system by changing the structure of the hydraulic system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/publications/0777d43e-31f9-4d5e-9082-e2be0c053f52",
+      "authors": "T. Siwulski , U. Warzyńska, K. Panowska, ... (+1)",
+      "publication_type": "Artykuł , MM Science Journal",
+      "year": "2022",
+      "doi": "10.17973/mmsj.2022_10_2022067",
+      "doi_url": "https://www.doi.org/10.17973/mmsj.2022_10_2022067",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie stateczności dynamicznej pojazdów przemysłowych z podatnymi elementami jezdnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.siwulski.CCfdtvOMudI/research-work/1ede35d2-a921-42c8-9975-785cd819395c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=125303"
+    }
+  ],
+  "tag_cloud": [
+    "road wheels system",
+    "układ roboczy",
+    "słownik hydrauliczny",
+    "strength analysis",
+    "siłownik hydrauliczny",
+    "odprowadzanie ciepła",
+    "rozdzielacz hydrauliczny",
+    "moduł sprężystości objętościowej",
+    "dźwignica",
+    "pozycjonowanie układu roboczego"
+  ],
+  "coworkers": []
+}

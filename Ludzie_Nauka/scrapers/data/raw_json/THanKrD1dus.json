@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus",
+  "slug": "agnieszka.wawrzak",
+  "profile_id": "THanKrD1dus",
+  "full_name": "dr inż. Agnieszka Wawrzak",
+  "orcid": "0000-0001-8417-8129",
+  "orcid_url": "https://orcid.org/0000-0001-8417-8129",
+  "breadcrumb_name": "Agnieszka Wawrzak",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "numeryczna mechanika płynów (CFD)"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A High-Order LES of a Flow in Complex Geometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/publications/fadb0231-501b-4a70-bdf1-40e674e7dd8f",
+      "authors": "K. Wawrzak, A. Wawrzak , A. Bogusławski, ... (+2)",
+      "publication_type": "Artykuł , Journal of Physics: Conference Series",
+      "year": "2024",
+      "doi": "10.1088/1742-6596/2899/1/012008",
+      "doi_url": "https://www.doi.org/10.1088/1742-6596/2899/1/012008",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hydrogen Jet Flame Control by Global Mode",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/publications/0a382abb-59e9-4e60-b625-b5a35fb3e5d6",
+      "authors": "A. Wawrzak , K. Wawrzak, A. Bogusławski, ... (+4)",
+      "publication_type": "Artykuł , Flow Turbulence and Combustion",
+      "year": "2024",
+      "doi": "10.1007/s10494-023-00466-7",
+      "doi_url": "https://www.doi.org/10.1007/s10494-023-00466-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigation of Steam-Diluted Hydrogen Combustion in a Counter-Current Nozzle Configuration Using LES",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/publications/ec2d74fe-067b-4427-a928-472023af19b2",
+      "authors": "A. Wawrzak , A. Tyliszczak",
+      "publication_type": "Artykuł , Journal of Physics: Conference Series",
+      "year": "2024",
+      "doi": "10.1088/1742-6596/2899/1/012003",
+      "doi_url": "https://www.doi.org/10.1088/1742-6596/2899/1/012003",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i analiza procesu zapłonu wymuszonego i samozapłonu w warunkach turbulentnego spalania dyfuzyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.wawrzak.THanKrD1dus/research-work/2e1a75fc-2f5e-41af-a935-ea108de5a694",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=290849"
+    }
+  ],
+  "tag_cloud": [
+    "flow control",
+    "bluff-body",
+    "turbulent lifted flame",
+    "les",
+    "hydrogen",
+    "global instability",
+    "lifted flame",
+    "large eddy simulation",
+    "self-excited oscillations",
+    "mixing layer"
+  ],
+  "coworkers": []
+}

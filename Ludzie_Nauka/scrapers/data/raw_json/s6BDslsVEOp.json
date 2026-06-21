@@ -1,0 +1,302 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp",
+  "slug": "henryk.krawczyk",
+  "profile_id": "s6BDslsVEOp",
+  "full_name": "prof. dr hab. inż. Henryk Krawczyk",
+  "orcid": "0000-0003-0436-6264",
+  "orcid_url": "https://orcid.org/0000-0003-0436-6264",
+  "breadcrumb_name": "Henryk Krawczyk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria oprogramowania",
+    "systemy równoległe i rozproszone"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "52 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Powiślańska Akademia Nauk Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bc3eae7b-1b6a-4a7c-8db2-5ef5f8a94051",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1987",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Elektroniki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1976",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / -",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Elektroniki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1969",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Henryk Krawczyk"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Oddział Polskiej Akademii Nauk w Gdańsku",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/gremiums/6055333a-ccc3-4ec1-a046-915d0dc376cf",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komisja do spraw Infrastruktury Informatycznej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/gremiums/6dc3c059-3f43-474e-8b86-5c329ff3b465",
+      "period": "2016-2020",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Komisja do spraw Infrastruktury Informacyjnej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/gremiums/0190621f-6caf-40f6-9281-9e93a483b3de",
+      "period": "2008-2016",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Collaborative Learning as a Service – a Blueprint for a Cloud Based Rural IoTs Deployment Facility.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/publications/7fa9fbbd-98fe-44b9-9786-94ff5ebbc8c6",
+      "authors": "H. Krawczyk , B. Wiszniewski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-85697-6_22",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-85697-6_22",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Multi-GPU UNRES for scalable coarse-grained simulations of very large protein systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/publications/4d7623a3-c338-4545-a74b-f113bd8f6454",
+      "authors": "A. Lipska, C. Czaplewski [...] H. Krawczyk , ... (+5)",
+      "publication_type": "Artykuł , Computer Physics Communications",
+      "year": "2024",
+      "doi": "10.1016/j.cpc.2024.109112",
+      "doi_url": "https://www.doi.org/10.1016/j.cpc.2024.109112",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multi-GPU-powered UNRES package for physics-based coarse-grained simulations of structure, dynamics, and thermodynamics of protein systems at biological size- and timescales",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/publications/d7fdca55-7375-4261-800d-1ae861967044",
+      "authors": "C. Czaplewski, P. Czarnul, H. Krawczyk , ... (+9)",
+      "publication_type": "Artykuł , Biophysical Journal",
+      "year": "2024",
+      "doi": "10.1016/j.bpj.2023.11.2566",
+      "doi_url": "https://www.doi.org/10.1016/j.bpj.2023.11.2566",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie klasyfikacji funkcjonalnej usług do efektywnego zarządzania zasobami chmurowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/213cc5e3-5de5-43d8-81b4-1fe6ee408596",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Klasyfikacja obrazów na podstawie fragmentów strumienia wideo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/6ace021d-18bc-42fe-82a0-b48424dc8ace",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Optymalizacja kosztu działania aplikacji na urządzeniach mobilnych wspomaganych przez chmurę obliczeniową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/762c3f37-ddeb-4a8c-b206-32e10ee2100b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/ad0afe32-1b32-44d5-ac32-a08b6eea704e",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/1f4a866b-80cb-442a-8ac5-6b5441f06d73",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wielowymiarowa eksploracja repozytoriów programowych w zakresie raportów zgłoszeń oraz ich obsługi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.krawczyk.s6BDslsVEOp/research-work/420ca1bb-ffef-4ad6-8fe3-8725a9d691df",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61182"
+    }
+  ],
+  "tag_cloud": [
+    "science gateways",
+    "aplikacje",
+    "continous properties",
+    "vaccines",
+    "unres",
+    "knowlegde platforms",
+    "coarse-graining",
+    "electronic commerce·smart services·transaction scenarios·userknowledge development·integrated platforms",
+    "dokumenty cyfrowe",
+    "chmura obliczeniowa"
+  ],
+  "coworkers": []
+}

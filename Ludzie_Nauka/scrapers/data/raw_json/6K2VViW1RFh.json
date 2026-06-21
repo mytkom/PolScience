@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh",
+  "slug": "marek.głogowski",
+  "profile_id": "6K2VViW1RFh",
+  "full_name": "dr inż. Marek Janusz Głogowski",
+  "orcid": "0000-0002-9364-4977",
+  "orcid_url": "https://orcid.org/0000-0002-9364-4977",
+  "breadcrumb_name": "Marek Głogowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektrostatyka",
+    "metrologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza MES właściwości kabla nadprzewodnikowego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/publications/a18964b3-9ded-4c11-894f-f6a43a0a4504",
+      "authors": "K. Przybylski, M. Głogowski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.12.6",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.12.6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The effect of an electric field on the sliding friction of the silicone rubber against selected metals in motor base oils",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/publications/ed992edf-85c2-4de3-a1ee-edad1eb964eb",
+      "authors": "M. Głogowski , D. Smykowski, S. Pietrowicz",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16093954",
+      "doi_url": "https://www.doi.org/10.3390/en16093954",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Effect of an electric field on friction of silicone rubber against steel in the motor base oil's environment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/publications/4968ddce-4624-4227-8394-62228c0b109e",
+      "authors": "J. Gajewski, M. Głogowski , N. Hałuszka, ... (+1)",
+      "publication_type": "Artykuł , Journal of Electrostatics",
+      "year": "2017",
+      "doi": "10.1016/j.elstat.2017.01.023",
+      "doi_url": "https://www.doi.org/10.1016/j.elstat.2017.01.023",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zaburzenia pracy elementów wirujących maszyn i uszczelnień wskutek elektryzacji olejów technicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.g%C5%82ogowski.6K2VViW1RFh/research-work/6a55c9f0-b68e-48b6-b463-a92c1d8b2b6d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=126159"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

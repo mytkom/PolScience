@@ -1,0 +1,189 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj",
+  "slug": "damian.wójtowicz",
+  "profile_id": "xwY3kqdE2Vj",
+  "full_name": "dr Damian Michał Wójtowicz",
+  "orcid": "0000-0002-4274-6383",
+  "orcid_url": "https://orcid.org/0000-0002-4274-6383",
+  "breadcrumb_name": "Damian Wójtowicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska",
+    "Uniwersytet Warszawski"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1.04.2026 - obecnie",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne w zakresie informatyki",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence network model uncovers relations between biological processes and mutational signatures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/publications/2ab61a7b-0bbd-4aa6-8e17-818a4affa9d6",
+      "authors": "B. Amgalan, Y. Kim [...] D. Wójtowicz , ... (+1)",
+      "publication_type": "Artykuł , Genome Medicine",
+      "year": "2023",
+      "doi": "10.1186/s13073-023-01162-x",
+      "doi_url": "https://www.doi.org/10.1186/s13073-023-01162-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Mutational Signatures as Sensors of Environmental Exposures: Analysis of Smoking-Induced Lung Tissue Remodeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/publications/758f2aa0-dcf1-43c6-93b7-c0c3c9fa7e01",
+      "authors": "Y. Kim, E. Hodzic [...] D. Wojtowicz , ... (+3)",
+      "publication_type": "Artykuł , Biomolecules",
+      "year": "2022",
+      "doi": "10.3390/biom12101384",
+      "doi_url": "https://www.doi.org/10.3390/biom12101384",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Influence network model uncovers relations between biological processes and mutational signatures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/publications/309952ab-8988-43f9-8f15-d573f8da8390",
+      "authors": "B. Amgalan, D. Wojtowicz , Y. Kim, ... (+1)",
+      "publication_type": "Artykuł , Genome Medicine",
+      "year": "2021",
+      "doi": "10.1186/s13073-023-01162-x;10.1101/2021.11.16.468828",
+      "doi_url": "https://www.doi.org/10.1186/s13073-023-01162-x;10.1101/2021.11.16.468828",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie ewolucji genomów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.w%C3%B3jtowicz.xwY3kqdE2Vj/research-work/b5c34927-2284-4a43-9d61-01ae66e36489",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=204893"
+    }
+  ],
+  "tag_cloud": [
+    "biomarker",
+    "hierarchiczne modele graficzne",
+    "algorytmy optymalizacyjne",
+    "sygnatury mutacyjne",
+    "uczenie maszynowe",
+    "mutacje somatyczne",
+    "proces mutacyjny",
+    "nowotwór",
+    "bioinformatyka",
+    "rak"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd",
+  "slug": "konrad.grochowski",
+  "profile_id": "eVOBW0h1vjd",
+  "full_name": "mgr inż. Konrad Krystian Grochowski",
+  "orcid": "0000-0003-3289-4806",
+  "orcid_url": "https://orcid.org/0000-0003-3289-4806",
+  "breadcrumb_name": "Konrad Grochowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analyses of malicious software long term activity - a case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/publications/d9fc5e98-8dfd-4497-83bc-48f78e8ed027",
+      "authors": "W. Wysota, K. Grochowski , K. Cabaj, ... (+1)",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2024",
+      "doi": "10.24425/ijet.2024.152512",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2024.152512",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimental evaluation of test-driven development with interns working on a real industrial project",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/publications/55097e05-7cc8-41f6-b600-c1b981af35b6",
+      "authors": "B. Papis, K. Grochowski , K. Subzda, ... (+1)",
+      "publication_type": "Artykuł , IEEE Transactions on Software Engineering",
+      "year": "2020",
+      "doi": "10.1109/tse.2020.3027522",
+      "doi_url": "https://www.doi.org/10.1109/tse.2020.3027522",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On the Performance of Some C# Constructions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.grochowski.eVOBW0h1vjd/publications/4ab4552f-3c4a-4c2e-af0c-b8b2d7b084ed",
+      "authors": "P. Gawkowski, I. Bluemke [...] K. Grochowski , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1007/978-3-319-59415-6_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-59415-6_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "forward compatibility",
+    "zgodność w przód",
+    "archive",
+    "zamiana obiektów na postać szeregową",
+    "c#",
+    "c++",
+    "unmarshalling",
+    "serializacja",
+    "zgodność wstecz",
+    "programowanie"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,219 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU",
+  "slug": "szymon.wilk",
+  "profile_id": "dWGqXSpsvDU",
+  "full_name": "dr hab. inż. Szymon Adam Wilk",
+  "orcid": "0000-0002-7807-454X",
+  "orcid_url": "https://orcid.org/0000-0002-7807-454X",
+  "breadcrumb_name": "Szymon Wilk",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy wspomagania decyzji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "ATC-to-RxNorm mappings – A comparison between OHDSI Standardized Vocabularies and UMLS MetathesaurusR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/publications/8c7e92bb-a628-4654-b710-bd73c2e6d7a2",
+      "authors": "R. de Groot, S. Glaser [...] S. Wilk , ... (+6)",
+      "publication_type": "Artykuł , International Journal of Medical Informatics",
+      "year": "2025",
+      "doi": "10.1016/j.ijmedinf.2024.105777",
+      "doi_url": "https://www.doi.org/10.1016/j.ijmedinf.2024.105777",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessing Effective Engagement with Digital Behavior Change Intervention: The Case Study of the CAPABLE Project",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/publications/492e8f62-afe5-48d4-b255-048649f85de2",
+      "authors": "A. Lisowska, S. Wilk , L. Locati, ... (+7)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.3233/shti250855",
+      "doi_url": "https://www.doi.org/10.3233/shti250855",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "CUE-X: A Framework for the Automatic Evaluation of Clinical Usefulness of Explanations for the Multimorbidity Problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/publications/c10ba33e-f8cf-4994-a2d1-a5ba67242f4e",
+      "authors": "M. Michalowski, S. Wilk , J. Bauer, ... (+3)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-95838-0_29",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-95838-0_29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zintegrowane systemy wspomagania decyzji klinicznych: podstawy teoretyczne i implementacje",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/research-work/60f9e753-8bb9-46d4-ad5d-fdaa61eef62b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Elastyczne systemy wspomagania decyzji z bazą wiedzy w środowisku mobilnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/research-work/f0a8ebd6-f4b8-4c91-acb0-619191c9b2d5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Innowacyjne metody detekcji wyjątków w zbiorach danych różnych typów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/szymon.wilk.dWGqXSpsvDU/research-work/f32b0f9f-c0a6-42de-b51d-ec4fc58bc3db",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=118335"
+    }
+  ],
+  "tag_cloud": [
+    "automated planning",
+    "prediction models",
+    "missing data",
+    "clinical practice guidelines",
+    "cancer",
+    "multimorbidity",
+    "multi-morbidity",
+    "data imputation",
+    "mhealth",
+    "distance functions"
+  ],
+  "coworkers": []
+}

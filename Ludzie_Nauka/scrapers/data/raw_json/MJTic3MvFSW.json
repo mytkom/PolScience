@@ -1,0 +1,293 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW",
+  "slug": "leszek.borzemski",
+  "profile_id": "MJTic3MvFSW",
+  "full_name": "prof. dr hab. inż. Leszek Zbigniew Borzemski",
+  "orcid": "0000-0001-5307-3818",
+  "orcid_url": "https://orcid.org/0000-0001-5307-3818",
+  "breadcrumb_name": "Leszek Borzemski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bazy danych",
+    "sieci komputerowe",
+    "systemy informatyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "46 lat",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Nysie Aktualna nazwa: Państwowa Akademia Nauk Stosowanych w Nysie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5714bcce-ef38-47d5-a3f2-52ada93b82bf",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1980",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1976",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/gremiums/285871f1-0adf-46de-baf1-2cb275d4b76f",
+      "period": "-2006",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Information Systems Architecture and Technology : Proceedings of 40th Anniversary International Conference on Information Systems Architecture and Technology, ISAT 2019. Pt. 1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/publications/f92e9b6a-44db-49f4-b302-2cd3495a9c99",
+      "authors": "L. Borzemski , Z. Wilimowska, J. Świątek",
+      "publication_type": "Książka pod redakcją",
+      "year": "2020",
+      "doi": "10.1007/978-3-030-30443-0",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-30443-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Information Systems Architecture and Technology: Proceedings of 40th Anniversary International Conference on Information Systems Architecture and Technology – ISAT 2019 Part II",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/publications/26dbbbd1-7e6c-4d23-9d1a-3cdbac5664f0",
+      "authors": "Z. Wilimowska, L. Borzemski , J. Świątek",
+      "publication_type": "Książka pod redakcją",
+      "year": "2020",
+      "doi": "10.1007/978-3-030-30604-5",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-30604-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Information Systems Architecture and Technology: Proceedings of 39th International Conference on Information Systems Architecture and Technology – ISAT 2018 Part II",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/publications/4d6580ab-976c-46d2-813c-fe5cf18959b3",
+      "authors": "Z. Wilimowska, B. Leszek, L. Borzemski , ... (+3)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2019",
+      "doi": "10.1007/978-3-319-99996-8",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-99996-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Problemy projektownia struktur i alokacji zasobów w rozproszonych komputerowych systemach rozpoznawania i identyfikacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/69f62c17-3f96-4267-bc73-167c30629f95",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/38010951-0fe5-45c9-8b86-b84259d6f6ab",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Business-oriented admission control and request scheduling method for commercial Web sites",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/532f2869-e63a-467c-b3d8-3e22b529aac4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Metoda i adaptacyjne algorytmy globalnej dystrybucji żądań HTTP",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/ff14691b-6806-426c-b5c1-00367660615c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Dobór parametrów mechanizmów równoważenia obciążenia i przełączania użytkowników w sieciach LTE",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/ce497ffc-c1d7-4b26-9bd5-aaf0f608bb97",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Jednotematyczny cykl trzech publikacji dotyczących zagadnień bezpieczeństwa w informatyce: Bezpieczeństwo informacji i usług w nowoczesnej instytucji i firmie; Semiformal Common Criteria Compliant IT Security Development Framework; Common Criteria Related Security Design Patterns for Intelligent Sensors - Knowledge Engineering-Based Implementation",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/543c342c-28d9-4542-b6b9-9dc1004dfa41",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Algorytmy szeregowania pakietów w węźle sieci teleinformatycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/leszek.borzemski.MJTic3MvFSW/research-work/f5b3f2eb-6a7a-4fa7-aa4b-26b274ccc369",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=7410"
+    }
+  ],
+  "tag_cloud": [
+    "computer network",
+    "projektowanie systemów komputerowych",
+    "eksploracja danych",
+    "load balancing",
+    "internet",
+    "system webowy",
+    "data mining",
+    "równoważenie obciążeń",
+    "sieć komputerowa",
+    "computer systems design"
+  ],
+  "coworkers": []
+}

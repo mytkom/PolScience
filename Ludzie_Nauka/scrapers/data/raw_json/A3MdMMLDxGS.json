@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS",
+  "slug": "dominik.łuczak",
+  "profile_id": "A3MdMMLDxGS",
+  "full_name": "dr inż. Dominik Łuczak",
+  "orcid": "0000-0002-2755-5503",
+  "orcid_url": "https://orcid.org/0000-0002-2755-5503",
+  "breadcrumb_name": "Dominik Łuczak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c80f441b-fec9-4a60-ad6c-55efdf7339dc"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Data-Driven Machine Fault Diagnosis of Multisensor Vibration Data Using Synchrosqueezed Transform and Time-Frequency Image Recognition with Convolutional Neural Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/publications/0b400eb5-1472-44d5-b2cf-b521350f6d2f",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13122411",
+      "doi_url": "https://www.doi.org/10.3390/electronics13122411",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Data-Driven Rotary Machine Fault Diagnosis Using Multisensor Vibration Data with Bandpass Filtering and Convolutional Neural Network for Signal-to-Image Recognition",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/publications/0b8f7275-88a7-4bf3-a5e4-f951570221df",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13152940",
+      "doi_url": "https://www.doi.org/10.3390/electronics13152940",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Machine Fault Diagnosis through Vibration Analysis: Continuous Wavelet Transform with Complex Morlet Wavelet and Time–Frequency RGB Image Recognition via Convolutional Neural Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/publications/b56938a0-4075-4d72-8140-3a7a087822a2",
+      "authors": null,
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13020452",
+      "doi_url": "https://www.doi.org/10.3390/electronics13020452",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/research-work/af8f3766-d625-44fb-a513-1327f0d2e478",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Kształtowanie sygnału zadanego w sterowaniu elektromechanicznych układów drgających",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.%C5%82uczak.A3MdMMLDxGS/research-work/6da34fad-f78f-4747-aea9-ffa9f2585836",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=JDu686AAAAAJ"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Dominik-Luczak"
+    },
+    {
+      "label": "Scopus",
+      "url": "http://www.scopus.com/authid/detail.uri?authorId=50461802900"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/rid/H-2886-2012"
+    }
+  ],
+  "tag_cloud": [
+    "complex morlet wavelet",
+    "vibrations of rotary machine",
+    "direct drive",
+    "machine fault diagnosis",
+    "image-based diagnostics",
+    "interpretability in machine learning",
+    "fault diagnosis",
+    "neural network",
+    "feature extraction",
+    "6-dof imu sensor"
+  ],
+  "coworkers": []
+}

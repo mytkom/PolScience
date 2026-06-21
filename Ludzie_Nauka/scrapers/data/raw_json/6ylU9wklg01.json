@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01",
+  "slug": "piotr.miłkowski",
+  "profile_id": "6ylU9wklg01",
+  "full_name": "mgr Piotr Dawid Miłkowski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Miłkowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comprehensive sentiment analysis of Polish book reviews using large and small language models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/publications/aa15faa9-ef69-4947-9d11-d4b8306eccb7",
+      "authors": "P. Miłkowski , B. Koptyra, J. Kocoń, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/icdmw65004.2024.00064",
+      "doi_url": "https://www.doi.org/10.1109/icdmw65004.2024.00064",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Beyond the Imitation Game: quantifying and extrapolating the capabilities of language models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/publications/b66f435c-f23c-4aae-8307-a13c0b362ee6",
+      "authors": "J. Kocoń, K. Kanclerz, P. Miłkowski , ... (+1)",
+      "publication_type": "Artykuł , Transactions on Machine Learning Research",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "ChatGPT: Jack of all trades, master of none",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.mi%C5%82kowski.6ylU9wklg01/publications/66b9af95-ba05-4b63-99a9-600cf6b64424",
+      "authors": "J. Kocoń, J. Bielaniewicz [...] P. Miłkowski , ... (+17)",
+      "publication_type": "Artykuł , Information Fusion",
+      "year": "2023",
+      "doi": "10.1016/j.inffus.2023.101861",
+      "doi_url": "https://www.doi.org/10.1016/j.inffus.2023.101861",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "polemo",
+    "język polski",
+    "fasttext",
+    "recenzje konsumenckie",
+    "przetwarzanie języka naturalnego",
+    "analiza wydźwięku",
+    "lstm",
+    "dane wielojęzyczne",
+    "uczenie głębokie",
+    "segmentacja tekstu"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe",
+  "slug": "irena.bułatowa",
+  "profile_id": "piWMVJ9n9Qe",
+  "full_name": "dr inż. Irena Bułatowa",
+  "orcid": "0000-0002-6735-6621",
+  "orcid_url": "https://orcid.org/0000-0002-6735-6621",
+  "breadcrumb_name": "Irena Bułatowa",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "synteza układów cyfrowych na bazie PLD"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "30 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Brak informacji o instytucji. Skontaktuj się z instytucją odpowiedzialną za rejestrację i poproś o uzupełnienie danych.",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1986",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "RADIOTECHN.INST.",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Podstawy projektowania systemów wbudowanych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/publications/358cb7a9-6353-4572-b5c1-30ec16ecf37c",
+      "authors": "V. Salauyou, I. Bułatowa , T. Grześ, ... (+1)",
+      "publication_type": "Książka , Politechnika Białostocka",
+      "year": "2024",
+      "doi": "10.24427/978-83-68077-32-2",
+      "doi_url": "https://www.doi.org/10.24427/978-83-68077-32-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Język Verilog w projektowaniu systemów wbudowanych na układach FPGA",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/publications/8e01e1c3-f875-4e46-84b0-df99c5fb66a4",
+      "authors": "V. Salauyou, A. Klimowicz [...] I. Bułatowa , ... (+1)",
+      "publication_type": "Książka , Politechnika Białostocka",
+      "year": "2022",
+      "doi": "10.24427/978-83-67185-08-0",
+      "doi_url": "https://www.doi.org/10.24427/978-83-67185-08-0",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Performance Targeted Synthesis of ASM Controllers on FPGA",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/irena.bu%C5%82atowa.piWMVJ9n9Qe/publications/c340e19e-e569-4c68-84c9-81e7ceaf956c",
+      "authors": "V. Salauyou, I. Bułatowa",
+      "publication_type": "Artykuł , Measurement, Automation, Monitoring",
+      "year": "2018",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19119"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

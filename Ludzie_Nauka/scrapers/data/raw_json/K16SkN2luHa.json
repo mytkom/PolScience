@@ -1,0 +1,220 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa",
+  "slug": "tomasz.kapuściński",
+  "profile_id": "K16SkN2luHa",
+  "full_name": "dr hab. inż. Tomasz Andrzej Kapuściński",
+  "orcid": "0000-0003-4084-8113",
+  "orcid_url": "https://orcid.org/0000-0003-4084-8113",
+  "breadcrumb_name": "Tomasz Kapuściński",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przetwarzanie i rozpoznawanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Łódzka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Zielonogórski w Zielonej Górze",
+          "href": "https://radon.nauka.gov.pl/dane/profil/41ade527-eee8-4133-87f6-f9acbecc3acf"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/gremiums/b630b975-5f2e-4062-9660-89bdd5fc9c7f",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Signed expressions spotting and recognition in an assistive technology system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/publications/a0fe61f5-5f79-4772-b477-cc06b648aa8e",
+      "authors": null,
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Temporal signed gestures segmentation in an image sequence using deep reinforcement learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/publications/b069bf00-2dbc-4dc1-8ab3-eddf8e10f177",
+      "authors": "D. Kalandyk, T. Kapuściński",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2024.107879",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2024.107879",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Vision-based fingerspelling recognition for an assistive technology system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/publications/89407674-7f5e-4968-b9d2-d68d0ef4849a",
+      "authors": "T. Kapuściński , M. Majcher",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.05.129",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.05.129",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wizyjne metody rozpoznawania wypowiedzi migowych i ich praktyczne zastosowanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/research-work/6e73779f-4255-4280-a0c9-ee9bea2ae335",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rozpoznawanie polskiego języka miganego w systemie wizyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/research-work/a124dcd6-68f7-4abc-95a1-d135d5205acb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie statycznych układów dłoni na podstawie chmur punktów otrzymywanych z kamer 3D",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kapu%C5%9Bci%C5%84ski.K16SkN2luHa/research-work/acad7cfc-5a50-4bac-8e41-2c90e53c38e2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=203114"
+    }
+  ],
+  "tag_cloud": [
+    "skeletal body pose",
+    "airplane",
+    "computer vision",
+    "gesture recognition",
+    "in-flight tests",
+    "human-computer interaction",
+    "intruder detection",
+    "aircraft",
+    "vision system",
+    "airspace"
+  ],
+  "coworkers": []
+}

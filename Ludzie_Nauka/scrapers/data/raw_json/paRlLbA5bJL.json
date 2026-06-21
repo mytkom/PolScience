@@ -1,0 +1,253 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL",
+  "slug": "ireneusz.wyczałek",
+  "profile_id": "paRlLbA5bJL",
+  "full_name": "dr hab. inż. Ireneusz Jacek Wyczałek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Ireneusz Wyczałek",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "fotogrametria",
+    "kartografia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "45 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Geodezji i Kartografii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e41eeaf1-4138-44de-8a42-dcdbab415003"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1979",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metody monitorowania stanu technicznego konstrukcji drewnianych w budynkach zabytkowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/publications/6b5ae90f-f9ff-4de9-9ce7-e5871bf1b1b2",
+      "authors": "Z. Pawlak, P. Marciniak, I. Wyczałek",
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0967",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0967",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Monitoring and Numerical Analyses of the Steel Railway Arch Bridge: A Case Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/publications/353c5636-ceba-499f-b298-50f3e67c3f65",
+      "authors": "I. Wyczałek , P. Olaszek, A. Świercz, ... (+1)",
+      "publication_type": "Artykuł , Journal of Bridge Engineering",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Wieloletnia kontrola geodezyjna mostu wiszącego Garbary w Poznaniu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/publications/e817e5a0-5789-4680-9d7f-538c7e51a3d2",
+      "authors": "J. Jabłoński, W. Siekierski, I. Wyczałek , ... (+4)",
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.0982",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.0982",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Kartograficzne Automaty Komórkowe jako narzędzie modelowania i symulacji zjawisk przestrzennych w zagadnieniach decyzyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work/24a563ee-3810-4183-9ce3-dbcbdd655ab0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie przystawek zwierciadlanych w fotogrametrycznych pomiarach przemieszczeń",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work/6244d0c9-7f74-4ea6-8cf5-9a13503dc9ce",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie metodyki wykorzystania uczenia głębokiego i automatycznego modelowania 3D w badaniu obrażeń ciała na podstawie obrazów post-mortem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work/f61294b1-1e46-410c-9bb5-d18eabcad2a0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie efektów synergii w optymalizacji monitoringu geometrii toru bezstykowego kształtowanego procesami eksploatacyjnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work/d7b4fa1d-b386-48be-a43e-9bb0ce12e1aa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Metodyka oceny, modelowania i wizualizacji danych ludnościowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.wycza%C5%82ek.paRlLbA5bJL/research-work/d7e844bd-b2ec-412c-aa09-1a017dc4ea40",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=10772"
+    }
+  ],
+  "tag_cloud": [
+    "geographical information system (gis)",
+    "planowanie przestrzenne",
+    "spatial information system",
+    "cad",
+    "inertial sensors",
+    "total station",
+    "photovoltaic",
+    "ahp",
+    "town and country planning",
+    "geograficzny system informacyjny (gis)"
+  ],
+  "coworkers": []
+}

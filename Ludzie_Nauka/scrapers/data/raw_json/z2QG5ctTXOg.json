@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg",
+  "slug": "marek.dudzik",
+  "profile_id": "z2QG5ctTXOg",
+  "full_name": "dr inż. Marek Daniel Dudzik",
+  "orcid": "0000-0002-2475-5489",
+  "orcid_url": "https://orcid.org/0000-0002-2475-5489",
+  "breadcrumb_name": "Marek Dudzik",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka napędów elektrycznych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Elektrycznej i Komputerowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/666b49b3-fa04-49ab-b824-865c7a46b942"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Prediction of mechanical properties and stress-strain relation of closed-cell aluminium foam under compression using neural network models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/publications/f4732491-629f-4435-b74d-82740c953f02",
+      "authors": "A. Stręk, T. Machniewicz, M. Dudzik",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18194492",
+      "doi_url": "https://www.doi.org/10.3390/ma18194492",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Study of the internal environment quality monitoring system for a laboratory model of a mining separator at key sensitive points of operation and process control using artificial intelligence",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/publications/35799aed-69f3-4a06-8433-d85ce35c2bc3",
+      "authors": "S. Kuc, A. Romańska, M. Dudzik , ... (+3)",
+      "publication_type": "Artykuł , Inżynieria Bezpieczeństwa Obiektów Antropogenicznych",
+      "year": "2024",
+      "doi": "10.37105/iboa.241",
+      "doi_url": "https://www.doi.org/10.37105/iboa.241",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Estimation of final product concentration in metalic ores using convolutional neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/publications/13eba8e1-f840-414d-a4ab-9a5659cf8e8e",
+      "authors": "A. Skoczylas, J. Progorowicz, M. Dudzik , ... (+2)",
+      "publication_type": "Artykuł , Minerals",
+      "year": "2022",
+      "doi": "10.3390/min12121480",
+      "doi_url": "https://www.doi.org/10.3390/min12121480",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza możliwości ograniczenia składowej przemiennej momentu elektromagnetycznego w silniku ASM sterowanym wektorowo w napędach trakcyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.dudzik.z2QG5ctTXOg/research-work/d4c8e473-fcb2-4100-b7f9-fe66da199fd7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=246362"
+    }
+  ],
+  "tag_cloud": [
+    "compression tests",
+    "artiﬁcial neural networks",
+    "metal sponges",
+    "aluminium sponges",
+    "modelowania zjawiska fizycznego",
+    "metody sztucznej inteligencji",
+    "feedforward neural network",
+    "intelligent building",
+    "thermal comfort modelling",
+    "intelligent construction"
+  ],
+  "coworkers": []
+}

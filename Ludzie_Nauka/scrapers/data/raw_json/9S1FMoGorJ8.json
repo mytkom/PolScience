@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8",
+  "slug": "paweł.stabla",
+  "profile_id": "9S1FMoGorJ8",
+  "full_name": "dr inż. Paweł Jan Stabla",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Paweł Stabla",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne",
+    "materiały kompozytowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2017",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Damage characterisation of GFRP composites based on clustering acoustic emission events utilizing single-failure-cause tests as reference",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/publications/a81863ff-c25c-4931-87d5-8a7e0f5dceb3",
+      "authors": "M. Smolnicki, S. Michał [...] P. Stabla , ... (+4)",
+      "publication_type": "Artykuł , Composite Structures",
+      "year": "2025",
+      "doi": "10.1016/j.compstruct.2024.118596",
+      "doi_url": "https://www.doi.org/10.1016/j.compstruct.2024.118596",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hygrothermal degradation of modes I and II fracture toughness in flat carbon/epoxy composites: experimental and numerical insights",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/publications/3bf05a57-cdcf-4261-9d1f-447599e76529",
+      "authors": "P. Stabla , M. Smolnicki, L. Schreer, ... (+3)",
+      "publication_type": "Artykuł , Engineering Fracture Mechanics",
+      "year": "2025",
+      "doi": "10.1016/j.engfracmech.2025.111393",
+      "doi_url": "https://www.doi.org/10.1016/j.engfracmech.2025.111393",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mechanical behaviour of filament-wound GFRP and BFRP composite tubes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/publications/d927bd4f-54cc-4772-a9c8-e1754b1d5cdd",
+      "authors": "P. Stabla , K. Paczkowska, Z. Pacholec, ... (+4)",
+      "publication_type": "Artykuł , Composites Theory and Practice",
+      "year": "2025",
+      "doi": "10.62753/ctp.2025.06.3.3",
+      "doi_url": "https://www.doi.org/10.62753/ctp.2025.06.3.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Eksperymentalno-numeryczna analiza wpływu wzoru mozaikowego na wytrzymałość kompozytowych struktur nawijanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.stabla.9S1FMoGorJ8/research-work/267c177f-8293-4de9-9215-500df311149e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=321988"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

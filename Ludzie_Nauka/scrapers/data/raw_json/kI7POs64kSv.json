@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv",
+  "slug": "tomasz.grzywny",
+  "profile_id": "kI7POs64kSv",
+  "full_name": "dr hab. inż. Tomasz Krzysztof Grzywny",
+  "orcid": "0000-0001-9435-4755",
+  "orcid_url": "https://orcid.org/0000-0001-9435-4755",
+  "breadcrumb_name": "Tomasz Grzywny",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "procesy stochastyczne",
+    "teoria potencjału"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Matematyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0452cf56-f277-4a0a-9d8e-f0ee354e4d6f"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/gremiums/8982511b-720e-45f7-95ac-63d20039453a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hardy inequalities and nonlocal capacity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/publications/84ed07da-d0ab-410e-9d14-1c53229e43e0",
+      "authors": "T. Grzywny , J. Lenczewska",
+      "publication_type": "Artykuł , Proceedings of the American Mathematical Society",
+      "year": "2025",
+      "doi": "10.1090/proc/17316",
+      "doi_url": "https://www.doi.org/10.1090/proc/17316",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Liouville’s theorems for Lévy operators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/publications/bba15f57-30f1-4b69-9d2c-5f70eb63d5fb",
+      "authors": "T. Grzywny , M. Kwaśnicki",
+      "publication_type": "Artykuł , Mathematische Annalen",
+      "year": "2025",
+      "doi": "10.1007/s00208-024-03063-9",
+      "doi_url": "https://www.doi.org/10.1007/s00208-024-03063-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Partial versus total resetting for Lévy flights in d dimensions: Similarities and discrepancies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/publications/77e63f3a-e037-401b-a2ea-8d355697b9a6",
+      "authors": "C. di Bello, A. Chechkin, T. Grzywny , ... (+3)",
+      "publication_type": "Artykuł , Chaos: An Interdisciplinary Journal of Nonlinear Science",
+      "year": "2025",
+      "doi": "10.1063/5.0255695;10.48550/arxiv.2501.01139",
+      "doi_url": "https://www.doi.org/10.1063/5.0255695;10.48550/arxiv.2501.01139",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoria potencjału izotropowo-unimodalnych procesów Lévy’ego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/research-work/ee5ef0ad-7929-4709-9493-27162abeb689",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Teoria potencjału procesów relatywistycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/research-work/467370dc-5bba-4ab9-963a-5bbf9e91511c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Non-symmetric Lévy processes on the real line. (Niesymetryczne procesy Lévy'ego na prostej rzeczywistej).",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/research-work/f01a09bc-ff97-4e41-aa62-95fa90a441dc",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zaburzenia gradientowe unimodalnych procesów Lévy’ego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.grzywny.kI7POs64kSv/research-work/8d294fc3-bb68-4c80-9dd5-41614bc6a460",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=211637"
+    }
+  ],
+  "tag_cloud": [
+    "proces levy'ego unimodalny",
+    "heat content",
+    "czas trafienia",
+    "funkcja greena",
+    "jądro ciepła",
+    "heat kernel",
+    "isotropic lévy process",
+    "proces markowa",
+    "proces levy'ego",
+    "green function"
+  ],
+  "coworkers": []
+}

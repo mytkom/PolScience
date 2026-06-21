@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o",
+  "slug": "mariusz.dudek",
+  "profile_id": "khzuPA7Vf1o",
+  "full_name": "dr inż. Mariusz Lubomir Dudek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Mariusz Dudek",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy komunikacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu Aktualna nazwa: Państwowa Akademia Nauk Stosowanych im. ks. Bronisława Markiewicza w Jarosławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/71240695-c0d4-48f6-b789-99ded7500424",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Framework for the design of a small transport hub as an interdisciplinary challenge to implement sustainable solutions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/publications/ba9b5371-b4b0-4dfa-ab5f-df43aba0a547",
+      "authors": "A. Staniewska, I. Sykta [...] M. Dudek , ... (+4)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2023",
+      "doi": "10.3390/su151410975",
+      "doi_url": "https://www.doi.org/10.3390/su151410975",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A multi-criteria appraisal of the selection of means of urban passenger transport using the Electre and AHP methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/publications/0dfb7685-faef-476a-a4c7-3631e33ded77",
+      "authors": "K. Solecka, M. Dudek , M. Richter",
+      "publication_type": "Artykuł , Technical Transactions = Czasopismo Techniczne",
+      "year": "2018",
+      "doi": "10.4467/2353737xct.18.088.8693",
+      "doi_url": "https://www.doi.org/10.4467/2353737xct.18.088.8693",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analiza zmienności napełnień samochodów osobowych na wlotach do dużego miasta na przykładzie zachodniej części Krakowa",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/publications/2a19e0df-7726-4616-a470-7c9b241c015f",
+      "authors": null,
+      "publication_type": "Artykuł , Transport Miejski i Regionalny : TMiR = Urban and Regional Transport",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Współzależność struktury i funkcji sieci ulic miasta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.dudek.khzuPA7Vf1o/research-work/d9fb5ae7-f81f-4fb4-959d-0d7263db50fd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=85748"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

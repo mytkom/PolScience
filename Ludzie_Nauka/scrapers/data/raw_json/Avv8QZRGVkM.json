@@ -1,0 +1,113 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM",
+  "slug": "marcin.pakuła",
+  "profile_id": "Avv8QZRGVkM",
+  "full_name": "mgr inż. Marcin Andrzej Pakuła",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marcin Pakuła",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Budowa bliźniaka cyfrowego środowiska radiowego z użyciem metody śledzenia promieni",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/publications/6f6524b4-a639-4b2d-806e-94be64110c90",
+      "authors": "M. Pakuła , M. Hoffmann, P. Kryszkiewicz",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.22",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.22",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Projektowanie książki kodowej RIS z wykorzystaniem danych pomiarowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcin.paku%C5%82a.Avv8QZRGVkM/publications/dea5d25d-520d-4b7f-9eef-e84dd3313503",
+      "authors": "P. Hatka, M. Garczyk [...] M. Pakuła , ... (+7)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.68",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.68",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

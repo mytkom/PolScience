@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X",
+  "slug": "tomasz.zagrajek",
+  "profile_id": "tzieq9t2J7X",
+  "full_name": "prof. dr hab. inż. Tomasz Włodzimierz Zagrajek",
+  "orcid": "0000-0002-3089-0222",
+  "orcid_url": "https://orcid.org/0000-0002-3089-0222",
+  "breadcrumb_name": "Tomasz Zagrajek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "biomechanika",
+    "mechanika konstrukcji",
+    "metody numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "43 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1982",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1975",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metoda elementów skończonych w mechanice materiałów i konstrukcji. Rozwiązywanie wybranych zagadnień za pomocą systemu ANSYS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/publications/c12e8c0d-175e-499a-94e0-4ed6f1196215",
+      "authors": "P. Borkowski, G. Krzesiński [...] T. Zagrajek , ... (+1)",
+      "publication_type": "Książka , Politechnika Warszawska",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Mechanical Lock Joint for Effective In-Plane Application of Concentrated Loads to Thin Polymer Matrix Laminates",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/publications/8c254f09-249e-4304-bdf9-3bc986e5a442",
+      "authors": "P. Czarnocki, T. Zagrajek , J. Tomasiewicz",
+      "publication_type": "Artykuł , Polymers",
+      "year": "2021",
+      "doi": "10.3390/polym13111762",
+      "doi_url": "https://www.doi.org/10.3390/polym13111762",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Design and verification of a non-self-supported cryostat for the DEMO tokamak",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/publications/977d7b72-3ae3-4dbd-b79b-747c28da2f8d",
+      "authors": "Ł. Ciupiński, T. Zagrajek , P. Marek, ... (+4)",
+      "publication_type": "Artykuł , Fusion Engineering and Design",
+      "year": "2020",
+      "doi": "10.1016/j.fusengdes.2020.111964",
+      "doi_url": "https://www.doi.org/10.1016/j.fusengdes.2020.111964",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie biomechaniczne układu kręgosłupa człowieka metodą elementów skończonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/40d1d5c8-caee-4678-ac01-66d10687d631",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie przebudowy tkanki kostnej w otoczeniu implantów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/0029f2fd-6998-4702-ba33-c54636c796dc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Biomechaniczna analiza i projektowanie nowego typu sztucznego krążka międzykręgowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/c0f63720-f54a-4d8a-9c83-d6cae197dc69",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza dynamiczna chodu człowieka z zastosowaniem metody układów wieloczłonowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/ffb2cc39-a905-4b75-b8f7-cdaca670c6fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zagadnienia modelowania i symulacji numerycznej dynamiki struktur obciążonych falą uderzeniową wybuchu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/c7736418-6132-4c23-bf98-3beb8d60d5b4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie odkształcalnych układów wieloczłonowych w globalnych współrzędnych węzłowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/08d43abc-ade7-4d73-ad19-fd307e91b5ca",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Homogenizacja własności mechanicznych materiałów kompozytowych wzmacnianych nanorurkami węglowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.zagrajek.tzieq9t2J7X/research-work/7faa9914-98dd-4dbe-9ee2-43826723665c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52877"
+    }
+  ],
+  "tag_cloud": [
+    "budowa i analiza modeli numerycznych mes",
+    "vcct",
+    "plain weave",
+    "dcb",
+    "rve",
+    "metoda elementów skończonych",
+    "modelowanie mes w mechanice ciał odkształcalnych",
+    "composite damage",
+    "wprowadzenie do systemu ansys",
+    "praktyczne przykłady analiz mes"
+  ],
+  "coworkers": []
+}

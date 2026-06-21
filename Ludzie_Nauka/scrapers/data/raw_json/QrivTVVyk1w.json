@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w",
+  "slug": "marek.woda",
+  "profile_id": "QrivTVVyk1w",
+  "full_name": "dr inż. Marek Sławomir Woda",
+  "orcid": "0000-0002-3956-9427",
+  "orcid_url": "https://orcid.org/0000-0002-3956-9427",
+  "breadcrumb_name": "Marek Woda",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "algorytm uczenia",
+    "systemy agentowe",
+    "e-learning"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficiency analysis of parallel swarm intelligence using rapid range search in Euclidean space",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/publications/de1cd06e-363c-4e10-a3fb-f2e4d6a0a01e",
+      "authors": "M. Woda , Ł. Michalski, A. Sołtysik",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153541",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153541",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Integration of uncertainty modeling for the detection of pedestrian intention",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/publications/268576a6-bfcc-4776-a135-6f766d117235",
+      "authors": "Y. Yeşilyurt, M. Woda",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_24",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_24",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Proposal of an optimised path tracing algorithm for computer graphics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/publications/282730f4-e43c-4a4b-bf2c-8f845ae07c4b",
+      "authors": "A. Krizar, M. Woda",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-92734-8_12",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-92734-8_12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie procesem uczenia w komputerowych systemach wspomagających nauczanie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.woda.QrivTVVyk1w/research-work/0bc5e7cd-732f-4100-807e-df8e4386cf9c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=210974"
+    }
+  ],
+  "tag_cloud": [
+    "drzewa decyzyjne",
+    "intrusion detection system (ids)",
+    "porównanie odporności algorytmów",
+    "glove",
+    "html5",
+    "hosting",
+    "algorytm genetyczny",
+    "anomaly detection",
+    "lsrd",
+    "word2vec"
+  ],
+  "coworkers": []
+}

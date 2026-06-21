@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY",
+  "slug": "dorota.naróg",
+  "profile_id": "Ts5LqC9gDUY",
+  "full_name": "dr inż. Dorota Anna Naróg",
+  "orcid": "0000-0002-8778-9678",
+  "orcid_url": "https://orcid.org/0000-0002-8778-9678",
+  "breadcrumb_name": "Dorota Naróg",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "chemia fizyczna",
+    "elektrochemia",
+    "kataliza"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki chemiczne / technologia chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrochemistry of Flavonoids",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/publications/e6f2b6e8-afff-4384-af15-c345cd539ea9",
+      "authors": "A. Sobkowiak, D. Naróg",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2023",
+      "doi": "10.3390/molecules28227618",
+      "doi_url": "https://www.doi.org/10.3390/molecules28227618",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrochemical Investigation of some Flavonoids in Aprotic Media",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/publications/9b9ffc12-3116-409c-a263-ddb90e12f523",
+      "authors": "A. Sobkowiak, D. Naróg",
+      "publication_type": "Artykuł , Electroanalysis",
+      "year": "2022",
+      "doi": "10.1002/elan.202100492",
+      "doi_url": "https://www.doi.org/10.1002/elan.202100492",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Electrochemical study of quercetin in the presence of galactopyranose: Potential application to the electrosynthesis of glycoconjugates of quinone/quinone methide of quercetin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/publications/a1ae880b-383a-47d1-8622-9c9e3b323365",
+      "authors": null,
+      "publication_type": "Artykuł , Journal of Electroanalytical Chemistry",
+      "year": "2020",
+      "doi": "10.1016/j.jelechem.2020.114675",
+      "doi_url": "https://www.doi.org/10.1016/j.jelechem.2020.114675",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Katalizowana kompleksami metali przejściowych aktywacja tlenu cząsteczkowego w reakcjach utleniania wybranych związków organicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.nar%C3%B3g.Ts5LqC9gDUY/research-work/3b4ec1d3-db41-4c7b-baeb-e2e67ff604e2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=115767"
+    }
+  ],
+  "tag_cloud": [
+    "forma tlenu reaktywna",
+    "utlenianie",
+    "hplc–dad–esi–ms analysis",
+    "electrochemistry",
+    "flavonoids",
+    "dioxygen",
+    "ditlen",
+    "oxidation",
+    "elektrochemia",
+    "transition metal complexes"
+  ],
+  "coworkers": []
+}

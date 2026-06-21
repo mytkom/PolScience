@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0",
+  "slug": "adam.borowicz",
+  "profile_id": "2EU5TIPj9J0",
+  "full_name": "dr inż. Adam Borowicz",
+  "orcid": "0000-0003-0320-5530",
+  "orcid_url": "https://orcid.org/0000-0003-0320-5530",
+  "breadcrumb_name": "Adam Borowicz",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "cyfrowe przetwarzanie sygnałów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d450e547-a588-4c5e-b354-d9a68e3705ba"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "POLITECHNIKA BIAŁOSTOCKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "L1-Norm Principal Component Analysis Using Quaternion Rotations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/publications/e3789020-214b-4de1-a19d-acf48007a97a",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f3368",
+      "doi_url": "https://www.doi.org/10.15439/2023f3368",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Independent Component Analysis Based on Jacobi Iterative Framework and L1-norm Criterion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/publications/2149ff28-a3da-4c8e-9cdc-5848cd93ea7a",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.15439/2022f157",
+      "doi_url": "https://www.doi.org/10.15439/2022f157",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Maximization of L1-norm Using Jacobi Rotations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/publications/d295dd49-0da8-41ee-9e84-1d6c777d4688",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Psychoakustycznie optymalizowane systemy uzdatniania sygnału mowy dla aplikacji multimedialnych z wykorzystaniem technik podprzestrzeni sygnału",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.borowicz.2EU5TIPj9J0/research-work/d829360f-380c-4289-8f46-dba1a531fdd2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=214512"
+    }
+  ],
+  "tag_cloud": [
+    "negentropy",
+    "adaptive decomposition",
+    "information use",
+    "quaternions",
+    "ica",
+    "jacobi rotations",
+    "fourier series",
+    "bss",
+    "outliers",
+    "l1-norm pca"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E",
+  "slug": "maciej.szudarek",
+  "profile_id": "NuUJzvMPh8E",
+  "full_name": "dr inż. Maciej Adam Szudarek",
+  "orcid": "0000-0002-3214-9147",
+  "orcid_url": "https://orcid.org/0000-0002-3214-9147",
+  "breadcrumb_name": "Maciej Szudarek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "metrologia przepływów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Introducing a hydrostatic similarity criterion for laboratory-scale two-phase flow modeling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/publications/11907990-c1ac-4290-b914-88cebcc63853",
+      "authors": "M. Turkowski, M. Szudarek",
+      "publication_type": "Artykuł , Chemical Engineering Science",
+      "year": "2025",
+      "doi": "10.1016/j.ces.2025.121857",
+      "doi_url": "https://www.doi.org/10.1016/j.ces.2025.121857",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Two-way coupled CFD-DEM model of a Disc-Shaped fluidized sorption reactor operating at low-pressure regimes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/publications/bf88422e-dfae-4216-ba3f-a09a406dcac1",
+      "authors": "M. Sosnowski, M. Szudarek , S. Marcin, ... (+10)",
+      "publication_type": "Artykuł , Applied Thermal Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.applthermaleng.2025.125600",
+      "doi_url": "https://www.doi.org/10.1016/j.applthermaleng.2025.125600",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis of heat and mass transfer in an adsorption bed using CFD methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/publications/870b1610-586c-4b99-8709-443301b0d6b5",
+      "authors": "M. Szudarek , L. Rudniak, S. Janusz, ... (+1)",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie wybranych właściwości przepływomierzy z oscylatorem mechanicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.szudarek.NuUJzvMPh8E/research-work/e7dfea91-e9bd-4598-9c11-e74f7a56aa15",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=306301"
+    }
+  ],
+  "tag_cloud": [
+    "adsorpcja",
+    "underground freight transport",
+    "rans",
+    "heat transfer",
+    "cfd",
+    "computational fluid dynamics",
+    "static field magnetic flux method",
+    "chłodnictwo",
+    "turbulence modeling",
+    "wymiennik lamelowy"
+  ],
+  "coworkers": []
+}

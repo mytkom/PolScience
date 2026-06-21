@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa",
+  "slug": "jędrzej.potoniec",
+  "profile_id": "op7xpADQSCa",
+  "full_name": "dr inż. Jędrzej Filip Potoniec",
+  "orcid": "0000-0002-6115-6485",
+  "orcid_url": "https://orcid.org/0000-0002-6115-6485",
+  "breadcrumb_name": "Jędrzej Potoniec",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Process Query Language: A Domain-Specific Language for Querying Event Logs of Business Processes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/publications/b2df5ac7-ce21-4e56-8d07-72e4ec42461e",
+      "authors": "T. Pawlak, J. Potoniec",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2025",
+      "doi": "10.2478/fcds-2025-0010",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2025-0010",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "ProcessM: Intelligent Process Mining software",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/publications/d4ed11b6-786a-41c4-af85-40d8a7980e17",
+      "authors": "T. Pawlak, J. Potoniec",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2025.102079",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2025.102079",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Reason-able Embeddings: Learning Concept Embeddings with a Transferable Neural Reasoner",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/publications/fdf9365c-3c93-47ed-b66e-91fa0ee56a08",
+      "authors": "D. Adamski, J. Potoniec",
+      "publication_type": "Artykuł , Semantic Web",
+      "year": "2024",
+      "doi": "10.3233/sw-233355",
+      "doi_url": "https://www.doi.org/10.3233/sw-233355",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Methods for automatic enrichment of ontologies from Linked Data (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C4%99drzej.potoniec.op7xpADQSCa/research-work/6111f62a-eaf7-4339-93bc-1f315f3757c0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=290009"
+    }
+  ],
+  "tag_cloud": [
+    "business intelligence",
+    "knowledge graphs",
+    "sarc",
+    "semantic web",
+    "competency questions",
+    "sparql-owl",
+    "semantic similarity",
+    "internet of food",
+    "text classification",
+    "property characteristics"
+  ],
+  "coworkers": []
+}

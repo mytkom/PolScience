@@ -1,0 +1,160 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU",
+  "slug": "tomasz.kostrzewa",
+  "profile_id": "gumzw6K8tcU",
+  "full_name": "dr Tomasz Kostrzewa",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Tomasz Kostrzewa",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "równania różniczkowe cząstkowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Matematyki i Nauk Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0454b20a-3765-4c35-bd6c-cfc3fdf2d2f5"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Pego everywhere",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/publications/969a40ec-c7f4-47b3-b78c-1dc8f03a8b2f",
+      "authors": "P. Górka, G. Przemysław, T. Kostrzewa , ... (+1)",
+      "publication_type": "Artykuł , Journal of Algebra and Its Applications",
+      "year": "2016",
+      "doi": "10.1142/s0219498816500742",
+      "doi_url": "https://www.doi.org/10.1142/s0219498816500742",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Sobolev spaces on metrizable groups",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/publications/2e865715-e83a-46e1-9d62-6448b10087d5",
+      "authors": "P. Górka, G. Przemysław, T. Kostrzewa , ... (+1)",
+      "publication_type": "Artykuł , Annales Academiae Scientiarum Fennicae Mathematica",
+      "year": "2015",
+      "doi": "10.5186/aasfm.2015.4045",
+      "doi_url": "https://www.doi.org/10.5186/aasfm.2015.4045",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Sobolev Spaces on Locally Compact Abelian Groups: Compact Embeddings and Local Spaces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/publications/82a9fe2b-8bc9-48a1-926a-cb08ffd830bf",
+      "authors": "P. Górka, P. Górka, T. Kostrzewa , ... (+1)",
+      "publication_type": "Artykuł , Journal of Function Spaces",
+      "year": "2014",
+      "doi": "10.1155/2014/404738",
+      "doi_url": "https://www.doi.org/10.1155/2014/404738",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przestrzenie Sobolewa na grupach metrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.kostrzewa.gumzw6K8tcU/research-work/b2b86a5b-68d9-4222-bef3-230b8c03022f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=296927"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo",
+  "slug": "weronika.sosnowicz",
+  "profile_id": "OhT37EFqXuo",
+  "full_name": "mgr inż. Weronika Sosnowicz",
+  "orcid": "0000-0003-4568-6029",
+  "orcid_url": "https://orcid.org/0000-0003-4568-6029",
+  "breadcrumb_name": "Weronika Sosnowicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Guiding Cell Growth: Graphene-Patterned Polymeric Substrates for Enhanced Tissue Proliferation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/publications/b9e2ce28-bdc7-4e24-a9d1-84f17d59986f",
+      "authors": "W. Sosnowicz , J. Krzemiński, J. Dominiczak, ... (+7)",
+      "publication_type": "Artykuł , Nanotechnology, Science and Applications",
+      "year": "2025",
+      "doi": "10.2147/nsa.s530959",
+      "doi_url": "https://www.doi.org/10.2147/nsa.s530959",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Ultrasonication effects on graphene composites in neural cell cultures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/publications/c98b1d90-affd-487b-86aa-b07e4ca2f38e",
+      "authors": "Ł. Dybowska-Sarapuk, W. Sosnowicz , A. Grzeczkowicz, ... (+3)",
+      "publication_type": "Artykuł , Frontiers in Molecular Neuroscience",
+      "year": "2022",
+      "doi": "10.3389/fnmol.2022.992494",
+      "doi_url": "https://www.doi.org/10.3389/fnmol.2022.992494",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Printed Graphene Layer as a Base for Cell Electrostimulation-Preliminary Results",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/weronika.sosnowicz.OhT37EFqXuo/publications/2be71237-210e-4ee2-abcb-d9b12e55d353",
+      "authors": "Ł. Dybowska-Sarapuk, W. Sosnowicz , J. Krzeminski, ... (+6)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2020",
+      "doi": "10.3390/ijms21217865",
+      "doi_url": "https://www.doi.org/10.3390/ijms21217865",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

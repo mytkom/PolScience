@@ -1,0 +1,293 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1",
+  "slug": "marzena.kryszkiewicz",
+  "profile_id": "BcdGDxXOLE1",
+  "full_name": "prof. dr hab. inż. Marzena Bogumiła Kryszkiewicz",
+  "orcid": "0000-0003-4736-4031",
+  "orcid_url": "https://orcid.org/0000-0003-4736-4031",
+  "breadcrumb_name": "Marzena Kryszkiewicz",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bazy wiedzy",
+    "systemy informacyjne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On Gower Similarity Coefficient and Missing Values",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/publications/c4f7855b-0b55-4a95-9771-8280b29c2fd2",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f3575",
+      "doi_url": "https://www.doi.org/10.15439/2023f3575",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Determining Tanimoto Similarity Neighborhoods of Real-Valued Vectors by Means of the Triangle Inequality and Bounds on Lengths",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/publications/32d4149f-df7d-4738-a4f3-f109d844890e",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1007/978-3-030-87334-9_2",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-87334-9_2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Unsupervised Anomaly Detection in Stream Data with Online Evolving Spiking Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/publications/090bea4e-5032-4222-87ee-04e9c5b436e8",
+      "authors": "M. Kryszkiewicz , P. Maciąg, R. Bembenik, ... (+2)",
+      "publication_type": "Artykuł , Neural Networks",
+      "year": "2021",
+      "doi": "10.1016/j.neunet.2021.02.017",
+      "doi_url": "https://www.doi.org/10.1016/j.neunet.2021.02.017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Concise Representations of Frequent Patterns and Association Rules",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/3a0c24d4-8cf3-4e76-b157-068251f9db5a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy redukcji wiedzy w systemach informacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/492879a7-efad-402d-a932-97f5d757a3d6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Efektywne gęstościowe grupowanie danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/bc45fb61-3753-4a80-9d27-110137ad7990",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zapewnianie prywatności w klasyfikacji i odkrywaniu reguł asocjacyjnych z wykorzystaniem danych scentralizowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/8f6692a8-7330-407b-ac46-f3690303cd1f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Odkrywanie częstych grafów z uwzględnianiem niespójności",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/437ba905-2145-4fb3-86c5-ddd57fe113a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Combining instance-based learning and rule-based methods for imbalanced data (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/06ff82ac-8abc-4fe8-8aff-14eccbbf5696",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rozproszony system podejmowania decyzji - metody analizy konfliktów i negocjacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/883711ed-6e39-4382-8d77-1e1998f6dbe1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Dywersyfikacja informacji w wybranych zadaniach selekcji,wyszukiwania i prezentacji informacji w semantycznych grafach wiedzy i wyszukiwarkach internetowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marzena.kryszkiewicz.BcdGDxXOLE1/research-work/efab9107-4e52-4584-9062-d5da8c664775",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=26882"
+    }
+  ],
+  "tag_cloud": [
+    "the triangle inequality",
+    "near duplicates",
+    "real-valued vector",
+    "k nearest neighbors",
+    "vector length bounds",
+    "the cosine similarity",
+    "binary vector",
+    "evolving spiking neural networksoutliers detectiononline learningtime series dataunsupervised anomaly detectionstream data",
+    "the euclidean distance",
+    "the tanimoto similarity"
+  ],
+  "coworkers": []
+}

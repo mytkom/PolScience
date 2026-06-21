@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY",
+  "slug": "henryk.lasota",
+  "profile_id": "LqlD3fUWGMY",
+  "full_name": "dr hab. inż. Henryk Lasota",
+  "orcid": "0000-0001-6379-028X",
+  "orcid_url": "https://orcid.org/0000-0001-6379-028X",
+  "breadcrumb_name": "Henryk Lasota",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "akustyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "37 lat",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1987",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Uniwersytet Valenciennes we Francji",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1978",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / -",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Elektroniki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1969",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "aparatura elektroniczna",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The use of USV to develop navigational and bathymetric charts of yacht ports on the example of National Sailing Centre in Gdańsk",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/publications/d5154b9c-c179-465e-a8a4-f58b957f1f4b",
+      "authors": "P. Dąbrowski, C. Specht [...] H. Lasota , ... (+4)",
+      "publication_type": "Artykuł , Remote Sensing",
+      "year": "2020",
+      "doi": "10.3390/rs12162585",
+      "doi_url": "https://www.doi.org/10.3390/rs12162585",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessment of the Steering Precision of a Hydrographic Unmanned Surface Vessel (USV) along Sounding Profiles Using a Low-Cost Multi-Global Navigation Satellite System (GNSS) Receiver Supported Autopilot",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/publications/feea9bb6-8371-4e2d-bb7d-8f1558395337",
+      "authors": "H. Lasota , C. Specht, M. Specht, ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2019",
+      "doi": "10.3390/s19183939",
+      "doi_url": "https://www.doi.org/10.3390/s19183939",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Kinedynamics of Spherical Wavefields in Fluid and Dielectric Continua",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/publications/d757a8d3-cf4b-4281-a072-99dd60dfcb3e",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2016",
+      "doi": "10.1109/diped.2016.7772237",
+      "doi_url": "https://www.doi.org/10.1109/diped.2016.7772237",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Przestrzenno-czasowe rozkłady pola akustycznego zespołów źródeł szerokopasmowych i ich wpływ na zniekształcenia sygnałów mowy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work/d7ab29b6-0aa0-4364-a880-8e561f53e1fa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie właściwości transmisyjnych kanału hydroakustycznego dla zastosowania w komunikacji cyfrowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work/6c072748-b0b7-4a44-bf28-2570f1c82a02",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Influence of Acoustic Streaming on Electrochemical Deposition",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work/c72fa06a-2733-4cd3-848b-da2b9f65ca85",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Badanie jakości transmisji w systemach wieloantenowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work/c00b96cb-92fd-4a4b-9924-4fb1724ecae2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Pola akustyczne przetworników i układów ultradźwiękowych o niejednorodnym rozkładzie amplitudy drgań na powierzchni",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/henryk.lasota.LqlD3fUWGMY/research-work/614361ac-df09-43f6-a828-f8cb3fbfb33a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61184"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

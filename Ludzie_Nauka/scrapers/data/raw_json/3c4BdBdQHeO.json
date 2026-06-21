@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO",
+  "slug": "łukasz.piątek",
+  "profile_id": "3c4BdBdQHeO",
+  "full_name": "dr inż. Łukasz Piątek",
+  "orcid": "0000-0002-8070-6198",
+  "orcid_url": "https://orcid.org/0000-0002-8070-6198",
+  "breadcrumb_name": "Łukasz Piątek",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "niezawodność sieci",
+    "teoria grafów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Wyższa Szkoła Handlowa w Radomiu Aktualna nazwa: Akademia Handlowa Nauk Stosowanych w Radomiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dc6549a6-0a9e-4dc3-831c-451447b68c58",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Łódzka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fa448bd2-74d9-47de-b11b-eba7e1938d12"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Politechnika Śląska w Gliwicach Wydział Automatyki, Elektroniki i Informatyki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Reliability and Cost Optimisation of Complex Electric Power Networks Using Ant Colony Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/publications/b6d10bd1-f84c-41e0-a8c4-3c765d87df05",
+      "authors": null,
+      "publication_type": "Artykuł , ITM Web of Conferences",
+      "year": "2017",
+      "doi": "10.1051/itmconf/20171502006",
+      "doi_url": "https://www.doi.org/10.1051/itmconf/20171502006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hierarchical Fair Competition Algorithm for Optimization of Reliability of Complex Electric Power Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/publications/c30b22b8-089d-4d66-a63e-f4d6c6cbdff0",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Applied Electromagnetics and Mechanics",
+      "year": "2013",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza niezawodności i optymalizacja złożonych sieci teleinformatycznych z zastosowaniem modeli g rafowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/%C5%82ukasz.pi%C4%85tek.3c4BdBdQHeO/research-work/612b5a33-a71a-4e99-ab1b-0ae57a62af8d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=239349"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

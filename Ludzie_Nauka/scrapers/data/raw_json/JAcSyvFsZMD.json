@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD",
+  "slug": "tomasz.mirosław",
+  "profile_id": "JAcSyvFsZMD",
+  "full_name": "dr Tomasz Sławomir Mirosław",
+  "orcid": "0000-0003-3190-6625",
+  "orcid_url": "https://orcid.org/0000-0003-3190-6625",
+  "breadcrumb_name": "Tomasz Mirosław",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metoda unikania fałszywych alarmów w „skojarzonych” systemach automatycznego monitorowania procesów produkcyjnych w zakładach wytwórczych przemysłu chemicznego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/publications/68f5b367-d8bd-40a7-970e-0f65d94fd0f9",
+      "authors": "T. Mirosław , P. Grabowski, M. Mirosław",
+      "publication_type": "Artykuł , Przemysł Chemiczny",
+      "year": "2024",
+      "doi": "10.15199/62.2024.11.17",
+      "doi_url": "https://www.doi.org/10.15199/62.2024.11.17",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wystartujmy Avangardowo Polską @-mobilność",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/publications/a8ad4611-2f0b-4036-b791-8dfd61b89ff3",
+      "authors": "T. Mirosław , M. Mirosław, J. Deda",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2022",
+      "doi": "10.15199/48.2022.08.37",
+      "doi_url": "https://www.doi.org/10.15199/48.2022.08.37",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design of a mechanical knee joint for an exoskeleton",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/publications/57ec96cf-833b-47d8-b3df-34cb7f0bac3b",
+      "authors": "J. Deda, T. Mirosław",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2021",
+      "doi": "10.1051/matecconf/202133801003",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/202133801003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka sterowania elektrohydraulicznym napędem obrotu w zakresie małych prędkości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/research-work/e66166de-6974-41bb-899e-c47f3a1ab7d4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza i modelowanie energooszczędnych rozwiązań egzoszkieletów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.miros%C5%82aw.JAcSyvFsZMD/research-work/93bfa86d-9f05-4ab8-a4f5-ad58093f696f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=121269"
+    }
+  ],
+  "tag_cloud": [
+    "electric vehicle",
+    "traction modeling",
+    "soil compaction computer model smart compaction process soil compaction",
+    "remote control",
+    "off-road",
+    "autonomous machines",
+    "computer simulations",
+    "energy costs in a mobile machine",
+    "swarm robots",
+    "drive of a walking machine"
+  ],
+  "coworkers": []
+}

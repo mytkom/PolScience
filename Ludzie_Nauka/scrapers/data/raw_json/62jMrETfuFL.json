@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL",
+  "slug": "joanna.gąbka",
+  "profile_id": "62jMrETfuFL",
+  "full_name": "dr inż. Joanna Maria Gąbka",
+  "orcid": "0000-0001-6550-1170",
+  "orcid_url": "https://orcid.org/0000-0001-6550-1170",
+  "breadcrumb_name": "Joanna Gąbka",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "budowa maszyn",
+    "organizacja produkcji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska; Instytut Technologii Maszyn i Automatyzacji",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "zarządzanie i marketing",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of algorithms for AI virtual player in the production management training platform",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/publications/e7fa526f-9dba-4538-bad5-7d5cba059f78",
+      "authors": "J. Gąbka , K. Przybyś",
+      "publication_type": "Artykuł , Production Engineering Archives",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparative analysis of correction methods for multi-camera 3D image processing system and its application design in safety improvement on hot-working production line",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/publications/05fbad3e-d3ff-459f-83d9-d3258f7d356a",
+      "authors": null,
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15169136",
+      "doi_url": "https://www.doi.org/10.3390/app15169136",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Devising a multi-camera motion capture and processing system for production plant monitoring and operator’s training in virtual reality",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/publications/9255bb1a-c866-408f-9bb9-d189b5722342",
+      "authors": null,
+      "publication_type": "Artykuł , Manufacturing Technology",
+      "year": "2023",
+      "doi": "10.21062/mft.2023.057",
+      "doi_url": "https://www.doi.org/10.21062/mft.2023.057",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie metody planowania zlecenia produkcyjnego w rozproszonym środowisku wytwórczym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/research-work/f01287de-445c-40eb-a129-234b059ec81e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda planowania produkcji w środowisku rozproszonym z wykorzystaniem systemu doradczego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.g%C4%85bka.62jMrETfuFL/research-work/dcce7864-57d3-4962-9332-031b27a92c8a",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=237360"
+    }
+  ],
+  "tag_cloud": [
+    "transmisja wideo stereoskopowego w czasie rzeczywistym",
+    "technologie przyrostowe",
+    "industry 4.0",
+    "algorytm",
+    "sieci wytwórcze",
+    "organizacja procesu",
+    "edge computing",
+    "nowy paradygmat produkcji",
+    "podwykonawstwo",
+    "przemysł 4.0"
+  ],
+  "coworkers": []
+}

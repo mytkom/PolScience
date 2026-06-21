@@ -1,0 +1,120 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ",
+  "slug": "elżbieta.malec",
+  "profile_id": "7FUvptRnzEQ",
+  "full_name": "dr inż. Elżbieta Malec",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Elżbieta Malec",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "wz/1229/96",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The benefits of using computer simulation models to support decision-making",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/el%C5%BCbieta.malec.7FUvptRnzEQ/publications/c75a581a-aea9-4da9-b9e7-e5269e3b5ead",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-319-68619-6_20",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-68619-6_20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

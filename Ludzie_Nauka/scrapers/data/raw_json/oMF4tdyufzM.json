@@ -1,0 +1,294 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM",
+  "slug": "adrian.doroszko",
+  "profile_id": "oMF4tdyufzM",
+  "full_name": "prof. dr hab. Adrian Doroszko",
+  "orcid": "0000-0001-5472-028X",
+  "orcid_url": "https://orcid.org/0000-0001-5472-028X",
+  "breadcrumb_name": "Adrian Doroszko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "kardiologia doświadczalna",
+    "choroby wewnętrzne",
+    "farmakologia",
+    "kardiologia",
+    "proteomika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu / nauki medyczne"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7e050ae-774e-4377-bbb9-57ea6bec9305"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki medyczne / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b7e050ae-774e-4377-bbb9-57ea6bec9305"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2005",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "\"The wrong way could be the only way\". A case of vascular access to a coronary vessel through a peri prosthetic leak in the thoracic aorta",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/publications/08ade26f-1b84-4c84-805a-453209e7e934",
+      "authors": "A. Doroszko , W. Banasiak, K. Zieliński, ... (+9)",
+      "publication_type": "Artykuł , Kardiologia Polska",
+      "year": "2025",
+      "doi": "10.33963/v.phj.105249",
+      "doi_url": "https://www.doi.org/10.33963/v.phj.105249",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An incidental finding of an atrioventricular node tumor during standard hospitalization years after pacemaker implantation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/publications/85fdc48f-c7dc-4183-a2e3-6ac81abbcc9b",
+      "authors": "A. Doroszko , M. Stopyra-Początek, D. Kustrzycka-Kratochwil, ... (+6)",
+      "publication_type": "Artykuł , Kardiologia Polska",
+      "year": "2025",
+      "doi": "10.33963/v.phj.105346",
+      "doi_url": "https://www.doi.org/10.33963/v.phj.105346",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Anaphylaxis: a case of successfully treated cardiac arrest during second coronary angiography",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/publications/f09cc9b5-ef24-4a2a-8d4e-3acc3f13076f",
+      "authors": "A. Doroszko , W. Banasiak, D. Wolny, ... (+7)",
+      "publication_type": "Artykuł , Kardiologia Polska",
+      "year": "2025",
+      "doi": "10.33963/v.phj.104576",
+      "doi_url": "https://www.doi.org/10.33963/v.phj.104576",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/a8908b1f-ea84-4e2f-8ad5-529c0d4aaf8a",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie proteomiki do definiowana wybranych aspektów patogenezy oraz projektowania terapii ostrej niewydolności krążeniowo-oddechowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/e74a3fd3-9220-48f2-99ea-3e255ddc49a7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ stosowanego przezskórnie niskoenergetycznego promieniowania laserowego na aktywność śródbłonka naczyniowego oraz funkcję agregacyjną płytek krwi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/42323c53-e601-4df2-864d-d5a81d48e1fe",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Poszukiwanie mechanizmów regulacji biodostępności tlenku azotu w erytrocytach i ich wpływu na funkcję śródbłonka naczyniowego u osób z cukrzycą typu 2",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/5dbd2a34-0642-4150-8bc6-79829c16a68b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena dysfunkcji śródbłonka w pierwotnym zespole Sjögrena",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/63438fe8-c1d1-48df-b616-a921a16dbbba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wpływ wewnątrz-płytkowej regulacji biodostępności tlenku azotu na reaktywność płytek krwi na leki przeciw-agregacyjne u chorych z cukrzycą typu 2",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/d4ad2670-5ba2-4aed-bac5-0edb5a307275",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/41ea329c-3917-4721-9730-4d81de1d7d26",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/021f85c0-ef1c-462b-89b8-b81fb7bee6bd",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza białek szlaku COX-2/PGE2 w raku jelita grubego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.doroszko.oMF4tdyufzM/research-work/e2d184db-771b-45a4-ad8f-b67975487ec4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=222913"
+    }
+  ],
+  "tag_cloud": [
+    "rotational atherectomy",
+    "ischemic stroke",
+    "percutaneous coronary intervention (pci)",
+    "sars-cov-2",
+    "covid-19",
+    "mortality",
+    "nitric oxide",
+    "ventilatory response",
+    "infectious diseases",
+    "cardiopulmonary exercise testing"
+  ],
+  "coworkers": []
+}

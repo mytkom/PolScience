@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5",
+  "slug": "jakub.kierdaszuk",
+  "profile_id": "NC3sjNpYUv5",
+  "full_name": "dr Jakub Kierdaszuk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jakub Kierdaszuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 miesięcy",
+      "duration": null,
+      "institution": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Uniwersytet Warszawski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki fizyczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "inżynieria nanostruktur",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2016",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "obszar nauk ścisłych",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrostatically-induced strain of graphene on GaN nanorods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/publications/1987d2ec-715b-4172-a69f-03ec5c50ef8f",
+      "authors": "J. Kierdaszuk , R. Bożek, T. Stefaniuk, ... (+11)",
+      "publication_type": "Artykuł , Applied Surface Science",
+      "year": "2024",
+      "doi": "10.1016/j.apsusc.2023.158812;10.48550/arxiv.2307.02940",
+      "doi_url": "https://www.doi.org/10.1016/j.apsusc.2023.158812;10.48550/arxiv.2307.02940",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Electrostatically-induced strain of graphene on GaN nanorods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/publications/36ab7288-425e-4a59-ba2a-2ac3fd75de59",
+      "authors": "J. Kierdaszuk , K. Piętak-Jurczak, T. Stefaniuk, ... (+12)",
+      "publication_type": "Artykuł , Applied Surface Science",
+      "year": "2024",
+      "doi": "10.1016/j.apsusc.2023.158812",
+      "doi_url": "https://www.doi.org/10.1016/j.apsusc.2023.158812",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Manipulating carbon related spin defects in boron nitride by changing the MOCVD growth temperature",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/publications/65fde8d5-0f99-4914-96c6-db4781db2f61",
+      "authors": "J. Iwański, J. Kierdaszuk , A. Ciesielski, ... (+3)",
+      "publication_type": "Artykuł , Diamond and Related Materials",
+      "year": "2024",
+      "doi": "10.1016/j.diamond.2024.111291",
+      "doi_url": "https://www.doi.org/10.1016/j.diamond.2024.111291",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania procesów rozproszeniowych w grafenie na podłożu z nanodrutów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.kierdaszuk.NC3sjNpYUv5/research-work/fe6b9439-ccf9-46f3-9f56-873c2d6742e7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=311775"
+    }
+  ],
+  "tag_cloud": [
+    "magnetic sensing",
+    "spektroskopia siłowa",
+    "afm",
+    "gallium nitride",
+    "raman spectroscopy",
+    "graphene",
+    "strain engineering",
+    "sts",
+    "optical fibers",
+    "weak localization"
+  ],
+  "coworkers": []
+}

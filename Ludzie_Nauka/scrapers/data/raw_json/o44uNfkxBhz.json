@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz",
+  "slug": "bartosz.kościug",
+  "profile_id": "o44uNfkxBhz",
+  "full_name": "mgr inż. Bartosz Kościug",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Bartosz Kościug",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy Saving Chaotic Sequence Based Encryption, Authentication and Hashing for M2M Communication of IoT Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/publications/70bd661a-4c3c-459b-b78f-4ff650cf959d",
+      "authors": "B. Kościug , P. Bilski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 1,
+      "title": "Review of terahertz image enhancement techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/publications/e7fa824d-d2b9-48ec-93e1-abbc8a053012",
+      "authors": "B. Kościug , P. Garbat",
+      "publication_type": "Artykuł",
+      "year": "2017",
+      "doi": "10.1117/12.2280626",
+      "doi_url": "https://www.doi.org/10.1117/12.2280626",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Application of the RFID Technology in the European Union Border Control System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/bartosz.ko%C5%9Bciug.o44uNfkxBhz/publications/cc95f27a-e6f0-4494-9dcb-8d666e02aa91",
+      "authors": "P. Bilski, J. Modelski, B. Kościug , ... (+5)",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1109/rfid-ta.2017.8098908",
+      "doi_url": "https://www.doi.org/10.1109/rfid-ta.2017.8098908",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

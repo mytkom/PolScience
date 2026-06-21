@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5",
+  "slug": "ilona.bluemke",
+  "profile_id": "PPylWHZOcT5",
+  "full_name": "dr hab. Ilona Ewa Bluemke",
+  "orcid": "0000-0002-2894-5976",
+  "orcid_url": "https://orcid.org/0000-0002-2894-5976",
+  "breadcrumb_name": "Ilona Bluemke",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria oprogramowania",
+    "oprogramowanie komputerów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "36 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Politechnika Warszawska, Wydział Elektroniki"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluation of configurations of AWS Lambda functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/publications/605e3be3-12cb-4401-a439-180f5a3d731b",
+      "authors": "I. Bluemke , A. Zdanowski",
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": "10.24425/ijet.2025.153619",
+      "doi_url": "https://www.doi.org/10.24425/ijet.2025.153619",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Experiment Evaluating Configurations of AWS Lambda Functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/publications/bb3f98a0-741b-483f-97c8-55fee6058c4e",
+      "authors": "I. Bluemke , A. Zdanowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-04200-2_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-04200-2_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Compilation through interpretation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/publications/0ac24d5f-283d-4ef8-9350-3e69fc89d099",
+      "authors": "A. Grabski, I. Bluemke",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.15439/2023f4830",
+      "doi_url": "https://www.doi.org/10.15439/2023f4830",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Jakość oprogramowania w ujęciu wielokryterialnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work/ac494c5d-7b32-4509-8adf-467102d04707",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Lokalne strategie rekonfiguracji i ich wpływ na niezawodność i wydajność macierzy elementów przetwarzających",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work/1cf49b01-9bb2-4b9e-9825-ea71360e2e44",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Multimodal Fake News and Disinformation Detection Employing Machine Learning",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work/ef6b2721-83a3-48c9-93da-b16968b1a494",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Testowanie mutacyjne – optymalizacja procesu praktyczne zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work/802b9906-4e57-452f-8e11-088f2c031686",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Hybrydowy cykl życia oprogramowania dla projektów akademickich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ilona.bluemke.PPylWHZOcT5/research-work/06df99da-4916-4dbc-b764-bc12aacc1b41",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=59754"
+    }
+  ],
+  "tag_cloud": [
+    "web services",
+    "c#",
+    "testing effort estimation",
+    "uml",
+    "function point analysis",
+    "testing effort",
+    "fpa",
+    "opnie konsumentów",
+    "c++",
+    "combined fragments"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm",
+  "slug": "aleksander.płocharski",
+  "profile_id": "68QHOGdjMMm",
+  "full_name": "mgr inż. Aleksander Płocharski",
+  "orcid": "0000-0002-7487-8153",
+  "orcid_url": "https://orcid.org/0000-0002-7487-8153",
+  "breadcrumb_name": "Aleksander Płocharski",
+  "current_employment_summary": [
+    "IDEAS NCBR SP. Z O.O.",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "IDEAS NCBR SP. Z O.O.",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a431df75-4ed6-4247-92c5-92dff4e14e6a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka i systemy informacyjne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Warszawski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/511d4dfc-574e-4801-af14-e99dc24f8209"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Finite Difference Approximation of Second Order Regularization of Neural-SDFs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/publications/425d2128-45df-45b3-ab3f-d8d01dc40ba5",
+      "authors": "H. Yin, A. Plocharski , M. Włodarczyk, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3757376.3771413",
+      "doi_url": "https://www.doi.org/10.1145/3757376.3771413",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/publications/c2e89252-afd0-473d-9ac3-7752360344ab",
+      "authors": "H. Yin, A. Plocharski , M. Włodarczyk, ... (+2)",
+      "publication_type": "Artykuł , Computer Graphics Forum",
+      "year": "2025",
+      "doi": "10.1111/cgf.70249",
+      "doi_url": "https://www.doi.org/10.1111/cgf.70249",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Taking Control: Procedural Diffusion Guidance for Architectural Facade Editing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksander.p%C5%82ocharski.68QHOGdjMMm/publications/fd287f97-7cf2-41ea-9679-13fd0582eb51",
+      "authors": "J. Swidzinski, P. Musialski, A. Plocharski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3721250.3742991",
+      "doi_url": "https://www.doi.org/10.1145/3721250.3742991",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo",
+  "slug": "gerard.wawrzyniak",
+  "profile_id": "h551XHGw2Zo",
+  "full_name": "dr inż. Gerard Wawrzyniak",
+  "orcid": "0000-0002-2037-8030",
+  "orcid_url": "https://orcid.org/0000-0002-2037-8030",
+  "breadcrumb_name": "Gerard Wawrzyniak",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "informacyjne i komunikacyjne technologie w edukacji",
+    "Internet i komunikacja cyfrowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "6 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "De Monfort Uniwersity • Niemcy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hydrographic Objects’ Domains in Ship Route Planning in Restricted Areas",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/publications/39ea1ed6-8c4b-4b99-b499-527830f24ddb",
+      "authors": "M. Wielgosz, Z. Pietrzykowski, G. Wawrzyniak",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14214240",
+      "doi_url": "https://www.doi.org/10.3390/electronics14214240",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Concept of an electronic form based on XML that ensures a high level of interoperability and security",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/publications/143bdcdd-6296-43ba-b61c-1976dddac230",
+      "authors": "G. Wawrzyniak , I. El Fray, M. Kłos, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "New XML Signature Scheme That is Resistant to Some Attacks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/publications/83ec5891-56c0-4758-bc70-32556ca8233c",
+      "authors": "G. Wawrzyniak , I. El Fray",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2020",
+      "doi": "10.1109/access.2020.2975034",
+      "doi_url": "https://www.doi.org/10.1109/access.2020.2975034",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie łańcuchów bloków zintegrowanych z formularzami elektronicznymi w realizacji bezpiecznych transakcji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/gerard.wawrzyniak.h551XHGw2Zo/research-work/4ae2ba23-364a-47b0-872e-18c346bde7ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=322075"
+    }
+  ],
+  "tag_cloud": [
+    "transactions",
+    "vulnerability",
+    "xml signature reference",
+    "signature content",
+    "electronic form",
+    "electronic document",
+    "web services",
+    "interoperability",
+    "electronic signature",
+    "xml signature attack"
+  ],
+  "coworkers": []
+}

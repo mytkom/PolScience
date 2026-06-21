@@ -1,0 +1,140 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3",
+  "slug": "mirosław.nejman",
+  "profile_id": "NkOUXvFGtg3",
+  "full_name": "dr Mirosław Jan Nejman",
+  "orcid": "0000-0003-4418-019X",
+  "orcid_url": "https://orcid.org/0000-0003-4418-019X",
+  "breadcrumb_name": "Mirosław Nejman",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Classification and monitoring of arm exercises using machine learning and wrist-worn band",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/publications/e815436a-554f-4feb-ba12-657280724901",
+      "authors": "K. Ejsmont, M. Nejman , A. Asghar, ... (+6)",
+      "publication_type": "Artykuł , Egyptian Informatics Journal",
+      "year": "2024",
+      "doi": "10.1016/j.eij.2024.100534",
+      "doi_url": "https://www.doi.org/10.1016/j.eij.2024.100534",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Recurrent neural network for pitch control of variable-speed wind turbine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/publications/d6eeb5e8-b64a-4c62-9545-08d0bb43bcb9",
+      "authors": "K. Ejsmont, M. Nejman , A. Asghar, ... (+3)",
+      "publication_type": "Artykuł , Science Progress",
+      "year": "2024",
+      "doi": "10.1177/00368504241243160",
+      "doi_url": "https://www.doi.org/10.1177/00368504241243160",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Feasibility of Cobalt-Free Nanostructured WC Cutting Inserts for Machining of a TiC/Fe Composite",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.nejman.NkOUXvFGtg3/publications/972b151a-71f9-4f26-9217-fa24d289e969",
+      "authors": "E. Gevorkyan, M. Rucki [...] M. Nejman , ... (+7)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2021",
+      "doi": "10.3390/ma14123432",
+      "doi_url": "https://www.doi.org/10.3390/ma14123432",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=253643"
+    }
+  ],
+  "tag_cloud": [
+    "drgania",
+    "wc",
+    "wear",
+    "self-excited vibration",
+    "monitorowanie obrabiarek",
+    "microstructure",
+    "sintering",
+    "sme",
+    "fiware",
+    "kitt4sme"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,249 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ",
+  "slug": "marek.rutkowski",
+  "profile_id": "vx1HUhGOUkQ",
+  "full_name": "prof. dr hab. inż. Marek Rutkowski",
+  "orcid": "0000-0003-3910-6403",
+  "orcid_url": "https://orcid.org/0000-0003-3910-6403",
+  "breadcrumb_name": "Marek Rutkowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "matematyka finansowa",
+    "probabilistyka",
+    "procesy stochastyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "47 lat",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk matematycznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1980",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk matematycznych",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Matematyki i Nauk Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0454b20a-3765-4c35-bd6c-cfc3fdf2d2f5"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1976",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Equity protection swaps: investment insurance for superannuation accounts",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/publications/b25a7751-1f2b-4d36-9b40-91047263eb48",
+      "authors": "M. Rutkowski , H. Xu, R. Liu",
+      "publication_type": "Artykuł , Quantitative Finance",
+      "year": "2024",
+      "doi": "10.1080/14697688.2024.2435037",
+      "doi_url": "https://www.doi.org/10.1080/14697688.2024.2435037",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Generalized BSDE and reflected BSDE with random time horizon",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/publications/1135e633-400e-4a85-ae5b-23ec100bc1f5",
+      "authors": "M. Rutkowski , A. Aksamit, L. Li",
+      "publication_type": "Artykuł , Electronic Journal of Probability",
+      "year": "2023",
+      "doi": "10.1214/23-ejp927",
+      "doi_url": "https://www.doi.org/10.1214/23-ejp927",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Reflected and doubly reflected BSDEs driven by RCLL martingales",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/publications/dd93f4fe-8cbb-439d-9cfd-e6d63f212f86",
+      "authors": "M. Rutkowski , T. Nie",
+      "publication_type": "Artykuł , Stochastics and Dynamics",
+      "year": "2022",
+      "doi": "10.1142/s0219493722500125",
+      "doi_url": "https://www.doi.org/10.1142/s0219493722500125",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody martyngałowe w teorii równań stochastycznych i w teorii arbitrażu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/40e28cfe-7c44-4ada-9b01-83d9b6e8997b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Istnienie i jednoznaczność rozwiązań stochastycznych równań całkowych typu Volterry-Stieltjesa-lto",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/c5dd2008-934a-495a-a7c1-764d6e36fca0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zastosowania uogólnionych operatorów infinitezymalnych procesów Markowa w modelowaniu finansowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/0af77414-0177-489d-af44-99be9fd24e03",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Mathematical Modelling of Investment Portfolio Management Strategies. Theory and Applications within Heston Market Model.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/8a720deb-e7fc-45e7-8fab-bb7a04338bfe",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Stochastic volatility in selected models of financial markets (praca posiada tytuł tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/99159f46-ab02-4407-a647-5b07bed337d8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Selected risk-sensitive optimal stopping and impulse control problems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.rutkowski.vx1HUhGOUkQ/research-work/d1b94a6d-bb0b-49bb-88fa-26024a415212",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=51998"
+    }
+  ],
+  "tag_cloud": [
+    "nonlinear evaluation",
+    "funding cost",
+    "fair price",
+    "bsde",
+    "reflected bsde",
+    "random time",
+    "odbite bsde",
+    "enlargement of filtration",
+    "predictable representation property",
+    "arbitrage"
+  ],
+  "coworkers": []
+}

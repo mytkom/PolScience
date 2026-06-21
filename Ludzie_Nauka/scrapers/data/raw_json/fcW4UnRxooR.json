@@ -1,0 +1,210 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR",
+  "slug": "edward.szczerbicki",
+  "profile_id": "fcW4UnRxooR",
+  "full_name": "prof. dr hab. Edward Szczerbicki",
+  "orcid": "0000-0001-7794-2862",
+  "orcid_url": "https://orcid.org/0000-0001-7794-2862",
+  "breadcrumb_name": "Edward Szczerbicki",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "modelowanie przepływów informacji",
+    "systemy informacyjne",
+    "zarządzanie wiedzą"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "49 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1993",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja do spraw Infrastruktury Informacyjnej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/gremiums/0190621f-6caf-40f6-9281-9e93a483b3de",
+      "period": "2012-2016",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Hybrid ML Algorithm Trading Model combining Sentiment, Technical Indicator and Risk Management",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/publications/b7209b06-777d-47cd-9a24-44b27e1b43d4",
+      "authors": "C. Sanin, S. V, E. Szczerbicki",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.09.408",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.09.408",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Adaptive2Former: Enhancing Chromosome Instance Segmentation with Adaptive Query Decoder",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/publications/909d98d5-38b9-473b-ae28-68704da3c95b",
+      "authors": "E. Szczerbicki , L. Yu, X. Zhang, ... (+3)",
+      "publication_type": "Artykuł , Cybernetics and Systems",
+      "year": "2025",
+      "doi": "10.1080/01969722.2023.2296249",
+      "doi_url": "https://www.doi.org/10.1080/01969722.2023.2296249",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Applied Machine Learning, Data Science, and Generative AI with Exploratory and Descriptive Case Studies in Varied Domains",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/publications/d011065e-1959-4857-bd23-ff8c89eeebd7",
+      "authors": "E. Szczerbicki , N. Thanh Nguyen",
+      "publication_type": "Artykuł , Cybernetics and Systems",
+      "year": "2025",
+      "doi": "10.1080/01969722.2023.2296245",
+      "doi_url": "https://www.doi.org/10.1080/01969722.2023.2296245",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Information Processing for the Development of Integrated Multaiagent Manufacturing Systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/research-work/f39a1818-7563-4b1a-a065-767ccc0195f2",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rozmyty model wspomagania zarządzania wybranymi usługami na polskim rynku internetowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/research-work/06f6e511-4542-41d4-9bdb-caa5e05ce751",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rola technologii opartych na wiedzy w rozwoju wybranych organizacji pozarządowych w Polsce",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/research-work/8bf5da51-8861-4431-a1b6-f53ca222a18b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Model pozyskiwania i przetwarzania wiedzy w zarządzaniu organizacją uczącą się",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/edward.szczerbicki.fcW4UnRxooR/research-work/bdb78f08-91d9-40b2-a9d2-601ee9a0622c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61400"
+    }
+  ],
+  "tag_cloud": [
+    "blue city, blue growth, city managament, coastal cities, overtourism, short-term rental, smart city, smart city readiness",
+    "human activity recognition",
+    "signal processing",
+    "decisional dna",
+    "artificial intelligence",
+    "adaptive routingglobal association fusioncompact pose estimation framework",
+    "computational linguistics",
+    "data mining",
+    "neural networks",
+    "human-computer interaction (hci)"
+  ],
+  "coworkers": []
+}

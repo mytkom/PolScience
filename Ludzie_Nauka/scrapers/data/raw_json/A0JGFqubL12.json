@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12",
+  "slug": "volodymyr.boychuk",
+  "profile_id": "A0JGFqubL12",
+  "full_name": "dr Volodymyr Boychuk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Volodymyr Boychuk",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "mechanika ciała odkształcalnego stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1988",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Brak informacji o instytucji. Skontaktuj się z instytucją odpowiedzialną za rejestrację i poproś o uzupełnienie danych.",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1981",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "UNIWERSYTET LWOWSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Zagadnienia inżynierii środowiska w budownictwie",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/publications/71a54d4d-ea9b-4285-97f7-42df3cbd0a5b",
+      "authors": "W. Baran, V. Boychuk , J. Bujnak, ... (+11)",
+      "publication_type": "Książka , Polski Związek Inżynierów i Techników Budownictwa, Oddział w Opolu",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Manufacturing Processes. Actual Problems -2014.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/publications/2b83a15a-7b06-491c-965d-810d1af6a0be",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modeling in problems of the development manufacturing processes heat transfer and thermoelastic state in the layered plates with thin intermediate layer taking into account absorption and emission of thermal energy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/volodymyr.boychuk.A0JGFqubL12/publications/7fb1dc13-7f59-4e10-be14-c2bf01ff020e",
+      "authors": "V. Boychuk , A. Marynowicz",
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19527"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

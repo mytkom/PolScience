@@ -1,0 +1,180 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG",
+  "slug": "tomasz.dziubich",
+  "profile_id": "Xa0ov3qZWbG",
+  "full_name": "dr inż. Tomasz Dziubich",
+  "orcid": "0000-0002-7991-9022",
+  "orcid_url": "https://orcid.org/0000-0002-7991-9022",
+  "breadcrumb_name": "Tomasz Dziubich",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "diagnostyka komputerowa",
+    "diagnostyka systemów rozproszonych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Visual Hull-Based Approach for Coronary Vessel Three-Dimensional Reconstruction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/publications/12bfbdd2-e8c5-42bf-ba47-db28f40031ed",
+      "authors": "T. Dziubich , D. Lau",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app151910450",
+      "doi_url": "https://www.doi.org/10.3390/app151910450",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessment Of the Relevance of Best Practices in The Development of Medical R&D Projects Based on Machine Learning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/publications/63a24dae-cf53-4d71-910d-df00aa1a4416",
+      "authors": "J. Cychnerski, T. Dziubich",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.62036/isd.2024.18",
+      "doi_url": "https://www.doi.org/10.62036/isd.2024.18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Deep Learning-Based Cellular Nuclei Segmentation Using Transformer Model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/publications/c0a4f1fd-eda6-40d4-8931-74f584c7aef0",
+      "authors": "T. Dziubich , M. Erezman",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-70421-5_18",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-70421-5_18",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Model rozproszonej diagnostyki systemowej z wykorzystaniem metod sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/research-work/99a8afd6-1016-4803-b044-9eeb0eebde70",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja wykonania hybrydowych aplikacji równoległych w heterogenicznych systemach obliczeniowych wysokiej wydajności z uwzględnieniem czasu wykonania i poboru mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tomasz.dziubich.Xa0ov3qZWbG/research-work/af312f0b-de09-4b4b-990b-7a12ca2cb3ee",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=128003"
+    }
+  ],
+  "tag_cloud": [
+    "splotowe sieci neuronowe",
+    "liver",
+    "computed tomography",
+    "big data",
+    "dataset construction",
+    "schizophrenia",
+    "systemy przetwarzania rozproszonego",
+    "medical data aquisition",
+    "abdominal aorta segmentation",
+    "denoising"
+  ],
+  "coworkers": []
+}

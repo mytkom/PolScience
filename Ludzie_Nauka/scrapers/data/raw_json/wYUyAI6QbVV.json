@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV",
+  "slug": "maciej.ciężkowski",
+  "profile_id": "wYUyAI6QbVV",
+  "full_name": "dr Maciej Ciężkowski",
+  "orcid": "0000-0003-2923-978X",
+  "orcid_url": "https://orcid.org/0000-0003-2923-978X",
+  "breadcrumb_name": "Maciej Ciężkowski",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "dynamika maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/085cc979-bf70-48d1-a099-6b85284bd3f4"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Uniwersytet w Białymstoku",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Instrumental Error Analysis of a Static Triangulation Positioning System Using Infrared Beacons and a Ring-Topology Infrared Receiver",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/publications/a71ca3e6-6f58-41db-b6bf-916591a4c63c",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2025",
+      "doi": "10.1109/jsen.2025.3595219",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2025.3595219",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fast 50 Hz Updated Static Infrared Positioning System Based on Triangulation Method",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/publications/690a3977-1e40-4bf1-8363-3d2126d3c336",
+      "authors": "M. Ciężkowski , R. Kociszewski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24051389",
+      "doi_url": "https://www.doi.org/10.3390/s24051389",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Measurement and diagnostic system for detecting and classifying faults in the rotary hay tedder using multilayer perceptron neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/publications/09c6b1ea-1e69-464d-b64a-29dae999d979",
+      "authors": "A. Mystkowski, A. Wolniakowski [...] M. Ciężkowski , ... (+7)",
+      "publication_type": "Artykuł , Engineering Applications of Artificial Intelligence",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2024.108513",
+      "doi_url": "https://www.doi.org/10.1016/j.engappai.2024.108513",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i analiza interakcji pomiędzy dwukołowym samobalansującym pojazdem a jego użytkownikiem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.ci%C4%99%C5%BCkowski.wYUyAI6QbVV/research-work/64de773b-0279-4be7-be39-bf70e8b335b6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=267233"
+    }
+  ],
+  "tag_cloud": [
+    "navigation",
+    "tethered hexacopter",
+    "tether unwinder",
+    "neural networks",
+    "damping of the pendulum",
+    "stabilizacja układów statycznie niestabilnych",
+    "wzbudzenia parametryczne",
+    "mobile robots",
+    "precision tracking and landing",
+    "virtual electric dipole"
+  ],
+  "coworkers": []
+}

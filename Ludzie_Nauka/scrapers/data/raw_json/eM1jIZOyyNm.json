@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm",
+  "slug": "maciej.piernik",
+  "profile_id": "eM1jIZOyyNm",
+  "full_name": "dr inż. Maciej Piernik",
+  "orcid": "0000-0001-7281-284X",
+  "orcid_url": "https://orcid.org/0000-0001-7281-284X",
+  "breadcrumb_name": "Maciej Piernik",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The impact of white matter brain lesions on processing speed deficits in systemic lupus erythematosus patients.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/publications/8cce0a70-708b-4a5f-b060-34013fd2ff19",
+      "authors": "M. Wiłkość-Dębczyńska, A. Wójcicka-Frankiewicz [...] M. Piernik , ... (+12)",
+      "publication_type": "Artykuł , Lupus",
+      "year": "2025",
+      "doi": "10.1177/09612033251319826",
+      "doi_url": "https://www.doi.org/10.1177/09612033251319826",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "On feature extraction using distances from reference points",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/publications/3429a938-e846-430e-8f14-546a708ecb24",
+      "authors": "M. Piernik , T. Morzy, R. Susmaga, ... (+1)",
+      "publication_type": "Artykuł , Foundations of Computing and Decision Sciences",
+      "year": "2024",
+      "doi": "10.2478/fcds-2024-0015",
+      "doi_url": "https://www.doi.org/10.2478/fcds-2024-0015",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Random Similarity Forests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/publications/8cceed9d-ef67-4c4b-85f4-0ae53d15d2c6",
+      "authors": "D. Brzeziński, D. Brzezinski [...] M. Piernik , ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Grupowanie i klasyfikacja danych XML z wykorzystaniem wzorców",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maciej.piernik.eM1jIZOyyNm/research-work/8b071714-10ab-4eef-81b3-9d9a6ccfae7e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=237724"
+    }
+  ],
+  "tag_cloud": [
+    "centrality measures",
+    "precision medicine",
+    "feature extraction",
+    "models",
+    "classification",
+    "instance weighting",
+    "mutations",
+    "nearest neighbors",
+    "clustering",
+    "network analysis"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq",
+  "slug": "arkadiusz.macek",
+  "profile_id": "wkMFyQNjgsq",
+  "full_name": "mgr inż. Arkadiusz Jarosław Macek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Arkadiusz Macek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "3D point cloud regularization method for uniform mesh generation of mining excavations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/publications/57f001ef-0086-4381-aba0-02a84639793c",
+      "authors": "P. Dąbek, J. Wodecki [...] A. Macek , ... (+3)",
+      "publication_type": "Artykuł , ISPRS Journal of Photogrammetry and Remote Sensing",
+      "year": "2024",
+      "doi": "10.1016/j.isprsjprs.2024.10.024",
+      "doi_url": "https://www.doi.org/10.1016/j.isprsjprs.2024.10.024",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparison of Hexcore and Poly-Hexcore computational meshes in the aspect of air flow modeling based on the actual geometry of mining excavations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/publications/06319019-e8a9-4c30-b5ea-d482f3622244",
+      "authors": "A. Wróblewski, A. Macek , A. Banasiewicz, ... (+1)",
+      "publication_type": "Artykuł , World Multidisciplinary Earth Sciences Symposium (WMESS 2017)",
+      "year": "2024",
+      "doi": "10.1088/1755-1315/1295/1/012007",
+      "doi_url": "https://www.doi.org/10.1088/1755-1315/1295/1/012007",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Optimizing Mining Ventilation Using 3D Technologies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.macek.wkMFyQNjgsq/publications/33b43c4c-bfe3-4de4-96ba-d422acdfaec3",
+      "authors": "P. Trybała, S. Rigon [...] A. Macek , ... (+7)",
+      "publication_type": "Artykuł , The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "year": "2024",
+      "doi": "10.5194/isprs-archives-xlviii-2-2024-427-2024",
+      "doi_url": "https://www.doi.org/10.5194/isprs-archives-xlviii-2-2024-427-2024",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

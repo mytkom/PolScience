@@ -1,0 +1,299 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx",
+  "slug": "krzysztof.bogdan",
+  "profile_id": "R5pa89ye2Xx",
+  "full_name": "prof. dr hab. inż. Krzysztof Michał Bogdan",
+  "orcid": "0000-0002-1547-9806",
+  "orcid_url": "https://orcid.org/0000-0002-1547-9806",
+  "breadcrumb_name": "Krzysztof Bogdan",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria potencjału"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "35 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki matematyczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka stosowana",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Oddział Polskiej Akademii Nauk we Wrocławiu",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/gremiums/825c2d5d-9aa0-4e97-9fc7-72fabc034e0c",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Zespół VI Nauk Ścisłych i Przyrodniczych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/gremiums/e7915621-7ac8-4f75-806e-aeec60a18c7f",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek krajowy korespondent",
+      "membership_name": "Wydział III Nauk Ścisłych i Nauk o Ziemi",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/gremiums/09e3551c-20b2-42cc-b0af-2f6cee448b4f",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Caloric functions and boundary regularity for the fractional Laplacian in Lipschitz open sets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/publications/5b36bce1-7a15-4fc6-ad51-ea77eafaae5b",
+      "authors": "K. Bogdan , A. Rutkowski, G. Armstrong",
+      "publication_type": "Artykuł , Mathematische Annalen",
+      "year": "2025",
+      "doi": "10.1007/s00208-024-02931-8",
+      "doi_url": "https://www.doi.org/10.1007/s00208-024-02931-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nonlocal operators with Neumann conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/publications/16458d86-3629-4084-82d9-579a8330f51c",
+      "authors": "K. Bogdan , D. Fafuła, P. Sztonyk",
+      "publication_type": "Artykuł , Dissertationes Mathematicae",
+      "year": "2025",
+      "doi": "10.4064/dm241221-14-4",
+      "doi_url": "https://www.doi.org/10.4064/dm241221-14-4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Polarized Hardy-Stein identity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/publications/c03ad4b5-5d07-40fa-ac03-c1097d8e69f0",
+      "authors": "K. Bogdan , M. Gutowski, K. Pietruska-Pałuba",
+      "publication_type": "Artykuł , Journal of Functional Analysis",
+      "year": "2025",
+      "doi": "10.1016/j.jfa.2025.110827",
+      "doi_url": "https://www.doi.org/10.1016/j.jfa.2025.110827",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoria potencjału operatora Schrődingera opartego na ułamkowych potęgach operatora Laplace'a",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/c3dcd216-1f46-4ec5-95c5-346ad663662f",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Brzegowa zasada Harnacka ułamkowych potęg operatora Laplace'a",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/b8e35666-fbc2-4047-beba-29796e9210d6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Analiza stochastyczna procesów Levy'ego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/27c33240-63e3-4851-87e8-2f215e6b1742",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Oszacowania jąder całkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/9cfb1528-d43b-44af-a89f-f7b35c04aa5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Procesy stochastyczne z dryfem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/d78d7863-b64b-40cb-81bb-8c5d40888ff7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Optimal approximation of stochastic differential equations driven by countably dimensional Wiener process",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/85151aaf-8678-4a17-9845-3119844dbe82",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/0de51077-c319-40c9-847d-446854452754",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.bogdan.R5pa89ye2Xx/research-work/853f69bf-30f5-497a-adf5-566a87b9109a",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=30131"
+    }
+  ],
+  "tag_cloud": [
+    "uczenie maszynowe;",
+    "ośrodki losowe i twierdzenia graniczne",
+    "wycieczki",
+    "theory of potential",
+    "proces stabilny",
+    "stable process",
+    "teoria potencjału",
+    "operator nielokalny",
+    "harmonic measure",
+    "sobolev space"
+  ],
+  "coworkers": []
+}

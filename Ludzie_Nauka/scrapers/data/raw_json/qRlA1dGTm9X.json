@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X",
+  "slug": "dominik.sierociuk",
+  "profile_id": "qRlA1dGTm9X",
+  "full_name": "dr hab. Dominik Ryszard Sierociuk",
+  "orcid": "0000-0002-3700-3665",
+  "orcid_url": "https://orcid.org/0000-0002-3700-3665",
+  "breadcrumb_name": "Dominik Sierociuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka",
+    "teoria sterowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/gremiums/848c2d37-123f-497c-ab22-aca4c20509bb",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Fractional-Order Identification of Gyroscope MEMS Noise Under Helium Exposure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/publications/a7ff6486-a0d9-427a-8aa6-cbdb022da3c1",
+      "authors": "D. Sierociuk , M. Macias, K. Markowski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25226954",
+      "doi_url": "https://www.doi.org/10.3390/s25226954",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Fractional-Order Identification of Gyroscope MEMS Noise Under Various Temperature Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/publications/e1f7fbf3-a208-4934-a95b-6522233595f1",
+      "authors": "D. Sierociuk , M. Macias, K. Markowski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24237504",
+      "doi_url": "https://www.doi.org/10.3390/s24237504",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Finite Length Triple Estimation Algorithm and its Application to Gyroscope MEMS Noise Identification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/publications/f8c56d2b-0e03-4c9b-802f-349e1aa4a4f5",
+      "authors": "M. Macias, D. Sierociuk",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2023",
+      "doi": "10.2478/ama-2023-0025",
+      "doi_url": "https://www.doi.org/10.2478/ama-2023-0025",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Estymacja i sterowanie dyskretnych układów dynamicznych ułamkowego rzędu opisanych w przestrzeni stanu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/research-work/8b01a50a-fc80-4d58-a30b-7c21c71e9cdd",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modele niecałkowitego, zmiennego rzędu wybranych układów dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/research-work/af6775f0-0512-4037-8aa8-7b49aa4bea3b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Estymacja parametrów modeli niecałkowitego rzędu superkondensatorów i kondensatorów litowo-jonowych oraz sterowanie minimalno-energetyczne procesem ich ładowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/research-work/def92922-d1f8-4db1-8e70-d9aee3fcb53a",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sterowanie bazujące na sprzężeniu od wektora stanu - z predykcją ograniczeń i autostrojeniem - w napędach z silnikiem PMSM i przekształtnikach energoelektronicznych DC-DC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.sierociuk.qRlA1dGTm9X/research-work/9d9d5003-4a95-4ecc-8bc7-ad5906146851",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=210809"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

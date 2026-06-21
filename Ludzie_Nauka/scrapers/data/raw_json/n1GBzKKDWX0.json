@@ -1,0 +1,211 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0",
+  "slug": "krystian.radlak",
+  "profile_id": "n1GBzKKDWX0",
+  "full_name": "dr inż. Krystian Radlak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Krystian Radlak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "rozpoznawanie obrazów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Śląska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska; Wydział Automatyki, Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b3f94f20-26a0-4ef4-a387-7766d7c7453f"
+        },
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Risk analysis of one-pixel image defects in safety-critical deep neural networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/publications/58639a9e-8298-400e-accb-8f6535c39305",
+      "authors": "K. Radlak , A. Popowicz, M. Szczepankiewicz, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-02018-5_40",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-02018-5_40",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Tune the Darkness - Evaluation of Low-Light Object Detection Techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/publications/2945ef78-2b27-4887-8419-6e8f74109f8e",
+      "authors": "W. Zarzecki, K. Radlak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/mmar65820.2025.11150856",
+      "doi_url": "https://www.doi.org/10.1109/mmar65820.2025.11150856",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Detecting Out-of-Distribution Objects Using Neuron Activation Patterns",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/publications/02e3640e-7b37-44f7-b0be-1e2af1fa7f00",
+      "authors": "K. Radlak , J. Łyskawa, B. Olber, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.3233/faia230467",
+      "doi_url": "https://www.doi.org/10.3233/faia230467",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie algorytmów wizji komputerowej do rozpoznawania autentyczności ekspresji mimicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.radlak.n1GBzKKDWX0/research-work/ac319f55-7aff-4dd6-a68b-18e7a4f9943a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=256058"
+    }
+  ],
+  "tag_cloud": [
+    "тепломассообменные аппараты",
+    "wages in sport",
+    "zasiłek chorobowy",
+    "war responsibility voluntary trials emperor shōwa higashikuni naruhiko shidehara kijūrō yoshida shigeru",
+    "confident learning",
+    "label noise",
+    "engagement",
+    "image classification",
+    "художественная литература",
+    "dispensable point"
+  ],
+  "coworkers": []
+}

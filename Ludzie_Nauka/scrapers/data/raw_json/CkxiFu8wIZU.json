@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU",
+  "slug": "eryk.warchulski",
+  "profile_id": "CkxiFu8wIZU",
+  "full_name": "mgr inż. Eryk Warchulski",
+  "orcid": "0000-0003-1416-7031",
+  "orcid_url": "https://orcid.org/0000-0003-1416-7031",
+  "breadcrumb_name": "Eryk Warchulski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Covariance Matrix Adaptation Evolution Strategy without a matrix",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/publications/96e969aa-079e-4702-8343-6ae234c73eb4",
+      "authors": "J. Arabas, A. Stelmaszczyk, E. Warchulski , ... (+2)",
+      "publication_type": "Artykuł , Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726583",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726583",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Alternative Step-Size Adaptation Rule for the Matrix Adaptation Evolution Strategy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/publications/15e99655-fc1b-4c56-8ea4-d54a7debeacd",
+      "authors": "E. Warchulski , J. Arabas",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.5220/0013012800003837",
+      "doi_url": "https://www.doi.org/10.5220/0013012800003837",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Version of NL-SHADE-RSP Algorithm with Midpoint for CEC 2022 Single Objective Bound Constrained Problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/eryk.warchulski.CkxiFu8wIZU/publications/d0fbef72-52f0-49b9-9b5e-4e7aac995960",
+      "authors": "R. Biedrzycki, J. Arabas, E. Warchulski",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.1109/cec55065.2022.9870220",
+      "doi_url": "https://www.doi.org/10.1109/cec55065.2022.9870220",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

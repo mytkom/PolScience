@@ -1,0 +1,210 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w",
+  "slug": "justyna.signerska-rynkowska",
+  "profile_id": "hghzyhiYN9w",
+  "full_name": "dr inż. Justyna Signerska-Rynkowska",
+  "orcid": "0000-0002-9704-0425",
+  "orcid_url": "https://orcid.org/0000-0002-9704-0425",
+  "breadcrumb_name": "Justyna Signerska-Rynkowska",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata",
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 2 miesiące",
+      "duration": null,
+      "institution": "Instytut Matematyczny Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Matematyczny Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96a58ef3-d4b3-4384-b9e4-4792d490536f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Matematyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/gremiums/ac039165-7a6e-452c-9793-80e053a7c9c8",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multilevel regularity of orbits of expanding Lorenz maps with application to the Courbage-Nekorkin-Vdovin model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/publications/596d78ea-4a0a-46c5-afc6-dfb0b26b4c3c",
+      "authors": "P. Bartłomiejczyk, J. Signerska-Rynkowska , P. Nowak-Przygodzki",
+      "publication_type": "Artykuł , Discrete and Continuous Dynamical Systems - Series B",
+      "year": "2025",
+      "doi": "10.3934/dcdsb.2025076",
+      "doi_url": "https://www.doi.org/10.3934/dcdsb.2025076",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of dynamics of a map-based neuron model via Lorenz maps",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/publications/5a4d7a8e-8574-41ef-9d41-0a545c795e65",
+      "authors": "P. Bartłomiejczyk, F. Llovera Trujillo, J. Signerska-Rynkowska",
+      "publication_type": "Artykuł , Chaos",
+      "year": "2024",
+      "doi": "10.1063/5.0188464",
+      "doi_url": "https://www.doi.org/10.1063/5.0188464",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Testing Topological Conjugacy of Time Series",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/publications/a424d9ac-ec7d-4270-a5b0-d9f649f86db0",
+      "authors": "D. Paweł, L. Michał, S. Justyna",
+      "publication_type": "Artykuł , SIAM Journal on Applied Dynamical Systems",
+      "year": "2024",
+      "doi": "10.1137/23m1594728;10.48550/arxiv.2301.06753",
+      "doi_url": "https://www.doi.org/10.1137/23m1594728;10.48550/arxiv.2301.06753",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Własności dynamiczne odwzorowań występujących w pewnych modelach aktywności komórek nerwowych i obwodów elektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/justyna.signerska-rynkowska.hghzyhiYN9w/research-work/7924c16c-4ba0-4429-87b4-b3ec1b3b21e1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=251664"
+    }
+  ],
+  "tag_cloud": [
+    "dynamical systems",
+    "hybrydowe układy",
+    "circle homeomorphism",
+    "neuron model",
+    "hybrid dynamical systems",
+    "chaos",
+    "superficial curve",
+    "flip bifurcation",
+    "firing rate",
+    "spike-adding"
+  ],
+  "coworkers": []
+}

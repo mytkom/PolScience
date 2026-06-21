@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G",
+  "slug": "piotr.kapler",
+  "profile_id": "xu8SpBDql9G",
+  "full_name": "dr inż. Piotr Artur Kapler",
+  "orcid": "0000-0001-7592-2796",
+  "orcid_url": "https://orcid.org/0000-0001-7592-2796",
+  "breadcrumb_name": "Piotr Kapler",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektroenergetyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Analysis of the Loss of Synchronism of a Synchronous Generator Using the Wavelet Coherence",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/publications/f41076b4-fd3c-46b4-a311-d24723c22ed0",
+      "authors": null,
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2024",
+      "doi": "10.15199/48.2024.12.42",
+      "doi_url": "https://www.doi.org/10.15199/48.2024.12.42",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The application of the fuzzy rule-based Bayesian algorithm to determine which residential appliances can be considered for the demand response program",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/publications/c9898075-e2a2-4663-bcd4-12b06a0c0954",
+      "authors": null,
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2023",
+      "doi": "10.24425/bpasts.2023.146106",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2023.146106",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Advanced Forecasting Methods of 5-Minute Power Generation in a PV System for Microgrid Operation Control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/publications/f67d6632-223d-4833-8093-f177def1aafa",
+      "authors": "P. Piotrowski, M. Parol, P. Kapler , ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15072645",
+      "doi_url": "https://www.doi.org/10.3390/en15072645",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie potencjału adaptacyjnego indywidualnych odbiorców energii elektrycznej w interakcji z systemem elektroenergetycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kapler.xu8SpBDql9G/research-work/8809ff3a-64f6-48de-bd18-a0c09606dc2a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=291089"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

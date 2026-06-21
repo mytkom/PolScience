@@ -1,0 +1,108 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2",
+  "slug": "anna.michałek",
+  "profile_id": "3Oq6kmlHka2",
+  "full_name": "dr Anna Maria Michałek",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Michałek",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu; Wydział Nauk Ekonomicznych i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ed849b74-2bd2-4c0a-b1bc-df103e96337a"
+        },
+        {
+          "label": "Uniwersytet Mikołaja Kopernika w Toruniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3fa8a5bb-a2e7-455d-8a1e-1f71ed0d992a"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Reguła Taylora w kontekście polskiej polityki pieniężnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.micha%C5%82ek.3Oq6kmlHka2/research-work/410a2a20-10b3-416d-b7d2-932f12448f8c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=253761"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

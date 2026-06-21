@@ -1,0 +1,238 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9",
+  "slug": "damian.mazur",
+  "profile_id": "TtwNRSlI6Q9",
+  "full_name": "dr hab. inż. Damian Maksymilian Mazur",
+  "orcid": "0000-0002-3247-5903",
+  "orcid_url": "https://orcid.org/0000-0002-3247-5903",
+  "breadcrumb_name": "Damian Mazur",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza; Wydział Elektrotechniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/de8e0520-6fd5-4334-ac3b-f517266f4b68"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Instytut Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/10104d5b-8342-476d-a50f-e84ec4c04676"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika, Elektrotechnika i Technologie Kosmiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/gremiums/27738b03-0e04-4cfd-b3f6-a4b4fb209dbe",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Decision Trees and Machine Learning for Cybersecurity: How Model Settings Affect Attack Detection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/publications/f88c1f42-1514-43fb-8046-8045faaea320",
+      "authors": "M. Podpora, G. Dralus [...] D. Mazur , ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97554-7_4",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97554-7_4",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Implementation of Convolutional Neural Networks for the Purpose of Five Types of White Blood Cells Automatic Counting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/publications/d6536cfd-4773-41d3-a023-3fa83e709cc3",
+      "authors": "G. Dralus, D. Mazur , M. Podpora, ... (+5)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97554-7_29",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97554-7_29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Improvement of unmanned aerial vehicles model under surge of lightning electromagnetic pulse developed using artificial intelligence based on laboratory measurements in reference to classical regression methods",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/publications/91b846a7-f0b2-4672-b03b-47dd65de6863",
+      "authors": "T. Kossowski, A. Imiełowski [...] D. Mazur , ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153423",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153423",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie i analiza pracy maszyn SPMSM dla turbin wiatrowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work/97b55ac6-a30a-4a7e-ad3f-17c0a6b8d9e0",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie uszkodzeń klatki i ekscentryczności wirnika w silniku indukcyjnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work/c13c53ae-670b-4687-b587-e0e0749e2d93",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modeling and Analysis of Magnetic Components used in High-Frequency Power Electronics Systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work/d647f3db-4da8-4f48-a4fa-28693c3c569f",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Zintegrowany hydrozespół dla elektrowni wodnych najniższych spadów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work/42e05525-e5cc-4efe-bd75-246cf7c893e3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Wdrożenie turbin TRC współpracujących z generatorami elektrycznymi w obiektach sieciowych MPEC",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/damian.mazur.TtwNRSlI6Q9/research-work/102f3c03-9149-470f-a0a5-2ee70bed2a70",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=101174"
+    }
+  ],
+  "tag_cloud": [
+    "filter amplification",
+    "chain fraction",
+    "fuzzy rules",
+    "approximation",
+    "kalman filter",
+    "transmission line",
+    "forecasting",
+    "mathematical models",
+    "anfis",
+    "konferencja naukowa"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d",
+  "slug": "jan.majkutewicz",
+  "profile_id": "KIdbmTiBU3d",
+  "full_name": "mgr inż. Jan Michał Majkutewicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Jan Majkutewicz",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Aligning large language models with human preferences using historical text edits",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/publications/ad07f50a-46d7-4164-9d28-203936c8337e",
+      "authors": "J. Majkutewicz , J. Szymański",
+      "publication_type": "Artykuł , Knowledge-Based Systems",
+      "year": "2025",
+      "doi": "10.1016/j.knosys.2025.113566",
+      "doi_url": "https://www.doi.org/10.1016/j.knosys.2025.113566",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An Integrated Approach for Prototyping and Deploying Large Language Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.majkutewicz.KIdbmTiBU3d/publications/734af8f6-ebe9-43d8-aff8-341da328d206",
+      "authors": "J. Majkutewicz , J. Szymański",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-02406-0_13",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-02406-0_13",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

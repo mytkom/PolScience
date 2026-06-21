@@ -1,0 +1,215 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC",
+  "slug": "jerzy.kowalski",
+  "profile_id": "tGUp7i15AsC",
+  "full_name": "dr hab. inż. Jerzy Kowalski",
+  "orcid": "0000-0002-2764-3765",
+  "orcid_url": "https://orcid.org/0000-0002-2764-3765",
+  "breadcrumb_name": "Jerzy Kowalski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "diagnostyka silników okrętowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "19 lat",
+      "duration": null,
+      "institution": "Akademia Morska w Gdyni Aktualna nazwa: Uniwersytet Morski w Gdyni",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f52e68ce-dec2-43cf-a874-16b7005d6932",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Oceanotechniki i Okrętownictwa",
+          "href": "https://radon.nauka.gov.pl/dane/profil/74299dda-979f-4ad7-a2ce-36dd4e8833ef"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Morski w Gdyni; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8e88880c-2920-40e1-95ce-347f926e998e"
+        },
+        {
+          "label": "Uniwersytet Morski w Gdyni >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f52e68ce-dec2-43cf-a874-16b7005d6932"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanik okrętowy",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Morska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Enhancing co-pyrolysis process of biomass and coal using machine learning insights and Shapley additive explanations based on cooperative game theory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/publications/91d185de-5270-49e2-92bb-741b024b0a5f",
+      "authors": "J. Kowalski , Q. Le, P. Paramasivam, ... (+4)",
+      "publication_type": "Artykuł , Energy and Environment",
+      "year": "2025",
+      "doi": "10.1177/0958305x251315408",
+      "doi_url": "https://www.doi.org/10.1177/0958305x251315408",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Co-gasification of waste biomass-low grade coal mix using downdraft gasifier coupled with dual-fuel engine system: Multi-objective optimization with hybrid approach using RSM and Grey Wolf Optimizer",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/publications/5bdaa9b8-1a78-42ac-af78-1e74b4995999",
+      "authors": "J. Kowalski , T. Tuan Le, P. Sharma, ... (+6)",
+      "publication_type": "Artykuł , Process Safety and Environmental Protection: Transactions of the Institution of Chemical Engineers, Part B",
+      "year": "2024",
+      "doi": "10.1016/j.psep.2024.08.066",
+      "doi_url": "https://www.doi.org/10.1016/j.psep.2024.08.066",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Deep learning-enabled integration of renewable energy sources through photovoltaics in buildings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/publications/971be409-5a2f-40f2-948a-2a4f8b4b1280",
+      "authors": "J. Kowalski , M. Arun, T. Le, ... (+6)",
+      "publication_type": "Artykuł , Case Studies in Thermal Engineering",
+      "year": "2024",
+      "doi": "10.1016/j.csite.2024.105115",
+      "doi_url": "https://www.doi.org/10.1016/j.csite.2024.105115",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie składu spalin w diagnostyce czterosuwowych silników okrętowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/research-work/8e32aa12-8f07-43ed-a7ae-56b301c97546",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda oceny poziomu emisji tlenków azotu na podstawie pomiaru parametrów pracy dwusuwowego silnika okrętowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.kowalski.tGUp7i15AsC/research-work/b7315a75-0279-40c5-bf80-59dfbe201c67",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=201803"
+    }
+  ],
+  "tag_cloud": [
+    "spray tip penetration",
+    "diesel fuel spray",
+    "gas turbine engine,dual-fuel combustion,combustion chamber,liquid and gaseous fuels",
+    "spray cone angle",
+    "marine engine fault diagnosis fault detection diesel engine machine learning ensemble learning extreme learning machines multi-class decomposition",
+    "combined-cycle,gas turbine,steam turbine,power plant",
+    "model of fuel spray",
+    "gas turbine · combustion chamber · steam injection · marine power plant",
+    "marine diesel engine",
+    "gas turbine, low-emission combustion chamber, ecological parameters, emission of toxic components"
+  ],
+  "coworkers": []
+}

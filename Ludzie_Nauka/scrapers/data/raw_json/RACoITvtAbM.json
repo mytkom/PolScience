@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM",
+  "slug": "michał.melosik",
+  "profile_id": "RACoITvtAbM",
+  "full_name": "dr inż. Michał Mikołaj Melosik",
+  "orcid": "0000-0001-5368-4782",
+  "orcid_url": "https://orcid.org/0000-0001-5368-4782",
+  "breadcrumb_name": "Michał Melosik",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "systemy rekonfigurowalne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i zarządzanie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Applicability and Design Considerations of Chaotic and Quantum Entropy Sources for Random Number Generation in IoT Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/publications/254cbca8-90ea-4254-996a-8545564fc4ab",
+      "authors": "W. Marszałek, M. Melosik , M. Naumowicz, ... (+1)",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2025",
+      "doi": "10.3390/e27070726",
+      "doi_url": "https://www.doi.org/10.3390/e27070726",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cryptographically Secure PseudoRandom Bit Generator for Wearable Technology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/publications/8b81f20c-0ae2-4155-a19a-029735080c32",
+      "authors": "M. Galan, S. Koziol [...] M. Melosik , ... (+2)",
+      "publication_type": "Artykuł , Entropy",
+      "year": "2023",
+      "doi": "10.3390/e25070976",
+      "doi_url": "https://www.doi.org/10.3390/e25070976",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Remote Prototyping of FPGA-Based Devices in the IoT Concept during the COVID-19 Pandemic",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/publications/0710e041-bd03-47c9-881c-edcc61a2c110",
+      "authors": "M. Naumowicz, M. Melosik , W. Marszałek, ... (+1)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2022",
+      "doi": "10.3390/electronics11091497",
+      "doi_url": "https://www.doi.org/10.3390/electronics11091497",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rekonfigurowalny hybrydowy generator chaotyczny dla kryptografii sprzętowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/micha%C5%82.melosik.RACoITvtAbM/research-work/31f50195-0734-4540-844a-7f80e4209714",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=284811"
+    }
+  ],
+  "tag_cloud": [
+    "image cryptography",
+    "seed generator",
+    "digital design and synthesis lab",
+    "internet of things",
+    "fpga devices",
+    "xor operation",
+    "the 0-1 test for chaos",
+    "wearable",
+    "wearable entropy source",
+    "cryptographically secure pseudo-random bit generator"
+  ],
+  "coworkers": []
+}

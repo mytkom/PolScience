@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp",
+  "slug": "adrian.szklarski",
+  "profile_id": "xXntE70gAHp",
+  "full_name": "mgr inż. Adrian Jacek Szklarski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Adrian Szklarski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 3 miesiące",
+      "duration": null,
+      "institution": "Wojskowy Instytut Techniczny Uzbrojenia",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b1a0d3d5-0c75-4729-ac8c-71198636edf5",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Aerodynamic control analysis in a canard configuration for a surface-to-surface missile",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/publications/bff757c6-e021-4164-bbb6-7e5749940bcf",
+      "authors": "A. Szklarski , R. Głębocki",
+      "publication_type": "Artykuł , Archive of Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.24425/ame.2025.155873",
+      "doi_url": "https://www.doi.org/10.24425/ame.2025.155873",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analytical Shaping of a Rocket Nose as a Stage of Preliminary Aerodynamic Modification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/publications/08ae73df-70b2-4cb0-9e06-a0107c6d7424",
+      "authors": "A. Szklarski , R. Głębocki",
+      "publication_type": "Artykuł , Aerospace",
+      "year": "2025",
+      "doi": "10.3390/aerospace12070594",
+      "doi_url": "https://www.doi.org/10.3390/aerospace12070594",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "POMIAR ROZKŁADU POLA TEMPERATURY NA POWIERZCHNI POCISKÓW RAKIETOWYCH PODCZAS LOTU",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adrian.szklarski.xXntE70gAHp/publications/f36f9071-81b1-488b-95fe-96f2a5c9205c",
+      "authors": "A. Szklarski , W. Świderski",
+      "publication_type": "Artykuł , Problemy Techniki Uzbrojenia",
+      "year": "2015",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

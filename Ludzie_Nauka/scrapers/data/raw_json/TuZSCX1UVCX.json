@@ -1,0 +1,210 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX",
+  "slug": "remigiusz.rajewski",
+  "profile_id": "TuZSCX1UVCX",
+  "full_name": "dr hab. inż. Remigiusz Rajewski",
+  "orcid": "0000-0001-8632-9971",
+  "orcid_url": "https://orcid.org/0000-0001-8632-9971",
+  "breadcrumb_name": "Remigiusz Rajewski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci telekomunikacyjne i komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2006",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Nowy algorytm przestrojeń dla pól komutacyjnych typu SWS1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/publications/a83921da-4426-4cc2-ba86-da216a1516bb",
+      "authors": "G. Danilewicz, R. Rajewski",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.79",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.79",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wide-Sense Nonblocking Converting-Converting Networks with Multirate Connections",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/publications/cb391ac4-db93-4b72-b19e-360a1b668f4e",
+      "authors": "R. Rajewski , W. Kabacinski",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s22166217",
+      "doi_url": "https://www.doi.org/10.3390/s22166217",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The Optical Signal-to-Crosstalk Ratio for the MBA(N, e, g) Switching Fabric",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/publications/700f3f46-70f4-4e78-aa89-e1d106361499",
+      "authors": null,
+      "publication_type": "Artykuł , Sensors",
+      "year": "2021",
+      "doi": "10.3390/s21041534",
+      "doi_url": "https://www.doi.org/10.3390/s21041534",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nieblokowalne optyczne pola komutacyjne dla ruchu zintegrowanego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/research-work/a6541929-a6ae-4afa-b774-31b2309a31f5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nowa architektura optycznego pola komutacyjnego bazująca na strukturze typu baseline",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/remigiusz.rajewski.TuZSCX1UVCX/research-work/79855389-b804-47ee-a611-77755cd29a18",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=266846"
+    }
+  ],
+  "tag_cloud": [
+    "rear-renging algorithm",
+    "osxr",
+    "crosstalk",
+    "mba",
+    "switching network",
+    "switching fabric",
+    "cost",
+    "elastic optical network",
+    "defragmentation algorithm",
+    "optical"
+  ],
+  "coworkers": []
+}

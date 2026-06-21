@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj",
+  "slug": "tymon.rubel",
+  "profile_id": "kAX3UySAPyj",
+  "full_name": "dr inż. Tymon Edwin Rubel",
+  "orcid": "0000-0002-1342-414X",
+  "orcid_url": "https://orcid.org/0000-0002-1342-414X",
+  "breadcrumb_name": "Tymon Rubel",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bioinformatyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metabolome analysis as a potential source of endometriosis biomarkers with the use of multiomics approach in its diagnosis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/publications/bec69fc0-6cf4-4939-b3b3-5b30001a513f",
+      "authors": "C. Wojtyla, C. Wojtyła [...] T. Rubel , ... (+14)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-22598-8",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-22598-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A Multi-Faceted Analysis Showing CRNDE Transcripts and a Recently Confirmed Micropeptide as Important Players in Ovarian Carcinogenesis.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/publications/1604de63-1a9f-48f3-a484-632c29257bb4",
+      "authors": "T. Rubel , A. Balcerak, I. Sołtyszewski, ... (+11)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2024",
+      "doi": "10.3390/ijms25084381",
+      "doi_url": "https://www.doi.org/10.3390/ijms25084381",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Autophagy initiation triggers p150Glued–AP-2β interaction on the lysosomes and facilitates their transport.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/publications/a2d97372-529a-4784-b393-b8f6547f10d2",
+      "authors": "T. Rubel , A. Tempes, K. Bogusz, ... (+18)",
+      "publication_type": "Artykuł , Cellular and Molecular Life Sciences",
+      "year": "2024",
+      "doi": "10.1007/s00018-024-05256-6",
+      "doi_url": "https://www.doi.org/10.1007/s00018-024-05256-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane metody analizy danych w proteomice",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/tymon.rubel.kAX3UySAPyj/research-work/f2a76804-6c51-4d7c-848b-20dbecf5a244",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=229565"
+    }
+  ],
+  "tag_cloud": [
+    "p150glued",
+    "ap-2 adaptor complex",
+    "cytoskeleton",
+    "autophagy",
+    "affinity chromatography",
+    "protein sorting,",
+    "alzheimer's disease,",
+    "ovarian cancer",
+    "crnde",
+    "vps10p domain receptor"
+  ],
+  "coworkers": []
+}

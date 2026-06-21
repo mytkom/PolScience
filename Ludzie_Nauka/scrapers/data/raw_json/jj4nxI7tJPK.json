@@ -1,0 +1,220 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK",
+  "slug": "agnieszka.kącka-zych",
+  "profile_id": "jj4nxI7tJPK",
+  "full_name": "dr hab. inż. Agnieszka Barbara Kącka-Zych",
+  "orcid": "0000-0003-0636-7914",
+  "orcid_url": "https://orcid.org/0000-0003-0636-7914",
+  "breadcrumb_name": "Agnieszka Kącka-Zych",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "chemia organiczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki chemiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii i Technologii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0ccb91ac-42d4-4b04-a18e-a739d5a1cd8e"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the reactivity of Z-2-Ar-1-EWG-1-nitroethene molecular segment in the hetero diels–alder reaction : experimental and MEDT quantum chemical study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/publications/79c4ea4c-f4fd-4b46-9626-a6e9c2bccd5a",
+      "authors": "A. Kącka-Zych , R. Jasiński, P. Woliński, ... (+2)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30183768",
+      "doi_url": "https://www.doi.org/10.3390/molecules30183768",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Docking survey, ADME, toxicological insights, and mechanistic exploration of the Diels–Alder reaction between hexachlorocyclopentadiene and dichloroethylene",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/publications/1ef35d1e-5d3b-4560-bf3b-e797e50dd6b6",
+      "authors": "A. Kącka-Zych , A. Zeroual, A. Syed, ... (+1)",
+      "publication_type": "Artykuł , Journal of Computational Chemistry",
+      "year": "2025",
+      "doi": "10.1002/jcc.70092",
+      "doi_url": "https://www.doi.org/10.1002/jcc.70092",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Study of 1,3-dipolar cycloaddition between 4-acyl-1H-pyrrole-2,3-diones fused at the [e]-side with a heterocyclic moiety and diphenylnitrone: A comprehensive MEDT, docking approach and MD simulation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/publications/6be5b84d-5b4d-4e6b-af8c-085c81dc1502",
+      "authors": "A. Kącka-Zych , S. Ameur, Z. Moussa, ... (+5)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30183718",
+      "doi_url": "https://www.doi.org/10.3390/molecules30183718",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/research-work/3fe6a2b7-35ca-4255-b5bb-8dd5d9818fb0",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Teoretyczne studia nad mechanizmem eliminacji kwasów karboksylowych z estrów nitroalkoholi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.k%C4%85cka-zych.jj4nxI7tJPK/research-work/1c62750a-c514-45f4-829b-61a3c3ff6ad9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=288294"
+    }
+  ],
+  "tag_cloud": [
+    "bet",
+    "bioaktywne nitrozwiązki",
+    "catalyst-free approach",
+    "nitroalkene",
+    "molecular electron density theory",
+    "density functional theory",
+    "dft calculations",
+    "[3 + 2] cycloaddition",
+    "green synthesis",
+    "[3 + 2] cycloaddition"
+  ],
+  "coworkers": []
+}

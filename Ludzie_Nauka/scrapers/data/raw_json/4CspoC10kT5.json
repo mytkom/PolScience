@@ -1,0 +1,152 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5",
+  "slug": "jakub.onyszkiewicz",
+  "profile_id": "4CspoC10kT5",
+  "full_name": "dr inż. arch. Jakub Waldemar Onyszkiewicz",
+  "orcid": "0000-0002-7640-1850",
+  "orcid_url": "https://orcid.org/0000-0002-7640-1850",
+  "breadcrumb_name": "Jakub Onyszkiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bde6059e-395b-46e7-88ed-a9d14626c93e"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura i urbanistyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy efficiency and financial viability of urban on-grid PV microfarms in the energy transition of Central and Eastern European countries",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/publications/b2a000e1-0a60-4132-995c-c99bbae928c5",
+      "authors": "J. Onyszkiewicz , M. Muszyńska-Łanowy, M. Michalski",
+      "publication_type": "Artykuł , Energy and Buildings",
+      "year": "2025",
+      "doi": "10.1016/j.enbuild.2025.116139",
+      "doi_url": "https://www.doi.org/10.1016/j.enbuild.2025.116139",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "PLEA 2024: (Re)thinking Resilience : Proceedings of 37th PLEA Conference, 26-28 June 2024 Wrocław, Poland : the book of proceedings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/publications/ba37d90c-8776-4381-8e30-5ed4bdb2c27c",
+      "authors": "B. Widera, M. Rudnicka-Bogusz, J. Onyszkiewicz , ... (+1)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2024",
+      "doi": "10.37190/plea_2024",
+      "doi_url": "https://www.doi.org/10.37190/plea_2024",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Parametric evaluation as a tool for evaluating shell geodesic domes. Modelling the Fuller Dome with ReSa mobile recreational facility panels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.onyszkiewicz.4CspoC10kT5/publications/32829915-0110-4c71-ba7e-720a2489b40f",
+      "authors": "A. Berbesz, K. Sadowski, J. Onyszkiewicz",
+      "publication_type": "Artykuł , Archives of Civil Engineering",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=310908"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

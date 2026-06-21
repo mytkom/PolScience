@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy",
+  "slug": "robert.świta",
+  "profile_id": "mgRiqUOjNOy",
+  "full_name": "dr inż. Robert Tomasz Świta",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Robert Świta",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Elektroniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2b8ddb36-7216-4e6b-a545-200fb9dd498d"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/gremiums/0c3cac2a-af0e-494e-93c6-b58334773753",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "B‐splines image approximation using resampled chordal parameterization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/publications/b922f479-1dab-4e70-b558-4238f0e8e969",
+      "authors": "R. Świta , Z. Suszyński",
+      "publication_type": "Artykuł , IET Image Processing",
+      "year": "2024",
+      "doi": "10.1049/ipr2.13150",
+      "doi_url": "https://www.doi.org/10.1049/ipr2.13150",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Metody interpolacji i aproksymacji danych na przykładzie krzywych i powierzchni parametrycznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/publications/1ae969f0-e47e-4169-83a3-81df2dea70ed",
+      "authors": "R. Świta , Z. Suszyński",
+      "publication_type": "Książka , Politechnika Koszalińska",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Solving Full N × N × N Rubik’s Supercube Using Genetic Algorithm",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/publications/b4b814e7-f5ae-4ecd-9a5e-525e1745b888",
+      "authors": "R. Świta , Z. Suszyński",
+      "publication_type": "Artykuł , International Journal of Computer Games Technology",
+      "year": "2023",
+      "doi": "10.1155/2023/2445335",
+      "doi_url": "https://www.doi.org/10.1155/2023/2445335",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "System wspomagania orientacji przestrzennej osób niewidomych wykorzystujących konwersję obrazów 2D do postaci dźwięku przestrzennego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.%C5%9Bwita.mgRiqUOjNOy/research-work/f61104ec-6c7a-4a23-9181-24372e53705e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=245839"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

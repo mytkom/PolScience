@@ -1,0 +1,293 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7",
+  "slug": "robert.nowicki",
+  "profile_id": "AORGq4Mgut7",
+  "full_name": "prof. dr hab. inż. Robert Nowicki",
+  "orcid": "0000-0003-2865-2863",
+  "orcid_url": "https://orcid.org/0000-0003-2865-2863",
+  "breadcrumb_name": "Robert Nowicki",
+  "current_employment_summary": [
+    "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "logika rozmyta",
+    "rozmyto-neuronowe systemy wnioskujące",
+    "zbiory przybliżone",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "28 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Handlowa w Radomiu Aktualna nazwa: Akademia Handlowa Nauk Stosowanych w Radomiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dc6549a6-0a9e-4dc3-831c-451447b68c58",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/669fee72-713b-4509-99a3-81f522cb7159",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1997",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Gender disparities in customer churn rates: a rough neuro-fuzzy classifier-based analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/publications/0d352b49-bb4e-4425-966a-59ffd37b3ca4",
+      "authors": "M. Scherer, R. Nowicki",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.55",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.55",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Improved DeepFool: Efficient Adversarial Attacks via Optimization and Refinement",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/publications/736bd2b8-cfe0-4b74-9cd8-f1acb650161d",
+      "authors": "Ł. Mikołajczyk, P. Duda [...] R. Nowicki , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.62",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.62",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Mittag-Leffler Synchronization of Generalized Fractional-Order Reaction-Diffusion Networks Via Impulsive Control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/publications/cf37b9c2-854f-4d28-99c3-4b3226ae8f37",
+      "authors": "Y. Cao, S. Dharani [...] R. Nowicki , ... (+2)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2025",
+      "doi": "10.2478/jaiscr-2025-0002",
+      "doi_url": "https://www.doi.org/10.2478/jaiscr-2025-0002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozmyte systemy decyzyjne w zadaniach z ograniczoną wiedzą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/80516e44-20eb-439b-b253-cab848aab263",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Systemy rozmyto-neuronowe realizujące różne sposoby rozmytego wnioskowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/b2ba7ffe-8540-4ab3-8216-fb384f20955b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody projektowania baz wiedzy dla zagadnień z brakującymi danymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/80f466d2-8a96-447e-b914-90b3a6607f53",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model sztucznej inteligencji dla aktywnej kontroli wybranych charakterystyk dynamicznych pojazdów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/41f9cf68-59c9-49a7-b566-1d6ce914d315",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zastosowanie niestandardowych norm trójkątnych w sieciach neuronowo-rozmytych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/2cc79886-0fae-489c-8361-de160219449b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wybrane metody reprezentacji obiektów i pojęć w danych dla algorytmów uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/3cac827e-48ac-47b6-9e73-36c92772bcd6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykorzystanie algorytmu genetycznego do doboru elementów ochronnika interfejsu komunikacyjnego w urządzeniach przytorowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/4ab71b62-b415-438d-ba4d-7c32bc26e259",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Uczenie drzew decyzyjnych oraz zespołów klasyfikatorów z zastosowaniem algorytmów mrowiskowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.nowicki.AORGq4Mgut7/research-work/e58968e3-34f2-413d-9fc0-4cb1dd4c8740",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=91961"
+    }
+  ],
+  "tag_cloud": [
+    "computer networks",
+    "informatyka",
+    "elektrotechnika",
+    "support vector machines",
+    "steady state",
+    "substitution box",
+    "extended possibilistic fuzzification",
+    "rough sets",
+    "automatyka i robotyka",
+    "sequential data mining"
+  ],
+  "coworkers": []
+}

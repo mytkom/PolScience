@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP",
+  "slug": "anna.kocan-krawczyk",
+  "profile_id": "FkoAEMLbtSP",
+  "full_name": "mgr inż. Anna Maria Kocan-Krawczyk",
+  "orcid": "0000-0001-5923-9444",
+  "orcid_url": "https://orcid.org/0000-0001-5923-9444",
+  "breadcrumb_name": "Anna Kocan-Krawczyk",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Integrated, Containerized JupyterHub Environment for a Higher Education Institution: A Case Study of Deploymen",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/publications/971e7849-df2d-458f-84a0-8e1197495c2d",
+      "authors": "A. Kocan-Krawczyk , M. Borkowski, P. Władyka",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Selected Aspects of Meshless Method Optimization in the Room Acoustics with Impedance Boundary Conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/publications/41ca23b2-6e0e-4a66-8b28-2554c643b96b",
+      "authors": "A. Brański, E. Prędka, A. Kocan-Krawczyk",
+      "publication_type": "Artykuł , Archives of Acoustics",
+      "year": "2020",
+      "doi": "10.24425/aoa.2020.135252",
+      "doi_url": "https://www.doi.org/10.24425/aoa.2020.135252",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Rough Estimation of Acoustics of the Cuboidal Room with Impedance Walls",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.kocan-krawczyk.FkoAEMLbtSP/publications/9f661a5b-0f1b-4ef4-9bb8-962226f017e4",
+      "authors": "A. Brański, A. Kocan-Krawczyk",
+      "publication_type": "Artykuł , ARCHIVES OF ACOUSTICS",
+      "year": "2018",
+      "doi": "10.24425/122370",
+      "doi_url": "https://www.doi.org/10.24425/122370",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=278807"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

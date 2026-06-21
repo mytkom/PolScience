@@ -1,0 +1,212 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb",
+  "slug": "kajetana.snopek",
+  "profile_id": "NJECcEyqPqb",
+  "full_name": "dr hab. Kajetana Marta Snopek",
+  "orcid": "0000-0002-4920-0682",
+  "orcid_url": "https://orcid.org/0000-0002-4920-0682",
+  "breadcrumb_name": "Kajetana Snopek",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza sygnałów wielowymiarowych",
+    "teoria sygnałów",
+    "teoria systemów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Quaternion Approach to the theory of 2-D causal systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/publications/bb4a1368-b350-4410-9960-df68b66c808a",
+      "authors": null,
+      "publication_type": "Artykuł , International Journal of Electronics and Telecommunications",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hands-on Signals and Systems Theory",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/publications/12be4a82-3a98-4b13-85b0-a3ecae85f29b",
+      "authors": null,
+      "publication_type": "Książka , Springer",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-56081-1",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-56081-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "On the Octonion Cross Wigner Distribution of 3-D Signals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/publications/e0bec562-1151-424b-9d33-f5f929325da3",
+      "authors": "Ł. Błaszczyk, K. Snopek",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2022",
+      "doi": "10.3390/app12115358",
+      "doi_url": "https://www.doi.org/10.3390/app12115358",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie ws. nadania habilitacji.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/887ebd0c-1f1e-461c-ab1d-d5dd9df6f381",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rozkłady klasy Cohena sygnałów wielowymiarowych i ich zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/b8500067-71cd-483f-a716-e3c7bad7175a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algebry Cayleya-Dicksona w analizie sygnałów z elementami teorii oszczędnego próbkowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/23788178-7a1a-48a6-94e5-7542b94dc177",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Estymacja częstotliwości metodami interpolacji widma dla okien czasowych GMSD.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/f590ca3b-cabc-4f62-9ae8-41ef54660c65",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Dostarczanie dobrej jakości wizji wszechogarniającej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/d83b0a1a-9d70-4275-9a2c-616b98ce4ee6",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rekonstrukcja danych niekompletnych metodami nieujemnej faktoryzacji macierzy i dekompozycji tensorów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kajetana.snopek.NJECcEyqPqb/research-work/65bde2af-fc02-46aa-abb2-7408b396c321",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=108938"
+    }
+  ],
+  "tag_cloud": [
+    "oktoniony",
+    "oktonionowa transformacja fouriera",
+    "octonion fourier transform",
+    "parseval-plancherel theorems",
+    "twierdzenie wienera-chinczyna",
+    "hermitian symmetry",
+    "wiener-khintchine theorem",
+    "octonions",
+    "twierdzenia parsevala-plancherela",
+    "hermitowska symetria"
+  ],
+  "coworkers": []
+}

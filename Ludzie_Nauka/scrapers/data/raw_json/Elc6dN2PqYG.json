@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG",
+  "slug": "dariusz.gall",
+  "profile_id": "Elc6dN2PqYG",
+  "full_name": "mgr inż. Dariusz Gall",
+  "orcid": "0000-0002-0685-1338",
+  "orcid_url": "https://orcid.org/0000-0002-0685-1338",
+  "breadcrumb_name": "Dariusz Gall",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "From PIM and PSM with Performance Annotation to Palladio Models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/publications/c694f75a-0f07-454b-a208-4a08d971a8ee",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.5220/0011090900003176",
+      "doi_url": "https://www.doi.org/10.5220/0011090900003176",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An approach to semantics for UML activities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/publications/0d80d044-1991-4bfb-bf01-7a33a727947c",
+      "authors": "D. Gall , A. Walkowiak-Gall",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-319-67229-8_23",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-67229-8_23",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Towards generating Palladio performance models from PIM and PSM models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.gall.Elc6dN2PqYG/publications/23d26d7f-f118-43f3-a182-b6c92352c290",
+      "authors": null,
+      "publication_type": null,
+      "year": null,
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

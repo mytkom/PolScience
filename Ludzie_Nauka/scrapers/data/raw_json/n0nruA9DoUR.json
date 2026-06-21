@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR",
+  "slug": "dariusz.asendrych",
+  "profile_id": "n0nruA9DoUR",
+  "full_name": "dr inż. Dariusz Asendrych",
+  "orcid": "0000-0002-5110-4091",
+  "orcid_url": "https://orcid.org/0000-0002-5110-4091",
+  "breadcrumb_name": "Dariusz Asendrych",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "płyny nienewtonowskie",
+    "zawiesiny włókniste",
+    "przepływy w mikrokanałach"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1996",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Electrical Impedance Tomography (EIT) System for Monitoring Transport Processes in Industrial Installations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/publications/b6664958-7160-4cfe-afbe-7cc17638c29b",
+      "authors": null,
+      "publication_type": "Artykuł , Instal",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical Heat Transfer and Fluid Flow 2022",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/publications/bcf88594-3219-4cc2-b79c-7bfdb4dc2b0a",
+      "authors": "A. Bartosik, D. Asendrych",
+      "publication_type": "Książka pod redakcją",
+      "year": "2023",
+      "doi": "10.3390/books978-3-0365-9854-3",
+      "doi_url": "https://www.doi.org/10.3390/books978-3-0365-9854-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Impact of the Initial Flow Conditions on the Wetting Efficiency on a Flat Inclined Surface",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/publications/4b805a89-f56c-41a8-ac76-6c56c5a30c26",
+      "authors": null,
+      "publication_type": "Artykuł , Technische Mechanik",
+      "year": "2019",
+      "doi": "10.24352/ub.ovgu-2019-013",
+      "doi_url": "https://www.doi.org/10.24352/ub.ovgu-2019-013",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Charakterystyki zorganizowanych struktur wirowych w swobodnych osiowo-symetrycznych przepływach ze spalaniem",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/research-work/58b251b1-5c23-488e-9255-2e6aeb2c00a0",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Numeryczne modelowanie procesu absorpcji i desorpcji CO 2 ze spalin z zastosowaniem MEA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.asendrych.n0nruA9DoUR/research-work/baf21761-831d-4ad7-8dfb-0d3602298d5a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=27909"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

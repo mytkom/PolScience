@@ -1,0 +1,241 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB",
+  "slug": "róża.goścień",
+  "profile_id": "TLdSpgbVCeB",
+  "full_name": "dr hab. inż. Róża Joanna Goścień",
+  "orcid": "0000-0003-4346-0763",
+  "orcid_url": "https://orcid.org/0000-0003-4346-0763",
+  "breadcrumb_name": "Róża Goścień",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "teleinformatyka",
+    "elastyczne sieci optyczne",
+    "modelowanie i optymalizacja sieci teleinformatycznych",
+    "sieci zorientowane na treść"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 miesięcy",
+      "duration": null,
+      "institution": "Instytut Łączności - Państwowy Instytut Badawczy",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d86ce494-55e8-4d01-929c-48a2908e6e5a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "teleinformatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Explainable artificial intelligence-based framework for efficient content placement in elastic optical networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/publications/da9f63f4-60b2-4934-b275-f3a9a4830f90",
+      "authors": null,
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.eswa.2024.125541",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2024.125541",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wykorzystanie uczenia maszynowego do efektywnego wykrywania anomalii oraz predykcji przepustowości w sieciach 5G",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/publications/f28d20f5-4a71-4779-90d0-efba3b16f1a8",
+      "authors": "P. Olesiński, R. Goścień , M. Panek",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.12",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.12",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Traffic prediction- and explainable artificial intelligence-based dynamic routing in software-defined elastic optical networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/publications/53e8156c-11f8-44f5-b7d1-08c2881a7464",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.23919/ifipnetworking62109.2024.10619798",
+      "doi_url": "https://www.doi.org/10.23919/ifipnetworking62109.2024.10619798",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele i algorytmy optymalizacji przeżywalnych transportowych sieci optycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/d3b0ca23-a2ce-44f7-bbcb-6388fd45ef43",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy optymalizacji przeżywalnych elastycznych sieci optycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/b6ad7cc8-649a-4b98-9f62-2aaf68629624",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy wyznaczania przepływów i alokacji zasobów w zwielokrotnionych przestrzennie elastycznych sieciach optycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/c7e13307-7222-463d-8849-12b5590aa2fc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Adaptacyjne zarządzanie ruchem w sieciach IP i sieciach optycznych sterowanych programowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/4649a379-8f47-4c59-906b-e45dab4479e2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Application relocation in an Edge-enabled 5G-system",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/5ebe41ed-4b3c-42c5-891a-3b42011d281c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Zarządzanie ruchem w sieciach sterowanych programowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/r%C3%B3%C5%BCa.go%C5%9Bcie%C5%84.TLdSpgbVCeB/research-work/dc69941f-35d6-4d0a-a71c-b2316a6985d3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=262500"
+    }
+  ],
+  "tag_cloud": [
+    "elastic optical networks",
+    "przeżywalność sieci",
+    "elastyczne sieci optyczne zwielokrotnione przestrzennie",
+    "metoda generacji kolumn",
+    "elastyczne sieci optyczne",
+    "ruch anycast",
+    "protekcja sieci",
+    "dedykowana protekcja ścieżek",
+    "ruch multicast",
+    "optymalizacja"
+  ],
+  "coworkers": []
+}

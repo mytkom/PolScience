@@ -1,0 +1,212 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB",
+  "slug": "krzysztof.twardoch",
+  "profile_id": "uSys4LbO0DB",
+  "full_name": "dr inż. Krzysztof Marcin Twardoch",
+  "orcid": "0000-0002-8069-2048",
+  "orcid_url": "https://orcid.org/0000-0002-8069-2048",
+  "breadcrumb_name": "Krzysztof Twardoch",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza numeryczna",
+    "diagnostyka maszyn",
+    "dynamika maszyn",
+    "maszyny i urządzenia górnicze i wiertnicze",
+    "metody komputerowe w mechanice",
+    "modelowanie i symulacja komputerowa",
+    "modelowanie układów dynamicznych",
+    "programowanie",
+    "podstawy konstrukcji maszyn",
+    "przekładnie zębate stożkowe",
+    "symulacja w dynamice maszyn",
+    "systemy diagnostyczne",
+    "systemy informatyczne",
+    "systemy i sieci komputerowe",
+    "maszyny robocze",
+    "uczenie maszynowe",
+    "inżynieria systemów informatycznych",
+    "inżynieria oprogramowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Śląska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 miesiące",
+      "duration": null,
+      "institution": "Instytut Techniki Górniczej KOMAG",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9ca024e5-9515-4af9-85e0-02ab32d3d65d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / górnictwo i geologia inżynierska",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska; Wydział Górnictwa, Inżynierii Bezpieczeństwa i Automatyki Przemysłowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2585d290-84a7-4e20-9e53-4ed4783e591e"
+        },
+        {
+          "label": "Politechnika Śląska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "górnictwo i geologia",
+        "Nadanie tytułu",
+        "Politechnika Śląska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Adaptive Pendulum-Tuned Mass Damper Based on Adjustable-Length Cable for Skyscraper Vibration Control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/publications/02142387-8e56-4401-9200-ff5102301c62",
+      "authors": "K. Twardoch , K. Górski, R. Kwiatkowski, ... (+3)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17146301",
+      "doi_url": "https://www.doi.org/10.3390/su17146301",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An Analytical Approach to Gear Mesh Dynamics for the Sustainable Design of Agricultural Machinery Drive Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/publications/9b658730-ab22-4d66-aa00-ab8c8305587a",
+      "authors": "K. Twardoch , D. Sierociński",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su17051837",
+      "doi_url": "https://www.doi.org/10.3390/su17051837",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "An innovative pendulum-based absorber exploiting time-varying mass dynamics for vibration damping",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/publications/a98b1054-1ba3-414b-9d5d-d644e54d529b",
+      "authors": "B. Chilinski, B. Chiliński [...] K. Twardoch , ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154285",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154285",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Prognozowanie stanu dynamicznego przekładni zębatej stożkowej z uwzględnieniem obciążenia maszyn górniczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.twardoch.uSys4LbO0DB/research-work/8baf701b-6113-4b07-933f-f30068d67787",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=279129"
+    }
+  ],
+  "tag_cloud": [
+    "dynamic load",
+    "obciążenie dynamiczne",
+    "2bp",
+    "napęd",
+    "maszyna górnicza",
+    "mining machine",
+    "drive",
+    "trwałość zmęczeniowa",
+    "cad",
+    "fatigue life"
+  ],
+  "coworkers": []
+}

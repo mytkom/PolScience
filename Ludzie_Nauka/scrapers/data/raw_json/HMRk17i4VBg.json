@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg",
+  "slug": "piotr.grzejszczak",
+  "profile_id": "HMRk17i4VBg",
+  "full_name": "dr inż. Piotr Grzejszczak",
+  "orcid": "0000-0001-7161-9677",
+  "orcid_url": "https://orcid.org/0000-0001-7161-9677",
+  "breadcrumb_name": "Piotr Grzejszczak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "energoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Badania wysokosprawnego dwukierunkowego izolowanego sprzęgu AC/DC o szerokim zakresie regulacji napięcia stałego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/publications/6ade6cc7-3b86-4569-8c77-aebf9ca819da",
+      "authors": "M. Koszel, K. Wolski, P. Grzejszczak",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.38",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.38",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Input parallel output parallel (IPOP) dual active bridge converter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/publications/81072715-db2f-4ac6-9b84-50f544092f7d",
+      "authors": "M. Koszel, P. Grzejszczak , R. Barlik, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.52",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.52",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modułowy synchroniczny przekształtnik DC/DC w technologii GaN o dużej obciążalności prądowej",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/publications/91c4f3d9-d112-4cfe-8673-7f031011e140",
+      "authors": "P. Grzejszczak , B. Nowatkiewicz",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.03.39",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.03.39",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka wyznaczania strat energii w łącznikach półprzewodnikowych przekształtnika o cechach podwójnego mostka aktywnego z uwzględnieniem zjawisk termicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.grzejszczak.HMRk17i4VBg/research-work/aff5aac0-1a03-417a-94e7-c3ab69a9448c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=261653"
+    }
+  ],
+  "tag_cloud": [
+    "ac/dc converter",
+    "sic",
+    "węglik krzemu",
+    "active front end (afe)",
+    "snubber circuit",
+    "switching energy losses",
+    "high frequency converter",
+    "magazynowanie energii elektrycznej",
+    "obwody odciążające",
+    "tranzystor mocy mosfet"
+  ],
+  "coworkers": []
+}

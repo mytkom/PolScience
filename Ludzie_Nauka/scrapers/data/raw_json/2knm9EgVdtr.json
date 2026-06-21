@@ -1,0 +1,224 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr",
+  "slug": "jakub.bernat",
+  "profile_id": "2knm9EgVdtr",
+  "full_name": "dr hab. inż. Jakub Bernat",
+  "orcid": "0000-0001-8890-7157",
+  "orcid_url": "https://orcid.org/0000-0001-8890-7157",
+  "breadcrumb_name": "Jakub Bernat",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka napędu elektrycznego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96d57e4a-a0f8-4984-a821-a9464dd54c3c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i zarządzanie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/gremiums/e711bcb9-8565-4898-a5b7-3ed056b843c9",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Analysis of DEAP Sensor Integrated with MRE Actuator in High Range Motion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/publications/8be3f06f-510b-4895-aa71-f84f9fcbf3bb",
+      "authors": "J. Bernat , P. Czopek, S. Szczęsny, ... (+2)",
+      "publication_type": "Artykuł , IEEE Sensors Journal",
+      "year": "2026",
+      "doi": "10.1109/jsen.2025.3634665",
+      "doi_url": "https://www.doi.org/10.1109/jsen.2025.3634665",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On the influence of design parameters on the performance of the dielectric elastomer actuator with a permanent magnet",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/publications/93abb4e2-a390-48ef-8c1e-4b292c7a96e7",
+      "authors": "J. Bernat , J. Kolota, P. Gajewski, ... (+3)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-21993-5",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-21993-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "The construction of a soft gripper based on magnetorheological elastomer with permanent magnet",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/publications/f5b52615-c841-4dfc-a0cf-ce4f70833bcd",
+      "authors": "P. Czopek, J. Bernat , P. Superczyńska, ... (+2)",
+      "publication_type": "Artykuł , Journal of Intelligent Material Systems and Structures",
+      "year": "2025",
+      "doi": "10.1177/1045389x251362386",
+      "doi_url": "https://www.doi.org/10.1177/1045389x251362386",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Projektowanie układów sterowania automatyki i robotyki z uwzględnieniem metod adaptacji oraz obserwacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/research-work/1813991d-d250-47de-bfb8-8052cc5ed87b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza modelowania i sterowania silników z magnesami trwałymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/research-work/73a5fbbf-3782-434c-8eec-d08887326d15",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Koncepcja miękkiego chwytaka robota z wykorzystaniem cieczy i elastomerów o własnościach programowalnych.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.bernat.2knm9EgVdtr/research-work/988bab78-a8f0-4a9f-a836-3bedcbb7c674",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=239446"
+    }
+  ],
+  "tag_cloud": [
+    "dielectric materials",
+    "silicone membrane",
+    "deep deterministic policy gradient",
+    "dielectric electroactive polymer actuator",
+    "reinforcement learning",
+    "machine learning",
+    "cart pole",
+    "dielectric elastomer actuator (dea)",
+    "mobile robot",
+    "actuator"
+  ],
+  "coworkers": []
+}

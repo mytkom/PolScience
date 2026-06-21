@@ -1,0 +1,191 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV",
+  "slug": "andrzej.gnatowski",
+  "profile_id": "rbfvyXWEYFV",
+  "full_name": "dr inż. Andrzej Gnatowski",
+  "orcid": "0000-0001-5468-8005",
+  "orcid_url": "https://orcid.org/0000-0001-5468-8005",
+  "breadcrumb_name": "Andrzej Gnatowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "optymalizacja dyskretna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Distributionally robust scheduling algorithms for total flow time minimization on parallel machines using norm regularizations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/publications/80c7b268-700b-4ba4-b667-8adce99db4ad",
+      "authors": "A. Gnatowski , A. Novak, P. Sucha",
+      "publication_type": "Artykuł , European Journal of Operational Research",
+      "year": "2022",
+      "doi": "10.1016/j.ejor.2022.01.002",
+      "doi_url": "https://www.doi.org/10.1016/j.ejor.2022.01.002",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Scheduling disjoint setups in a single-server permutation flow shop manufacturing process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/publications/bdaf1beb-ae2b-40f7-be5f-cf7592ca57b0",
+      "authors": "A. Gnatowski , J. Rudy, R. Idzikowski",
+      "publication_type": "Artykuł , Processes",
+      "year": "2022",
+      "doi": "10.3390/pr10091837",
+      "doi_url": "https://www.doi.org/10.3390/pr10091837",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "A parallel algorithm for scheduling a two-machine robotic cell in bicycle frame welding process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/publications/9cc6036f-0ed7-4010-b812-1f63acbf41af",
+      "authors": "A. Gnatowski , T. Niżyński",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2021",
+      "doi": "10.3390/app11178083",
+      "doi_url": "https://www.doi.org/10.3390/app11178083",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Właściwości i algorytmy dla systemów wytwarzania z maszynami równoległymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.gnatowski.rbfvyXWEYFV/research-work/a4cdeae8-af57-4ac2-aa90-d0ecb23311ba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=294449"
+    }
+  ],
+  "tag_cloud": [
+    "obliczenia równoległe",
+    "cykliczne wytwarzanie",
+    "metaheurystyki",
+    "przestrzeń rozwiązań",
+    "algorytm dokładny",
+    "gniazdo produkcyjne",
+    "analiza przestrzeni rozwiązań",
+    "optymalizacja dyskretna",
+    "minima lokalne",
+    "szeregowanie cykliczne"
+  ],
+  "coworkers": []
+}

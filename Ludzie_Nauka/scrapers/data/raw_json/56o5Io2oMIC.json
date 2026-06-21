@@ -1,0 +1,324 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC",
+  "slug": "piotr.cyklis",
+  "profile_id": "56o5Io2oMIC",
+  "full_name": "prof. dr hab. inż. Piotr Jerzy Cyklis",
+  "orcid": "0000-0002-0188-1108",
+  "orcid_url": "https://orcid.org/0000-0002-0188-1108",
+  "breadcrumb_name": "Piotr Cyklis",
+  "current_employment_summary": [
+    "Akademia Nauk Stosowanych w Nowym Sączu",
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sprężarki",
+    "teoria i pomiary maszyn cieplnych",
+    "termodynamika",
+    "urządzenia sorpcyjne",
+    "urządzenia wyparne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Nowym Sączu Aktualna nazwa: Akademia Nauk Stosowanych w Nowym Sączu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ccc24230-94bd-4fab-9b88-dca9652e52c7",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "41 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1988",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika : systemy i urządzenia energetyczne",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "w zakresie mechaniki, specjalność: systemy i urządzenia energetyczne",
+        "Nadanie tytułu",
+        "Politechnika Krakowska, Wydział Mechaniczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 5,
+      "year": "1984",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika stosowana",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/gremiums/f2e7c1ef-c5ba-4f7e-9303-68cb129c1620",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Piotr Cyklis"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Methodology for optimising the heat pump cycle based on a real-life case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/publications/03ad6aeb-8270-4faa-a9e3-d72a3209701f",
+      "authors": "P. Cyklis , T. Mołczan",
+      "publication_type": "Artykuł , Energy Conversion and Management",
+      "year": "2025",
+      "doi": "10.1016/j.enconman.2024.119255",
+      "doi_url": "https://www.doi.org/10.1016/j.enconman.2024.119255",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of CFD simulation to the design of an innovative drying chamber",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/publications/7bcf8236-785e-4b7c-b7a7-0cef2daea2b7",
+      "authors": "D. Cebulski, P. Cyklis",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17133338",
+      "doi_url": "https://www.doi.org/10.3390/en17133338",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "CFD analysis of the effect of bed geometry on H2O adsorption and desorption efficiency",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/publications/d076f3f4-f9be-4a45-ae3b-7d495fc7878a",
+      "authors": "P. Cyklis , S. Janusz, M. Borcuch",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Identyfikacja termodynamiczna elementów instalacji sprężarek wyporowych. Uogólnienie modeli Helmholtza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/d0e03797-5340-4246-a66b-2974a98ea9d4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model matematyczny rzeczywistych przemian termodynamicznych zachodzących w cylindrze sprężarki tłokowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/7432d81d-5987-4364-a12a-fd42b805c0f8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ geometrii dyszy na tłumienie pulsacji w instalacji sprężarki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/16fcb250-7dc7-4ea8-b18f-66dac9d02615",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metody splotu do modelowania pulsacyjnego przepływu gazu w instalacji sprężarek wyporowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/be017a7c-ed1a-450d-901e-7f8d58e866d5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza oddziaływania odolejacza sprężarki wyporowej w instalacji w warunkach przepływu ustalonego i pulsującego za pomocą symulacji CFD",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/d4a0430d-9f62-43bf-83b7-6b0d7541854b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "„CO2 capture through Direct-Contact Condensation in a spray ejector condenser aided by a cyclone or T-junction separators",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/f37dffb9-72a0-47eb-a812-4560be88d75d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Cykl powiązanych tematycznie publikacji pn.: Badania eksperymentalne generatorów strugi syntetycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/cdc4f815-8b39-4fec-aca5-7e772d0e4ba0",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Wkład w zrozumienie fizyka zjawisk niestabilnych w sprężarce promieniowej i metod zabezpieczania przed nimi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.cyklis.56o5Io2oMIC/research-work/7b86b54e-27fd-4fc9-aa4c-b2308fe8e1f3",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=12458"
+    }
+  ],
+  "tag_cloud": [
+    "screw compressor",
+    "system sorpcyjny chłodniczy",
+    "ciepło odpadowe",
+    "sorption system refrigerating",
+    "pulsacja ciśnienia",
+    "pressure pulsation",
+    "sprężarka śrubowa",
+    "refrigerating system",
+    "positive-displacement compressor",
+    "sprężarka wyporowa"
+  ],
+  "coworkers": []
+}

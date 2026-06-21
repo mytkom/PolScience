@@ -1,0 +1,262 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy",
+  "slug": "piotr.zwierzykowski",
+  "profile_id": "ckBsru92QOy",
+  "full_name": "dr hab. inż. Piotr Leszek Zwierzykowski",
+  "orcid": "0000-0001-5609-1026",
+  "orcid_url": "https://orcid.org/0000-0001-5609-1026",
+  "breadcrumb_name": "Piotr Zwierzykowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria ruchu",
+    "sieci telekomunikacyjne",
+    "sieci komputerowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Elektroniki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f165897e-d1a3-4a24-911c-3590abd47b31"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparative Analysis of the Effectiveness of Machine Learning Algorithms Used for WLAN Network Protection",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/publications/0b1c4b2f-9843-4b4d-beb8-7192692301a7",
+      "authors": "P. Augustyniak, A. Gruszecki, P. Zwierzykowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Concept and Phases of the Rogue Access Point Attack",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/publications/48fbb842-b927-4aa8-97ba-ddc3075618e6",
+      "authors": "P. Augustyniak, O. Rogowicz, P. Zwierzykowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-77493-5_25",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-77493-5_25",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design and Experimental Evaluation of a Low-Cost Rogue Access Point Based on SOHO Hardware",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/publications/2e4ce1ab-3781-41ec-8e44-87383fc6e673",
+      "authors": "P. Augustyniak, P. Zwierzykowski , M. Boch",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie mechanizmów zarządzania ruchem w wielousługowych sieciach komórkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/ec541fc5-479f-423c-bbfe-17acfa40955b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania obciążalności ruchowej systemów z komutacją rozgałęźną w sieciach z integracją usług",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/de949bc8-ecdd-4800-a9b7-27f9fc37fcaa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wielokryterialne heurystyczne algorytmy rutingu rozgałęźnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/2cb9d740-9afa-4a26-aeec-b63d316664ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie efektywności protokołów rutingu rozgałęźnego w przewodowych sieciach pakietowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/7872e733-6dfd-493a-b8d0-42bdf58a937a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Adaptacyjne zarządzanie ruchem w sieciach IP i sieciach optycznych sterowanych programowo",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/4649a379-8f47-4c59-906b-e45dab4479e2",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "AI-assisted dimensioning methods for Network Slicing in Next Generation Mobile Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/fe33a4d0-9854-480c-817f-268aa59df6ed",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Dobór lokalizacji węzłów pośredniczących w sieci LoRa oraz ich wpływ na efektywność sieci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.zwierzykowski.ckBsru92QOy/research-work/45b05916-8e16-4a65-b799-9bafa7d0913d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.pl/citations?user=zXK82yYAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/piotr-zwierzykowski-b195965/"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=6506900107"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/?mode=Nextgen&path=%2Fwos%2Fauthor%2Frecord%2FA-6628-2013&IsProductCode=Yes&Init=Yes&DestApp=UA&Func=Frame&action=transfer&SrcApp=CR&SID=EUW1ED0AABDthEmayb5lR1IqVXXHP"
+    }
+  ],
+  "tag_cloud": [
+    "frequency slot unit",
+    "traffic management",
+    "opportunistic routing",
+    "quality of experience",
+    "over-the-top",
+    "adaptive streaming",
+    "simulation",
+    "unsupervised learning",
+    "elastic optical networks",
+    "switching networks"
+  ],
+  "coworkers": []
+}

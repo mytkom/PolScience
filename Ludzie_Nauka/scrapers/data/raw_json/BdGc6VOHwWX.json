@@ -1,0 +1,223 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX",
+  "slug": "sebastian.dudzik",
+  "profile_id": "BdGc6VOHwWX",
+  "full_name": "dr hab. inż. Sebastian Dudzik",
+  "orcid": "0000-0002-9559-7115",
+  "orcid_url": "https://orcid.org/0000-0002-9559-7115",
+  "breadcrumb_name": "Sebastian Dudzik",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "termografia w podczerwieni",
+    "pomiary termowizyjne",
+    "aktywna termografia dynamiczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "25 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3f9c5753-3a2c-4d6a-bba0-406fe2717e26"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska Wydział Elektryczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/gremiums/782e8159-0bfb-456b-9ace-a662a18ad23b",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Smart Hybrid Maintenance as a Pathway to Energy-Efficient Manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/publications/c57b6e24-f58d-4bd6-aa91-d5b9362df1d9",
+      "authors": "S. Dudzik , G. Gic-Grusza, D. Pilc, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2026",
+      "doi": "10.3390/en19010132",
+      "doi_url": "https://www.doi.org/10.3390/en19010132",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analiza niepewności lokalizacji odometrycznej z wykorzystaniem systemu przechwytywania ruchu i symulacji Monte Carlo",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/publications/e6187251-2ea4-45b4-99c9-35791213930a",
+      "authors": "S. Dudzik , P. Szeląg",
+      "publication_type": "Artykuł , Pomiary Automatyka Robotyka",
+      "year": "2025",
+      "doi": "10.14313/par_255/31",
+      "doi_url": "https://www.doi.org/10.14313/par_255/31",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Energy Consumption Analysis of the Selected Navigation Algorithms for Wheeled Mobile Robots",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/publications/5fb3b91c-b467-4f15-8770-7417de56188d",
+      "authors": "A. Rapalski, S. Dudzik",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16031532",
+      "doi_url": "https://www.doi.org/10.3390/en16031532",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wyznaczanie głębokości defektów materiałowych z zastosowaniem aktywnej termografii dynamicznej i sztucznych sieci neuronowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/research-work/39451f7e-0c51-4b96-b482-95b22121aa7d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wyznaczanie mocy grzejników centralnego ogrzewania z wykorzystaniem termografii komputerowej i strojonych modeli wymiany ciepła",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/research-work/85b4511b-5766-451d-892e-f75758328c5c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Redukcja naprężeń cieplnych w transformatorze energetycznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sebastian.dudzik.BdGc6VOHwWX/research-work/0ebdf5f2-bdb0-4bfe-b13a-6af33f5716f8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=203676"
+    }
+  ],
+  "tag_cloud": [
+    "pure pursuit algorithm",
+    "non-destructive testing",
+    "badania nieniszczące",
+    "termografia aktywna",
+    "active thermography",
+    "defect detection",
+    "wheeled mobile robot",
+    "wykrywanie defektów",
+    "infrared thermography",
+    "internet rzeczy"
+  ],
+  "coworkers": []
+}

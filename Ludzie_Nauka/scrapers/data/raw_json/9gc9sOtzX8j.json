@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j",
+  "slug": "marcel.jackiewicz",
+  "profile_id": "9gc9sOtzX8j",
+  "full_name": "mgr inż. Marcel Kamil Jackiewicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Marcel Jackiewicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka algorytmiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Computational complexity of the recoverable robust shortest path problem with discrete recourse",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/publications/e5145706-fe0f-492c-b106-f99bd119b7de",
+      "authors": "M. Jackiewicz , A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Discrete Applied Mathematics",
+      "year": "2025",
+      "doi": "10.1016/j.dam.2025.03.004",
+      "doi_url": "https://www.doi.org/10.1016/j.dam.2025.03.004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Computational complexity of the recoverable robust shortest path problem with discrete recourse",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/publications/23be9bb5-eb78-4fce-8c08-fe12d6633732",
+      "authors": "M. Jackiewicz , A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Discrete Applied Mathematics",
+      "year": "2025",
+      "doi": "10.1016/j.dam.2025.03.004;10.48550/arxiv.2403.20000",
+      "doi_url": "https://www.doi.org/10.1016/j.dam.2025.03.004;10.48550/arxiv.2403.20000",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Recoverable robust shortest path problem under interval budgeted uncertainty representations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marcel.jackiewicz.9gc9sOtzX8j/publications/47825420-c47a-4d34-b6f4-3c2107b88388",
+      "authors": "M. Jackiewicz , A. Kasperski, P. Zieliński",
+      "publication_type": "Artykuł , Networks",
+      "year": "2025",
+      "doi": "10.1002/net.22255",
+      "doi_url": "https://www.doi.org/10.1002/net.22255",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

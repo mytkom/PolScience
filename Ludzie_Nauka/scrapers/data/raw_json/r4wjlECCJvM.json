@@ -1,0 +1,253 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM",
+  "slug": "piotr.kozioł",
+  "profile_id": "r4wjlECCJvM",
+  "full_name": "dr hab. Piotr Kozioł",
+  "orcid": "0000-0001-9685-1923",
+  "orcid_url": "https://orcid.org/0000-0001-9685-1923",
+  "breadcrumb_name": "Piotr Kozioł",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "drogi kolejowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "7 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budownictwo",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4921489f-84b0-4d4b-843c-13b7261ccc05"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / nauki techniczne",
+        "Nadanie stopnia",
+        "Brak informacji o instytucji. Skontaktuj się z instytucją odpowiedzialną za rejestrację i poproś o uzupełnienie danych.",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1995",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/gremiums/a0f14b26-8a37-4d5e-99f7-d5fa26a205ec",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Recalibrated relationship of P-wave velocity in a coal seam with depth in the south-western upper Silesian Coal Basin",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/publications/fd700ebd-3e6a-47b4-9257-59e44f097e18",
+      "authors": "M. Łapczyński, Z. Burtan [...] P. Kozioł , ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app152312505",
+      "doi_url": "https://www.doi.org/10.3390/app152312505",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Rola badań w rozwoju infrastruktury drogowej i kolejowejw Polsce – Katedra Dróg, Kolei i Inżynierii Ruchu L-5",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/publications/92684143-db09-4774-9f23-8ff9dc090eef",
+      "authors": "S. Gaca, M. Kieć, P. Kozioł , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Budowlany",
+      "year": "2025",
+      "doi": "10.5604/01.3001.0055.1418",
+      "doi_url": "https://www.doi.org/10.5604/01.3001.0055.1418",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Drogi kolejowe 2023 : materiały konferencyjne",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/publications/bec1bda4-9af3-441b-96f5-fbf098e5e678",
+      "authors": null,
+      "publication_type": "Książka , Stowarzyszenie Inżynierów i Techników Komunikacji Rzeczpospolitej Polskiej. Oddział w Krakowie",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: NUKAT"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Droga szynowa jako konstrukcja o właściwościach nieliniowych i stochastycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/22b9b49d-cc3b-444c-8453-8d898788f2b1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Dynamiczna odpowiedź wielowarstwowych układów ciągłych na ruchome obciążenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/640f82d8-26b5-4542-8cc0-5951ad4a3d5a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ocena jakości eksploatacyjnej drogi szynowej na podstawie jej diagnostyki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/a4357437-2803-49ee-b9eb-f6aede26187e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza stanu naprężeń i przemieszczeń szyn ze szczególnym uwzględnieniem efektu „head on web”",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/ec09afb5-a640-4818-a8e1-7438d54fefa2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Zastosowanie efektów synergii w optymalizacji monitoringu geometrii toru bezstykowego kształtowanego procesami eksploatacyjnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/d7b4fa1d-b386-48be-a43e-9bb0ce12e1aa",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Elektromechaniczny monitoring maszyn wirujących",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.kozio%C5%82.r4wjlECCJvM/research-work/b68af9ac-6979-47d9-8abc-396f078c592d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=263296"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

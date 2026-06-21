@@ -1,0 +1,299 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr",
+  "slug": "józef.frąś",
+  "profile_id": "YnsiXcPEmgr",
+  "full_name": "prof. dr hab. Józef Jan Frąś",
+  "orcid": "0000-0002-7263-7006",
+  "orcid_url": "https://orcid.org/0000-0002-7263-7006",
+  "breadcrumb_name": "Józef Frąś",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "ekonomika i zarządzanie przedsiębiorstwem",
+    "ekonomika produkcji",
+    "techniki wytwarzania w rolnictwie",
+    "zarządzanie jakością",
+    "zarządzanie produkcją",
+    "zarządzanie środowiskowe",
+    "zintegrowane systemy zarządzania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Logistyki w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ec350f5d-92f2-4330-8a2a-fad2afd96221",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "9 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Techniczno-Ekonomiczna w Szczecinie Aktualna nazwa: Wyższa Szkoła Techniczno-Ekonomiczna w Szczecinie w likwidacji z siedzibą w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7203d28b-7d92-455c-94ff-ee0b530db315",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "2 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Szczeciński",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ekonomicznych / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Universität Rostock • Polska",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki ekonomiczne / nauki o zarządzaniu",
+        "Nadanie stopnia",
+        "Universitat Rostock",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Wyższa Szkoła Logistyki w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec350f5d-92f2-4330-8a2a-fad2afd96221"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki rolnicze / inżynieria rolnicza",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Wyższa Szkoła Logistyki w Poznaniu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ec350f5d-92f2-4330-8a2a-fad2afd96221"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Nauk Organizacji i Zarządzania",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/gremiums/07aae42c-5e4d-47cf-9b7f-42b119162fbf",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "AI as a shield against cyberattacks - employee awareness in the EU",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/publications/d9752dae-98bc-404a-a66d-e145d1a33c75",
+      "authors": "J. Żywiołek, M. Matulewski, J. Frąś",
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2025",
+      "doi": "10.1016/j.procs.2025.10.019",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2025.10.019",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Development of Human Capital in Modern Enterprises in the Era of Changing Economy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/publications/30520f72-9ad3-4b68-bd7f-b9bbcdd1ce4d",
+      "authors": "J. Frąś , M. Bednarczyk",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": "10.29119/1641-3466.2025.219.10",
+      "doi_url": "https://www.doi.org/10.29119/1641-3466.2025.219.10",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Research on the determinants of service quality in the TSL logistics sector",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/publications/388f45e2-17c4-4c1f-bf95-314fb6bed177",
+      "authors": "J. Frąś , M. Bednarczyk",
+      "publication_type": "Artykuł , Zeszyty Naukowe Politechniki Śląskiej. Seria Organizacja i Zarządzanie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "An-wendung von Qualitäts - und Umwelt-managementsystemen in Dienstleistung-sunternehmen im ländlichen Raum auf der Grundlage polnisch - deutscher Untersuchungen",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/d8b997e6-d705-4285-a6bf-6d6427649707",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie ws. nadania stopnia doktora.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/77780544-ec0f-4195-a4ad-7454f551ee47",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Zarządzanie jakością usług na rynku pocztowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/8add4f41-b98a-43cc-809f-5646c768b200",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zarządzanie jakością w przedsiębiorstwach sektora motoryzacyjnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/63787433-2482-4498-978d-5be38ad2edba",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zarządzanie potencjałem ludzkim osób niepełnosprawnych w organizacjach (na przykładzie zakładów pracy chronionej zachodniej Polski)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/8e516df9-f37b-48dc-9b65-adeefe387a10",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Ekonomiczne uwarunkowania implementacji technologii środowiskowych w gospodarce magazynowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/5064ca7b-3591-42fb-8fb2-4361aeff3d5e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rezerwowanie pojazdów dla zapewnienia ciągłości przewozów w transporcie publicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/j%C3%B3zef.fr%C4%85%C5%9B.YnsiXcPEmgr/research-work/a88b309b-e1ad-4560-98e9-2b169cd628eb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=24850"
+    }
+  ],
+  "tag_cloud": [
+    "work safety",
+    "benchmarking",
+    "technologia w logistyce",
+    "tfl sector",
+    "management",
+    "ryzyko",
+    "managament",
+    "accidents at building sites",
+    "technology in logistics",
+    "zarządzanie"
+  ],
+  "coworkers": []
+}

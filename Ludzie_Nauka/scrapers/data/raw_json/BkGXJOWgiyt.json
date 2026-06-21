@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt",
+  "slug": "katarzyna.kamińska",
+  "profile_id": "BkGXJOWgiyt",
+  "full_name": "dr Katarzyna Hanna Kamińska",
+  "orcid": "0000-0001-5726-6967",
+  "orcid_url": "https://orcid.org/0000-0001-5726-6967",
+  "breadcrumb_name": "Katarzyna Kamińska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok 9 miesięcy",
+      "duration": null,
+      "institution": "Międzynarodowy Instytut Biologii Molekularnej i Komórkowej w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e16daa5b-e06b-4c65-8f73-a281aafeddfd",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / nauki biologiczne",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Biochemii i Biofizyki Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8f90fc81-2eaa-4d08-a7e8-633f3477839c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "FRAGMENTISE: A user‐friendly, cross‐platform tool to create and analyze comprehensive small‐molecule fragment databases",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/publications/89237743-8654-403e-bf14-edaa07a35b29",
+      "authors": "J. Żarnecka, J. Zarnecka, K. Kaminska",
+      "publication_type": "Artykuł , Journal of Computational Chemistry",
+      "year": "2023",
+      "doi": "10.1002/jcc.27183",
+      "doi_url": "https://www.doi.org/10.1002/jcc.27183",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Machine Learning Algorithms for Identifying Dependencies in OT Protocols",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/publications/959caabd-b266-49f8-b59a-004ef1682015",
+      "authors": "S. Plamowski, M. Smolarczyk [...] K. Kaminska , ... (+4)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16104056",
+      "doi_url": "https://www.doi.org/10.3390/en16104056",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Phylogenomics and sequence-structure-function relationships in the GmrSD family of Type IV restriction enzymes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.kami%C5%84ska.BkGXJOWgiyt/publications/94ecda6d-e0ff-4b74-876b-39bcdb181287",
+      "authors": "M. Machnicka, K. Kaminska , S. Dunin-Horkawicz, ... (+1)",
+      "publication_type": "Artykuł , BMC Bioinformatics",
+      "year": "2015",
+      "doi": "10.1186/s12859-015-0773-z",
+      "doi_url": "https://www.doi.org/10.1186/s12859-015-0773-z",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "machine learning",
+    "struktura wiodąca",
+    "projektowanie leków",
+    "gam",
+    "ebm",
+    "sztuczna inteligencja",
+    "modbus tcp/ip",
+    "cel molekularny",
+    "optymalizacja",
+    "xgboost"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,139 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ",
+  "slug": "krystian.ignasiak",
+  "profile_id": "0b1fwbIqkRZ",
+  "full_name": "dr Krystian Maciej Ignasiak",
+  "orcid": "0000-0001-8035-8501",
+  "orcid_url": "https://orcid.org/0000-0001-8035-8501",
+  "breadcrumb_name": "Krystian Ignasiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [],
+  "specializations": [
+    "multimedia",
+    "programowanie rozproszone",
+    "rozpoznawanie obiektów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "26 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1999",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Foundations of Multimedia Techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/publications/ceee4f10-e10c-4ce9-9307-1941671bc02c",
+      "authors": "G. Galiński, W. Skarbek, K. Ignasiak",
+      "publication_type": "Książka , Instytut Radioelektroniki i Technik Multimedialnych WEiTI PW",
+      "year": "2016",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Node.JS+ANGULARJS +HTML5 jako narzędzia rozwoju aplikacji webowych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/publications/f5a3f54a-fcde-4e98-906a-da71fe070eff",
+      "authors": "A. Buchowicz, G. Galiński, K. Ignasiak",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny- Wiadomości Telekomunikacyjne",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Porównanie kompresji M-JPEG w architekturach AZUL VEGA i OPENCL",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/publications/c003328d-32a5-49b8-b8e9-8646a6631ee3",
+      "authors": "K. Ignasiak , G. Dziarmaga",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny- Wiadomości Telekomunikacyjne",
+      "year": "2014",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie obiektów metodą Inwariantnych Punktów Referencyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.ignasiak.0b1fwbIqkRZ/research-work/7990723a-fe36-44aa-8c13-2d0d24dcff1f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=83594"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

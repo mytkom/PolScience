@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA",
+  "slug": "piotr.patronik",
+  "profile_id": "6kaqa7E86fA",
+  "full_name": "dr inż. Piotr Patronik",
+  "orcid": "0000-0002-8647-1705",
+  "orcid_url": "https://orcid.org/0000-0002-8647-1705",
+  "breadcrumb_name": "Piotr Patronik",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy cyfrowe",
+    "niezawodność systemów cyfrowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "20 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Design of reverse converters for the general RNS 3-moduli set {2k, 2n − 1, 2n + 1}",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/publications/5b80a642-1e0e-4db6-b5be-50141a6fb49d",
+      "authors": "P. Patronik , S. Piestrak",
+      "publication_type": "Artykuł , Eurasip Journal on Advances in Signal Processing",
+      "year": "2023",
+      "doi": "10.1186/s13634-023-01037-8",
+      "doi_url": "https://www.doi.org/10.1186/s13634-023-01037-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "On reverse converters for arbitrary multi-moduli RNS",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/publications/bea222b7-83c6-45a8-8cab-d071efc5789c",
+      "authors": null,
+      "publication_type": "Artykuł , Integration, the VLSI Journal",
+      "year": "2020",
+      "doi": "10.1016/j.vlsi.2020.07.003",
+      "doi_url": "https://www.doi.org/10.1016/j.vlsi.2020.07.003",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "RNS number comparator based on a modified diagonal function",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/publications/7ba2e324-ce26-4f47-9dd2-8de929c4dfe6",
+      "authors": "B. Mikhail, D. Maxim [...] P. Patronik , ... (+4)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2020",
+      "doi": "10.3390/electronics9111784",
+      "doi_url": "https://www.doi.org/10.3390/electronics9111784",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody syntezy układów realizujących funkcje symetryczne i progowe testowalnych dla uszkodzeń typu opóźnienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.patronik.6kaqa7E86fA/research-work/7d553f77-ec8b-4c2c-a1d9-c94de47a3a52",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=200772"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

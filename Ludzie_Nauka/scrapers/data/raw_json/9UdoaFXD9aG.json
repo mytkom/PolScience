@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG",
+  "slug": "jordan.podgórski",
+  "profile_id": "9UdoaFXD9aG",
+  "full_name": "dr inż. Jordan Dawid Podgórski",
+  "orcid": "0000-0002-3587-1522",
+  "orcid_url": "https://orcid.org/0000-0002-3587-1522",
+  "breadcrumb_name": "Jordan Podgórski",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka stosowana",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A modified kernel-based collocation method for interface boundary value problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/publications/04d12fdf-0540-49cb-89f4-c975fe7c20b4",
+      "authors": "A. Krowiak, J. Podgórski",
+      "publication_type": "Artykuł , Computer Methods in Applied Mechanics and Engineering",
+      "year": "2024",
+      "doi": "10.1016/j.cma.2023.116729",
+      "doi_url": "https://www.doi.org/10.1016/j.cma.2023.116729",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Material discontinuity problems solved by a meshless method based on variably scaled discontinuous radial functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/publications/dc4b6b25-3856-4a0d-a44b-babd4cd67a6e",
+      "authors": "A. Krowiak, J. Podgórski",
+      "publication_type": "Artykuł , Journal of Theoretical and Applied Mechanics",
+      "year": "2024",
+      "doi": "10.15632/jtam-pl/185323",
+      "doi_url": "https://www.doi.org/10.15632/jtam-pl/185323",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Hermite interpolation of multivariable function given at scattered points",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jordan.podg%C3%B3rski.9UdoaFXD9aG/publications/46a8e92d-3ea5-461c-976b-c7f64806df97",
+      "authors": "A. Krowiak, J. Podgórski",
+      "publication_type": "Artykuł , Technical Transactions = Czasopismo Techniczne",
+      "year": "2017",
+      "doi": "10.4467/2353737xct.17.142.6893",
+      "doi_url": "https://www.doi.org/10.4467/2353737xct.17.142.6893",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,281 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g",
+  "slug": "dorota.zyśko",
+  "profile_id": "ttLPwpaFW7g",
+  "full_name": "prof. dr hab. Dorota Zyśko",
+  "orcid": "0000-0001-9190-0052",
+  "orcid_url": "https://orcid.org/0000-0001-9190-0052",
+  "breadcrumb_name": "Dorota Zyśko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "choroby wewnętrzne",
+    "kardiologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat",
+      "duration": null,
+      "institution": "Akademia Medyczna im. Piastów Śląskich we Wrocławiu Aktualna nazwa: Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych i nauk o zdrowiu"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki medyczne / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; Wydział Lekarski Kształcenia Podyplomowego",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8879a500-9969-4662-bddf-9c6019a72586"
+        },
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1988",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "lekarski",
+        "Nadanie tytułu",
+        "Akademia Medyczna we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Medyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/gremiums/5787f5e2-6821-47bb-919f-626581022225",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Prognostic implications of orthostatic hypotension in elective coronary artery bypass grafting",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/publications/18e198fe-6fa6-4fa9-92cb-d0ff68ca4e87",
+      "authors": "D. Zyśko , M. Rachwalik, R. Sutton, ... (+2)",
+      "publication_type": "Artykuł , Medical Science Monitor",
+      "year": "2025",
+      "doi": "10.12659/msm.949182",
+      "doi_url": "https://www.doi.org/10.12659/msm.949182",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Proper QRS for EMBLEM S-ICD across Micra recipients - pilot study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/publications/3b980b0f-517f-47e3-9fcf-d95eaa227d93",
+      "authors": "B. Hrymniak, D. Jagielski [...] D. Zyśko , ... (+7)",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14051420",
+      "doi_url": "https://www.doi.org/10.3390/jcm14051420",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "GENTLE-PACE - A multicenter, randomized, double-blinded research study comparinG the Efficacy and safety of cardioNeuroablaTion vs. permanent pacing in patients with an implantabLE PACEmaker for symptomatic bradycardia.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/publications/2095ab6d-c399-4e07-924f-5ae2ce69960c",
+      "authors": "P. Skoczyński, P. Skoczyński [...] D. Zyśko , ... (+24)",
+      "publication_type": "Artykuł , Cardiology Journal",
+      "year": "2024",
+      "doi": "10.5603/cj.100718",
+      "doi_url": "https://www.doi.org/10.5603/cj.100718",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Aktywacja układu autonomicznego w czasie reakcji neurokardiogennej u pacjentów z omdleniami wazowagalnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/fb4baa85-ce66-414d-be71-066739253430",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania nad udziałem neuropeptydu Y w etiopatogenezie pierwotnego nadciśnienia tętniczego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/260d6463-b818-4281-accf-b762e9ade452",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Charakterystyka pacjentów w podeszłym wieku z zaburzeniami kontaktu w Szpitalnym Oddziale Ratunkowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/192f58e2-bc68-4f00-b6d3-db9f2ef7ac2d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Charakterystyka demograficzna i kliniczna pacjentów z migotaniemprzedsionków leczonych w Szpitalnym Oddziale Ratunkowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/b497590a-34f4-4ac0-9ab7-611e29ae1c51",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Związek między percepcją objawów arytmii a zaburzeniami psychicznymi, strukturą osobowości i inteligencją emocjonalną u pacjentów poradni kardiologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/f577090d-7ece-427b-9a47-f9f7d2c41830",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "ANALIZA PRZYDATNOŚCI DIAGNOSTYCZNEJ I PREDYKCYJNEJ WYBRANYCH BIOMARKERÓW W ODNIESIENIU DO PACJENTÓW Z OSTRYMI ZESPOŁAMI WIEŃCOWYMI",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/7a7ffc89-16f4-4430-912a-5da19d002a73",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Środowiskowe i behawioralne uwarunkowania zdrowia sercowo-naczyniowego a stężenie renalazy we krwi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/975d356d-188e-4ead-8f81-e1f4a5bcbcf3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Farmakoterapia skojarzona w nadciśnieniu tętniczym stosowana przez Zespoły Ratownictwa Medycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dorota.zy%C5%9Bko.ttLPwpaFW7g/research-work/29b8ce01-c9a0-492e-9241-4cb31c2dafda",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=92622"
+    }
+  ],
+  "tag_cloud": [
+    "pandemic",
+    "ecg",
+    "personalized approach",
+    "st-segment depression",
+    "atrial fibrillation",
+    "emergency department",
+    "cardiac electrophysiology",
+    "silesian horses",
+    "patient decision in focus",
+    "zatrzymanie serca"
+  ],
+  "coworkers": []
+}

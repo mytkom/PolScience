@@ -1,0 +1,242 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq",
+  "slug": "paweł.czarnul",
+  "profile_id": "JpJwNGvjddq",
+  "full_name": "dr hab. inż. Paweł Czarnul",
+  "orcid": "0000-0002-4918-9196",
+  "orcid_url": "https://orcid.org/0000-0002-4918-9196",
+  "breadcrumb_name": "Paweł Czarnul",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy równoległe i rozproszone"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "23 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/gremiums/4859c469-7ce8-4ba4-8ac5-3d895ff9e444",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Library and Environment for Parallel Processing in a Power-Limited CPU+GPU Cluster Environment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/publications/ea924594-d776-41f9-a3c7-d840a91abee8",
+      "authors": "P. Czarnul , P. Sieński, S. Leśniewski, ... (+4)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3621020",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3621020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparison and analysis of software and hardware energy measurement methods for a CPU+GPU system and selected parallel applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/publications/d8a3960d-763e-4e4d-a99c-e0dd40389d0b",
+      "authors": "G. Koszczał, M. Matuszek, P. Czarnul",
+      "publication_type": "Artykuł , Computer Science and Information Systems",
+      "year": "2025",
+      "doi": "10.2298/csis240722023k",
+      "doi_url": "https://www.doi.org/10.2298/csis240722023k",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Investigation of CUDA Graphs Performance for Selected Parallel Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/publications/09b8a685-07ff-4417-839c-903d2511db4d",
+      "authors": "O. Diakun, P. Czarnul",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-97635-3_16",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-97635-3_16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Integracja usług oraz optymalizacja wykonania złożonych scenariuszy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/856eedf6-3e49-42f7-b18e-42a00cfdeb2d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Dynamic Load Balancing with Data Partitioning for Efficient Parallel Computing",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/5cde2a49-64c7-41a9-a37d-9c045157da0d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja wykonania hybrydowych aplikacji równoległych w heterogenicznych systemach obliczeniowych wysokiej wydajności z uwzględnieniem czasu wykonania i poboru mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/af312f0b-de09-4b4b-990b-7a12ca2cb3ee",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Modele współbieżności dla klasycznej i izogeometrycznej metody elementów skończonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/8cd41bb9-dc79-47ee-87b7-a1c8b403ab65",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Automating software development for distributed control systems with the OPC UA standard",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/01ed0dcf-15cd-45a6-b8e7-b02e1aa09743",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Transparentny dostęp do danych w sfederalizowanych infrastrukturach obliczeniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.czarnul.JpJwNGvjddq/research-work/2b2c2d25-d7a9-4395-b226-1498e78b1568",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=115457"
+    }
+  ],
+  "tag_cloud": [
+    "thread affinity",
+    "accuracy",
+    "system predykcyjny cen",
+    "power capping",
+    "parallel programming",
+    "high performance computing",
+    "przetwarzanie wysokiej wydajności",
+    "sektor turystyczny",
+    "energy-aware computing",
+    "walidacja algorytmów"
+  ],
+  "coworkers": []
+}

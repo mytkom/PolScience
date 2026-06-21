@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS",
+  "slug": "konrad.gruber",
+  "profile_id": "hvMzKWzmCzS",
+  "full_name": "dr inż. Konrad Mateusz Gruber",
+  "orcid": "0000-0003-1357-2473",
+  "orcid_url": "https://orcid.org/0000-0003-1357-2473",
+  "breadcrumb_name": "Konrad Gruber",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologie przyrostowe",
+    "techniki wytwarzania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Diffuse reflectance spectroscopy for the qualification of powder blends for additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/publications/7da6392e-7da3-4977-b6b5-ee7f56ec47ab",
+      "authors": "K. Gruber , I. Smolina, L. Ahmad, ... (+1)",
+      "publication_type": "Artykuł , Powder Technology",
+      "year": "2025",
+      "doi": "10.1016/j.powtec.2025.120652",
+      "doi_url": "https://www.doi.org/10.1016/j.powtec.2025.120652",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Nanoalloyed Al5254 alloy manufactured by powder bed fusion–laser beam: microstructure and mechanical properties analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/publications/ecc544b3-1a14-47c4-be64-022add54db19",
+      "authors": "W. Stopyra, I. Smolina [...] K. Gruber , ... (+4)",
+      "publication_type": "Artykuł , Progress in Additive Manufacturing",
+      "year": "2025",
+      "doi": "10.1007/s40964-024-00940-2",
+      "doi_url": "https://www.doi.org/10.1007/s40964-024-00940-2",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Static and fatigue properties of rhenium-alloyed Inconel 718 produced by powder bed fusion additive manufacturing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/publications/42f5705d-b190-4799-bf94-be298617f084",
+      "authors": "M. Frankiewicz, M. Karoluk [...] K. Gruber , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18030692",
+      "doi_url": "https://www.doi.org/10.3390/ma18030692",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Określenie czynników technologicznych i własności stopu Inconel 718 w aspekcie przyrostowego wytwarzania cienkościennych części silników lotniczych metodą laserowej mikrometalurgii proszków (LPBF)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.gruber.hvMzKWzmCzS/research-work/8116e565-ae99-4d7a-b17b-990020e605b4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?view_op=list_works&hl=pl&user=LMwitH8AAAAJ"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Konrad-Gruber"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=56673773200"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/AAL-9007-2021"
+    }
+  ],
+  "tag_cloud": [
+    "selektywne topienie laserowe pbf-lb/m",
+    "laser powder bed fusion",
+    "slm",
+    "additive manufacturing",
+    "inconel 718",
+    "technologie przyrostowe",
+    "wytwarzanie przyrostowe",
+    "tribocorrosion",
+    "stopy niklu",
+    "mikrostruktura"
+  ],
+  "coworkers": []
+}

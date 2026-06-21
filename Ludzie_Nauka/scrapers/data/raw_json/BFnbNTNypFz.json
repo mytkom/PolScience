@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz",
+  "slug": "piotr.bartkowski",
+  "profile_id": "BFnbNTNypFz",
+  "full_name": "dr hab. inż. Piotr Bartkowski",
+  "orcid": "0000-0002-1460-8389",
+  "orcid_url": "https://orcid.org/0000-0002-1460-8389",
+  "breadcrumb_name": "Piotr Bartkowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria mechaniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 miesiące",
+      "duration": null,
+      "institution": "Instytut Lotnictwa Aktualna nazwa: Sieć Badawcza Łukasiewicz - Instytut Lotnictwa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/51edc81e-fdc2-4fa8-8dee-6e2b9177c1af",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Samochodów i Maszyn Roboczych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e74805aa-4122-4ac6-97ea-9ba3f8d014bb"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2015",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "samochody i maszyny robocze",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/publications/2021c394-bd40-4ff5-a86e-7732a117d3c7",
+      "authors": "P. Bartkowski , Ł. Pawliszak, M. Ciemiorek-Bartkowska, ... (+3)",
+      "publication_type": "Artykuł , Soft Robotics",
+      "year": "2025",
+      "doi": "10.1089/soro.2024.0098",
+      "doi_url": "https://www.doi.org/10.1089/soro.2024.0098",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Granular jamming for soft robotics: experiments and modelling of cyclic loading",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/publications/3985d4d1-5d63-4835-88fc-2fa97b605447",
+      "authors": "P. Bartkowski , M. Ciemiorek-Bartkowska, R. Zalewski, ... (+2)",
+      "publication_type": "Artykuł , Archives of Civil and Mechanical Engineering",
+      "year": "2025",
+      "doi": "10.1007/s43452-025-01176-9",
+      "doi_url": "https://www.doi.org/10.1007/s43452-025-01176-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multiphysics Simulation and Concept of an Electromagnetically Control Volumetric Pixel as a Step Towards a Shape Morphing Composite",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/publications/4e39c2a5-8680-4391-b346-3109125ee89e",
+      "authors": "P. Bartkowski , Ł. Pawliszak, D. Brigido, ... (+4)",
+      "publication_type": "Artykuł , Acta Mechanica et Automatica",
+      "year": "2024",
+      "doi": "10.2478/ama-2024-0071",
+      "doi_url": "https://www.doi.org/10.2478/ama-2024-0071",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/research-work/dcacb511-e158-45d5-a7ca-4a6c159df921",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania empiryczne i modelowanie dyssypatorów energii wykorzystujących pakowane próżniowo granulaty",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.bartkowski.BFnbNTNypFz/research-work/84722b99-402d-4a89-b1f9-98b02f8b87a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=303786"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ",
+  "slug": "jacek.michalczyk",
+  "profile_id": "4NB4mDBvIJJ",
+  "full_name": "dr inż. Jacek Michalczyk",
+  "orcid": "0000-0003-3192-3783",
+  "orcid_url": "https://orcid.org/0000-0003-3192-3783",
+  "breadcrumb_name": "Jacek Michalczyk",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przeróbka plastyczna",
+    "przeróbka plastyczna metali"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / metalurgia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mandrel-Free Bending of Tubes with Small Radii – A Theoretical and Experimental Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/publications/e1f809f3-1252-486f-854d-406537753224",
+      "authors": "J. Michalczyk , A. Gontarz, G. Winiarski, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2023",
+      "doi": "10.12913/22998624/169883",
+      "doi_url": "https://www.doi.org/10.12913/22998624/169883",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Mandrel-Free Pipe Bending on Small Radii – Theoretical Research and Experimental Tests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/publications/886b22e6-e8e5-4cbd-9315-d966f2207519",
+      "authors": "J. Michalczyk , A. Gontarz, S. Wiewiórowska, ... (+1)",
+      "publication_type": "Artykuł , Advances in Science and Technology Research Journal",
+      "year": "2023",
+      "doi": "10.12913/22998624/169883",
+      "doi_url": "https://www.doi.org/10.12913/22998624/169883",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Research the Dimensional Accuracy of C45 Steel Ring Forgings Produced by Radial Rolling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/publications/c3883a27-2cab-43cb-b998-d46e0e1b2c63",
+      "authors": "A. Gontarz, P. Surdacki, J. Michalczyk",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma17010003",
+      "doi_url": "https://www.doi.org/10.3390/ma17010003",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Teoretyczna i doświadczalna analiza nowych sposobów wyciskania tulei głębokich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/research-work/2300c5e3-1031-48e1-bfc9-f62bddf6f0ed",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Teoretyczna i doświadczalna analiza nowych sposobów wyciskania tulei głębokich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.michalczyk.4NB4mDBvIJJ/research-work/3397d5b5-2449-4fae-8405-18c46451ad90",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=212773"
+    }
+  ],
+  "tag_cloud": [
+    "mandrel-free bending",
+    "hammer",
+    "forging gears",
+    "wires",
+    "drawing process",
+    "trip steel",
+    "koła zębate",
+    "tuleja z kołnierzem",
+    "screw press",
+    "flanged forging"
+  ],
+  "coworkers": []
+}

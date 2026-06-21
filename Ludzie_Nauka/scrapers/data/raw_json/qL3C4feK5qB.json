@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB",
+  "slug": "dawid.kucharski",
+  "profile_id": "qL3C4feK5qB",
+  "full_name": "dr inż. Dawid Kucharski",
+  "orcid": "0000-0002-9880-9670",
+  "orcid_url": "https://orcid.org/0000-0002-9880-9670",
+  "breadcrumb_name": "Dawid Kucharski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metrologia techniczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Inżynierii Powierzchni",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/gremiums/5421c6d0-bbb3-48ac-af23-91934b0e819c",
+      "period": "2023-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multi-task deep learning for surface metrology",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/publications/fc8968d9-eb89-40ab-a204-8d76a6efc445",
+      "authors": "D. Kucharski , A. Gąska, T. Kowaluk, ... (+10)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25247471",
+      "doi_url": "https://www.doi.org/10.3390/s25247471",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Radial image processing for phase extraction in rough-surface interferometry",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/publications/e57d36e9-57b3-43b0-acdd-8e73dc6f3d02",
+      "authors": "D. Kucharski , M. Wieczorowski",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.117102",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.117102",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Machine Learning-Based Selection of Measurement Technique for Surface Metrology: A pilot study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/publications/a74d3bef-a386-4a76-aff3-1fada069e585",
+      "authors": "D. Kucharski , B. Gapiński, M. Wieczorowski, ... (+9)",
+      "publication_type": "Artykuł , Metrologia i Probiernictwo",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Układ do interferometrycznego, bezstykowego pomiaru odchyłki kształtu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dawid.kucharski.qL3C4feK5qB/research-work/3dda7481-fdd2-4a09-9dc3-adf82e8b14d7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=232370"
+    }
+  ],
+  "tag_cloud": [
+    "red blood cells",
+    "repeatability",
+    "powierzchnia elektromagnetyczna",
+    "sieci neuronowe",
+    "metrologia powierzchni",
+    "optical metrology",
+    "sztuczna inteligencja",
+    "surface metrology",
+    "r programming",
+    "mesoscale"
+  ],
+  "coworkers": []
+}

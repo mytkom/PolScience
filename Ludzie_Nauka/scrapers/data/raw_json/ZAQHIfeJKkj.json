@@ -1,0 +1,177 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj",
+  "slug": "zbigniew.seta",
+  "profile_id": "ZAQHIfeJKkj",
+  "full_name": "dr inż. Zbigniew Jan Seta",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Zbigniew Seta",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "algorytmy",
+    "automatyka układów napędowych",
+    "metody numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/publications",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "9 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu Aktualna nazwa: Uniwersytet Radomski im. Kazimierza Pułaskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/282be714-cb82-4078-850e-810d7003cb31",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "15 lat",
+      "duration": null,
+      "institution": "Politechnika Radomska im. Kazimierza Pułaskiego Aktualna nazwa: Uniwersytet Radomski im. Kazimierza Pułaskiego",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/282be714-cb82-4078-850e-810d7003cb31",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Radomska Szkoła Wyższa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/103e7288-585f-468d-9fb9-567e0321d382",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1995",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska w Radomiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "sterowanie ruchem w transporcie",
+        "Nadanie tytułu",
+        "Wyższa Szkoła Inżynierska w Radomiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Optymalizacja cyfrowego sterowania układem nastawczym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/zbigniew.seta.ZAQHIfeJKkj/research-work/0a4659ea-499c-4827-882f-9767dc2aab5b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=107577"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

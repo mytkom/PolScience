@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma",
+  "slug": "dominik.rodak",
+  "profile_id": "92R3heUo2Ma",
+  "full_name": "mgr inż. Dominik Maksymilian Rodak",
+  "orcid": "0000-0002-5998-8557",
+  "orcid_url": "https://orcid.org/0000-0002-5998-8557",
+  "breadcrumb_name": "Dominik Rodak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Damping properties of innovative torsion damper",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/publications/d37e3bb4-1009-4689-8fe2-037ba322fe9f",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Modelling and identification of hysteresis of Vacuum Packed Particles Torsional Damper",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/publications/97132a34-4c36-4b12-ae50-11f6ff58123b",
+      "authors": "D. Rodak , M. Żurawski, M. Pyrz, ... (+1)",
+      "publication_type": "Artykuł , Journal of Sound and Vibration",
+      "year": "2025",
+      "doi": "10.1016/j.jsv.2025.119203",
+      "doi_url": "https://www.doi.org/10.1016/j.jsv.2025.119203",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Experiments and Modeling of Three-Dimensionally Printed Sandwich Composite Based on ULTEM 9085",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominik.rodak.92R3heUo2Ma/publications/d7d495b7-ca80-405f-b526-dcb679fa94de",
+      "authors": "R. Nowak, D. Rodak , P. Rumianek, ... (+5)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2024",
+      "doi": "10.3390/ma17215341",
+      "doi_url": "https://www.doi.org/10.3390/ma17215341",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

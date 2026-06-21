@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk",
+  "slug": "anna.gaweł",
+  "profile_id": "i325bXb8NQk",
+  "full_name": "dr inż. Anna Magdalena Gaweł",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Anna Gaweł",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria materiałowa",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Ecological composite materials based on polylactide (PLA) and organic fillers: coffee grounds and hen eggshells produced by the FDM method: mechanical, thermal properties, stress relaxation and creep",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/publications/70ac73d2-97a9-445c-bf0d-f440c67e70bb",
+      "authors": "A. Gaweł , K. Setlak, D. Szubartowski, ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18214918",
+      "doi_url": "https://www.doi.org/10.3390/ma18214918",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Polyhydroxyalkanoate (PHA) enriched with diatomaceous earth as a sustainable ecological composite material with the possibility of machining",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/publications/709e3aa7-d6cd-456f-9148-2ecd99eee22c",
+      "authors": "A. Gaweł , A. Matras",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18245571",
+      "doi_url": "https://www.doi.org/10.3390/ma18245571",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Additive and subtractive manufacturing of Inconel 718 components – estimation of time, costs and carbon dioxide emission – case study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/publications/b4464c0c-bf85-4e52-a6bc-945dc1b04b68",
+      "authors": "W. Zębala, A. Gaweł",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2024",
+      "doi": "10.12913/22998624/176824",
+      "doi_url": "https://www.doi.org/10.12913/22998624/176824",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "ANALIZA MECHANIZMÓW PEŁZANIA I ZMĘCZENIA POLIMERÓW I KOMPOZYTÓW BIODEGRADOWALNYCH WYTWARZANYCH METODAMI ADDYTYWNYMI",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/anna.gawe%C5%82.i325bXb8NQk/research-work/2dade7fc-c3d4-4d87-ab6f-da839e1a9dc5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

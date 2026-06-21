@@ -1,0 +1,183 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO",
+  "slug": "krzysztof.gołofit",
+  "profile_id": "RuspIf6YbxO",
+  "full_name": "dr inż. Krzysztof Gołofit",
+  "orcid": "0000-0001-8558-820X",
+  "orcid_url": "https://orcid.org/0000-0001-8558-820X",
+  "breadcrumb_name": "Krzysztof Gołofit",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "POLITECHNIKA WARSZAWSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Thin Elastic NFC Forum Type 1 Compatible RFID Tag",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/publications/3e7eb195-ee64-4657-8f9f-0421d56fc951",
+      "authors": "P. Wieczorek, K. Gołofit , M. Radtke, ... (+3)",
+      "publication_type": "Artykuł , IEEE Journal of Solid-State Circuits",
+      "year": "2024",
+      "doi": "10.1109/jssc.2023.3300256",
+      "doi_url": "https://www.doi.org/10.1109/jssc.2023.3300256",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Security primitives for memoryless IoT devices based on Physical Unclonable Functions and True Random Number Generators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/publications/244f7d62-a6a3-413e-a80c-30ac727353fd",
+      "authors": null,
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-75373-6",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-75373-6",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Tiny Flexible Differential Tension Sensor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/publications/054181a3-5f4f-4eca-993a-a6cb4e991065",
+      "authors": "P. Wieczorek, K. Gołofit , M. Radtke, ... (+3)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23041819",
+      "doi_url": "https://www.doi.org/10.3390/s23041819",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Diﬀerential Current-Signal Logic and its application to cryptographic devices (tytuł pracy badawczej tylko w języku angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.go%C5%82ofit.RuspIf6YbxO/research-work/a6aaee80-4f4b-4226-babe-33178f316cee",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=256842"
+    }
+  ],
+  "tag_cloud": [
+    "metal-oxide thin-film transistor",
+    "near-field communication (nfc)",
+    "indium-gallium-zinc oxide",
+    "flexible electronics",
+    "ingazno (igzo)",
+    "small signal gain",
+    "metastability",
+    "chaotic circuit",
+    "a-igzo",
+    "iot"
+  ],
+  "coworkers": []
+}

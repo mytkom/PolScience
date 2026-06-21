@@ -1,0 +1,322 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC",
+  "slug": "joanicjusz.nazarko",
+  "profile_id": "oravO0Y0lIC",
+  "full_name": "prof. dr hab. inż. Joanicjusz Nazarko",
+  "orcid": "0000-0002-0236-2334",
+  "orcid_url": "https://orcid.org/0000-0002-0236-2334",
+  "breadcrumb_name": "Joanicjusz Nazarko",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "informatyka gospodarcza",
+    "systemy informatyczne w zarządzaniu",
+    "prognozowanie i symulacje",
+    "Foresight",
+    "benchmarking",
+    "inżynieria produkcji",
+    "elektroenergetyka"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "44 lat",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wschodnioeuropejska Akademia Nauk Stosowanych w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a1e65d4f-b897-426b-9e0f-51b5d3c6d629",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet w Siedlcach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dacccb40-e3e3-4113-a28e-54c4a59d550e",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk ekonomicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1992",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1983",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "POLITECHNIKA W-WSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Inżynierii Produkcji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/gremiums/0c18aad4-ba6f-4ae8-b365-097cff5b9843",
+      "period": "2011-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Inżynierii Produkcji",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/gremiums/a5f92021-9b05-4d9a-8cb5-6f3c6abb2c4f",
+      "period": "2007-2010",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Efficiency of Renewable Energy Potential Utilization in European Union: Towards Responsible Net-Zero Policy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/publications/fcce0606-13a0-4a7b-af6b-5ccf7cc4265f",
+      "authors": "E. Chodakowska, J. Nazarko , Ł. Nazarko",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18051175",
+      "doi_url": "https://www.doi.org/10.3390/en18051175",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Method of Quality Control of Nuclear Reactor Element Tightness to Improve Environmental Safety",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/publications/a2574f0c-937a-4080-aeb7-40bbb5c7474c",
+      "authors": "J. Nazarko , E. Khomiak, R. Trishch, ... (+3)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18092172",
+      "doi_url": "https://www.doi.org/10.3390/en18092172",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Metoda teorii ugruntowanej w praktyce badawczej: studia przypadków",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/publications/eba5a69a-d7dc-4d42-9b52-a0137c28a74e",
+      "authors": null,
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": "10.24427/978-83-68077-91-9",
+      "doi_url": "https://www.doi.org/10.24427/978-83-68077-91-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Estymacja stanów pracy elektroenergetycznych sieci rozdzielczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/028ca102-903a-4a76-8330-023de318cf12",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Foresight w kreowaniu inteligentnych miast",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/e96e6bb0-9d8b-406d-96e9-b8b37dac54b7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Konstrukty oceny wydajności adaptacyjnego łańcucha dostaw",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/89743ac1-0759-4a3b-8a2a-e75128575896",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Mapowanie technologii w badaniach foresightowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/14c539ce-6827-498a-9c43-5779ab113b18",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Polityka surowców krytycznych jako polityka publiczna - uwarunkowania międzynarodowe i europejskie a rozwiązania polskie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/b9b19231-1408-41ae-ad62-880c8964e187",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/bd24807b-0343-4e7f-825b-67bd72e125df",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanicjusz.nazarko.oravO0Y0lIC/research-work/2f39aee8-0215-4b74-b93f-5ae5a6aed2b0",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=20601"
+    }
+  ],
+  "tag_cloud": [
+    "adaptation",
+    "education",
+    "data envelopment analysis (dea)",
+    "forecasting",
+    "power distribution network",
+    "sieć elektroenergetyczna rozdzielcza",
+    "confirmatory factor analysis (cfa)",
+    "podlaskie voivodeship",
+    "poland",
+    "innowacje"
+  ],
+  "coworkers": []
+}

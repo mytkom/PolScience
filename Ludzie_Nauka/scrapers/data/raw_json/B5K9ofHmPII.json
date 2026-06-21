@@ -1,0 +1,282 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII",
+  "slug": "jolanta.chluska",
+  "profile_id": "B5K9ofHmPII",
+  "full_name": "prof. dr hab. Jolanta Chluska",
+  "orcid": "0000-0001-5169-7109",
+  "orcid_url": "https://orcid.org/0000-0001-5169-7109",
+  "breadcrumb_name": "Jolanta Chluska",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "rachunkowość finansowa",
+    "rachunkowość zarządcza",
+    "zarządzanie kosztami"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "29 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Ekonomiczny w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d5afbb30-c241-4c4a-b4c0-ac5660e3d385",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk społecznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki ekonomiczne / ekonomia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Ekonomiczny w Poznaniu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d5afbb30-c241-4c4a-b4c0-ac5660e3d385"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2001",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki ekonomiczne / nauki ekonomiczne",
+        "Nadanie stopnia",
+        "Akademia Ekonomiczna w Poznaniu, Wydział Zarządzania",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1985",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ekonomia",
+        "Nadanie tytułu",
+        "Akademia Ekonomiczna im. karola Adamieckiego w Katowicach Wydział Przemysłu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki o Zarządzaniu i Jakości",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/gremiums/0308aa26-f600-4e39-9f51-06368d719477",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "The Role of Doctors During Apprenticeships and Medical Residents in Knowledge Transfer in Teaching Hospitals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/publications/62643c88-6b9c-44b0-87ba-83cda85b4e7e",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.34190/eckm.26.1.3634",
+      "doi_url": "https://www.doi.org/10.34190/eckm.26.1.3634",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Współczesne oblicze rachunkowości jednostek sektora finansów publicznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/publications/f2d808ae-8575-4d5a-a8a6-484240aa2a20",
+      "authors": "D. Adamek-Hyska, J. Chluska , E. Hellich, ... (+1)",
+      "publication_type": "Książka , Uniwersytet Ekonomiczny w Katowicach",
+      "year": "2025",
+      "doi": "10.22367/uekat.9788378759447",
+      "doi_url": "https://www.doi.org/10.22367/uekat.9788378759447",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Determinants and Strategies of Knowledge Transfer in Teaching Hospitals",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/publications/9e90ae86-6e39-4789-b03d-f917b86ecf1f",
+      "authors": null,
+      "publication_type": "Artykuł , European Conference on Knowledge Management",
+      "year": "2024",
+      "doi": "10.34190/eckm.25.1.2472",
+      "doi_url": "https://www.doi.org/10.34190/eckm.25.1.2472",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Model rachunku kosztów standardowych świadczeń zdrowotnych szpitala",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/46757251-9079-4015-8142-2a7cbed05291",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Rezerwy w polityce bilansowej firmy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/25c1ec97-feb3-48f1-8a7e-154972e1e12a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Finansowanie działalności naukowo-dydaktycznej w procesie zarządzania uczelniami publicznymi w województwie śląskim",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/d60f9a2d-d88e-480d-bc14-279a7ba608b4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Instrumenty zarządzania strategicznego w działalności kredytowej banków spółdzielczych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/f5df0886-c372-41aa-846c-0003b43d14d6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Zarządzanie projektami unijnymi w strategiach rozwoju uczelni technicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/1d0ef3ed-342b-4c72-b0b6-361cdfb989c9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Determinanty szczegółowości ujawnień informacji w sprawozdawczości spółek giełdowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/6ee484d7-6cb4-47ee-9243-ccfdea80f158",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Innowacyjne modele biznesu w branży hotelarskiej na przykładzie hoteli medical spa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/725e3093-08d1-487e-b713-6a2aaa1c6ac3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Koncepcja sprawozdawczości zintegrowanej mikro i małych przedsiębiorstw",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.chluska.B5K9ofHmPII/research-work/82c60777-a52a-4395-8997-2df14fe57c38",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=100871"
+    }
+  ],
+  "tag_cloud": [
+    "patient treatment costs",
+    "knowledge workers in hospitals",
+    "hospital costs",
+    "polityka rachunkowości",
+    "accounting policy",
+    "intellectual potential of hospital employees",
+    "hospital management",
+    "accounting",
+    "public sector",
+    "salaries of physicians"
+  ],
+  "coworkers": []
+}

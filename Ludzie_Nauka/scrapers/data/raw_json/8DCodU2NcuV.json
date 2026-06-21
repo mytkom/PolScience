@@ -1,0 +1,202 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV",
+  "slug": "rafał.biedrzycki",
+  "profile_id": "8DCodU2NcuV",
+  "full_name": "dr hab. inż. Rafał Biedrzycki",
+  "orcid": "0000-0001-6730-4269",
+  "orcid_url": "https://orcid.org/0000-0001-6730-4269",
+  "breadcrumb_name": "Rafał Biedrzycki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "bioinformatyka",
+    "uczenie się maszyn",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "16 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis and Simplification of the Winner of the CEC 2022 Optimization Competition on Single Objective Bound Constrained Search",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/publications/317ec69f-1a9d-4b98-870e-f953d46d3f33",
+      "authors": null,
+      "publication_type": "Artykuł , Evolutionary Computation",
+      "year": "2025",
+      "doi": "10.1162/evco.a.27",
+      "doi_url": "https://www.doi.org/10.1162/evco.a.27",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Covariance Matrix Adaptation Evolution Strategy without a matrix",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/publications/96e969aa-079e-4702-8343-6ae234c73eb4",
+      "authors": "J. Arabas, A. Stelmaszczyk [...] R. Biedrzycki , ... (+2)",
+      "publication_type": "Artykuł , Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726583",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726583",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Revisiting CEC 2022 ranking: a new ranking method and influence of parameter tuning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/publications/9970f01b-4c19-44ee-b8b2-69f902f81bbf",
+      "authors": null,
+      "publication_type": "Artykuł , Swarm and Evolutionary Computation",
+      "year": "2024",
+      "doi": "10.1016/j.swevo.2024.101623",
+      "doi_url": "https://www.doi.org/10.1016/j.swevo.2024.101623",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza, rozwój i zastosowania wybranych algorytmów z rodziny algorytmów ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/research-work/b7121fe6-2cc8-4b49-9210-626a67a8c29f",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Konstruktywna indukcja w zadaniu klasyfikacji sekwencji DNA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/rafa%C5%82.biedrzycki.8DCodU2NcuV/research-work/8967a203-5502-498d-977c-e17633604da6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=222441"
+    }
+  ],
+  "tag_cloud": [
+    "resampling",
+    "user interface",
+    "hybridization",
+    "forecasting",
+    "differential evolution",
+    "modeling",
+    "logistics",
+    "evolutionary algorithm",
+    "cec 2022",
+    "dynamic graphic layout"
+  ],
+  "coworkers": []
+}

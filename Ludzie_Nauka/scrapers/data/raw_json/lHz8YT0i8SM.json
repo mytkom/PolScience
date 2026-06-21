@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM",
+  "slug": "magdalena.musielak",
+  "profile_id": "lHz8YT0i8SM",
+  "full_name": "dr Magdalena Musielak",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Magdalena Musielak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2007",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk matematycznych / matematyka",
+        "Nadanie stopnia",
+        "Tulane University",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Gdański",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "From Coefficients to 3D Planes: A VR Mathematics Module for Teaching Systems of Linear Equations with 3D Interaction",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/publications/1d1501bb-2f9c-447a-bf9a-3df7f2892c74",
+      "authors": "A. Dąbrowicz-Tlałka, M. Musielak , K. Kujawska, ... (+6)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.5220/0000190000003932",
+      "doi_url": "https://www.doi.org/10.5220/0000190000003932",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wykorzystanie przez studentów studiów I stopnia aplikacji do obliczeń oraz portali społecznościowych na przedmiotach matematycznych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/publications/04f1b00e-e2f7-4a47-8080-f0790cfece89",
+      "authors": "A. Dąbrowicz-Tlałka, M. Musielak",
+      "publication_type": "Artykuł , Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej",
+      "year": "2024",
+      "doi": "10.32016/1.76.16",
+      "doi_url": "https://www.doi.org/10.32016/1.76.16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Exploring AI Chatbots for Learning Mathematics: Students’ Perspectives on Accuracy and Educational Value",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.musielak.lHz8YT0i8SM/publications/52ccfd0c-b565-418a-b6e9-fdcb0c2cad1f",
+      "authors": "J. Stańdo, A. Dąbrowicz-Tlałka [...] M. Musielak , ... (+3)",
+      "publication_type": null,
+      "year": null,
+      "doi": "10.1007/978-3-031-99264-3_35",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-99264-3_35",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs",
+  "slug": "jan.mulawka",
+  "profile_id": "o2HOaKdLxOs",
+  "full_name": "prof. dr hab. inż. Jan Jerzy Mulawka",
+  "orcid": "0000-0001-8869-290X",
+  "orcid_url": "https://orcid.org/0000-0001-8869-290X",
+  "breadcrumb_name": "Jan Mulawka",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria komputerowa",
+    "informatyka medyczna",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1995",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych/informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1985",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1971",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Patient-Tailored Dementia Diagnosis with CNN-Based Brain MRI Classification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/publications/8c3407d8-2bcc-4fff-80d1-f0064ca3ca99",
+      "authors": "Z. Knapińska, J. Mulawka",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15094652",
+      "doi_url": "https://www.doi.org/10.3390/app15094652",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of Artificial Intelligence in Support of NAFLD Diagnosis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/publications/164142f4-d279-41fa-9d23-11977672ba4b",
+      "authors": "J. Mulawka , J. Płudowski",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app142210237",
+      "doi_url": "https://www.doi.org/10.3390/app142210237",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Diagnosis and Proposed Treatment for COVID-19 Patients Based on Deep Learning Analysis of Computed Tomography Images",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/publications/77362c27-0f7d-4087-a5c2-2a47ae8bfba8",
+      "authors": "J. Mulawka , Z. Knapińska, M. Kierzkiewicz",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/app13137565",
+      "doi_url": "https://www.doi.org/10.3390/app13137565",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metody konstruktywnej indukcji w eksploracji danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/349b9585-bdf9-46ed-a44a-5632ca4657a5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zagadnienia budowy urządzeń obliczeniowych przy użyciu cząsteczek DNA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/3c34d2b0-c0b4-461c-a56b-ecce46a3360f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rozwój koncepcji i algorytmów dla samodoskonalących się systemów ewolucyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/a9f739e9-b0a4-4382-99d3-0a93d5da68d5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Implementacja systemu wnioskującego za pomocą DNA",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/79a41cd4-1600-4908-adc7-9c47dfe661a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Projektowanie eksperymentów i analiza danych genomowych w technologii mikromacierzy CGH",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/b204f166-b5c0-4b41-afdc-fd401dc1b39f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Sztuczne sieci neuronowe w zadaniach klasyfikacji w eksperymentach fizyki wysokich energii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.mulawka.o2HOaKdLxOs/research-work/dedbda34-0d21-4094-be13-e19db4fdef0e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=22363"
+    }
+  ],
+  "tag_cloud": [
+    "sztuczna inteligencja",
+    "infant",
+    "bruton’s disease",
+    "expert system",
+    "artificial intelligence",
+    "deep learning",
+    "expert systems",
+    "clips",
+    "image analysis",
+    "biologia molekularna"
+  ],
+  "coworkers": []
+}

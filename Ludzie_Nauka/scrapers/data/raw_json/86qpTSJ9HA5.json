@@ -1,0 +1,213 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5",
+  "slug": "grzegorz.bogdan",
+  "profile_id": "86qpTSJ9HA5",
+  "full_name": "dr inż. Grzegorz Bogdan",
+  "orcid": "0000-0002-9795-8439",
+  "orcid_url": "https://orcid.org/0000-0002-9795-8439",
+  "breadcrumb_name": "Grzegorz Bogdan",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "anteny i propagacja fal",
+    "radiokomunikacja",
+    "systemy komunikacji bezprzewodowej"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "1 rok 1 miesiąc",
+      "duration": null,
+      "institution": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika, informatyka i telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektronika, informatyka i telekomunikacja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Instytut Wysokich Ciśnień Polskiej Akademii Nauk >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/3059e2c4-d76b-416b-8360-76fc2ced654d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Joint Beam Steering and Direct Antenna Multimodulation Using Time-Modulated Arrays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/publications/628a31d5-7cac-4b83-89f1-309e9f5babc8",
+      "authors": "R. Maneiro-Catoira, G. Bogdan , Y. Yashchyshyn, ... (+4)",
+      "publication_type": "Artykuł , IEEE Internet of Things Journal",
+      "year": "2025",
+      "doi": "10.1109/jiot.2025.3594557",
+      "doi_url": "https://www.doi.org/10.1109/jiot.2025.3594557",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Szesnastoelementowy szyk antenowy z modulacją czasową i skanowaniem wiązki w paśmie ISM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/publications/79c31eed-6e77-4ba2-be4d-5e08d76a55d3",
+      "authors": "G. Bogdan , Y. Yashchyshyn, S. Słowiński, ... (+1)",
+      "publication_type": "Artykuł , Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne",
+      "year": "2025",
+      "doi": "10.15199/59.2025.4.94",
+      "doi_url": "https://www.doi.org/10.15199/59.2025.4.94",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A Wire-Bonded Patch Antenna for Millimeter Wave Applications",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/publications/6b6cd91a-f0d7-49da-a93c-9117b545e2bb",
+      "authors": "G. Bogdan , J. Sobolewski, P. Bajurko, ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2023",
+      "doi": "10.3390/electronics12030632",
+      "doi_url": "https://www.doi.org/10.3390/electronics12030632",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Adaptacyjne kształtowanie charakterystyki kierunkowej anteny z modulacją czasową",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.bogdan.86qpTSJ9HA5/research-work/05fa518d-f85f-44bc-8e0d-035b75a0e742",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=295393"
+    }
+  ],
+  "tag_cloud": [
+    "technika pomiarowa",
+    "fale milimetrowe",
+    "fala milimetrowa",
+    "antenna",
+    "mimo",
+    "metoda modulacji czasowej",
+    "anteny",
+    "electrically small antenna",
+    "sub-terahertz range",
+    "multiple input multiple output"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg",
+  "slug": "artur.wilkowski",
+  "profile_id": "LOIGYG2t6Sg",
+  "full_name": "dr inż. Artur Marian Wilkowski",
+  "orcid": "0000-0002-6814-7645",
+  "orcid_url": "https://orcid.org/0000-0002-6814-7645",
+  "breadcrumb_name": "Artur Wilkowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "rozpoznawanie wzorców"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Metody rozpoznawania aktywności o charakterze pornograficznym w sekwencjach wideo przy użyciu niskopoziomowych cech obrazu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/publications/a5577ba9-6356-48d6-894a-241a468ab420",
+      "authors": null,
+      "publication_type": "Artykuł , Cybersecurity and Law",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Transfer Learning in Earth Observation Data Analysis: A review",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/publications/129fdac1-db3e-4f46-b0e1-227724edcf6f",
+      "authors": "A. Nowakowski, M. Rosso [...] A. Wilkowski , ... (+12)",
+      "publication_type": "Artykuł , IEEE Geoscience and Remote Sensing Magazine",
+      "year": "2025",
+      "doi": "10.1109/mgrs.2024.3494673",
+      "doi_url": "https://www.doi.org/10.1109/mgrs.2024.3494673",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "City Bus Monitoring Supported by Computer Vision and Machine Learning Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/publications/0f1a146e-f04f-4232-a5bc-6f710999160c",
+      "authors": "A. Wilkowski , M. Luckner, I. Mykhalevych",
+      "publication_type": "Artykuł",
+      "year": "2020",
+      "doi": "10.1007/978-3-030-13273-6_31",
+      "doi_url": "https://www.doi.org/10.1007/978-3-030-13273-6_31",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie gestów w sekwencji obrazów w oparciu o analizę kształtu i ruchu deformowalnych obiektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.wilkowski.LOIGYG2t6Sg/research-work/e9e19fd8-51ce-4f8f-b7df-3ef2e3b55588",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=246596"
+    }
+  ],
+  "tag_cloud": [
+    "rozumienie sceny",
+    "widzenie komputerowe",
+    "inteligentne roboty domowe",
+    "cascade classifier",
+    "speech/speaker recognition",
+    "intelligent home robots",
+    "object detection",
+    "3d reconstruction",
+    "obiekty o konstrukcji przegubowej",
+    "digital twins"
+  ],
+  "coworkers": []
+}

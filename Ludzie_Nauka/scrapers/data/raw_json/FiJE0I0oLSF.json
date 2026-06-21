@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF",
+  "slug": "robert.ostrowski",
+  "profile_id": "FiJE0I0oLSF",
+  "full_name": "dr inż. Robert Ostrowski",
+  "orcid": "0000-0001-8409-4881",
+  "orcid_url": "https://orcid.org/0000-0001-8409-4881",
+  "breadcrumb_name": "Robert Ostrowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2016",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Gossiping by energy-constrained mobile agents in tree networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/publications/0a2a4da4-fe07-4b02-ab52-aec5ba82802f",
+      "authors": "D. Dereniowski, R. Ostrowski , J. Czyzowicz, ... (+1)",
+      "publication_type": "Artykuł , Theoretical Computer Science",
+      "year": "2021",
+      "doi": "10.1016/j.tcs.2021.02.009",
+      "doi_url": "https://www.doi.org/10.1016/j.tcs.2021.02.009",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Searching by heterogeneous agents",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.ostrowski.FiJE0I0oLSF/publications/a3a9883c-a1d0-41e8-b499-d0de834da521",
+      "authors": "D. Dereniowski, R. Ostrowski , Ł. Kuszner",
+      "publication_type": "Artykuł , Journal of Computer and System Sciences",
+      "year": "2021",
+      "doi": "10.1016/j.jcss.2020.06.008",
+      "doi_url": "https://www.doi.org/10.1016/j.jcss.2020.06.008",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,178 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z",
+  "slug": "andrzej.szwabe",
+  "profile_id": "izTzeGNMF7Z",
+  "full_name": "dr inż. Andrzej Szwabe",
+  "orcid": "0000-0002-7121-3463",
+  "orcid_url": "https://orcid.org/0000-0002-7121-3463",
+  "breadcrumb_name": "Andrzej Szwabe",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie i optymalizacja sterowania sieciami bezprzewodowymi o wielu przeskokach"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Nadanie tytułu",
+        "Akademia Techniczno-Rolnicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Tensor-Based Ontology Data Processing for Semantic Service Matchmaking",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/publications/37bc7a5c-b71e-4ab4-89dd-2a0d2da7a195",
+      "authors": "J. Bąk, P. Misiorek [...] A. Szwabe , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1007/978-3-319-99987-6_20",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-99987-6_20",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluation of Tensor-Based Algorithms for Real-Time Bidding Optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/publications/97efa661-521e-4d10-88e5-69aa35211b29",
+      "authors": "P. Misiorek, M. Ciesielczyk, A. Szwabe",
+      "publication_type": "Artykuł",
+      "year": "2017",
+      "doi": "10.1007/978-3-319-54472-4_16",
+      "doi_url": "https://www.doi.org/10.1007/978-3-319-54472-4_16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Logistic Regression Setup for RTB CTR Estimation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/publications/806edd0b-e819-4773-bc8a-898d2442ec20",
+      "authors": "P. Misiorek, M. Ciesielczyk, A. Szwabe",
+      "publication_type": "Artykuł",
+      "year": "2017",
+      "doi": "10.1145/3055635.3056584",
+      "doi_url": "https://www.doi.org/10.1145/3055635.3056584",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Adaptive Transmission of Audio Streams in IP Networks",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/research-work/96fb032a-03b3-407a-8d5e-2982fdfd9285",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Skalowalne metody redukcji wymiarowości dla systemów rekomendacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.szwabe.izTzeGNMF7Z/research-work/61eb2b45-4b50-4951-9b74-a41f1c1b8c9a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=221406"
+    }
+  ],
+  "tag_cloud": [
+    "www",
+    "real-time bidding",
+    "context-aware recommendation",
+    "data mining",
+    "big data",
+    "data processing performance",
+    "click-through rate estimation",
+    "data extraction",
+    "expert system and artificial intelligence",
+    "credit scoring"
+  ],
+  "coworkers": []
+}

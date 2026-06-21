@@ -1,0 +1,273 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn",
+  "slug": "romuald.mosdorf",
+  "profile_id": "dANSQGQFVtn",
+  "full_name": "prof. dr hab. inż. Romuald Paweł Mosdorf",
+  "orcid": "0000-0003-1876-6699",
+  "orcid_url": "https://orcid.org/0000-0003-1876-6699",
+  "breadcrumb_name": "Romuald Mosdorf",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "przepływy dwufazowe",
+    "modelowanie układów dynamicznych",
+    "analiza danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "18 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Finansów i Zarządzania w Białymstoku Aktualna nazwa: Wschodnioeuropejska Akademia Nauk Stosowanych w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a1e65d4f-b897-426b-9e0f-51b5d3c6d629",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1982",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "podstawowe problemy techniki",
+        "Nadanie tytułu",
+        "POLITECHN.W-WSKA",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mechanical description of charged droplet motion in electrowetting-on-dielectric experiment and modelling",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/publications/2e765f4f-4bfc-4c5a-b493-308689328562",
+      "authors": "R. Mosdorf , P. Mrozek, G. Rafałko",
+      "publication_type": "Artykuł , Measurement: Journal of the International Measurement Confederation",
+      "year": "2025",
+      "doi": "10.1016/j.measurement.2025.116736",
+      "doi_url": "https://www.doi.org/10.1016/j.measurement.2025.116736",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Complexity of two-phase flow dynamics using the recurrence and high speed video analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/publications/b1792ab6-733f-41b3-ac59-033f52381b42",
+      "authors": "R. Mosdorf , G. Rafałko, I. Zaborowska, ... (+2)",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2024",
+      "doi": "10.24425/ather.2024.150853",
+      "doi_url": "https://www.doi.org/10.24425/ather.2024.150853",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Multiscale entropy applications for complexity analysis of two-phase flow",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/publications/00696733-9a1d-47fa-a52d-f5dbc1740f2a",
+      "authors": "G. Rafałko, R. Mosdorf , H. Grzybowski, ... (+2)",
+      "publication_type": "Artykuł , Archives of Thermodynamics",
+      "year": "2024",
+      "doi": "10.24425/ather.2024.150854",
+      "doi_url": "https://www.doi.org/10.24425/ather.2024.150854",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania dynamiki lokalnych zjawisk wrzenia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/024d9742-121a-4d0b-9f26-67a2fbad7a7c",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie metody lokalnego potencjału do modelowania kryzysu wrzenia pęcherzykowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/b04d43c2-93bb-4793-b50c-9d1ba3668843",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania doświadczalne i identyfikacja numeryczna dynamiki struktur przepływów dwufazowych we wrzeniu w mini- i mikrokanałach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/c3a26b56-2e27-4d6f-8760-bb808f7ff36f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie struktur przepływów dwufazowych w minikanale o przekroju kołowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/a2b5495d-1554-4a51-ab4e-19a43dd44263",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Dynamiczna niestabilność wrzenia w kanale o małej średnicy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/061577cb-60cf-4b3f-bdcc-c2816947b15c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/2e5d0801-121e-4a0c-bb17-a1053f8f41cc",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/81140645-1fa6-49a0-b92d-3e1f22ab5569",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/romuald.mosdorf.dANSQGQFVtn/research-work/adae65b5-da13-4e69-9070-47146ebafea1",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=19118"
+    }
+  ],
+  "tag_cloud": [
+    "heat exchanger",
+    "two-phase flow instability",
+    "self-organizing map",
+    "minichannel",
+    "two-phase flow",
+    "flow boiling",
+    "bubble departures",
+    "boiling flow patterns",
+    "recurrence quantification analysis",
+    "dynamics similarity"
+  ],
+  "coworkers": []
+}

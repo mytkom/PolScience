@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f",
+  "slug": "hubert.skowronek",
+  "profile_id": "WP3e3x7kx2f",
+  "full_name": "dr inż. Hubert Skowronek",
+  "orcid": "0000-0003-3398-1661",
+  "orcid_url": "https://orcid.org/0000-0003-3398-1661",
+  "breadcrumb_name": "Hubert Skowronek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "narzędzia mechatroniczne",
+    "obróbka skrawaniem",
+    "technologia maszyn"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/896622d0-61fc-4897-b152-98aaff2cba3c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Comparison of economic factors and machining effects using conventional boring bar and tool with a mechanical vibration damper",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/publications/74b46cc2-1ca3-4ada-9e68-b1acfd04b0cf",
+      "authors": "H. Skowronek , D. Poroś",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Computer-aided determination of the natural vibration frequency and logarithmic damping decrement of a mechatronic cutting tool",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/publications/a100b554-c443-4569-b3e0-174e432bfb57",
+      "authors": "H. Skowronek , M. Kołodziej",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Economic aspects of using different strategies for rough turning of wide grooves based on the measurement of cutting force components",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/publications/30d5c464-aa15-4b9a-951a-4256be3691fe",
+      "authors": "M. Kołodziej, H. Skowronek",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Korekcja odkształceń sprężystych narzędzia skrawającego w czasie rzeczywistym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/hubert.skowronek.WP3e3x7kx2f/research-work/3539918b-5fc5-4d87-b0d9-2399d484a4d4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=248293"
+    }
+  ],
+  "tag_cloud": [
+    "redukcja drgań",
+    "mechatronika samochodowa",
+    "produktywność",
+    "frezowanie trochoidalne",
+    "skrawanie szybkościowe",
+    "obróbka ubytkowa",
+    "optymalizacja procesu",
+    "wytaczanie",
+    "kabriolet",
+    "motoryzacja"
+  ],
+  "coworkers": []
+}

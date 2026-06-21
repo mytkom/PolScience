@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4",
+  "slug": "jolanta.mizera-pietraszko",
+  "profile_id": "03NVeGp5Je4",
+  "full_name": "dr Jolanta Mizera-Pietraszko",
+  "orcid": "0000-0002-2298-5037",
+  "orcid_url": "https://orcid.org/0000-0002-2298-5037",
+  "breadcrumb_name": "Jolanta Mizera-Pietraszko",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "lingwistyka komputerowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f8d0b933-97be-4910-b110-2b76fc6198f6",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Ekonomiczny we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5d6c2944-921b-45cb-afa3-d2518eeabac7",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1986",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Akademia EKonomiczna we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f8d0b933-97be-4910-b110-2b76fc6198f6"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "organizacja przetwarzania danych",
+        "Nadanie tytułu",
+        "Akademia Ekonomiczna im. Oskara Langego we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1986",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "ekonomia",
+        "Nadanie tytułu",
+        "Akademia Ekonomiczna we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Opolski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Study of Cryptographic Algorithms on Special Linear Group Over Ring of Integers Modulo m",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/publications/8cd57aca-28fb-4f8f-b182-0691deb8538f",
+      "authors": "Z. Lipiński, Z. Lipinski, J. Mizera-Pietraszko , ... (+2)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2024.3515452",
+      "doi_url": "https://www.doi.org/10.1109/access.2024.3515452",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Enhancing Cluster Scheduling in HPC: A Continuous Transfer Learning for Real-Time Optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/publications/42169798-7865-452c-a5fa-64fa88ad8871",
+      "authors": "L. Sliwko, J. Mizera-Pietraszko",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/ipdpsw66978.2025.00056",
+      "doi_url": "https://www.doi.org/10.1109/ipdpsw66978.2025.00056",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Formal Classifier of a Rhythmic Structure Model for Inference about Linguistic Text Properties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/publications/283e122a-b345-4bc7-8fb3-7529615ebf62",
+      "authors": "J. Mizera-Pietraszko , J. Tańcula",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1109/icdmw65004.2024.00094",
+      "doi_url": "https://www.doi.org/10.1109/icdmw65004.2024.00094",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metoda oceny wpływu jakości tłumaczenia zapytań na efektywność wyszukiwania informacji wielojęzycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/research-work/635fcfd0-7b27-49bc-b490-3ba8c8216a03",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda oceny wpływu jakości tłumaczenia zapytań na efektywność wyszukiwania informacji wielojęzycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.mizera-pietraszko.03NVeGp5Je4/research-work/3b58013d-2613-499a-9285-8b39787b7644",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=202860"
+    }
+  ],
+  "tag_cloud": [
+    "zbiory kanoniczne i niekanoniczne",
+    "rans",
+    "natural language processing",
+    "data mining",
+    "machine translation",
+    "intelligent systems",
+    "non-commutative cryptography",
+    "packet management in ip routers",
+    "multi-agent systems",
+    "semantic web"
+  ],
+  "coworkers": []
+}

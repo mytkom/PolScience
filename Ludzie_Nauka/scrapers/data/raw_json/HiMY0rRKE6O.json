@@ -1,0 +1,203 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O",
+  "slug": "jan.wadowski",
+  "profile_id": "HiMY0rRKE6O",
+  "full_name": "dr hab. Jan Marian Wadowski",
+  "orcid": "0000-0001-5784-523X",
+  "orcid_url": "https://orcid.org/0000-0001-5784-523X",
+  "breadcrumb_name": "Jan Wadowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk humanistycznych"
+  ],
+  "specializations": [
+    "filozofia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Papieski Wydział Teologiczny we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/531b16f4-0438-48ca-9943-e5d0d98eaa72",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk teologicznych / dziedzina nauk teologicznych",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Papieski Wydział Teologiczny we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/531b16f4-0438-48ca-9943-e5d0d98eaa72"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki teologiczne / nauki teologiczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Papieski Wydział Teologiczny we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/531b16f4-0438-48ca-9943-e5d0d98eaa72"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "teologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Papieski Wydział Teologiczny we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/531b16f4-0438-48ca-9943-e5d0d98eaa72"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Meta-sens. W poszukiwaniu nowego paradygmatu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/publications/ef019d25-f1db-4b68-a8cc-a009856ba302",
+      "authors": null,
+      "publication_type": "Książka , Wydawnictwo Adam Marszałek",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Słowo w ponowoczesnym świecie. Projekt metafizyki Logosu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/publications/771231d5-3385-4546-b349-793a70f07f86",
+      "authors": null,
+      "publication_type": "Książka , Wydawnictwo Adam Marszałek",
+      "year": "2024",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Diagnoza i perspektywy przemian w cywilizacji zachodniej - analiza porównawcza w świetle wybranych wątków myśli Chantal Delsol i eko-filozofii Henryka Skolimowskiego",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/publications/c46e1515-327d-4bf6-a541-0a2cec5d205c",
+      "authors": null,
+      "publication_type": "Artykuł , Rocznik Filozoficzny Ignatianum",
+      "year": "2023",
+      "doi": "10.35765/rfi.2023.2902.13",
+      "doi_url": "https://www.doi.org/10.35765/rfi.2023.2902.13",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rewindykacia intuicji. Wybrane aspekty filozoficznej i teologicznej interpretacji zagadnienia",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/research-work/c26f6ffa-5fb1-4b7b-8efb-9532dc6adc18",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Filozofia dramatu Józefa Tischnera jako antropologiczna wykładnia relacji człowiek-Bóg",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.wadowski.HiMY0rRKE6O/research-work/da59acc1-e00b-459e-8ed3-d166ac7e5331",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=88094"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

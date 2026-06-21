@@ -1,0 +1,199 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S",
+  "slug": "robert.wójcik",
+  "profile_id": "G3205pHrX4S",
+  "full_name": "dr inż. Robert Ryszard Wójcik",
+  "orcid": "0000-0003-3860-7011",
+  "orcid_url": "https://orcid.org/0000-0003-3860-7011",
+  "breadcrumb_name": "Robert Wójcik",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elastyczne systemy produkcyjne",
+    "sieci komputerowe",
+    "systemy dynamiczne o zdarzeniach dyskretnych",
+    "systemy rozproszone"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "11 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Zarządzania \"COPERNICUS\" we Wrocławiu Aktualna nazwa: Wyższa Szkoła Informatyki i Zarządzania „COPERNICUS” we Wrocławiu w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ef86cbff-3b7a-4ea1-8c44-e9f6564a8eda",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1989",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Preventive and proactive planning of PaaS maintenance service teams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/publications/c6780cbf-93f3-4d63-86b5-a3c100c5b6ac",
+      "authors": "E. Szwarc, A. Gola, R. Wójcik , ... (+2)",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2024",
+      "doi": "10.1016/j.ifacol.2024.09.205",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2024.09.205",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Towards Efficiency: Declarative Modelling in Wind Farm Preventive Maintenance Strategies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/publications/de87f6de-a3b3-4c91-8c96-2c0b8658ba5c",
+      "authors": "R. Wójcik , R. Dovnborg Frederiksen, G. Bocewicz, ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.62036/isd.2024.115",
+      "doi_url": "https://www.doi.org/10.62036/isd.2024.115",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Competence-based robust scheduling of cyclic workforce relocation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/publications/18d2cd3e-43a6-4c13-9c79-0f3806ba674b",
+      "authors": "M. Jasiulewicz-Kaczmarek, G. Bocewicz [...] R. Wójcik , ... (+2)",
+      "publication_type": "Artykuł , IFAC-PapersOnLine",
+      "year": "2023",
+      "doi": "10.1016/j.ifacol.2023.10.1558",
+      "doi_url": "https://www.doi.org/10.1016/j.ifacol.2023.10.1558",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy dynamicznego rozdziału zasobów w zadaniach sterowania adaptacyjnego ESP",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/robert.w%C3%B3jcik.G3205pHrX4S/research-work/f54fc742-4d9d-404e-accc-c83aa80f40e5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=29992"
+    }
+  ],
+  "tag_cloud": [
+    "problem spełnienia ograniczeń typu no-store i no-wait",
+    "system rozproszony",
+    "multimodal process",
+    "programowanie z ograniczeniami",
+    "cyclic scheduling",
+    "scheduling",
+    "harmonogramowanie cykliczne",
+    "performance evaluation",
+    "trade-off point",
+    "job-shop systems"
+  ],
+  "coworkers": []
+}

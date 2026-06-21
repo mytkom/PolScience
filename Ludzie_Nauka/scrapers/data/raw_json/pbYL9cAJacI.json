@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI",
+  "slug": "grzegorz.popek",
+  "profile_id": "pbYL9cAJacI",
+  "full_name": "dr inż. Grzegorz Popek",
+  "orcid": "0000-0002-3186-507X",
+  "orcid_url": "https://orcid.org/0000-0002-3186-507X",
+  "breadcrumb_name": "Grzegorz Popek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c83a3758-962a-4edd-ba73-dc4bd25e3001"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Implementing Cognitive Semantics of Autoepistemic Membership Statements: The Case of Categories with Prototypes",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/publications/bda91a3c-f767-4fbf-83bd-c617a1952864",
+      "authors": "R. Katarzyniak, G. Popek , M. Żurawski",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14041609",
+      "doi_url": "https://www.doi.org/10.3390/app14041609",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Application of compact large language models to the named entity recognition problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/publications/06190105-f76f-497e-8f4f-7e20ca186738",
+      "authors": "W. Lorkiewicz, M. Hojda, G. Popek",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of text generation speeds for a set of compact large language models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/publications/8834548b-1fc6-484b-beea-436fd8ae6320",
+      "authors": "M. Hojda, G. Popek",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Integracja modalnych i rozmytych metod reprezentacji wiedzy agenta",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/research-work/e1984d8b-0521-40b9-8452-b0e4f014156d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Kognitywna semantyka modalnych wypowiedzi o przynależności obiektu do kategorii dla przypadku systemów agentowych z wbudowaną ontologią prototypów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.popek.pbYL9cAJacI/research-work/6bc384af-3542-4863-b10f-c0e96d616997",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=247461"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

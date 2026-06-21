@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq",
+  "slug": "aleksandra.biszczanik",
+  "profile_id": "7TjHxtmlKjq",
+  "full_name": "mgr inż. Aleksandra Biszczanik",
+  "orcid": "0000-0002-6765-7459",
+  "orcid_url": "https://orcid.org/0000-0002-6765-7459",
+  "breadcrumb_name": "Aleksandra Biszczanik",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the adhesive spread and the thickness of the adhesive bonded joint depending on the compressive force applied to bonded materials with different surface structure",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/publications/d5fdc5d3-d470-403e-bb58-236004bc26bb",
+      "authors": "K. Talaśka, D. Wilczyński, A. Biszczanik",
+      "publication_type": "Artykuł , International Journal of Adhesion and Adhesives",
+      "year": "2022",
+      "doi": "10.1016/j.ijadhadh.2021.103081",
+      "doi_url": "https://www.doi.org/10.1016/j.ijadhadh.2021.103081",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Assumptions for Modeling of the Hot Plate Welding Process Considering the Automatic Welding Machine Design",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/publications/f228d7b2-d6ea-4806-aead-df126de8a206",
+      "authors": "K. Wałęsa, I. Malujda [...] A. Biszczanik , ... (+1)",
+      "publication_type": "Artykuł , MATEC Web of Conference",
+      "year": "2022",
+      "doi": "10.1051/matecconf/202235705002",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/202235705002",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental Investigation on the Effect of Dry Ice Compression on the Poisson Ratio",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aleksandra.biszczanik.7TjHxtmlKjq/publications/e3660459-1587-486f-a95b-c5f99fce37e3",
+      "authors": "D. Wojtkowiak, K. Wałęsa [...] A. Biszczanik , ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2022",
+      "doi": "10.3390/ma15041555",
+      "doi_url": "https://www.doi.org/10.3390/ma15041555",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "geometric parameters",
+    "densification",
+    "efficiency",
+    "extrusion",
+    "dry ice",
+    "compaction",
+    "carbon dioxide",
+    "density",
+    "hydrostatic method",
+    "test stand"
+  ],
+  "coworkers": []
+}

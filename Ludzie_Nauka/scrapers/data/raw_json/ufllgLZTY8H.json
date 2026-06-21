@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H",
+  "slug": "piotr.okoczuk",
+  "profile_id": "ufllgLZTY8H",
+  "full_name": "dr inż. Piotr Okoczuk",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Piotr Okoczuk",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria materiałowa",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "nanotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimizing conductivity in Na-V-Te-O glass through controlled heat treatment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/publications/d2ebdd1b-47db-4f75-8c1b-27d9d28a8c4e",
+      "authors": "P. Okoczuk , M. Wanat, M. Łapiński, ... (+6)",
+      "publication_type": "Artykuł , Ceramics International",
+      "year": "2025",
+      "doi": "10.1016/j.ceramint.2024.11.228",
+      "doi_url": "https://www.doi.org/10.1016/j.ceramint.2024.11.228",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Structure, microstructure, and electrical transport of nonstoichiometric (Y0.07Sr0.93)xTi0.8Fe0.2O3-δ perovskite ceramics",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/publications/890dce59-71fb-4910-86bd-8fb4004e26b9",
+      "authors": "S. Królak, P. Okoczuk , A. Mielewczyk‐gryń, ... (+3)",
+      "publication_type": "Artykuł , Journal of Alloys and Compounds",
+      "year": "2025",
+      "doi": "10.1016/j.jallcom.2025.182621",
+      "doi_url": "https://www.doi.org/10.1016/j.jallcom.2025.182621",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Correlations of structural, thermal and electrical properties of sodium doped complex borophosphosilicate glass",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/publications/1e5f38e0-e206-4a4b-87f8-388a52afa244",
+      "authors": "Z. Mielewczyk, P. Okoczuk , S. Ali, ... (+4)",
+      "publication_type": "Artykuł , Ceramics International",
+      "year": "2024",
+      "doi": "10.1016/j.ceramint.2024.05.289",
+      "doi_url": "https://www.doi.org/10.1016/j.ceramint.2024.05.289",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przewodnictwo elektryczne w krystalizowanych szkłach wanadowo-tellurowych (Electrical conductivity of crystallized vanadium-tellurite glasses)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.okoczuk.ufllgLZTY8H/research-work/d4787332-e03a-4205-8ac2-2ab5e3466ed8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

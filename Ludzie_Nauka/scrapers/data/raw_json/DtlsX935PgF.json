@@ -1,0 +1,238 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF",
+  "slug": "paweł.jasion",
+  "profile_id": "DtlsX935PgF",
+  "full_name": "dr hab. inż. Paweł Jasion",
+  "orcid": "0000-0003-4562-2535",
+  "orcid_url": "https://orcid.org/0000-0003-4562-2535",
+  "breadcrumb_name": "Paweł Jasion",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "stateczność konstrukcji cienkościennych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "18 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Uniwersytet Zielonogórski",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/gremiums/a28be589-09a3-4ff9-91e0-f0c9cb0807be",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Bending behaviour of thin-walled perforated channel beams with modified cross sectional shape – Part 1: experimental tests and FSM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/publications/6c422e50-cf7a-4852-9860-258c21da53f4",
+      "authors": "P. Paczos, A. Pawlak, P. Jasion , ... (+1)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153830",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153830",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Bending behaviour of thin-walled perforated channel beams with modified cross-sectional shape – Part 2: analytical calculations and FEM",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/publications/d74ac137-6871-4673-b28b-7dc112b9bfb4",
+      "authors": "P. Jasion , A. Pawlak, P. Paczos, ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153435",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153435",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Bending of the three-span rail (UIC 60) subjected to the concentrated force",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/publications/0b3db1d7-5b7e-4295-977f-83d0577d2b52",
+      "authors": "P. Jasion , K. Magnucki",
+      "publication_type": "Artykuł , Pojazdy Szynowe",
+      "year": "2025",
+      "doi": "10.53502/rail-211433",
+      "doi_url": "https://www.doi.org/10.53502/rail-211433",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza stanu krytycznego i pokrytycznego powłok obrotowych z dodatnią i ujemną krzywizną Gaussa",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/research-work/7f734cb3-1fd9-4658-8c2a-56678dea7895",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Stateczność sprężysta poziomych powłok baryłkowych wypełnionych cieczą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/research-work/df2d22e1-b288-42f4-938d-b7d9150ae0ff",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wytrzymałość, drgania i stateczność warstwowych belek z rdzeniem wykonanym z pianki aluminiowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.jasion.DtlsX935PgF/research-work/3860f7b2-aaf6-4d3a-8546-7e02c1ef3edb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=rH0Ne3kAAAAJ&hl=en"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Pawel-Jasion"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=16402327100"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/990294"
+    }
+  ],
+  "tag_cloud": [
+    "cylindrical tank",
+    "dished head",
+    "limit load",
+    "numerical analysis",
+    "bending",
+    "buckling",
+    "thin-walled beam",
+    "post-buckling",
+    "edge effect",
+    "ellipsoid"
+  ],
+  "coworkers": []
+}

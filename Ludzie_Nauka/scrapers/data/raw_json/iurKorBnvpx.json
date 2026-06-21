@@ -1,0 +1,210 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx",
+  "slug": "mirosław.lewandowski",
+  "profile_id": "iurKorBnvpx",
+  "full_name": "dr hab. Mirosław Antoni Lewandowski",
+  "orcid": "0000-0002-7906-9726",
+  "orcid_url": "https://orcid.org/0000-0002-7906-9726",
+  "breadcrumb_name": "Mirosław Lewandowski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "elektromechatronika",
+    "elektrotechnologie",
+    "trakcja elektryczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "47 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/gremiums/848c2d37-123f-497c-ab22-aca4c20509bb",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Energy Efficiency of Supercapacitors in Hybrid Energy Storage Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/publications/51b4784e-7f01-496e-a416-8dc313820677",
+      "authors": "M. Lewandowski , T. Maciołek, M. Orzyłowski",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153841",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153841",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Hybrid Energy Storage System for Regenerative Braking Utilization and Peak Power Decrease in 3 kV DC Railway Electrification System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/publications/d40b5b7d-acbb-4217-b84f-a924fcefd96c",
+      "authors": "A. Szeląg, W. Jefimowski [...] M. Lewandowski , ... (+3)",
+      "publication_type": "Artykuł , Electronics",
+      "year": "2025",
+      "doi": "10.3390/electronics14091752;10.20944/preprints202501.0039.v1",
+      "doi_url": "https://www.doi.org/10.3390/electronics14091752;10.20944/preprints202501.0039.v1",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Hybrid Energy Storage System for Regenerative Braking Utilization and Peak Power Decrease in 3 kV DC Railway Electrification System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/publications/4ab8e91b-500e-4350-abe3-ada59c0c0ad5",
+      "authors": "A. Szeląg, W. Jefimowski [...] M. Lewandowski , ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14091752",
+      "doi_url": "https://www.doi.org/10.3390/electronics14091752",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza zjawisk elektromechanicznych w szynowym pojeździe trakcyjnym z uwzględnieniem zmian współczynnika przyczepności kół napędowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/research-work/891d8d4f-fc9d-4199-9ef1-0c44f59f0f42",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Strategia zarządzania energią w wieloźródłowych układach zasilania stosowanych w pojazdach elektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/research-work/63ba099f-0624-4ec6-9ed3-141f7a44a0df",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analiza oddziaływań zakłócających w strefie styku systemów trakcji elektrycznej 3 kV DC i 25 kV 50 Hz",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/research-work/e80e1000-dac6-43b1-bc3c-2c2e72b02fd3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody wyznaczania impedancji wejściowej elektrycznych pojazdów trakcyjnych z przekształtnikowymi układami napędowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.lewandowski.iurKorBnvpx/research-work/bf790c0f-1d3a-4434-a0b9-86e723700a96",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52335"
+    }
+  ],
+  "tag_cloud": [
+    "power system reliability",
+    "identification",
+    "rodzaje przewag",
+    "competitiveness",
+    "close fault",
+    "electric vehicles",
+    "konkurencyjność",
+    "smart grids",
+    "wayside energy storage device",
+    "university campus"
+  ],
+  "coworkers": []
+}

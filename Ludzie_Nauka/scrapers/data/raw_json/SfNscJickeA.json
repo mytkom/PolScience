@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA",
+  "slug": "monika.herzog",
+  "profile_id": "SfNscJickeA",
+  "full_name": "dr Monika Izabela Herzog",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Monika Herzog",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "teoria aproksymacji"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2002",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Komisji Edukacji Narodowej w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0b80a072-b734-4cd9-bf5b-6c8708b7c2f2"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Uniwersytet Jagielloński",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Semi-exponential operators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/publications/44d4f5bf-1202-456a-8248-3c74019ba729",
+      "authors": null,
+      "publication_type": "Artykuł , SYMMETRY",
+      "year": "2021",
+      "doi": "10.3390/sym13040637",
+      "doi_url": "https://www.doi.org/10.3390/sym13040637",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Some remarks about exponential and semi-exponential operators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/publications/07ebc654-3c37-4552-80b5-0fdb6cf17d68",
+      "authors": null,
+      "publication_type": "Artykuł , SYMMETRY",
+      "year": "2021",
+      "doi": "10.3390/sym13122266",
+      "doi_url": "https://www.doi.org/10.3390/sym13122266",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Approximation theorems for Szász-Mirakjan-Durrmeyer type operators",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/publications/aa3f46d7-ebcc-406c-88b2-2d43b3cee1d2",
+      "authors": null,
+      "publication_type": "Artykuł , Technical Transactions. Fundamental Sciences = Czasopismo Techniczne. Nauki Podstawowe",
+      "year": "2016",
+      "doi": "10.4467/2353737xct.16.138.5717",
+      "doi_url": "https://www.doi.org/10.4467/2353737xct.16.138.5717",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Twierdzenia aproksymacyjne dla operatorów typu Szasza-Mirakjana",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/monika.herzog.SfNscJickeA/research-work/18d088cd-39be-4247-95bf-82d4cf422d4b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=105778"
+    }
+  ],
+  "tag_cloud": [
+    "function approximation",
+    "operator of szasz-mirakyan type",
+    "polynominal weight space",
+    "ważony k-funkcjonał",
+    "funkcja bessela",
+    "bessel's function",
+    "operator typu szasza-mirakjana",
+    "przestrzeń wagowa wielomianowa",
+    "twierdzenie aproksymacyjne",
+    "moduł ciągłości"
+  ],
+  "coworkers": []
+}

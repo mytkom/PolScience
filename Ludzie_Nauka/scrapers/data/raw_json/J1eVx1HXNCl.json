@@ -1,0 +1,176 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl",
+  "slug": "marek.kulawiak",
+  "profile_id": "J1eVx1HXNCl",
+  "full_name": "dr inż. Marek Jerzy Kulawiak",
+  "orcid": "0000-0002-7841-3855",
+  "orcid_url": "https://orcid.org/0000-0002-7841-3855",
+  "breadcrumb_name": "Marek Kulawiak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "systemy geoinformatyczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektroniki, Telekomunikacji i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/1ff7f3ed-67f9-4271-b489-32de8f832cb7"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Hyperspectral UV-Vis Reflectance Imaging Using UAVs for Leaf Area Index Remote Sensing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/publications/6b589728-acf8-454e-9262-54faab660fe2",
+      "authors": "T. Berezowski, M. Kulawiak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.5194/egusphere-egu25-3114",
+      "doi_url": "https://www.doi.org/10.5194/egusphere-egu25-3114",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Comparison of 3D Point Cloud Completion Networks for High Altitude Lidar Scans of Buildings",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/publications/6f2e25aa-a6ae-4cac-9bf3-8976f0e3896c",
+      "authors": null,
+      "publication_type": "Artykuł , Photogrammetric Engineering and Remote Sensing",
+      "year": "2024",
+      "doi": "10.14358/pers.23-00056r2",
+      "doi_url": "https://www.doi.org/10.14358/pers.23-00056r2",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "UAV-Based Hyperspectral Ultraviolet-Visible Interpolated Reflectance Images for Remote Sensing of Leaf Area Index",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/publications/4beab736-fee0-4b6e-b74e-d3a7dccc2487",
+      "authors": "T. Berezowski, M. Kulawiak, M. Kulawiak",
+      "publication_type": "Artykuł , IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": "2024",
+      "doi": "10.1109/jstars.2024.3388711",
+      "doi_url": "https://www.doi.org/10.1109/jstars.2024.3388711",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przetwarzanie hydroakustycznych i lidarowych danych przestrzennych w celu konstrukcji trójwymiarowych modeli rzeczywistych obiektów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/marek.kulawiak.J1eVx1HXNCl/research-work/e772fd55-2009-4816-b364-9449f4c72576",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=298472"
+    }
+  ],
+  "tag_cloud": [
+    "simulation",
+    "modelowanie zasięgu",
+    "3d",
+    "dab+ (digital audio broadcasting plus)",
+    "point cloud",
+    "laser scanning",
+    "gis (geographic information systems)",
+    "triangulation",
+    "planowanie sieci",
+    "three dimensional reconstruction"
+  ],
+  "coworkers": []
+}

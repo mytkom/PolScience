@@ -1,0 +1,130 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn",
+  "slug": "patryk.janiszewski",
+  "profile_id": "BC6BxcqrhBn",
+  "full_name": "mgr Patryk Adam Janiszewski",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Patryk Janiszewski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "pedagogika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Wyższa im. Pawła Włodkowica w Płocku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/77de6eec-1f71-4363-bea7-e4287d49e1da"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2021",
+      "degree_or_title": "Licencjat",
+      "details_json": [
+        "wychowanie fizyczne",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Szkoła Wyższa im. Pawła Włodkowica w Płocku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/77de6eec-1f71-4363-bea7-e4287d49e1da"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chemical Modifications of Old Natural Stone Pavements Surface for Safety Reuse – Risk Mitigation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patryk.janiszewski.BC6BxcqrhBn/publications/2f2a7195-65f9-4d88-ade6-5fbf2f80e212",
+      "authors": "P. Gryszpanowicz, P. Grabowski [...] P. Janiszewski , ... (+2)",
+      "publication_type": "Artykuł , Construction and Building Materials",
+      "year": "2024",
+      "doi": "10.1016/j.conbuildmat.2023.134300",
+      "doi_url": "https://www.doi.org/10.1016/j.conbuildmat.2023.134300",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

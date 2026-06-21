@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG",
+  "slug": "agnieszka.szmurło",
+  "profile_id": "9MnB7jwOJZG",
+  "full_name": "mgr inż. Agnieszka Monika Szmurło",
+  "orcid": "0000-0002-9192-7420",
+  "orcid_url": "https://orcid.org/0000-0002-9192-7420",
+  "breadcrumb_name": "Agnieszka Szmurło",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cloud-native distributed genomic pileup operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/publications/8604e5eb-14de-4b65-be56-a68e1eb76527",
+      "authors": "M. Wiewiórka, A. Szmurło , T. Gambin, ... (+1)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2023",
+      "doi": "10.1093/bioinformatics/btac804",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btac804",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Cloud-native distributed genomic pileup operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/publications/74e225ed-2734-4fef-adc5-e02cc05f56c2",
+      "authors": "M. Wiewiórka, A. Szmurło , P. Stankiewicz, ... (+1)",
+      "publication_type": "Artykuł , Bioinformatics",
+      "year": "2022",
+      "doi": "10.1093/bioinformatics/btac804;10.1101/2022.08.27.475646",
+      "doi_url": "https://www.doi.org/10.1093/bioinformatics/btac804;10.1101/2022.08.27.475646",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparison of kNN and k-means optimization methods of reference set selection for improved CNV callers performance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agnieszka.szmur%C5%82o.9MnB7jwOJZG/publications/cc044309-c3fb-4831-87e9-c842dcf727ac",
+      "authors": "M. Wiewiórka, W. Kuśmirek, A. Szmurło , ... (+2)",
+      "publication_type": "Artykuł , BMC Bioinformatics",
+      "year": "2019",
+      "doi": "10.1186/s12859-019-2889-z",
+      "doi_url": "https://www.doi.org/10.1186/s12859-019-2889-z",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

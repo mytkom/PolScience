@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd",
+  "slug": "filip.idzikowski",
+  "profile_id": "vtb1WnUm4Kd",
+  "full_name": "dr inż. Filip Idzikowski",
+  "orcid": "0000-0002-4755-1171",
+  "orcid_url": "https://orcid.org/0000-0002-4755-1171",
+  "breadcrumb_name": "Filip Idzikowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Technische Universität Berlin",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika i telekomunikacja",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A Survey on Reduction of Energy Consumption in Fog Networks—Communications and Computations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/publications/63edcbcf-3df1-491b-8e05-c58cadceb3ab",
+      "authors": "B. Kopras, F. Idzikowski , H. Bogucka",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2024",
+      "doi": "10.3390/s24186064",
+      "doi_url": "https://www.doi.org/10.3390/s24186064",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Communication and Computing Task Allocation for Energy-Efficient Fog Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/publications/f909fd8c-fd45-4dc2-a6b2-1ae915215cd2",
+      "authors": "B. Kopras, F. Idzikowski , P. Kryszkiewicz, ... (+2)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2023",
+      "doi": "10.3390/s23020997",
+      "doi_url": "https://www.doi.org/10.3390/s23020997",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Green Time-Critical Fog Communication and Computing",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/filip.idzikowski.vtb1WnUm4Kd/publications/5e59e1ad-56ff-4546-8e09-67a28b9c2085",
+      "authors": "H. Bogucka, B. Kopras, F. Idzikowski , ... (+2)",
+      "publication_type": "Artykuł , IEEE Communications Magazine",
+      "year": "2023",
+      "doi": "10.1109/mcom.004.2200921;10.5281/zenodo.8324953;10.48550/arxiv.2303.13493;10.5281/zenodo.8324952",
+      "doi_url": "https://www.doi.org/10.1109/mcom.004.2200921;10.5281/zenodo.8324953;10.48550/arxiv.2303.13493;10.5281/zenodo.8324952",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=274450"
+    }
+  ],
+  "tag_cloud": [
+    "cloud",
+    "chmura obliczeniowa",
+    "supercomputers",
+    "sterowanie rozproszone",
+    "latency",
+    "internet rzeczy",
+    "fog network",
+    "task analysis",
+    "wireless communication",
+    "devices lifetime"
+  ],
+  "coworkers": []
+}

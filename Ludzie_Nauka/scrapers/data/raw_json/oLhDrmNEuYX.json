@@ -1,0 +1,294 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX",
+  "slug": "joanna.bac-bronowicz",
+  "profile_id": "oLhDrmNEuYX",
+  "full_name": "dr hab. inż. Joanna Katarzyna Bac-Bronowicz",
+  "orcid": "0000-0001-9038-1131",
+  "orcid_url": "https://orcid.org/0000-0001-9038-1131",
+  "breadcrumb_name": "Joanna Bac-Bronowicz",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kartografia i SIG"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "21 lat 11 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/70161bb7-629d-46ab-9c91-cc91851ed886",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / geodezja i kartografia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Geodezji i Kartografii",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e41eeaf1-4138-44de-8a42-dcdbab415003"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1991",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki rolnicze / melioracje wodne",
+        "Nadanie stopnia",
+        "Akademia Rolnicza we Wrocławiu",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1980",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja urządzeń rolnych",
+        "Nadanie tytułu",
+        "Akademia Rolnicza we Wrocławiu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komisja Geoinformatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/gremiums/30cb5423-f20d-483b-993d-620dcf65093d",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Państwowa Rada Geodezyjna i Kartograficzna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/gremiums/ccfaca26-e501-4785-8ba0-574cc000ae8b",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Komisja Agrometeorologii i Klimatologii Stosowanej",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/gremiums/01fbfd43-01be-4a2c-9dd2-02bcdbc0ab59",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Lądowa i Transport",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/gremiums/2ef38296-9e8d-4fcb-a1f9-3f9326ed36c9",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "3d data acquisition for spatio-temporal analysis of architectural and urban environment changes of Wrocław cathedral",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/publications/8a91fe55-2e4f-438b-b6b6-a7b71f290bab",
+      "authors": "J. Bac-Bronowicz , G. Wojciechowska, I. Piech",
+      "publication_type": "Artykuł , Civil and Environmental Engineering Reports",
+      "year": "2025",
+      "doi": "10.59440/ceer/203532",
+      "doi_url": "https://www.doi.org/10.59440/ceer/203532",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Evaluating the geometry of objects in cartographic generalization with Hu's invariants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/publications/c7539eee-532a-40fb-ab1b-d191584169d7",
+      "authors": "J. Bac-Bronowicz , K. Kozioł, A. Kwinta, ... (+3)",
+      "publication_type": "Artykuł , Cartographic Journal",
+      "year": "2024",
+      "doi": "10.1080/00087041.2024.2323333",
+      "doi_url": "https://www.doi.org/10.1080/00087041.2024.2323333",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Usage of Airborne LiDAR Data and High-Resolution Remote Sensing Images in Implementing the Smart City Concept",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/publications/325ffc7e-3414-432c-889e-f1fece8b9772",
+      "authors": "A. Uciechowska-Grakowicz, O. Herrera-Granados [...] J. Bac-Bronowicz , ... (+1)",
+      "publication_type": "Artykuł , Remote Sensing",
+      "year": "2023",
+      "doi": "10.3390/rs15245776",
+      "doi_url": "https://www.doi.org/10.3390/rs15245776",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metodyka wykorzystania modeli topograficznych do analiz czasoprzestrzennych opadu w systemach informacji geograficzne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/4c2b699a-9052-4556-bc8d-fc3e9fa2f0a7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Konstrukcja wielocechowych map tematycznych na przykładzie rozkładu przestrzennego opadów na obszarze Dolnego Śląska",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/92b5db72-4164-4a6b-8fa7-90b5c21b961c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Ocena bezpieczeństwa obiektu infrastruktury krytycznej na przykładzie OUOW Żelazny Most",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/e0ca71dd-2f84-429d-abec-ed73b482cd1d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie zmian powierzchniowych środowiska spowodowanych odkrywkową eksploatacją górniczą",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/1c910dcf-2881-489e-a34e-ed26cfe13075",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Kataster austriacki w ustaleniu stanu prawnego nieruchomości na obszarze powiatu tatrzańskiego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/3e610e56-f346-447b-865c-068c02421fe3",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/5673bbc2-36b8-4cd4-81c7-656b45ce33b8",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie i symulacja wybranych zjawisk przestrzennych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.bac-bronowicz.oLhDrmNEuYX/research-work/db0a57d5-f7c1-472b-addd-e06936a775c1",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=14920"
+    }
+  ],
+  "tag_cloud": [
+    "regiony opadowe",
+    "czynniki topograficzne",
+    "modelowanie dyspersji zanieczyszczeń",
+    "geomatyka",
+    "geoinformatyka",
+    "gis",
+    "klimat",
+    "historia kartografii",
+    "sztuczna sieć neuronowa",
+    "kartografia"
+  ],
+  "coworkers": []
+}

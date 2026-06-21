@@ -1,0 +1,259 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si",
+  "slug": "ewa.popko",
+  "profile_id": "8pVeEZ446si",
+  "full_name": "prof. dr hab. Ewa Mieczysława Popko",
+  "orcid": "0000-0002-9947-3187",
+  "orcid_url": "https://orcid.org/0000-0002-9947-3187",
+  "breadcrumb_name": "Ewa Popko",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "fizyka ciała stałego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "50 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1985",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1975",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/gremiums/53d7c61e-07a1-403d-8d4e-004c9ed7764a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Eu-assisted enhancement of photoresponse in MBE-grown CdO/Si photodetectors",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/publications/d7d10b3f-4496-4237-8286-3d5e119faef3",
+      "authors": "I. Perlikowski, E. Zielony [...] E. Popko , ... (+4)",
+      "publication_type": "Artykuł , Materials Science & Engineering B: Solid-State Materials for Advanced Technology",
+      "year": "2025",
+      "doi": "10.1016/j.mseb.2025.119113",
+      "doi_url": "https://www.doi.org/10.1016/j.mseb.2025.119113",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Polar and non-polar Zn1−xMgxO:Sb grown by MBE",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/publications/afcb5a1e-2883-4d5f-86ab-646f3b9fe1a2",
+      "authors": "E. Zielony, E. Przezdziecka [...] E. Popko , ... (+10)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2022",
+      "doi": "10.3390/ma15238409",
+      "doi_url": "https://www.doi.org/10.3390/ma15238409",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "9.1% efficient zinc oxide/silicon solar cells on a 50 μm thick Si absorber",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/publications/97e83793-adf5-4d32-86e2-0530ec87b051",
+      "authors": "R. Pietruszka, P. Rafał [...] E. Popko , ... (+8)",
+      "publication_type": "Artykuł , Beilstein Journal of Nanotechnology",
+      "year": "2021",
+      "doi": "10.3762/bjnano.12.60",
+      "doi_url": "https://www.doi.org/10.3762/bjnano.12.60",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Spektroskopia defektów metastabilnych: centra DX w Cd 1-x Mn x Te",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/10876818-da1a-459a-a7a9-4d4ee03b1eb5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rozpraszanie Ramana w tlenku cynku domieszkowanym pierwiastkami grupy V",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/3ce4a797-1a94-421d-bb79-5d82f8f1f353",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Optymalizacja ogniw fotowoltaicznych ZnO-Si",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/519cc040-7fe5-4546-955f-bc169c91595f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Właściwości elektrooptyczne struktur półprzewodnikowych na bazie ZnTe z kropkami kwantowymi CdTe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/13ef874e-4914-4e5c-84d8-b9369aaa726d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/b23e4ed2-f37b-41a1-9cf7-8890557ff62e",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/fb109c75-e6d0-401d-94b1-6ae83fe5c671",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Impact of alkali element doping on the electrical characteristics of Cu(In,Ga)Se2 solar cells and thin films",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ewa.popko.8pVeEZ446si/research-work/ed9401b0-1b93-4276-8ae8-ccbe64497c75",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=60371"
+    }
+  ],
+  "tag_cloud": [
+    "deep level transient spectroscopy",
+    "current transport",
+    "gallium arsenide",
+    "transport prądu",
+    "zinc oxide",
+    "zno",
+    "azo/gaas",
+    "dlts",
+    "defects",
+    "tlenek cynku"
+  ],
+  "coworkers": []
+}

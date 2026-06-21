@@ -1,0 +1,297 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH",
+  "slug": "krzysztof.kaliński",
+  "profile_id": "Sa4UssIa0sH",
+  "full_name": "prof. dr hab. inż. Krzysztof Kaliński",
+  "orcid": "0000-0003-1658-4605",
+  "orcid_url": "https://orcid.org/0000-0003-1658-4605",
+  "breadcrumb_name": "Krzysztof Kaliński",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "dynamika maszyn",
+    "dynamika obrabiarek",
+    "mechanika stosowana",
+    "nadzorowanie drgań",
+    "mechatronika",
+    "sterowanie optymalne",
+    "dynamika i sterowanie robotów"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 4 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata",
+      "duration": null,
+      "institution": "Olsztyńska Wyższa Szkoła Informatyki i Zarządzania im. prof. Tadeusza Kotarbińskiego w Olsztynie Aktualna nazwa: Wyższa Szkoła Informatyki i Zarządzania im. Prof. Tadeusza Kotarbińskiego z siedzibą w Olsztynie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8b0e6027-66e8-4ba2-8f04-552b398f1d8c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Grudziądzka Szkoła Wyższa Aktualna nazwa: Uczelnia im. Edwarda Herzberga w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/af46cde8-e1b6-43e3-bdf5-230a5ff4b47a",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2002",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1988",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / -",
+        "Nadanie stopnia",
+        "Politechnika Gdańska, Wydział Budowy Maszyn",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1980",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/gremiums/6bee1148-028a-4756-9078-c56cefac821b",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A method for estimating the work of cutting forces to improve the efficiency of face milling of large-size workpieces",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/publications/f6901d82-ff46-4198-a6d0-93f2f5cf8444",
+      "authors": "K. Kaliński , M. Galewski, N. Stawicka-Morawska, ... (+1)",
+      "publication_type": "Artykuł , The International Journal of Advanced Manufacturing Technology",
+      "year": "2025",
+      "doi": "10.1007/s00170-025-15310-7",
+      "doi_url": "https://www.doi.org/10.1007/s00170-025-15310-7",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Experimentally Aided Operational Virtual Prototyping to Predict Best Clamping Conditions for Face Milling of Large-Size Structures",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/publications/cf7ec361-60e3-4681-a123-a15f41fe6b9b",
+      "authors": "K. Kaliński , M. Galewski, M. Mazur, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14167346",
+      "doi_url": "https://www.doi.org/10.3390/app14167346",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The clamping selection method to reduce the vibration of large-size workpieces during the face milling process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/publications/9a7af2e6-fba3-4a99-a347-714070e81a12",
+      "authors": "K. Kaliński , K. Jemielniak, M. Galewski, ... (+2)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2024",
+      "doi": "10.24425/bpasts.2024.148840",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.148840",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nadzorowanie drgań układów mechanicznych modelowanych dyskretnie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/cae9ec17-f1e9-4273-9d4c-499d6d05398b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metoda elementów skończonych w obliczeniach drgań układów mechanicznych ze sprzężeniem zwrotnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/828be95d-f7d7-47cc-a20b-2760509ec1e4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Metoda doboru sztywności zamocowania przedmiotu wielkogabarytowego w zastosowaniu do redukcji drgań podczas frezowania narzędziami wieloostrzowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/3b000649-6f25-4972-b32b-ffa4bd5a8141",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Techniki projektowania mechatronicznego systemu nadzorowania ruchu trójkołowej platformy mobilnej z zastosowaniem energetycznego wskaźnika jakości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/0c95d788-1179-45c4-8c32-5c078b527381",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Nadzorowanie drgań podczas procesu frezowania przedmiotów podatnych z wykorzystaniem aktywnego sterowania optymalnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/5de299bc-6a58-4a11-85e3-959ed00546ea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/e7e4dc37-eeaa-42d1-ad4f-f4de6b9abed7",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Sterowanie robotem za pomocą odpornego na awarie osi algorytmu bazującego na sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/032aa3bb-820d-49d4-aa78-e0754b9a60d8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Modelowanie i identyfikacja właściwości dynamicznych obrabiarek o korpusach stalowo-polimerobetonowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krzysztof.kali%C5%84ski.Sa4UssIa0sH/research-work/5e3a8e47-f121-49bc-ac80-05e7b372f540",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=61022"
+    }
+  ],
+  "tag_cloud": [
+    "milling",
+    "drgania mechaniczne",
+    "vibration suppression",
+    "face milling",
+    "frezowanie",
+    "virtual prototyping",
+    "nadzorowanie drgań",
+    "skrawanie",
+    "samowzbudne drgania chatter",
+    "modal analysis"
+  ],
+  "coworkers": []
+}

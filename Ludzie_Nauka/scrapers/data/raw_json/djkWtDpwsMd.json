@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd",
+  "slug": "joanna.kulawik",
+  "profile_id": "djkWtDpwsMd",
+  "full_name": "dr inż. Joanna Kulawik",
+  "orcid": "0000-0002-5012-6563",
+  "orcid_url": "https://orcid.org/0000-0002-5012-6563",
+  "breadcrumb_name": "Joanna Kulawik",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "analiza i przetwarzanie obrazów",
+    "sieci neuronowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "AI-Based Detection and Classification of Horizontal Road Markings in Digital Images Dedicated to Driver Assistance Systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/publications/fc51d9fe-dc58-46e6-bfc1-426b94dde799",
+      "authors": "J. Kulawik , Ł. Kuczyński",
+      "publication_type": "Artykuł , Applied Sciences-Basel",
+      "year": "2025",
+      "doi": "10.3390/app152212189",
+      "doi_url": "https://www.doi.org/10.3390/app152212189",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated Evaluation of Pavement Marking Quality Based on Multi-Sensor Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/publications/32c1566d-d774-4f4f-87be-86a1b605639c",
+      "authors": "J. Kulawik , Ł. Karbowiak",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.62036/isd.2025.148",
+      "doi_url": "https://www.doi.org/10.62036/isd.2025.148",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Estimating the Distance to an Object from Static Color Stereo Images using Convolutional Neural Networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/publications/78d91fdc-4524-490f-a709-b09ba4390857",
+      "authors": null,
+      "publication_type": "Artykuł , Procedia Computer Science",
+      "year": "2023",
+      "doi": "10.1016/j.procs.2023.10.217",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2023.10.217",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wspomaganie autonomicznego przemieszczania z wykorzystaniem stereowizji i algorytmów sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/joanna.kulawik.djkWtDpwsMd/research-work/8e01c877-8884-4753-98ad-cf11d7a49021",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=313934"
+    }
+  ],
+  "tag_cloud": [
+    "descriptor",
+    "multimedia container",
+    "wykrywanie obiektów",
+    "descriptors",
+    "deep learning",
+    "object detection",
+    "corner detection",
+    "detekcja punktów kluczowych",
+    "key point detection",
+    "yolov4-tiny"
+  ],
+  "coworkers": []
+}

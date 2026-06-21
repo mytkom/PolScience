@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4",
+  "slug": "paweł.rutecki",
+  "profile_id": "yu7QSMF7ND4",
+  "full_name": "mgr inż. Paweł Rutecki",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Paweł Rutecki",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2022",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "chemia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Environmental electrochemical sensing of nitrotoluenes using dendrite-like carbon nanowall electrodes in real marine samples",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/publications/2856be41-05fc-4f3d-b12d-bbc3e710c9b3",
+      "authors": "P. Rutecki , M. Sobaszek, I. Kaczmarzyk, ... (+5)",
+      "publication_type": "Artykuł , Sensors and Actuators B: Chemical",
+      "year": "2026",
+      "doi": "10.1016/j.snb.2025.138615",
+      "doi_url": "https://www.doi.org/10.1016/j.snb.2025.138615",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "High sensitivity voltammetric sensor of 4-nitrotoluene based on nanoflake-rich boron-doped carbon nanowall electrode for water safety",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/publications/22059e12-f3fa-4f1d-a1a6-235cadf65648",
+      "authors": "P. Rutecki , M. Sobaszek, A. Dettlaff",
+      "publication_type": "Artykuł , Mikrochimica Acta",
+      "year": "2025",
+      "doi": "10.1007/s00604-025-07065-5",
+      "doi_url": "https://www.doi.org/10.1007/s00604-025-07065-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Determination of Sodium Ion Diffusion Coefficient in Tin Sulfide@Carbon Anode Material Using GITT and EIS Techniques",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.rutecki.yu7QSMF7ND4/publications/80b7afc2-2227-4b75-b251-56f125ef9ca2",
+      "authors": "A. Nowak, P. Rutecki , M. Szkoda, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17133233",
+      "doi_url": "https://www.doi.org/10.3390/en17133233",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

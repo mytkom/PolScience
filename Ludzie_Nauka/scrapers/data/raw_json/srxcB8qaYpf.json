@@ -1,0 +1,179 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf",
+  "slug": "konrad.marosek",
+  "profile_id": "srxcB8qaYpf",
+  "full_name": "dr Konrad Marosek",
+  "orcid": "0000-0002-5681-8245",
+  "orcid_url": "https://orcid.org/0000-0002-5681-8245",
+  "breadcrumb_name": "Konrad Marosek",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kosmologia",
+    "ogólna teoria względności"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Akademia Morska w Szczecinie Aktualna nazwa: Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński; Wydział Matematyczno-Fizyczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5fcd4791-926f-49e5-b21e-01f653bfe565"
+        },
+        {
+          "label": "Uniwersytet Szczeciński >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Szczeciński",
+          "href": "https://radon.nauka.gov.pl/dane/profil/abcd38c3-bc4b-4b17-8dcf-9210f0fba35e"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Dependence of the basic surface parameters of metal on temperature",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/publications/985ce47c-a267-4d10-8c0e-4c7fb2668611",
+      "authors": "J. Chrzanowski, K. Marosek , L. Kasyk",
+      "publication_type": "Artykuł , Scientific Journals of the Maritime University of Szczecin-Zeszyty Naukowe Akademii Morskiej w Szczecinie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analytical Method for Determining the Viscosity Index of Engine Lubricating Oils",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/publications/09d0ac29-a57c-4f59-b822-9e97882fafb9",
+      "authors": "L. Chybowski, M. Szczepanek [...] K. Marosek , ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2024",
+      "doi": "10.3390/en17194908",
+      "doi_url": "https://www.doi.org/10.3390/en17194908",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Conformal structure of singularities in some varying fundamental constants bimetric cosmologies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/publications/00ae806e-d51d-45de-95d6-8a5f097f4282",
+      "authors": "K. Marosek , A. Balcerzak",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-72794-1",
+      "doi_url": "https://www.doi.org/10.1038/s41598-024-72794-1",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Regularyzacja osobliwości kosmologicznych I cykliczne multiwszechświaty w teoriach z dynamicznymi stałymi fundamentalnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.marosek.srxcB8qaYpf/research-work/1de64ff5-0f53-4e4e-9811-55bcbb8ff0e6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=284777"
+    }
+  ],
+  "tag_cloud": [
+    "singularities",
+    "bardzo duży teleskop",
+    "third quantization",
+    "quantum cosmology",
+    "trzecie kwantowanie",
+    "zmienne stałe fundamentalne",
+    "varying fundamental constants",
+    "multiverse",
+    "zmienna stała struktury subtelnej",
+    "cosmological"
+  ],
+  "coworkers": []
+}

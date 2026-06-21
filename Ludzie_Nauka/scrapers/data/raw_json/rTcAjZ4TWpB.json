@@ -1,0 +1,192 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB",
+  "slug": "konrad.wojdan",
+  "profile_id": "rTcAjZ4TWpB",
+  "full_name": "dr inż. Konrad Robert Wojdan",
+  "orcid": "0000-0002-5627-4858",
+  "orcid_url": "https://orcid.org/0000-0002-5627-4858",
+  "breadcrumb_name": "Konrad Wojdan",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy optymalizacji i sterowania"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 10 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advanced Operational Optimization of Large District Heating Network",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/publications/650540ed-78f5-471c-8f36-7ab96df5cb1a",
+      "authors": "W. Bujalski, K. Wojdan , M. Guzek, ... (+2)",
+      "publication_type": "Artykuł , SSRN",
+      "year": "2024",
+      "doi": "10.2139/ssrn.5059700",
+      "doi_url": "https://www.doi.org/10.2139/ssrn.5059700",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "playOmics: A multi-omics pipeline for interpretable predictions and biomarker discovery",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/publications/d9ece32e-4ee9-4ef9-8c46-1ed112f3b0eb",
+      "authors": "J. Głowacka-Walas, K. Sijko, K. Wojdan , ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1101/2024.03.12.584088",
+      "doi_url": "https://www.doi.org/10.1101/2024.03.12.584088",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Dataset level explanation of heat demand forecasting ANN with SHAP",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/publications/773b6c53-c781-4b20-a774-e220bb160b87",
+      "authors": "K. Wojdan , M. Guzek, W. Bujalski, ... (+2)",
+      "publication_type": "Artykuł , Energy",
+      "year": "2022",
+      "doi": "10.1016/j.energy.2022.125075",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2022.125075",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "System optymalizacji bieżącej punktu pracy procesów technologicznych inspirowany działaniem układu immunologicznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/research-work/e9c3e853-7bde-44d8-894a-6dd06d3bde6c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wyjaśnianie predykcji i szacowanie wpływu dryfu danych na jakość modeli Uczenia Maszynowego prognozujących zapotrzebowanie na energię na przykładzie modelu prognozującego zapotrzebowanie na ciepło w Warszawskiej Sieci Ciepłowniczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/research-work/f3b8600a-edd9-4c50-84e7-c92d8790b16c",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System optymalizacji pracy Warszawskiej Sieci Ciepłowniczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/research-work/14d20a1f-fd6b-42df-9c84-267f68543232",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "System generujący prognozy zapotrzebowania na ciepło dla Warszawskiej Sieci Ciepłowniczej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/konrad.wojdan.rTcAjZ4TWpB/research-work/d702ed37-6d18-4279-803c-3c568d852fa1",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=223892"
+    }
+  ],
+  "tag_cloud": [
+    "prediction models",
+    "underground gas storage",
+    "sequential quadratic programming",
+    "compressor station",
+    "optimisation",
+    "sqp",
+    "dynamic programming",
+    "gas storage",
+    "artificial neural networks",
+    "demand forecasting"
+  ],
+  "coworkers": []
+}

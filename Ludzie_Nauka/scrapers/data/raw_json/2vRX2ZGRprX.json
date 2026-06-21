@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX",
+  "slug": "ireneusz.mrozek",
+  "profile_id": "2vRX2ZGRprX",
+  "full_name": "dr hab. inż. Ireneusz Jan Mrozek",
+  "orcid": "0000-0003-2779-7569",
+  "orcid_url": "https://orcid.org/0000-0003-2779-7569",
+  "breadcrumb_name": "Ireneusz Mrozek",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy operacyjne",
+    "testowanie systemów komputerowych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "7 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży Aktualna nazwa: Akademia Łomżyńska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/fab8ffae-7bc4-4ae5-b896-7aa0f534ab93",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Białostocka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/gremiums/19fd3d68-2244-4ba6-ba77-6940c9531427",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An Approach for Controlled Random Tests with a Given Hamming Distance Generation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/publications/164dfdc7-d547-4932-9eb5-5df1690c31c4",
+      "authors": "I. Mrozek , M. Kopczewski, V. Yarmolik",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15189951",
+      "doi_url": "https://www.doi.org/10.3390/app15189951",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Linked Coupling Faults Detection by Multirun March Tests",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/publications/864a9366-2462-48af-97fc-5440a446e122",
+      "authors": "I. Mrozek , V. Yarmolik",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/app14062501",
+      "doi_url": "https://www.doi.org/10.3390/app14062501",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Administracja systemami Linux. Programowanie w powłoce bash",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/publications/22739229-28bd-4a33-9f3a-c914a80acc63",
+      "authors": "A. Chmielewski, I. Mrozek , E. Busłowska",
+      "publication_type": "Książka , Politechnika Białostocka",
+      "year": "2023",
+      "doi": "10.24427/978-83-67185-70-7",
+      "doi_url": "https://www.doi.org/10.24427/978-83-67185-70-7",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie wieloprzebiegowych testów krokowych w procesie detekcji złożonych uszkodzeń pamięci RAM",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/research-work/fdc839e0-3c7b-4644-b9cd-39eec2b5fef8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Predyktywny model dezorganizacji roju dronów przy przejściu intruza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/research-work/b82fd0c2-161a-4845-8dfa-281a2c254a3b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Synteza logiczna funkcji boolowskich szczególnej postaci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ireneusz.mrozek.2vRX2ZGRprX/research-work/09205c5e-4cea-49f4-bc99-15c1de12fbc5",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=119906"
+    }
+  ],
+  "tag_cloud": [
+    "testy transparentne",
+    "storage devices",
+    "запоминающие устройства",
+    "тестирование вычислительных систем",
+    "ram",
+    "bist",
+    "многократное тестирование",
+    "маршевые тесты памяти",
+    "psf",
+    "memory"
+  ],
+  "coworkers": []
+}

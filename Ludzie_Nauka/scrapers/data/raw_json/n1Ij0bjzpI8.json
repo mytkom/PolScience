@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8",
+  "slug": "serhii.lupenko",
+  "profile_id": "n1Ij0bjzpI8",
+  "full_name": "dr Serhii Lupenko",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Serhii Lupenko",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna Ukrainy [Національне агентство з акредитації України] • Ukraina",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Optimization of additive Fibonacci generators based on primitive polynomials over GF(p)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/publications/e2740121-cab0-41b9-9057-e97f4b88c2a1",
+      "authors": "P. Sawicki, V. Maksymovych [...] S. Lupenko , ... (+5)",
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3600582",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3600582",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Stochastic Model and Rhythm-Adaptive Technologies of Statistical Analysis and Forecasting of Economic Processes with Cyclic Components",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/publications/89039eb0-7d65-4f91-a403-7f2f24835ab0",
+      "authors": "S. Lupenko , A. Horkunenko",
+      "publication_type": "Artykuł , Forecasting",
+      "year": "2025",
+      "doi": "10.3390/forecast7020020",
+      "doi_url": "https://www.doi.org/10.3390/forecast7020020",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Abstract Cyclic Functional Relation and Taxonomies of Cyclic Signals Mathematical Models: Construction, Definitions and Properties",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/serhii.lupenko.n1Ij0bjzpI8/publications/e34ed24e-3dc9-4a19-8e00-a986f117b1f1",
+      "authors": null,
+      "publication_type": "Artykuł , Mathematics",
+      "year": "2024",
+      "doi": "10.3390/math12193084",
+      "doi_url": "https://www.doi.org/10.3390/math12193084",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

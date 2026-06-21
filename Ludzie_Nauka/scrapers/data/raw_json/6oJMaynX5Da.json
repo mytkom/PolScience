@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da",
+  "slug": "piotr.żurek",
+  "profile_id": "6oJMaynX5Da",
+  "full_name": "mgr inż. Piotr Żurek",
+  "orcid": "0000-0002-8735-6426",
+  "orcid_url": "https://orcid.org/0000-0002-8735-6426",
+  "breadcrumb_name": "Piotr Żurek",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska im.I.Łukasiewicza",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modeling and Cutting Mechanics in the Milling of Polymer Matrix Composites",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/publications/a1a9fe79-c70b-46e2-8033-8bd3b29e5a9f",
+      "authors": "P. Żurek , K. Ciecieląg, A. Kawalec, ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18133017",
+      "doi_url": "https://www.doi.org/10.3390/ma18133017",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Side Oscillation Milling: Modeling, Analysis, and Compensation of Cutting Forces Through Feed Optimization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/publications/6a62c444-c0d9-4101-b946-cc85ff1715ed",
+      "authors": "P. Żurek , M. Gdula",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18163789",
+      "doi_url": "https://www.doi.org/10.3390/ma18163789",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Modeling of Surface Topography after Milling with a Lens-Shaped End-Mill, Considering Runout",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/piotr.%C5%BCurek.6oJMaynX5Da/publications/bf4a5b52-7918-4d73-877a-72c5768e1d19",
+      "authors": "K. Żurawski, P. Żurek , A. Kawalec, ... (+2)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2022",
+      "doi": "10.3390/ma15031188",
+      "doi_url": "https://www.doi.org/10.3390/ma15031188",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=286041"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

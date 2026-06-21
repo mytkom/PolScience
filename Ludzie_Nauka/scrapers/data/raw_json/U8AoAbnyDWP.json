@@ -1,0 +1,240 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP",
+  "slug": "mariusz.korkosz",
+  "profile_id": "U8AoAbnyDWP",
+  "full_name": "dr hab. inż. Mariusz Korkosz",
+  "orcid": "0000-0002-9097-0988",
+  "orcid_url": "https://orcid.org/0000-0002-9097-0988",
+  "breadcrumb_name": "Mariusz Korkosz",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne",
+    "napęd elektryczny"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "32 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza; Wydział Elektrotechniki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/de8e0520-6fd5-4334-ac3b-f517266f4b68"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2003",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1993",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika, Elektrotechnika i Technologie Kosmiczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/gremiums/27738b03-0e04-4cfd-b3f6-a4b4fb209dbe",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analiza funkcji kosztu w optymalizacji silnika typu AC IPM o mocy 80 kW w zastosowaniach motoryzacyjnych",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/publications/a7b5cbfb-afcf-454f-b1aa-cd6e56e300c6",
+      "authors": "P. Zasowski, A. Młot, M. Korkosz , ... (+1)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.07.03",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.07.03",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Analysis of the impact of the method of manufacturing the rotor on the parameters of an AC IPM machine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/publications/7ccd492f-b3e4-4bb5-b2a0-2b47c33fb6f5",
+      "authors": "K. Ryłło, A. Młot, M. Korkosz , ... (+1)",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.153433",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.153433",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Influence of winding configuration on properties of the multichannel permanent magnet brushless generator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/publications/d6b3fe9b-cf64-4958-a9f8-2c16f4a4e7e7",
+      "authors": "K. Krzywdzińska-Kornak, M. Korkosz , J. Prokop",
+      "publication_type": "Artykuł , Archives of Electrical Engineering",
+      "year": "2025",
+      "doi": "10.24425/aee.2025.153901",
+      "doi_url": "https://www.doi.org/10.24425/aee.2025.153901",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza wpływu wybranych parametrów na właściwości wysokoobrotowych silników reluktancyjnych przełączalnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work/ba5a6803-31e8-4d06-a3db-3eb9a44b0ea1",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Praca silnikowo-generatorowa przełączalnej maszyny reluktancyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work/5f25a5fa-4f19-4987-af3c-4a0906139529",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Sterowanie silników wzbudzanych magnesami trwałymi wyposażonych w czujniki położenia wału",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work/b0b52de0-8eb9-4d91-b908-b0e53d7d83c8",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza pracy układu harwestera energii z prostownikiem aktywnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work/e18422d1-e00a-4383-840d-9bb2b8fb4b9e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Diagnostyka drgań w maszynach elektrycznych z magnesami trwałymi wykorzystująca sygnały własne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.korkosz.U8AoAbnyDWP/research-work/46f6e9dd-6a80-466b-a485-d6f3da64acdc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=123713"
+    }
+  ],
+  "tag_cloud": [
+    "induction motor",
+    "konstrukcja wielobiegunowa",
+    "sterowanie jednpulsowe",
+    "sprawność ogólna",
+    "bezszczotkowy silnik z magnesami trwałymi",
+    "sterowanie prądowe",
+    "niskonapięciowy",
+    "gałęzie równoległe",
+    "parallel branches",
+    "method of average voltages in integration step"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,236 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z",
+  "slug": "halina.tarasiuk",
+  "profile_id": "aAGcEalhw9Z",
+  "full_name": "dr hab. inż. Halina Tarasiuk",
+  "orcid": "0000-0002-3358-460X",
+  "orcid_url": "https://orcid.org/0000-0002-3358-460X",
+  "breadcrumb_name": "Halina Tarasiuk",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci ATM",
+    "sieci IP z jakością obsługi",
+    "Internet przyszłości"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "21 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / telekomunikacja",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektroniki i Technik Informacyjnych",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c0ed692c-8cfd-4112-aa71-74f5b9007ba4"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektronika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1996",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Szczecińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cloud Native Observability for an Enhanced Orchestration at the Telco Edge",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/publications/52c3d3d4-52c4-480e-bfe7-61e067d00a21",
+      "authors": "P. Matysiak, H. Tarasiuk , M. Ziółkowski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1109/icc52391.2025.11162045",
+      "doi_url": "https://www.doi.org/10.1109/icc52391.2025.11162045",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Sustainable 6G architecture: An organic evolution of 5G networks",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/publications/f68246af-5fff-487e-81a6-a35098ebd754",
+      "authors": "M. Ziółkowski, H. Tarasiuk , Ö. Akgül, ... (+14)",
+      "publication_type": "Artykuł , Computer Networks",
+      "year": "2025",
+      "doi": "10.1016/j.comnet.2025.111629",
+      "doi_url": "https://www.doi.org/10.1016/j.comnet.2025.111629",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "5G-Edge Relocator: a Framework for Application Relocation in Edge-enabled 5G System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/publications/f50e2652-8bd9-4ff7-82a9-0aefea66a795",
+      "authors": "G. Panek, H. Tarasiuk , P. Matysiak, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1109/icc45041.2023.10279418",
+      "doi_url": "https://www.doi.org/10.1109/icc45041.2023.10279418",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody sterowania ruchem i architektury dla sieci z gwarancją jakości przekazu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work/64d5fc4b-8a88-4324-ae21-b2db113facf7",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Metody różnicowania jakości obsługi w sieciach z komutacją pakietów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work/d09d7f35-acd7-43e4-890e-0bdeecc26c2c",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Dobór lokalizacji węzłów pośredniczących w sieci LoRa oraz ich wpływ na efektywność sieci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work/45b05916-8e16-4a65-b799-9bafa7d0913d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Samo-nadzorujące się uczenie w czasie rzeczywistym dla wykrywania włamań w bezpiecznym internecie rzeczy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work/70a017b8-41b3-4881-b2b4-deae72fb22ae",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Samo-nadzorujące się uczenie w czasie rzeczywistym dla wykrywania włamań w Bezpiecznym Internecie Rzeczy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/halina.tarasiuk.aAGcEalhw9Z/research-work/db85c08c-151b-45ec-8f6d-b65334884fdc",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=125052"
+    }
+  ],
+  "tag_cloud": [
+    "ovs",
+    "edge computing",
+    "vnf offloading",
+    "5g",
+    "p4",
+    "open vswitch",
+    "openflow",
+    "bpf",
+    "software switch",
+    "sdn"
+  ],
+  "coworkers": []
+}

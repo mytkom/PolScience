@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q",
+  "slug": "mateusz.szymborski",
+  "profile_id": "belOr3hfl6Q",
+  "full_name": "mgr Mateusz Szymborski",
+  "orcid": "0000-0001-6752-9257",
+  "orcid_url": "https://orcid.org/0000-0001-6752-9257",
+  "breadcrumb_name": "Mateusz Szymborski",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "global production engineering and management",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2018",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Vendor selection criteria and formalization of project procurement management and governance",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/publications/c27d8817-8456-4179-af75-a575fe65b9a4",
+      "authors": "E. Głodziński, M. Szymborski",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.1016/j.procs.2024.09.297",
+      "doi_url": "https://www.doi.org/10.1016/j.procs.2024.09.297",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Ład projektowy – obszary badawcze a kierunki przyszłych studiów w świetle systematycznego przeglądu literatury",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/publications/0931adb0-ac74-4c04-9c3f-3b0a4f9ca0bd",
+      "authors": "E. Głodziński, M. Szymborski",
+      "publication_type": "Artykuł , Studia i Prace Kolegium Zarządzania i Finansów",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Internal project governance: value added system and a central element of organizational project management",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mateusz.szymborski.belOr3hfl6Q/publications/b1e3775b-98b0-492b-a7b7-1ec5a6201ae9",
+      "authors": "E. Głodziński, M. Szymborski",
+      "publication_type": "Artykuł , Zeszyty Naukowe. Organizacja i Zarządzanie / Politechnika Śląska",
+      "year": "2020",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

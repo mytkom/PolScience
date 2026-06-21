@@ -1,0 +1,349 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx",
+  "slug": "jacek.mańdziuk",
+  "profile_id": "vDxxNGCt9Lx",
+  "full_name": "prof. dr hab. Jacek Mańdziuk",
+  "orcid": "0000-0003-0947-028X",
+  "orcid_url": "https://orcid.org/0000-0003-0947-028X",
+  "breadcrumb_name": "Jacek Mańdziuk",
+  "current_employment_summary": [
+    "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "sieci neuronowe",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 4 miesiące",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "36 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Akademia Techniczno-Artystyczna Nauk Stosowanych w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e6ca39d1-feb1-42d3-8722-a361a8bd83b5",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": null,
+      "duration": null,
+      "institution": "Instytut Gruźlicy i Chorób Płuc",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e711ee8e-d6f5-4f65-bd9b-29d4fe201466",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki techniczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Instytut Badań Systemowych Polskiej Akademii Nauk",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fe0251f2-3765-4045-91af-9e1b55dbd752"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1993",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1989",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka stosowana",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        },
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Jacek Mańdziuk"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Zespół II Nauk Inżynieryjno-Technicznych",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/gremiums/02ddc339-c5e4-45be-90b1-d59eedd321e3",
+      "period": "2024-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Advances in Artificial Intelligence Research: Proceedings of the 6th Polish Conference on Artificial Intelligence, PP-RAI 2025, Katowice, Poland, 7-9 April, 2025",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/publications/0e0dac9d-d47b-475f-887c-bcf2daf8c788",
+      "authors": "B. Zielosko, R. Doroz [...] J. Mańdziuk , ... (+2)",
+      "publication_type": "Książka pod redakcją",
+      "year": "2026",
+      "doi": "10.1007/978-3-032-04197-5",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-04197-5",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Classification of piano performers with deep learning models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/publications/49a3156d-5e97-447c-bcc2-24da52053d1e",
+      "authors": "J. Mycka, J. Mańdziuk",
+      "publication_type": "Artykuł , Journal of Computational Science",
+      "year": "2026",
+      "doi": "10.1016/j.jocs.2026.102804",
+      "doi_url": "https://www.doi.org/10.1016/j.jocs.2026.102804",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "A-I-RAVEN and I-RAVEN-Mesh: Two New Benchmarks for Abstract Visual Reasoning",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/publications/4821624b-071c-42ca-9b69-982873b5bd33",
+      "authors": "M. Małkiński, J. Mańdziuk",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.24963/ijcai.2025/660",
+      "doi_url": "https://www.doi.org/10.24963/ijcai.2025/660",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Sieci neuronowe typu Hopfielda. Teoria i przykłady działań",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/9e576cf7-90f1-408d-875f-1c121ef740be",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie sieci neuronowych do rozwiązywania wybranych problemów optymalizacyjnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/843b36b5-8ec8-4725-aaa5-b06de60d6f9e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Połączenie algorytmów symulacyjnych oraz dziedzinowych metod heurystycznych w zagadnieniach dynamicznego podejmowania decyzji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/cb48acdb-7091-4bbe-a2a3-63e9b7c4f053",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie populacyjnych metaheurystyk uwzgledniajacych rozkład danych problemu do rozwiazywania problemu dynamicznej marszrutyzacji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/2c9941aa-2837-47a8-a40b-745341155c6a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Adaptive simulation-based meta-heuristic methods in synchronous multiplayer games",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/94801e3b-dd7b-44ee-bb56-06926fdff921",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Uczenie maszynowe oraz sztuczna inteligencja w trimodalnym systemie biometrycznym bazującym na odcisku palca, jego układzie żył i geometrii",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/1cc7e9cb-2f9a-4617-bf8e-f347bdba7a29",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Efficient Models and Techniques for Recommendation Systems",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/f0acfdf3-3294-4128-adf9-ded30bdcbf0e",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Journey through time and space: Selected applications of deep learning techniques for speech, video, and point cloud modeling",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.ma%C5%84dziuk.vDxxNGCt9Lx/research-work/f093ee08-7875-4a0c-939e-c37dc866d252",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=20408"
+    }
+  ],
+  "tag_cloud": [
+    "evolutionary algorithm",
+    "klasyfikacja",
+    "optymalizacja globalna",
+    "neural networks",
+    "security games",
+    "lshade",
+    "sieci neuronowe",
+    "classification",
+    "gry obronne",
+    "stackelberg equilibrium"
+  ],
+  "coworkers": []
+}

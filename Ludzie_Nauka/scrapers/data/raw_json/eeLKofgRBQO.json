@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO",
+  "slug": "mariusz.topolski",
+  "profile_id": "eeLKofgRBQO",
+  "full_name": "dr hab. inż. Mariusz Topolski",
+  "orcid": "0000-0002-5213-6845",
+  "orcid_url": "https://orcid.org/0000-0002-5213-6845",
+  "breadcrumb_name": "Mariusz Topolski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "4 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Bankowa we Wrocławiu Aktualna nazwa: Uniwersytet WSB Merito we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8395c169-9930-4090-acb2-320b9203f249",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. Witelona w Legnicy Aktualna nazwa: Collegium Witelona Uczelnia Państwowa",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/01188a2d-6822-402e-9053-21ba791fac0b",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "1 rok",
+      "duration": null,
+      "institution": "Wrocławska Wyższa Szkoła Informatyki Stosowanej we Wrocławiu Aktualna nazwa: Akademia Techniczno-Informatyczna w Naukach Stosowanych",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/1a43aa07-da9c-4574-826a-58b1969d80d3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Informatyki i Telekomunikacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc99890d-3d87-463b-85d9-d1d14d9b0ae2"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Anxiety in Polish adult patients with inborn errors of immunity: a cross-sectional study.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/publications/d0321461-89d1-4b64-a9bd-2400077391b5",
+      "authors": "K. Grochowalska, M. Ziętkiewicz [...] M. Topolski , ... (+7)",
+      "publication_type": "Artykuł , Frontiers in Psychiatry",
+      "year": "2024",
+      "doi": "10.3389/fpsyt.2024.1293935",
+      "doi_url": "https://www.doi.org/10.3389/fpsyt.2024.1293935",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Predictive modelling of social capital among library workers: a machine learning approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/publications/f9afa73b-4719-4b02-b180-8b2349f907da",
+      "authors": "M. Wojciechowska, M. Topolski",
+      "publication_type": "Artykuł , Malaysian Journal of Library and Information Science",
+      "year": "2024",
+      "doi": "10.22452/mjlis.vol29no1.3",
+      "doi_url": "https://www.doi.org/10.22452/mjlis.vol29no1.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Analysis and evaluation of the influence of selected factors on the occurrence of defects in polish housing construction using the example of the lower silesia region",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/publications/d4d8dc6d-56e6-491b-850c-7c89e18610fb",
+      "authors": "B. Hoła, M. Topolski , T. Nowobilski, ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app14010079",
+      "doi_url": "https://www.doi.org/10.3390/app14010079",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Metody ekstrakcji cech w uczeniu maszynowym. Nowe trendy inżynierii cech",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/research-work/373617f5-6b5b-47ae-959c-11fe18f535b2",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Komputerowe algorytmy rozpoznawania sekwencyjnego z modelem łączących teorię ewidencji matematycznej z teorią zbiorów rozmytych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/research-work/a9b89aca-53c1-4c3e-b8ee-3f12acc18559",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "„Strategie zarządzania kryzysem w sektorze służby zdrowia w Polsce”.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/mariusz.topolski.eeLKofgRBQO/research-work/5d93c971-0a51-42e0-8559-b664f59ab236",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=210587"
+    }
+  ],
+  "tag_cloud": [
+    "machine learning",
+    "depression",
+    "cardiac surgery",
+    "statistical methods of data classification",
+    "risk factors",
+    "białaczka limfocytowa",
+    "antibiotic consumption",
+    "patients reported outcomes (pros)",
+    "clostridioides difficile",
+    "klasyfikatory"
+  ],
+  "coworkers": []
+}

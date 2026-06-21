@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX",
+  "slug": "dominika.bury",
+  "profile_id": "Ym47gnVHZLX",
+  "full_name": "mgr inż. Dominika Maria Bury",
+  "orcid": "0000-0003-2075-7409",
+  "orcid_url": "https://orcid.org/0000-0003-2075-7409",
+  "breadcrumb_name": "Dominika Bury",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "inżynieria środowiska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Bacterial Responses and Material‐Cell Interplays With Novel MoAlB@MBene",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/publications/e0116314-d3ff-486b-afc9-023fbf3e5425",
+      "authors": "M. Jakubczak, D. Bury , A. Jastrzebska, ... (+3)",
+      "publication_type": "Artykuł , Advanced Healthcare Materials",
+      "year": "2025",
+      "doi": "10.1002/adhm.202402323",
+      "doi_url": "https://www.doi.org/10.1002/adhm.202402323",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "From phytotoxicity to growth stimulation: Contrasting effects of Ti3C2Tx MXene and MoAlB@MBene on higher plants",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/publications/2664c673-af0b-4429-8074-19277e7c9856",
+      "authors": "M. Jakubczak, D. Bury , D. Moszczyńska, ... (+3)",
+      "publication_type": "Artykuł , Journal of Environmental Chemical Engineering",
+      "year": "2025",
+      "doi": "10.1016/j.jece.2025.116971",
+      "doi_url": "https://www.doi.org/10.1016/j.jece.2025.116971",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Photocatalytic MXenes-Magnetite Capsules for Industrial Dye Wastewater Treatment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.bury.Ym47gnVHZLX/publications/15db3016-41fb-4dd7-9051-f1b99b041abe",
+      "authors": "D. Bury , M. Jakubczak, D. Ścieżyńska, ... (+8)",
+      "publication_type": "Artykuł , Journal of Alloys and Compounds",
+      "year": "2025",
+      "doi": "10.1016/j.jallcom.2025.183626",
+      "doi_url": "https://www.doi.org/10.1016/j.jallcom.2025.183626",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "antibacterial properties",
+    "self-sterilizing",
+    "hematite",
+    "zero valent iron",
+    "advanced oxidation processes",
+    "magnetite",
+    "industrial wastewater",
+    "materiały 2d",
+    "lacquer coatings",
+    "mxene"
+  ],
+  "coworkers": []
+}

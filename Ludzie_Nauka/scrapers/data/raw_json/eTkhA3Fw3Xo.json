@@ -1,0 +1,283 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo",
+  "slug": "waldemar.kuczyński",
+  "profile_id": "eTkhA3Fw3Xo",
+  "full_name": "prof. dr hab. inż. Waldemar Kuczyński",
+  "orcid": "0000-0002-7723-7650",
+  "orcid_url": "https://orcid.org/0000-0002-7723-7650",
+  "breadcrumb_name": "Waldemar Kuczyński",
+  "current_employment_summary": [
+    "Politechnika Koszalińska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "termodynamika",
+    "procesy cieplne",
+    "technika chłodnicza",
+    "klimatyzacja",
+    "odnawialne źródła energii"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Koszalińska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria środowiska, górnictwo i energetyka",
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Inżynierii Mechanicznej i Energetyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/753e787a-6612-4f7c-abd2-b470b87cff1c"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska; Wydział Inżynierii Mechanicznej i Energetyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/753e787a-6612-4f7c-abd2-b470b87cff1c"
+        },
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Nadanie tytułu",
+        "Politechnika Koszalińska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Koszalińska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/b26a6014-ae33-445c-9ff8-49216dbc5587"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/gremiums/019239a7-86f0-4c46-b201-0eb8d3fa49b9",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Komitet Termodynamiki i Spalania",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/gremiums/2cf967ea-a5cd-48ec-897a-1263554a043e",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Assessment of the Feasibility of Using Additive Manufacturing from Metal Powder to Produce Compact Heat Exchangers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/publications/ebb20cc9-c07e-492b-a983-4619277f1a8e",
+      "authors": "K. Chliszcz, K. Chcliszcz [...] W. Kuczyński , ... (+4)",
+      "publication_type": "Artykuł , MATERIALS",
+      "year": "2025",
+      "doi": "10.3390/ma18133035",
+      "doi_url": "https://www.doi.org/10.3390/ma18133035",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Content of Selected Compounds in the Exhaust Gas of a Naturally Aspirated CI Engine Fueled with Diesel–Tire Pyrolysis Oil Blend",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/publications/83f6e77a-64e0-4816-aeff-418f05a2df07",
+      "authors": "L. Chybowski, M. Szczepanek, W. Kuczyński , ... (+5)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2025",
+      "doi": "10.3390/en18102621",
+      "doi_url": "https://www.doi.org/10.3390/en18102621",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Experimental investigations into the condensation process of new environmentally friendly f-gas substitutes in mini-channels",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/publications/c9dc373d-5ac0-48a8-b0d3-12a1e2725ba6",
+      "authors": "W. Kuczyński , K. Chliszcz",
+      "publication_type": "Artykuł , Energy",
+      "year": "2024",
+      "doi": "10.1016/j.energy.2024.130883",
+      "doi_url": "https://www.doi.org/10.1016/j.energy.2024.130883",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/fc562124-cecf-4121-8bc1-062081db9e47",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Niestabilności hydrodynamiczne podczas skraplania czynników chłodniczych w minikanałach",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/b57e6446-1fc6-4dd6-b584-ae13773749fe",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie wrzenia w przepływie czynnika chłodniczego w warunkach zaburzeń generowanych periodycznie",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/1750748d-fb92-455b-a6d6-564281be5ce6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badanie przemiany fazowej skraplania ekologicznych substytutów czynników chłodniczych w minikanałach rurowych w warunkach zakłóceń dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/4d70b5f6-d8a3-4d83-8274-76d27d7905b7",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/e27c9439-1817-4cc0-851c-23ce40909d22",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badanie właściwości metrologicznych kryzy segmentowej skośnej.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/9875e8c1-9370-4a2c-9f5d-7002591df4d4",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Analiza energetyczno-ekonomiczna systemu magazynowania ciepła wyposażonego w zbiornik gorącej wody dla elektrociepłowni z wykorzystaniem modelowania numerycznego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/waldemar.kuczy%C5%84ski.eTkhA3Fw3Xo/research-work/7402b546-bc22-4858-8131-0fd6372bf1be",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=211327"
+    }
+  ],
+  "tag_cloud": [
+    "heat pump",
+    "obiegi orc",
+    "binarne czynniki termodynamiczne",
+    "minichannel",
+    "condensation",
+    "czynniki chłodnicze",
+    "binary thermodynamic fluids",
+    "floating house",
+    "classical thermodynamic circuits",
+    "renewable energy sources"
+  ],
+  "coworkers": []
+}

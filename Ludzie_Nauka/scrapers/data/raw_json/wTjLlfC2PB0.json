@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0",
+  "slug": "jan.kończak",
+  "profile_id": "wTjLlfC2PB0",
+  "full_name": "dr inż. Jan Zbigniew Kończak",
+  "orcid": "0000-0003-0129-9828",
+  "orcid_url": "https://orcid.org/0000-0003-0129-9828",
+  "breadcrumb_name": "Jan Kończak",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2022",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Failure Recovery from Persistent Memory in Paxos-based State Machine Replication",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/publications/94e2a6df-3ef6-4e9f-a244-88223a61a77d",
+      "authors": "P. Wojciechowski, J. Konczak",
+      "publication_type": "Artykuł",
+      "year": "2021",
+      "doi": "10.1109/srds53918.2021.00018",
+      "doi_url": "https://www.doi.org/10.1109/srds53918.2021.00018",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Recovery algorithms for Paxos-based state machine replication",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/publications/58178ee4-e021-470f-9e64-2cf4249eb4f6",
+      "authors": "A. Schiper, T. Żurkowski [...] J. Konczak , ... (+4)",
+      "publication_type": "Artykuł , IEEE Transactions on Dependable and Secure Computing",
+      "year": "2021",
+      "doi": "10.1109/tdsc.2019.2926723",
+      "doi_url": "https://www.doi.org/10.1109/tdsc.2019.2926723",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Operation-Level Wait-Free Transactional Memory with Support for Irrevocable Operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jan.ko%C5%84czak.wTjLlfC2PB0/publications/c34264f8-c4ca-4145-b324-5a88d6700a2f",
+      "authors": "P. Wojciechowski, J. Konczak , R. Guerraoui",
+      "publication_type": "Artykuł , IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS",
+      "year": "2017",
+      "doi": "10.1109/tpds.2017.2734879",
+      "doi_url": "https://www.doi.org/10.1109/tpds.2017.2734879",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

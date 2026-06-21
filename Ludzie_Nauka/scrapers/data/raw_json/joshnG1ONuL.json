@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL",
+  "slug": "małgorzata.jankowska",
+  "profile_id": "joshnG1ONuL",
+  "full_name": "dr hab. inż. Małgorzata Jankowska",
+  "orcid": "0000-0002-3505-5744",
+  "orcid_url": "https://orcid.org/0000-0002-3505-5744",
+  "breadcrumb_name": "Małgorzata Jankowska",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne",
+    "metody obliczeniowe mechaniki"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "22 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Budowy Maszyn i Zarządzania",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4d44fc3b-2e3c-4335-b73e-73d1e0978ca8"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1999",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "matematyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/gremiums/a28be589-09a3-4ff9-91e0-f0c9cb0807be",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Training RBF neural networks for solving nonlinear and inverse boundary value problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/publications/bb43ae42-e310-440f-be28-e4c9a1b495ae",
+      "authors": "C. Chen, M. Jankowska , A. Karageorghis",
+      "publication_type": "Artykuł , Computers and Mathematics with Applications",
+      "year": "2024",
+      "doi": "10.1016/j.camwa.2024.04.028",
+      "doi_url": "https://www.doi.org/10.1016/j.camwa.2024.04.028",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Kansa–RBF algorithms for elliptic BVPs in annular domains with mixed boundary conditions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/publications/4a9dcf97-3d2f-4a6e-bef0-7568f84e5712",
+      "authors": "M. Jankowska , A. Karageorghis, C. Chen",
+      "publication_type": "Artykuł , Mathematics and Computers in Simulation",
+      "year": "2023",
+      "doi": "10.1016/j.matcom.2022.11.006",
+      "doi_url": "https://www.doi.org/10.1016/j.matcom.2022.11.006",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "RBF-DQ algorithms for elliptic problems in axisymmetric domains",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/publications/aea18972-8bc1-458d-8b89-f0fbd9ca8c0e",
+      "authors": "M. Jankowska , A. Karageorghis, C. Chen",
+      "publication_type": "Artykuł , Numerical Algorithms",
+      "year": "2022",
+      "doi": "10.1007/s11075-021-01105-w",
+      "doi_url": "https://www.doi.org/10.1007/s11075-021-01105-w",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie wybranych zagadnień sprężysto-plastycznych z zastosowaniem metod obliczeniowych mechaniki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/research-work/5b65d57a-811d-45e1-a54c-74560df2277b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sprzężenie pól mechanicznych z innymi fizycznymi polami fizycznymi w ośrodkach jedno- i wielofazowych oraz w ośrodkach o anomalnych własnościach fizycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/research-work/bb5416b3-a9dd-4835-839f-95c3ff4c5e31",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Przedziałowe metody wielokrokowe typu Adamsa i ich implementacja w języku C++",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/research-work/14fdce9b-c7cc-4f3f-816a-df0f8fbe7a74",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Solving the Poisson equation in proper and directed interval arithmetic (praca posiada tytuł tylko w jęz.angielskim)",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ma%C5%82gorzata.jankowska.joshnG1ONuL/research-work/c4a480ae-8114-457b-b07d-8f219a564742",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=207101"
+    }
+  ],
+  "tag_cloud": [
+    "kansa method",
+    "neural networks",
+    "explicit interval multistep methods",
+    "interval difference methods",
+    "floating-point interval arithmetic",
+    "initial value problem",
+    "interval enclosure of derivatives",
+    "poisson equation",
+    "conventional and interval generalized finite differences",
+    "rbfs"
+  ],
+  "coworkers": []
+}

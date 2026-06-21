@@ -1,0 +1,152 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn",
+  "slug": "wojciech.książek",
+  "profile_id": "MwLq38eALCn",
+  "full_name": "dr inż. Wojciech Jakub Książek",
+  "orcid": "0000-0001-8743-8758",
+  "orcid_url": "https://orcid.org/0000-0001-8743-8758",
+  "breadcrumb_name": "Wojciech Książek",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2019",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Capsule neural networks with bayesian optimization for pediatric pneumonia detection from chest X-Ray images",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/publications/09686724-ae5f-45d3-9e4d-485064005879",
+      "authors": "W. Książek , S. Salamon",
+      "publication_type": "Artykuł , Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14207212",
+      "doi_url": "https://www.doi.org/10.3390/jcm14207212",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "DetPy (Differential Evolution Tools): a Python toolbox for solving optimization problems using differential evolution",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/publications/d82deffb-7a6e-49e0-a69d-a577088ac438",
+      "authors": "H. Orlicki, B. Zieliński, W. Książek , ... (+1)",
+      "publication_type": "Artykuł , SoftwareX",
+      "year": "2025",
+      "doi": "10.1016/j.softx.2024.102014",
+      "doi_url": "https://www.doi.org/10.1016/j.softx.2024.102014",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Diagnostics of diabetic retinopathy based on fundus photos using machine learning methods with advanced feature engineering algorithms.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/publications/82133596-aa9a-4364-b9f0-38c26660238b",
+      "authors": "M. Gandor, K. Jonak, W. Książek , ... (+14)",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-06973-z",
+      "doi_url": "https://www.doi.org/10.1038/s41598-025-06973-z",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Przewidywanie przeżywalności pacjentów chorych na nowotwór wątrobokomórkowy z wykorzystaniem metod uczenia maszynowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wojciech.ksi%C4%85%C5%BCek.MwLq38eALCn/research-work/b7f52cb9-cf2b-42c9-aad2-7c06ba339d2b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

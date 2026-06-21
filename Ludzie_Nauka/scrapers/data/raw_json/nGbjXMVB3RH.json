@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH",
+  "slug": "aneta.buczek",
+  "profile_id": "nGbjXMVB3RH",
+  "full_name": "dr Aneta Buczek",
+  "orcid": "0000-0003-1311-6945",
+  "orcid_url": "https://orcid.org/0000-0003-1311-6945",
+  "breadcrumb_name": "Aneta Buczek",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "chemia fizyczna i teoretyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk chemicznych / chemia",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Opolski; Wydział Chemii i Farmacji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/fda02d20-ef47-41c8-882f-2e590c94995b"
+        },
+        {
+          "label": "Uniwersytet Opolski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia podstawowa i stosowana",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Opolski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Opolski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Impact of O-H···π Hydrogen Bond on IR and NMR Parameters of Cannabidiol: Theoretical and Experimental Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/publications/c1bb2234-ed0a-49ef-99b2-cf8e31e1271a",
+      "authors": "A. Buczek , K. Rzepiela, T. Kupka, ... (+1)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30122591",
+      "doi_url": "https://www.doi.org/10.3390/molecules30122591",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Water modulated influence of intramolecular hydrogen-bonding on the conformational properties of Cannabidiol (CBD)",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/publications/cbc1813a-39ca-47c1-8ab6-909dd230f779",
+      "authors": "A. Buczek , K. Rzepiela, M. Broda, ... (+3)",
+      "publication_type": "Artykuł , Journal of Molecular Liquids",
+      "year": "2025",
+      "doi": "10.1016/j.molliq.2025.127033",
+      "doi_url": "https://www.doi.org/10.1016/j.molliq.2025.127033",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Xanthohumol in liposomal form in the presence of cyclodextrins: Drug delivery and stability analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/publications/a038bd32-a3ae-4227-b2db-ba2ec27a26aa",
+      "authors": "A. Buczek , K. Rzepiela, A. Stępniak, ... (+3)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2025.145453",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2025.145453",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Właściwości konformacyjne pochodnych α,β-dehydrofenyloalaniny",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/research-work/4c2eac72-24b0-4fb7-80a7-eeaa7dcec685",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Charakterystyka strukturalna i spektroskopowa układów wybranych metaloftalocyjanin z grafenem płatkowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.buczek.nGbjXMVB3RH/research-work/30834c6a-4a62-4868-80e5-93ca57fc86a3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=259598"
+    }
+  ],
+  "tag_cloud": [
+    "uracil",
+    "cbs",
+    "homa",
+    "aromaticity",
+    "dft",
+    "nics",
+    "inclusion complex",
+    "benzene",
+    "ccsd(t)",
+    "dft‐d3"
+  ],
+  "coworkers": []
+}

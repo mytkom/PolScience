@@ -1,0 +1,196 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz",
+  "slug": "adam.piechna",
+  "profile_id": "TcQP93iLfnz",
+  "full_name": "dr inż. Adam Piotr Piechna",
+  "orcid": "0000-0002-2166-5680",
+  "orcid_url": "https://orcid.org/0000-0002-2166-5680",
+  "breadcrumb_name": "Adam Piechna",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie analityczne",
+    "biomechanika",
+    "badania eksperymentalne",
+    "modelowanie numeryczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "13 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / biocybernetyka i inżynieria biomedyczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Mechatroniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/96780aa4-1a88-407d-a185-0f02961ef93c"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Influence of hydrodynamic and functional nonlinearities of blood flow in the cerebral vasculature on cerebral perfusion and autoregulation pressure reserve",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/publications/e91c2a92-246e-409f-a8ab-76d15da047e8",
+      "authors": "A. Piechna , K. Cieślicki",
+      "publication_type": "Artykuł , Scientific Reports",
+      "year": "2023",
+      "doi": "10.1038/s41598-023-32643-z",
+      "doi_url": "https://www.doi.org/10.1038/s41598-023-32643-z",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "CFD Model of a Mechanical Oscillator Flowmeter",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/publications/de28f30b-74c8-4964-a92f-eaba30bc0370",
+      "authors": "M. Szudarek, M. Turkowski, A. Piechna",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2022",
+      "doi": "10.3390/s23010116",
+      "doi_url": "https://www.doi.org/10.3390/s23010116",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "CFD study of high-speed train in crosswinds for large yaw angles with RANS-based turbulence models including GEKO tuning approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/publications/5ced5976-f174-4c73-95e8-6860e83a905b",
+      "authors": "M. Szudarek, A. Piechna , P. Prusiński, ... (+1)",
+      "publication_type": "Artykuł , Energies",
+      "year": "2022",
+      "doi": "10.3390/en15186549",
+      "doi_url": "https://www.doi.org/10.3390/en15186549",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania ex vivo oraz modelowanie analityczne i numeryczne tętnic mózgowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/research-work/26205514-1fb2-4d82-94ea-bd57c11fcf6f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie wybranych właściwości przepływomierzy z oscylatorem mechanicznym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.piechna.TcQP93iLfnz/research-work/e7dfea91-e9bd-4598-9c11-e74f7a56aa15",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=270817"
+    }
+  ],
+  "tag_cloud": [
+    "ciśnienie śródczaszkowe",
+    "cerebrovascular diseases",
+    "cerebrovascular circulation",
+    "tętniak śródczaszkowy",
+    "rupture pressure",
+    "arterial pressure",
+    "rans",
+    "adventitia",
+    "computational fluid dynamics",
+    "turbulence modeling"
+  ],
+  "coworkers": []
+}

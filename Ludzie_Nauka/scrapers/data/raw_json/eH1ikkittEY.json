@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY",
+  "slug": "patrycja.sowa-borowiec",
+  "profile_id": "eH1ikkittEY",
+  "full_name": "dr inż. Patrycja Sowa-Borowiec",
+  "orcid": "0000-0002-3593-2620",
+  "orcid_url": "https://orcid.org/0000-0002-3593-2620",
+  "breadcrumb_name": "Patrycja Sowa-Borowiec",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Rzeszowski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk rolniczych / technologia żywności i żywienia",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Rzeszowski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "technologia żywności i żywienie człowieka",
+        "Nadanie tytułu",
+        "Uniwersytet Rzeszowski; Wydział Biologiczno-Rolniczy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Rzeszowski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "biotechnologia",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "biotechnologia; oczyszczanie i analiza produktów biotechnologicznych",
+        "Nadanie tytułu",
+        "Politechnika Rzeszowska; Wydział Chemiczny",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Rzeszowski >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/50d13b6e-9320-4240-898f-6aca15728a1f"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Sweet clover (Melilotus spp.) as a source of biologically active compounds",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/publications/f6072b15-86fa-4dae-9cf6-8166a9b5bec4",
+      "authors": "P. Sowa-Borowiec , M. Czernicka, W. Jarecki, ... (+1)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30030526",
+      "doi_url": "https://www.doi.org/10.3390/molecules30030526",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Antioxidant Capacity of Honey Enriched by Wildflowers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/publications/fe54bc5e-2cf9-4506-b973-094d6155607f",
+      "authors": "M. Czernicka, P. Sowa-Borowiec , T. Dudek, ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14052018",
+      "doi_url": "https://www.doi.org/10.3390/app14052018",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Changes in redox status in raspberry (Rubus idaeus L.) fruit during ripening",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/patrycja.sowa-borowiec.eH1ikkittEY/publications/8b837dc0-e0a9-4c6f-92a2-17909f1b1ec2",
+      "authors": "P. Sowa-Borowiec , T. Piechowiak",
+      "publication_type": "Artykuł , Biocatalysis and Agricultural Biotechnology",
+      "year": "2024",
+      "doi": "10.1016/j.bcab.2024.103380",
+      "doi_url": "https://www.doi.org/10.1016/j.bcab.2024.103380",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?view_op=list_works&hl=pl&hl=pl&user=OHz172UAAAAJ"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=57192553718"
+    },
+    {
+      "label": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/P-6148-2018"
+    }
+  ],
+  "tag_cloud": [
+    "wytłoki",
+    "ekstrakcja fluidalna",
+    "soki jabłkowo-marchwiowe",
+    "adp",
+    "honey",
+    "miód",
+    "melilotus albus",
+    "collagen",
+    "kiełki",
+    "jakość"
+  ],
+  "coworkers": []
+}

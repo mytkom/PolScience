@@ -1,0 +1,253 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp",
+  "slug": "agata.jabłońska-trypuć",
+  "profile_id": "QRj5U01T3qp",
+  "full_name": "dr hab. Agata Jabłońska-Trypuć",
+  "orcid": "0000-0002-7711-3017",
+  "orcid_url": "https://orcid.org/0000-0002-7711-3017",
+  "breadcrumb_name": "Agata Jabłońska-Trypuć",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata",
+      "duration": null,
+      "institution": "Uniwersytet Medyczny w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7f12f268-786f-4504-9a3a-44afff1ba65c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Medyczna z siedzibą w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/bb997d12-0740-433b-bba7-9f44c66a36cd",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria środowiska, górnictwo i energetyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2009",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki farmaceutyczne / nauki farmaceutyczne",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny w Białymstoku",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f12f268-786f-4504-9a3a-44afff1ba65c"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2003",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "biologia",
+        "Nadanie tytułu",
+        "Uniwersytet Medyczny w Białymstoku",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/gremiums/05196899-c794-4efb-ac7b-343c0e1ebb84",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Physicochemical properties of berry seeds recovered from pomace and their potential applications in food and cosmetic industries",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/publications/5092070c-4053-42c2-aa94-1ec85e89f9da",
+      "authors": "A. Kiełtyka-Dadasiewicz, M. Stryjecka [...] A. Jabłońska-Trypuć , ... (+2)",
+      "publication_type": "Artykuł , International Journal of Molecular Sciences",
+      "year": "2026",
+      "doi": "10.3390/ijms27010041",
+      "doi_url": "https://www.doi.org/10.3390/ijms27010041",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "An extensive pesticide residue study in minor polish vegetables based on critical consumer diets",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/publications/4c89b2d7-7add-416a-b4a9-0ea28b67bd36",
+      "authors": "E. Rutkowska, P. Kaczyński [...] A. Jabłońska-Trypuć , ... (+11)",
+      "publication_type": "Artykuł , Food Control",
+      "year": "2025",
+      "doi": "10.1016/j.foodcont.2025.111383",
+      "doi_url": "https://www.doi.org/10.1016/j.foodcont.2025.111383",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Comprehensive toxicological multi-year study on pesticides in apples: Control, trends and dietary risk assessment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/publications/592b9db2-a7f7-438e-aaa1-70e984dea023",
+      "authors": "E. Wołejko, A. Jabłońska-Trypuć , U. Wydro, ... (+9)",
+      "publication_type": "Artykuł , Food Chemistry",
+      "year": "2025",
+      "doi": "10.1016/j.foodchem.2024.141897",
+      "doi_url": "https://www.doi.org/10.1016/j.foodchem.2024.141897",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wpływ substancji aktywnych wybranych herbicydów na organizm człowieka oraz mikroorganizmy testowe",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work/5e5cfdde-7381-4780-b6ac-19f61b95675f",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Aktywność biologiczna cytokin w kulturach ludzkich fibroblastów skóry",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work/5cca06ec-3ddc-41e9-b23e-52aa971113cf",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work/d808421e-ec7e-490a-9894-154038ceb2a8",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania użyteczności potencjalnych biomarkerów w diagnostyce choroby Alzheimera z wykorzystaniem biosensorów SPRi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work/e00bc272-0d75-4cc7-9ee3-5f46edc201c5",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie wpływu wybranych związków biologicznie czynnych na właściwości błon biologicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.jab%C5%82o%C5%84ska-trypu%C4%87.QRj5U01T3qp/research-work/fd99bbce-8fc6-4e5d-8dbc-2f5752603f18",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=224314"
+    }
+  ],
+  "tag_cloud": [
+    "cancer",
+    "oxidative stress",
+    "traumatic acid",
+    "sewage sludge",
+    "cytotoxicity",
+    "landfill leachate",
+    "cytotoksyczność",
+    "fungi",
+    "bacteria",
+    "nosocomial infections"
+  ],
+  "coworkers": []
+}

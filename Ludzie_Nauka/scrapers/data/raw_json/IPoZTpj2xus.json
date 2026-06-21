@@ -1,0 +1,260 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus",
+  "slug": "wirginia.tomczak",
+  "profile_id": "IPoZTpj2xus",
+  "full_name": "dr hab. inż. Wirginia Maria Tomczak",
+  "orcid": "0000-0002-6320-5711",
+  "orcid_url": "https://orcid.org/0000-0002-6320-5711",
+  "breadcrumb_name": "Wirginia Tomczak",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technologia nieorganiczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "4 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 10 miesięcy",
+      "duration": null,
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2023",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria chemiczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / technologia chemiczna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie; Wydział Technologii i Inżynierii Chemicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/0e82211c-7d86-461f-aa1e-cdff57717a55"
+        },
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "technologia chemiczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Chemiczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/gremiums/b599237a-6856-49f6-994c-d772aebd4a30",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Application of Industrial NF and RO Membranes in Separation of Post-Fermentation Solutions: Preliminary Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/publications/04cbdcd0-db0a-4931-8cc5-a0903bcdc4f3",
+      "authors": "W. Tomczak , M. Gryta, S. Żak, ... (+1)",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18122779",
+      "doi_url": "https://www.doi.org/10.3390/ma18122779",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Changes in Tubular PVDF Membrane Performance During Initial Period of Pilot Plant Operation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/publications/72dcf04d-c4ae-4bb3-8ca5-1a14acf5ca46",
+      "authors": "M. Gryta, W. Tomczak",
+      "publication_type": "Artykuł , Membranes",
+      "year": "2025",
+      "doi": "10.3390/membranes15040119",
+      "doi_url": "https://www.doi.org/10.3390/membranes15040119",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Changes in the Separation Properties of Aged PVDF Ultrafiltration Membranes During Long-Term Treatment of Car Wash Wastewater",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/publications/90793910-532b-4bf8-ab96-70ed71c6a960",
+      "authors": "M. Gryta, W. Tomczak , P. Woźniak, ... (+1)",
+      "publication_type": "Artykuł , Membranes",
+      "year": "2025",
+      "doi": "10.3390/membranes15030066",
+      "doi_url": "https://www.doi.org/10.3390/membranes15030066",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania długoterminowej eksploatacji wybranych membran w technologii bioreaktorów membranowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work/0085a51a-bb6b-42f6-969d-b65821acdb74",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania rozdzielania brzeczek fermentacyjnych technikami membranowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work/ac02c999-f82c-40a0-9bba-2d4b504d7252",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Treatment and valorization of dye-house wastewater containing reactive dyes by integrated membrane processes",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work/15e24214-6638-48ff-9db9-eaa09235e185",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Membrany z poli(fluorku winylidenu) modyfikowane kwasem cynamonowym i wybranymi tlenkami metali ziem rzadkich w procesie destylacji membranowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work/cf4c2e19-12d5-46e9-8bb5-bb3be723cea0",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Opracowanie metod oczyszczania surowej fikocyjaniny do poziomu czystości farmaceutycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/wirginia.tomczak.IPoZTpj2xus/research-work/6ce2e04e-c1f6-44a7-b828-d2d86faa9e43",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=262045"
+    }
+  ],
+  "tag_cloud": [
+    "steric exclusion",
+    "dielectric exclusion",
+    "biogas",
+    "treatment",
+    "fouling",
+    "fermentation broth",
+    "separation",
+    "1,3-propanediol",
+    "screening effect",
+    "long-term performance"
+  ],
+  "coworkers": []
+}

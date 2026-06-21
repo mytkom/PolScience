@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5",
+  "slug": "ariadna.nowicka",
+  "profile_id": "8JJVTeEeGI5",
+  "full_name": "dr inż. Ariadna Barbara Nowicka",
+  "orcid": "0000-0002-5482-2427",
+  "orcid_url": "https://orcid.org/0000-0002-5482-2427",
+  "breadcrumb_name": "Ariadna Nowicka",
+  "current_employment_summary": [
+    "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 miesiąc",
+      "duration": null,
+      "institution": "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4d604044-b7a4-4356-929b-76bc6e9d539e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4d604044-b7a4-4356-929b-76bc6e9d539e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "2 lata 4 miesiące",
+      "duration": null,
+      "institution": "Instytut Chemii Fizycznej Polskiej Akademii Nauk",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4d604044-b7a4-4356-929b-76bc6e9d539e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk fizycznych / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska; Wydział Fizyki Technicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f35ca2b4-6fa5-4d45-807f-2a62f02e8251"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "zarządzanie i inżynieria produkcji",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "fizyka techniczna",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Agomelatine 3D-printed microneedles as a potential drug delivery system for the treatment of depression",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/publications/c2ad6022-3729-4619-8a8a-131eecd489c0",
+      "authors": "M. Wojdyłko, T. Osmałek [...] A. Nowicka , ... (+14)",
+      "publication_type": "Artykuł , International Journal of Pharmaceutics",
+      "year": "2026",
+      "doi": "10.1016/j.ijpharm.2026.126572",
+      "doi_url": "https://www.doi.org/10.1016/j.ijpharm.2026.126572",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Characteristics of hydrogels as a coating for microneedle transdermal delivery systems with agomelatine.",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/publications/dc2dbbb6-13ac-4785-a785-29c70cd9baab",
+      "authors": "M. Wojtyłko, M. Szybowicz, A. Nowicka , ... (+13)",
+      "publication_type": "Artykuł , Molecules",
+      "year": "2025",
+      "doi": "10.3390/molecules30020322",
+      "doi_url": "https://www.doi.org/10.3390/molecules30020322",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Determination of L‑selectin in blood plasma using DNA aptamer–based surface‑enhanced Raman spectroscopy assay",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/publications/b7cb0655-cb3c-42fa-8719-66e4f3f2c9f3",
+      "authors": "A. Nowicka , T. Szymborski, A. Kowlaska, ... (+4)",
+      "publication_type": "Artykuł , Analytical and Bioanalytical Chemistry",
+      "year": "2024",
+      "doi": "10.1007/s00216-023-05110-x",
+      "doi_url": "https://www.doi.org/10.1007/s00216-023-05110-x",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania układów monomer/nanonapełniacz i ich kompozytów polimerowych metodami spektroskopowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/ariadna.nowicka.8JJVTeEeGI5/research-work/b4e48cc5-67b2-4fd6-a4b3-c11c521d7649",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=260306"
+    }
+  ],
+  "tag_cloud": [
+    "aptamer",
+    "druk 3d",
+    "surface-enhanced raman spectroscopy (sers)",
+    "cancer cells",
+    "release",
+    "systemy transdermalne",
+    "digital light processing",
+    "caffeine",
+    "mcf-7",
+    "composite"
+  ],
+  "coworkers": []
+}

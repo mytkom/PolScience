@@ -1,0 +1,296 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw",
+  "slug": "mirosław.pajor",
+  "profile_id": "KhVV5b2p1Tw",
+  "full_name": "prof. dr hab. inż. Mirosław Pajor",
+  "orcid": "0000-0002-7701-385X",
+  "orcid_url": "https://orcid.org/0000-0002-7701-385X",
+  "breadcrumb_name": "Mirosław Pajor",
+  "current_employment_summary": [
+    "Politechnika Morska w Szczecinie"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "budowa obrabiarek",
+    "dynamika maszyn",
+    "dynamika robotów",
+    "mechatronika",
+    "obróbka skrawaniem"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "1 rok 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Morska w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Politechnika Szczecińska",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1997",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Politechnika Szczecińska",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1991",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/e089e89f-100d-4446-96ca-e31f5d670002"
+        },
+        {
+          "label": "Politechnika Morska w Szczecinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2499ad34-4d7a-48d2-8a89-7695b0f00427"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Budowy Maszyn",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/gremiums/64843c11-5090-4f48-8cb2-14eccfa4d7c2",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/gremiums/8cc2768e-f550-47c8-88ac-4d8dbbc6974c",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Econometric Modelling of the Impact of Metrology on the Economy in Poland",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/publications/af7ae965-48f4-44ab-9c24-f35a5853cf52",
+      "authors": "M. Pajor , M. Doszyń, B. Batóg, ... (+4)",
+      "publication_type": "Artykuł , Folia Oeconomica Stetinensia",
+      "year": "2025",
+      "doi": "10.2478/foli-2025-0005",
+      "doi_url": "https://www.doi.org/10.2478/foli-2025-0005",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Wykorzystanie zasobów statystyki publicznej do oceny wpływu metrologii na gospodarkę",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/publications/a7635349-5141-42ee-9d5c-5d61d8dfa9cd",
+      "authors": "B. Batóg, M. Doszyń [...] M. Pajor , ... (+4)",
+      "publication_type": "Artykuł , Wiadomości Statystyczne",
+      "year": "2024",
+      "doi": "10.59139/ws.2024.02.3",
+      "doi_url": "https://www.doi.org/10.59139/ws.2024.02.3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Finite Element Modeling of Dynamic Properties of the Delta Robot with Base Frame",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/publications/9f1fe6f0-9f81-4ccb-9dbc-4938e0e365e5",
+      "authors": "M. Pajor , J. Grabiec, P. Dunaj",
+      "publication_type": "Artykuł , Materials",
+      "year": "2022",
+      "doi": "10.3390/ma15196797",
+      "doi_url": "https://www.doi.org/10.3390/ma15196797",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wibrostabilność skrawania wieloostrzowymi narzędziami obrotowymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/61efea0d-a007-48e8-ad44-4c564a4dab32",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Prognozowanie wibrostabilności wielowymiarowego układu OUPN przy frezowaniu walcowo-czołowym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/0cfa5e7d-bb7c-4095-a0de-eddc4a275064",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "System manualnego programowania obrabiarki CNC z zastosowaniem technologii wirtualnej rzeczywistości",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/297c3d06-090f-4f06-a0ea-831044372deb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania doświadczalne i numeryczne uzwajania cewek nadprzewodnikowych wykonanych z przewodu wielożyłowego Nb 3 Sn typu Rutherford",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/294e4353-1ddd-422a-b34b-314e41012306",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Pozycjonowanie przedmiotów obrabianych na obrabiarkach CNC z zastosowaniem technik wizyjnego skanowania trójwymiarowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/bda26b5a-0453-450a-ad4f-492d9a226a89",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Implementacja mechanizmów inżynierii danych procesowych do modelowania i doskonalenia procesów produkcyjnych ukierunkowanych na jakość wyrobów finalnych i efektywność energetyczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/b8a34e0a-78a9-46b1-a45f-b94af22321ad",
+        "description": "Praca habilitacyjna Źródło danych: POL-on , Mirosław Pajor",
+        "source": "Źródło danych: POL-on , Mirosław Pajor"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/c6d5ef5f-3355-4151-bb0b-477de1edb225",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.pajor.KhVV5b2p1Tw/research-work/9e83a211-4957-4384-9f66-85e4a71b8738",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=86004"
+    }
+  ],
+  "tag_cloud": [
+    "fanuc karel",
+    "serial production",
+    "produkcja seryjna",
+    "time delay",
+    "signal prediction",
+    "fanuc s-420f",
+    "telemanipulation",
+    "obróbka skrawaniem",
+    "remote control",
+    "wearable robot"
+  ],
+  "coworkers": []
+}

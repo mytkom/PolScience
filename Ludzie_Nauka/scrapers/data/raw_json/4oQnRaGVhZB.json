@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB",
+  "slug": "dariusz.klepacki",
+  "profile_id": "4oQnRaGVhZB",
+  "full_name": "dr inż. Dariusz Adam Klepacki",
+  "orcid": "0000-0002-4396-5262",
+  "orcid_url": "https://orcid.org/0000-0002-4396-5262",
+  "breadcrumb_name": "Dariusz Klepacki",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "układy elektroniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "31 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Lubelska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/337ae4a1-4e95-456f-bc53-d8d54b952a53"
+        },
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Conditioning of Electromagnetic Field Energy in a Harvester System with a Supercapacitor as the Main Energy Storage Device",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/publications/1f75b6a4-36d7-4bdf-b999-4db287926db7",
+      "authors": "W. Sabat, D. Klepacki , K. Kamuda, ... (+3)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14244906",
+      "doi_url": "https://www.doi.org/10.3390/electronics14244906",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Practical considerations for the harvesting and conditioning of energy from general-purpose teletransmission systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/publications/019706d2-2c02-4337-b18c-93ba6829b796",
+      "authors": "K. Kuryło, O. Hotra, D. Klepacki , ... (+4)",
+      "publication_type": "Artykuł , Advances in Science and Technology-Research Journal",
+      "year": "2025",
+      "doi": "10.12913/22998624/205610",
+      "doi_url": "https://www.doi.org/10.12913/22998624/205610",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Determinants of the Generation of Higher Current Harmonics in Different Operating States of the RGB LED Lamp",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.klepacki.4oQnRaGVhZB/publications/9b732a51-1ab0-45c6-850e-2681863eaac2",
+      "authors": "D. Klepacki , W. Sabat, K. Kamuda, ... (+2)",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/electronics13030531",
+      "doi_url": "https://www.doi.org/10.3390/electronics13030531",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=131275"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

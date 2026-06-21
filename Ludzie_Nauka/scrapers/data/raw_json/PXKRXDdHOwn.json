@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn",
+  "slug": "dominika.pilarczyk",
+  "profile_id": "PXKRXDdHOwn",
+  "full_name": "dr Dominika Weronika Pilarczyk",
+  "orcid": "0000-0002-4851-4663",
+  "orcid_url": "https://orcid.org/0000-0002-4851-4663",
+  "breadcrumb_name": "Dominika Pilarczyk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "równania różniczkowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "9 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Wrocławski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "4 lata",
+      "duration": null,
+      "institution": "Uniwersytet Wrocławski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Self-similar solution for fractional Laplacian in cones",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/publications/3b35d3e5-c4a5-400e-bd63-4303cd87c3be",
+      "authors": "K. Bogdan, Ł. Leżaj [...] D. Pilarczyk , ... (+1)",
+      "publication_type": "Artykuł , Electronic Journal of Probability",
+      "year": "2024",
+      "doi": "10.1214/24-ejp1111",
+      "doi_url": "https://www.doi.org/10.1214/24-ejp1111",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Self-similar solution for Hardy operator",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/publications/66cb80ff-8455-4f4e-87ed-39a5a98c50f5",
+      "authors": "K. Bogdan, T. Jakubowski, D. Pilarczyk , ... (+1)",
+      "publication_type": "Artykuł , Journal of Functional Analysis",
+      "year": "2023",
+      "doi": "10.1016/j.jfa.2023.110014",
+      "doi_url": "https://www.doi.org/10.1016/j.jfa.2023.110014",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Stability of singular solutions to the Navier-Stokes system",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/publications/f0005e58-caee-41ba-b766-1449879710bf",
+      "authors": "M. Cannone, G. Karch, D. Pilarczyk , ... (+1)",
+      "publication_type": "Artykuł , Journal of Differential Equations",
+      "year": "2022",
+      "doi": "10.1016/j.jde.2022.01.010;10.48550/arxiv.2012.12714",
+      "doi_url": "https://www.doi.org/10.1016/j.jde.2022.01.010;10.48550/arxiv.2012.12714",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Osobliwe rozwiązania parabolicznych równań różniczkowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.pilarczyk.PXKRXDdHOwn/research-work/2ded4c47-77f8-4426-b8e4-08422f9fb6aa",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=239793"
+    }
+  ],
+  "tag_cloud": [
+    "nieliniowe równanie ciepła",
+    "dirichlet heat kernel",
+    "asymptotic stability",
+    "global existence of solutions",
+    "laplasjan ułamkowy",
+    "stationary solutions",
+    "nonlinear heat equation",
+    "cone",
+    "singular solutions",
+    "cauchy problem"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,311 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew",
+  "slug": "jerzy.stefanowski",
+  "profile_id": "VFVpcvz5Iew",
+  "full_name": "prof. dr hab. inż. Jerzy Maciej Stefanowski",
+  "orcid": "0000-0002-4949-8271",
+  "orcid_url": "https://orcid.org/0000-0002-4949-8271",
+  "breadcrumb_name": "Jerzy Stefanowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "systemy uczące się",
+    "odkrywanie wiedzy z danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "38 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Bankowa w Poznaniu Aktualna nazwa: Uniwersytet WSB Merito w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/add982ff-1e14-4375-84f5-07977f9fd994",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2001",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1987",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Komitet Informatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/gremiums/cdde28eb-c3bb-4998-8575-6228fe74d435",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Jerzy Stefanowski"
+      ]
+    },
+    {
+      "row_order": 1,
+      "role": "Członek",
+      "membership_name": "Oddział Polskiej Akademii Nauk w Poznaniu",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/gremiums/dede9088-cca5-4b2b-a908-12333e88b7f5",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 2,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/gremiums/b0733fd1-7e18-4081-bdd6-604df5f76dba",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    },
+    {
+      "row_order": 3,
+      "role": "Członek",
+      "membership_name": "Komisja Informatyki i Automatyki",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/gremiums/850f3cd9-c93b-4d39-8dca-0d0eb997fe1b",
+      "period": "2019-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An Interpretable Prototype Parts-based Neural Network for Medical Tabular Data",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/publications/755446a4-d8b2-4646-8c63-35f41ca5909f",
+      "authors": "J. Karolczak, J. Stefanowski",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Counterfactual Explanations with Probabilistic Guarantees on their Robustness to Model Change",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/publications/16513ee1-2568-46eb-bfbc-d51901854448",
+      "authors": "I. Stępka, J. Stefanowski , M. Lango",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3690624.3709300",
+      "doi_url": "https://www.doi.org/10.1145/3690624.3709300",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Counterfactual Explanations with Probabilistic Guarantees on their Robustness to Model Change",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/publications/9f1fadcd-dbc0-40c4-af44-31e18b04d0d8",
+      "authors": "I. Stępka, J. Stefanowski , M. Lango",
+      "publication_type": "Artykuł , Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1",
+      "year": "2025",
+      "doi": "10.1145/3690624.3709300;10.48550/arxiv.2408.04842",
+      "doi_url": "https://www.doi.org/10.1145/3690624.3709300;10.48550/arxiv.2408.04842",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy indukcji reguł decyzyjnych w odkrywaniu wiedzy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/0284fa92-9dfc-4933-8f0d-40ea5d13075d",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Dialogowe wspomaganie decyzji na podstawie wiedzy pozyskanej metodą zbiorów przybliżonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/c259d6c9-fdfe-4d72-9d3a-80bc3fb6415a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Przyrostowe uczenie reguł oraz wykorzystanie detekcji zmian w blokowych klasyfikatorach złożonych do przetwarzania danych strumieniowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/185313b5-bb77-4621-98d7-ecb76b1bb9fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Blokowe i przyrostowe klasyfikatory złożone dla strumieni danych ze zmienną definicją klas",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/d6072002-e059-4237-9dc1-d8345a89f939",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Konstruowanie klasyfikatorów regułowych z niezrównoważonych danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/c316f90d-4e47-4ca1-9e23-d399e0c896ae",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Analyzing Deep Neural Networks from a Graph Perspective",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/f8bcddae-1d2c-4cf5-bd83-673dc0adc10c",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Towards Lifelong Anomaly Detection in Challenging Scenarios and its Application in Cybersecurity",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/f3e66a60-c8b4-4f4a-9ec7-7e63fd2eccc1",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Towards trustworthy automated data science",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jerzy.stefanowski.VFVpcvz5Iew/research-work/e351ac9b-28e1-4940-ab04-4f399ea0967b",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=20982"
+    }
+  ],
+  "tag_cloud": [
+    "multiple classes imbalanced data",
+    "probabilistic normalized flows",
+    "ensemble of explainers",
+    "rules",
+    "counterfactual explanations",
+    "imbalanced data",
+    "class imbalance",
+    "explainable artificial intelligence",
+    "explaining ml models",
+    "explainable ai"
+  ],
+  "coworkers": []
+}

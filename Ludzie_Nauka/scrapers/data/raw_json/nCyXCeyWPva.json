@@ -1,0 +1,290 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva",
+  "slug": "andrzej.bochat",
+  "profile_id": "nCyXCeyWPva",
+  "full_name": "prof. dr hab. inż. Andrzej Bochat",
+  "orcid": "0000-0003-0769-7077",
+  "orcid_url": "https://orcid.org/0000-0003-0769-7077",
+  "breadcrumb_name": "Andrzej Bochat",
+  "current_employment_summary": [
+    "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "konstrukcja maszyn rolniczych",
+    "maszyny i urządzenia rolnicze"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "45 lat",
+      "duration": null,
+      "institution": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy Aktualna nazwa: Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 lat",
+      "duration": null,
+      "institution": "Wyższa Szkoła Środowiska z siedzibą w Bydgoszczy Aktualna nazwa: Wyższa Szkoła Służb Lotniczych z siedzibą w Bydgoszczy w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/55e5e1f9-d47c-4780-bd41-f8f526091936",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2012",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / brak danych",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        },
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1981",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanizacja rolnictwa",
+        "Nadanie tytułu",
+        "Akademia Techniczno-Rolnicza w Bydgoszczy",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ad77ae28-a912-4f87-8be3-40ac466442c8"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/gremiums/66ef8cf7-8d1b-4351-80f0-b9aa15afc7e1",
+      "period": "2020-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Construction of the Stand and Experimental Studies of the Iontophoresis Process",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/publications/d67aba1e-f6f7-4479-9a20-958076e9880c",
+      "authors": "M. Gromnicki, A. Bochat",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15137139",
+      "doi_url": "https://www.doi.org/10.3390/app15137139",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Research on the Process of Cutting Nonwoven Materials Using Surgical Gauze as an Example",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/publications/9358232b-e017-4fad-a798-1d02860064ce",
+      "authors": "M. Zastempowski, A. Bochat , M. Janiec",
+      "publication_type": "Artykuł , Materials",
+      "year": "2025",
+      "doi": "10.3390/ma18133049",
+      "doi_url": "https://www.doi.org/10.3390/ma18133049",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Problems of Sustainable Agriculture with Regard to the Destruction of the European Corn Borer in Maize Plantations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/publications/e3b16f0f-34c1-4583-bbe7-5ad2991a442d",
+      "authors": "M. Zastempowski, R. Lamparski, A. Bochat , ... (+4)",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2024",
+      "doi": "10.3390/su16229685",
+      "doi_url": "https://www.doi.org/10.3390/su16229685",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie procesu wybierania kiszonki z silosu wieżowego za pomocą wybieraka dolnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/d4caaf91-d454-44ef-8633-4239f49d42c8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ parametrów konstrukcyjnych wybieraka dolnego na efektywność rozładunku silosu wieżowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/3baec439-18cf-4139-b494-d33472dca320",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badanie wpływu cech konstrukcyjnych zespołu bijakowego na efektywność rozdrabniania ziaren zbóż",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/711fa82e-a0b8-4a19-af71-a223191d353d",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ cech konstrukcyjnych bębnowego zespołu tnącego na charakterystyki użytkowe cięcia materiałów roślinnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/9096a34a-9403-4fe6-953a-3abdb1820104",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badania energochłonności cięcia nożycowo-palcowym zespołem tnącym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/4619b25d-1bdd-4f3c-86f7-9100f7026076",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Prowdrożeniowe badanie efektywności pracy wielotarczowego rozdrabniacza ziaren zbóż",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/7b5dbd5e-1ce9-42e9-a5ad-b8a838003eb3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Studium doskonalenia procesu funkcjonowania agregatu maszynowego w warunkach polowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/7120db97-63d5-4c66-ae65-8f29f5d73e43",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Badanie i rozwój zintegrowanego układu wielotarczowego rozdrabniania ziaren kukurydzy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/andrzej.bochat.nCyXCeyWPva/research-work/3525d8f9-01c6-4d05-a385-6089bae17ba3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=39076"
+    }
+  ],
+  "tag_cloud": [
+    "mathematical modelling;",
+    "efficiency of the process",
+    "dynamics of movement",
+    "disc cutting assemblies",
+    "rozdrabniacz bijakowy",
+    "drum cutting unit",
+    "chaff cutters",
+    "nierównomierność cięcia",
+    "design calculations",
+    "modelowanie procesu rozdrabniania"
+  ],
+  "coworkers": []
+}

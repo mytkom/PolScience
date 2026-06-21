@@ -1,0 +1,252 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1",
+  "slug": "artur.iluk",
+  "profile_id": "SCJAWFqBTU1",
+  "full_name": "dr hab. inż. Artur Wojciech Iluk",
+  "orcid": "0000-0002-2135-8787",
+  "orcid_url": "https://orcid.org/0000-0002-2135-8787",
+  "breadcrumb_name": "Artur Iluk",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody numeryczne",
+    "wytrzymałość konstrukcji",
+    "komputerowe wspomaganie projektowania",
+    "bezpieczeństwo bierne w pojazdach",
+    "instalacje kriogeniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Bio",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "27 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / budowa i eksploatacja maszyn",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska; Wydział Mechaniczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/896622d0-61fc-4897-b152-98aaff2cba3c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / budowa i eksploatacja maszyn",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1994",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechanika i budowa maszyn",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Mechaniczna",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/gremiums/ae30bbd5-cdd3-46b8-966b-00620de29d12",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Analysis of the causes of excessive noise and vibrations of live steam pipelines",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/publications/291928b4-1f65-4fc5-a136-ccb20bed03b3",
+      "authors": "D. Pietrusiak, J. Czmochowski [...] A. Iluk , ... (+3)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15126925",
+      "doi_url": "https://www.doi.org/10.3390/app15126925",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Design, measurements and calculation model validation of the orifice-type flowmeter for FAIR SIS100 Local Cryogenic System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/publications/47373393-7259-49a8-aebe-b0cda1e0ee5b",
+      "authors": "J. Poliński, M. Chorowski, A. Iluk , ... (+5)",
+      "publication_type": "Artykuł , IOP Conference Series : Materials Science & Engineering",
+      "year": "2025",
+      "doi": "10.1088/1757-899x/1327/1/012172",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/1327/1/012172",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Development and testing of the internal sliding support for the Cryogenic Distribution Line for the HL-LHC",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/publications/b4309345-e498-4551-b66b-6c5d09bb66fc",
+      "authors": "B. Łoziński, A. Iluk , W. Nieżychowski, ... (+4)",
+      "publication_type": "Artykuł , IOP Conference Series : Materials Science & Engineering",
+      "year": "2025",
+      "doi": "10.1088/1757-899x/1327/1/012119",
+      "doi_url": "https://www.doi.org/10.1088/1757-899x/1327/1/012119",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane aspekty bezpieczeństwa biernego w pojazdach narażonych na eksplozje min",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/ce3d2f22-3b11-46c1-ae43-95e6776e88d9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Model dynamiczny szybkobieżnego pojazdu gąsienicowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/8a8be0a6-f450-4053-8705-2942d42d2471",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Badania odporności elementów konstrukcyjnych pojazdów na eksplozje wewnętrzne",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/b9413b40-9dce-42a1-a729-6a799c377125",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Szacowanie wybranych własności dynamicznych z uwzględnieniem kontaktu na przykładzie kompozytów włóknistych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/6558e4c7-58e2-4319-8c60-220f79a487d6",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/acdd5cee-3634-420b-aa57-7a4b23d41ee0",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Lokalizacja koncentracji naprężeń w płytach osłabionych nieciągłością geometryczną",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/artur.iluk.SCJAWFqBTU1/research-work/2bed03cc-4620-4455-b324-cf62c18067ec",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=lZ1SA8EAAAAJ&hl=pl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/artur-iluk-908ba459/"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Artur-Iluk"
+    }
+  ],
+  "tag_cloud": [
+    "badania eksperymentalne",
+    "badania doświadczalne",
+    "hom",
+    "odkształcenia termomechaniczne",
+    "resory piórowe",
+    "maszyna górnicza",
+    "obserwacja satelitarna",
+    "ion",
+    "mining machine",
+    "fel"
+  ],
+  "coworkers": []
+}

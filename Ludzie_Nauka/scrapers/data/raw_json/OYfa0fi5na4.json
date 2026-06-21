@@ -1,0 +1,107 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4",
+  "slug": "aneta.maćkiewicz",
+  "profile_id": "OYfa0fi5na4",
+  "full_name": "mgr Aneta Maćkiewicz",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Aneta Maćkiewicz",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "administracja",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Custom Glial Network Architectures for the Classification of Large Text Corpora: A Case Study of Complaint Analysis in the Polish State Railways",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/aneta.ma%C4%87kiewicz.OYfa0fi5na4/publications/b3582df7-9d96-4433-ba94-5378e6c2810f",
+      "authors": "J. Nowak, T. Krumholc [...] A. Maćkiewicz , ... (+4)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1007/978-3-032-03705-3_15",
+      "doi_url": "https://www.doi.org/10.1007/978-3-032-03705-3_15",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

@@ -1,0 +1,223 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw",
+  "slug": "grzegorz.oleksik",
+  "profile_id": "YIMN9NTxDhw",
+  "full_name": "dr hab. Grzegorz Oleksik",
+  "orcid": "0000-0001-9920-3489",
+  "orcid_url": "https://orcid.org/0000-0001-9920-3489",
+  "breadcrumb_name": "Grzegorz Oleksik",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk ścisłych i przyrodniczych"
+  ],
+  "specializations": [
+    "geometria algebraiczna i analityczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "3 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat",
+      "duration": null,
+      "institution": "Uniwersytet Łódzki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/9eec5244-9085-4de9-9ad9-a77b7ad693bc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2025",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk ścisłych i przyrodniczych / matematyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki; Wydział Matematyki i Informatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/94552672-8c3d-4e31-9e21-382a71c4a11c"
+        },
+        {
+          "label": "Uniwersytet Łódzki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Łódzki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/5011bcd5-dfb1-41ed-84b0-5bd51ce0832c"
+        },
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Equality of the Singularity Critical Locus Dimension and the Newton Polyhedron Combinatorial Dimension",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/publications/3dab2b0b-4a20-4e47-b21c-3cb7742eb2a9",
+      "authors": null,
+      "publication_type": "Artykuł , Symmetry",
+      "year": "2025",
+      "doi": "10.3390/sym17101710",
+      "doi_url": "https://www.doi.org/10.3390/sym17101710",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "The Łojasiewicz exponent of nondegenerate surface singularities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/publications/6411fce3-af60-409f-a7aa-e18114e16436",
+      "authors": "S. Brzostowski, T. Krasiński, G. Oleksik",
+      "publication_type": "Artykuł , Canadian Mathematical Bulletin",
+      "year": "2023",
+      "doi": "10.4153/s0008439523000528;10.48550/arxiv.2010.06071",
+      "doi_url": "https://www.doi.org/10.4153/s0008439523000528;10.48550/arxiv.2010.06071",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "The Łojasiewicz exponent of nondegenerate surface singularities",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/publications/350e1a69-6bc1-48af-be82-cda0e8fde248",
+      "authors": "G. Oleksik , S. Brzostowski, T. Krasiński",
+      "publication_type": "Artykuł , Canadian Mathematical Bulletin",
+      "year": "2023",
+      "doi": "10.4153/s0008439523000528",
+      "doi_url": "https://www.doi.org/10.4153/s0008439523000528",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/research-work/c6e855d9-aef7-445f-acd6-28e87d4305f3",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Wykładnik Łojasiewicza osobliwości niezdegenerowanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/grzegorz.oleksik.YIMN9NTxDhw/research-work/4a80fcfc-eacf-40c5-a8ca-25f576abe8b8",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=236361"
+    }
+  ],
+  "tag_cloud": [
+    "niedegeneracja w sensie kusznirenki",
+    "jump of lê numbers",
+    "niedegeneracja",
+    "łojasiewicz exponent",
+    "newton diagram",
+    "diagram newtona",
+    "support",
+    "wymiar",
+    "zbiór punktów krytycznych",
+    "isolated singularity"
+  ],
+  "coworkers": []
+}

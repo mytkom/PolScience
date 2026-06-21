@@ -1,0 +1,232 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK",
+  "slug": "paweł.myszkowski",
+  "profile_id": "1nmUgt2REdK",
+  "full_name": "dr hab. inż. Paweł Borys Myszkowski",
+  "orcid": "0000-0003-2861-7240",
+  "orcid_url": "https://orcid.org/0000-0003-2861-7240",
+  "breadcrumb_name": "Paweł Myszkowski",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "modelowanie komputerowe",
+    "sztuczna inteligencja"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": null,
+      "duration": null,
+      "institution": "Wyższa Szkoła Informatyki i Zarządzania „COPERNICUS” we Wrocławiu w likwidacji",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/ef86cbff-3b7a-4ea1-8c44-e9f6564a8eda",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2020",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / informatyka techniczna i telekomunikacja",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2002",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "CRSGA: Cluster-Based Region Selection Genetic Algorithm solving multi-objective Travelling Thief Problem",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/publications/2c38719a-8a4f-45ee-9da3-8a68f70bd386",
+      "authors": "Ł. Olech, Ł. Olech, P. Myszkowski , ... (+1)",
+      "publication_type": "Artykuł , Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726733",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726733",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "L-DEGR: a novel hybrid algorithm for Multi-Skill Resource-Constrained Project Scheduling in large-scale",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/publications/58487196-9387-487d-8d92-3a73a4d6b75a",
+      "authors": "K. Gmyrek, P. Myszkowski , J. Gregor, ... (+2)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3712255.3726739",
+      "doi_url": "https://www.doi.org/10.1145/3712255.3726739",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Balancing Pareto Front exploration of Non-dominated Tournament Genetic Algorithm (B-NTGA) in solving multi-objective NP-hard problems with constraints",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/publications/49fdedbd-8352-4853-81bb-14afbf72b386",
+      "authors": "M. Antkiewicz, P. Myszkowski",
+      "publication_type": "Artykuł , Information Sciences",
+      "year": "2024",
+      "doi": "10.1016/j.ins.2024.120400",
+      "doi_url": "https://www.doi.org/10.1016/j.ins.2024.120400",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Skuteczność metod ewolucyjnych w rozwiązywaniu klasycznego problemu kolorowania grafu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/research-work/e23a0247-afc6-4f31-bb4d-a0d8c5ef42e3",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Skuteczna metoda ewolucyjna rozwiązywania dyskretnych problemów NP.-trudnych optymalizacji wielokryterialnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/research-work/2539760a-cf63-4e9b-b4c6-f66db46a6524",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Zastosowanie mechanizmów ewolucyjnych w optymalizacji procesu projektowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/research-work/8925d915-5df8-4d09-924c-009fb52d2738",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/pawe%C5%82.myszkowski.1nmUgt2REdK/research-work/61ad9544-4d10-4f78-9a67-6645ac192ff4",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=132293"
+    }
+  ],
+  "tag_cloud": [
+    "narzędzia projektowe",
+    "cad",
+    "projektowanie wspomagane komputerowo",
+    "optymalizacja w caad",
+    "hybrydowy algorytm ewolucyjny",
+    "automatyczne generowanie rzutów architektonicznych",
+    "ewolucja różnicowa",
+    "metaheurystyka",
+    "benchmark",
+    "algorytmy ewolucyjne"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU",
+  "slug": "maria.kowalska",
+  "profile_id": "ibyYHK9EJiU",
+  "full_name": "dr inż. Maria Elżbieta Kowalska",
+  "orcid": "0000-0002-4434-7829",
+  "orcid_url": "https://orcid.org/0000-0002-4434-7829",
+  "breadcrumb_name": "Maria Kowalska",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inżynieria lądowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "geodezja i kartografia",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "3D Building documentation using portable LiDAR systems – functionality analysis",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/publications/fe3bd826-289f-4719-8237-246b13e39b10",
+      "authors": "K. Wawrzyniak, M. Kowalska , J. Zaczek-Peplinska, ... (+1)",
+      "publication_type": "Artykuł , Reports on Geodesy and Geoinformatics",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Automated Building Monitoring System Based on Reflectorless Measurements: A Case Study of the IMSGeo System",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/publications/4d2cda79-a34a-4693-97c9-5b198eaf3c2c",
+      "authors": "M. Kowalska , J. Zaczek-Peplinska, S. Łapiński, ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25175327",
+      "doi_url": "https://www.doi.org/10.3390/s25175327",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Determination of geometric parameters of highways using classical and modern technologies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/maria.kowalska.ibyYHK9EJiU/publications/a4928661-a3fc-42db-a923-e8b834fdcf6d",
+      "authors": "E. Świerczyńska, Z. Alpyspayeva, M. Kowalska , ... (+6)",
+      "publication_type": "Artykuł , Reports on Geodesy and Geoinformatics",
+      "year": "2025",
+      "doi": "10.2478/rgg-2025-0005",
+      "doi_url": "https://www.doi.org/10.2478/rgg-2025-0005",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=287049"
+    }
+  ],
+  "tag_cloud": [
+    "dam",
+    "hydraulic engineering",
+    "expansion of a cylindrical space to a plane",
+    "deformations",
+    "terrestrial laser scanning",
+    "monitoring",
+    "control surveys",
+    "hydro-flow chambers",
+    "surface monitoring",
+    "engineering geodesy"
+  ],
+  "coworkers": []
+}

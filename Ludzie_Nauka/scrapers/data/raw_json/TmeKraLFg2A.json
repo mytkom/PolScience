@@ -1,0 +1,248 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A",
+  "slug": "vladimir.bobek",
+  "profile_id": "TmeKraLFg2A",
+  "full_name": "prof. dr hab. Vladimir Bobek",
+  "orcid": "0000-0002-8974-3577",
+  "orcid_url": "https://orcid.org/0000-0002-8974-3577",
+  "breadcrumb_name": "Vladimir Bobek",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk medycznych i nauk o zdrowiu"
+  ],
+  "specializations": [
+    "chirurgia ogólna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "2 lata 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk medycznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2004",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk medycznych / medycyna",
+        "Nadanie stopnia",
+        "Univerzita Karlova v Praze (Charles University in Prague)",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1999",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "medycyna",
+        "Nadanie tytułu",
+        "Univerzita Karlova v Praze",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 4,
+      "year": "1999",
+      "degree_or_title": "Lekarz",
+      "details_json": [
+        "medycyna ogólna i zapobiegawcza",
+        "Nadanie tytułu",
+        "Uniwersytet Karola w Pradze",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/18711a61-b8cc-4cb5-97c3-893045eff81e"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Mitochondrial respiratory complex II is altered in renal carcinoma",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/publications/cf83ef91-d5b2-4a36-8e1d-c5d019702315",
+      "authors": "S. Miklovicova, O. Sanovec [...] V. Bobek , ... (+21)",
+      "publication_type": "Artykuł , Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
+      "year": "2025",
+      "doi": "10.1016/j.bbadis.2024.167556",
+      "doi_url": "https://www.doi.org/10.1016/j.bbadis.2024.167556",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Circulating tumor cells in patients with cervical cancer undergoing chemoradiotherapy combined with brachytherapy",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/publications/60d63459-26a9-4260-b3c7-08b0b37dd526",
+      "authors": "E. Pospisilova, K. Reginacova [...] V. Bobek , ... (+7)",
+      "publication_type": "Artykuł , American Journal of Cancer Research",
+      "year": "2024",
+      "doi": "10.62347/qixj7103",
+      "doi_url": "https://www.doi.org/10.62347/qixj7103",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Immune activation of the monocyte-derived dendritic cells using patients own circulating tumor cells",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/publications/3196b28b-4fec-4ef3-9c9e-ae89c91b2bff",
+      "authors": "K. Kolostova, J. Szelachowska [...] V. Bobek , ... (+2)",
+      "publication_type": "Artykuł , Cancer Immunology, Immunotherapy",
+      "year": "2022",
+      "doi": "10.1007/s00262-022-03189-2",
+      "doi_url": "https://www.doi.org/10.1007/s00262-022-03189-2",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modele tworzenia ognisk metastatycznych w procesie rozsiewu nowotworów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/research-work/af4f6a03-fa15-4e61-91aa-6b6be7cba0f8",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/research-work/55867e9e-e3cc-4280-a79a-10d2e4b57cf1",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/research-work/8a3387e3-1128-4f9b-aa8b-cbb052608aef",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/vladimir.bobek.TmeKraLFg2A/research-work/799633e6-70df-4b7c-b14c-ecbefc2a0f3b",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=254753"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

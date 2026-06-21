@@ -1,0 +1,235 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe",
+  "slug": "daniel.wojciechowski",
+  "profile_id": "j0ZkTIk3GDe",
+  "full_name": "dr hab. inż. Daniel Wojciechowski",
+  "orcid": "0000-0001-5061-8288",
+  "orcid_url": "https://orcid.org/0000-0001-5061-8288",
+  "breadcrumb_name": "Daniel Wojciechowski",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "energoelektronika"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "7 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "13 lat 8 miesięcy",
+      "duration": null,
+      "institution": "Akademia Morska w Gdyni Aktualna nazwa: Uniwersytet Morski w Gdyni",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f52e68ce-dec2-43cf-a874-16b7005d6932",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2013",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Morski w Gdyni; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/ca8ec5af-11e1-4d43-bb95-550e0895ad8c"
+        },
+        {
+          "label": "Uniwersytet Morski w Gdyni >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f52e68ce-dec2-43cf-a874-16b7005d6932"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2005",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2000",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        },
+        {
+          "label": "Uniwersytet Morski w Gdyni >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f52e68ce-dec2-43cf-a874-16b7005d6932"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Novel closed-loop control system for shunt active power filters: a comparative study with open-loop control",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/publications/49d998f9-225d-47ea-a841-679731b4f574",
+      "authors": "A. Bielecka, D. Wojciechowski",
+      "publication_type": "Artykuł , Archives of Electrical Engineering",
+      "year": "2025",
+      "doi": "10.24425/aee.2025.155960",
+      "doi_url": "https://www.doi.org/10.24425/aee.2025.155960",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Accurate electrothermal modelling of high frequency DC-DC converters with discrete IGBTs in PLECS software",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/publications/07c14b21-c920-4b22-92ca-096dcff2cbe0",
+      "authors": "P. Górecki, D. Wojciechowski , P. Gorecki",
+      "publication_type": "Artykuł , IEEE Transactions on Industrial Electronics",
+      "year": "2023",
+      "doi": "10.1109/tie.2022.3189102",
+      "doi_url": "https://www.doi.org/10.1109/tie.2022.3189102",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Równoległy filtr aktywny sterowany ze sprzężeniem od prądu zasilającego - badania laboratoryjne",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/publications/4a209eb3-98f8-4d88-a947-97f24af48f98",
+      "authors": "A. Bielecka, D. Wojciechowski",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Równoległe kompensatory aktywne dużej mocy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work/70e3a993-412e-4aee-9f93-b4b59f3fad0e",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Sterowanie przekształtnikiem sieciowym z predykcją siły elektromotorycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work/0ffd8a8e-8bdb-43b8-a63a-09df262bb59e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Control methods of three-phase power electronic converters operating under distorted supply voltage conditions",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work/9f395d76-fabd-46f2-8aeb-5dbad866d02a",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Badania algorytmu sterowania predykcyjnego wykorzystującego model o ograniczonej liczbie stanów dla czterogałęziowego trójpoziomowego równoległego filtru aktywnego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work/7b7daa61-6a72-4ed9-89f7-843ed0884d6e",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Sterowanie przekształtników energoelektronicznych służących do integracji rozproszonych źródeł energii z siecią elektroenergetyczną i do poprawy jakości energii elektrycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wojciechowski.j0ZkTIk3GDe/research-work/55431b5b-ef6f-4ce8-852f-48bc37897db6",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=128233"
+    }
+  ],
+  "tag_cloud": [
+    "harmonic currents compensation",
+    "piecewise linear electrical circuit simulation (plecs)",
+    "kompensacja selektywna",
+    "electric vehicles",
+    "fast battery charging",
+    "modeling",
+    "dc micro grid",
+    "predykcja",
+    "kompensacja harmonicznych prądu",
+    "ev battery"
+  ],
+  "coworkers": []
+}

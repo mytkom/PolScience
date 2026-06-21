@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl",
+  "slug": "agata.ducka",
+  "profile_id": "WgCKa3DYDwl",
+  "full_name": "mgr inż. Agata Ducka",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Agata Ducka",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "nanotechnologia",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Investigation of the phase transition to the Ruddlesden–Popper phase in La- or Nb-doped Sr2Fe1.5Mo0.5O6−δ double perovskites and the impact of lanthanum or niobium doping",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/publications/781e9b08-9f5f-44b8-922c-d0ea565bd057",
+      "authors": "A. Ducka , P. Błaszczak, M. Gazda, ... (+3)",
+      "publication_type": "Artykuł , Nanoscale",
+      "year": "2025",
+      "doi": "10.1039/d5nr00596e",
+      "doi_url": "https://www.doi.org/10.1039/d5nr00596e",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Uncovering the electrochemical processes and understanding the causes of the degradation via EIS-DRT in large-scale solid oxide fuel cell",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/publications/e95edce7-bef1-45af-954e-b20226d2cb0f",
+      "authors": "P. Błaszczak, A. Mroziński, A. Ducka , ... (+4)",
+      "publication_type": "Artykuł , Applied Energy",
+      "year": "2025",
+      "doi": "10.1016/j.apenergy.2025.125983",
+      "doi_url": "https://www.doi.org/10.1016/j.apenergy.2025.125983",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Limited dissolution of transition metals in the nanocrystalline cerium (IV) oxide",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/agata.ducka.WgCKa3DYDwl/publications/b2bc47d2-e272-4eee-84ce-758d5571b716",
+      "authors": "A. Ducka , P. Błaszczak, B. Bochentyn, ... (+3)",
+      "publication_type": "Artykuł , Ceramics International",
+      "year": "2024",
+      "doi": "10.1016/j.ceramint.2024.10.004",
+      "doi_url": "https://www.doi.org/10.1016/j.ceramint.2024.10.004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [
+    "agglomeration",
+    "cermet",
+    "conductivity",
+    "ysz",
+    "soec methanation co-electrolysis ch4 yield catalyst nanoparticles",
+    "ogniwo paliwowe",
+    "eksolucja",
+    "nanocząstki",
+    "podwójne perowskity",
+    "sofc"
+  ],
+  "coworkers": []
+}

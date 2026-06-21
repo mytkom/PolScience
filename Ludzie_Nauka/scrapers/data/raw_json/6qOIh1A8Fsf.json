@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf",
+  "slug": "kamil.kubiak",
+  "profile_id": "6qOIh1A8Fsf",
+  "full_name": "dr inż. Kamil Krzysztof Kubiak",
+  "orcid": "0000-0002-3108-5428",
+  "orcid_url": "https://orcid.org/0000-0002-3108-5428",
+  "breadcrumb_name": "Kamil Kubiak",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "technika świetlna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Evaluating the Quality of Light Emitted by Smartphone Displays",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/publications/5b03baa6-5572-462a-87e4-b58bd0c59499",
+      "authors": "K. Skarżyński, K. Kubiak , N. Piechota",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2025",
+      "doi": "10.3390/app15116119",
+      "doi_url": "https://www.doi.org/10.3390/app15116119",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Lighting Preferences of Interior Users with Different Personality Traits: Pilot Study",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/publications/9bc0698a-89b4-4954-9b04-be619abe1e22",
+      "authors": "K. Kubiak , P. Pracki",
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2025",
+      "doi": "10.3390/su172210412",
+      "doi_url": "https://www.doi.org/10.3390/su172210412",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design Thinking in Lighting Design to Meet User Needs",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/publications/d81acd8f-b25b-4bc6-a0e4-9426bc950ffc",
+      "authors": null,
+      "publication_type": "Artykuł , Sustainability",
+      "year": "2024",
+      "doi": "10.3390/su16093561",
+      "doi_url": "https://www.doi.org/10.3390/su16093561",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie reflektora iluminacyjnego realizującego założony rozkład luminancji obiektu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/kamil.kubiak.6qOIh1A8Fsf/research-work/aa0890b9-9255-49cc-8865-fa5e3f6e72bb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=275094"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

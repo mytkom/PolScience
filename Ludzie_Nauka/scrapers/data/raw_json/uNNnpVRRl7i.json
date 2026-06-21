@@ -1,0 +1,226 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i",
+  "slug": "adam.warzecha",
+  "profile_id": "uNNnpVRRl7i",
+  "full_name": "dr hab. inż. Adam Jan Warzecha",
+  "orcid": "0000-0001-7938-0349",
+  "orcid_url": "https://orcid.org/0000-0001-7938-0349",
+  "breadcrumb_name": "Adam Warzecha",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "maszyny elektryczne",
+    "napęd elektryczny"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "48 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2011",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Sieć Badawcza Łukasiewicz - Instytut Elektrotechniki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/10104d5b-8342-476d-a50f-e84ec4c04676"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1987",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1977",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektrotechnika przemysłowa",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Automatyka, Elektronika i Elektrotechnika",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/gremiums/153f30ca-4739-4291-befd-52bbc67ed317",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Direct steady-state calculation of electromagnetic devices using field-circuit models",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/publications/a4501c2b-04b1-43ed-8fb3-d0213763e48d",
+      "authors": "A. Warzecha , M. Jaraczewski, T. Sobczyk",
+      "publication_type": "Artykuł , Energies",
+      "year": "2023",
+      "doi": "10.3390/en16134993",
+      "doi_url": "https://www.doi.org/10.3390/en16134993",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effects generated by the magnetic core anisotropy of an induction motor",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/publications/a1321600-80a1-45ce-b53e-668b7cb112c9",
+      "authors": "A. Warzecha , W. Mazgaj",
+      "publication_type": "Artykuł , Energies",
+      "year": "2020",
+      "doi": "10.3390/en13092189",
+      "doi_url": "https://www.doi.org/10.3390/en13092189",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design and modeling of switched reluctance motor for scooter application",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/publications/75349f80-5077-42c3-bfa3-c6b8ad2a5c71",
+      "authors": "A. Warzecha , D. Rudek, T. Wegiel",
+      "publication_type": "Artykuł",
+      "year": "2019",
+      "doi": "10.1109/rem.2019.8744128",
+      "doi_url": "https://www.doi.org/10.1109/rem.2019.8744128",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wielowymiarowe charakterystyki magnesowania w modelach obwodowych maszyn elektrycznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/research-work/c343cfd5-a5fd-43f9-ba8d-8d4d18765fb5",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Analiza szczególnego przypadku pracy maszyny asynchronicznej samowzbudnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/research-work/50d7b661-f2c5-4446-8696-07115599bbc4",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wielokryterialna diagnostyka maszyny synchronicznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.warzecha.uNNnpVRRl7i/research-work/0640d9d1-1228-4c13-a91e-34b5ae19702f",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=18265"
+    }
+  ],
+  "tag_cloud": [
+    "plc controller",
+    "electric drive",
+    "maszyna synchroniczna wydatnobiegunowa",
+    "magnetic field",
+    "electrical machine",
+    "maszyna elektryczna",
+    "pole magnetyczne",
+    "approximation",
+    "programowanie napędu",
+    "maszyna prądu zmiennego"
+  ],
+  "coworkers": []
+}

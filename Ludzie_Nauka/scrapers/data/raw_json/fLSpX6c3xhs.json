@@ -1,0 +1,215 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs",
+  "slug": "dariusz.sawicki",
+  "profile_id": "fLSpX6c3xhs",
+  "full_name": "prof. dr hab. Dariusz Jerzy Sawicki",
+  "orcid": "0000-0003-3990-0121",
+  "orcid_url": "https://orcid.org/0000-0003-3990-0121",
+  "breadcrumb_name": "Dariusz Sawicki",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka i inżynieria komputerowa",
+    "elektrotechnologie",
+    "grafika komputerowa",
+    "metrologia elektryczna",
+    "sieci komputerowe",
+    "technika świetlna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "34 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / elektrotechnika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska; Wydział Elektryczny",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d03abb83-838d-4cdc-bdc6-2974fc194811"
+        },
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/gremiums/6449bcbc-32ce-4c6a-9ce0-6f9118f5b356",
+      "period": "2020-obecnie",
+      "organization_path": "Członek Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja 2020-obecnie Politechnika Warszawska/.../Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja Źródło danych: Nauka Polska",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Modern intercom system in the COVID-19 period",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/publications/35a42ba5-6bf5-413f-9f40-23d4c7c12ae8",
+      "authors": "D. Sawicki , J. Rydzewski, T. Szwelnik, ... (+2)",
+      "publication_type": "Artykuł , Przegląd Elektrotechniczny",
+      "year": "2025",
+      "doi": "10.15199/48.2025.01.16",
+      "doi_url": "https://www.doi.org/10.15199/48.2025.01.16",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Reconstruction of the Botanical Trees from Single-View Images Using Signed Distance Functions",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/publications/fbe6f0fc-105f-431d-98c8-099618b7a8cb",
+      "authors": "D. Sawicki , A. Semrau",
+      "publication_type": "Artykuł , Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+      "year": "2025",
+      "doi": "10.5220/0013335300003912",
+      "doi_url": "https://www.doi.org/10.5220/0013335300003912",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Efficiency of 3D Fractal Generation Through Raymarching",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/publications/cf004ec5-8a96-430a-8b89-bc0cb7dc4ff9",
+      "authors": "D. Sawicki , A. Semrau",
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.5220/0012380500003660",
+      "doi_url": "https://www.doi.org/10.5220/0012380500003660",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Wybrane problemy symulacji figury jasnych punktów z wykorzystaniem metody śledzenia promieni",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work/ee451971-d613-40dc-8e52-3c269cb16fb4",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wybrane aspekty komunikacji człowiek-komputer z wykorzystaniem ruchów głowy i mimiki twarzy",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work/7d11c22f-71ac-47c1-af2f-b6dbbe9d76be",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "System oceny efektywności energetycznej oświetlenia wnętrz i dróg",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work/459c8cbe-ee1d-401e-836a-d2ae6eb9ab1b",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kształtowanie bryły fotometrycznej wieloźródłowej oprawy oświetleniowej z diodami elektroluminescencyjnymi",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work/56bf1c3e-3563-4f11-a6b6-5527961e23ac",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Mapowanie rozkładu luminancji źródła światła w obliczeniach fotometrycznych odbłyśników zwierciadlanych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dariusz.sawicki.fLSpX6c3xhs/research-work/5292bcfa-3d35-4a76-a1c8-a126321ba27b",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=52368"
+    }
+  ],
+  "tag_cloud": [
+    "rozpoznawanie stopnia zmęczenia",
+    "indoor and outdoor workplaces",
+    "gr",
+    "hdri",
+    "ugr",
+    "semantic glare scale",
+    "eeg",
+    "ilmd",
+    "array photometer",
+    "discomfort glare assessment"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe",
+  "slug": "krystian.łapa",
+  "profile_id": "vIQR54b8Tfe",
+  "full_name": "dr hab. inż. Krystian Łapa",
+  "orcid": "0000-0002-3926-5685",
+  "orcid_url": "https://orcid.org/0000-0002-3926-5685",
+  "breadcrumb_name": "Krystian Łapa",
+  "current_employment_summary": [
+    "Politechnika Częstochowska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "inteligencja obliczeniowa"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 2 miesiące",
+      "duration": null,
+      "institution": "Politechnika Częstochowska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2019",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2015",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska; Wydział Inżynierii Mechanicznej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/001ab85b-d955-465f-b066-9518544c7cb0"
+        },
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Częstochowska, Wydział Inżynierii Mechanicznej i Informatyki",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Częstochowska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4e6a4738-94c8-43ff-a800-3747632ca950"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/gremiums/b021eaed-1d9d-4050-9710-449a6e5c2daa",
+      "period": "2022-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Increasing the Explainability and Trustiness of Wang–Mendel Fuzzy System for Classification Problems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/publications/9fe1820a-a47c-4bbf-83a8-881f3943a704",
+      "authors": null,
+      "publication_type": "Artykuł , APPLIED SOFT COMPUTING",
+      "year": "2024",
+      "doi": "10.1016/j.asoc.2024.112257",
+      "doi_url": "https://www.doi.org/10.1016/j.asoc.2024.112257",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "A new approach to detecting and preventing populations stagnation through dynamic changes in multi-population-based algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/publications/ed766e70-783f-459a-bdbb-04737550f6c6",
+      "authors": "K. Łapa , D. Rutkowska, A. Byrski, ... (+1)",
+      "publication_type": "Artykuł , Journal of Artificial Intelligence and Soft Computing Research",
+      "year": "2023",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Biblioteka Nauki"
+    },
+    {
+      "row_order": 2,
+      "title": "Multi-Population-Based Algorithms with Different Migration Topologies and their Improvement by Population Re-Initialization",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/publications/0053a11f-720c-4d76-9479-900e508fc0c0",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-42505-9_34",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-42505-9_34",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Algorytmy bazujące na populacji oraz możliwości ich powiązania z innymi wybranymi metodami sztucznej inteligencji",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/research-work/a9a54dde-cb8d-4326-a98c-ba1354d810ca",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy wydobywania interpretowalnej wiedzy eksperckiej w zagadnieniach modelowania nieliniowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/krystian.%C5%82apa.vIQR54b8Tfe/research-work/88964c11-d323-4f07-b278-acda09e91bc5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=267663"
+    }
+  ],
+  "tag_cloud": [
+    "genetic programming",
+    "multi-population algorithm",
+    "fuzzy system",
+    "pid",
+    "population-based algorithms",
+    "population-based algorithm",
+    "operator selection",
+    "controller",
+    "fir",
+    "nonlinear modeling"
+  ],
+  "coworkers": []
+}

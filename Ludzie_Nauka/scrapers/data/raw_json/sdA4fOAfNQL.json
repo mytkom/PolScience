@@ -1,0 +1,155 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL",
+  "slug": "dominika.ziaja",
+  "profile_id": "sdA4fOAfNQL",
+  "full_name": "dr inż. Dominika Ziaja",
+  "orcid": "0000-0002-8016-5504",
+  "orcid_url": "https://orcid.org/0000-0002-8016-5504",
+  "breadcrumb_name": "Dominika Ziaja",
+  "current_employment_summary": [
+    "Politechnika Rzeszowska im. Ignacego Łukasiewicza"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Rzeszowska im. Ignacego Łukasiewicza >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/63374761-1ae0-43c0-9fa0-dd7d530ea4ab"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "An influence of strain field on guided wave propagation in steel cantilever beam under bending",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/publications/cd493e53-5aa6-42f1-870d-a7a5bc57a58d",
+      "authors": "M. Jurek, D. Ziaja , B. Miller",
+      "publication_type": "Artykuł , Journal of Civil Structural Health Monitoring",
+      "year": "2025",
+      "doi": "10.1007/s13349-025-01028-3",
+      "doi_url": "https://www.doi.org/10.1007/s13349-025-01028-3",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Assessment of GFRP Reinforcement Bars Condition Based on Elastic Wave Propagation",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/publications/4bc9554b-8c09-483d-bc10-8a2afbed7801",
+      "authors": "D. Ziaja , M. Jurek, A. Rzepka, ... (+1)",
+      "publication_type": "Artykuł , Engineering Transactions",
+      "year": "2025",
+      "doi": "10.24423/engtrans.3491.2025",
+      "doi_url": "https://www.doi.org/10.24423/engtrans.3491.2025",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Comparison of Distributed Fiber Optic Sensing and Digital Image Correlation Measurement Techniques for Evaluation of Flexural Behavior of CFRP-Prestressed Concrete Beams",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/publications/e1cbb4d7-6bf1-4f00-a9be-b59aa5c97db3",
+      "authors": "T. Siwowski, D. Ziaja , M. Kulpa, ... (+1)",
+      "publication_type": "Artykuł , Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25237357",
+      "doi_url": "https://www.doi.org/10.3390/s25237357",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Badania nieniszczące obiektów inżynierii lądowej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/dominika.ziaja.sdA4fOAfNQL/research-work/55662d4d-c609-40d2-97b6-ba9c749286b6",
+        "description": null,
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=240779"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

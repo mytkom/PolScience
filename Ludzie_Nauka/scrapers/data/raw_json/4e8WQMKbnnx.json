@@ -1,0 +1,291 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx",
+  "slug": "jacek.cichoń",
+  "profile_id": "4e8WQMKbnnx",
+  "full_name": "prof. dr hab. Jacek Bronisław Cichoń",
+  "orcid": "0000-0002-7742-3031",
+  "orcid_url": "https://orcid.org/0000-0002-7742-3031",
+  "breadcrumb_name": "Jacek Cichoń",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "algorytmika",
+    "bazy danych",
+    "informatyka teoretyczna",
+    "kombinatoryka",
+    "teoria miary",
+    "teoria mnogości",
+    "topologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "24 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "10 lat",
+      "duration": null,
+      "institution": "Uniwersytet Opolski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/82d9ae49-c04f-4383-a846-9f1091a57cfa",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2003",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "nauki matematyczne",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1990",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1980",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki matematyczne / matematyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1976",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "matematyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/gremiums/1b0d8908-0c2c-489f-9430-cd23737124ef",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "On reliability of the extrema propagation technique in random environment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/publications/41fe83f4-739d-4929-ae24-ded28a6f4c3c",
+      "authors": "J. Cichoń , D. Dworzański, K. Gotfryd",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.4230/lipics.opodis.2024.29",
+      "doi_url": "https://www.doi.org/10.4230/lipics.opodis.2024.29",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Rejection Sampling for Covert Information Channel: Symmetric Power-Of-2-Choices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/publications/b34230f8-4fab-4ea2-8409-fa1c86111a41",
+      "authors": "D. Bojko, J. Cichoń , M. Kutyłowski, ... (+1)",
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": "10.1145/3708821.3733908",
+      "doi_url": "https://www.doi.org/10.1145/3708821.3733908",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Creating small ad hoc networks: Swift presence notification strategies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/publications/f54e81a8-74ec-440b-a5b4-e99ee5d66778",
+      "authors": "J. Cichoń , M. Kutyłowski, P. Stopyra",
+      "publication_type": "Artykuł , Vehicular Communications",
+      "year": "2024",
+      "doi": "10.1016/j.vehcom.2023.100694",
+      "doi_url": "https://www.doi.org/10.1016/j.vehcom.2023.100694",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Rozwiązywanie problemów: (a) M. Bendy i H. J. Keislera, (b) E. Grzegorka, (c) A. Szymańskiego, (d) B. Węglorza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/3ef7775c-1d6e-45c5-9cc6-3c1d5178d4a9",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Selected Topics on Randomized Algorithms",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/63117ca0-58c5-4d44-b79e-dc278c980872",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Probabilistyczne metody badania złożonych sieci",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/31cd1178-22d9-43b9-b66a-46aed18d04fb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Podstawowe algorytmy dla sieci ad hoc",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/17585dc4-192b-4bd9-8776-0a35a49a3e77",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Obliczenia w strukturach nieskończonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/81b7ed3c-1551-4381-b629-d8e1982837bd",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Algorytmy dyskretne ścisłej analizy numeryczno-topologicznej układów dynamicznych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/4511d9ef-a04c-4842-b650-4f6680f3ba52",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Teoriogrowe modele odporności sieci i konfliktów rozproszonych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jacek.cicho%C5%84.4e8WQMKbnnx/research-work/1ad5da94-283c-4043-ad01-528be183daef",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=32430"
+    }
+  ],
+  "tag_cloud": [
+    "mobile ad hoc networks",
+    "traffic control",
+    "entropia",
+    "rozkład wykładniczy",
+    "random sampling",
+    "rozkład stacjonarny",
+    "markov chain",
+    "algorytm",
+    "sieci bezprzewodowe",
+    "devil’s staircase"
+  ],
+  "coworkers": []
+}

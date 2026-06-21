@@ -1,0 +1,298 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4",
+  "slug": "khalid.saeed",
+  "profile_id": "6FQsm65eaj4",
+  "full_name": "prof. dr hab. inż. Khalid Saeed",
+  "orcid": "0000-0002-7741-7045",
+  "orcid_url": "https://orcid.org/0000-0002-7741-7045",
+  "breadcrumb_name": "Khalid Saeed",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "rozpoznawanie wzorców geometrycznych",
+    "systemy przetwarzania informacji",
+    "biometria"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "15 lat 4 miesiące",
+      "duration": null,
+      "institution": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": "3 lata 7 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "period": "12 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Wyższa Szkoła Finansów i Zarządzania w Białymstoku Aktualna nazwa: Wschodnioeuropejska Akademia Nauk Stosowanych w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/a1e65d4f-b897-426b-9e0f-51b5d3c6d629",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2014",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk technicznych",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2007",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia",
+        "Polska Akademia Nauk",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1981",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / -",
+        "Nadanie stopnia",
+        "Politechnika Wrocławska, Instytut Telekomunikacji i Akustyki",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "elektronika",
+        "Nadanie tytułu",
+        "Politechnika Wrocławska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Informatyka Techniczna i Telekomunikacja",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/gremiums/19fd3d68-2244-4ba6-ba77-6940c9531427",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A quaternion-based augmenting method dedicated to biometric gait systems",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/publications/9e2c377e-a319-4bea-aa1d-ac2e86c51c8c",
+      "authors": "A. Sawicki, K. Saeed",
+      "publication_type": "Artykuł , International Journal of Applied Mathematics and Computer Science",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Advances in Artificial Intelligence and Machine Learning in Big Data Processing : First International Conference, AAIMB 2023, Chennai, India, August 17–18, 2023 : proceedings. Pt.1",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/publications/3f1bbbb3-1523-456d-ac7b-e380b822b24b",
+      "authors": "K. Saeed , R. Geetha, N. Dao",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-73065-8",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-73065-8",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Advances in Artificial Intelligence and Machine Learning in Big Data Processing : First International Conference, AAIMB 2023, Chennai, India, August 17–18, 2023 : proceedings. Pt.2",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/publications/3b5d6054-f0c3-4298-a9bc-c8aa3852b7e9",
+      "authors": "K. Saeed , R. Geetha, N. Dao",
+      "publication_type": "Książka pod redakcją",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-73068-9",
+      "doi_url": "https://www.doi.org/10.1007/978-3-031-73068-9",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Image Analysis for Object Recognition",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/6e524829-7741-40ab-97cb-2c9b8e3140e9",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Rozpoznawanie użytkownika na podstawie analizy sposobu pisania na klawiaturze z użyciem zewnętrznych urządzeń pomiarowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/d256cf70-3c88-48d1-9373-974ddceed278",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "System rozpoznawania pisma odręcznego w oparciu o macierze Toeplitza",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/23dd0a71-5220-4d92-a306-c180203bd752",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Rozpoznawanie podpisu odręcznego z wykorzystaniem technik Template Matching",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/01fd366f-687d-4c32-bcc4-ebd2c6e63c01",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "W źródle danych brakuje tytułu tej pracy. To Twój profil? Zaloguj się, aby go uzupełnić.",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/53d6e592-a547-458f-9651-cdbbb7b13a69",
+        "description": "Praca habilitacyjna Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Optimization and Applications of Extreme Learning Machine Method",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/e243d012-3a62-4c75-a922-f9eb261eaba9",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Developing Algorithms Using Artificial Intelligence to Analyze Electrocardiogram Signals",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/khalid.saeed.6FQsm65eaj4/research-work/6de437e3-5c7a-4375-9812-dea451b583f8",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=18139"
+    }
+  ],
+  "tag_cloud": [
+    "security",
+    "retina disease diagnosis",
+    "support vector machines (svm)",
+    "image processing",
+    "biometrics",
+    "machine learning",
+    "iris",
+    "clustering algorithms",
+    "aerodynamics",
+    "computer information systems"
+  ],
+  "coworkers": []
+}

@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj",
+  "slug": "magdalena.german",
+  "profile_id": "z3Hfhd2OTgj",
+  "full_name": "dr inż. Magdalena Maria German",
+  "orcid": null,
+  "orcid_url": null,
+  "breadcrumb_name": "Magdalena German",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "metody obliczeniowe"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2017",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Inżynierii Lądowej",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4921489f-84b0-4d4b-843c-13b7261ccc05"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2008",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "Politechnika Krakowska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Cracking in reinforced concrete cross-sections due to non-uniformly distributed corrosion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/publications/a51ffe22-7830-4f96-8c28-2f2aa02488d8",
+      "authors": "J. Pamin, M. German",
+      "publication_type": "Artykuł , Materials",
+      "year": "2023",
+      "doi": "10.3390/ma16186331",
+      "doi_url": "https://www.doi.org/10.3390/ma16186331",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Numerical simulation of non-uniformly distributed corrosion in reinforced concrete cross-section",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/publications/1d08fec4-e5b5-4612-9db8-2a5a4d92c7dd",
+      "authors": "M. German , J. Pamin",
+      "publication_type": "Artykuł , Materials",
+      "year": "2021",
+      "doi": "10.3390/ma14143975",
+      "doi_url": "https://www.doi.org/10.3390/ma14143975",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Numerical model of RC beam response to corrosion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/publications/9f8e93af-74c1-4405-924e-e382a418d4ef",
+      "authors": "M. German , J. Pamin",
+      "publication_type": "Artykuł",
+      "year": "2018",
+      "doi": "10.1063/1.5019084",
+      "doi_url": "https://www.doi.org/10.1063/1.5019084",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Modelowanie korozji chlorkowej i wywołanego nią zarysowania elementów żelbetowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/magdalena.german.z3Hfhd2OTgj/research-work/c151ccbe-a586-465a-b970-28cbec71f6e5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=244922"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

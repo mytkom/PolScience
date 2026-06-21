@@ -1,0 +1,180 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB",
+  "slug": "adam.inglot",
+  "profile_id": "R4a5K7AT4eB",
+  "full_name": "dr Adam Inglot",
+  "orcid": "0000-0001-6053-6331",
+  "orcid_url": "https://orcid.org/0000-0001-6053-6331",
+  "breadcrumb_name": "Adam Inglot",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "kartografia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/patents",
+      "aria_disabled": null
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "10 lat 9 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "2 lata 8 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Gdański",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2021",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria lądowa i transport",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+          "href": "https://radon.nauka.gov.pl/dane/profil/919617f6-b49f-4075-b60b-465136e8dcb3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2011",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "inżynieria środowiska",
+        "Nadanie tytułu",
+        "Akademia Górniczo-Hutnicza w Krakowie",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Gdański >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/f3afb96b-3be4-453c-bf67-d5dccba3d1cc"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Multimodal Augmented Reality System for Real-Time Roof Type Recognition and Visualization on Mobile Devices",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/publications/5b050ed1-6a48-4e3c-b12f-50ae3928ee0e",
+      "authors": "B. Kubicki, A. Janowski [...] A. Inglot , ... (+1)",
+      "publication_type": "Artykuł , Applied Sciences (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/app15031330",
+      "doi_url": "https://www.doi.org/10.3390/app15031330",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Accessibility to urban green spaces: A critical review of WHO recommendations in the light of tree-covered areas assessment",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/publications/da4e8757-4ad8-4681-b58c-5a3b4fa05e0f",
+      "authors": "P. Przewoźna, M. Mielewczyk, A. Inglot , ... (+2)",
+      "publication_type": "Artykuł , Ecological Indicators",
+      "year": "2024",
+      "doi": "10.1016/j.ecolind.2024.112548",
+      "doi_url": "https://www.doi.org/10.1016/j.ecolind.2024.112548",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "HexDTM - A method of thinning LiDAR point clouds using cartographic thematic data classification",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/publications/3b4955ff-62a9-4093-9434-862d5ddfa43a",
+      "authors": "A. Inglot , P. Raposo, K. Kozioł",
+      "publication_type": "Artykuł , Abstracts of the ICA",
+      "year": "2024",
+      "doi": "10.5194/ica-abs-7-61-2024",
+      "doi_url": "https://www.doi.org/10.5194/ica-abs-7-61-2024",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Topologia semantyczna w funkcjonowa wielorozdzielczych baz danych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/adam.inglot.R4a5K7AT4eB/research-work/df923214-9683-4224-b807-75ff01d619a2",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=307798"
+    }
+  ],
+  "tag_cloud": [
+    "ppgis",
+    "geobia",
+    "compare point cloud",
+    "terrain mapping",
+    "ecosystem services",
+    "greenery management",
+    "geographic information systems",
+    "vehicle safety",
+    "optical scanning",
+    "analytic hierarchy process"
+  ],
+  "coworkers": []
+}

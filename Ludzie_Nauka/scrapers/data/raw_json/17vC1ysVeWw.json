@@ -1,0 +1,195 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw",
+  "slug": "daniel.wachowiak",
+  "profile_id": "17vC1ysVeWw",
+  "full_name": "dr inż. Daniel Andrzej Wachowiak",
+  "orcid": "0000-0002-9961-9799",
+  "orcid_url": "https://orcid.org/0000-0002-9961-9799",
+  "breadcrumb_name": "Daniel Wachowiak",
+  "current_employment_summary": [
+    "Politechnika Gdańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "automatyka napędu elektrycznego"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "11 lat 5 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Gdańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / automatyka i robotyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska; Wydział Elektrotechniki i Automatyki",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7f9620d4-9201-44d1-bea8-35f65adf06bd"
+        },
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2012",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "elektrotechnika",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2010",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "automatyka i robotyka",
+        "Nadanie tytułu",
+        "Politechnika Gdańska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Gdańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/76e7e103-e39c-48d6-8aa2-8fde70c50563"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "A flying start method for sensorless induction machine-based electric drives",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/publications/a4ee9ba2-1035-4597-bd60-5709db0d05b9",
+      "authors": null,
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2025",
+      "doi": "10.24425/bpasts.2025.154206",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2025.154206",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Online Gain Selection for Induction Machine State Observers Using a Genetic Algorithms",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/publications/367eef4a-687d-46cd-bdcb-12e95e8b176e",
+      "authors": null,
+      "publication_type": "Artykuł , IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3639168",
+      "doi_url": "https://www.doi.org/10.1109/access.2025.3639168",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Rotor flux and EEMF observer for interior permanent magnet synchronous machine",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/publications/f4f24a99-a49a-439e-af98-08a72303a4c8",
+      "authors": "D. Vyas, M. Morawiec, D. Wachowiak",
+      "publication_type": "Artykuł , Bulletin of the Polish Academy of Sciences: Technical Sciences",
+      "year": "2024",
+      "doi": "10.24425/bpasts.2024.150327",
+      "doi_url": "https://www.doi.org/10.24425/bpasts.2024.150327",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Analiza właściwości rozszerzonego obserwatora prędkości maszyny indukcyjnej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/daniel.wachowiak.17vC1ysVeWw/research-work/08d6cf18-a64e-43e9-9a94-eb39dcfef673",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=281563"
+    }
+  ],
+  "tag_cloud": [
+    "maszyna indukcyjna",
+    "genetic algorithms",
+    "sensitivity analysis",
+    "induction machine",
+    "speed observer",
+    "gains selection",
+    "induction motor",
+    "goertzel dft",
+    "genetic algorithm",
+    "błędy parametrów"
+  ],
+  "coworkers": []
+}

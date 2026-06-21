@@ -1,0 +1,234 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z",
+  "slug": "mirosław.bogdan",
+  "profile_id": "Y23tAmypl5z",
+  "full_name": "dr hab. inż. arch. Mirosław Maciej Bogdan",
+  "orcid": "0000-0001-6078-6576",
+  "orcid_url": "https://orcid.org/0000-0001-6078-6576",
+  "breadcrumb_name": "Mirosław Bogdan",
+  "current_employment_summary": [
+    "Politechnika Opolska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "architektura sakralna",
+    "projektowanie architektoniczne"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "15 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Opolska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "3 lata 5 miesięcy",
+      "duration": null,
+      "institution": "Szkoła Wyższa im. Bogdana Jańskiego w Warszawie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/180d2805-5609-4d97-ae79-27444f690ab6",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Politechnika Śląska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2015",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk technicznych / architektura i urbanistyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki; Wydział Architektury",
+          "href": "https://radon.nauka.gov.pl/dane/profil/4eeedf72-d592-4ac4-877d-365bcdf4ff8b"
+        },
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1992",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techczniczne / brak na dyplomie",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Śląska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/d2b78be5-640c-4efd-870a-a0e84067d609"
+        },
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1986",
+      "degree_or_title": "Magister inżynier architekt",
+      "details_json": [
+        "architektura",
+        "Nadanie tytułu",
+        "Politechnika Śląska w Gliwicach",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Opolska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/8c8aabb6-fc72-4e4e-bb15-218703aa9f43"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Transformation of the Interior of the Catholic Union House of the Camillians in Zabrze to the Design by Dominikus Böhm: Architecture of the Transition from the Profane to the Sacred",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/publications/1815a8e9-d4ed-4de3-a587-f333d518a2aa",
+      "authors": "M. Bogdan , E. Syty",
+      "publication_type": "Artykuł , Wiadomości Konserwatorskie",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Architecture of the church of St. Joseph in Zabrze by Dominikus Böhm – historicism with the announcement of modernism and liturgical renewal",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/publications/49d27556-6794-4f33-ab4a-31fa0846bfbf",
+      "authors": null,
+      "publication_type": "Artykuł , Kwartalnik Naukowy Fides et Ratio",
+      "year": "2024",
+      "doi": "10.34766/fer.v60i4.1330",
+      "doi_url": "https://www.doi.org/10.34766/fer.v60i4.1330",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Architektura przedsoborowa Dominikusa Böhma a zapowiedź posoborowej odnowy liturgicznej. Studium przypadku – Kościół Św. Józefa w Zabrzu",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/publications/ab36117a-d715-4a47-96a8-809dc2e17f18",
+      "authors": null,
+      "publication_type": "Artykuł , Sacred Liturgy",
+      "year": "2023",
+      "doi": "10.25167/ls.5048",
+      "doi_url": "https://www.doi.org/10.25167/ls.5048",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Architektura gotycka, jako źródło inspiracji w kształtowaniu współczesnych budowli sakralnych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/research-work/d24142fe-23d9-4979-a0f3-0f92dd7b66c3",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Ołtarz jako centrum przestrzeni sakralnej według tez posoborowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/research-work/8b207cd8-5888-46bd-bf1a-777a7de73804",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Architektura budynków biurowych ZUS i GOZG w Zabrzu w świetle teorii krytycznego regionalizmu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/miros%C5%82aw.bogdan.Y23tAmypl5z/research-work/ec8c23fd-6703-4723-953c-4e6de6082aea",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=17595"
+    }
+  ],
+  "tag_cloud": [
+    "structure",
+    "funkcja",
+    "liturgical renewal",
+    "rood screen",
+    "tabernacle",
+    "prezbiterium",
+    "odnowa liturgiczna",
+    "konstrukcja",
+    "nawa",
+    "architektura sakralna"
+  ],
+  "coworkers": []
+}

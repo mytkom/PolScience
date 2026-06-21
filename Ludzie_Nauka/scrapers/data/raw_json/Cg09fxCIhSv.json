@@ -1,0 +1,186 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv",
+  "slug": "sergiy.fialko",
+  "profile_id": "Cg09fxCIhSv",
+  "full_name": "dr hab. inż. Sergiy Fialko",
+  "orcid": "0000-0001-7543-5744",
+  "orcid_url": "https://orcid.org/0000-0001-7543-5744",
+  "breadcrumb_name": "Sergiy Fialko",
+  "current_employment_summary": [
+    "Politechnika Krakowska im. Tadeusza Kościuszki"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "19 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2004",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki techniczne / budownictwo",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna Ukrainy [Національне агентство з акредитації України]",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "1983",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki techniczne / mechanika",
+        "Nadanie stopnia",
+        "Wyższa Komisja Atestacyjna przy Radzie Ministrów, ZSRR",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1978",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "budownictwo",
+        "Nadanie tytułu",
+        "!-- BRAK NA LIŚCIE ---",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Krakowska im. Tadeusza Kościuszki >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/7a7e1b21-0684-43f6-a0d6-5404df34ac74"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Progressive destruction analysis on shared memory SMP and NUMA computers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/publications/1eb7d3e2-f447-4cb6-abc4-e996f8737171",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2025",
+      "doi": null,
+      "doi_url": null,
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Progressive collapse analysis on multicore computers using nonlinear dynamic approach",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/publications/0b20ed5c-5552-475b-aaa8-b98fb8237436",
+      "authors": null,
+      "publication_type": "Artykuł , Computer Assisted Methods in Engineering and Science (CAMES)",
+      "year": "2024",
+      "doi": "10.24423/cames.2024.1641",
+      "doi_url": "https://www.doi.org/10.24423/cames.2024.1641",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Time history analysis of buildings and structures design models in SCAD software on multicore computers",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/publications/b14f798a-ea03-4301-ac9c-a9a8dff38521",
+      "authors": null,
+      "publication_type": "Artykuł",
+      "year": "2024",
+      "doi": "10.7148/2024-0187",
+      "doi_url": "https://www.doi.org/10.7148/2024-0187",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Równoległe wielowątkowe solwery wielofrontalne bazujące na drzewach podziału siatki",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/research-work/293bf941-03bf-40bf-938b-4f63814f100a",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Walidacja i praktyczne zastosowanie numerycznych modeli pełzania betonu",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/sergiy.fialko.Cg09fxCIhSv/research-work/b5f8da54-57dc-4438-82ab-d5ba93972f06",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=257259"
+    }
+  ],
+  "tag_cloud": [],
+  "coworkers": []
+}

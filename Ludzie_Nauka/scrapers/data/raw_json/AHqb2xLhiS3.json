@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3",
+  "slug": "jakub.koperwas",
+  "profile_id": "AHqb2xLhiS3",
+  "full_name": "dr inż. Jakub Janusz Koperwas",
+  "orcid": "0000-0003-0693-5109",
+  "orcid_url": "https://orcid.org/0000-0003-0693-5109",
+  "breadcrumb_name": "Jakub Koperwas",
+  "current_employment_summary": [
+    "Politechnika Warszawska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [
+    "eksploracja danych"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "14 lat 3 miesiące",
+      "duration": null,
+      "institution": "Politechnika Warszawska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2010",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk technicznych / informatyka",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2004",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "informatyka",
+        "Nadanie tytułu",
+        "Politechnika Warszawska",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Warszawska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/521ce6da-8ebb-47a5-90fe-3832685b75f9"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Beyond Core Research Management: XML-Based Modeling for Knowledge Management in OMEGA-PSIR",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/publications/0c74dcaa-3647-434e-9969-45141f025007",
+      "authors": "Ł. Skonieczny, J. Koperwas , H. Rybinski",
+      "publication_type": "Artykuł , Electronics (Switzerland)",
+      "year": "2025",
+      "doi": "10.3390/electronics14173473",
+      "doi_url": "https://www.doi.org/10.3390/electronics14173473",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Data Partitioning Strategies for Simulating non-IID Data Distributions in the DDM-PS-Eval Evaluation Platform",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/publications/3b2c1815-3a1a-48b8-80c2-489f05870213",
+      "authors": "J. Koperwas , M. Markiewicz",
+      "publication_type": "Artykuł",
+      "year": "2022",
+      "doi": "10.5220/0011290200003266",
+      "doi_url": "https://www.doi.org/10.5220/0011290200003266",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation Platform for DDM Algorithms With the Usage of Non-Uniform Data Distribution Strategies",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/publications/fbf161e7-f2f8-432d-b0f8-1bbbafcf09ca",
+      "authors": "J. Koperwas , M. Markiewicz",
+      "publication_type": "Artykuł , International Journal of Information Technologies and Systems Approach",
+      "year": "2022",
+      "doi": "10.4018/ijitsa.290000",
+      "doi_url": "https://www.doi.org/10.4018/ijitsa.290000",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Techniki grupowania drzew o poetykietowanych liściach i ich zastosowania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jakub.koperwas.AHqb2xLhiS3/research-work/8f442070-5fb6-43eb-a3f3-8a201427ded5",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=230349"
+    }
+  ],
+  "tag_cloud": [
+    "iot",
+    "specifications",
+    "w3c",
+    "discovery and launch",
+    "institutional repository",
+    "knowledge base",
+    "data partitioning strategies",
+    "classification",
+    "javascript",
+    "digital library"
+  ],
+  "coworkers": []
+}

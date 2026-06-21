@@ -1,0 +1,170 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN",
+  "slug": "arkadiusz.jakubowski",
+  "profile_id": "a9olTKPBJxN",
+  "full_name": "dr inż. Arkadiusz Jakubowski",
+  "orcid": "0000-0002-9478-893X",
+  "orcid_url": "https://orcid.org/0000-0002-9478-893X",
+  "breadcrumb_name": "Arkadiusz Jakubowski",
+  "current_employment_summary": [
+    "Politechnika Poznańska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych"
+  ],
+  "specializations": [],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/projects",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/research-work",
+      "aria_disabled": "true"
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Politechnika Poznańska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "5 miesięcy",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa w Koninie Aktualna nazwa: Akademia Nauk Stosowanych w Koninie",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7510fd24-edbd-4e46-b680-e7829cf52a80",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2024",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk inżynieryjno-technicznych / inżynieria mechaniczna",
+        "Nadanie stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2014",
+      "degree_or_title": "Magister inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "2013",
+      "degree_or_title": "Inżynier",
+      "details_json": [
+        "mechatronika",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Poznańska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/2caf49c8-c982-4873-9175-a3fb2ca1ce99"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Design and Control of a Linear Rotary Electro-Hydraulic Servo Drive Unit",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/publications/63343fea-987c-405f-bae3-bcdb659089ce",
+      "authors": "A. Milecki, A. Jakubowski , A. Kubacki",
+      "publication_type": "Artykuł , Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13158598",
+      "doi_url": "https://www.doi.org/10.3390/app13158598",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Controlling the industrial robot model with the hybrid BCI based on EOG and eye tracking",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/publications/6d80ef24-774d-4664-9654-4348f2a2f95d",
+      "authors": "A. Kubacki, A. Jakubowski",
+      "publication_type": "Artykuł , MATEC Web of Conferences",
+      "year": "2019",
+      "doi": "10.1051/matecconf/201925206004",
+      "doi_url": "https://www.doi.org/10.1051/matecconf/201925206004",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Design of Wave Simulator and Hydraulic Active Heave Compensation Framework for Offshore Operations",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/arkadiusz.jakubowski.a9olTKPBJxN/publications/66349947-7e6e-49d5-8122-e55cbc6d0f6a",
+      "authors": "A. Jakubowski , A. Kubacki",
+      "publication_type": "Artykuł , AIP Conference Proceedings",
+      "year": "2018",
+      "doi": "10.1063/1.5066484",
+      "doi_url": "https://www.doi.org/10.1063/1.5066484",
+      "source": "Źródło danych: OpenAIRE"
+    }
+  ],
+  "research_work": {
+    "author": [],
+    "promoter": [],
+    "reviewer": []
+  },
+  "external_profiles": [],
+  "tag_cloud": [],
+  "coworkers": []
+}

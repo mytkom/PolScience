@@ -1,0 +1,261 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of",
+  "slug": "jolanta.piekut",
+  "profile_id": "fnfI2n4Q2Of",
+  "full_name": "dr hab. Jolanta Piekut",
+  "orcid": "0000-0003-2056-9918",
+  "orcid_url": "https://orcid.org/0000-0003-2056-9918",
+  "breadcrumb_name": "Jolanta Piekut",
+  "current_employment_summary": [
+    "Politechnika Białostocka"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk inżynieryjno-technicznych",
+    "dziedzina nauk rolniczych"
+  ],
+  "specializations": [
+    "bromatologia"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "17 lat 1 miesiąc",
+      "duration": null,
+      "institution": "Politechnika Białostocka",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "8 lat",
+      "duration": null,
+      "institution": "Państwowa Wyższa Szkoła Zawodowa im. prof. Edwarda F. Szczepanika w Suwałkach Aktualna nazwa: Państwowa Uczelnia Zawodowa im. prof. Edwarda F. Szczepanika w Suwałkach",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/e59bcbe2-3973-411f-90f4-ab1fa4cf09fb",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "period": null,
+      "duration": null,
+      "institution": "Uniwersytet Medyczny w Białymstoku",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/7f12f268-786f-4504-9a3a-44afff1ba65c",
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2018",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "dziedzina nauk rolniczych / inżynieria rolnicza",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Przyrodniczy w Lublinie; Wydział Inżynierii Produkcji",
+          "href": "https://radon.nauka.gov.pl/dane/profil/df5f3829-c639-4112-8a58-078b8e5a42fd"
+        },
+        {
+          "label": "Uniwersytet Przyrodniczy w Lublinie >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/bc05e3e9-35c4-47a4-be34-d13dd35fd0bf"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2000",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "dziedzina nauk farmaceutycznych / dziedzina nauk farmaceutycznych",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Śląski Uniwersytet Medyczny w Katowicach",
+          "href": "https://radon.nauka.gov.pl/dane/profil/cd474cbb-d4ba-4475-b0d0-580f5f2e17ef"
+        },
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1990",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "chemia",
+        "Nadanie tytułu",
+        "UNIWERSYTET WARSZAWSKI",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Politechnika Białostocka >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/794ef8e5-f723-4f79-b710-8612c20f3f6d"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Inżynieria Środowiska, Górnictwo i Energetyka",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/gremiums/05196899-c794-4efb-ac7b-343c0e1ebb84",
+      "period": "2021-obecnie",
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Chemical characterization of extracts derived from apple, sour cherry, and sweet cherry seed oils",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/publications/dad8a077-ba18-4cb0-866d-cae60722930d",
+      "authors": "M. Szmigielski, M. Domin [...] J. Piekut , ... (+4)",
+      "publication_type": "Artykuł , Agriculture (Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/agriculture16020255",
+      "doi_url": "https://www.doi.org/10.3390/agriculture16020255",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 1,
+      "title": "Effect of varied addition of freeze-dried strawberry powder on selected quality parameters of common wheat pasta",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/publications/08c3befc-09a4-4139-a958-d4c77e95fd9f",
+      "authors": "B. Biernacka, B. Biernacka [...] J. Piekut , ... (+2)",
+      "publication_type": "Artykuł , International Agrophysics",
+      "year": "2025",
+      "doi": "10.31545/intagr/197359",
+      "doi_url": "https://www.doi.org/10.31545/intagr/197359",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 2,
+      "title": "Evaluation of the fertilising properties of composts containing herbal waste",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/publications/edf924c0-8127-4bc0-b817-212190d13e3f",
+      "authors": "M. Krasowska, J. Piekut , S. Obidziński, ... (+4)",
+      "publication_type": "Artykuł , Economics and Environment",
+      "year": "2025",
+      "doi": "10.34659/eis.2025.92.1.907",
+      "doi_url": "https://www.doi.org/10.34659/eis.2025.92.1.907",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Właściwości fizyko-chemiczne i biologiczne materiałów roślinnych w procesie ich przetwarzania",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work/52e2b216-dfcb-48d0-b92e-abeda8b88e34",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Wpływ różnych metod dekrystalizacji na właściwości miodów pszczelich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work/a928f339-c1dd-4159-a98a-c75183379022",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Wpływ właściwości fizyczno-chemicznych odpadów z przemysłu rolno-spożywczego na jakość granulatu opałowego",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work/99edc0d3-42e9-4071-8f90-a98c9a245ddb",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Opracowanie metody badania skuteczności ogrzewania nasion soi i ich przetworów",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work/74c1d62f-c0f5-493b-a3c6-73cf37e47607",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Kształtowanie cech jakościowych olejów roślinnych tłoczonych na zimno",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/jolanta.piekut.fnfI2n4Q2Of/research-work/dd8beedd-f547-4952-a9ad-332f2191a175",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=89930"
+    }
+  ],
+  "tag_cloud": [
+    "fruits",
+    "kwasy fenolowe",
+    "pelleting",
+    "wastes",
+    "agri-food waste",
+    "kinetic durability.",
+    "pressure agglomeration",
+    "pahs",
+    "vegetables",
+    "furniture"
+  ],
+  "coworkers": []
+}

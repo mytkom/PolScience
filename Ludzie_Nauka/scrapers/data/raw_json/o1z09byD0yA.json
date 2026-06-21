@@ -1,0 +1,287 @@
+{
+  "profile_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA",
+  "slug": "katarzyna.weron",
+  "profile_id": "o1z09byD0yA",
+  "full_name": "prof. dr hab. Katarzyna Beata Weron",
+  "orcid": "0000-0002-1851-8508",
+  "orcid_url": "https://orcid.org/0000-0002-1851-8508",
+  "breadcrumb_name": "Katarzyna Weron",
+  "current_employment_summary": [
+    "Politechnika Wrocławska"
+  ],
+  "discipline_summary": [
+    "dziedzina nauk społecznych"
+  ],
+  "specializations": [
+    "fizyka teoretyczna",
+    "fizyka statystyczna"
+  ],
+  "tab_menu": [
+    {
+      "label": "Profil",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA",
+      "aria_disabled": null
+    },
+    {
+      "label": "Publikacje",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/publications",
+      "aria_disabled": null
+    },
+    {
+      "label": "Dorobek artystyczny",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/achievement",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Patenty i prawa ochronne",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/patents",
+      "aria_disabled": "true"
+    },
+    {
+      "label": "Projekty",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/projects",
+      "aria_disabled": null
+    },
+    {
+      "label": "Postępowania awansowe",
+      "href": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work",
+      "aria_disabled": null
+    }
+  ],
+  "employment_history": [
+    {
+      "row_order": 0,
+      "period": "12 lat 6 miesięcy",
+      "duration": null,
+      "institution": "Politechnika Wrocławska",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "period": "14 lat 7 miesięcy",
+      "duration": null,
+      "institution": "Uniwersytet Wrocławski",
+      "institution_url": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c",
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "degrees_and_titles": [
+    {
+      "row_order": 0,
+      "year": "2016",
+      "degree_or_title": "Profesor",
+      "details_json": [
+        "dziedzina nauk fizycznych"
+      ],
+      "linked_entities_json": [],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 1,
+      "year": "2006",
+      "degree_or_title": "Doktor habilitowany",
+      "details_json": [
+        "nauki fizyczne / fizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 2,
+      "year": "1998",
+      "degree_or_title": "Doktor",
+      "details_json": [
+        "nauki fizyczne / biofizyka",
+        "Nadanie stopnia",
+        "Rejestracja stopnia"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    },
+    {
+      "row_order": 3,
+      "year": "1995",
+      "degree_or_title": "Magister",
+      "details_json": [
+        "fizyka",
+        "Nadanie tytułu",
+        "Rejestracja tytułu"
+      ],
+      "linked_entities_json": [
+        {
+          "label": "Uniwersytet Wrocławski",
+          "href": "https://radon.nauka.gov.pl/dane/profil/c1ace867-f745-40ef-a300-04f736b3372c"
+        },
+        {
+          "label": "Politechnika Wrocławska >",
+          "href": "https://radon.nauka.gov.pl/dane/profil/dbdda9a7-f6f7-44e8-af1d-9863e2256ca3"
+        }
+      ],
+      "source_json": [
+        "Źródło danych: POL-on"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "row_order": 0,
+      "role": "Członek",
+      "membership_name": "Rada Dyscypliny - Nauki Fizyczne",
+      "membership_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/gremiums/53d7c61e-07a1-403d-8d4e-004c9ed7764a",
+      "period": null,
+      "organization_path": null,
+      "source_json": [
+        "Źródło danych: Nauka Polska"
+      ]
+    }
+  ],
+  "publications_preview": [
+    {
+      "row_order": 0,
+      "title": "Depolarizing power of anticonformity",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/publications/24d3dd8c-3f7c-4aff-b46a-60817413f27e",
+      "authors": "A. Lipiecki, K. Sznajd-Weron",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.eswa.2025.127879",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.127879",
+      "source": "Źródło danych: OpenAIRE"
+    },
+    {
+      "row_order": 1,
+      "title": "Everyone is different, but does it matter? The role of heterogeneity in empirically grounded agent-based models of alternative fuel vehicles diffusion",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/publications/b4e0bae3-0be0-41c3-9b72-22578ac4539d",
+      "authors": "A. Kowalska-Pyzalska, J. Pawłowski, K. Weron , ... (+1)",
+      "publication_type": "Artykuł , Operations Research and Decisions",
+      "year": "2025",
+      "doi": "10.37190/ord250103",
+      "doi_url": "https://www.doi.org/10.37190/ord250103",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    },
+    {
+      "row_order": 2,
+      "title": "Impact of cognitive dissonance on social hysteresis: insights from the expressed and private opinions model",
+      "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/publications/5fdafa95-37be-44dd-9af0-67191859e63f",
+      "authors": "B. Kamińska, K. Weron",
+      "publication_type": "Artykuł , Expert Systems with Applications",
+      "year": "2025",
+      "doi": "10.1016/j.eswa.2025.126851",
+      "doi_url": "https://www.doi.org/10.1016/j.eswa.2025.126851",
+      "source": "Źródło danych: Polska Bibliografia Naukowa"
+    }
+  ],
+  "research_work": {
+    "author": [
+      {
+        "row_order": 0,
+        "title": "Nowa lokalna dynamika w układzie spinów Isingowskich",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/f096705f-5249-4235-af90-0b86b170e958",
+        "description": "Praca habilitacyjna Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Modelowanie procesów ewolucji biologicznej metodami fizyki statystycznej",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/b3c492e5-60da-4f3d-9e0c-9875ace6a151",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "promoter": [
+      {
+        "row_order": 0,
+        "title": "Discontinuous phase transitions in discrete opinion dynamics models",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/ae91ecdb-b7ec-4ffd-a5ad-557d3b81870b",
+        "description": "Praca doktorska Źródło danych: POL-on , Nauka Polska",
+        "source": "Źródło danych: POL-on , Nauka Polska"
+      },
+      {
+        "row_order": 1,
+        "title": "Nierównowagowe zjawiska krytyczne i przemiany fazowe w dynamicznych modelach spinowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/42970e48-68ff-4cd7-b813-e2d6fee8ae14",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      },
+      {
+        "row_order": 2,
+        "title": "Przejścia fazowe w uogólnionym modelu q-wyborcy na grafie zupełnym",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/950bbd90-2327-4734-aa11-cbbdd97ef784",
+        "description": "Praca doktorska Źródło danych: Nauka Polska",
+        "source": "Źródło danych: Nauka Polska"
+      }
+    ],
+    "reviewer": [
+      {
+        "row_order": 0,
+        "title": "Wykorzystanie programowania równoległego do analizy nieliniowych układów dynamicznych z identyfikacją chaotycznych i periodycznych szeregów czasowych",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/75d5179e-a30d-4f74-befe-61ac07a1c7ac",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 1,
+        "title": "Przekonania konsumentów, a decyzje producentów na oligopolistycznym rynku dóbr trwałego użytku",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/5577f4fb-068b-4f49-8e3f-bf5117be294d",
+        "description": "Praca doktorska Źródło danych: POL-on",
+        "source": "Źródło danych: POL-on"
+      },
+      {
+        "row_order": 2,
+        "title": "Postępowanie w sprawie nadania tytułu profesora",
+        "title_url": "https://ludzie.nauka.gov.pl/ln/profiles/katarzyna.weron.o1z09byD0yA/research-work/a26a14c2-9f2d-43cf-886d-4f044b871e5f",
+        "description": null,
+        "source": "Źródło danych: POL-on"
+      }
+    ]
+  },
+  "external_profiles": [
+    {
+      "label": "Nauka Polska",
+      "url": "https://archiwum.nauka-polska.pl/#/profile/scientist?id=84553"
+    }
+  ],
+  "tag_cloud": [
+    "pamięć",
+    "porządek zamrożony i wyrzażony",
+    "układy złożone",
+    "kinetyczne modele isinga",
+    "dynamika opinii",
+    "przemiany fazowe",
+    "wpływ społeczny",
+    "modelowanie agentowe",
+    "zjawiska krytyczne",
+    "model agentowy"
+  ],
+  "coworkers": []
+}
