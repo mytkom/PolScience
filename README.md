@@ -10,6 +10,8 @@ We decided that for our volume of the data (few GBs) SQLite database is enough a
 
 For search tool we decided to use FastAPI with a simple GUI available in browser. It can be run locally, but can be in the future hosted somewhere and be available remotely. Once again, greater simplicity and flexibility.
 
+For graph generation we use Python with NetworkX for the full pipeline from graph construction to metric computation and GEXF export. Gephi is used for interactive exploration of the generated graphs, as it is a well-established tool for visual analysis of large and complex networks.
+
 ## Project structure and components
 For a detailed documentation follow the subdirectory of interest. Here is just a quick overview:
 - **Ludzie Nauki Scraper** (./LudzieNaukiScraper) - a 4-pass Python scraping script. It uses Ludzie Nauki JSON API and saves results into a SQLite database. Rate-limiting, concurrent workers and random wait between requests features are available.
