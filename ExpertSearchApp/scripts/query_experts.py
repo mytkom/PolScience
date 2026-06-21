@@ -18,6 +18,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+MONOREPO_ROOT = REPO_ROOT.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
@@ -27,7 +28,7 @@ from src.retrieval.logging_config import configure_build_logging  # noqa: E402
 from src.retrieval.modes import SearchMode  # noqa: E402
 from src.retrieval.pipeline import DEFAULT_ARTIFACTS_DIR, build_artifacts, query_experts  # noqa: E402
 
-DEFAULT_DB = REPO_ROOT / "data" / "LudzieNaukiDumpDB" / "new_prof_search.sqlite"
+DEFAULT_DB = MONOREPO_ROOT / "data" / "LudzieNaukiDumpDB" / "new_prof_search.sqlite"
 
 
 def _resolve_log_level(args: argparse.Namespace) -> int:

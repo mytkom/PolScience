@@ -1,0 +1,446 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{biblatex}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{siunitx}
+
+\title{PolScience report: Research4Revenue candidates database.}
+\author{Cyprien Fourcroy, Wojtek Kutak, Suren Mnatsakanyan,  Marek Mytkowski, Michał Puścian}
+
+\addbibresource{ref.bib}
+
+\begin{document}
+
+\maketitle
+
+% Marek's notes:
+% Scrape pages of 21 universities for possible candidates for
+% this project: https://re4re.eu/
+% I think we should aim to scrape as wide as we can (the data should be at most few GBs -- only text about thousands of scientists)
+% Then we can do some Data Science part of exploration
+% How I understood is he expects some lowkey spreadsheet
+% with email and keywords of scientists, but we can give
+% him some semantic search or something fancy. I am not sure if we would have enough time.
+% We can also give hime something lowkey and explore the data our own way, maybe some interesting knowledge can be extracted
+% From our point of view what is now important is:
+% - gather requirements in this document (I would say with not specific post-scraping description)
+% - send it to the guy
+% - once he approves ask Sienkiewicz if this scope works for her
+% - then start working on it
+\section{Introduction}
+
+\subsection{Project context}
+Scientific research often holds great potential for the commercial sector, but connecting academia with industry remains a significant challenge. The Research4Revenue~\cite{re4re-website} project was created to bridge this gap by identifying active technical scientists in Poland and training them to commercialise their research results. In previous editions, the project team had to manually search through individual university websites to find and verify potential candidates. Because institutions structure their data differently, this manual preselection required significant time and effort. To scale the project and prepare for future international expansion, automating this candidate discovery process became a clear necessity.
+
+\subsection{Project goals and scope}
+\label{sec:introduction-goals}
+The main goal of this student project is to develop a database of Polish scientists and a search tool for it. The project focuses on two core objectives:
+\begin{itemize}
+    \item \textbf{Data Collection:} Scraping and aggregating information about Polish scientists, including their names, institutional affiliations, publication records, and research projects.
+    \item \textbf{Candidate Filtering:} Implementing a tool to filter the gathered profiles based on specific criteria, such as the number of recent journal publications, participation in industry projects, academic degree, and specific university affiliations.
+\end{itemize}
+
+The data collection is designed to run as a computationally intensive process once per year, storing textual data in a local database. Once the snapshot is captured, NLP and classical query techniques are used, allowing the Research4Revenue team to easily filter and select the final cohort of scientists.
+
+\section{Data collection}
+
+\subsection{Source and goal}
+Our main data source is the Ludzie Nauki website~\cite{ludzie-nauki}. This portal contains information on more than 200k Polish scientists, 2M publications, university employment, projects, and patents. The portal is based on open data from Polish public institutions and uses Elasticsearch. 
+
+We created a data pipeline to collect this information into a local SQLite database. The data is fetched using the portal's public JSON API, with rate limiting to avoid server overload. The collection process is divided into four separate passes because the API uses different endpoints, and some data can only be found after previous steps are completed.
+
+\subsection{Four passes}
+\textbf{Pass 1 --- profile discovery and enrichment.}
+We search for scientist profiles using the search API. However, the ElasticSearch settings limit the results to a maximum of 1000 profiles per query. To get more results, we divided the search into smaller parts using filters like scientific title, domain, discipline, and institution. For each part, we made two requests: one sorted by surname in ascending order and one in descending order, allowing us to retrieve up to 2000 profiles per filter combination. Even with this filtering, popular disciplines had more than 2000 scientists, so we could not download everything. In this first pass, we collected 68,147 profiles.
+
+\textbf{Pass 2 --- publications.}
+For each discovered profile, the pipeline downloads their publications and saves the authorship connections. We also collect publication keywords to count them at the profile level. When we list publications, we often find co-authors who were not found in Pass 1. For these people, we create "stub" profiles, which are incomplete records that significantly increase our database size.
+
+\textbf{Pass 3 --- stub resolution.}
+This pass runs in rounds to complete the missing information for the stub profiles found in Pass 2. For each stub profile, we run the Pass 1 enrichment, then the Pass 2 publication download. This process can discover new co-authors and create new stubs. The loop stops when no stubs remain or when we reach the round limit. This step helps us complete the identities in our database. At the end of this pass, we collected 165k profiles and 1.5M publications with full details.
+
+\textbf{Pass 4 --- projects and patents.}
+In the final pass, the pipeline downloads projects and patents for each profile. For projects, we save the dates, budget, keywords, and institutions. For patents, we save the property records, application numbers, and granting offices. We also connect profiles to these entities. If we find new co-authors with an identifier, they are added as stubs. At the end, we've got 90k projects and 17k patents.
+
+\subsection{Database structure}
+The data is stored in a relational SQLite database. To avoid duplication, shared entities such as publications, projects, and patents are stored once and linked to multiple profiles via junction tables. The schema includes the following main parts:
+
+\begin{itemize}
+  \item \textbf{People:} The \texttt{profiles} table, which uses an \texttt{is\_stub} flag to mark incomplete records.
+  \item \textbf{Reference data:} Tables for scientific domains, degree titles, and specialities.
+  \item \textbf{Affiliations:} The \texttt{institutions} table linked to profiles, plus separate tables for organisation roles.
+  \item \textbf{Publications:} Tables for publication details, authorship links, and keywords.
+  \item \textbf{Projects and Patents:} Tables for project budgets, patent rights, and author connections.
+\end{itemize}
+
+\subsection{Statistics}
+
+Counts of collected entities are summarised in Table \ref{tab:entity-counts}. We've collected about $\frac{3}{4}$ of the whole database. Ratios of missing identifiers of people (ORCID) and publications (DOI) are presented in Table \ref{tab:identifier-coverage}. About half of the people and publications lack an identification number. Mean author count per publication, project and patent are presented in Table \ref{tab:mean-authors}.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Main entity counts in the snapshot database.}
+  \label{tab:entity-counts}
+  \begin{tabular}{@{}lr@{}}
+    \toprule
+    Entity & Count \\
+    \midrule
+    Profiles & \num{165346} \\
+    Publications & \num{1510279} \\
+    Projects & \num{90493} \\
+    Specialties (dictionary) & \num{25108} \\
+    Patents (industrial property) & \num{17137} \\
+    Patent rights & \num{16439} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+  \centering
+  \caption{Identifier coverage for profiles (ORCID) and publications (DOI).}
+  \label{tab:identifier-coverage}
+  \begin{tabular}{@{}lrr@{}}
+    \toprule
+    Field & With value & Without value \\
+    \midrule
+    Profile ORCID & \num{81137} (\SI{49.1}{\percent}) & \num{84209} (\SI{50.9}{\percent}) \\
+    Publication DOI & \num{784960} (\SI{52.0}{\percent}) & \num{725319} (\SI{48.0}{\percent}) \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+  \centering
+  \caption{Mean number of linked profile authors per entity.}
+  \label{tab:mean-authors}
+  \begin{tabular}{@{}lr@{}}
+    \toprule
+    Entity type & Mean authors \\
+    \midrule
+    Publication & \num{2.27} \\
+    Project & \num{1.76} \\
+    Patent & \num{2.50} \\
+    Patent right & \num{2.67} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\section{Expert search application}
+
+Beyond the SQLite snapshot described, we built an expert retrieval system that answers a natural-language \emph{topic query} with a ranked list of scientists suitable for Research4Revenue outreach. The tool satisfies the \textbf{Candidate Filtering} objective from Section~\ref{sec:introduction-goals}: users can combine semantic topic matching with structural filters (publication counts, project history, degree, and current institution) instead of working from a manual spreadsheet alone.
+
+The system has two phases. An offline \texttt{build-index} step materialises search indexes from the database once per snapshot refresh. At query time, a FastAPI web application (or a command-line script) fuses lexical keywords, semantic similarity, and co-authorship community into a final ranking. This section describes the pipeline, the network statistics shown alongside each result, the web interface, and the automated test suite.
+
+\subsection{Architecture and search pipeline}
+
+\subsubsection{Offline index build}
+
+After each database refresh \texttt{build-index} has to be recomputed. The build performs the following steps for each search mode:
+\begin{enumerate}[noitemsep]
+  \item assemble a searchable text document per scientist,
+  \item build a BM25 lexical index and a dense embedding matrix,
+  \item export a shared co-authorship graph over all indexed profiles,
+  \item precompute per-profile \textbf{co-auth degree} and \textbf{global PageRank} on that graph.
+\end{enumerate}
+
+Both search modes share the same profile-id ordering and co-auth graph, only the text corpora and their BM25/embedding indexes differ.
+
+\subsubsection{Two search modes}
+
+Users choose how scientist text is indexed:
+\begin{itemize}[noitemsep]
+  \item \textbf{Publications mode} (default) concatenates publication titles with profile keywords, domain labels, and specialty labels. It suits concrete research topics where paper wording matters (e.g.\ ``quantum error correction'').
+  \item \textbf{Profile mode} indexes keywords, domains, disciplines, specialties, institution names, degree label, and about-me text, \emph{without} publication titles. It suits broad field queries or Polish taxonomy terms the user may not know precisely (e.g.\ ``nauki biologiczne'').
+\end{itemize}
+
+
+\subsubsection{Query-time fusion}
+
+Given a query, retrieval runs in four stages over the BM25 candidate pool:
+\begin{enumerate}[noitemsep]
+  \item \textbf{Keywords (BM25)} - rank all indexed scientists lexically and keep the top \num{5000} as candidates.
+  \item \textbf{Structural filters} - optionally drop candidates that fail criteria such as minimum publications since a given year, minimum POLON-funded projects since a year, current affiliation at selected institutions, or master's degree and above.
+  \item \textbf{Semantic (bi-encoder)} - encode the query and each candidate's document with the multilingual model \texttt{paraphrase-multilingual-MiniLM-L12-v2}, score by cosine similarity within the pool.
+  \item \textbf{Community (personalized PageRank)} - run personalized PageRank on the co-authorship graph with restart probability $\alpha = 0.85$, seeding from the top \num{200} BM25 hits, read scores for pool members only.
+\end{enumerate}
+
+Each raw score is transformed separately before fusion. For a signal $s$ and the current candidate pool $\mathcal{C}$, we apply min-max normalisation over pool members only:
+\begin{equation}
+  \widehat{s}(p) =
+  \begin{cases}
+    \dfrac{s(p) - \min_{q \in \mathcal{C}} s(q)}{\max_{q \in \mathcal{C}} s(q) - \min_{q \in \mathcal{C}} s(q)} & \text{if the pool scores are not all equal,}\\[0.6em]
+    0 & \text{otherwise.}
+  \end{cases}
+  \label{eq:minmax}
+\end{equation}
+Missing scores for a candidate are treated as zero before normalisation. The three normalised components are $\widehat{b}$, $\widehat{e}$, and $\widehat{r}$ for Keywords (BM25), Semantic (cosine), and Community (PPR) respectively.
+
+The user supplies non-negative fusion weights $w_{\mathrm{b}}$, $w_{\mathrm{e}}$, and $w_{\mathrm{r}}$. They are renormalised to sum to one ($w'_{\mathrm{b}} + w'_{\mathrm{e}} + w'_{\mathrm{r}} = 1$) before scoring. The final rank score for profile $p \in \mathcal{C}$ is the weighted sum:
+\begin{equation}
+  \mathrm{Final}(p) = w'_{\mathrm{b}}\,\widehat{b}(p) + w'_{\mathrm{e}}\,\widehat{e}(p) + w'_{\mathrm{r}}\,\widehat{r}(p).
+  \label{eq:fusion}
+\end{equation}
+Default weights are $w_{\mathrm{b}} = 0.25$, $w_{\mathrm{e}} = 0.55$, and $w_{\mathrm{r}} = 0.20$ (Table~\ref{tab:search-hyperparams}), all three can be changed in the web UI. By default the system returns the top \num{1000} profiles. An optional \emph{gate BM25} mode multiplies $\mathrm{Final}(p)$ by $(\varepsilon + \widehat{b}(p))$ with small $\varepsilon$, so candidates with weak keyword overlap cannot be lifted by semantic or graph signals alone.
+
+
+Table~\ref{tab:search-hyperparams} lists the main default hyperparameters. Embedding construction is the slowest build step (on the order of tens of minutes on CPU), a single interactive query typically completes in seconds once indexes are loaded.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Default expert-search hyperparameters.}
+  \label{tab:search-hyperparams}
+  \begin{tabular}{@{}ll@{}}
+    \toprule
+    Parameter & Default \\
+    \midrule
+    Lexical recall (\texttt{recall\_k}) & \num{5000} \\
+    PPR seed count (\texttt{seed\_k}) & \num{200} \\
+    Results returned (\texttt{top\_k}) & \num{1000} \\
+    Weight: Keywords (BM25) & \num{0.25} \\
+    Weight: Semantic & \num{0.55} \\
+    Weight: Community (PPR) & \num{0.20} \\
+    PPR restart ($\alpha$) & \num{0.85} \\
+    Embedding model & \texttt{paraphrase-multilingual-MiniLM-L12-v2} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+The following subsection details modules, persisted files, and which retrieval stages use the co-authorship graph versus text indexes or SQLite.
+
+\subsection{Implementation and artifact storage}
+
+\subsubsection{Software modules}
+
+The retrieval stack is implemented in Python under \texttt{src/retrieval/}, with a CLI entry point (\texttt{scripts/query\_experts.py}) and a FastAPI layer (\texttt{src/api/}). Table~\ref{tab:modules} maps responsibilities to source files. Publication-level neighbourhood code (\texttt{src/graph/publication\_graph.py}) and the separate Gephi export pipeline (\texttt{src/generate\_graphs.py}) are \emph{not} used at query time; search relies on \texttt{coauth\_graph.py} for fusion and optional GEXF files for display-only cluster labels.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Main software modules for expert search.}
+  \label{tab:modules}
+  \small
+  \begin{tabular}{@{}p{0.32\linewidth}p{0.58\linewidth}@{}}
+    \toprule
+    Role & Module \\
+    \midrule
+    CLI & \texttt{scripts/query\_experts.py} \\
+    Build and query orchestration & \texttt{src/retrieval/pipeline.py} \\
+    Corpus assembly from SQLite & \texttt{src/retrieval/corpus.py} \\
+    BM25 lexical index & \texttt{src/retrieval/bm25\_index.py} \\
+    Embedding encode/store & \texttt{src/retrieval/embeddings.py} \\
+    Co-auth graph export & \texttt{src/retrieval/coauth\_graph.py} \\
+    Precomputed degree/PageRank & \texttt{src/retrieval/profile\_graph\_metrics.py} \\
+    Personalized PageRank & \texttt{src/retrieval/ppr.py} \\
+    Score fusion & \texttt{src/retrieval/fusion.py} \\
+    Structural filters & \texttt{src/retrieval/filters.py} \\
+    HTTP API and CSV export & \texttt{src/api/app.py}, \texttt{search\_service.py} \\
+    Optional GEXF metrics & \texttt{src/retrieval/gexf\_metrics.py} \\
+    Profile display fields & \texttt{src/api/enrichment.py} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsubsection{Graph-based vs.\ text-based components}
+
+Only the Community (PPR) fusion signal and the optional network display columns depend on the scientist co-authorship graph. Keywords, semantic similarity, and structural filters operate on text indexes or metadata derived from SQLite. Table~\ref{tab:graph-vs-text} summarises the split.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Retrieval components by data source.}
+  \label{tab:graph-vs-text}
+  \small
+  \begin{tabular}{@{}p{0.22\linewidth}cp{0.22\linewidth}p{0.36\linewidth}@{}}
+    \toprule
+    Stage / feature & Graph? & Primary storage & Implementation \\
+    \midrule
+    Keywords (BM25) & No & \texttt{bm25\_index.pkl} & Tokenized \texttt{corpus.jsonl} via BM25Okapi \\
+    Semantic (cosine) & No & \texttt{embeddings.f32.npy} & Precomputed \texttt{sentence-transformers} vectors \\
+    Structural filters & No & \texttt{meta} in \texttt{corpus.jsonl} & In-memory dict; institution filter may query SQLite \\
+    Community (PPR) & Yes & \texttt{coauth\_edges.npz} & PPR on CSR adjacency; seeds from top BM25 hits \\
+    Co-auth degree, Network rank & Yes & \texttt{profile\_graph\_metrics.npz} & Global degree and PageRank at build-index \\
+    Cluster (display) & Yes & \texttt{researcher\_*.gexf} & Optional GEXF parsed at API startup \\
+    Name, email, profile URL & No & Live SQLite & Read after ranking for result IDs only \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+The search co-auth graph (any shared publication, all indexed profiles) differs from the offline GEXF export (minimum two shared publications, optional domain filter). Build-index metrics always come from the search graph; GEXF contributes cluster hub labels when present (Section~\ref{sec:network-stats}).
+
+\subsubsection{Persisted artifacts after \texttt{build-index}}
+
+All search indexes are written to \texttt{data/retrieval\_artifacts/} (gitignored). The directory layout is:
+\begin{itemize}
+\item \texttt{data/retrieval\_artifacts/}
+\begin{itemize}
+  \item \texttt{build\_manifest.json}
+  \item \texttt{profile\_id\_index.json}
+  \item \texttt{coauth\_edges.npz}
+  \item \texttt{coauth\_graph\_meta.json}
+  \item \texttt{profile\_graph\_metrics.npz}
+  \item \texttt{profile\_graph\_metrics\_meta.json}
+  \item \texttt{publications/}
+  
+\begin{itemize}
+    \item \texttt{corpus.jsonl}, 
+    \item \texttt{bm25\_index.pkl}, 
+    \item \texttt{embeddings.f32.npy}, 
+    \item \texttt{embeddings\_meta.json}
+\end{itemize}
+  \item \texttt{profile/} (same four files as publications/)
+  
+\end{itemize}
+\end{itemize}
+
+Table~\ref{tab:artifacts} describes each file. Row index~$i$ in \texttt{embeddings.f32.npy}, \texttt{coauth\_edges.npz}, and \texttt{profile\_graph\_metrics.npz} all refer to the same profile ID as \texttt{profile\_id\_index.json[i]}.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Files produced by \texttt{build-index}.}
+  \label{tab:artifacts}
+  \small
+  \begin{tabular}{@{}p{0.34\linewidth}p{0.12\linewidth}p{0.14\linewidth}p{0.32\linewidth}@{}}
+    \toprule
+    File & Format & Scope & Contents \\
+    \midrule
+    \texttt{corpus.jsonl} & JSONL & per mode & \texttt{profile\_id}, assembled \texttt{text}, \texttt{meta}, \texttt{search\_mode} \\
+    \texttt{bm25\_index.pkl} & pickle & per mode & BM25Okapi over tokenized corpus \\
+    \texttt{embeddings.f32.npy} & NumPy & per mode & Float matrix; row $i$ = embedding of profile $i$ \\
+    \texttt{embeddings\_meta.json} & JSON & per mode & Model name and vector dimension \\
+    \texttt{profile\_id\_index.json} & JSON & shared & Ordered list of indexed profile IDs \\
+    \texttt{coauth\_edges.npz} & NumPy sparse & shared & Undirected weighted adjacency (CSR) \\
+    \texttt{coauth\_graph\_meta.json} & JSON & shared & Node and edge counts \\
+    \texttt{profile\_graph\_metrics.npz} & NumPy & shared & Arrays \texttt{degree}, \texttt{pagerank} \\
+    \texttt{profile\_graph\_metrics\_meta.json} & JSON & shared & Build stats for graph metrics \\
+    \texttt{build\_manifest.json} & JSON & shared & Timestamp, counts, model name, elapsed time \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+Each line of \texttt{corpus.jsonl} stores filter metadata in \texttt{meta}: publication counts by year (\texttt{pubs\_by\_year}), POLON project counts by year (\texttt{polon\_projects\_by\_year}), \texttt{domain\_code}, and \texttt{degree\_code}. Only non-stub profiles (\texttt{is\_stub = 0}) are indexed. Profiles with empty assembled text are excluded from the BM25 candidate pool at query time.
+
+The build procedure in \texttt{pipeline.build\_artifacts} runs as follows:
+\begin{enumerate}[noitemsep]
+  \item For each search mode (\texttt{publications}, \texttt{profile}): load SQLite rows, assemble documents, write \texttt{corpus.jsonl}, build \texttt{bm25\_index.pkl}, encode and save \texttt{embeddings.f32.npy}.
+  \item Reload the publications-mode corpus and write \texttt{profile\_id\_index.json}.
+  \item Export co-authorship edges from the authorship table into \texttt{coauth\_edges.npz}.
+  \item Compute global degree and PageRank on that graph into \texttt{profile\_graph\_metrics.npz}.
+  \item Write \texttt{build\_manifest.json} with build metadata.
+\end{enumerate}
+Text indexes are duplicated per mode; the co-auth graph and profile metrics are built once and shared.
+
+\subsubsection{Query-time and API runtime access}
+
+At query time, \texttt{query\_experts} in \texttt{pipeline.py} loads the mode-specific BM25 index and embedding matrix from disk (cached in memory after the first use), and the shared co-auth graph once. The query string is scored by BM25 over the full corpus; structural filters drop candidates using \texttt{meta} from \texttt{corpus.jsonl}, with optional live SQLite lookups for institution resolution. The query is encoded once; cosine similarity is computed only for surviving pool members, not for all \num{165346} profiles. Personalized PageRank walks the full adjacency matrix but reads scores only for pool indices; seed mass is placed on the top \num{200} BM25 hits. \texttt{fusion.fuse\_scores} min--max normalises the three signals over the pool and returns the top~\texttt{top\_k} profile IDs.
+
+The FastAPI server preloads resources at startup: the \texttt{sentence-transformers} model (\texttt{preload\_embedding\_model}), BM25 and embedding indexes for both modes plus the co-auth graph (\texttt{preload\_search\_indexes}), and merged graph display metrics from \texttt{profile\_graph\_metrics.npz} with optional GEXF cluster labels (\texttt{preload\_graph\_metrics}). Each search request calls \texttt{query\_experts}, then \texttt{load\_profile\_displays} reads names and constructs Ludzie Nauki profile URLs from SQLite for the ranked IDs only. Configuration uses environment variables \texttt{POLSCIENCE\_DB\_PATH}, \texttt{POLSCIENCE\_ARTIFACTS\_DIR}, and \texttt{POLSCIENCE\_GRAPHS\_DIR}.
+
+\subsection{Network statistics for ranked profiles}
+\label{sec:network-stats}
+
+In addition to the three fusion scores, the application can display static network context for each scientist. These columns help interpret \emph{how connected} a profile is in the national co-authorship network; they are separate from the query-specific Community score in Equation~\eqref{eq:fusion}. File formats and load paths are described in Table~\ref{tab:artifacts} and Table~\ref{tab:graph-vs-text}.
+
+\subsubsection{Co-authorship graph used for search}
+
+The search graph spans all \num{165346} indexed non-stub profiles. An undirected edge connects two scientists if they co-authored at least one publication; edge weight equals the number of shared publications. This graph powers query-time PPR and is persisted as the sparse matrix \texttt{coauth\_edges.npz}.
+
+\subsubsection{Precomputed profile metrics}
+
+\textbf{Co-auth degree} is the unweighted degree in the search graph (distinct co-authors). \textbf{Network rank} is global PageRank on the same weighted graph, independent of the user's query. Both are precomputed at build-index into \texttt{profile\_graph\_metrics.npz} and loaded at API startup for $O(1)$ lookup per result row.
+
+\textbf{Cluster} is optional: the label of a modularity community hub from offline GEXF exports (\texttt{researcher\_*.gexf}). When both build-index metrics and GEXF data exist, degree and PageRank always come from the search graph; GEXF contributes cluster labels only.
+
+\subsubsection{Community column vs.\ display metrics}
+
+The results table uses the label \textbf{Community} for the personalized PageRank score that enters fusion (Equation~\eqref{eq:fusion}). This column is shown only while query PPR is \emph{enabled}. If the user disables query PPR, the Community column is hidden from the table and CSV export because the static connectivity signal is already available as \textbf{Network rank}, showing both would be redundant.
+
+The Co-auth degree, Network rank, and Cluster columns never alter \textbf{Final} directly when query PPR is on, they are interpretive context for human review.
+
+\subsection{Web interface and output}
+
+We expose the pipeline through a FastAPI server (\texttt{src/api/app.py}) and a lightweight browser UI (\texttt{src/api/static/}). After \texttt{build-index}, the server is started with environment variables pointing to the SQLite database, retrieval artifacts, and (optionally) a directory of GEXF graph files. On startup it loads the embedding model once, preloads BM25 and embedding indexes for \emph{both} search modes, and loads graph metrics so mode switches and repeated queries stay fast.
+
+Figure~\ref{fig:search-ui} shows the search form. The user enters a topic query, selects publications or profile mode, adjusts fusion weights, and may expand \emph{Advanced filters} for structural constraints (publication and POLON project counts since a year, institution IDs or name substrings, MGR+ degree). A checkbox can disable query-time PPR for experiments with keyword- and semantic-only ranking.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.92\linewidth]{report-resources/images/app_menu.png}
+  \caption{Expert search web UI: topic query, search mode, fusion weights, and advanced filters.}
+  \label{fig:search-ui}
+\end{figure}
+
+Clicking \textbf{Search} calls \texttt{GET /api/search} and renders a sortable results table. Figure~\ref{fig:search-results} shows two example rankings. Each row includes:
+\begin{itemize}[noitemsep]
+  \item identity fields: rank, name, email (when present in the dump), link to the Ludzie Nauki profile page, and internal profile ID,
+  \item fusion scores: \textbf{Final}, \textbf{Keywords} (BM25), \textbf{Semantic} (cosine), and \textbf{Community} (PPR, when enabled),
+  \item optional filter columns (e.g.\ publication count since a filter year, matched institution names, degree label) when the corresponding filters are active,
+  \item optional network columns: Co-auth degree, Network rank, Cluster (and institution network rank when filtering by institution and institution GEXF metrics are loaded).
+\end{itemize}
+
+An expandable \emph{What do the scores mean?} legend in the UI explains each column in plain language. \textbf{Download CSV} exports the same columns with a UTF-8 byte-order mark so Polish diacritics open correctly in Excel. The JSON and CSV endpoints mirror the form parameters, \texttt{GET /api/health} reports whether the database, artifacts, and graph files are reachable.
+
+\begin{figure}[htbp]
+  \centering
+  \begin{subfigure}[t]{0.48\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{report-resources/images/app_example_ranking_1.png}
+    \caption{Example ranking for a topic query.}
+    \label{fig:search-results-a}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[t]{0.48\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{report-resources/images/app_example_ranking_2.png}
+    \caption{Rest of the ranking columns.}
+    \label{fig:search-results-b}
+  \end{subfigure}
+  \caption{Example search results showing fusion scores and network statistics columns.}
+  \label{fig:search-results}
+\end{figure}
+
+\subsection{Automated tests}
+
+The retrieval stack and HTTP API are covered by a pytest suite under \texttt{tests/}. Tests use small fixtures and mocks so they run without the full production index or a live Ludzie Nauki connection. After installing dependencies (\texttt{uv sync --extra retrieval --extra api}), the full suite is executed with:
+\begin{verbatim}
+uv run pytest
+\end{verbatim}
+Individual modules can be run selectively, e.g.\ \texttt{uv run pytest tests/test\_api.py -q}.
+
+Table~\ref{tab:test-modules} summarises the main test files and what each verifies.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Automated test modules and scope.}
+  \label{tab:test-modules}
+  \small
+  \begin{tabular}{@{}p{0.38\linewidth}p{0.54\linewidth}@{}}
+    \toprule
+    Module & Scope \\
+    \midrule
+    \texttt{test\_retrieval\_fusion.py} & BM25 indexing, score fusion, PPR on small graphs \\
+    \texttt{test\_api.py} & FastAPI endpoints, CSV export, filters, graph-metric enrichment, Community column visibility \\
+    \texttt{test\_filters.py} & Institution name/ID resolution and structural filter logic \\
+    \texttt{test\_profile\_graph\_metrics.py} & Degree/PageRank export at build-index and merge with GEXF \\
+    \texttt{test\_gexf\_metrics.py} & GEXF parsing and static PageRank fusion path \\
+    \texttt{test\_data\_loader.py} & Researcher, institution, and specialty graph loaders \\
+    \texttt{test\_graph\_io.py} & NetworkX conversion, metric assignment, GEXF export \\
+    \texttt{test\_publication\_graph.py} & Publication-graph SQL helpers and indexes \\
+    \texttt{test\_profile\_urls.py} & Ludzie Nauki profile URL construction \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+API tests patch \texttt{query\_experts} and use the FastAPI \texttt{TestClient}, checking HTTP status codes, response schema fields, and CSV column sets including conditional filter and graph columns. Fusion and graph tests construct tiny synthetic corpora or adjacency matrices to assert ranking behaviour deterministically.
+
+
+\printbibliography
+
+\end{document}

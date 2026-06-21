@@ -6,10 +6,11 @@ import os
 from dataclasses import dataclass
 from pathlib import Path
 
-_REPO_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_DB = _REPO_ROOT / "data" / "LudzieNaukiDumpDB" / "new_prof_search.sqlite"
-DEFAULT_ARTIFACTS = _REPO_ROOT / "data" / "retrieval_artifacts"
-DEFAULT_GRAPHS = _REPO_ROOT / "data" / "graphs"
+_PROJECT_ROOT = Path(__file__).resolve().parents[2]
+_MONOREPO_ROOT = _PROJECT_ROOT.parent
+DEFAULT_DB = _MONOREPO_ROOT / "data" / "LudzieNaukiDumpDB" / "new_prof_search.sqlite"
+DEFAULT_ARTIFACTS = _MONOREPO_ROOT / "data" / "retrieval_artifacts"
+DEFAULT_GRAPHS = _MONOREPO_ROOT / "data" / "graphs"
 MAX_TOP_K = 5000
 
 

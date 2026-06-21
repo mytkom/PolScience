@@ -59,7 +59,9 @@ from src.retrieval.modes import SearchMode
 from src.retrieval.ppr import ppr_scores_for_candidates, seeds_from_bm25_hits
 
 MANIFEST_FILENAME = "build_manifest.json"
-DEFAULT_ARTIFACTS_DIR = Path("data/retrieval_artifacts")
+_PROJECT_ROOT = Path(__file__).resolve().parents[2]
+_MONOREPO_ROOT = _PROJECT_ROOT.parent
+DEFAULT_ARTIFACTS_DIR = _MONOREPO_ROOT / "data" / "retrieval_artifacts"
 _API_LOG = logging.getLogger("polscience.api")
 
 _mode_cache: dict[tuple[str, str], "_ModeArtifacts"] = {}
