@@ -21,8 +21,8 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     return conn
 
 
-def init_schema(conn: sqlite3.Connection) -> None:
-    sql = SCHEMA_PATH.read_text(encoding="utf-8")
+def init_schema(conn: sqlite3.Connection, schema: Path = SCHEMA_PATH) -> None:
+    sql = schema.read_text(encoding="utf-8")
     conn.executescript(sql)
 
 

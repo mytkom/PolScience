@@ -1,0 +1,271 @@
+:root {
+  --bg: #0f1419;
+  --surface: #1a2332;
+  --border: #2d3a4f;
+  --text: #e7ecf3;
+  --muted: #8b9cb3;
+  --accent: #3d8bfd;
+  --accent-hover: #5ca0ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+header {
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.5rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  background: var(--surface);
+  padding: 1.25rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+textarea,
+input[type="number"] {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.mode-fieldset {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0;
+}
+
+.mode-fieldset label {
+  display: block;
+  font-weight: 400;
+  color: var(--text);
+  margin: 0.35rem 0;
+  cursor: pointer;
+}
+
+.mode-fieldset input {
+  margin-right: 0.5rem;
+}
+
+.weights-fieldset {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0;
+}
+
+.weights-hint {
+  margin: 0 0 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.weights-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 1rem;
+  align-items: center;
+}
+
+.weights-grid label {
+  margin: 0;
+}
+
+.weights-grid input {
+  max-width: 6rem;
+}
+
+.filters-grid input[type="text"] {
+  width: 100%;
+}
+
+.filter-pair {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.filter-pair input {
+  flex: 1;
+  max-width: none;
+}
+
+.filters-fieldset {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0;
+}
+
+.filters-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 1rem;
+  align-items: center;
+}
+
+.checkbox-label {
+  font-weight: 400;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  background: var(--accent);
+  color: #fff;
+}
+
+button:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+#csv-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+.status {
+  min-height: 1.5rem;
+  margin: 1rem 0;
+  color: var(--muted);
+}
+
+.status.error {
+  color: #f87171;
+}
+
+.results-wrap.hidden {
+  display: none;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.score-legend {
+  margin: 0.75rem 0 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.score-legend summary {
+  cursor: pointer;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.score-legend ul {
+  margin: 0.5rem 0;
+  padding-left: 1.25rem;
+}
+
+.score-legend li {
+  margin: 0.35rem 0;
+}
+
+.score-note {
+  margin: 0.5rem 0 0;
+}
+
+.table-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+th,
+td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  background: var(--surface);
+  position: sticky;
+  top: 0;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+tbody tr:hover {
+  background: rgba(61, 139, 253, 0.08);
+}
+
+td a {
+  color: var(--accent);
+}
+
+td.num {
+  font-variant-numeric: tabular-nums;
+}

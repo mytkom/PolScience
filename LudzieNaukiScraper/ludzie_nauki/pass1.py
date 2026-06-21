@@ -448,7 +448,7 @@ def run_pass1(
     enriched = 0
     batch: list[tuple[str, dict[str, Any]]] = []
     batch_cap = max(8, concurrency * 4)
-    seen: set[str] = set(db.profile_ids_for_pass2(conn))
+    seen: set[str] = set()
 
     def flush_pending() -> None:
         nonlocal enriched, batch
@@ -469,8 +469,8 @@ def run_pass1(
         if progress:
             progress(last_pid, {"enriched": enriched})
 
-    overflow_slices: list[SearchSlice] = slices
-    overflow_seen: set[SearchSlice] = seen
+    overflow_slices: list[SearchSlice] = []
+    overflow_seen: set[SearchSlice] = set()
 
     def crawl_slice(
         sl: SearchSlice,
@@ -545,8 +545,7 @@ def run_pass1(
                     pid = str(pid)
                     if pid in seen:
                         continue
-                    # if db.profile_exists(conn, pid) and not db.profile_is_stub(conn, pid):
-                    if db.profile_exists(conn, pid):
+                    if db.profile_exists(conn, pid) and not db.profile_is_stub(conn, pid):
                         seen.add(pid)
                         continue
                     if max_profiles is not None and enriched + len(batch) >= max_profiles:
@@ -564,18 +563,18 @@ def run_pass1(
                 return True
         return False
 
-    # slice_idx = 0
-    # for sl in slices:
-    #     slice_idx += 1
-    #     if crawl_slice(
-    #         sl,
-    #         slice_tag=f"slice #{slice_idx}",
-    #         institution_id=None,
-    #         capture_overflow_without_institution=True,
-    #     ):
-    #         return enriched
+    slice_idx = 0
+    for sl in slices:
+        slice_idx += 1
+        if crawl_slice(
+            sl,
+            slice_tag=f"slice #{slice_idx}",
+            institution_id=None,
+            capture_overflow_without_institution=True,
+        ):
+            return enriched
 
-    # flush_pending()
+    flush_pending()
 
     inst_ids = db.list_institution_ids(conn)
     if overflow_slices:

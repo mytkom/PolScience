@@ -1,3 +1,14 @@
+.venv
+__pycache__
+*.sqlite*
+data/retrieval_artifacts/
+**/build
+**/dist
+**/*.egg-info
+*.zip
+data/cache/
+data/graphs/
+results
 ./PolUni/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
