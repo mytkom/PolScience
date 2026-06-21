@@ -658,3 +658,332 @@ def profile_ids_for_pass2(
           AND pdd.discipline_code IN ({placeholders_s})
     """
     return [str(r["id"]) for r in conn.execute(sql, tuple(dom + dis)).fetchall()]
+
+
+def profile_ids_for_pass4(
+    conn: sqlite3.Connection,
+    *,
+    domain_codes: Optional[list[str]] = None,
+    discipline_codes: Optional[list[str]] = None,
+) -> list[str]:
+    return profile_ids_for_pass2(
+        conn, domain_codes=domain_codes, discipline_codes=discipline_codes
+    )
+
+
+def upsert_institution_minimal(conn: sqlite3.Connection, institution_id: str, name: str) -> None:
+    iid = str(institution_id).strip()
+    nm = (name or "unknown").strip() or "unknown"
+    if not iid:
+        return
+    conn.execute(
+        """
+        INSERT INTO institutions (id, name)
+        VALUES (?, ?)
+        ON CONFLICT(id) DO UPDATE SET name = COALESCE(excluded.name, institutions.name)
+        """,
+        (iid, nm),
+    )
+
+
+def upsert_project_minimal(
+    conn: sqlite3.Connection,
+    project_id: str,
+    *,
+    title: str | None,
+    project_number: str | None = None,
+    classification: str | None = None,
+    start_date: str | None = None,
+    end_date: str | None = None,
+    funds: float | None = None,
+    project_source: str | None = None,
+    edition: str | None = None,
+    abstract: str | None = None,
+    link_radon: str | None = None,
+    entity_showing_uuid: str | None = None,
+    entity_showing_name: str | None = None,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO projects (
+            id, project_number, title, classification, start_date, end_date, funds,
+            project_source, edition, abstract, link_radon, entity_showing_uuid,
+            entity_showing_name, detail_fetched
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0)
+        ON CONFLICT(id) DO UPDATE SET
+          project_number = COALESCE(excluded.project_number, projects.project_number),
+          title = COALESCE(excluded.title, projects.title),
+          classification = COALESCE(excluded.classification, projects.classification),
+          start_date = COALESCE(excluded.start_date, projects.start_date),
+          end_date = COALESCE(excluded.end_date, projects.end_date),
+          funds = COALESCE(excluded.funds, projects.funds),
+          project_source = COALESCE(excluded.project_source, projects.project_source),
+          edition = COALESCE(excluded.edition, projects.edition),
+          abstract = COALESCE(excluded.abstract, projects.abstract),
+          link_radon = COALESCE(excluded.link_radon, projects.link_radon),
+          entity_showing_uuid = COALESCE(excluded.entity_showing_uuid, projects.entity_showing_uuid),
+          entity_showing_name = COALESCE(excluded.entity_showing_name, projects.entity_showing_name)
+        """,
+        (
+            project_id,
+            project_number,
+            title,
+            classification,
+            start_date,
+            end_date,
+            funds,
+            project_source,
+            edition,
+            abstract,
+            link_radon,
+            entity_showing_uuid,
+            entity_showing_name,
+        ),
+    )
+
+
+def project_detail_fetched(conn: sqlite3.Connection, project_id: str) -> bool:
+    row = conn.execute("SELECT detail_fetched FROM projects WHERE id = ?", (project_id,)).fetchone()
+    return bool(row and row[0] == 1)
+
+
+def set_project_detail_fetched(conn: sqlite3.Connection, project_id: str, fetched: bool = True) -> None:
+    conn.execute(
+        "UPDATE projects SET detail_fetched = ? WHERE id = ?",
+        (1 if fetched else 0, project_id),
+    )
+
+
+def replace_project_keywords(conn: sqlite3.Connection, project_id: str, keywords: list[str]) -> None:
+    conn.execute("DELETE FROM project_keywords WHERE project_id = ?", (project_id,))
+    for kw in keywords:
+        t = (kw or "").strip()
+        if t:
+            conn.execute(
+                "INSERT OR IGNORE INTO project_keywords (project_id, keyword) VALUES (?, ?)",
+                (project_id, t),
+            )
+
+
+def replace_project_financing(conn: sqlite3.Connection, project_id: str, names: list[str]) -> None:
+    conn.execute("DELETE FROM project_financing_institutions WHERE project_id = ?", (project_id,))
+    for nm in names:
+        t = (nm or "").strip()
+        if t:
+            conn.execute(
+                """
+                INSERT OR IGNORE INTO project_financing_institutions (project_id, name)
+                VALUES (?, ?)
+                """,
+                (project_id, t),
+            )
+
+
+def replace_project_implementing(
+    conn: sqlite3.Connection,
+    project_id: str,
+    rows: list[tuple[str | None, str, bool]],
+) -> None:
+    conn.execute("DELETE FROM project_implementing_institutions WHERE project_id = ?", (project_id,))
+    for institution_id, name, is_leader in rows:
+        nm = (name or "").strip()
+        if not nm:
+            continue
+        iid = (institution_id or "").strip() or None
+        if iid:
+            upsert_institution_minimal(conn, iid, nm)
+        conn.execute(
+            """
+            INSERT OR REPLACE INTO project_implementing_institutions
+                (project_id, institution_id, name, is_leader)
+            VALUES (?, ?, ?, ?)
+            """,
+            (project_id, iid, nm, 1 if is_leader else 0),
+        )
+
+
+def insert_profile_project(
+    conn: sqlite3.Connection,
+    profile_id: str,
+    project_id: str,
+    *,
+    roles: str | None = None,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO profile_projects (profile_id, project_id, roles)
+        VALUES (?, ?, ?)
+        ON CONFLICT(profile_id, project_id) DO UPDATE SET
+          roles = COALESCE(excluded.roles, profile_projects.roles)
+        """,
+        (profile_id, project_id, roles),
+    )
+
+
+def upsert_patent_minimal(
+    conn: sqlite3.Connection,
+    patent_id: str,
+    *,
+    title: str | None,
+    type_code: str | None = None,
+    type_label: str | None = None,
+    abstract: str | None = None,
+    calculated_language_code: str | None = None,
+    patent_source: str | None = None,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO patents (
+            id, type_code, type_label, title, abstract,
+            calculated_language_code, patent_source, detail_fetched
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?, 0)
+        ON CONFLICT(id) DO UPDATE SET
+          type_code = COALESCE(excluded.type_code, patents.type_code),
+          type_label = COALESCE(excluded.type_label, patents.type_label),
+          title = COALESCE(excluded.title, patents.title),
+          abstract = COALESCE(excluded.abstract, patents.abstract),
+          calculated_language_code = COALESCE(
+              excluded.calculated_language_code, patents.calculated_language_code
+          ),
+          patent_source = COALESCE(excluded.patent_source, patents.patent_source)
+        """,
+        (
+            patent_id,
+            type_code,
+            type_label,
+            title,
+            abstract,
+            calculated_language_code,
+            patent_source,
+        ),
+    )
+
+
+def patent_detail_fetched(conn: sqlite3.Connection, patent_id: str) -> bool:
+    row = conn.execute("SELECT detail_fetched FROM patents WHERE id = ?", (patent_id,)).fetchone()
+    return bool(row and row[0] == 1)
+
+
+def set_patent_detail_fetched(conn: sqlite3.Connection, patent_id: str, fetched: bool = True) -> None:
+    conn.execute(
+        "UPDATE patents SET detail_fetched = ? WHERE id = ?",
+        (1 if fetched else 0, patent_id),
+    )
+
+
+def upsert_patent_right(
+    conn: sqlite3.Connection,
+    right_id: str,
+    patent_id: str,
+    *,
+    application_date: str | None = None,
+    application_number: str | None = None,
+    publication_date: str | None = None,
+    publication_number: str | None = None,
+    granting_institution_code: str | None = None,
+    granting_institution_name: str | None = None,
+    granting_institution_country: str | None = None,
+    protection_region_code: str | None = None,
+    protection_region_name: str | None = None,
+    priority_region: str | None = None,
+    priority_number: str | None = None,
+    link_radon: str | None = None,
+    link_uprp: str | None = None,
+    link_espacenet: str | None = None,
+    entity_showing_id: str | None = None,
+    entity_showing_name: str | None = None,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO patent_rights (
+            id, patent_id, application_date, application_number, publication_date,
+            publication_number, granting_institution_code, granting_institution_name,
+            granting_institution_country, protection_region_code, protection_region_name,
+            priority_region, priority_number, link_radon, link_uprp, link_espacenet,
+            entity_showing_id, entity_showing_name
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+          patent_id = excluded.patent_id,
+          application_date = COALESCE(excluded.application_date, patent_rights.application_date),
+          application_number = COALESCE(excluded.application_number, patent_rights.application_number),
+          publication_date = COALESCE(excluded.publication_date, patent_rights.publication_date),
+          publication_number = COALESCE(excluded.publication_number, patent_rights.publication_number),
+          granting_institution_code = COALESCE(
+              excluded.granting_institution_code, patent_rights.granting_institution_code
+          ),
+          granting_institution_name = COALESCE(
+              excluded.granting_institution_name, patent_rights.granting_institution_name
+          ),
+          granting_institution_country = COALESCE(
+              excluded.granting_institution_country, patent_rights.granting_institution_country
+          ),
+          protection_region_code = COALESCE(
+              excluded.protection_region_code, patent_rights.protection_region_code
+          ),
+          protection_region_name = COALESCE(
+              excluded.protection_region_name, patent_rights.protection_region_name
+          ),
+          priority_region = COALESCE(excluded.priority_region, patent_rights.priority_region),
+          priority_number = COALESCE(excluded.priority_number, patent_rights.priority_number),
+          link_radon = COALESCE(excluded.link_radon, patent_rights.link_radon),
+          link_uprp = COALESCE(excluded.link_uprp, patent_rights.link_uprp),
+          link_espacenet = COALESCE(excluded.link_espacenet, patent_rights.link_espacenet),
+          entity_showing_id = COALESCE(excluded.entity_showing_id, patent_rights.entity_showing_id),
+          entity_showing_name = COALESCE(excluded.entity_showing_name, patent_rights.entity_showing_name)
+        """,
+        (
+            right_id,
+            patent_id,
+            application_date,
+            application_number,
+            publication_date,
+            publication_number,
+            granting_institution_code,
+            granting_institution_name,
+            granting_institution_country,
+            protection_region_code,
+            protection_region_name,
+            priority_region,
+            priority_number,
+            link_radon,
+            link_uprp,
+            link_espacenet,
+            entity_showing_id,
+            entity_showing_name,
+        ),
+    )
+
+
+def list_patent_right_ids(conn: sqlite3.Connection, patent_id: str) -> list[str]:
+    return [
+        str(r[0])
+        for r in conn.execute(
+            "SELECT id FROM patent_rights WHERE patent_id = ? ORDER BY id",
+            (patent_id,),
+        ).fetchall()
+    ]
+
+
+def insert_profile_patent(conn: sqlite3.Connection, profile_id: str, patent_id: str) -> None:
+    conn.execute(
+        """
+        INSERT OR IGNORE INTO profile_patents (profile_id, patent_id)
+        VALUES (?, ?)
+        """,
+        (profile_id, patent_id),
+    )
+
+
+def insert_patent_right_authorship(
+    conn: sqlite3.Connection, profile_id: str, patent_right_id: str
+) -> None:
+    conn.execute(
+        """
+        INSERT OR IGNORE INTO patent_right_authorship (profile_id, patent_right_id)
+        VALUES (?, ?)
+        """,
+        (profile_id, patent_right_id),
+    )

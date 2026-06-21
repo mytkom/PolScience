@@ -58,6 +58,7 @@ def scientist_search_params(
     inst = (institution_id or "").strip()
     if inst:
         pairs.append(("institutionId", inst))
+        pairs.append(("onlyCurrent", True))
     return pairs
 
 

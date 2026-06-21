@@ -10,6 +10,7 @@ from ludzie_nauki.http_client import HttpClient, RadonClient
 from ludzie_nauki.pass1 import run_pass1, run_pass1_single_profile
 from ludzie_nauki.pass2 import run_pass2
 from ludzie_nauki.pass3 import run_pass3
+from ludzie_nauki.pass4 import run_pass4
 from ludzie_nauki.radon_queue import drain_radon_queue
 
 
@@ -35,8 +36,15 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Run Pass 3 only: enrich each is_stub=1 profile then ingest its publications; repeat rounds until none left",
     )
+    p.add_argument(
+        "--pass4-only",
+        action="store_true",
+        help="Run Pass 4 only: ingest projects and patents for all non-stub profiles",
+    )
     p.add_argument("--page-size", type=int, default=1000, help="scientistSearchData page size (default 1000)")
     p.add_argument("--pub-page-size", type=int, default=500, help="publications list page size (default 500)")
+    p.add_argument("--project-page-size", type=int, default=500, help="projects list page size (default 500)")
+    p.add_argument("--patent-page-size", type=int, default=500, help="patents list page size (default 500)")
     p.add_argument(
         "--domain",
         action="append",
@@ -206,9 +214,9 @@ def main(argv: list[str] | None = None) -> int:
             max_retries=ns.max_retries,
         )
     try:
-        only_sum = int(ns.pass1_only) + int(ns.pass2_only) + int(ns.pass3_only)
+        only_sum = int(ns.pass1_only) + int(ns.pass2_only) + int(ns.pass3_only) + int(ns.pass4_only)
         if only_sum > 1:
-            logging.error("choose at most one of --pass1-only / --pass2-only / --pass3-only")
+            logging.error("choose at most one of --pass1-only / --pass2-only / --pass3-only / --pass4-only")
             return 2
 
         single = (ns.single_profile or "").strip()
@@ -217,10 +225,11 @@ def main(argv: list[str] | None = None) -> int:
             return 2
 
         do_pass3 = ns.pass3_only
-        do_p1 = (not ns.pass2_only) and not do_pass3
-        do_p2 = (not ns.pass1_only) and not do_pass3
-        if radon_defer and ns.pass2_only:
-            logging.warning("Radon deferral ignored with --pass2-only (no Pass 1 employments)")
+        do_pass4 = ns.pass4_only
+        do_p1 = (not ns.pass2_only) and not do_pass3 and not do_pass4
+        do_p2 = (not ns.pass1_only) and not do_pass3 and not do_pass4
+        if radon_defer and (ns.pass2_only or ns.pass4_only):
+            logging.warning("Radon deferral ignored with --pass2-only / --pass4-only (no Pass 1 employments)")
 
         if single and ns.max_profiles is not None:
             logging.warning("--max-profiles ignored when --single-profile is set")
@@ -286,6 +295,17 @@ def main(argv: list[str] | None = None) -> int:
                 single_profile_id=single or None,
             )
             logging.info("Pass 2 processed %s profiles", n2)
+        if do_pass4:
+            n4 = run_pass4(
+                conn,
+                client,
+                domain_codes=None if single else domains,
+                discipline_codes=None if single else disciplines,
+                project_page_size=ns.project_page_size,
+                patent_page_size=ns.patent_page_size,
+                single_profile_id=single or None,
+            )
+            logging.info("Pass 4 processed %s profiles", n4)
     finally:
         if radon is not None:
             radon.close()
