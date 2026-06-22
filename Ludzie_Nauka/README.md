@@ -1,10 +1,10 @@
-### This code was created as PoC to scrape Ludzie Nauka website
+# This code was created as PoC to scrape Ludzie Nauka website
 
 URL of interest : https://ludzie.nauka.gov.pl/ln/
 And 
 Advanced research explained : https://ludzie.nauka.gov.pl/wp/pomoc/jak-korzystac-z-wyszukiwarki/
 
-# Ludzie Nauka Scraper
+## Ludzie Nauka Scraper
 
 This project scrapes academic profiles from the Polish science portal **ludzie.nauka.gov.pl** and stores the results in a structured **SQLite** database.
 
