@@ -1,4 +1,4 @@
-# This code was created as PoC to scrape Ludzie Nauka website
+# This code was created as a PoC to scrape Ludzie Nauka website
 
 URL of interest : https://ludzie.nauka.gov.pl/ln/
 And 
