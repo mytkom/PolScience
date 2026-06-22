@@ -1,3 +1,5 @@
+### This code was created as PoC to scrape Ludzie Nauka website
+
 URL of interest : https://ludzie.nauka.gov.pl/ln/
 And 
 Advanced research explained : https://ludzie.nauka.gov.pl/wp/pomoc/jak-korzystac-z-wyszukiwarki/
